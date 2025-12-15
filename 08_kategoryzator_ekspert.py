@@ -1,6 +1,13 @@
 import xml.etree.ElementTree as ET
 import json
 import requests
+import sys
+import os
+
+# Dodaj folder config do ścieżki importu
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(SCRIPT_DIR, 'config'))
+
 import config # Używamy nowego pliku konfiguracyjnego
 from config import MARGIN_PERCENT, COMMISSION_PERCENT, MINIMUM_PROFIT_PLN
 import re
@@ -11,12 +18,11 @@ import openai # Dodajemy import dla OpenAI
 import os # Dodajemy import os do obsługi ścieżek
 
 # --- Konfiguracja (teraz większość jest w config.py) ---
-# Budowanie ścieżek absolutnych na podstawie lokalizacji skryptu
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-XML_FILE = os.path.join(SCRIPT_DIR, "feed_cgrot.xml")
-CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "kategorie_olx.json")
-RAPORT_PLIK_CSV = os.path.join(SCRIPT_DIR, "raport_kategoryzacji.csv")
-SAMPLE_SIZE = 2 # Test weryfikacyjny
+# Budowanie ścieżek absolutnych - nowa struktura folderów
+XML_FILE = os.path.join(SCRIPT_DIR, "input", "feed_cgrot.xml")
+CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "input", "kategorie_olx.json")
+RAPORT_PLIK_CSV = os.path.join(SCRIPT_DIR, "output", "raport_kategoryzacji.csv")
+SAMPLE_SIZE = 5 # Test na większej próbie
 
 # --- Inicjalizacja klienta OpenAI (jeśli będzie używany) ---
 OPENAI_CLIENT = None
@@ -688,11 +694,12 @@ def main():
     all_results = []
 
     # --- Wczytywanie stanu przetworzonych produktów ---
-    PRZETWORZONE_PLIK = os.path.join(SCRIPT_DIR, "przetworzone_produkty.json")  # NOWY centralny plik
-    OPUBLIKOWANE_PLIK = os.path.join(SCRIPT_DIR, "opublikowane.json")
-    DO_WERYFIKACJI_PLIK = os.path.join(SCRIPT_DIR, "do_weryfikacji.json")
-    ODRZUCONE_API_PLIK = os.path.join(SCRIPT_DIR, "odrzucone_przez_api.json")
-    NIEKWALIFIKUJACE_SIE_PLIK = os.path.join(SCRIPT_DIR, "niekwalifikujace_sie.json")
+    STATE_DIR = os.path.join(SCRIPT_DIR, "state")
+    PRZETWORZONE_PLIK = os.path.join(STATE_DIR, "przetworzone_produkty.json")
+    OPUBLIKOWANE_PLIK = os.path.join(STATE_DIR, "opublikowane.json")
+    DO_WERYFIKACJI_PLIK = os.path.join(STATE_DIR, "do_weryfikacji.json")
+    ODRZUCONE_API_PLIK = os.path.join(STATE_DIR, "odrzucone_przez_api.json")
+    NIEKWALIFIKUJACE_SIE_PLIK = os.path.join(STATE_DIR, "niekwalifikujace_sie.json")
 
     przetworzone_id = wczytaj_przetworzone_id(PRZETWORZONE_PLIK)
 
@@ -700,7 +707,7 @@ def main():
         print(f"Znaleziono {len(przetworzone_id)} już przetworzonych produktów. Zostaną pominięte.")
         
     # --- Wczytywanie kategorii "Zapłać, jeśli sprzedasz" ---
-    ZAPLATA_JESLI_SPRZEDASZ_PLIK = os.path.join(SCRIPT_DIR, "zaplata_jesli_sprzedasz.json")
+    ZAPLATA_JESLI_SPRZEDASZ_PLIK = os.path.join(SCRIPT_DIR, "input", "zaplata_jesli_sprzedasz.json")
     try:
         with open(ZAPLATA_JESLI_SPRZEDASZ_PLIK, 'r', encoding='utf-8') as f:
             kategorie_platne = json.load(f)
@@ -908,13 +915,20 @@ Przykład odpowiedzi:
             
             time.sleep(1)
 
-    # --- Zapis do pliku CSV ---
+    # --- Zapis do pliku CSV (APPEND mode) ---
     if all_results:
         try:
-            with open(RAPORT_PLIK_CSV, 'w', newline='', encoding='utf-8-sig') as csvfile:
+            # Sprawdź czy plik istnieje i nie jest pusty
+            file_exists = os.path.isfile(RAPORT_PLIK_CSV) and os.path.getsize(RAPORT_PLIK_CSV) > 0
+            
+            with open(RAPORT_PLIK_CSV, 'a', newline='', encoding='utf-8-sig') as csvfile:
                 fieldnames = all_results[0].keys()
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
-                writer.writeheader()
+                
+                # Nagłówek tylko jeśli plik nowy lub pusty
+                if not file_exists:
+                    writer.writeheader()
+                
                 writer.writerows(all_results)
             print(f"\n--- ZAKOŃCZONO POMYŚLNIE ---")
             print(f"Zapisano raport do pliku: {RAPORT_PLIK_CSV}")
