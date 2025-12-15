@@ -256,7 +256,7 @@ def process_single_product(product, path_map, config_obj):
 
 Oto informacje o produkcie:
 - Tytuł: "{product['name']}"
-- Opis: "{clean_html(product['description'])[:2000]}"
+- Opis: "{clean_html(product['description'])[:5000]}"
 
 Oto pełne drzewo kategorii OLX w formacie JSON. Użyj go jako jedynego źródła prawdy. Zwróć uwagę na atrybut `"is_leaf": true`. Twoim celem jest zawsze dotarcie do kategorii, która ma ten atrybut.
 ```json
@@ -270,12 +270,6 @@ Wskazówka od systemu OLX (może być błędna, użyj jej tylko jako podpowiedzi
 2.  **Nawigacja w drzewie:** Przejdź po drzewie kategorii JSON, aby znaleźć najbardziej odpowiednią ścieżkę.
 3.  **Wymóg Końcowej Kategorii:** MUSISZ wybrać kategorię, która ma atrybut `"is_leaf": true`.
 4.  **Ocena Pewności:** Zastanów się, jak pewny jesteś swojego wyboru.
-
-⚠️ KRYTYCZNE OSTRZEŻENIA:
-- NIE MYLIJ kategorii fitness/sportowych z wędkarskimi! Ciężarki do ćwiczeń to NIE ciężarki wędkarskie!
-- Produkt "CIĘŻAREK ŻELIWNY" z opisem "ćwiczenia" / "trening" / "fitness" / "siłownia" = Sport i Hobby > Fitness > Sprzęt siłowy
-- Ciężarki wędkarskie = Wędkarstwo > Akcesoria wędkarskie > Ciężarki (TYLKO dla wędkarstwa!)
-- Jeśli produkt ma opis związany ze sportem/fitnesem, NIGDY nie wybieraj kategorii z Wędkarstwa!
 
 Zwróć odpowiedź WYŁĄCZNIE w formacie JSON z następującymi kluczami:
 - "kategoria_id": ID wybranej kategorii (jako integer).
@@ -422,7 +416,7 @@ def wybierz_dostawe_wedlug_regul(product_description, opcje_dostawy, config_obj,
         prompt_rozmiar = f"""Jesteś ekspertem logistycznym. Oceń rozmiar paczki dla produktu na podstawie jego opisu.
 
 Produkt: "{product_name}"
-Opis: "{product_description[:1500]}"
+Opis: "{product_description[:3000]}"
 
 Dostępne rozmiary Inpost Paczkomaty:
 - S: do 8 x 38 x 64 cm, max 25 kg (małe przedmioty: książki, ubrania, kosmetyki, drobna elektronika)
