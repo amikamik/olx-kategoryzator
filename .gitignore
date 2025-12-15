@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pliki tymczasowe i backupy
+*.bak
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Pliki wrażliwe (tokeny, hasła)
+config.py
+tokens.json
+.env
+
+# Pliki robocze
+do_weryfikacji.json
+niekwalifikujace_sie.json
+odrzucone_przez_api.json
+opublikowane.json
+sukces.json
+zaplata_jesli_sprzedasz.json
+przetworzone_produkty.json
+
+# Duże pliki feedów
+*.xml
+raport_kategoryzacji.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
