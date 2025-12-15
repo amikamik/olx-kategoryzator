@@ -16,7 +16,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 XML_FILE = os.path.join(SCRIPT_DIR, "feed_cgrot.xml")
 CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "kategorie_olx.json")
 RAPORT_PLIK_CSV = os.path.join(SCRIPT_DIR, "raport_kategoryzacji.csv")
-SAMPLE_SIZE = 2 # Test diagnostyczny
+SAMPLE_SIZE = 5 # Test iteracyjny
 
 # --- Inicjalizacja klienta OpenAI (jeśli będzie używany) ---
 OPENAI_CLIENT = None
@@ -409,31 +409,35 @@ def wybierz_dostawe_wedlug_regul(product_description, opcje_dostawy, config_obj,
     wybrane_kody = []
     szczegoly_wyborow = []
     
-    # REGUŁA 1: Inpost (jeśli dostępny)
-    if opcje_inpost:
-        print("    │  ├─ Znaleziono opcję: Nadanie i odbiór w punkcie")
-        # AI ocenia rozmiar dla Inpost
-        prompt_rozmiar = f"""Jesteś ekspertem logistycznym. Oceń rozmiar paczki dla produktu na podstawie jego opisu.
+    # AI ocenia rozmiary dla OBU opcji jednocześnie (Inpost + DPD)
+    if opcje_inpost or opcje_dpd:
+        prompt_rozmiary = f"""Jesteś ekspertem logistycznym. Oceń rozmiar paczki dla produktu na podstawie jego opisu i wybierz odpowiednie rozmiary dla OBU opcji dostawy.
 
 Produkt: "{product_name}"
 Opis: "{product_description[:3000]}"
 
-Dostępne rozmiary Inpost Paczkomaty:
-- S: do 8 x 38 x 64 cm, max 25 kg (małe przedmioty: książki, ubrania, kosmetyki, drobna elektronika)
-- M: do 19 x 38 x 64 cm, max 25 kg (średnie przedmioty: buty, elektronika, odzież, dmuchane piłki)
-- L: do 41 x 38 x 64 cm, max 25 kg (większe przedmioty: małe AGD, zabawki, większe produkty sportowe)
+OPCJA 1 - Inpost Paczkomaty (nadanie i odbiór w punkcie):
+- S: do 8 x 38 x 64 cm, max 25 kg (małe: książki, ubrania, kosmetyki)
+- M: do 19 x 38 x 64 cm, max 25 kg (średnie: buty, elektronika, dmuchane piłki)
+- L: do 41 x 38 x 64 cm, max 25 kg (większe: małe AGD, zabawki, większe produkty sportowe)
+
+OPCJA 2 - DPD Kurier (dostawa na adres):
+- S/M: do 60 x 35 x 35 cm, max 31.5 kg (małe i średnie przedmioty)
+- L: do 80 x 40 x 40 cm, max 31.5 kg (większe przedmioty)
+- XL: do 120 x 60 x 60 cm, max 31.5 kg (duże przedmioty)
 
 WAŻNE ZASADY:
-1. Produkty DMUCHANE (piłki, materace) lub SKŁADANE - oceniaj w stanie SPAKOWANYM (nie napompowanym)
-2. Produkty z opisem "kompaktowy", "składany", "dmuchany" - zazwyczaj mieszczą się w rozmiarze M lub L
-3. Jeśli masz JAKIEKOLWIEK wątpliwości, wybierz rozmiar L (największy dostępny)
-4. Rozmiar XL pomijamy - nie jest dostępny dla tego typu przesyłek
+1. Produkty DMUCHANE/SKŁADANE - oceniaj w stanie SPAKOWANYM (nie napompowanym)
+2. Jeśli wątpliwości - wybierz większy rozmiar
+3. Inpost: NIE używaj XL (nie istnieje), zawsze S/M/L
+4. DPD: może być S/M, L lub XL
 
-Zwróć TYLKO JSON z kluczem "rozmiar" o wartości "S", "M" lub "L". NIE używaj wartości "ZBYT_DUZY" - zawsze wybierz największy dostępny rozmiar L jeśli produkt może być na granicy.
+Zwróć JSON z dwoma kluczami:
+{{"rozmiar_inpost": "S|M|L", "rozmiar_dpd": "S/M|L|XL"}}
 """
         
         llm_response = call_llm_api(
-            prompt=prompt_rozmiar,
+            prompt=prompt_rozmiary,
             provider=config_obj.ACTIVE_LLM_PROVIDER,
             model_name=config_obj.GEMINI_MODEL_NAME if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" else config_obj.OPENAI_MODEL_NAME,
             api_key=config_obj.GEMINI_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" else config_obj.OPENAI_API_KEY,
@@ -442,68 +446,66 @@ Zwróć TYLKO JSON z kluczem "rozmiar" o wartości "S", "M" lub "L". NIE używaj
         
         if llm_response:
             try:
-                rozmiar_data = json.loads(llm_response)
-                rozmiar = rozmiar_data.get('rozmiar', 'L')  # Domyślnie L jeśli brak
-                print(f"    │  │  [DEBUG] AI wybrało rozmiar: {rozmiar}")
+                rozmiary_data = json.loads(llm_response)
+                rozmiar_inpost = rozmiary_data.get('rozmiar_inpost', 'L')
+                rozmiar_dpd = rozmiary_data.get('rozmiar_dpd', 'L')
+                print(f"    │  │  [DEBUG] AI wybrało rozmiary - Inpost: {rozmiar_inpost}, DPD: {rozmiar_dpd}")
                 
-                # ZABEZPIECZENIE: Zawsze dodajemy przesyłkę, nawet jeśli AI uzna za za dużą
-                if rozmiar in ['S', 'M', 'L'] and rozmiar in opcje_inpost:
-                    wybrany_kod = opcje_inpost[rozmiar]
-                    wybrane_kody.append(wybrany_kod)
-                    szczegoly_wyborow.append(f"Inpost {rozmiar}")
-                    print(f"    │  │  └─ ✓ Wybrano: Inpost rozmiar {rozmiar}")
-                    print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod}")
-                else:
-                    # Jeśli AI zwraca nieobsługiwany rozmiar, dodajemy L (lub największy dostępny)
-                    if 'L' in opcje_inpost:
-                        wybrany_kod = opcje_inpost['L']
-                        rozmiar_fallback = 'L'
-                    elif 'M' in opcje_inpost:
-                        wybrany_kod = opcje_inpost['M']
-                        rozmiar_fallback = 'M'
+                # Obsługa Inpost
+                if opcje_inpost:
+                    print("    │  ├─ Znaleziono opcję: Nadanie i odbiór w punkcie")
+                    if rozmiar_inpost in opcje_inpost:
+                        wybrany_kod = opcje_inpost[rozmiar_inpost]
+                        wybrane_kody.append(wybrany_kod)
+                        szczegoly_wyborow.append(f"Inpost {rozmiar_inpost}")
+                        print(f"    │  │  └─ ✓ Wybrano: Inpost rozmiar {rozmiar_inpost}")
+                        print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod}")
                     else:
-                        wybrany_kod = opcje_inpost['S']
-                        rozmiar_fallback = 'S'
-                    
+                        # Fallback na największy dostępny
+                        rozmiar_fallback = 'L' if 'L' in opcje_inpost else ('M' if 'M' in opcje_inpost else 'S')
+                        wybrany_kod = opcje_inpost[rozmiar_fallback]
+                        wybrane_kody.append(wybrany_kod)
+                        szczegoly_wyborow.append(f"Inpost {rozmiar_fallback}")
+                        print(f"    │  │  └─ ⚠ AI zwróciło '{rozmiar_inpost}' - wymuszam Inpost {rozmiar_fallback}")
+                        print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod}")
+                
+                # Obsługa DPD
+                if opcje_dpd:
+                    print("    │  ├─ Znaleziono opcję: Dostawa na adres")
+                    if rozmiar_dpd in opcje_dpd:
+                        wybrany_kod_dpd = opcje_dpd[rozmiar_dpd]
+                        wybrane_kody.append(wybrany_kod_dpd)
+                        szczegoly_wyborow.append(f"DPD {rozmiar_dpd}")
+                        print(f"    │  │  └─ ✓ Wybrano: DPD {rozmiar_dpd}")
+                        print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod_dpd}")
+                    else:
+                        # Fallback na największy dostępny
+                        rozmiar_fallback_dpd = 'XL' if 'XL' in opcje_dpd else ('L' if 'L' in opcje_dpd else 'S/M')
+                        wybrany_kod_dpd = opcje_dpd[rozmiar_fallback_dpd]
+                        wybrane_kody.append(wybrany_kod_dpd)
+                        szczegoly_wyborow.append(f"DPD {rozmiar_fallback_dpd}")
+                        print(f"    │  │  └─ ⚠ AI zwróciło '{rozmiar_dpd}' - wymuszam DPD {rozmiar_fallback_dpd}")
+                        print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod_dpd}")
+                        
+            except json.JSONDecodeError:
+                # Błąd parsowania - fallback na największe dostępne rozmiary
+                if opcje_inpost:
+                    print("    │  ├─ Znaleziono opcję: Nadanie i odbiór w punkcie")
+                    rozmiar_fallback = 'L' if 'L' in opcje_inpost else ('M' if 'M' in opcje_inpost else 'S')
+                    wybrany_kod = opcje_inpost[rozmiar_fallback]
                     wybrane_kody.append(wybrany_kod)
                     szczegoly_wyborow.append(f"Inpost {rozmiar_fallback}")
-                    print(f"    │  │  └─ ⚠ AI zwróciło '{rozmiar}' - wymuszam Inpost {rozmiar_fallback} (największy dostępny)")
+                    print(f"    │  │  └─ ⚠ Błąd parsowania AI - wymuszam Inpost {rozmiar_fallback}")
                     print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod}")
-            except json.JSONDecodeError:
-                # Błąd parsowania - dodajemy największy dostępny rozmiar
-                if 'L' in opcje_inpost:
-                    wybrany_kod = opcje_inpost['L']
-                    rozmiar_fallback = 'L'
-                elif 'M' in opcje_inpost:
-                    wybrany_kod = opcje_inpost['M']
-                    rozmiar_fallback = 'M'
-                else:
-                    wybrany_kod = opcje_inpost['S']
-                    rozmiar_fallback = 'S'
                 
-                wybrane_kody.append(wybrany_kod)
-                szczegoly_wyborow.append(f"Inpost {rozmiar_fallback}")
-                print(f"    │  │  └─ ⚠ Błąd parsowania AI - wymuszam Inpost {rozmiar_fallback} (domyślny)")
-                print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod}")
-    
-    # REGUŁA 2: DPD (jeśli dostępny) - ZAWSZE DODAJEMY
-    if opcje_dpd:
-        print("    │  ├─ Znaleziono opcję: Dostawa na adres")
-        # Dla DPD wybieramy największy dostępny rozmiar
-        if 'XL' in opcje_dpd:
-            wybrany_kod_dpd = opcje_dpd['XL']
-            rozmiar_dpd = 'XL'
-        elif 'L' in opcje_dpd:
-            wybrany_kod_dpd = opcje_dpd['L']
-            rozmiar_dpd = 'L'
-        else:
-            wybrany_kod_dpd = opcje_dpd['S/M']
-            rozmiar_dpd = 'S/M'
-        
-        wybrane_kody.append(wybrany_kod_dpd)
-        szczegoly_wyborow.append(f"DPD {rozmiar_dpd}")
-        print(f"    │  │  └─ ✓ Wybrano: DPD {rozmiar_dpd}")
-        print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod_dpd}")
+                if opcje_dpd:
+                    print("    │  ├─ Znaleziono opcję: Dostawa na adres")
+                    rozmiar_fallback_dpd = 'XL' if 'XL' in opcje_dpd else ('L' if 'L' in opcje_dpd else 'S/M')
+                    wybrany_kod_dpd = opcje_dpd[rozmiar_fallback_dpd]
+                    wybrane_kody.append(wybrany_kod_dpd)
+                    szczegoly_wyborow.append(f"DPD {rozmiar_fallback_dpd}")
+                    print(f"    │  │  └─ ⚠ Błąd parsowania AI - wymuszam DPD {rozmiar_fallback_dpd}")
+                    print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod_dpd}")
     
     if wybrane_kody:
         print(f"    │  └─ Podsumowanie: {', '.join(szczegoly_wyborow)}")
