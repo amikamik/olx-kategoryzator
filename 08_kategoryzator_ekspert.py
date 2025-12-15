@@ -16,7 +16,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 XML_FILE = os.path.join(SCRIPT_DIR, "feed_cgrot.xml")
 CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "kategorie_olx.json")
 RAPORT_PLIK_CSV = os.path.join(SCRIPT_DIR, "raport_kategoryzacji.csv")
-SAMPLE_SIZE = 5 # Test iteracyjny
+SAMPLE_SIZE = 2 # Test weryfikacyjny
 
 # --- Inicjalizacja klienta OpenAI (jeśli będzie używany) ---
 OPENAI_CLIENT = None
