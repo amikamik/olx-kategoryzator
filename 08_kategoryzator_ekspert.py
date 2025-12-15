@@ -297,6 +297,43 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON z następującymi kluczami:
     final_id = llm_choice.get('kategoria_id')
     final_path = path_map.get(final_id, 'Błędne ID kategorii od AI') if isinstance(final_id, int) else 'Brak ID od AI'
     
+    # WERYFIKACJA SPÓJNOŚCI: Sprawdzamy czy AI nie pomyliło ID z uzasadnieniem
+    uzasadnienie = llm_choice.get('uzasadnienie', '')
+    if isinstance(final_id, int) and uzasadnienie:
+        # Szukamy w uzasadnieniu wspomnianych kategorii/ścieżek
+        # Jeśli uzasadnienie wspomina INNĄ kategorię niż ta z ID, może być błąd
+        import difflib
+        
+        # Sprawdzamy czy ścieżka z final_path występuje w uzasadnieniu
+        if final_path != 'Błędne ID kategorii od AI':
+            final_path_parts = final_path.split(' > ')
+            final_category_name = final_path_parts[-1] if final_path_parts else ''
+            
+            # Jeśli nazwa końcowej kategorii w ogóle nie występuje w uzasadnieniu
+            # to może być znak że AI wybrało złe ID
+            if final_category_name and final_category_name.lower() not in uzasadnienie.lower():
+                # Szukamy w path_map kategorii, która pasuje do uzasadnienia
+                best_match_score = 0
+                best_match_id = None
+                best_match_path = None
+                
+                for cat_id, cat_path in path_map.items():
+                    # Sprawdzamy ile fragmentów ścieżki występuje w uzasadnieniu
+                    path_parts = cat_path.split(' > ')
+                    match_score = sum(1 for part in path_parts if part.lower() in uzasadnienie.lower())
+                    
+                    if match_score > best_match_score and match_score >= 2:  # Minimum 2 dopasowania
+                        best_match_score = match_score
+                        best_match_id = cat_id
+                        best_match_path = cat_path
+                
+                # Jeśli znaleźliśmy lepiej pasującą kategorię, używamy jej
+                if best_match_id and best_match_id != final_id:
+                    print(f"⚠ WYKRYTO NIESPÓJNOŚĆ: AI zwróciło ID {final_id} ({final_path}), ale uzasadnienie wskazuje na {best_match_path}")
+                    print(f"  └─ Automatyczna korekta: używam ID {best_match_id}")
+                    final_id = best_match_id
+                    final_path = best_match_path
+    
     # Formatowanie pewności
     try:
         pewnosc_int = int(llm_choice.get('pewnosc', 0))
@@ -366,13 +403,17 @@ Produkt: "{product_name}"
 Opis: "{product_description[:1500]}"
 
 Dostępne rozmiary Inpost Paczkomaty:
-- S: do 8 x 38 x 64 cm, max 25 kg (małe przedmioty: książki, ubrania, kosmetyki)
-- M: do 19 x 38 x 64 cm, max 25 kg (średnie przedmioty: buty, elektronika)
-- L: do 41 x 38 x 64 cm, max 25 kg (większe przedmioty: małe AGD, zabawki)
+- S: do 8 x 38 x 64 cm, max 25 kg (małe przedmioty: książki, ubrania, kosmetyki, drobna elektronika)
+- M: do 19 x 38 x 64 cm, max 25 kg (średnie przedmioty: buty, elektronika, odzież, dmuchane piłki)
+- L: do 41 x 38 x 64 cm, max 25 kg (większe przedmioty: małe AGD, zabawki, większe produkty sportowe)
 
-UWAGA: Rozmiar XL pomijamy - nie jest dostępny dla tego typu przesyłek.
+WAŻNE ZASADY:
+1. Produkty DMUCHANE (piłki, materace) lub SKŁADANE - oceniaj w stanie SPAKOWANYM (nie napompowanym)
+2. Produkty z opisem "kompaktowy", "składany", "dmuchany" - zazwyczaj mieszczą się w rozmiarze M lub L
+3. Jeśli masz JAKIEKOLWIEK wątpliwości, wybierz rozmiar L (największy dostępny)
+4. Rozmiar XL pomijamy - nie jest dostępny dla tego typu przesyłek
 
-Zwróć TYLKO JSON z kluczem "rozmiar" o wartości "S", "M" lub "L". Jeśli produkt jest za duży na rozmiar L, zwróć "ZBYT_DUZY".
+Zwróć TYLKO JSON z kluczem "rozmiar" o wartości "S", "M" lub "L". NIE używaj wartości "ZBYT_DUZY" - zawsze wybierz największy dostępny rozmiar L jeśli produkt może być na granicy.
 """
         
         llm_response = call_llm_api(
@@ -386,24 +427,31 @@ Zwróć TYLKO JSON z kluczem "rozmiar" o wartości "S", "M" lub "L". Jeśli prod
         if llm_response:
             try:
                 rozmiar_data = json.loads(llm_response)
-                rozmiar = rozmiar_data.get('rozmiar', 'ZBYT_DUZY')
+                rozmiar = rozmiar_data.get('rozmiar', 'L')  # Domyślnie L jeśli brak
                 
+                # ZABEZPIECZENIE: Zawsze dodajemy przesyłkę, nawet jeśli AI uzna za za dużą
                 if rozmiar in ['S', 'M', 'L']:
                     wybrane_kody.append(opcja_punkt['code'])
                     szczegoly_wyborow.append(f"Inpost {rozmiar}")
                     print(f"    │  │  └─ ✓ Wybrano: Inpost rozmiar {rozmiar}")
                 else:
-                    print(f"    │  │  └─ ✗ Produkt za duży na Inpost (ocena AI: {rozmiar})")
+                    # Jeśli AI zwraca ZBYT_DUZY, dodajemy największy dostępny rozmiar L
+                    wybrane_kody.append(opcja_punkt['code'])
+                    szczegoly_wyborow.append(f"Inpost L")
+                    print(f"    │  │  └─ ⚠ AI zwróciło '{rozmiar}' - wymuszam Inpost L (największy dostępny)")
             except json.JSONDecodeError:
-                print("    │  │  └─ ✗ Błąd parsowania odpowiedzi AI dla Inpost")
+                # Błąd parsowania - dodajemy rozmiar L jako zabezpieczenie
+                wybrane_kody.append(opcja_punkt['code'])
+                szczegoly_wyborow.append(f"Inpost L")
+                print("    │  │  └─ ⚠ Błąd parsowania AI - wymuszam Inpost L (domyślny)")
     
-    # REGUŁA 2: DPD (jeśli dostępny)
+    # REGUŁA 2: DPD (jeśli dostępny) - ZAWSZE DODAJEMY
     if opcja_adres:
         print("    │  ├─ Znaleziono opcję: Dostawa na adres")
-        # Dla DPD zawsze dodajemy, bo kurier obsługuje różne rozmiary
+        # Dla DPD zawsze dodajemy, bo kurier obsługuje różne rozmiary (bez ograniczeń jak paczkomat)
         wybrane_kody.append(opcja_adres['code'])
         szczegoly_wyborow.append("DPD")
-        print("    │  │  └─ ✓ Wybrano: DPD (dostawa kurierem)")
+        print("    │  │  └─ ✓ Wybrano: DPD (dostawa kurierem - bez ograniczeń rozmiaru)")
     
     if wybrane_kody:
         print(f"    │  └─ Podsumowanie: {', '.join(szczegoly_wyborow)}")
