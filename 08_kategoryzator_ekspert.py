@@ -16,7 +16,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 XML_FILE = os.path.join(SCRIPT_DIR, "feed_cgrot.xml")
 CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "kategorie_olx.json")
 RAPORT_PLIK_CSV = os.path.join(SCRIPT_DIR, "raport_kategoryzacji.csv")
-SAMPLE_SIZE = 10 # Ilość produktów do przetworzenia (zmienione na 2 dla testowania)
+SAMPLE_SIZE = 2 # Test diagnostyczny
 
 # --- Inicjalizacja klienta OpenAI (jeśli będzie używany) ---
 OPENAI_CLIENT = None
@@ -271,6 +271,12 @@ Wskazówka od systemu OLX (może być błędna, użyj jej tylko jako podpowiedzi
 3.  **Wymóg Końcowej Kategorii:** MUSISZ wybrać kategorię, która ma atrybut `"is_leaf": true`.
 4.  **Ocena Pewności:** Zastanów się, jak pewny jesteś swojego wyboru.
 
+⚠️ KRYTYCZNE OSTRZEŻENIA:
+- NIE MYLIJ kategorii fitness/sportowych z wędkarskimi! Ciężarki do ćwiczeń to NIE ciężarki wędkarskie!
+- Produkt "CIĘŻAREK ŻELIWNY" z opisem "ćwiczenia" / "trening" / "fitness" / "siłownia" = Sport i Hobby > Fitness > Sprzęt siłowy
+- Ciężarki wędkarskie = Wędkarstwo > Akcesoria wędkarskie > Ciężarki (TYLKO dla wędkarstwa!)
+- Jeśli produkt ma opis związany ze sportem/fitnesem, NIGDY nie wybieraj kategorii z Wędkarstwa!
+
 Zwróć odpowiedź WYŁĄCZNIE w formacie JSON z następującymi kluczami:
 - "kategoria_id": ID wybranej kategorii (jako integer).
 - "pewnosc": Twoja ocena pewności (jako liczba całkowita od 0 do 100).
@@ -374,6 +380,7 @@ def wybierz_dostawe_wedlug_regul(product_description, opcje_dostawy, config_obj,
     AI ocenia tylko ROZMIAR paczki na podstawie opisu produktu.
     """
     print("    ├─ Analiza opcji dostawy...")
+    print(f"    │  │  [DEBUG] Otrzymane opcje dostawy z API: {json.dumps(opcje_dostawy, indent=2, ensure_ascii=False)}")
     
     # Identyfikacja dostępnych opcji
     opcja_punkt = None  # Nadanie i odbiór w punkcie (Inpost)
@@ -428,12 +435,15 @@ Zwróć TYLKO JSON z kluczem "rozmiar" o wartości "S", "M" lub "L". NIE używaj
             try:
                 rozmiar_data = json.loads(llm_response)
                 rozmiar = rozmiar_data.get('rozmiar', 'L')  # Domyślnie L jeśli brak
+                print(f"    │  │  [DEBUG] AI wybrało rozmiar: {rozmiar}")
+                print(f"    │  │  [DEBUG] Kod opcji punkt: {opcja_punkt['code']}")
                 
                 # ZABEZPIECZENIE: Zawsze dodajemy przesyłkę, nawet jeśli AI uzna za za dużą
                 if rozmiar in ['S', 'M', 'L']:
                     wybrane_kody.append(opcja_punkt['code'])
                     szczegoly_wyborow.append(f"Inpost {rozmiar}")
                     print(f"    │  │  └─ ✓ Wybrano: Inpost rozmiar {rozmiar}")
+                    print(f"    │  │  [DEBUG] Dodano do wybrane_kody: {opcja_punkt['code']}")
                 else:
                     # Jeśli AI zwraca ZBYT_DUZY, dodajemy największy dostępny rozmiar L
                     wybrane_kody.append(opcja_punkt['code'])
@@ -491,9 +501,11 @@ def opublikuj_ogloszenie_na_olx(produkt, kategoria_id, wybrane_atrybuty, wybrane
         advert_data["ad_delivery"] = {
             "delivery_package_ids": wybrane_kody_dostawy
         }
+        print(f"[DEBUG] Payload ad_delivery: {json.dumps(advert_data['ad_delivery'], indent=2, ensure_ascii=False)}")
     # --- KONIEC LOGIKI DOSTAWY ---
 
     # Krok 2: Wysłanie danych i obsługa odpowiedzi
+    print(f"[DEBUG] PEŁNY PAYLOAD DO API OLX:\n{json.dumps(advert_data, indent=2, ensure_ascii=False)}")
     api_url = "https://www.olx.pl/api/partner/adverts"
     headers = {
         "Authorization": f"Bearer {config_obj.ACCESS_TOKEN}",
