@@ -83,8 +83,11 @@ jobs:
           MARGIN_PERCENT = 0.20
           COMMISSION_PERCENT = 0.12
           MINIMUM_PROFIT_PLN = 10.0
-          CENA_MIN = 50
-          CENA_MAX = 500
+          CENA_MIN = 1.0
+          CENA_MAX = 50.0
+          
+          # --- Parametry kategoryzacji ---
+          MINIMALNA_PEWNOSC = 80
           
           # Cache dla drzewa kategorii (wypełniane dynamicznie)
           CATEGORY_TREE_JSON_STR = ""
