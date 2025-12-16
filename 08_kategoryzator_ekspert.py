@@ -807,6 +807,18 @@ def main():
             
             report_line, llm_choice = process_single_product(product, path_map, config)
             all_results.append(report_line)
+            
+            # Zapis do CSV po każdym produkcie (APPEND mode)
+            try:
+                file_exists = os.path.isfile(RAPORT_PLIK_CSV) and os.path.getsize(RAPORT_PLIK_CSV) > 0
+                with open(RAPORT_PLIK_CSV, 'a', newline='', encoding='utf-8-sig') as csvfile:
+                    fieldnames = report_line.keys()
+                    writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
+                    if not file_exists:
+                        writer.writeheader()
+                    writer.writerow(report_line)
+            except IOError as e:
+                print(f"│  └─ ⚠ Błąd zapisu do CSV: {e}")
 
             pewnosc_int = int(llm_choice.get('pewnosc', 0))
             print(f"│  └─ Pewność: {pewnosc_int}%")
@@ -954,28 +966,9 @@ Przykład odpowiedzi:
             
             time.sleep(1)
 
-    # --- Zapis do pliku CSV (APPEND mode) ---
+    print("\n--- ZAKOŃCZONO POMYŚLNIE ---")
     if all_results:
-        try:
-            # Sprawdź czy plik istnieje i nie jest pusty
-            file_exists = os.path.isfile(RAPORT_PLIK_CSV) and os.path.getsize(RAPORT_PLIK_CSV) > 0
-            
-            with open(RAPORT_PLIK_CSV, 'a', newline='', encoding='utf-8-sig') as csvfile:
-                fieldnames = all_results[0].keys()
-                writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
-                
-                # Nagłówek tylko jeśli plik nowy lub pusty
-                if not file_exists:
-                    writer.writeheader()
-                
-                writer.writerows(all_results)
-            print(f"\n--- ZAKOŃCZONO POMYŚLNIE ---")
-            print(f"Zapisano raport do pliku: {RAPORT_PLIK_CSV}")
-        except (IOError, IndexError) as e:
-            print(f"\nBŁĄD podczas zapisu do pliku CSV: {e}")
-    else:
-        print("\nNie wygenerowano żadnych wyników do zapisu.")
-
+        print(f"Raport zapisany w: {RAPORT_PLIK_CSV}")
     print("\nZakończono działanie skryptu.")
 if __name__ == "__main__":
     main()
