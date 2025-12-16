@@ -68,5 +68,365 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "92%",
         "Uzasadnienie_AI": "Produkt to gryf prosty (barbell) używany w treningach siłowych. Najbardziej precyzyjna leafowa kategoria to Sprzęt fitness > Sprzęt siłowy > Gryfy, której atrybut is_leaf = true, odpowiada więc opisowi i specyfikacji (średnica 30 mm, długość 35 cm, zestaw zacisków)."
+    },
+    {
+        "ID_Produktu": "460",
+        "Nazwa_Produktu": "THM01 TALERZ HAMMERTONE 1.25 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Talerze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Talerz Hammond (weight plate) o wadze 1.25 kg to akcesorium do treningu siłowego/gym. Najbliższa leafowa kategoria to Obciążenia w sekcji Sprzęt siłowy (Sport i Hobby), co dobrze odzwierciedla charakter produktu i jego przeznaczenie."
+    },
+    {
+        "ID_Produktu": "475",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 0.75 KG",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Tytuł i opis sugerują produkt będący hantlą/ciężarkiem żelaznym pokrytym winylem o wadze 0.75 kg. Najbardziej odpowiednia leaf w drzewie OLX to Hantel (ID 4337) w gałęzi Sport i Hobby -> Sprzęt siłowy. Wybrałem tę kategorię, ponieważ jest najbardziej precyzyjna dla hantli/ciężarków i wyróżnia ją spośród innych podkategorii (np. Obciążenia, Sztangi)."
+    },
+    {
+        "ID_Produktu": "515",
+        "Nazwa_Produktu": "17025 CIĘŻAREK ŻELIWNY POKRYTY NEOPRENEM 1.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Tytuł i opis sugerują ciężarek żeliwny o wadze 1 kg, pokryty neoprenem, przeznaczony do domowego treningu (sprzęt siłowy). Najtrafniejszą leaf kategorią w drzewie OLX dla takich produktów jest Obciążenia, będąca częścią Sprzętu siłowego w sekcji Sport i Hobby > Fitness. id leaf: 4339."
+    },
+    {
+        "ID_Produktu": "516",
+        "Nazwa_Produktu": "17025 CIĘŻAREK ŻELIWNY POKRYTY NEOPRENEM 1.5 KG",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Tytuł i opis identyfikują ciężarek żeliwny pokryty neoprenem o wadze 1,5 kg, przeznaczony do treningu siłowego w domu. W drzewie OLX odpowiada mu leżąca pod ścieżką Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia (leaf 4339). To jedyne wyraźnie leafujące 'obciążenia' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "600",
+        "Nazwa_Produktu": "H108 ROZM. S CZARNY ZESTAW OCHRANIACZY",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalne_ID_AI": 4294,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw ochraniaczy na nadgarstki, łokcie i kolana. W drzewie OLX leaf dla ochraniaczy znajduje się jako 'Ochraniacze i owijki' (id 4294), będący podkategorą 'Akcesoria' w 'Akcesoria jeździeckie' w sekcji 'Sport i Hobby'. Wybrałem ten leaf, bo odpowiada definicji i jest oznaczony jako is_leaf: true."
+    },
+    {
+        "ID_Produktu": "638",
+        "Nazwa_Produktu": "TX02 ZESTAW DO ĆWICZEŃ SIŁOWYCH",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Zestawy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Zestawy",
+        "Finalne_ID_AI": 4341,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to zestaw do ćwiczeń siłowych zawierający gumy oporowe o różnym obciążeniu, uchwyty, opaski, uchwyty do drzwi i skakankę. Najbardziej odpowiednia leaf kategoria to 'Zestawy' w gałęzi Sprzęt siłowy (Sport i Hobby), co potwierdza is_leaf: true dla id 4341."
+    },
+    {
+        "ID_Produktu": "639",
+        "Nazwa_Produktu": "TX01 ZESTAW DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Zestawy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Zestawy",
+        "Finalne_ID_AI": 4341,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to zestaw do ćwiczeń siłowych (gumy oporowe, uchwyty, uchwyt na drzwi, itp.). Najbardziej pasująca kategoria to leaf 'Zestawy' w gałęzi Sprzęt siłowy (Sport i Hobby > Fitness > Sprzęt siłowy > Zestawy), co odpowiada strukturze kategorii OLX."
+    },
+    {
+        "ID_Produktu": "693",
+        "Nazwa_Produktu": "OB03 NIEBIESKIE OBCIĄŻNIKI 2 x 1.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to obciążniki (2×1,5 kg) używane w treningu siłowym/fitness (np. pilates, aerobik) i mają zapięcia na rzepy, co odpowiada leaf kategorii Obciążenia (id 4339) w gałęzi Sprzęt siłowy/Sport i Hobby. Zgoda z sugerowaną ścieżką OLX: Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia."
+    },
+    {
+        "ID_Produktu": "694",
+        "Nazwa_Produktu": "OB03 CZERWONE OBCIĄŻNIKI 2 x 1.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążniki treningowe/fitness (obciążniki na nadgarstki/kostki z zapięciem na rzep). Najbardziej odpowiednia kategoria to leaf 'Obciążenia' w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia. Tytuł opis wskazują konkretny typ produktu, co potwierdza wybór kategorii 4339. Pewność oceniana na 95%."
+    },
+    {
+        "ID_Produktu": "714",
+        "Nazwa_Produktu": "H108 ROZM. L CIEMNY NIEBIESKI  ZESTAW OCHRANIACZY",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalne_ID_AI": 4294,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Zestaw ochraniaczy na nadgarstki, łokcie i kolana to ochronne wyposażenie sportowe. Najbliższą leżącą kategorią-leaf w drzewie jest 'Ochraniacze i owijki' (id 4294), która odpowiada specyfice produktu i spełnia warunek bycia liściem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "842",
+        "Nazwa_Produktu": "H210 CZARNO-MIĘTOWY ROZM. XS  ZESTAW OCHRANIACZY NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalne_ID_AI": 4294,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw ochraniaczy na nadgarstki, łokcie i kolana (zastosowanie sportowe). Najbardziej adekwatna leaf kategoria to Ochraniacze i owijki (Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki)."
+    },
+    {
+        "ID_Produktu": "887",
+        "Nazwa_Produktu": "KZG 4 KG KETTLEBELL ŻELIWNY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Kettlebell to obciążenie używane w treningach siłowych. W strukturze OLX kettlebell trafia do leaf kategorii Obciążenia, będącej częścią Sprzętu siłowego w sekcji Sport i Hobby > Fitness."
+    },
+    {
+        "ID_Produktu": "935",
+        "Nazwa_Produktu": "PU 76x24 82A CZARNE kółka (4 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Koła i obręcze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Opony i Felgi > Koła",
+        "Finalne_ID_AI": 1387,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw kół PU 76x24 mm o twardości 82A (typowe dla wrotków/rolk), czyli bezpośrednio odpowiada kategorii Koła. Najbardziej odpowiadająca leaf znajduje się w gałęzi Motoryzacja -> Opony i Felgi -> Koła (id 1387). Wybrałem tę kategorię jako najbliższą dosłownej charakterystyce produktu (koła, czarne, PU 82A, 4 szt.)."
+    },
+    {
+        "ID_Produktu": "940",
+        "Nazwa_Produktu": "PU 70x24 82A BIAŁE KÓŁKA (4 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Opony i dętki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Opony i Felgi > Koła",
+        "Finalne_ID_AI": 1387,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Tytuł i opis wskazują na kółka PU o wymiarach 70x24 mm i twardości 82A. W strukturze OLX leaf kategorii odpowiadającej kołom znajduje się 'Koła' (id 1387) jako jedno z podkategorii 'Opony i Felgi'. Brak wyższej, leafowej gałęzi dedykowanej konkretnie kołom poliuretanowym w podanej hierarchii powoduje wybór najbliższej leafowej kategorii 'Koła'. Potwierdzają to parametry (materiał PU, rozmiar) z opisu."
+    },
+    {
+        "ID_Produktu": "942",
+        "Nazwa_Produktu": "PU 76x24 82A BIAŁE KÓŁKA (4 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Samochody i pojazdy",
+        "Finalna_Sciezka_AI": "Motoryzacja > Opony i Felgi > Koła",
+        "Finalne_ID_AI": 1387,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw kół poliuretanowych (PU) o wymiarach 76×24 mm i twardości 82A, 4 sztuki, marka NILS EXTREME. W drzewie OLX katalogu, najbliższą i jedyną leśną kategorią odpowiadającą kołom tego typu jest 'Koła' (id 1387) znajdująca się w gałęzi 'Opony i Felgi' (658). Inne podkategorie (np. 'Opony' czy 'Felgi') nie pasują do samego elementu – koła. Dlatego wybrałem leafową kategorię Koła (1387)."
+    },
+    {
+        "ID_Produktu": "943",
+        "Nazwa_Produktu": "PU 80x24 82A BIAŁE KÓŁKA (4 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Samochody i pojazdy",
+        "Finalna_Sciezka_AI": "Motoryzacja > Opony i Felgi > Koła",
+        "Finalne_ID_AI": 1387,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw kół PU o wymiarach 80×24 mm i twardości 82A, przeznaczony do pojazdu (NILS EXTREME). W drzewie OLX leaf odpowiadający temu asortymentowi to 'Koła' (leaf pod gałęzią 'Opony'), dlatego propozycja przypisania do kategorii 1387 jest najbardziej trafna spośród dostępnych opcji leaf."
+    },
+    {
+        "ID_Produktu": "945",
+        "Nazwa_Produktu": "PU 70x24 82A PRZEZROCZYSTE kółka (4 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Farby",
+        "Finalna_Sciezka_AI": "Motoryzacja > Opony i Felgi > Koła",
+        "Finalne_ID_AI": 1387,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to zestaw 4 kółek PU CLEAR o wymiarach 70×24 mm i twardości 82A, czyli klasyczny element kołowy/koła. Najbliższą leaf kategorią w drzewie jest Koła (Opony i Felgi → Koła), stąd wybór 1387 jako najbardziej szczegółowej kategorii."
+    },
+    {
+        "ID_Produktu": "947",
+        "Nazwa_Produktu": "PU 80x24 82A PRZEZROCZYSTE kółka (4 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Farby",
+        "Finalna_Sciezka_AI": "Motoryzacja > Opony i Felgi > Koła",
+        "Finalne_ID_AI": 1387,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to kółka z poliuretanu (PU CLEAR), twardość 82A, rozmiar 80×24 mm, 4 sztuki. To typowy komponent kół (koła) w OLX, które w drzewie kategorii posiada leaf'ową kategorię 'Koła' (id 1387). Dlatego wybrałem tę najbardziej szczegółową kategorię liściastą odpowiadającą opisowi produktu."
+    },
+    {
+        "ID_Produktu": "955",
+        "Nazwa_Produktu": "ABEC-7 CHROME ŁOŻYSKA (8 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Siodełka i sztyce",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Tytuł i opis wskazują na łożyska ABEC-7 chromowe do rolek, deskorolek i hulajnóg. Najbardziej precyzyjna leaf kategorii to Deskorolki w gałęzi Sport i Hobby > Skating (id 1675). Wybrałem ten leaf, bo jest najbliższym zastosowaniu produktu i ma status is_leaf = true."
+    },
+    {
+        "ID_Produktu": "983",
+        "Nazwa_Produktu": "HEX PRO 2 KG HANTLA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantle (hantla). Najbardziej precyzyjna kategoria liściasta to 'Hantle' w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy > Hantle (is_leaf: true)."
+    },
+    {
+        "ID_Produktu": "1039",
+        "Nazwa_Produktu": "KNV04 BLACK KETTLEBELL ŻELIWNY POKRYTY WINYLEM HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to kettlebell (ciężarek kulowy do treningu). W drzewie OLX category  Sprzęt siłowy (Sport i Hobby > Sprzęt i siłowy) zawiera leaf  'Hantle' (id 4337), który najtrafniej odpowiada kettlebellom jako kategorii obciążenia/ciężarki do treningu. Dlatego wybrałem 4337 jako najbliższe liście."
+    },
+    {
+        "ID_Produktu": "1119",
+        "Nazwa_Produktu": "PA3448 GRAY ROZM. XXL PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to pas do ćwiczeń siłowych (akcesorium treningowe). Najbardziej odpowiednią leaf kategorią z drzewa OLX jest 4342 „Pozostałe” w gałęzi Sprzęt siłowy (Sport i Hobby > Fitness > Sprzęt siłowy), która obejmuje drobne akcesoria i wyposażenie niepasujące do węższych kategorii takich jak hantle, sztangi czy obciążenia. Jest to więc najbardziej trafne, a jednocześnie jedyne konkretne „emocjonujące” dopasowanie w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "1179",
+        "Nazwa_Produktu": "RST03 PINK/GRAY ROZM. S RĘKAWICE NA SIŁOWNIĘ HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Odzież i obuwie rowerowe > Rękawiczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Rękawiczki",
+        "Finalne_ID_AI": 2722,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to rękawiczki (do treningu). Najbardziej precyzyjne dopasowanie w dostępnym drzewie kategorii to leaf 'Rękawiczki' (id 2722) w gałęzi Moda > Akcesoria. Brak w drzewie dedykowanej liściastej kategorii 'Rękawiczki sportowe' w sekcji Sport i Hobby, więc wybrano najbliższe dopasowanie spełniające wymóg bycia leaf."
+    },
+    {
+        "ID_Produktu": "1180",
+        "Nazwa_Produktu": "RST03 PINK/GRAY ROZM. M RĘKAWICE NA SIŁOWNIĘ HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Odzież i obuwie rowerowe > Rękawiczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Rękawiczki",
+        "Finalne_ID_AI": 2722,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Tytuł i opis opisują rękawiczki treningowe do siłowni/fitness. Najbliższą leaf kategorią w podanym drzewie OLX jest 'Rękawiczki' (id 2722), która występuje jako liść (is_leaf: true) i odpowiada bezpośrednio produktowi. Wybór oparty na dopasowaniu nazwy produktu do najprecyzyjniejszego, leaf-owatego miejsca w drzewie."
+    },
+    {
+        "ID_Produktu": "1342",
+        "Nazwa_Produktu": "H108 ROZM. XS CIEMNY róż ZESTAW OCHRANIACZY",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalne_ID_AI": 4294,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Tytuł i opis wskazują na zestaw ochraniaczy na nadgarstki, łokcie i kolana. W drzewie OLX leaf-em dla ochronności (ochraniacze) jest 'Ochraniacze i owijki' o ID 4294, podkategoria 'Akcesoria' -> 'Akcesoria jeździeckie' -> 'Sport i Hobby' (767). To dopasowuje się do charakterystyki produktu i jest jedyną leśna kategorią z atrybutem is_leaf = true."
+    },
+    {
+        "ID_Produktu": "1370",
+        "Nazwa_Produktu": "CK15 KASTET DARK BLUE CIĘŻAREK ŻELIWNY POKRYTY NEOPRENEM 1.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantla/ciężarek, pokryty neoprenem, o wadze 1.5 kg. Najbliższa i jedyna leaf-owa kategoria to 'Hantle' w gałęzi Sport i Hobby -> Sprzęt siłowy -> Hantle (is_leaf: true)."
+    },
+    {
+        "ID_Produktu": "1371",
+        "Nazwa_Produktu": "CK20 KASTET GREEN CIĘŻAREK ŻELIWNY POKRYTY NEOPRENEM 2.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to ciężarek/dumbel o wadze 2 kg, pokryty neoprenem. Najbardziej odpowiednią kategorią liścia w drzewie OLX jest 'Hantle' (id 4337), która znajduje się w gałęzi Sprzęt siłowy -> Sprzęt fitness. Opis wskazuje na domowy trening i ergonometryczny kształt, co pasuje do hantli jako podstawowego sprzętu fitness. Istnieje także opcja kategorii 'Hantelki' (4344), ale 'Hantle' jest preferowaną, bardziej standardową leafą dla tego typu produktu. Dlatego oceniam pewność na wysoką, ale nie stu procentową, z uwagi na możliwe alternatywy (np. drobne różnice w nazewnictwie między leafami)."
+    },
+    {
+        "ID_Produktu": "1379",
+        "Nazwa_Produktu": "WNK02 BLACK OCHRANIACZ NA KARK HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalne_ID_AI": 4294,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to ochraniacz na kark przeznaczony do treningów sportowych (ochrona mięśni karku podczas opierania sztangi). Najbardziej adekwatna leaf kategoryzuje ochronne ochraniacze i owijki w sekcji Sport i Hobby, leaf o id 4294. Wybrałem tę kategorię, bo opis produktu jednoznacznie wskazuje na ochronny osprzęt ciała (neck guard), a 4294 jest leaf."
+    },
+    {
+        "ID_Produktu": "1418",
+        "Nazwa_Produktu": "WW01 YELLOW OBCIĄŻNIKI 2 x 0.7 KG ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążniki (2 x 0,7 kg) przeznaczone do treningu siłowego i cardio, noszone na nadgarstki lub kostki podczas ćwiczeń. W drzewie OLX odpowiada ścieżce Sport i Hobby > Fitness > Sprzęt fitness > Sprzęt siłowy > Obciążenia, która jest liściem (is_leaf: true) i odpowiada bezpośrednio oferowanemu produktowi."
+    },
+    {
+        "ID_Produktu": "1419",
+        "Nazwa_Produktu": "WW01 GREEN OBCIĄŻNIKI 2 x 0.7 KG ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to obciążniki do ćwiczeń (na nadgarstki/kostki), czyli sprzęt fitness/siłowy. Najbardziej precyzyjna kategoria to leaf 'Obciążenia' w gałęzi Sport i Hobby -> Fitness -> Sprzęt siłowy -> Obciążenia (ID 4339). Ścieżka odpowiada opisowi i typowi produktu; wybranie leaf zapewnia zgodność z atrybutem is_leaf."
+    },
+    {
+        "ID_Produktu": "1420",
+        "Nazwa_Produktu": "WW02 YELLOW OBCIĄŻNIKI 2 x 1.5 KG ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł i opis jasno wskazują na zestaw obciążników do treningu siłowego (nadgarstki/kostki). W strukturze OLX leżą one w Sport i Hobby -> Fitness -> Sprzęt siłowy -> Obciążenia (leaf o ID 4339). To najdokładniejsze dopasowanie jako leaf."
+    },
+    {
+        "ID_Produktu": "1421",
+        "Nazwa_Produktu": "WW02 GREEN OBCIĄŻNIKI 2 x 1.5 KG ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążniki treningowe (2 x 1,5 kg) do użytku na nadgarstki/kostki w treningu siłowym i fitness, więc najlepiej pasuje do leaf kategorii 'Obciążenia' w gałęzi Sprzęt siłowy -> Fitness."
+    },
+    {
+        "ID_Produktu": "1467",
+        "Nazwa_Produktu": "NT8215 SIATKA DO PIŁKI NOŻNEJ 2150x1520x760 mm NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Tytuł i opis wskazują na siatkę piłkarską będącą akcesorium związanym z piłką nożną. Najbliższa leavesowa kategoria to Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria, co odpowiada identyfikatorowi 4989."
+    },
+    {
+        "ID_Produktu": "1502",
+        "Nazwa_Produktu": "STEELTEC 216K ZESTAW RAKIET DO BADMINTONA ZIELONY+NIEBIESKI + LOTKI 3 SZT WISH",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to zestaw rakiet do badmintona wraz z lotkami. Zgodnie z drzewem OLX, najdokładniejszą kategorią dla tego typu produktu jest 'Badminton' (leaf) znajdująca się w gałęzi Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne. Ze względu na zawartość zestawu (rakiety + lotki) i ogólną specyfikę produktu, kategoria 5029 jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1504",
+        "Nazwa_Produktu": "ALUMTEC 366K ZESTAW RAKIET DO BADMINTONA CZERWONY+ŻÓŁTY, NIEBIESKI+BIAŁY WISH",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to zestaw rakiet do badmintona (sprzęt sportowy). W drzewie OLX ścieżka prowadzi do podkategorii Tenis i pokrewne > Badminton, a leaf o identyfikatorze 5029 ma is_leaf = true, co czyni go odpowiednim, ostatecznym leśniem kategorii dla tej oferty."
+    },
+    {
+        "ID_Produktu": "1685",
+        "Nazwa_Produktu": "HG PRO 2 KG HANTLA GUMOWANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantle gumowane o masie 2 kg. Zgodnie z drzewem OLX, hantle są w gałęzi Sport i Hobby > Sprzęt siłowy > Hantle (leaves: 4337). Wybrałem ten leaf, gdyż odpowiada bezpośrednio kategorii sprzętu siłowego dedykowanemu hantlom."
     }
 ]
