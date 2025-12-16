@@ -18,5 +18,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Tytuł i opis wskazują wyraźnie na olimpijski talerz ciężarowy (2.5 kg) z gumową powłoką, przeznaczony do sztangi. W hierarchii OLX ta kategoria odpowiada 'Sprzęt siłowy' -> 'Obciążenia' i jest to kategoria liściasta (is_leaf: true). Dlatego najtrafniejszym wyborem jest kategoria o ID 4339 (Obciążenia)."
+    },
+    {
+        "ID_Produktu": "410",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 1.5 KG",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantle/cieżarek żeliwny pokryty winylem o wadze 1.5 kg przeznaczony do treningów siłowych. Najbardziej precyzyjna kategoria to leaf 'Hantle' (id 4337) w gałęzi Sport i Hobby > Fitness > Sprzęt siłowy. Opis potwierdza zastosowanie w treningu całego ciała, a drzewo OLX prowadzi do konkretnej kategorii hantli jako liścia."
     }
 ]
