@@ -65,6 +65,10 @@ jobs:
           OPENAI_MODEL_NAME = "gpt-5-nano"
           OPENAI_TEMPERATURE = 1.0
           
+          # Modele dla różnych zadań:
+          CATEGORIZATION_MODEL = "gpt-5-mini"      # Model używany TYLKO do kategoryzacji produktów
+          OTHER_TASKS_MODEL = "gpt-5-nano"         # Model używany do rozmiaru paczek, atrybutów, itp.
+          
           # --- Konfiguracja OLX ---
           CLIENT_ID = "202557"
           CLIENT_SECRET = "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
@@ -106,6 +110,10 @@ jobs:
           echo "Sample size: ${{ inputs.sample_size }}"
           echo "=================================="
           echo ""
+          
+          # Utworzenie folderów jeśli nie istnieją
+          mkdir -p output
+          mkdir -p state
           
           # Modyfikacja SAMPLE_SIZE w skrypcie
           sed -i "s/SAMPLE_SIZE = .*/SAMPLE_SIZE = ${{ inputs.sample_size }}/" 08_kategoryzator_ekspert.py

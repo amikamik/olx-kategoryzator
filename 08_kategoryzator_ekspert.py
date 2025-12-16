@@ -258,35 +258,43 @@ def process_single_product(product, path_map, config_obj):
     olx_suggestion_path = path_map.get(int(top_olx_suggestion['id']), "Brak") if top_olx_suggestion else "Brak sugestii OLX"
 
     # --- Krok 2: Kategoryzacja przez "Eksperta" AI z pełnym kontekstem ---
-    expert_prompt = f"""Jesteś światowej klasy ekspertem od kategoryzacji produktów na platformie OLX. Twoim zadaniem jest przeanalizowanie produktu i zwrócenie JEDNEJ, OSTATECZNEJ i NAJBARDZIEJ SZCZEGÓŁOWEJ kategorii, która jest "liściem" w drzewie kategorii.
+    expert_prompt = f"""Jesteś ekspertem od kategoryzacji produktów na platformie OLX. 
+Twoim zadaniem jest przypisanie produktu do DOKŁADNIE JEDNEJ kategorii z poniższego drzewa kategorii.
 
-Oto informacje o produkcie:
+WYMAGANIA:
+- Używaj WYŁĄCZNIE kategorii z podanego JSON (nie wymyślaj własnych).
+- ZAWSZE wybierz kategorię-liść (`"is_leaf": true`).
+- Kategoria musi być semantycznie najlepiej dopasowana do tytułu i opisu produktu.
+- Patrz na CAŁĄ ścieżkę kategorii (od korzenia do liścia), nie tylko na pojedyncze słowa w nazwie.
+- Jeżeli istnieje bardziej szczegółowa, pasująca kategoria w tej samej gałęzi, wybierz ją zamiast ogólnej lub typu „Pozostałe" / „Inne".
+- Jeśli żadna kategoria nie pasuje idealnie, wybierz tę, która będzie najmniej myląca dla kupującego.
+
+Dane produktu:
 - Tytuł: "{product['name']}"
 - Opis: "{clean_html(product['description'])[:5000]}"
 
-Oto pełne drzewo kategorii OLX w formacie JSON. Użyj go jako jedynego źródła prawdy. Zwróć uwagę na atrybut `"is_leaf": true`. Twoim celem jest zawsze dotarcie do kategorii, która ma ten atrybut.
+Wskazówka od systemu OLX (użyj TYLKO jako podpowiedzi do zawężenia poszukiwań, NIE jako źródła prawdy):
+"{olx_suggestion_path}"
+
+Użyj tej ścieżki jedynie do zawężenia poszukiwań w podobnej gałęzi drzewa. Jeśli sugerowana ścieżka wyraźnie nie pasuje do tytułu/opisu produktu, całkowicie ją zignoruj i wybierz kategorię wyłącznie na podstawie analizy produktu.
+
+Drzewo kategorii OLX (jedyne źródło prawdy):
 ```json
 {config_obj.CATEGORY_TREE_JSON_STR}
 ```
 
-Wskazówka od systemu OLX (może być błędna, użyj jej tylko jako podpowiedzi): "{olx_suggestion_path}"
-
---- PROCES MYŚLOWY I ZADANIE ---
-1.  **Analiza:** Przeczytaj uważnie tytuł i opis, aby w 100% zrozumieć, czym jest produkt.
-2.  **Nawigacja w drzewie:** Przejdź po drzewie kategorii JSON, aby znaleźć najbardziej odpowiednią ścieżkę.
-3.  **Wymóg Końcowej Kategorii:** MUSISZ wybrać kategorię, która ma atrybut `"is_leaf": true`.
-4.  **Ocena Pewności:** Zastanów się, jak pewny jesteś swojego wyboru.
-
-Zwróć odpowiedź WYŁĄCZNIE w formacie JSON z następującymi kluczami:
-- "kategoria_id": ID wybranej kategorii (jako integer).
-- "pewnosc": Twoja ocena pewności (jako liczba całkowita od 0 do 100).
-- "uzasadnienie": Twoje krótkie przemyślenia i uzasadnienie wyboru.
+Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
+{{
+  "kategoria_id": <ID wybranej kategorii jako integer>,
+  "pewnosc": <Twoja pewność wyboru od 0 do 100>,
+  "uzasadnienie": "<Krótkie wyjaśnienie dlaczego wybrałeś tę kategorię>"
+}}
 """
     
     llm_response_str = call_llm_api(
         prompt=expert_prompt,
         provider=config_obj.ACTIVE_LLM_PROVIDER,
-        model_name=config_obj.GEMINI_MODEL_NAME if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" else config_obj.OPENAI_MODEL_NAME,
+        model_name=config_obj.CATEGORIZATION_MODEL,
         api_key=config_obj.GEMINI_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" else config_obj.OPENAI_API_KEY,
         response_format_json=True
     )
@@ -445,7 +453,7 @@ Zwróć JSON z dwoma kluczami:
         llm_response = call_llm_api(
             prompt=prompt_rozmiary,
             provider=config_obj.ACTIVE_LLM_PROVIDER,
-            model_name=config_obj.GEMINI_MODEL_NAME if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" else config_obj.OPENAI_MODEL_NAME,
+            model_name=config_obj.OTHER_TASKS_MODEL,
             api_key=config_obj.GEMINI_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" else config_obj.OPENAI_API_KEY,
             response_format_json=True
         )
@@ -911,7 +919,7 @@ Przykład odpowiedzi:
                     wybrane_atrybuty_str = call_llm_api(
                         prompt=prompt_dla_atrybutow,
                         provider=config.ACTIVE_LLM_PROVIDER,
-                        model_name=config.GEMINI_MODEL_NAME if config.ACTIVE_LLM_PROVIDER == 'GEMINI' else config.OPENAI_MODEL_NAME,
+                        model_name=config.OTHER_TASKS_MODEL,
                         api_key=config.GEMINI_API_KEY if config.ACTIVE_LLM_PROVIDER == 'GEMINI' else config.OPENAI_API_KEY,
                         response_format_json=True
                     )
