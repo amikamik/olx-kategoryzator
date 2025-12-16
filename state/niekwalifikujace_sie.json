@@ -58,5 +58,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "92%",
         "Uzasadnienie_AI": "Tytuł i opis wskazują na obrotowy twister magnetyczny używany do ćwiczeń fitness w domu. W drzewie OLX pod Sport i Hobby -> 767, następnie Sekcja Fitness (331? actually 771) -> Sprzęt fitness (4315) -> Stepy, steppery i twistery (4332), który jest liściem. Wybrana kategoria 4332 odpowiada bezpośrednio temu typowi urządzeń (twisty/steppery). Potwierdza to is_leaf: true."
+    },
+    {
+        "ID_Produktu": "455",
+        "Nazwa_Produktu": "GPR35 GRYF PROSTY 2.5KG Z GWINTEM I ZACISKIEM 350MM HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to gryf prosty (barbell) używany w treningach siłowych. Najbardziej precyzyjna leafowa kategoria to Sprzęt fitness > Sprzęt siłowy > Gryfy, której atrybut is_leaf = true, odpowiada więc opisowi i specyfikacji (średnica 30 mm, długość 35 cm, zestaw zacisków)."
     }
 ]
