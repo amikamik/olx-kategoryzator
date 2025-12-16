@@ -123,20 +123,21 @@ jobs:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: 💾 Zapisz zaktualizowane pliki state
+      - name: 💾 Zapisz zaktualizowane pliki state i raport
         if: always()
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add state/*.json
+          git add output/raport_kategoryzacji.csv
           
           # Commit tylko jeśli są zmiany
           if ! git diff --staged --quiet; then
-            git commit -m "AUTO: Aktualizacja state po kategoryzacji - $(date '+%Y-%m-%d %H:%M:%S')"
+            git commit -m "AUTO: Aktualizacja state i raport - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
-            echo "✅ Zaktualizowano pliki state"
+            echo "✅ Zaktualizowano pliki state i raport"
           else
-            echo "ℹ️  Brak zmian w plikach state"
+            echo "ℹ️  Brak zmian w plikach"
           fi
 
       - name: 📊 Upload raportu CSV
