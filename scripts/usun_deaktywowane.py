@@ -21,8 +21,10 @@ import config
 # Konfiguracja
 OLX_API_BASE = "https://www.olx.pl/api/partner"
 BATCH_SIZE = 200  # Maksymalna liczba ogłoszeń pobieranych na raz
-DELAY_BETWEEN_REQUESTS = 0.5  # Sekundy między zapytaniami (unikanie rate limit)
-MAX_WORKERS = 20  # Liczba równoległych wątków do usuwania (usuwanie całej paczki na raz)
+DELAY_BETWEEN_REQUESTS = 1.0  # Sekundy między zapytaniami (unikanie rate limit)
+DELAY_BETWEEN_DELETES = 0.1  # Sekundy między pojedynczymi usunięciami
+MAX_WORKERS = 5  # Liczba równoległych wątków do usuwania (5 = ~50 req/10s)
+MAX_RETRIES = 3  # Maksymalna liczba ponownych prób przy błędzie 403/429
 DRY_RUN = False  # True = tylko pokazuje co by usunęło, False = faktycznie usuwa
 
 def pobierz_i_usun_na_biezaco(access_token):
@@ -122,6 +124,14 @@ def pobierz_i_usun_na_biezaco(access_token):
                 print(f"\n\n❌ BŁĄD 401: Token wygasł!")
                 print(f"Uruchom: python scripts/to_odswieza_acces_token.py")
                 sys.exit(1)
+            elif e.response.status_code == 403:
+                print(f"\n\n❌ BŁĄD 403: Brak uprawnień do usuwania ogłoszeń!")
+                print(f"Możliwe przyczyny:")
+                print(f"  1. ACCESS_TOKEN nie ma scope 'write' (tylko 'read')")
+                print(f"  2. Użytkownik musi zalogować się przez OLX API z uprawnieniami write")
+                print(f"  3. Spróbuj odświeżyć token: python scripts/to_odswieza_acces_token.py")
+                print(f"\nOtrzymany token z refresh ma scope: {e.response.text}")
+                sys.exit(1)
             else:
                 print(f"\n\n❌ BŁĄD HTTP {e.response.status_code}: {e}")
                 sys.exit(1)
@@ -136,6 +146,7 @@ def usun_ogloszenie(advert_id, access_token):
     """
     Usuwa pojedyncze ogłoszenie (musi być już deaktywowane).
     Zwraca True jeśli sukces, False jeśli błąd.
+    Implementuje retry logic dla błędów 403/429 (rate limiting).
     """
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -144,22 +155,39 @@ def usun_ogloszenie(advert_id, access_token):
     
     url = f"{OLX_API_BASE}/adverts/{advert_id}"
     
-    try:
-        if DRY_RUN:
-            # Tryb testowy - tylko symulacja
-            time.sleep(0.05)  # Krótka symulacja opóźnienia
-            return True
-        else:
-            response = requests.delete(url, headers=headers)
-            response.raise_for_status()
-            return True
-    except requests.exceptions.HTTPError as e:
-        if e.response.status_code == 404:
-            # Ogłoszenie już nie istnieje - traktuj jako sukces
-            return True
-        return False
-    except Exception:
-        return False
+    for attempt in range(MAX_RETRIES):
+        try:
+            if DRY_RUN:
+                # Tryb testowy - tylko symulacja
+                time.sleep(0.05)  # Krótka symulacja opóźnienia
+                return True
+            else:
+                # Małe opóźnienie przed każdym requestem
+                time.sleep(DELAY_BETWEEN_DELETES)
+                
+                response = requests.delete(url, headers=headers)
+                response.raise_for_status()
+                return True
+        except requests.exceptions.HTTPError as e:
+            if e.response.status_code == 404:
+                # Ogłoszenie już nie istnieje - traktuj jako sukces
+                return True
+            elif e.response.status_code in [403, 429]:
+                # Rate limiting - poczekaj i spróbuj ponownie
+                if attempt < MAX_RETRIES - 1:
+                    wait_time = (attempt + 1) * 2  # 2s, 4s, 6s
+                    time.sleep(wait_time)
+                    continue
+                else:
+                    # Ostatnia próba nie powiodła się
+                    return False
+            else:
+                # Inny błąd HTTP
+                return False
+        except Exception:
+            return False
+    
+    return False
 
 
 
@@ -181,7 +209,8 @@ def main():
     # Informacja o trybie
     print(f"⚙️  Tryb: {'TESTOWY (DRY RUN)' if DRY_RUN else 'PRODUKCYJNY (USUWA FAKTYCZNIE!)'}")
     print(f"📦 Rozmiar paczki: {BATCH_SIZE} ogłoszeń")
-    print(f"⚡ Równoległość: {MAX_WORKERS} wątków (usuwa całą paczkę na raz!)")
+    print(f"⚡ Równoległość: {MAX_WORKERS} wątków (~{MAX_WORKERS*10} req/10s max)")
+    print(f"⏱️  Opóźnienie: {DELAY_BETWEEN_DELETES}s między usunięciami, retry dla 403/429")
     
     if DRY_RUN:
         print(f"\n💡 Aby faktycznie usunąć, zmień DRY_RUN = False w linii 23 skryptu.")
