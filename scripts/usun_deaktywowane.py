@@ -21,9 +21,9 @@ import config
 # Konfiguracja
 OLX_API_BASE = "https://www.olx.pl/api/partner"
 BATCH_SIZE = 200  # Maksymalna liczba ogłoszeń pobieranych na raz
-DELAY_BETWEEN_REQUESTS = 1.0  # Sekundy między zapytaniami (unikanie rate limit)
-DELAY_BETWEEN_DELETES = 0.1  # Sekundy między pojedynczymi usunięciami
-MAX_WORKERS = 5  # Liczba równoległych wątków do usuwania (5 = ~50 req/10s)
+DELAY_BETWEEN_REQUESTS = 2.0  # Sekundy między zapytaniami o kolejne paczki
+DELAY_BETWEEN_DELETES = 0.25  # Sekundy między pojedynczymi usunięciami (250ms)
+MAX_WORKERS = 3  # Liczba równoległych wątków (~3 req/s = bezpieczne tempo)
 MAX_RETRIES = 3  # Maksymalna liczba ponownych prób przy błędzie 403/429
 DRY_RUN = False  # True = tylko pokazuje co by usunęło, False = faktycznie usuwa
 
@@ -209,8 +209,9 @@ def main():
     # Informacja o trybie
     print(f"⚙️  Tryb: {'TESTOWY (DRY RUN)' if DRY_RUN else 'PRODUKCYJNY (USUWA FAKTYCZNIE!)'}")
     print(f"📦 Rozmiar paczki: {BATCH_SIZE} ogłoszeń")
-    print(f"⚡ Równoległość: {MAX_WORKERS} wątków (~{MAX_WORKERS*10} req/10s max)")
-    print(f"⏱️  Opóźnienie: {DELAY_BETWEEN_DELETES}s między usunięciami, retry dla 403/429")
+    print(f"⚡ Równoległość: {MAX_WORKERS} wątków (~{int(MAX_WORKERS/DELAY_BETWEEN_DELETES)} req/s)")
+    print(f"⏱️  Opóźnienie: {DELAY_BETWEEN_DELETES}s między usunięciami")
+    print(f"🛡️  Bezpieczeństwo: Retry dla 403/429, pauza {DELAY_BETWEEN_REQUESTS}s między paczkami")
     
     if DRY_RUN:
         print(f"\n💡 Aby faktycznie usunąć, zmień DRY_RUN = False w linii 23 skryptu.")
