@@ -1,1 +1,93 @@
-﻿[]
+[
+    {
+        "ID_Produktu": "328",
+        "Nazwa_Produktu": "SK46 SKAKANKA Z LICZNIKIEM HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalne_ID_AI": 4349,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Skakanka to akcesorium treningowe — pasuje do ścieżki Sport i Hobby > Fitness > Akcesoria treningowe. Konkretna kategoria 'Skakanki' jest najbardziej szczegółowa i trafna (licznik LCD nie zmienia przeznaczenia).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "329",
+        "Nazwa_Produktu": "SK43 SKÓRZANA SKAKANKA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalne_ID_AI": 4349,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skakanka treningowa (SK43) — akcesorium do fitnessu. Dokładne dopasowanie do kategorii 'Skakanki' (Sport i Hobby > Fitness > Akcesoria treningowe).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "330",
+        "Nazwa_Produktu": "SC20 ŚCISKACZ Z REGULACJĄ OBCIĄŻENIA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Ściskacz dłoni to niewielki przyrząd do treningu/rehabilitacji — najlepiej pasuje jako akcesorium treningowe. W gałęzi Sport i Hobby → Fitness wybrałem 'Akcesoria treningowe → Pozostałe' jako najtrafniejszą liściową kategorię.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "336",
+        "Nazwa_Produktu": "EM09 EKSPANDER HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Ekspander to gumowe naciągi/taśmy do ćwiczeń służące do treningu ogólnorozwojowego i rehabilitacji — bezpośrednie dopasowanie do kategorii 'Taśmy i gumy do ćwiczeń' (Sport i Hobby > Fitness > Akcesoria treningowe).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "339",
+        "Nazwa_Produktu": "YB02 55CM ANTI-BURST POMARAŃCZOWA PIŁKA GIMNASTYCZNA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Piłka gimnastyczna/fitness (55 cm, anti-burst) pasuje do kategorii Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń — najbardziej precyzyjna i naturalna kategoria.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "340",
+        "Nazwa_Produktu": "YB02 65CM ANTI-BURST FIOLETOWA PIŁKA GIMNASTYCZNA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka gimnastyczna/fitness ball (65 cm, ANTI-BURST) stosowana do jogi, pilates, rehabilitacji — dokładnie pasuje do kategorii 'Piłki do ćwiczeń' (Fitness -> Akcesoria treningowe).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "341",
+        "Nazwa_Produktu": "YB02 75CM GRAY ANTI-BURST PIŁKA GIMNASTYCZNA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to piłka do ćwiczeń / gimnastyczna (anti-burst, 75 cm) — idealnie pasuje do kategorii 'Piłki do ćwiczeń' (akcesoria treningowe → fitness).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    }
+]

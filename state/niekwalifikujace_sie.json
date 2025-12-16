@@ -1,1 +1,32 @@
-﻿[]
+[
+    {
+        "ID_Produktu": "357",
+        "Nazwa_Produktu": "KNV04 KETTLEBELL POKRYTY WINYLEM 4.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Kettlebell to rodzaj wolnego ciężaru/obciążenia do ćwiczeń siłowych — najlepsze dopasowanie to 'Obciążenia' w gałęzi Sprzęt siłowy (unikamy ogólnych 'Pozostałe')."
+    },
+    {
+        "ID_Produktu": "392",
+        "Nazwa_Produktu": "TOK02 TALERZ OLIMPIJSKI OGUMOWANY 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Talerz olimpijski to obciążenie do sztangi/hantli — kategoria 'Obciążenia' (pod Sprzęt siłowy) jest najdokładniejsza i trafna."
+    },
+    {
+        "ID_Produktu": "408",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 0.5 KG",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojedynczy ciężarek/hantel żeliwny pokryty winylem opisany do ćwiczeń, fitness i rehabilitacji — dokładnie pasuje do kategorii 'Hantle' (id 4337) w gałęzi Sport i Hobby > Fitness > Sprzęt siłowy."
+    }
+]
