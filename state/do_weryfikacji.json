@@ -1,1 +1,28 @@
-﻿[]
+[
+    {
+        "ID_Produktu": "413",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 4.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Wędkarstwo > Akcesoria wędkarskie > Ciężarki",
+        "Finalne_ID_AI": 3918,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny pokryty winylem przeznaczony do ćwiczeń. Najbardziej odpowiednią kategorią z drzewka OLX jest leaf 'Ciężarki' (id 3918) w gałęzi Sport i Hobby / Sprzęt fitness, odpowiadającej bezpośrednio ciężarkom używanym w treningach oraz rehabilitacji. Brak w opisie wyraźnego rozróżnienia na hantle, zestawy czy inne formy sprzętu; ciężarek o wadze 4 kg mieści się w kategorii ciężarków (leaf).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "427",
+        "Nazwa_Produktu": "EM01 EKSPANDER GUMOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to akcesoria treningowe z taśmami/taśmami do ćwiczeń (ekspander gumowy z oporami). Najbliższą leżącą kategorią w drzewie jest 'Taśmy i gumy do ćwiczeń' (4345), będąca leaf w gałęzi Sprzęt fitness -> Akcesoria treningowe. Dedukcja opiera się na opisie produktu (5 lin gumowych, uchwyty, zakres oporu 1-30 kg) i przeznaczeniu do treningu siłowego/rehabilitacyjnego.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    }
+]

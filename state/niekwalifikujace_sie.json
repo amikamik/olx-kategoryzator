@@ -28,5 +28,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to hantle/cieżarek żeliwny pokryty winylem o wadze 1.5 kg przeznaczony do treningów siłowych. Najbardziej precyzyjna kategoria to leaf 'Hantle' (id 4337) w gałęzi Sport i Hobby > Fitness > Sprzęt siłowy. Opis potwierdza zastosowanie w treningu całego ciała, a drzewo OLX prowadzi do konkretnej kategorii hantli jako liścia."
+    },
+    {
+        "ID_Produktu": "411",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 2.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny pokryty winylem o wadze 2 kg, używany w treningu siłowym. Najbliższa leaf kategoria dla takiego produktu to Obciążenia (Sprzęt siłowy → Sprzęt fitness → Obciążenia) w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "412",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 3.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny pokryty winylem o wadze 3 kg, czyli obciążenie używane w treningu siłowym. Zgodnie z drzewem OLX, odpowiednią kategorią-leaf dla obciążeń w sekcji Sprzęt siłowy jest 'Obciążenia' (id 4339)."
+    },
+    {
+        "ID_Produktu": "437",
+        "Nazwa_Produktu": "KO01 KRĄŻEK OBROTOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Tytuł i opis wskazują na obrotowy twister magnetyczny używany do ćwiczeń fitness w domu. W drzewie OLX pod Sport i Hobby -> 767, następnie Sekcja Fitness (331? actually 771) -> Sprzęt fitness (4315) -> Stepy, steppery i twistery (4332), który jest liściem. Wybrana kategoria 4332 odpowiada bezpośrednio temu typowi urządzeń (twisty/steppery). Potwierdza to is_leaf: true."
     }
 ]
