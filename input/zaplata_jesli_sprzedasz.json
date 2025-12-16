@@ -1,0 +1,306 @@
+{
+    "Antyki i Kolekcje": {
+        "Antyki": "10,00%",
+        "Kolekcje": "8,00%",
+        "Sztuka": "8,00%",
+        "Rękodzieło": "10,00%"
+    },
+    "Ryneczek": {
+        "Grzyby": "5,00%",
+        "Miód i produkty pszczelarskie": "5,00%",
+        "Nabiał i jaja": "5,00%",
+        "Owoce i warzywa": "5,00%",
+        "Orzechy": "5,00%",
+        "Przetwory": "5,00%",
+        "Pozostałe": "5,00%"
+    },
+    "Firma i Przemysł": {
+        "Odzież robocza": "9,00%"
+    },
+    "Sport i Hobby": {
+        "Akcesoria jeździeckie": {
+            "Akcesoria jeździeckie": "8,00%",
+            "Odzież jeździecka": "8,00%",
+            "Pozostałe": "9,50%"
+        },
+        "Gry planszowe": "7,50%",
+        "Fitness": {
+            "Suplementy i odżywki": "7,00%",
+            "Akcesoria treningowe": "8,00%",
+            "Pozostałe fitness": "9,50%"
+        },
+        "Pozostały sport i hobby": "9,50%",
+        "Rowery": {
+            "Akcesoria rowerowe": "7,50%",
+            "Części rowerowe": "7,50%",
+            "Odzież i obuwie rowerowe": "8,00%"
+        },
+        "Skating": {
+            "Wrotki": "8,50%",
+            "Rolki": "8,50%",
+            "Akcesoria skating": "8,50%",
+            "Pozostałe skating": "9,50%"
+        },
+        "Sporty wodne": {
+            "Pływanie": "7,50%",
+            "Nurkowanie": "7,50%",
+            "Sprzęt ratunkowy i asekuracyjny": "7,50%"
+        },
+        "Sporty zimowe": {
+            "Osprzęt": "7,00%",
+            "Obuwie snowboardingowe": "7,00%",
+            "Odzież snowboardingowa": "7,00%",
+            "Akcesoria": "7,00%",
+            "Odzież narciarska": "7,00%",
+            "Łyżwy": "7,00%",
+            "Obuwie narciarskie": "7,00%"
+        },
+        "Turystyka": {
+            "Namioty i akcesoria": "8,50%",
+            "Śpiwory, materace i karimaty": "8,50%",
+            "Apteczki i środki na owady": "8,50%",
+            "Kuchnie i meble turystyczne": "8,50%",
+            "Osprzęt turystyczny": "8,50%",
+            "Pozostała turystyka": "9,50%"
+        },
+        "Wędkarstwo": {
+            "Akcesoria wędkarskie": "7,50%",
+            "Kołowrotki": "7,50%",
+            "Torby, pojemniki i pokrowce": "7,50%",
+            "Przynęty i zanęty": "7,50%",
+            "Krzesła i Namioty": "7,50%",
+            "Odzież wędkarska": "7,50%",
+            "Pozostałe wędkarstwo": "9,50%"
+        },
+        "Pojazdy Elektryczne": {
+            "Akcesoria": "8,50%"
+        },
+        "Żeglarstwo": {
+            "Osprzęt żeglarski": "8,50%"
+        }
+    },
+    "Muzyka i Edukacja": {
+        "Filmy": {
+            "Płyty Blu-ray": "5,50%",
+            "Płyty DVD": "5,50%",
+            "Kasety VHS": "5,50%",
+            "Pozostałe filmy": "6,50%"
+        },
+        "Instrumenty": "4,00%",
+        "Książki": {
+            "Literatura": "4,50%",
+            "Czasopisma": "4,50%",
+            "Dla dzieci": "4,50%",
+            "Komiksy": "4,50%",
+            "Książki naukowe": "4,50%",
+            "Podręczniki szkolne": "2,50%",
+            "Poradniki i albumy": "4,50%",
+            "Pozostałe": "6,50%"
+        },
+        "Materiały językowe": "4,50%",
+        "Muzyka": {
+            "Płyty CD": "5,50%",
+            "Płyty winylowe": "5,50%",
+            "Kasety audio": "5,50%",
+            "Pozostałe muzyka": "6,50%"
+        },
+        "Pozostałe Muzyka i Edukacja": "6,50%"
+    },
+    "Dla dzieci": {
+        "Akcesoria dla niemowląt": "6,00%",
+        "Artykuły szkolne": "5,50%",
+        "Buciki": "5,50%",
+        "Foteliki i nosidełka": "5,00%",
+        "Odzież niemowlęca": "5,50%",
+        "Pozostałe dla dzieci": "5,50%",
+        "Ubranka dla chłopców": "5,50%",
+        "Ubranka dla dziewczynek": "5,50%",
+        "Wózki dziecięce": "4,50%",
+        "Zabawki": "6,50%"
+    },
+    "Dom i Ogród": {
+        "Budowa": {
+            "Chemia budowlana": "8%"
+        },
+        "Instalacje": {
+            "Elektryka": "9%"
+        },
+        "Narzędzia": {
+            "Akcesoria do narzędzi": "8%",
+            "Elektronarzędzia": "6%",
+            "Narzędzia ręczne": "7%",
+            "Osprzęt do narzędzi": "8%",
+            "Przyrządy miernicze": "6%"
+        },
+        "Ogrzewanie": {
+            "Akcesoria do kotłów i pieców": "8%",
+            "Części do kotłów i pieców": "8%"
+        },
+        "Ogród": {
+            "Rośliny": "8%"
+        },
+        "Wykończenie wnętrz": {
+            "Akcesoria do płytek": "8%",
+            "Baterie kuchenne": "10%",
+            "Baterie łazienkowe": "10%",
+            "Akcesoria malarskie": "10%"
+        },
+        "Wyposażenie wnętrz": {
+            "Akcesoria łazienkowe": "10%",
+            "Dekoracje": "10%",
+            "Dywany i dywaniki": "10%",
+            "Koce": "10%",
+            "Koszyki": "10%",
+            "Lustra": "10%",
+            "Obrusy i serwetki": "10%",
+            "Ozdoby okolicznościowe": "10%",
+            "Pokrowce": "10%",
+            "Pościel": "10%",
+            "Przybory kuchenne": "10%",
+            "Pudełka": "10%",
+            "Ręczniki": "10%",
+            "Rośliny doniczkowe": "10%",
+            "Świece i świeczniki": "10%",
+            "Szkatułki": "10%",
+            "Torby na zakupy": "10%",
+            "Woski i olejki": "10%",
+            "Wystrój okien": "10%",
+            "Zastawa stołowa": "10%",
+            "Zegary": "10%",
+            "Pozostałe": "10%"
+        },
+        "Supermarket": "5%"
+    },
+    "Elektronika": {
+        "Fotografia": {
+            "Drony profesjonalne": "5.50%",
+            "Bezlusterkowce": "4.00%",
+            "Obiektywy": "4.00%",
+            "Lustrzanki": "4.00%",
+            "Pozostałe Fotografia": "9.00%",
+            "Statywy": "6.00%",
+            "Akcesoria fotograficzne": "6.00%",
+            "Oświetlenie": "5.00%",
+            "Aparaty kompaktowe": "4.00%",
+            "Aparaty analogowe": "4.00%"
+        },
+        "Gry i Konsole": {
+            "Konsole": "5.00%",
+            "Pozostałe": "9.00%",
+            "Akcesoria gamingowe": "5.00%",
+            "Kolekcje graczy": "5.00%"
+        },
+        "Komputery": {
+            "Drukarki i skanery": "6.00%",
+            "Podzespoły i części": "5.50%",
+            "Pozostałe": "9.00%",
+            "Urządzenia sieciowe": "5.00%",
+            "Tablety": "4.50%",
+            "Akcesoria komputerowe": "6.00%"
+        },
+        "Pozostała elektronika": "9.00%",
+        "Smartwatche i opaski": {
+            "Opaski smart": "5.00%",
+            "Akcesoria i części": "6.50%",
+            "Smartwache": "5.00%"
+        },
+        "Sprzęt AGD": {
+            "AGD drobne": "4.50%",
+            "Części i akcesoria do AGD": "6.00%"
+        },
+        "Sprzęt audio": {
+            "Akcesoria": "5.00%",
+            "Części": "5.00%",
+            "Pozostałe": "9.00%",
+            "Dyktafony": "4.50%",
+            "Słuchawki": "5.00%",
+            "Mikrofony": "4.50%",
+            "Radia i CD": "5.00%",
+            "Sprzęt estradowy": "5.00%"
+        },
+        "Sprzęt video": {
+            "Pozostałe": "9.00%",
+            "Dekodery": "4.50%",
+            "Magnetowidy": "4.00%",
+            "Akcesoria i części": "5.50%",
+            "Blu ray i DVD": "4.00%",
+            "Projektory": "3.50%",
+            "Kamery": "4.50%"
+        },
+        "Telefony": {
+            "Akcesoria": "6.00%",
+            "Telefony stacjonarne": "3.50%"
+        },
+        "TV": {
+            "Akcesoria": "6.50%",
+            "Części": "5.00%",
+            "Pozostałe": "9.00%"
+        }
+    },
+    "Zwierzęta": {
+        "Akwarystyka": {
+            "Akcesoria akwariowe": "6,00%"
+        },
+        "Akcesoria dla zwierząt": {
+            "Akcesoria dla psów": "7,50%",
+            "Akcesoria dla kotów": "7,50%",
+            "Akcesoria dla ptaków": "7,50%",
+            "Akcesoria dla gryzoni i królików": "7,50%",
+            "Pozostałe": "7,50%"
+        },
+        "Karma i przysmaki": "5,00%"
+    },
+    "Zdrowie i Uroda": {
+        "Twarz": {
+            "Pielęgnacja": "6,00%",
+            "Oczyszczanie i demakijaż": "6,00%",
+            "Dermokosmetyki": "6,00%",
+            "Dla Mężczyzn": "6,00%",
+            "Pozostałe": "6,00%"
+        },
+        "Makijaż": {
+            "Twarz": "6,00%",
+            "Oczy": "6,00%",
+            "Brwi": "6,00%",
+            "Usta": "6,00%",
+            "Akcesoria": "6,00%",
+            "Pozostałe": "6,00%"
+        },
+        "Paznokcie": {
+            "Pielęgnacja": "6,00%",
+            "Manicure hybrydowy i żelowy": "6,00%",
+            "Manicure klasyczny": "6,00%",
+            "Akcesoria": "6,00%",
+            "Pozostałe": "6,00%"
+        },
+        "Włosy": {
+            "Pielęgnacja": "6,00%",
+            "Koloryzacja": "6,00%",
+            "Stylizacja": "6,00%",
+            "Pozostałe": "6,00%"
+        },
+        "Ciało": {
+            "Pielęgnacja ciała": "6,00%",
+            "Prysznic i kąpiel": "6,00%",
+            "Dezodoranty i antyperspiranty": "6,00%",
+            "Opalanie": "6,00%",
+            "Pielęgnacja rąk i stóp": "6,00%",
+            "Pozostałe": "6,00%"
+        },
+        "Perfumy": {
+            "Dla kobiet": "6,00%",
+            "Dla Mężczyzn": "6,00%",
+            "Uniseks": "6,00%"
+        },
+        "Higiena jamy ustnej": "4,50%",
+        "Korekcja wzroku": "4,50%",
+        "Pozostałe": "6,00%",
+        "Produkty z CBD": "6,00%",
+        "Sprzęt rehabilitacyjny i ortopedyczny": "6,00%",
+        "Środki ochrony": "6,00%",
+        "Suplementy diety": "6,00%",
+        "Transport i poruszanie": "6,00%",
+        "Urządzenia do masażu": "6,00%",
+        "Urządzenia medyczne": "6,00%"
+    }
+}

@@ -634,6 +634,42 @@ def zapisz_do_pliku_json(dane, sciezka_pliku):
     with open(sciezka_pliku, 'w', encoding='utf-8') as f:
         json.dump(lista, f, indent=4, ensure_ascii=False)
 
+def wczytaj_mapping_feed_to_olx(sciezka_pliku):
+    """Wczytuje mapowanie feed_id → olx_data z pliku JSON."""
+    try:
+        with open(sciezka_pliku, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+def zapisz_mapping_feed_to_olx(feed_id, olx_response, category_id, price, sciezka_pliku):
+    """
+    Zapisuje mapowanie feed_id → dane z OLX (olx_id, category, price, timestamp).
+    Format: {"feed_id": {"olx_id": 123, "published_at": "...", "category_id": 456, "price": 99.99}}
+    """
+    from datetime import datetime
+    
+    # Wczytaj istniejące mapowanie
+    mapping = wczytaj_mapping_feed_to_olx(sciezka_pliku)
+    
+    # Wyciągnij olx_id z odpowiedzi API
+    olx_id = None
+    if isinstance(olx_response, dict):
+        # OLX API zwraca: {"data": {"id": 123456, ...}}
+        olx_id = olx_response.get('data', {}).get('id')
+    
+    # Dodaj nowy wpis
+    mapping[str(feed_id)] = {
+        "olx_id": olx_id,
+        "published_at": datetime.now().isoformat(),
+        "category_id": category_id,
+        "price": float(price) if price else None
+    }
+    
+    # Zapisz z powrotem
+    with open(sciezka_pliku, 'w', encoding='utf-8') as f:
+        json.dump(mapping, f, indent=4, ensure_ascii=False)
+
 def sprawdz_kwalifikacje_kategorii(sciezka_kategorii, kategorie_platne):
     """
     Sprawdza, czy dana ścieżka kategorii kwalifikuje się do opcji 'Zapłać, jeśli sprzedasz'.
@@ -700,6 +736,7 @@ def main():
     DO_WERYFIKACJI_PLIK = os.path.join(STATE_DIR, "do_weryfikacji.json")
     ODRZUCONE_API_PLIK = os.path.join(STATE_DIR, "odrzucone_przez_api.json")
     NIEKWALIFIKUJACE_SIE_PLIK = os.path.join(STATE_DIR, "niekwalifikujace_sie.json")
+    MAPPING_FEED_TO_OLX_PLIK = os.path.join(STATE_DIR, "mapping_feed_to_olx.json")  # ← NOWY PLIK
 
     przetworzone_id = wczytaj_przetworzone_id(PRZETWORZONE_PLIK)
 
@@ -906,6 +943,8 @@ Przykład odpowiedzi:
                 if sukces:
                     print(f"└─ ✓ SUKCES - Produkt opublikowany!\n")
                     zapisz_do_pliku_json(product['id'], OPUBLIKOWANE_PLIK)
+                    # ✨ NOWA FUNKCJONALNOŚĆ: Zapisz mapowanie feed_id → olx_id
+                    zapisz_mapping_feed_to_olx(product['id'], szczegoly_odpowiedzi, final_id, product['price'], MAPPING_FEED_TO_OLX_PLIK)
                     dodaj_do_przetworzonych(product['id'], PRZETWORZONE_PLIK)
                 else:
                     print(f"└─ ✗ BŁĄD - Odrzucone przez API OLX\n")

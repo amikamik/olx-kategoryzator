@@ -1,0 +1,22 @@
+[
+    {
+        "ID_Produktu": "357",
+        "Nazwa_Produktu": "KNV04 KETTLEBELL POKRYTY WINYLEM 4.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Kettlebell to ciężar treningowy. W drzewie OLX kettlebells klasyfikowane są w sekcji Sprzęt siłowy -> Obciążenia, dzięki czemu wybrana kategoria 4339 jest leafem i najlepiej opisuje produkt."
+    },
+    {
+        "ID_Produktu": "392",
+        "Nazwa_Produktu": "TOK02 TALERZ OLIMPIJSKI OGUMOWANY 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Tytuł i opis wskazują wyraźnie na olimpijski talerz ciężarowy (2.5 kg) z gumową powłoką, przeznaczony do sztangi. W hierarchii OLX ta kategoria odpowiada 'Sprzęt siłowy' -> 'Obciążenia' i jest to kategoria liściasta (is_leaf: true). Dlatego najtrafniejszym wyborem jest kategoria o ID 4339 (Obciążenia)."
+    }
+]

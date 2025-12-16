@@ -35,14 +35,16 @@ config.py
 tokens.json
 .env
 
-# Pliki robocze
-do_weryfikacji.json
-niekwalifikujace_sie.json
-odrzucone_przez_api.json
-opublikowane.json
-sukces.json
-zaplata_jesli_sprzedasz.json
-przetworzone_produkty.json
+# Pliki state - TERAZ COMMITOWANE (potrzebne dla GitHub Actions)
+# Usunięto z .gitignore żeby synchronizować stan między runami
+# do_weryfikacji.json
+# niekwalifikujace_sie.json  
+# odrzucone_przez_api.json
+# opublikowane.json
+# sukces.json
+# zaplata_jesli_sprzedasz.json
+# przetworzone_produkty.json
+# mapping_feed_to_olx.json
 
 # Duże pliki feedów
 *.xml
