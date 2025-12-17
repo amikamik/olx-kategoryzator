@@ -88,5 +88,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Ciężarek żeliwny to sprzęt do ćwiczeń siłowych i fitness, co idealnie pasuje do kategorii 'Obciążenia' w 'Sprzęt siłowy' (Fitness). Wskazówka systemu potwierdza tę ścieżkę, a opis produktu wskazuje na zastosowanie w treningu siłowym i fitness."
+    },
+    {
+        "ID_Produktu": "638",
+        "Nazwa_Produktu": "TX02 ZESTAW DO ĆWICZEŃ SIŁOWYCH",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Zestawy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Zestawy",
+        "Finalne_ID_AI": 4341,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do ćwiczeń siłowych z gumami oporowymi, skakanką i akcesoriami, co semantycznie pasuje do kategorii 'Zestawy' w 'Sprzęt siłowy' pod 'Fitness'. Wskazówka systemu OLX potwierdza tę ścieżkę, a kategoria jest liściem."
+    },
+    {
+        "ID_Produktu": "639",
+        "Nazwa_Produktu": "TX01 ZESTAW DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Zestawy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Zestawy",
+        "Finalne_ID_AI": 4341,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do ćwiczeń siłowych z gumami oporowymi i uchwytami, co idealnie pasuje do kategorii 'Zestawy' w gałęzi 'Sprzęt siłowy' pod 'Fitness', zgodnie ze wskazówką i analizą opisu."
+    },
+    {
+        "ID_Produktu": "693",
+        "Nazwa_Produktu": "OB03 NIEBIESKIE OBCIĄŻNIKI 2 x 1.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążniki na nadgarstki/kostki do ćwiczeń fitness (pilates, aerobik itp.), co bezpośrednio odpowiada kategorii 'Obciążenia' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria jest liściem i semantycznie najlepiej pasuje do opisu."
+    },
+    {
+        "ID_Produktu": "694",
+        "Nazwa_Produktu": "OB03 CZERWONE OBCIĄŻNIKI 2 x 1.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążniki (obciążenia) na kostki i nadgarstki używane w fitness, co bezpośrednio odpowiada kategorii 'Obciążenia' (ID 4339) w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Tytuł i opis wskazują na zastosowanie w ćwiczeniach jak pilates, jogging, aerobik, co jest spójne z kategorią fitness. Wskazówka systemu OLX potwierdza tę ścieżkę, a kategoria jest liściem, więc spełnia wymagania."
     }
 ]
