@@ -215,5 +215,31 @@
         "api_error": {
             "error": "Brak odpowiedzi AI dla atrybutów."
         }
+    },
+    {
+        "ID_Produktu": "575",
+        "Nazwa_Produktu": "PU01 PODPÓRKI DO POMPEK",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to uchwyty do pompek, które są akcesoriami treningowymi w fitness. Kategoria 'Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe' (ID 4353) jest kategorią-liściem i najlepiej pasuje, ponieważ nie ma bardziej szczegółowej kategorii jak 'Podpórki do pompek'. Wskazówka systemu OLX potwierdza tę ścieżkę, co zwiększa trafność wyboru.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
+    },
+    {
+        "ID_Produktu": "577",
+        "Nazwa_Produktu": "YB01 (PG 55CM) PIŁKA GIMNASTYCZNA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Piłka gimnastyczna to typowe akcesorium treningowe używane w fitness, jodze, pilatesie i rehabilitacji, co idealnie pasuje do ścieżki 'Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń' (kategoria-liść). Opis produktu podkreśla zastosowanie do ćwiczeń i brak bardziej szczegółowej podkategorii.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
     }
 ]

@@ -58,5 +58,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to ciężarek żeliwny używany do ćwiczeń siłowych i fitness, co dokładnie odpowiada liściowej kategorii 'Obciążenia' w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Wskazówka systemu OLX jest zgodna z analizą, a bardziej szczegółowe kategorie w tej gałęzi nie istnieją."
+    },
+    {
+        "ID_Produktu": "515",
+        "Nazwa_Produktu": "17025 CIĘŻAREK ŻELIWNY POKRYTY NEOPRENEM 1.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ciężarek do ćwiczeń siłowych i fitness, co bezpośrednio odpowiada kategorii 'Obciążenia' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Opis wskazuje na zastosowanie w treningu domowym, fitness i rehabilitacji, potwierdzając przynależność do tej kategorii."
+    },
+    {
+        "ID_Produktu": "516",
+        "Nazwa_Produktu": "17025 CIĘŻAREK ŻELIWNY POKRYTY NEOPRENEM 1.5 KG",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek do ćwiczeń siłowych i fitness, co bezpośrednio odpowiada kategorii Obciążenia w dziale Sprzęt siłowy pod Fitness w Sport i Hobby. Wskazówka systemu OLX również potwierdza tę ścieżkę."
+    },
+    {
+        "ID_Produktu": "517",
+        "Nazwa_Produktu": "17025 CIĘŻAREK ŻELIWNY POKRYTY NEOPRENEM 2.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Ciężarek żeliwny to sprzęt do ćwiczeń siłowych i fitness, co idealnie pasuje do kategorii 'Obciążenia' w 'Sprzęt siłowy' (Fitness). Wskazówka systemu potwierdza tę ścieżkę, a opis produktu wskazuje na zastosowanie w treningu siłowym i fitness."
     }
 ]
