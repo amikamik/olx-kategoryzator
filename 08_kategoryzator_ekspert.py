@@ -490,7 +490,9 @@ Zwróć JSON z dwoma kluczami:
             prompt=prompt_rozmiary,
             provider=config_obj.ACTIVE_LLM_PROVIDER,
             model_name=config_obj.OTHER_TASKS_MODEL,
-            api_key=config_obj.GEMINI_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" else config_obj.OPENAI_API_KEY,
+            api_key=(config_obj.DEEPSEEK_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "DEEPSEEK" 
+                     else config_obj.GEMINI_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" 
+                     else config_obj.OPENAI_API_KEY),
             response_format_json=True
         )
         
@@ -956,7 +958,9 @@ Przykład odpowiedzi:
                         prompt=prompt_dla_atrybutow,
                         provider=config.ACTIVE_LLM_PROVIDER,
                         model_name=config.OTHER_TASKS_MODEL,
-                        api_key=config.GEMINI_API_KEY if config.ACTIVE_LLM_PROVIDER == 'GEMINI' else config.OPENAI_API_KEY,
+                        api_key=(config.DEEPSEEK_API_KEY if config.ACTIVE_LLM_PROVIDER == "DEEPSEEK" 
+                                 else config.GEMINI_API_KEY if config.ACTIVE_LLM_PROVIDER == 'GEMINI' 
+                                 else config.OPENAI_API_KEY),
                         response_format_json=True
                     )
 
