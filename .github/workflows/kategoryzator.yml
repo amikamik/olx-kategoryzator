@@ -49,7 +49,7 @@ jobs:
 
       - name: ⚙️ Przygotuj konfigurację z secretów
         run: |
-          cat > config/config.py << 'EOF'
+          cat > config/config.py << EOF
           import os
           
           # --- Konfiguracja globalna ---
@@ -61,12 +61,12 @@ jobs:
           GEMINI_TEMPERATURE = 0.0
           
           # --- Konfiguracja OpenAI ---
-          OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY', '')
+          OPENAI_API_KEY = "${{ secrets.OPENAI_API_KEY }}"
           OPENAI_MODEL_NAME = "gpt-5-nano"
           OPENAI_TEMPERATURE = 1.0
           
           # --- Konfiguracja DeepSeek ---
-          DEEPSEEK_API_KEY = "sk-ff647e0c3be04ce6b68b86fc7134e5e0"
+          DEEPSEEK_API_KEY = "${{ secrets.DEEPSEEK_API_KEY }}"
           DEEPSEEK_MODEL_NAME = "deepseek-reasoner"
           DEEPSEEK_TEMPERATURE = 1.0
           
@@ -77,7 +77,7 @@ jobs:
           # --- Konfiguracja OLX ---
           CLIENT_ID = "202557"
           CLIENT_SECRET = "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
-          ACCESS_TOKEN = os.environ.get('OLX_ACCESS_TOKEN', '')
+          ACCESS_TOKEN = "${{ secrets.OLX_ACCESS_TOKEN }}"
           REFRESH_TOKEN = "8bf78bbca8df822b188fdde14df9a468fb28be23"
           
           # Dane kontaktowe
