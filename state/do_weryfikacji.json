@@ -163,5 +163,57 @@
         "api_error": {
             "error": "Brak odpowiedzi AI dla atrybutów."
         }
+    },
+    {
+        "ID_Produktu": "439",
+        "Nazwa_Produktu": "SK03  SKAKANKA SKÓRA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalne_ID_AI": 4349,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skakanka przeznaczona do treningu fitness, co bezpośrednio odpowiada kategorii 'Skakanki' w ścieżce 'Sport i Hobby > Fitness > Akcesoria treningowe'. Opis podkreśla zastosowanie w spalaniu kalorii i poprawie kondycji, a kategoria jest najbardziej szczegółowa i liściowa w tej gałęzi.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
+    },
+    {
+        "ID_Produktu": "440",
+        "Nazwa_Produktu": "SK07 SKAKANKA SKÓRA+ DREWNIANA RĄCZKA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalne_ID_AI": 4349,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skakanka (jump rope), używana jako akcesorium treningowe w fitnessie. System OLX sugeruje ścieżkę 'Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki', która jest dostępna w drzewie kategorii jako liść (id 4349), dokładnie odpowiadając tytułowi i opisowi produktu.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
+    },
+    {
+        "ID_Produktu": "441",
+        "Nazwa_Produktu": "SK08 SKAKANKA  Z LICZNIKIEM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalne_ID_AI": 4349,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skakanka z licznikiem, używana do treningu fitness, co idealnie pasuje do kategorii 'Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki'. Kategoria jest liściem i najbardziej szczegółowa dla tego typu produktu.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
+    },
+    {
+        "ID_Produktu": "442",
+        "Nazwa_Produktu": "EG03 EKSPANDER GUMOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gumowy ekspander używany do treningu fitness i rehabilitacji, co bezpośrednio odpowiada kategorii 'Taśmy i gumy do ćwiczeń' w gałęzi Sport i Hobby > Fitness > Akcesoria treningowe. Kategoria ta jest szczegółowa i semantycznie najlepiej pasuje do opisu, unikając ogólnych kategorii takich jak 'Pozostałe'.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
     }
 ]
