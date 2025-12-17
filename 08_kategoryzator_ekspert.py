@@ -488,11 +488,9 @@ Zwróć JSON z dwoma kluczami:
         
         llm_response = call_llm_api(
             prompt=prompt_rozmiary,
-            provider=config_obj.ACTIVE_LLM_PROVIDER,
+            provider="OPENAI",
             model_name=config_obj.OTHER_TASKS_MODEL,
-            api_key=(config_obj.DEEPSEEK_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "DEEPSEEK" 
-                     else config_obj.GEMINI_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" 
-                     else config_obj.OPENAI_API_KEY),
+            api_key=config_obj.OPENAI_API_KEY,
             response_format_json=True
         )
         
@@ -956,11 +954,9 @@ Przykład odpowiedzi:
 """
                     wybrane_atrybuty_str = call_llm_api(
                         prompt=prompt_dla_atrybutow,
-                        provider=config.ACTIVE_LLM_PROVIDER,
+                        provider="OPENAI",
                         model_name=config.OTHER_TASKS_MODEL,
-                        api_key=(config.DEEPSEEK_API_KEY if config.ACTIVE_LLM_PROVIDER == "DEEPSEEK" 
-                                 else config.GEMINI_API_KEY if config.ACTIVE_LLM_PROVIDER == 'GEMINI' 
-                                 else config.OPENAI_API_KEY),
+                        api_key=config.OPENAI_API_KEY,
                         response_format_json=True
                     )
 
