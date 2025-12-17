@@ -24,9 +24,9 @@ CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "input", "kategorie_olx.json")
 RAPORT_PLIK_CSV = os.path.join(SCRIPT_DIR, "output", "raport_kategoryzacji.csv")
 SAMPLE_SIZE = 5 # Test na większej próbie
 
-# --- Inicjalizacja klienta OpenAI (jeśli będzie używany) ---
+# --- Inicjalizacja klienta OpenAI (zawsze inicjalizujemy, bo używamy do rozmiarów/atrybutów) ---
 OPENAI_CLIENT = None
-if config.ACTIVE_LLM_PROVIDER == "OPENAI" and config.OPENAI_API_KEY != "TWOJ_KLUCZ_API_OPENAI":
+if config.OPENAI_API_KEY and config.OPENAI_API_KEY != "TWOJ_KLUCZ_API_OPENAI":
     try:
         OPENAI_CLIENT = openai.OpenAI(api_key=config.OPENAI_API_KEY)
     except Exception as e:
