@@ -154,7 +154,7 @@ def pobierz_atrybuty_dla_kategorii(category_id, access_token):
         return None
 
 def call_llm_api(prompt, provider, model_name, api_key, response_format_json=False):
-    """Uniwersalna funkcja do wywoływania API wybranego modelu LLM (Gemini lub OpenAI)."""
+    """Uniwersalna funkcja do wywoływania API wybranego modelu LLM (Gemini, OpenAI lub DeepSeek)."""
     if provider == "GEMINI":
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
         headers = {'Content-Type': 'application/json'}
@@ -203,6 +203,32 @@ def call_llm_api(prompt, provider, model_name, api_key, response_format_json=Fal
         except Exception as e:
             print(f"Błąd wywołania OpenAI API: {e}")
             return None
+    
+    elif provider == "DEEPSEEK":
+        url = "https://api.deepseek.com/v1/chat/completions"
+        headers = {
+            'Content-Type': 'application/json',
+            'Authorization': f'Bearer {api_key}'
+        }
+        
+        messages = [{"role": "user", "content": prompt}]
+        payload = {
+            "model": model_name,
+            "messages": messages,
+            "temperature": config.DEEPSEEK_TEMPERATURE
+        }
+        
+        if response_format_json:
+            payload["response_format"] = {"type": "json_object"}
+        
+        try:
+            response = requests.post(url, headers=headers, json=payload, timeout=120)
+            response.raise_for_status()
+            return response.json()['choices'][0]['message']['content']
+        except requests.exceptions.RequestException as e:
+            print(f"Błąd wywołania DeepSeek API: {e}")
+            return None
+    
     else:
         raise ValueError(f"Nieznany dostawca LLM: {provider}")
 
@@ -295,7 +321,9 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
         prompt=expert_prompt,
         provider=config_obj.ACTIVE_LLM_PROVIDER,
         model_name=config_obj.CATEGORIZATION_MODEL,
-        api_key=config_obj.GEMINI_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" else config_obj.OPENAI_API_KEY,
+        api_key=(config_obj.DEEPSEEK_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "DEEPSEEK" 
+                 else config_obj.GEMINI_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" 
+                 else config_obj.OPENAI_API_KEY),
         response_format_json=True
     )
 

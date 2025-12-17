@@ -53,7 +53,7 @@ jobs:
           import os
           
           # --- Konfiguracja globalna ---
-          ACTIVE_LLM_PROVIDER = "OPENAI"
+          ACTIVE_LLM_PROVIDER = "DEEPSEEK"
           
           # --- Konfiguracja Gemini ---
           GEMINI_API_KEY = "AIzaSyA3eSK_cwRKCEzys_4EY4OrIvpdda5eIc0"
@@ -65,9 +65,14 @@ jobs:
           OPENAI_MODEL_NAME = "gpt-5-nano"
           OPENAI_TEMPERATURE = 1.0
           
+          # --- Konfiguracja DeepSeek ---
+          DEEPSEEK_API_KEY = "sk-ff647e0c3be04ce6b68b86fc7134e5e0"
+          DEEPSEEK_MODEL_NAME = "deepseek-reasoner"
+          DEEPSEEK_TEMPERATURE = 1.0
+          
           # Modele dla różnych zadań:
-          CATEGORIZATION_MODEL = "gpt-5-mini"      # Model używany TYLKO do kategoryzacji produktów
-          OTHER_TASKS_MODEL = "gpt-5-nano"         # Model używany do rozmiaru paczek, atrybutów, itp.
+          CATEGORIZATION_MODEL = "deepseek-reasoner"  # Model używany TYLKO do kategoryzacji produktów
+          OTHER_TASKS_MODEL = "gpt-5-nano"            # Model używany do rozmiaru paczek, atrybutów, itp.
           
           # --- Konfiguracja OLX ---
           CLIENT_ID = "202557"
