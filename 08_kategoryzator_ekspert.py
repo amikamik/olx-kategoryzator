@@ -215,9 +215,11 @@ def call_llm_api(prompt, provider, model_name, api_key, response_format_json=Fal
         payload = {
             "model": model_name,
             "messages": messages,
-            "temperature": config.DEEPSEEK_TEMPERATURE
+            "temperature": 1.0,
+            "max_tokens": 8000
         }
         
+        # DeepSeek wspiera response_format tak jak OpenAI
         if response_format_json:
             payload["response_format"] = {"type": "json_object"}
         
@@ -227,6 +229,12 @@ def call_llm_api(prompt, provider, model_name, api_key, response_format_json=Fal
             return response.json()['choices'][0]['message']['content']
         except requests.exceptions.RequestException as e:
             print(f"Błąd wywołania DeepSeek API: {e}")
+            if hasattr(e, 'response') and e.response is not None:
+                try:
+                    error_details = e.response.json()
+                    print(f"Szczegóły błędu: {error_details}")
+                except:
+                    print(f"Response text: {e.response.text}")
             return None
     
     else:
