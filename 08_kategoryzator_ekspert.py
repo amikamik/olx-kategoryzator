@@ -153,8 +153,20 @@ def pobierz_atrybuty_dla_kategorii(category_id, access_token):
         print(f"Błąd połączenia podczas pobierania atrybutów: {e}")
         return None
 
-def call_llm_api(prompt, provider, model_name, api_key, response_format_json=False):
-    """Uniwersalna funkcja do wywoływania API wybranego modelu LLM (Gemini, OpenAI lub DeepSeek)."""
+def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, response_format_json=False, messages=None):
+    """Uniwersalna funkcja do wywoływania API wybranego modelu LLM (Gemini, OpenAI lub DeepSeek).
+    
+    Args:
+        prompt: String prompt (legacy, konwertowany na messages)
+        messages: Array of message dicts [{'role': 'system/user', 'content': '...'}]
+        Jeśli podane messages, prompt jest ignorowany.
+    """
+    # Konwersja prompt na messages jeśli messages nie podane
+    if messages is None:
+        if prompt is None:
+            raise ValueError("Musisz podać albo prompt albo messages")
+        messages = [{"role": "user", "content": prompt}]
+    
     if provider == "GEMINI":
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
         headers = {'Content-Type': 'application/json'}
@@ -164,9 +176,11 @@ def call_llm_api(prompt, provider, model_name, api_key, response_format_json=Fal
         }
         if response_format_json:
             generation_config["response_mime_type"] = "application/json"
-            
+        
+        # Gemini używa innego formatu - łączymy messages w jeden text
+        combined_text = "\n\n".join([msg["content"] for msg in messages])
         payload = {
-            "contents": [{"parts": [{"text": prompt}]}] ,
+            "contents": [{"parts": [{"text": combined_text}]}] ,
             "generationConfig": generation_config
         }
         
@@ -188,7 +202,6 @@ def call_llm_api(prompt, provider, model_name, api_key, response_format_json=Fal
             print("Klient OpenAI nie został zainicjalizowany. Sprawdź klucz API w config.py.")
             return None
         try:
-            messages = [{"role": "user", "content": prompt}]
             response_kwargs = {
                 "model": model_name, 
                 "messages": messages, 
@@ -211,7 +224,6 @@ def call_llm_api(prompt, provider, model_name, api_key, response_format_json=Fal
             'Authorization': f'Bearer {api_key}'
         }
         
-        messages = [{"role": "user", "content": prompt}]
         payload = {
             "model": model_name,
             "messages": messages,
@@ -292,7 +304,8 @@ def process_single_product(product, path_map, config_obj):
     olx_suggestion_path = path_map.get(int(top_olx_suggestion['id']), "Brak") if top_olx_suggestion else "Brak sugestii OLX"
 
     # --- Krok 2: Kategoryzacja przez "Eksperta" AI z pełnym kontekstem ---
-    expert_prompt = f"""Jesteś ekspertem od kategoryzacji produktów na platformie OLX. 
+    # System message - STAŁY (cache hit w DeepSeek)
+    system_message = f"""Jesteś ekspertem od kategoryzacji produktów na platformie OLX. 
 Twoim zadaniem jest przypisanie produktu do DOKŁADNIE JEDNEJ kategorii z poniższego drzewa kategorii.
 
 WYMAGANIA:
@@ -302,15 +315,6 @@ WYMAGANIA:
 - Patrz na CAŁĄ ścieżkę kategorii (od korzenia do liścia), nie tylko na pojedyncze słowa w nazwie.
 - Jeżeli istnieje bardziej szczegółowa, pasująca kategoria w tej samej gałęzi, wybierz ją zamiast ogólnej lub typu „Pozostałe" / „Inne".
 - Jeśli żadna kategoria nie pasuje idealnie, wybierz tę, która będzie najmniej myląca dla kupującego.
-
-Dane produktu:
-- Tytuł: "{product['name']}"
-- Opis: "{clean_html(product['description'])[:5000]}"
-
-Wskazówka od systemu OLX (użyj TYLKO jako podpowiedzi do zawężenia poszukiwań, NIE jako źródła prawdy):
-"{olx_suggestion_path}"
-
-Użyj tej ścieżki jedynie do zawężenia poszukiwań w podobnej gałęzi drzewa. Jeśli sugerowana ścieżka wyraźnie nie pasuje do tytułu/opisu produktu, całkowicie ją zignoruj i wybierz kategorię wyłącznie na podstawie analizy produktu.
 
 Drzewo kategorii OLX (jedyne źródło prawdy):
 ```json
@@ -322,11 +326,23 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
   "kategoria_id": <ID wybranej kategorii jako integer>,
   "pewnosc": <Twoja pewność wyboru od 0 do 100>,
   "uzasadnienie": "<Krótkie wyjaśnienie dlaczego wybrałeś tę kategorię>"
-}}
-"""
+}}"""
+    
+    # User message - ZMIENNY (konkretny produkt)
+    user_message = f"""Dane produktu:
+- Tytuł: "{product['name']}"
+- Opis: "{clean_html(product['description'])[:5000]}"
+
+Wskazówka od systemu OLX (użyj TYLKO jako podpowiedzi do zawężenia poszukiwań, NIE jako źródła prawdy):
+"{olx_suggestion_path}"
+
+Użyj tej ścieżki jedynie do zawężenia poszukiwań w podobnej gałęzi drzewa. Jeśli sugerowana ścieżka wyraźnie nie pasuje do tytułu/opisu produktu, całkowicie ją zignoruj i wybierz kategorię wyłącznie na podstawie analizy produktu."""
     
     llm_response_str = call_llm_api(
-        prompt=expert_prompt,
+        messages=[
+            {"role": "system", "content": system_message},
+            {"role": "user", "content": user_message}
+        ],
         provider=config_obj.ACTIVE_LLM_PROVIDER,
         model_name=config_obj.CATEGORIZATION_MODEL,
         api_key=(config_obj.DEEPSEEK_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "DEEPSEEK" 
