@@ -98,5 +98,70 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "427",
+        "Nazwa_Produktu": "EM01 EKSPANDER GUMOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gumowy ekspander do ćwiczeń siłowych i rehabilitacyjnych, co semantycznie odpowiada kategorii 'Taśmy i gumy do ćwiczeń' (id 4351) pod 'Akcesoria treningowe' w dziale Fitness. Kategoria ta jest liściem i szczegółowo opisuje sprzęt oporowy z gumy, lepsza niż ogólne 'Pozostałe'.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
+    },
+    {
+        "ID_Produktu": "428",
+        "Nazwa_Produktu": "EM03 EKSPANDER METALOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Ekspander to przenośne akcesorium do ćwiczeń siłowych i rehabilitacyjnych, które nie pasuje do innych konkretnych podkategorii w 'Akcesoria treningowe' (np. hantelki, maty, piłki), więc wybrano kategorię 'Pozostałe'. Podpowiedź systemowa wskazuje na gałąź 'Sport i Hobby > Fitness > Akcesoria treningowe', co potwierdza trafność wyboru. Alternatywnie mogłaby to być kategoria 'Sprzęt siłowy > Pozostałe', ale ekspander jest bardziej podobny do mniejszych akcesoriów treningowych niż do dużego sprzętu siłowego jak sztangi czy ławki.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
+    },
+    {
+        "ID_Produktu": "430",
+        "Nazwa_Produktu": "EG02 EKSPANDER  GUMOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Ekspander gumowy to urządzenie treningowe wykorzystujące opór gumy/sprężyny, służące do ćwiczeń siłowych, rozciągających i rehabilitacyjnych. Kategoria 'Taśmy i gumy do ćwiczeń' (ID 4351) jest najbardziej szczegółową i semantycznie dopasowaną kategorią-liściem w gałęzi 'Sport i Hobby > Fitness > Akcesoria treningowe', bezpośrednio opisującą tego typu produkt.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
+    },
+    {
+        "ID_Produktu": "431",
+        "Nazwa_Produktu": "GU01 GUMA DO ĆWICZEŃ HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gumy oporowe do treningu siłowego, aerobowego, fitness, pilates i rehabilitacji, co dokładnie odpowiada kategorii 'Taśmy i gumy do ćwiczeń' w gałęzi 'Sport i Hobby > Fitness > Akcesoria treningowe'. Kategoria jest liściem i najbardziej szczegółowa w tej ścieżce, zgodna z wskazówką systemu.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
+    },
+    {
+        "ID_Produktu": "432",
+        "Nazwa_Produktu": "GU02 GUMA DO ĆWICZEŃ HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to guma oporowa do treningu siłowego, fitness, pilates i rehabilitacji, co bezpośrednio odpowiada kategorii 'Taśmy i gumy do ćwiczeń' w dziale Fitness. Kategoria jest liściem w drzewie i jest najbardziej szczegółowa w tej gałęzi, zgodna z tytułem i opisem produktu.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
     }
 ]
