@@ -128,5 +128,85 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to obciążniki (obciążenia) na kostki i nadgarstki używane w fitness, co bezpośrednio odpowiada kategorii 'Obciążenia' (ID 4339) w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Tytuł i opis wskazują na zastosowanie w ćwiczeniach jak pilates, jogging, aerobik, co jest spójne z kategorią fitness. Wskazówka systemu OLX potwierdza tę ścieżkę, a kategoria jest liściem, więc spełnia wymagania."
+    },
+    {
+        "ID_Produktu": "837",
+        "Nazwa_Produktu": "ZG1000R ZACISKI LOCK JAW RED HMS (2 szt)",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Hamulce i przerzutki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zaciski szczękowe używane do zabezpieczania obciążenia na gryfie w treningu siłowym, co bezpośrednio związane jest z kategorią Fitness. W ramach Fitness, podkategoria Sprzęt siłowy obejmuje akcesoria do treningu z obciążeniami, a ponieważ zaciski nie pasują do specyficznych podkategorii jak Sztangi czy Hantle, wybrano kategorię-liść 'Pozostałe' w Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "887",
+        "Nazwa_Produktu": "KZG 4 KG KETTLEBELL ŻELIWNY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Kettlebell to obciążenie do treningu siłowego, co bezpośrednio odpowiada kategorii 'Obciążenia' w gałęzi 'Sprzęt siłowy' pod 'Fitness'. Wskazówka systemu potwierdza tę ścieżkę."
+    },
+    {
+        "ID_Produktu": "983",
+        "Nazwa_Produktu": "HEX PRO 2 KG HANTLA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantle do treningu siłowego, co dokładnie pasuje do kategorii Hantle (liść) w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy. Wskazówka systemu OLX potwierdza ten wybór."
+    },
+    {
+        "ID_Produktu": "1039",
+        "Nazwa_Produktu": "KNV04 BLACK KETTLEBELL ŻELIWNY POKRYTY WINYLEM HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kettlebell, czyli obciążenie używane w treningu siłowym i fitness. Kategoria 'Obciążenia' znajduje się w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy', co dokładnie odpowiada przeznaczeniu produktu."
+    },
+    {
+        "ID_Produktu": "1342",
+        "Nazwa_Produktu": "H108 ROZM. XS CIEMNY róż ZESTAW OCHRANIACZY",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalne_ID_AI": 4294,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw ochraniaczy na nadgarstki, łokcie i kolana, które są typowym sprzętem ochronnym w jeździectwie. Kategoria 'Ochraniacze i owijki' pod 'Akcesoria jeździeckie' jest kategorią-liściem i semantycznie najlepiej pasuje do opisu ochraniaczy, potwierdzając to wskazówką OLX."
+    },
+    {
+        "ID_Produktu": "1368",
+        "Nazwa_Produktu": "CK05 KASTET PINK CIĘŻAREK ŻELIWNY POKRYTY NEOPRENEM 0.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny używany do ćwiczeń siłowych i fitness, co bezpośrednio odpowiada kategorii Hantle w Sprzęcie siłowym pod Fitness. Kształt kastetu nie zmienia podstawowego przeznaczenia jako sprzęt do treningu z obciążeniem."
+    },
+    {
+        "ID_Produktu": "1370",
+        "Nazwa_Produktu": "CK15 KASTET DARK BLUE CIĘŻAREK ŻELIWNY POKRYTY NEOPRENEM 1.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny do ćwiczeń siłowych i fitness, co bezpośrednio odpowiada kategorii 'Hantle' w 'Sprzęt siłowy' (część gałęzi Fitness). Jest to bardziej szczegółowe niż sugerowane 'Akcesoria treningowe > Pozostałe', zgodnie z zasadą wyboru najbardziej pasującej kategorii-liścia."
+    },
+    {
+        "ID_Produktu": "1371",
+        "Nazwa_Produktu": "CK20 KASTET GREEN CIĘŻAREK ŻELIWNY POKRYTY NEOPRENEM 2.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ciężarek (hantel) do ćwiczeń siłowych i fitness, co bezpośrednio odpowiada kategorii 'Hantle' w gałęzi 'Sprzęt siłowy' pod 'Fitness'. Jest to bardziej specyficzna i pasująca kategoria niż sugerowana 'Akcesoria treningowe > Pozostałe', ponieważ produkt jest podstawowym sprzętem siłowym, a nie akcesorium ogólnym."
     }
 ]

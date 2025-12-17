@@ -241,5 +241,68 @@
         "api_error": {
             "error": "Brak odpowiedzi AI dla atrybutów."
         }
+    },
+    {
+        "ID_Produktu": "873",
+        "Nazwa_Produktu": "YM03 GRAY MATA DO YOGI HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata do jogi/fitness, która jest klasyfikowana jako akcesorium treningowe w kategorii Fitness. Kategoria 'Maty' (id 4346) jest liściem w ścieżce Sport i Hobby > Fitness > Akcesoria treningowe, co idealnie pasuje do opisu i tytułu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "953",
+        "Nazwa_Produktu": "PU 70x24 82A PRZEZROCZYSTE (4 szt.) + ABEC-7 (8 szt.) ZESTAW NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Farby",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "1102",
+        "Nazwa_Produktu": "SK54 BLACK/RED SZYBKA SKAKANKA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "1280",
+        "Nazwa_Produktu": "KJ01 BLUE YOGA BLOK HMS",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Części do maszyn rolniczych",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "1334",
+        "Nazwa_Produktu": "BLM01 10CM POJEDYNCZA PIŁKA DO MASAŻU HMS",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Urządzenia do masażu",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "1414",
+        "Nazwa_Produktu": "AG01 AGRAFKA ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Wioślarze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "75%",
+        "Uzasadnienie_AI": "Produkt to przyrząd gimnastyczny 'agrafka' do ćwiczeń mięśni, przenośny i niewielki, co kwalifikuje go jako akcesorium treningowe w kategorii fitness. Nie pasuje ściśle do innych specyficznych podkategorii (np. taśmy, hantle), więc wybrano 'Pozostałe' w 'Akcesoria treningowe' jako najbardziej odpowiednią kategorię-liść."
     }
 ]

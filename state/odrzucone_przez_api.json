@@ -1,1 +1,401 @@
-﻿[]
+[
+    {
+        "ID_Produktu": "830",
+        "Nazwa_Produktu": "ZG1000B ZACISKI LOCK JAW BLACK HMS (2 szt)",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Hamulce i przerzutki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Zaciski szczękowe do stabilizacji obciążenia na gryfie są akcesoriami treningowymi do fitness, co idealnie pasuje do kategorii 'Akcesoria treningowe' pod 'Fitness' w 'Sport i Hobby'. Wskazówka systemu dotycząca rowerów została zignorowana, gdyż produkt nie dotyczy rowerów.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zg1000b zaciski lock jaw black hms (2 szt)",
+                "description": "ZG1000 HMS to wysokiej klasy zaciski szczękowe. Produkt gwarantuje stabilne położenie ciężaru na gryfie w czasie wykonywania ćwiczeń. Nasadki posiadają w części wewnętrzne gumowe elementy zapobiegające luzowaniu obciążenia . Zaciski szczękowe marki HMS charakteryzują się wysoką jakością wykonania, co przekłada się na długą żywotność produktu. ZG1000 HMS są łatwe w użytkowaniu - dzięki nim z łatwością można wymieniać obciążenie na gryfie. Specyfikacja: Materiał: plastik Szerokość: 48 mm Średnica (wewnętrzna): 50 mm Kolory: czarny Ilość zacisków: 2 szt. Uwagi: Gwarancja 24 miesiące",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 56.76,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img_25.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/85288.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/85287.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/85286.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img_26.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1153",
+        "Nazwa_Produktu": "UW03 UCHWYT HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to uchwyt do treningu siłowego na wyciągu, używany w fitness, co plasuje go w kategorii Sport i Hobby > Fitness > Akcesoria treningowe. Wskazówka systemu o uchwytach do telefonów została zignorowana, ponieważ nie pasuje do opisu. Brak bezpośredniej kategorii dla uchwytów do wyciągów, więc wybrano 'Pozostałe' w Akcesoria treningowe jako najbardziej odpowiednie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Uw03 uchwyt hms",
+                "description": "UW03 HMS to pojedynczy uchwyt, przeznaczony do treningu na wyciągu górnym lub dolnym. Można wykorzystać go do całej gamy ćwiczeń na różne grupy mięśniowe górnych partii ciała, zaczynając od małych grup jak biceps i triceps, przez mięśnie naramienne, aż do pleców i klatki piersiowej. Stalowa, chropowata rękojeść zapobiega wyślizgnięcia się przyboru z ręki, jednocześnie wymagając od nas mocniejszego chwytu. Dzięki temu pracujemy również nad rozbudową mięśni przedramienia. Wykonanie z wysokiej jakości stali umożliwia trening ze znacznym obciążeniem. Obrotowa rączka zamontowana w modelu UW03 umożliwia szybszy i efektywniejszy trening tych partii mięśni, których nie jest w stanie objąć klasyczny uchwyt. Model UW03 HMS pomoże łatwo, a przede wszystkim symetrycznie rozbudować mięśnie. Specyfikacja: Przeznaczony do wyciągu górnego i dolnego Materiał: chromowana stal Długość części chwytnej (mm): 122 Średnica części chwytnej (mm): 25 Ilość miejsc chwytnych: 1 Uchwyt: radełkowany Obrotowy Wymiary: długość (mm): 25 szerokość (mm): 143 wysokość (mm): 160 średnica (mm): 10 Średnica otworu (mm): 15 Waga produktu (kg): 0.75 Uwagi: Nie przeznaczony do użytku komercyjnego Gwarancja 24 miesiące",
+                "category_id": 4353,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 54.82,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/UW03_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/UW03_MAXI_08.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/UW03_MAXI_07.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/UW03_MAXI_03.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/UW03_MAXI_02.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/UW03_MAXI_04.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115689.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115690.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.|Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.|Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1183",
+        "Nazwa_Produktu": "RST03 ORANGE/GRAY ROZM. M RĘKAWICE NA SIŁOWNIĘ HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Odzież i obuwie rowerowe > Rękawiczki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Rękawice są przeznaczone do treningu siłowego i fitness, służą jako akcesorium ochronne i wspomagające ćwiczenia, co idealnie pasuje do kategorii 'Akcesoria treningowe' w dziale 'Fitness'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rst03 orange/gray rozm. m rękawice na siłownię hms",
+                "description": "Przedstawiamy rękawiczki służące do treningu siłowego jak i fitness. RST03 to rękawiczki męskie, dostępnie w rozmiarach od S do L. Marka HMS opiera się na wykorzystaniu materiałów najwyższej klasy, dlatego rękawiczki zostały wykonane z wysokiej jakości tworzywa. Wykonane zostały z materiału Mesh, który przenosi wilgoć na zewnętrzną stronę tkaniny i dłonie pozostają suche. Przewiewność gwarantuje komfort użytkowania. Sprawiają, że sprzęt nie ślizga się w dłoniach. Są bezpieczne w użyciu. Zapewniają ochronę przed odciskami, otarciami i urazami. Stabilizują również nadgarstki, dzięki czemu chronią przez kontuzjami. Idealnie sprawdzą się podczas ćwiczeń podnosząc komfort i przyjemność treningu ! Specyfikacja: materiał: skóra, mesh, silikon rozmiary: M obwód w cm: M(21) k olor: pomarańczowy",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 45.17,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179583.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179584.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179585.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179586.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179587.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179588.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179589.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1184",
+        "Nazwa_Produktu": "RST03 ORANGE/GRAY ROZM. L RĘKAWICE NA SIŁOWNIĘ HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Odzież i obuwie rowerowe > Rękawiczki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Rękawice opisane są jako przeznaczone do treningu siłowego i fitness, z funkcjami ochronnymi i stabilizującymi nadgarstki, co idealnie pasuje do kategorii 'Akcesoria treningowe' w dziale 'Fitness' (Sport i Hobby). Wskazówka systemu dotycząca rowerów została zignorowana, ponieważ produkt nie jest związany z kolarstwem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rst03 orange/gray rozm. l rękawice na siłownię hms",
+                "description": "Przedstawiamy rękawiczki służące do treningu siłowego jak i fitness. RST03 to rękawiczki męskie, dostępnie w rozmiarach od S do L. Marka HMS opiera się na wykorzystaniu materiałów najwyższej klasy, dlatego rękawiczki zostały wykonane z wysokiej jakości tworzywa. Wykonane zostały z materiału Mesh, który przenosi wilgoć na zewnętrzną stronę tkaniny i dłonie pozostają suche. Przewiewność gwarantuje komfort użytkowania. Sprawiają, że sprzęt nie ślizga się w dłoniach. Są bezpieczne w użyciu. Zapewniają ochronę przed odciskami, otarciami i urazami. Stabilizują również nadgarstki, dzięki czemu chronią przez kontuzjami. Idealnie sprawdzą się podczas ćwiczeń podnosząc komfort i przyjemność treningu ! Specyfikacja: materiał: skóra, mesh, silikon rozmiary: L obwód w cm: L(22) kolor: pomarańczowy",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 45.17,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179590.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179591.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179592.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179593.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179594.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179595.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179596.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1187",
+        "Nazwa_Produktu": "UW01 UCHWYT HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to uchwyt do ćwiczeń na wyciągu, służący do treningu siłowego, co plasuje go w obszarze sportu i fitness. Kategoria 'Akcesoria treningowe' pod 'Fitness' najlepiej oddaje charakter produktu jako akcesorium do sprzętu treningowego. Ponieważ nie pasuje on bezpośrednio do żadnej z wyszczególnionych podkategorii (jak hantle czy maty), wybrano 'Pozostałe' w ramach 'Akcesoria treningowe'. Wskazówka systemu dotycząca uchwytów w elektronice została zignorowana, jako że produkt nie ma związku z telefonami.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Uw01 uchwyt hms",
+                "description": "UW01 HMS to pojedynczy uchwyt, przeznaczony do treningu na wyciągu górnym lub dolnym. Można wykorzystać go do całej gamy ćwiczeń na różne grupy mięśniowe górnych partii ciała, zaczynając od małych grup jak biceps i triceps, przed mięśnie naramienne, aż do pleców i klatki piersiowej. Ogumowana rękojeść umożliwia pewny i komfortowy chwyt. Dzięki temu możemy skupić się na dokładnym wykonaniu ćwiczenia, bez obawy o to, że uchwyt może wyślizgnąć się z rąk. Wykonanie z wysokiej jakości stali daje możliwość treningu ze znacznym obciążeniem. Uchwyt jest także obrotowy, co pozwala zwiększyć zakres ruchu. Model UW01 HMS jest gwarancją łatwego, a przede wszystkim symetrycznego rozbudowania mięśni. Specyfikacja: Przeznaczony do wyciągu górnego i dolnego Materiał: chromowana stal Długość części chwytnej (mm): 110 Średnica części chwytnej (mm): 32 Ilość miejsc chwytnych: 1 Uchwyt: gumowany Obrotowy Wymiary: długość (mm): 32 szerokość (mm): 140 wysokość (mm): 158 średnica (mm): 10 Średnica otworu (mm): 15 Waga produktu (kg): 0.73 Uwagi: Nie przeznaczony do użytku komercyjnego Gwarancja 24 miesiące",
+                "category_id": 4353,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 58.69,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126753.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126759.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126754.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126755.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126756.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126757.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126758.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.|Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.|Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+]
