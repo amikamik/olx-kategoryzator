@@ -317,5 +317,55 @@
         "api_error": {
             "error": "Błąd pobierania atrybutów z OLX API."
         }
+    },
+    {
+        "ID_Produktu": "1625",
+        "Nazwa_Produktu": "MS02 WAŁEK DO MASAŻU HMS",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Urządzenia do masażu",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "1738",
+        "Nazwa_Produktu": "SSB130 SMAR DO BIEŻNI W SPRAYU 450ML HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Bieżnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "70%",
+        "Uzasadnienie_AI": "Produkt to smar do bieżni, który jest akcesorium do konserwacji sprzętu fitness. Kategoria 'Akcesoria treningowe' w 'Fitness' najlepiej pasuje, a ponieważ nie ma specyficznej podkategorii dla smarów czy akcesoriów do bieżni, wybrano 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "2254",
+        "Nazwa_Produktu": "NA1590 PRAWY ROZM. L/XL STABILIZATOR NADGARSTKA HMS",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Opaski i stabilizatory",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "2261",
+        "Nazwa_Produktu": "SND1400 ROZM. XL NEOPRENOWE SZORTY WYSZCZUPLAJĄCE HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Szorty sportowe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "2328",
+        "Nazwa_Produktu": "OPX04 OPASKI TRENINGOWE NA KOSTKĘ (2szt) HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]

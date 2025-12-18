@@ -397,5 +397,311 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1589",
+        "Nazwa_Produktu": "UWC32 UCHWYT 2 SZTUKI HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyty do treningu siłowego, używane z wyciągami lub taśmami, co jest typowym akcesorium fitness. Kategoria 'Akcesoria treningowe' w gałęzi 'Sport i Hobby > Fitness' najlepiej odzwierciedla przeznaczenie produktu. Wskazówka OLX dotycząca uchwytów do telefonów została zignorowana jako niepasująca.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Uwc32 uchwyt 2 sztuki hms",
+                "description": "UWC32 to podwójne uchwyty, przeznaczone do treningu na wyciągu górnym lub dolnym, lub do przymocowania taśm treningowych. Można wykorzystać je do całej gamy ćwiczeń na różne grupy mięśniowe górnych partii ciała, zaczynając od małych grup jak biceps i triceps, przez mięśnie naramienne, aż do pleców i klatki piersiowej. Piankowe rękojeści gwarantują komfort wykonywania ćwiczeń chroniąc przed odciskami na dłoniach. Dodatkowo miękka rękojeść automatycznie sprawia, że mocniej zaciskamy uchwyt co sprawia, że mięśnie przedramienia będą mocno zaangażowane w trakcie ćwiczeń. Wysokiej jakości paski którymi mocujemy uchwyty do wyciągu, umożliwiają trening na znacznym obciążeniu. UWC32 idealnie sprawdzi się podczas rozbudowy swoich mięśni a także do ich rozciągnięcia w połączeniu z taśmami treningowymi. Specyfikacja: Specyfikacja: Materiał: PP, stal, EVA Przeznaczone do wyciągu górnego, dolnego, oraz taśm treningowych Dane techniczne: Długość części chwytnej (mm): 119 Średnica części chwytnej (mm): 35 Uchwyt: piankowy Wymiary: długość (mm): 44 szerokość (mm): 131 wysokość (mm): 278 Zestaw zawiera: 2 szt. Waga produktu (kg): 0.196 Uwagi: Gwarancja 24 miesiące",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.67,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/299755.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/299756.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/299757.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/299758.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1845",
+        "Nazwa_Produktu": "BR209 ONE SIZE ŚCIĄGACZ NA BRZUCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas na brzuch służący do wyszczuplania i wspomagania ćwiczeń, co bezpośrednio wpisuje się w kategorię akcesoriów treningowych w dziale fitness. Ignoruję wskazówkę OLX, gdyż dotyczy narzędzi, a nie sprzętu sportowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Br209 one size ściągacz na brzuch hms",
+                "description": "BR209 HMS - to ściągacz na brzuch. Pas wykonany jest z neoprenu oraz poliestru, dzięki czemu jest wyjątkowo pomocny w uzyskaniu wymarzonej sylwetki i wyszczupleniu jednego z najbardziej problematycznych miejsc, jakim jest brzuch. Ściągacz na brzuch BR209 HMS jest bardzo uniwersalny, można go zakładać niemal w każdej sytuacji. Jego efektywność zwiększa się jednak wraz ze wzrostem aktywności fizycznej. Podczas ćwiczeń dostarczamy organizmowi dużą dawkę ciepła, metabolizm przyspiesza, a co za tym idzie spalana jest tkanka tłuszczowa. Ściągacz BR209 HMS jest lekki i wygodny, nie powoduje uczucia dyskomfortu nawet podczas całodziennego noszenia. Wygodę w jego użytkowaniu gwarantuje zapięcie na zamek i pięciostopniowa regulacja obwodu, które pozwalają idealnie dostosować rozmiar pasa do wymiarów użytkownika. Dodatkowym atutem naszego pasa na brzuch jest jego szerokość - aż 26 cm. Specyfikacja Materiał: 70% neopren + 30% poliester Wymiary: długość: 98 cm szerokość: 26 cm Obwód pasa: pierwszy zamek: 98 cm drugi zamek: 91 cm trzeci zamek: 84 cm czwarty zamek: 77 cm piąty zamek: 70 cm Rozmiar: uniwersalny Wygodne zapięcie na zamek Uwagi Nie przeznaczony do użytku komercyjnego Gwarancja 24 miesiące",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 38.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/319694.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/319695.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/319696.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/319697.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/319698.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/319699.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/319700.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/319701.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "2096",
+        "Nazwa_Produktu": "PU 70x24 82A BIAŁE MATOWE (4 szt.) + ABEC-9 (8 szt.) ZESTAW NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Czasopisma",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kółka PU i łożyska ABEC-9, które są typowymi akcesoriami do rolek, deskorolek, hulajnóg lub wrotków, co bezpośrednio odpowiada kategorii 'Sport i Hobby > Skating > Akcesoria skating'. Wskazówka systemu jest niezwiązana i została zignorowana.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pu 70x24 82a białe matowe (4 szt.) + abec-9 (8 szt.) zestaw nils extreme",
+                "description": "Kółka PU BIAŁE MATOWE NILS EXTREME są wykonane z poliuretanu. Najważniejszymi parametrami kółek są twardość oraz średnica. Twardość kółek decyduje zarówno o komforcie jazdy jak i o przyczepności do podłoża. Kółka PU-82A zapewniają dobrą amortyzację oraz doskonałą adaptację do każdej nawierzchni. Średnica kółek ma bezpośredni wpływ na szybkość jazdy. Kółka o większej średnicy umożliwiają osiąganie większych prędkości, jednak nie gwarantują tak dużej manewrowości jak kółka o mniejszej średnicy. Łożysko ABEC 9, wykonane z wysokiej jakości stali węglowej, które zapewnia doskonałą twardość i wytrzymałość. Charakteryzuje się najniższym oporem toczenia co przekłada się na największą prędkość w amerykańskiej normie Annular Bearing Engineering Committee w skrócie ABEC. Istotnym parametrem tego łożyska jest mimośrodowość czyli okrągłość na torze w pierścieniu wewnętrznym i wynosi zaledwie 0,0012mm.Specyfikacja:Twardość kółka: 82ARozmiar: PU 70×24 mm/82AIlość w opakowaniu: 4 szt.Klasa łożysk: ABEC 9Ilość łożysk w opakowaniu: 8Ilość tulejek dystansowych: 4Uwagi:Nie przeznaczone do użytku komercyjnegoGwarancja 24 miesiące",
+                "category_id": 1679,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 52.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/324338.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/324339.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/324340.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/324341.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/324342.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "2419",
+        "Nazwa_Produktu": "ONX04 OWIJKI ŚCIĄGACZ USZTYWNIACZ NA NADGARSTEK (2szt) SKÓRA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to owijki na nadgarstki służące do ochrony i usztywnienia podczas treningu siłowego, co kwalifikuje je jako akcesoria treningowe w kategorii Fitness. Wskazówka systemu OLX sugeruje ścieżkę 'Sport i Hobby > Fitness > Akcesoria treningowe', co jest spójne z drzewem kategorii, gdzie 'Akcesoria treningowe' (id: 4317) jest kategorią-liściem pod 'Fitness' (id: 771). Nie ma bardziej szczegółowej podkategorii dla tego typu produktu, więc wybrano tę ogólną, ale pasującą kategorię.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Onx04 owijki ściągacz usztywniacz na nadgarstek (2szt) skóra hms",
+                "description": "ONX04 HMS – owijki na nadgarstki (2 szt). Produkt zapewnia idealne usztywnienie nadgarstków, zapobiegając kontuzji podczas treningów z dużym obciążeniem. Pasek posiada rzep do regulacji jego obwodu, a także uchwyt na kciuk, dzięki czemu stabilnie trzyma się na dłoni. Owijki na nadgarstki, zapewniają dodatkowy komfort i ochronę nadgarstkom , zmniejszają ryzyko skręcenia oraz kontuzji, w trakcie intensywnego treningu. Owijka ONX HMS wykonana jest z bardzo wytrzymałej skóry bydlęcej, która nie powoduje dyskomfortu w trakcie ćwiczeń i gwarantuje idealne usztywnienie. Specyfikacja Materiał: skóra bydlęca Zapięcie: elastyczny rzep Wymiary: Długość: 605 mm Szerokość: 80 mm Uwagi: Gwarancja 24 miesiące",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 58.69,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/366429.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/366430.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/366431.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/366432.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/366433.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/366434.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/366435.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/366436.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

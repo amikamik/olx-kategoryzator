@@ -338,5 +338,265 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to ściskacz do ćwiczeń siłowych, używany w treningu fitness i rehabilitacji. Kategoria 'Sprzęt siłowy' pod 'Fitness' najlepiej oddaje jego przeznaczenie jako sprzętu do treningu siłowego, a brak bardziej szczegółowej kategorii wymusza wybór 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "1599",
+        "Nazwa_Produktu": "TOX01 CZARNY TALERZ OLIMPIJSKI OGUMOWANY 1.25 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Talerze obciążeniowe są używane jako obciążenia w treningu siłowym, co bezpośrednio pasuje do kategorii 'Obciążenia' w 'Sprzęt siłowy' pod 'Fitness' w 'Sport i Hobby'. Jest to bardziej specyficzne i semantycznie lepsze niż sugerowana ścieżka 'Akcesoria treningowe > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1600",
+        "Nazwa_Produktu": "TOX02 CZARNY TALERZ OLIMPIJSKI OGUMOWANY 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Talerz obciążeniowy do gryfu olimpijskiego jest elementem sprzętu siłowego używanym w treningu fitness. Kategoria 'Obciążenia' pod 'Sprzęt siłowy' (ID 4316) w gałęzi 'Sport i Hobby > Fitness' dokładnie opisuje tego typu produkt, będąc bardziej szczegółową niż sugerowane 'Akcesoria treningowe > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1605",
+        "Nazwa_Produktu": "TOH01 CZARNY TALERZ OLIMPIJSKI OGUMOWANY 1.25 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Talerz obciążeniowy olimpijski jest używany jako obciążenie w treningu siłowym/fitness, co bezpośrednio pasuje do kategorii 'Obciążenia' (ID: 4339) pod 'Sprzęt siłowy' w 'Fitness'. Jest to bardziej szczegółowa i precyzyjna kategoria niż sugerowana 'Akcesoria treningowe > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1606",
+        "Nazwa_Produktu": "TOH02 CZARNY TALERZ OLIMPIJSKI OGUMOWANY 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Talerz obciążeniowy do gryfu olimpijskiego jest przede wszystkim obciążeniem używanym w treningu siłowym, co bezpośrednio odpowiada kategorii 'Obciążenia' w 'Sprzęt siłowy' (część 'Fitness'). Jest to bardziej szczegółowe i semantycznie trafne niż ogólna kategoria 'Pozostałe' w 'Akcesoria treningowe', sugerowana przez system, ponieważ produkt służy głównie jako ciężar, a nie jako akcesorium pomocnicze."
+    },
+    {
+        "ID_Produktu": "1684",
+        "Nazwa_Produktu": "HG PRO 1 KG HANTLA GUMOWANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantla gumowana do treningu siłowego, co idealnie pasuje do kategorii 'Hantle' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'."
+    },
+    {
+        "ID_Produktu": "1685",
+        "Nazwa_Produktu": "HG PRO 2 KG HANTLA GUMOWANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantle do treningu siłowego, co dokładnie odpowiada kategorii 'Hantle' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria jest liściem i semantycznie najlepiej pasuje."
+    },
+    {
+        "ID_Produktu": "1686",
+        "Nazwa_Produktu": "HG PRO 3 KG HANTLA GUMOWANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantle gumowane do treningu siłowego, co dokładnie odpowiada kategorii Hantle w Sprzęcie siłowym (Fitness > Sprzęt siłowy > Hantle)."
+    },
+    {
+        "ID_Produktu": "1720",
+        "Nazwa_Produktu": "KPC02 KETTLEBELL KOMPOZYTOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kettlebell to obciążenie do treningu siłowego. Wskazówka systemu OLX kieruje do ścieżki 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia', co idealnie pasuje. Kategoria 'Obciążenia' (id: 4339) jest liściem w drzewie kategorii i semantycznie odpowiada produktowi."
+    },
+    {
+        "ID_Produktu": "1722",
+        "Nazwa_Produktu": "KPC06 KETTLEBELL KOMPOZYTOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kettlebell to obciążenie używane w treningu siłowym, co bezpośrednio pasuje do kategorii 'Obciążenia' w 'Sprzęt siłowy' pod 'Fitness' w 'Sport i Hobby'. Wskazówka systemu OLX potwierdza tę ścieżkę, a w drzewie kategorii nie ma bardziej szczegółowej kategorii dla kettlebell."
+    },
+    {
+        "ID_Produktu": "1802",
+        "Nazwa_Produktu": "CM06 RÓŻOWY CIĘŻARKI MIĘKKIE 2 x 1 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to para hantli (ciężarków) o wadze 1 kg każda, wykonanych z pianki, przeznaczonych do treningu siłowego, fitness i rehabilitacji. Kategoria 'Hantle' pod 'Sprzęt siłowy' w 'Fitness' jest najbardziej szczegółowa i semantycznie dopasowana."
+    },
+    {
+        "ID_Produktu": "1804",
+        "Nazwa_Produktu": "OB04 BLUE OBCIĄŻNIKI NA RĘCE I NOGI 2 x 1KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążniki na ręce i nogi używane do treningu siłowego/fitness, co bezpośrednio odpowiada kategorii 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia' (ID 4339). Wskazówka systemu OLX potwierdza tę ścieżkę, a opis produktu (wzmianki o treningu, mięśniach, ćwiczeniach jak pilates, jogging) wskazuje na sprzęt fitness/siłowy. Kategoria 4339 jest liściem i najbardziej szczegółowa w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "1805",
+        "Nazwa_Produktu": "OB05 GRAY OBCIĄŻNIKI NA RĘCE I NOGI 2 x 2 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążniki treningowe na ręce i nogi, używane w fitness, co bezpośrednio pasuje do kategorii 'Obciążenia' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria ta jest liściem i jest najbardziej szczegółowa dla tego typu sprzętu."
+    },
+    {
+        "ID_Produktu": "1808",
+        "Nazwa_Produktu": "DSS12 BLACK SAUNA DRES HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Dresy sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Dresy sportowe",
+        "Finalne_ID_AI": 2933,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to dres składający się z bluzy i spodni, używany do treningu sportowego, co bezpośrednio odpowiada kategorii 'Dresy sportowe' w odzieży męskiej sportowej, pomimo jego specjalistycznego zastosowania w zwiększaniu pocenia się i utracie wagi."
+    },
+    {
+        "ID_Produktu": "1958",
+        "Nazwa_Produktu": "KLM232 ROZM. M WYSZCZUPLAJĄCA KOSZULKA MĘSKA HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > T-shirty i podkoszulki > T-shirty",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa",
+        "Finalne_ID_AI": 2930,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Koszulka jest wykonana z neoprenu, przeznaczona do aktywności fizycznej i ma właściwości wysmuklające oraz termiczne, co kwalifikuje ją jako odzież sportową męską, a konkretnie koszulkę sportową (kategoria liść w gałęzi Moda > Ubrania męskie > Odzież sportowa). Wskazówka OLX sugeruje T-shirty, ale produkt ma specjalistyczne zastosowanie treningowe, więc odzież sportowa jest lepszym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1983",
+        "Nazwa_Produktu": "STEELTEC 9 CZERWONA  RAKIETA DO BADMINTONA WISH",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rakieta do badmintona, co bezpośrednio odpowiada kategorii 'Badminton' (ID 5029), która jest kategorią-liściem w drzewie kategorii OLX. Wskazówka systemu potwierdza tę ścieżkę, a tytuł i opis jednoznacznie opisują sprzęt do gry w badmintona."
+    },
+    {
+        "ID_Produktu": "2006",
+        "Nazwa_Produktu": "NL6103 MULTICOLOR LOTKI OPAK.3 SZT NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Lotki są sprzętem bezpośrednio związanym z grą w darta, co idealnie pasuje do istniejącej kategorii liścia 'Dart' w gałęzi 'Sporty towarzyskie'. Opis produktu jednoznacznie wskazuje na zastosowanie w grze w darta, a wskazówka systemu potwierdza tę ścieżkę."
+    },
+    {
+        "ID_Produktu": "2030",
+        "Nazwa_Produktu": "NT8245 SIATKA DO PIŁKI NOŻNEJ 2450x1550x800 NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Siatka do bramki piłkarskiej to akcesorium do gry w piłkę nożną, co dokładnie pasuje do kategorii 'Akcesoria' w podgałęzi 'Piłka nożna' (Sporty drużynowe). Wskazówka systemu OLX potwierdza tę ścieżkę, a opis produktu jasno wskazuje na zastosowanie w sporcie drużynowym."
+    },
+    {
+        "ID_Produktu": "2094",
+        "Nazwa_Produktu": "PU 76x24 82A BIAŁE MATOWE KÓŁKA (4 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Samochody i pojazdy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to kółka poliuretanowe o parametrach technicznych (twardość 82A, średnica 76x24 mm) przeznaczone do jazdy, amortyzacji i przyczepności, co jest charakterystyczne dla akcesoriów do sprzętu skatingowego, takiego jak deskorolki, rolki czy hulajnogi. Wskazówkę systemu dotyczącą zabawek zignorowano, ponieważ opis produktu wskazuje na komponenty do rzeczywistego użytku sportowego, a nie zabawki."
+    },
+    {
+        "ID_Produktu": "2192",
+        "Nazwa_Produktu": "KLD317 ROZM. S WYSZCZUPLAJĄCA KOSZULKA DAMSKA HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > T-shirty i podkoszulki > T-shirty",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież sportowa > Koszulki sportowe",
+        "Finalne_ID_AI": 2924,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to damska koszulka neoprenowa zaprojektowana specjalnie do treningów, o właściwościach wspomagających aktywność fizyczną (przyspiesza spalanie tkanki tłuszczowej, podwyższa temperaturę ciała). Mimo wskazówki systemu sugerującej kategorię T-shirtów, produkt jest wyspecjalizowaną odzieżą sportową, co lepiej pasuje do ścieżki Moda > Ubrania damskie > Odzież sportowa > Koszulki sportowe."
+    },
+    {
+        "ID_Produktu": "2237",
+        "Nazwa_Produktu": "BR1313 NIEBIESKI ONE SIZE WYSZCZUPLAJĄCY PAS NA BRZUCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Bielizna damska > Bielizna modelująca",
+        "Finalna_Sciezka_AI": "Moda > Bielizna damska > Bielizna modelująca",
+        "Finalne_ID_AI": 2664,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to pas wyszczuplający na brzuch wykonany z neoprenu, noszony jak bielizna pod ubraniem, o funkcji modelującej sylwetki. Kategoria 'Bielizna modelująca' (pod 'Bielizna damska') jest liściem w drzewie kategorii i semantycznie najlepiej pasuje do opisu, nawet jeśli produkt jest uniseks – wskazówka OLX potwierdza tę ścieżkę."
+    },
+    {
+        "ID_Produktu": "2258",
+        "Nazwa_Produktu": "SND1400 ROZM. S NEOPRENOWE SZORTY WYSZCZUPLAJĄCE HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Szorty sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież sportowa > Szorty sportowe",
+        "Finalne_ID_AI": 2928,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to spodenki neoprenowe dla kobiet, przeznaczone do aktywności fizycznej i wyszczuplania, co bezpośrednio odpowiada kategorii szortów sportowych w odzieży damskiej sportowej. Tytuł i opis podkreślają zastosowanie sportowe oraz materiał, ignorując sugerowaną ścieżkę męską, ponieważ produkt jest wyraźnie dla kobiet."
+    },
+    {
+        "ID_Produktu": "2259",
+        "Nazwa_Produktu": "SND1400 ROZM. M NEOPRENOWE SZORTY WYSZCZUPLAJĄCE HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Szorty sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież sportowa > Szorty sportowe",
+        "Finalne_ID_AI": 2928,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to spodenki neoprenowe wyszczuplające dla kobiet, używane głównie podczas aktywności fizycznej, co idealnie pasuje do kategorii odzieży sportowej damskiej, a konkretnie szortów sportowych."
+    },
+    {
+        "ID_Produktu": "2260",
+        "Nazwa_Produktu": "SND1400 ROZM. L NEOPRENOWE SZORTY WYSZCZUPLAJĄCE HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Szorty sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież sportowa > Szorty sportowe",
+        "Finalne_ID_AI": 2928,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to neoprenowe szorty wyszczuplające dla kobiet, przeznaczone głównie do aktywności fizycznej, co klasyfikuje je jako odzież sportową damską. Tytuł i opis wskazują na szorty sportowe, a kategoria 'Szorty sportowe' pod 'Odzież sportowa' w 'Ubrania damskie' jest najbardziej szczegółowym i semantycznie pasującym liściem. Wskazówka OLX sugerowała kategorię męską, ale produkt jest dla kobiet, więc wybrano odpowiednią wersję damską."
+    },
+    {
+        "ID_Produktu": "2262",
+        "Nazwa_Produktu": "SND1400 ROZM. XXL NEOPRENOWE SZORTY WYSZCZUPLAJĄCE HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Szorty sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież sportowa > Szorty sportowe",
+        "Finalne_ID_AI": 2928,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to spodenki wyszczuplające z neoprenu dla kobiet, przeznaczone do aktywności fizycznej, co klasyfikuje je jako odzież sportową damską. W drzewie kategorii OLX, ścieżka 'Moda > Ubrania damskie > Odzież sportowa > Szorty sportowe' prowadzi do kategorii ID 2928 (liść). Wskazówka systemu sugerowała kategorię męską, ale opis wyraźnie wskazuje na produkt dla kobiet, więc wybrano odpowiednią kategorię damską."
+    },
+    {
+        "ID_Produktu": "2263",
+        "Nazwa_Produktu": "SND1400 ROZM. XXXL NEOPRENOWE SZORTY WYSZCZUPLAJĄCE HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Szorty sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież sportowa",
+        "Finalne_ID_AI": 2918,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to neoprenowe szorty wyszczuplające przeznaczone dla kobiet, używane podczas aktywności fizycznej, co idealnie pasuje do kategorii odzieży sportowej damskiej, konkretnie szortów sportowych (id 2928) w ścieżce Moda > Ubrania damskie > Odzież sportowa. Wskazówka systemu dotycząca ubrań męskich została zignorowana, ponieważ opis wyraźnie wskazuje produkt dla kobiet."
+    },
+    {
+        "ID_Produktu": "2377",
+        "Nazwa_Produktu": "NT8182 SIATKA DO PIŁKI NOŻNEJ 1820x1220x600mm NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Siatka do bramki piłkarskiej jest wyraźnie akcesorium do piłki nożnej, które należy do kategorii 'Akcesoria' w gałęzi 'Sport i Hobby > Sporty drużynowe > Piłka nożna'. Jest to kategoria-liść, najbardziej szczegółowa i semantycznie dopasowana do produktu."
     }
 ]
