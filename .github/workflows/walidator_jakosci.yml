@@ -1,12 +1,15 @@
 name: 🔍 Walidator Jakości Kategoryzacji
 
 # Uruchamianie:
-# 1. Automatycznie: co 5 minut (sprawdza czy jest ≥120 produktów)
-# 2. Ręcznie: workflow_dispatch
+# - Tylko ręcznie: workflow_dispatch
+# - Po uruchomieniu czeka aż będzie ≥120 produktów, potem wykonuje walidację
 on:
-  schedule:
-    - cron: '*/5 * * * *'  # Co 5 minut
-  workflow_dispatch:  # Ręczne uruchomienie
+  workflow_dispatch:  # Tylko ręczne uruchomienie
+
+# Ochrona przed równoczesnymi uruchomieniami
+concurrency:
+  group: walidator-jakosci
+  cancel-in-progress: false  # Czekaj na zakończenie, nie przerywaj
 
 permissions:
   contents: write
@@ -95,32 +98,35 @@ jobs:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
 
-      - name: 📊 Sprawdź liczbę produktów do walidacji
-        id: check
+      - name: ⏳ Czekaj na ≥120 produktów niesprawdzonych
+        id: wait
         run: |
-          echo "Sprawdzam mapping_feed_to_olx.json..."
+          echo "🔍 Czekam aż zbierze się ≥120 produktów do walidacji..."
+          echo ""
           
           if [ ! -f "state/mapping_feed_to_olx.json" ]; then
             echo "❌ Brak pliku mapping_feed_to_olx.json"
-            echo "should_run=false" >> $GITHUB_OUTPUT
-            exit 0
+            exit 1
           fi
           
-          # Policz produkty bez "tested": true
-          UNTESTED=$(python3 -c 'import json; data=json.load(open("state/mapping_feed_to_olx.json","r",encoding="utf-8")); print(len([k for k,v in data.items() if not v.get("tested",False)]))')
-          
-          echo "📦 Produktów niesprawdzonych: $UNTESTED"
-          
-          if [ "$UNTESTED" -ge 120 ]; then
-            echo "✅ Jest ≥120 produktów - uruchamiam walidator!"
-            echo "should_run=true" >> $GITHUB_OUTPUT
-          else
-            echo "⏳ Za mało produktów ($UNTESTED < 120) - czekam..."
-            echo "should_run=false" >> $GITHUB_OUTPUT
-          fi
+          # Pętla czekania (max 2h przez timeout workflow)
+          while true; do
+            # Policz produkty bez "tested": true
+            UNTESTED=$(python3 -c 'import json; data=json.load(open("state/mapping_feed_to_olx.json","r",encoding="utf-8")); print(len([k for k,v in data.items() if not v.get("tested",False)]))')
+            
+            if [ "$UNTESTED" -ge 120 ]; then
+              echo ""
+              echo "✅ Znaleziono $UNTESTED produktów - uruchamiam walidację!"
+              echo "should_run=true" >> $GITHUB_OUTPUT
+              break
+            fi
+            
+            echo "⏳ Produktów: $UNTESTED/120 - czekam 60s..."
+            sleep 60
+          done
 
       - name: 🔍 Uruchom walidator jakości
-        if: steps.check.outputs.should_run == 'true'
+        if: steps.wait.outputs.should_run == 'true'
         run: |
           echo "=================================="
           echo "WALIDATOR JAKOŚCI KATEGORYZACJI"
