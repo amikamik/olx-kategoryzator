@@ -170,13 +170,19 @@ def przygotuj_szczegoly_dla_testu(feed_ids, mapping, path_map):
         
         time.sleep(0.5)  # Rate limiting
     
-    # Zapisz do pliku w TEST_DIR
-    os.makedirs(TEST_DIR, exist_ok=True)  # Utwórz folder jeśli nie istnieje
-    output_file = os.path.join(TEST_DIR, "szczegoly_produktow_olx.json")
-    with open(output_file, 'w', encoding='utf-8') as f:
+    # Zapisz do pliku w SNAPSHOTS_DIR z timestampem
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    snapshot_file = os.path.join(SNAPSHOTS_DIR, f"szczegoly_{timestamp}.json")
+    with open(snapshot_file, 'w', encoding='utf-8') as f:
+        json.dump(szczegoly, f, ensure_ascii=False, indent=2)
+    print(f"\n  ✓ Zapisano {len(szczegoly)} produktów do: {snapshot_file}")
+    
+    # Również zapisz do TEST_DIR dla testów DeepSeek (backward compatibility)
+    os.makedirs(TEST_DIR, exist_ok=True)
+    test_file = os.path.join(TEST_DIR, "szczegoly_produktow_olx.json")
+    with open(test_file, 'w', encoding='utf-8') as f:
         json.dump(szczegoly, f, ensure_ascii=False, indent=2)
     
-    print(f"\n  ✓ Zapisano {len(szczegoly)} produktów do: {output_file}")
     return szczegoly
 
 

@@ -144,9 +144,10 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           
-          # Dodaj state i logi
+          # Dodaj state, logi i snapshots szczegółów produktów
           git add state/*.json
           git add logs/walidator_runs/*.log
+          git add snapshots/szczegoly/*.json
           
           # Commit tylko jeśli są zmiany
           if ! git diff --staged --quiet; then
@@ -181,6 +182,7 @@ jobs:
             state/usuniete_problematyczne.json
             state/walidator_history.json
             logs/walidator_runs/*.log
+            snapshots/szczegoly/*.json
             test_iteracyjny/wyniki_nondet_run2_copy*/podsumowanie.json
           if-no-files-found: ignore
 
