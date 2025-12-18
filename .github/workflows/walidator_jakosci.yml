@@ -107,16 +107,7 @@ jobs:
           fi
           
           # Policz produkty bez "tested": true
-          UNTESTED=$(python3 -c '
-import json
-try:
-    with open("state/mapping_feed_to_olx.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
-    untested = [k for k, v in data.items() if not v.get("tested", False)]
-    print(len(untested))
-except:
-    print(0)
-          ')
+          UNTESTED=$(python3 -c 'import json; data=json.load(open("state/mapping_feed_to_olx.json","r",encoding="utf-8")); print(len([k for k,v in data.items() if not v.get("tested",False)]))')
           
           echo "📦 Produktów niesprawdzonych: $UNTESTED"
           
