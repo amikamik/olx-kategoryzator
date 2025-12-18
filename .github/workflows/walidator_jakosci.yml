@@ -18,7 +18,7 @@ jobs:
   walidacja:
     name: Walidacja kategoryzacji
     runs-on: ubuntu-latest
-    timeout-minutes: 120  # 2h max
+    timeout-minutes: 300  # 5h max
     
     steps:
       - name: 📥 Pobierz kod z repozytorium
