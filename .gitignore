@@ -26,7 +26,7 @@ wheels/
 # Pliki tymczasowe i backupy
 *.bak
 *.tmp
-*.log
+# *.log - NIE ignorujemy logów walidatora (potrzebne w GitHub Actions)
 .DS_Store
 Thumbs.db
 

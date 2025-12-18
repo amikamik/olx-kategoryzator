@@ -287,22 +287,33 @@ def usun_produkt_z_olx(olx_id, access_token):
         'Content-Type': 'application/json'
     }
     
-    # KROK 1: DEACTIVATE (wymagane przed DELETE)
-    deactivate_url = f"https://www.olx.pl/api/partner/adverts/{olx_id}/commands"
-    deactivate_payload = {
-        "command": "deactivate",
-        "is_success": False  # Nie sprzedaliśmy produktu
-    }
-    
+    # KROK 0: Sprawdź status ogłoszenia
+    check_url = f"https://www.olx.pl/api/partner/adverts/{olx_id}"
     try:
-        response = requests.post(deactivate_url, headers=headers, json=deactivate_payload, timeout=10)
+        response = requests.get(check_url, headers=headers, timeout=10)
         response.raise_for_status()
-        time.sleep(0.5)  # Rate limiting
+        status = response.json().get('data', {}).get('status')
     except requests.exceptions.RequestException as e:
-        print(f"    ✗ Błąd deactivate {olx_id}: {e}")
+        print(f"    ✗ Błąd sprawdzania statusu {olx_id}: {e}")
         return False
     
-    # KROK 2: DELETE (tylko nieaktywne ogłoszenia)
+    # KROK 1: DEACTIVATE (tylko jeśli aktywne)
+    if status == 'active':
+        deactivate_url = f"https://www.olx.pl/api/partner/adverts/{olx_id}/commands"
+        deactivate_payload = {
+            "command": "deactivate",
+            "is_success": False  # Nie sprzedaliśmy produktu
+        }
+        
+        try:
+            response = requests.post(deactivate_url, headers=headers, json=deactivate_payload, timeout=10)
+            response.raise_for_status()
+            time.sleep(0.5)  # Rate limiting
+        except requests.exceptions.RequestException as e:
+            print(f"    ✗ Błąd deactivate {olx_id}: {e}")
+            return False
+    
+    # KROK 2: DELETE (działa tylko na nieaktywnych)
     delete_url = f"https://www.olx.pl/api/partner/adverts/{olx_id}"
     
     try:
