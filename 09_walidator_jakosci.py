@@ -163,6 +163,7 @@ def przygotuj_szczegoly_dla_testu(feed_ids, mapping, path_map):
         time.sleep(0.5)  # Rate limiting
     
     # Zapisz do pliku w TEST_DIR
+    os.makedirs(TEST_DIR, exist_ok=True)  # Utwórz folder jeśli nie istnieje
     output_file = os.path.join(TEST_DIR, "szczegoly_produktow_olx.json")
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(szczegoly, f, ensure_ascii=False, indent=2)
