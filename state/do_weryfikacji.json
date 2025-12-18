@@ -304,5 +304,18 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "75%",
         "Uzasadnienie_AI": "Produkt to przyrząd gimnastyczny 'agrafka' do ćwiczeń mięśni, przenośny i niewielki, co kwalifikuje go jako akcesorium treningowe w kategorii fitness. Nie pasuje ściśle do innych specyficznych podkategorii (np. taśmy, hantle), więc wybrano 'Pozostałe' w 'Akcesoria treningowe' jako najbardziej odpowiednią kategorię-liść."
+    },
+    {
+        "ID_Produktu": "1476",
+        "Nazwa_Produktu": "PU 72x24 82A różowe kółka (4 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Kółka PU o podanych parametrach (twardość 82A, średnica 72x24 mm) są charakterystycznymi akcesoriami do rolek, deskorolek lub hulajnóg, co idealnie odpowiada kategorii 'Akcesoria skating' w dziale 'Sport i Hobby'. Opis skupia się na właściwościach jazdy, takich jak komfort, przyczepność i prędkość, typowych dla sprzętu skatingowego.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]

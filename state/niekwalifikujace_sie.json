@@ -208,5 +208,135 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to ciężarek (hantel) do ćwiczeń siłowych i fitness, co bezpośrednio odpowiada kategorii 'Hantle' w gałęzi 'Sprzęt siłowy' pod 'Fitness'. Jest to bardziej specyficzna i pasująca kategoria niż sugerowana 'Akcesoria treningowe > Pozostałe', ponieważ produkt jest podstawowym sprzętem siłowym, a nie akcesorium ogólnym."
+    },
+    {
+        "ID_Produktu": "1418",
+        "Nazwa_Produktu": "WW01 YELLOW OBCIĄŻNIKI 2 x 0.7 KG ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Obciążniki na nadgarstki/kostki to obciążenia używane w treningu siłowym i fitness, co bezpośrednio odpowiada kategorii 'Obciążenia' w 'Sprzęt siłowy' pod 'Fitness'. Brak bardziej szczegółowej kategorii dla tego typu akcesoriów."
+    },
+    {
+        "ID_Produktu": "1419",
+        "Nazwa_Produktu": "WW01 GREEN OBCIĄŻNIKI 2 x 0.7 KG ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Obciążenia na nadgarstki i kostki są sprzętem do ćwiczeń siłowych i fitness, co bezpośrednio odpowiada kategorii 'Obciążenia' w dziale 'Sprzęt siłowy' pod 'Fitness' w drzewie kategorii OLX."
+    },
+    {
+        "ID_Produktu": "1420",
+        "Nazwa_Produktu": "WW02 YELLOW OBCIĄŻNIKI 2 x 1.5 KG ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to obciążenia do ćwiczeń siłowych i fitness, bezpośrednio pasujące do kategorii 'Obciążenia' w 'Sprzęt siłowy' pod 'Fitness' w 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "1421",
+        "Nazwa_Produktu": "WW02 GREEN OBCIĄŻNIKI 2 x 1.5 KG ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to obciążenia na nadgarstki i kostki, używane w treningu siłowym i fitness. Kategoria 'Obciążenia' (id 4339) pod 'Sprzęt siłowy' (id 4316) w gałęzi 'Fitness' (id 771) bezpośrednio odpowiada tego typu obciążeniom, co jest bardziej specyficzne niż ogólne 'Akcesoria treningowe'."
+    },
+    {
+        "ID_Produktu": "1467",
+        "Nazwa_Produktu": "NT8215 SIATKA DO PIŁKI NOŻNEJ 2150x1520x760 mm NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to siatka do bramki piłkarskiej, czyli akcesorium sportowe do piłki nożnej. Kategoria 'Akcesoria' w 'Piłka nożna' (id: 4972) jest najdokładniejszym dopasowaniem, ponieważ obejmuje dodatki i wyposażenie dla tej dyscypliny."
+    },
+    {
+        "ID_Produktu": "1502",
+        "Nazwa_Produktu": "STEELTEC 216K ZESTAW RAKIET DO BADMINTONA ZIELONY+NIEBIESKI + LOTKI 3 SZT WISH",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Zestaw rakiet i lotek do badmintona bezpośrednio odpowiada kategorii 'Badminton', która jest liściem w drzewie kategorii sportów towarzyskich (Sport i Hobby -> Sporty towarzyskie -> Tenis i pokrewne)."
+    },
+    {
+        "ID_Produktu": "1504",
+        "Nazwa_Produktu": "ALUMTEC 366K ZESTAW RAKIET DO BADMINTONA CZERWONY+ŻÓŁTY, NIEBIESKI+BIAŁY WISH",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rakiet do badmintona, który bezpośrednio pasuje do kategorii 'Badminton' (id: 5029) w ścieżce 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'. Jest to najbardziej szczegółowa, liściasta kategoria semantycznie dopasowana do produktu."
+    },
+    {
+        "ID_Produktu": "1509",
+        "Nazwa_Produktu": "S-330 LOTKI NYLON OPAK. 3 SZT WISH",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Lotki syntetyczne są używane do gry w badmintona, co pasuje do kategorii 'Sport i Hobby' > 'Sporty towarzyskie' > 'Tenis i pokrewne' > 'Badminton'. Kategoria 'Badminton' (id: 5029) jest liściem i najlepiej opisuje ten produkt."
+    },
+    {
+        "ID_Produktu": "1510",
+        "Nazwa_Produktu": "S-350 LOTKI NYLON OPAK. 6 SZT WISH",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lotki syntetyczne do gry w badmintona, co bezpośrednio pasuje do kategorii 'Badminton' pod 'Sporty towarzyskie' w dziale 'Sport i Hobby'. Opis wskazuje na zastosowanie w grach na świeżym powietrzu i w pomieszczeniach, typowe dla sprzętu badmintonowego."
+    },
+    {
+        "ID_Produktu": "1511",
+        "Nazwa_Produktu": "S-360 LOTKI NYLON OPAK. 3 SZT WISH",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to lotki syntetyczne do gry na świeżym powietrzu i w pomieszczeniach, co jest typowe dla badmintona. Kategoria 'Badminton' (ID 5029) jest liściem i najlepiej odpowiada temu sprzętowi sportowemu."
+    },
+    {
+        "ID_Produktu": "1529",
+        "Nazwa_Produktu": "ALUMTEC 329K ZESTAW RAKIET DO BADMINTONA NIEBIESKI+CZERWONY WISH",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw rakiet do badmintona, co dokładnie pasuje do kategorii 'Badminton' (id: 5029), która jest kategorią-liściem w ścieżce 'Sport i Hobby' -> 'Sporty towarzyskie' -> 'Tenis i pokrewne'. Opis produktu dotyczy sprzętu sportowego do badmintona, a nie ogólnie rakiet czy innych sportów."
+    },
+    {
+        "ID_Produktu": "1532",
+        "Nazwa_Produktu": "DB10 DRĄŻEK ROZPOROWY ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Drążek rozporowy to sprzęt do ćwiczeń siłowych, używany w fitnessie. Kategoria 'Drążki i poręcze' pod 'Sprzęt siłowy' w 'Fitness' jest najbardziej szczegółowa i semantycznie pasująca."
+    },
+    {
+        "ID_Produktu": "1534",
+        "Nazwa_Produktu": "PZ03 ŚCISKACZ MIĘKKI 2 SZT ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to ściskacz do ćwiczeń siłowych, używany w treningu fitness i rehabilitacji. Kategoria 'Sprzęt siłowy' pod 'Fitness' najlepiej oddaje jego przeznaczenie jako sprzętu do treningu siłowego, a brak bardziej szczegółowej kategorii wymusza wybór 'Pozostałe' w tej gałęzi."
     }
 ]
