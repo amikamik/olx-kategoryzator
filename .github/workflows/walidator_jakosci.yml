@@ -139,29 +139,48 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
 
       - name: 💾 Zapisz zaktualizowane pliki state
-        if: steps.check.outputs.should_run == 'true'
+        if: steps.wait.outputs.should_run == 'true'
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
+          
+          # Dodaj state i logi
           git add state/*.json
+          git add logs/walidator_runs/*.log
           
           # Commit tylko jeśli są zmiany
           if ! git diff --staged --quiet; then
-            git commit -m "AUTO: Walidator - aktualizacja state - $(date '+%Y-%m-%d %H:%M:%S')"
-            git push
-            echo "✅ Zaktualizowano pliki state"
+            git commit -m "AUTO: Walidator - aktualizacja state + logs - $(date '+%Y-%m-%d %H:%M:%S')"
+            
+            # Git push z rebase i retry (3 próby)
+            for i in 1 2 3; do
+              echo "🔄 Próba push #$i..."
+              git pull --rebase origin main && git push && break || {
+                if [ $i -lt 3 ]; then
+                  echo "⚠️  Push failed, retry in 5s..."
+                  sleep 5
+                else
+                  echo "❌ Push failed after 3 attempts"
+                  exit 1
+                fi
+              }
+            done
+            
+            echo "✅ Zaktualizowano pliki state + logs"
           else
             echo "ℹ️  Brak zmian w plikach"
           fi
 
       - name: 📊 Upload artifacts
-        if: always() && steps.check.outputs.should_run == 'true'
+        if: always() && steps.wait.outputs.should_run == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: walidator-state-${{ github.run_number }}
           path: |
             state/mapping_feed_to_olx.json
             state/usuniete_problematyczne.json
+            state/walidator_history.json
+            logs/walidator_runs/*.log
             test_iteracyjny/wyniki_nondet_run2_copy*/podsumowanie.json
           if-no-files-found: ignore
 
@@ -170,7 +189,7 @@ jobs:
         run: |
           echo ""
           echo "=================================="
-          if [ "${{ steps.check.outputs.should_run }}" == "true" ]; then
+          if [ "${{ steps.wait.outputs.should_run }}" == "true" ]; then
             echo "✅ Walidator wykonany"
             
             if [ -f "state/usuniete_problematyczne.json" ]; then

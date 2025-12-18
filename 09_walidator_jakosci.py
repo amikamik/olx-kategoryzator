@@ -25,6 +25,7 @@ import sys
 import time
 import requests
 import subprocess
+import logging
 from datetime import datetime
 from pathlib import Path
 
@@ -46,9 +47,16 @@ import config
 # Ścieżki
 STATE_DIR = os.path.join(SCRIPT_DIR, "state")
 TEST_DIR = os.path.join(SCRIPT_DIR, "test_iteracyjny")
+LOGS_DIR = os.path.join(SCRIPT_DIR, "logs", "walidator_runs")
 MAPPING_FILE = os.path.join(STATE_DIR, "mapping_feed_to_olx.json")
 ARCHIWUM_FILE = os.path.join(STATE_DIR, "usuniete_problematyczne.json")
+HISTORY_FILE = os.path.join(STATE_DIR, "walidator_history.json")
 KATEGORIE_FILE = os.path.join(SCRIPT_DIR, "input", "kategorie_olx.json")
+
+# Utwórz foldery jeśli nie istnieją
+os.makedirs(STATE_DIR, exist_ok=True)
+os.makedirs(TEST_DIR, exist_ok=True)
+os.makedirs(LOGS_DIR, exist_ok=True)
 
 # Parametry
 BATCH_SIZE = 120  # Czekamy na 120 produktów
@@ -272,22 +280,37 @@ def pobierz_dane_ai_dla_produktu(feed_id, wyniki_dir=TEST_DIR):
 
 
 def usun_produkt_z_olx(olx_id, access_token):
-    """Usuwa ogłoszenie z OLX (PRODUKCJA)"""
-    url = f"https://www.olx.pl/api/partner/adverts/{olx_id}/commands"
+    """Usuwa ogłoszenie z OLX - 2 KROKI: deactivate + delete (PRODUKCJA)"""
     headers = {
         'Authorization': f'Bearer {access_token}',
         'Version': '2.0',
         'Content-Type': 'application/json'
     }
     
-    payload = {"command": "deactivate"}
+    # KROK 1: DEACTIVATE (wymagane przed DELETE)
+    deactivate_url = f"https://www.olx.pl/api/partner/adverts/{olx_id}/commands"
+    deactivate_payload = {
+        "command": "deactivate",
+        "is_success": False  # Nie sprzedaliśmy produktu
+    }
     
     try:
-        response = requests.post(url, headers=headers, json=payload, timeout=10)
+        response = requests.post(deactivate_url, headers=headers, json=deactivate_payload, timeout=10)
+        response.raise_for_status()
+        time.sleep(0.5)  # Rate limiting
+    except requests.exceptions.RequestException as e:
+        print(f"    ✗ Błąd deactivate {olx_id}: {e}")
+        return False
+    
+    # KROK 2: DELETE (tylko nieaktywne ogłoszenia)
+    delete_url = f"https://www.olx.pl/api/partner/adverts/{olx_id}"
+    
+    try:
+        response = requests.delete(delete_url, headers=headers, timeout=10)
         response.raise_for_status()
         return True
     except requests.exceptions.RequestException as e:
-        print(f"    ✗ Błąd usuwania {olx_id}: {e}")
+        print(f"    ✗ Błąd delete {olx_id}: {e}")
         return False
 
 
@@ -371,64 +394,165 @@ def oznacz_jako_sprawdzone(feed_ids, mapping):
     print(f"  ✓ Oznaczono {len(feed_ids)} produktów jako sprawdzone")
 
 
+def zapisz_historie_runu(run_data):
+    """Zapisuje historię wykonania walidatora do JSON"""
+    try:
+        if os.path.exists(HISTORY_FILE):
+            with open(HISTORY_FILE, 'r', encoding='utf-8') as f:
+                history = json.load(f)
+        else:
+            history = []
+    except (FileNotFoundError, json.JSONDecodeError):
+        history = []
+    
+    # Dodaj nowy run
+    history.append(run_data)
+    
+    # Zapisz (zachowaj ostatnie 100 runów)
+    with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
+        json.dump(history[-100:], f, indent=4, ensure_ascii=False)
+    
+    print(f"  ✓ Historia zapisana: {HISTORY_FILE}")
+
+
+def setup_logging(run_id):
+    """Konfiguruje logowanie do pliku i konsoli"""
+    log_file = os.path.join(LOGS_DIR, f"run_{run_id}.log")
+    
+    # Logger główny
+    logger = logging.getLogger('walidator')
+    logger.setLevel(logging.DEBUG)
+    
+    # Handler do pliku (DEBUG)
+    file_handler = logging.FileHandler(log_file, encoding='utf-8')
+    file_handler.setLevel(logging.DEBUG)
+    file_formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
+    file_handler.setFormatter(file_formatter)
+    
+    # Handler do konsoli (INFO)
+    console_handler = logging.StreamHandler(sys.stdout)
+    console_handler.setLevel(logging.INFO)
+    console_formatter = logging.Formatter('%(message)s')
+    console_handler.setFormatter(console_formatter)
+    
+    logger.addHandler(file_handler)
+    logger.addHandler(console_handler)
+    
+    return logger, log_file
+
+
 def main():
-    print("\n" + "="*80)
-    print("WALIDATOR JAKOŚCI - AUTOMATYCZNA KONTROLA KATEGORYZACJI")
-    print("="*80)
+    # Setup
+    run_id = datetime.now().strftime("%Y%m%d_%H%M%S")
+    logger, log_file = setup_logging(run_id)
+    start_time = datetime.now()
     
-    # 1. Sprawdź ile niesprawdzonych
-    mapping = wczytaj_mapping()
-    niesprawdzone_ids = policz_niesprawdzone(mapping)
+    run_data = {
+        "run_id": run_id,
+        "start_time": start_time.isoformat(),
+        "status": "RUNNING",
+        "stats": {},
+        "errors": []
+    }
     
-    print(f"\nStan mapping_feed_to_olx.json:")
-    print(f"  Łącznie produktów: {len(mapping)}")
-    print(f"  Niesprawdzonych: {len(niesprawdzone_ids)}")
-    print(f"  Wymagane do testu: {REQUIRED_FOR_TEST}")
-    
-    if len(niesprawdzone_ids) < REQUIRED_FOR_TEST:
-        print(f"\n  ⏳ Za mało produktów do testu (brakuje {REQUIRED_FOR_TEST - len(niesprawdzone_ids)})")
-        print(f"  ⏳ Czekam na więcej produktów...")
-        return
-    
-    # 2. Weź pierwsze 120
-    do_testowania = niesprawdzone_ids[:BATCH_SIZE]
-    print(f"\n  ✓ Wybieram {len(do_testowania)} produktów do testowania")
-    
-    # 3. Pobierz szczegóły
-    path_map = wczytaj_kategorie()
-    szczegoly = przygotuj_szczegoly_dla_testu(do_testowania, mapping, path_map)
-    
-    if len(szczegoly) < 100:  # Bezpiecznik - minimum 100 udanych pobrań
-        print(f"\n  ✗ BŁĄD: Udało się pobrać tylko {len(szczegoly)} produktów (minimum 100)")
-        return
-    
-    # 4. Uruchom test
-    niepewne_ids = uruchom_test_walidacyjny()
-    
-    if not niepewne_ids:
-        print(f"\n  ✓ Brak niepewnych produktów - wszystkie kategorie poprawne!")
-        # Oznacz wszystkie jako sprawdzone
+    try:
+        logger.info("\n" + "="*80)
+        logger.info("WALIDATOR JAKOŚCI - AUTOMATYCZNA KONTROLA KATEGORYZACJI")
+        logger.info("="*80)
+        logger.debug(f"Run ID: {run_id}")
+        logger.debug(f"Log file: {log_file}")
+        
+        # 1. Sprawdź ile niesprawdzonych
+        mapping = wczytaj_mapping()
+        niesprawdzone_ids = policz_niesprawdzone(mapping)
+        
+        run_data['stats']['total_products'] = len(mapping)
+        run_data['stats']['unchecked'] = len(niesprawdzone_ids)
+        
+        logger.info(f"\nStan mapping_feed_to_olx.json:")
+        logger.info(f"  Łącznie produktów: {len(mapping)}")
+        logger.info(f"  Niesprawdzonych: {len(niesprawdzone_ids)}")
+        logger.info(f"  Wymagane do testu: {REQUIRED_FOR_TEST}")
+        
+        if len(niesprawdzone_ids) < REQUIRED_FOR_TEST:
+            logger.info(f"\n  ⏳ Za mało produktów do testu (brakuje {REQUIRED_FOR_TEST - len(niesprawdzone_ids)})")
+            logger.info(f"  ⏳ Czekam na więcej produktów...")
+            run_data['status'] = "WAITING"
+            run_data['end_time'] = datetime.now().isoformat()
+            zapisz_historie_runu(run_data)
+            return
+        
+        # 2. Weź pierwsze 120
+        do_testowania = niesprawdzone_ids[:BATCH_SIZE]
+        run_data['stats']['selected_for_test'] = len(do_testowania)
+        logger.info(f"\n  ✓ Wybieram {len(do_testowania)} produktów do testowania")
+        
+        # 3. Pobierz szczegóły
+        path_map = wczytaj_kategorie()
+        szczegoly = przygotuj_szczegoly_dla_testu(do_testowania, mapping, path_map)
+        run_data['stats']['fetched_details'] = len(szczegoly)
+        
+        if len(szczegoly) < 100:  # Bezpiecznik - minimum 100 udanych pobrań
+            error_msg = f"Udało się pobrać tylko {len(szczegoly)} produktów (minimum 100)"
+            logger.error(f"\n  ✗ BŁĄD: {error_msg}")
+            run_data['status'] = "ERROR"
+            run_data['errors'].append(error_msg)
+            run_data['end_time'] = datetime.now().isoformat()
+            zapisz_historie_runu(run_data)
+            return
+        
+        # 4. Uruchom test
+        logger.info(f"\n  🔍 Uruchamiam test DeepSeek (4x parallel)...")
+        niepewne_ids = uruchom_test_walidacyjny()
+        run_data['stats']['uncertain'] = len(niepewne_ids) if niepewne_ids else 0
+        
+        if not niepewne_ids:
+            logger.info(f"\n  ✓ Brak niepewnych produktów - wszystkie kategorie poprawne!")
+            # Oznacz wszystkie jako sprawdzone
+            oznacz_jako_sprawdzone(do_testowania, mapping)
+            run_data['status'] = "SUCCESS"
+            run_data['stats']['deleted'] = 0
+            run_data['end_time'] = datetime.now().isoformat()
+            zapisz_historie_runu(run_data)
+            return
+        
+        # 5. Usuń problematyczne
+        logger.info(f"\n  🗑️  Usuwam {len(niepewne_ids)} niepewnych produktów z OLX...")
+        usuniete = usun_problematyczne_produkty(niepewne_ids, mapping, szczegoly)
+        run_data['stats']['deleted'] = len(usuniete)
+        
+        # 6. Archiwizuj
+        if usuniete:
+            zapisz_do_archiwum(usuniete)
+        
+        # 7. Oznacz jako sprawdzone (wszystkie 120, nie tylko usuniete)
+        mapping = wczytaj_mapping()  # Odśwież mapping
         oznacz_jako_sprawdzone(do_testowania, mapping)
-        return
-    
-    # 5. Usuń problematyczne
-    usuniete = usun_problematyczne_produkty(niepewne_ids, mapping, szczegoly)
-    
-    # 6. Archiwizuj
-    if usuniete:
-        zapisz_do_archiwum(usuniete)
-    
-    # 7. Oznacz jako sprawdzone (wszystkie 120, nie tylko usuniete)
-    mapping = wczytaj_mapping()  # Odśwież mapping
-    oznacz_jako_sprawdzone(do_testowania, mapping)
-    
-    print(f"\n{'='*80}")
-    print(f"ZAKOŃCZONO POMYŚLNIE")
-    print(f"{'='*80}")
-    print(f"Przetestowano: {len(do_testowania)} produktów")
-    print(f"Niepewnych znaleziono: {len(niepewne_ids)}")
-    print(f"Usunięto z OLX: {len(usuniete)}")
-    print(f"{'='*80}\n")
+        
+        # Finalizacja
+        run_data['status'] = "SUCCESS"
+        run_data['end_time'] = datetime.now().isoformat()
+        duration = (datetime.now() - start_time).total_seconds()
+        run_data['duration_seconds'] = round(duration, 2)
+        
+        logger.info(f"\n{'='*80}")
+        logger.info(f"ZAKOŃCZONO POMYŚLNIE")
+        logger.info(f"{'='*80}")
+        logger.info(f"Przetestowano: {len(do_testowania)} produktów")
+        logger.info(f"Niepewnych znaleziono: {len(niepewne_ids)}")
+        logger.info(f"Usunięto z OLX: {len(usuniete)}")
+        logger.info(f"Czas wykonania: {duration:.2f}s")
+        logger.info(f"{'='*80}\n")
+        
+        zapisz_historie_runu(run_data)
+        
+    except Exception as e:
+        logger.exception(f"CRITICAL ERROR: {e}")
+        run_data['status'] = "FAILED"
+        run_data['errors'].append(str(e))
+        run_data['end_time'] = datetime.now().isoformat()
+        zapisz_historie_runu(run_data)
+        raise
 
 
 if __name__ == "__main__":
