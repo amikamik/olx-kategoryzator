@@ -1,0 +1,187 @@
+name: 🔍 Walidator Jakości Kategoryzacji
+
+# Uruchamianie:
+# 1. Automatycznie: co 5 minut (sprawdza czy jest ≥120 produktów)
+# 2. Ręcznie: workflow_dispatch
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Co 5 minut
+  workflow_dispatch:  # Ręczne uruchomienie
+
+permissions:
+  contents: write
+
+jobs:
+  walidacja:
+    name: Walidacja kategoryzacji
+    runs-on: ubuntu-latest
+    timeout-minutes: 120  # 2h max
+    
+    steps:
+      - name: 📥 Pobierz kod z repozytorium
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Konfiguracja Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: 📦 Instalacja zależności
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: ⚙️ Przygotuj konfigurację z secretów
+        run: |
+          cat > config/config.py << EOF
+          import os
+          
+          # --- Konfiguracja globalna ---
+          ACTIVE_LLM_PROVIDER = "DEEPSEEK"
+          
+          # --- Konfiguracja Gemini ---
+          GEMINI_API_KEY = "AIzaSyA3eSK_cwRKCEzys_4EY4OrIvpdda5eIc0"
+          GEMINI_MODEL_NAME = "gemini-2.5-flash"
+          GEMINI_TEMPERATURE = 0.0
+          
+          # --- Konfiguracja OpenAI ---
+          OPENAI_API_KEY = "${{ secrets.OPENAI_API_KEY }}"
+          OPENAI_MODEL_NAME = "gpt-5-nano"
+          OPENAI_TEMPERATURE = 1.0
+          
+          # --- Konfiguracja DeepSeek ---
+          DEEPSEEK_API_KEY = "${{ secrets.DEEPSEEK_API_KEY }}"
+          DEEPSEEK_MODEL_NAME = "deepseek-reasoner"
+          DEEPSEEK_TEMPERATURE = 1.0
+          
+          # Modele dla różnych zadań:
+          CATEGORIZATION_MODEL = "deepseek-reasoner"
+          OTHER_TASKS_MODEL = "gpt-5-nano"
+          
+          # --- Konfiguracja OLX ---
+          CLIENT_ID = "202557"
+          CLIENT_SECRET = "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
+          ACCESS_TOKEN = "${{ secrets.OLX_ACCESS_TOKEN }}"
+          REFRESH_TOKEN = "8bf78bbca8df822b188fdde14df9a468fb28be23"
+          
+          # Dane kontaktowe
+          OLX_AD_CONTACT = {
+              "name": "Amadeusz",
+              "phone": "530790357"
+          }
+          
+          OLX_AD_LOCATION = {
+              "city_id": 20327,
+              "district_id": None
+          }
+          
+          # --- Konfiguracja cenowa ---
+          MARGIN_PERCENT = 0.20
+          COMMISSION_PERCENT = 0.12
+          MINIMUM_PROFIT_PLN = 10.0
+          CENA_MIN = 1.0
+          CENA_MAX = 50.0
+          
+          # --- Parametry kategoryzacji ---
+          MINIMALNA_PEWNOSC = 80
+          
+          # Cache dla drzewa kategorii
+          CATEGORY_TREE_JSON_STR = ""
+          EOF
+        env:
+          OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+
+      - name: 📊 Sprawdź liczbę produktów do walidacji
+        id: check
+        run: |
+          echo "Sprawdzam mapping_feed_to_olx.json..."
+          
+          if [ ! -f "state/mapping_feed_to_olx.json" ]; then
+            echo "❌ Brak pliku mapping_feed_to_olx.json"
+            echo "should_run=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          # Policz produkty bez "tested": true
+          UNTESTED=$(python3 -c "
+import json
+try:
+    with open('state/mapping_feed_to_olx.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    untested = [k for k, v in data.items() if not v.get('tested', False)]
+    print(len(untested))
+except:
+    print(0)
+          ")
+          
+          echo "📦 Produktów niesprawdzonych: $UNTESTED"
+          
+          if [ "$UNTESTED" -ge 120 ]; then
+            echo "✅ Jest ≥120 produktów - uruchamiam walidator!"
+            echo "should_run=true" >> $GITHUB_OUTPUT
+          else
+            echo "⏳ Za mało produktów ($UNTESTED < 120) - czekam..."
+            echo "should_run=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 🔍 Uruchom walidator jakości
+        if: steps.check.outputs.should_run == 'true'
+        run: |
+          echo "=================================="
+          echo "WALIDATOR JAKOŚCI KATEGORYZACJI"
+          echo "=================================="
+          echo ""
+          
+          python 09_walidator_jakosci.py
+        env:
+          OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+
+      - name: 💾 Zapisz zaktualizowane pliki state
+        if: steps.check.outputs.should_run == 'true'
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add state/*.json
+          
+          # Commit tylko jeśli są zmiany
+          if ! git diff --staged --quiet; then
+            git commit -m "AUTO: Walidator - aktualizacja state - $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+            echo "✅ Zaktualizowano pliki state"
+          else
+            echo "ℹ️  Brak zmian w plikach"
+          fi
+
+      - name: 📊 Upload artifacts
+        if: always() && steps.check.outputs.should_run == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: walidator-state-${{ github.run_number }}
+          path: |
+            state/mapping_feed_to_olx.json
+            state/usuniete_problematyczne.json
+            test_iteracyjny/wyniki_nondet_run2_copy*/podsumowanie.json
+          if-no-files-found: ignore
+
+      - name: 📊 Podsumowanie
+        if: always()
+        run: |
+          echo ""
+          echo "=================================="
+          if [ "${{ steps.check.outputs.should_run }}" == "true" ]; then
+            echo "✅ Walidator wykonany"
+            
+            if [ -f "state/usuniete_problematyczne.json" ]; then
+              REMOVED=$(python3 -c "import json; print(len(json.load(open('state/usuniete_problematyczne.json', 'r', encoding='utf-8'))))" 2>/dev/null || echo "0")
+              echo "🗑️  Usuniętych produktów: $REMOVED"
+            fi
+          else
+            echo "⏳ Walidator pominięty (za mało produktów)"
+          fi
+          echo "📅 Czas zakończenia: $(date)"
+          echo "=================================="
