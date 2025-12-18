@@ -22,7 +22,7 @@ import os # Dodajemy import os do obsługi ścieżek
 XML_FILE = os.path.join(SCRIPT_DIR, "input", "feed_cgrot.xml")
 CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "input", "kategorie_olx.json")
 RAPORT_PLIK_CSV = os.path.join(SCRIPT_DIR, "output", "raport_kategoryzacji.csv")
-SAMPLE_SIZE = 5 # Test na większej próbie
+SAMPLE_SIZE = 150 # Test na większej próbie
 
 # --- Inicjalizacja klienta OpenAI (zawsze inicjalizujemy, bo używamy do rozmiarów/atrybutów) ---
 OPENAI_CLIENT = None
