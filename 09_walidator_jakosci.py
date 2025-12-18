@@ -48,6 +48,7 @@ import config
 STATE_DIR = os.path.join(SCRIPT_DIR, "state")
 TEST_DIR = os.path.join(SCRIPT_DIR, "test_iteracyjny")
 LOGS_DIR = os.path.join(SCRIPT_DIR, "logs", "walidator_runs")
+SNAPSHOTS_DIR = os.path.join(SCRIPT_DIR, "snapshots", "szczegoly")
 MAPPING_FILE = os.path.join(STATE_DIR, "mapping_feed_to_olx.json")
 ARCHIWUM_FILE = os.path.join(STATE_DIR, "usuniete_problematyczne.json")
 HISTORY_FILE = os.path.join(STATE_DIR, "walidator_history.json")
@@ -57,6 +58,7 @@ KATEGORIE_FILE = os.path.join(SCRIPT_DIR, "input", "kategorie_olx.json")
 os.makedirs(STATE_DIR, exist_ok=True)
 os.makedirs(TEST_DIR, exist_ok=True)
 os.makedirs(LOGS_DIR, exist_ok=True)
+os.makedirs(SNAPSHOTS_DIR, exist_ok=True)
 
 # Parametry
 BATCH_SIZE = 120  # Czekamy na 120 produktów
