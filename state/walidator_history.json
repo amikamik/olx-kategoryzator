@@ -14,5 +14,21 @@
         "errors": [],
         "end_time": "2025-12-18T23:42:47.359851",
         "duration_seconds": 837.83
+    },
+    {
+        "run_id": "20251219_143053",
+        "start_time": "2025-12-19T14:30:53.131526",
+        "status": "SUCCESS",
+        "stats": {
+            "total_products": 253,
+            "unchecked": 133,
+            "selected_for_test": 120,
+            "fetched_details": 119,
+            "uncertain": 17,
+            "deleted": 17
+        },
+        "errors": [],
+        "end_time": "2025-12-19T14:39:48.088284",
+        "duration_seconds": 534.96
     }
 ]
