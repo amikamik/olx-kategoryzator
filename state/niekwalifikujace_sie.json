@@ -598,5 +598,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Siatka do bramki piłkarskiej jest wyraźnie akcesorium do piłki nożnej, które należy do kategorii 'Akcesoria' w gałęzi 'Sport i Hobby > Sporty drużynowe > Piłka nożna'. Jest to kategoria-liść, najbardziej szczegółowa i semantycznie dopasowana do produktu."
+    },
+    {
+        "ID_Produktu": "2458",
+        "Nazwa_Produktu": "FG02 BLUE NAKŁADKI NA GRYF (2SZT) HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Nakładki na gryf są akcesorium do ćwiczeń siłowych, używane ze sztangą lub hantlami, które należą do kategorii sprzętu siłowego. Kategoria 'Sprzęt siłowy > Pozostałe' jest bardziej specyficzna niż ogólna 'Pozostały sport i hobby' sugerowana przez system, ponieważ produkt bezpośrednio wspiera trening siłowy."
+    },
+    {
+        "ID_Produktu": "2459",
+        "Nazwa_Produktu": "FG02 RED NAKŁADKI NA GRYF (2SZT) HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Nakładki na gryf są akcesoriami do ćwiczeń siłowych ze sztangą/hantlami, co bezpośrednio pasuje do gałęzi 'Fitness' > 'Sprzęt siłowy'. Wybrano kategorię 'Pozostałe' w 'Sprzęt siłowy', ponieważ nakładki nie odpowiadają dokładnie innym podkategoriom jak 'Gryfy', ale są ściśle związane ze sprzętem siłowym. Zignorowano ogólną wskazówkę systemu na rzecz bardziej szczegółowej kategorii."
+    },
+    {
+        "ID_Produktu": "2535",
+        "Nazwa_Produktu": "OB06 BLACK OBCIĄŻNIKI NA RĘCE I NOGI 2 x 3 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążniki na ręce i nogi do ćwiczeń fitness (pilates, jogging, aerobik), które semantycznie pasują do kategorii 'Obciążenia' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria jest liściem i jest najbardziej szczegółowa w tej dziedzinie, a wskazówka systemu OLX potwierdza trafność wyboru."
+    },
+    {
+        "ID_Produktu": "2539",
+        "Nazwa_Produktu": "CHD01 HANTLE CHROMOWANE (2 szt.) HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantle chromowane do ćwiczeń siłowych i fitness, co dokładnie odpowiada kategorii 'Hantle' w poddrzewie 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria jest liściem i semantycznie idealnie pasuje."
     }
 ]

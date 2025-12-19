@@ -703,5 +703,76 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "2440",
+        "Nazwa_Produktu": "MGN56 MAGNEZJA KOSTKA 56G HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Magnezja to akcesorium używane na siłowni do poprawy chwytu, co pasuje do kategorii 'Akcesoria treningowe' w gałęzi Fitness. Jest bardziej szczegółowa niż sugerowana 'Pozostały sport i hobby'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Mgn56 magnezja kostka 56g hms",
+                "description": "MGN56 HMS, to 100% węglanu magnezu czyli magnezja. Magnezja zapobiega poceniu się rąk, oraz zwiększa tarcie, co umożliwi mocniejszy i pewniejszy chwyt. Stosowana na siłowni, gdzie spocone dłonie wiążą się z niebezpieczeństwem urazu lub kontuzji. Dzięki niej, ćwicząc hantlami lub sztangą, nie musimy martwić się ewentualnym wyśliźnięciem się sprzętu. MGN56, to magnezja w kostce, jej zastosowanie jest bardzo proste, wystarczy potrzeć kostką dłonie. Przewaga kostki nad proszkiem objawia się w tym, że aż tak bardzo nie brudzi sprzętu, znajdującego się wokół. Używana również w gimnastyce, wspinaczce oraz w każdym sporcie, gdzie pewny, silny chwyt to podstawa. Specyfikacja: Skład: 100% magnezja Waga: 56 g Uwagi: Gwarancja 24 miesiące",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 19.09,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/366720.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/366721.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/366722.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/img(19).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
