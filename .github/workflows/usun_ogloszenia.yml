@@ -34,15 +34,33 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
       
-      - name: ⚙️ Przygotuj konfigurację z ACCESS_TOKEN
+      - name: 🔄 Odśwież Access Token (automatycznie)
+        id: refresh_token
+        env:
+          OLX_CLIENT_ID: ${{ secrets.OLX_CLIENT_ID }}
+          OLX_CLIENT_SECRET: ${{ secrets.OLX_CLIENT_SECRET }}
+          OLX_REFRESH_TOKEN: ${{ secrets.OLX_REFRESH_TOKEN }}
         run: |
-          # Stwórz config.py z tokenem z GitHub Secrets
+          echo "🔄 Automatyczne odświeżanie tokena..."
+          NEW_ACCESS_TOKEN=$(python scripts/refresh_token.py)
+          
+          if [ $? -ne 0 ]; then
+            echo "❌ Nie udało się odświeżyć tokena!"
+            exit 1
+          fi
+          
+          echo "✅ Token odświeżony pomyślnie"
+          echo "ACCESS_TOKEN=$NEW_ACCESS_TOKEN" >> $GITHUB_OUTPUT
+      
+      - name: ⚙️ Przygotuj konfigurację z odświeżonym tokenem
+        run: |
+          # Stwórz config.py z odświeżonym tokenem
           cat > config/config.py << 'EOF'
           # -*- coding: utf-8 -*-
-          """Konfiguracja dla GitHub Actions - TOKEN ze zmiennej środowiskowej"""
+          """Konfiguracja dla GitHub Actions - TOKEN automatycznie odświeżony"""
           import os
           
-          # Token OAuth z GitHub Secret
+          # Token OAuth - automatycznie odświeżony przed uruchomieniem
           ACCESS_TOKEN = os.environ.get('OLX_ACCESS_TOKEN', '')
           
           # Pozostałe ustawienia (nie używane w skrypcie usuwania, ale muszą istnieć)
@@ -54,11 +72,12 @@ jobs:
           SAMPLE_SIZE = 0
           EOF
           
-          echo "✅ Utworzono config.py z tokenem z SECRET"
+          echo "✅ Utworzono config.py z automatycznie odświeżonym tokenem"
       
       - name: 🗑️ Uruchom skrypt usuwania
+        id: delete_adverts
         env:
-          OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
+          OLX_ACCESS_TOKEN: ${{ steps.refresh_token.outputs.ACCESS_TOKEN }}
         run: |
           echo "🚀 Rozpoczynam usuwanie deaktywowanych ogłoszeń..."
           echo "📅 Data: $(date)"
@@ -66,6 +85,25 @@ jobs:
           echo ""
           
           python scripts/usun_deaktywowane.py
+      
+      - name: 🔄 Auto-restart jeśli potrzeba więcej czasu
+        if: success()  # TYLKO jeśli zakończył się sukcesem (nie cancel/failure!)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🔍 Sprawdzam czy potrzebny restart..."
+          
+          # Jeśli skrypt zakończył się sukcesem (kod 0), oznacza to że:
+          # - Albo usunął wszystkie ogłoszenia (sukces - nie restartuj)
+          # - Albo osiągnął timeout 5.5h (sukces - restartuj!)
+          
+          # Uruchom ponownie workflow
+          echo "⏰ Osiągnięto limit czasu - uruchamiam ponownie workflow..."
+          gh workflow run usun_ogloszenia.yml \
+            --ref ${{ github.ref_name }} \
+            -f dry_run=false
+          
+          echo "✅ Nowy workflow uruchomiony - będzie kontynuować usuwanie"
       
       - name: 📊 Podsumowanie
         if: always()  # Zawsze wykonaj, nawet jeśli poprzedni krok się nie powiódł
