@@ -34,15 +34,33 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
       
-      - name: ⚙️ Przygotuj konfigurację z ACCESS_TOKEN
+      - name: 🔄 Odśwież Access Token (automatycznie)
+        id: refresh_token
+        env:
+          OLX_CLIENT_ID: ${{ secrets.OLX_CLIENT_ID }}
+          OLX_CLIENT_SECRET: ${{ secrets.OLX_CLIENT_SECRET }}
+          OLX_REFRESH_TOKEN: ${{ secrets.OLX_REFRESH_TOKEN }}
         run: |
-          # Stwórz config.py z tokenem z GitHub Secrets
+          echo "🔄 Automatyczne odświeżanie tokena..."
+          NEW_ACCESS_TOKEN=$(python scripts/refresh_token.py)
+          
+          if [ $? -ne 0 ]; then
+            echo "❌ Nie udało się odświeżyć tokena!"
+            exit 1
+          fi
+          
+          echo "✅ Token odświeżony pomyślnie"
+          echo "ACCESS_TOKEN=$NEW_ACCESS_TOKEN" >> $GITHUB_OUTPUT
+      
+      - name: ⚙️ Przygotuj konfigurację z odświeżonym tokenem
+        run: |
+          # Stwórz config.py z odświeżonym tokenem
           cat > config/config.py << 'EOF'
           # -*- coding: utf-8 -*-
-          """Konfiguracja dla GitHub Actions - TOKEN ze zmiennej środowiskowej"""
+          """Konfiguracja dla GitHub Actions - TOKEN automatycznie odświeżony"""
           import os
           
-          # Token OAuth z GitHub Secret
+          # Token OAuth - automatycznie odświeżony przed uruchomieniem
           ACCESS_TOKEN = os.environ.get('OLX_ACCESS_TOKEN', '')
           
           # Pozostałe ustawienia (nie używane w skrypcie usuwania, ale muszą istnieć)
@@ -54,11 +72,11 @@ jobs:
           SAMPLE_SIZE = 0
           EOF
           
-          echo "✅ Utworzono config.py z tokenem z SECRET"
+          echo "✅ Utworzono config.py z automatycznie odświeżonym tokenem"
       
       - name: 🗑️ Uruchom skrypt usuwania
         env:
-          OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
+          OLX_ACCESS_TOKEN: ${{ steps.refresh_token.outputs.ACCESS_TOKEN }}
         run: |
           echo "🚀 Rozpoczynam usuwanie deaktywowanych ogłoszeń..."
           echo "📅 Data: $(date)"
