@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
-Skrypt do masowego usuwania deaktywowanych ogłoszeń z OLX.
-Pobiera wszystkie ogłoszenia ze statusem 'removed_by_user' i usuwa je permanentnie.
+Skrypt do masowego usuwania deaktywowanych i wygasłych ogłoszeń z OLX.
+Pobiera ogłoszenia ze statusami:
+- 'removed_by_user' (ręcznie deaktywowane)
+- 'outdated' (wygasłe automatycznie)
+i usuwa je permanentnie.
 """
 
 import requests
@@ -25,6 +28,7 @@ DELAY_BETWEEN_REQUESTS = 2.0  # Sekundy między zapytaniami o kolejne paczki
 DELAY_BETWEEN_DELETES = 0.25  # Sekundy między pojedynczymi usunięciami (250ms)
 MAX_WORKERS = 3  # Liczba równoległych wątków (~3 req/s = bezpieczne tempo)
 MAX_RETRIES = 3  # Maksymalna liczba ponownych prób przy błędzie 403/429
+MAX_RUNTIME = 5.5 * 3600  # Maksymalny czas działania: 5.5h (19800s) - ochrona przed timeout GitHub Actions
 DRY_RUN = False  # True = tylko pokazuje co by usunęło, False = faktycznie usuwa
 
 def pobierz_i_usun_na_biezaco(access_token):
@@ -63,10 +67,12 @@ def pobierz_i_usun_na_biezaco(access_token):
                 print(f"\n✓ Koniec listy ogłoszeń.")
                 break
             
-            # Filtruj tylko deaktywowane
+            # Filtruj tylko deaktywowane i wygasłe
+            # removed_by_user = ręcznie deaktywowane przez użytkownika
+            # outdated = wygasłe automatycznie (minęła data ważności)
             deactivated_in_batch = [
                 ad for ad in adverts 
-                if ad.get('status') == 'removed_by_user'
+                if ad.get('status') in ['removed_by_user', 'outdated']
             ]
             
             total_fetched += len(adverts)
@@ -107,6 +113,14 @@ def pobierz_i_usun_na_biezaco(access_token):
                 print(f"\n   ⚡ Paczka usunięta w {batch_elapsed:.1f}s ({len(deactivated_in_batch)/batch_elapsed:.1f} ogł/s)")
             else:
                 print(f"📦 Paczka offset {offset}: {len(adverts)} ogłoszeń, 0 do usunięcia", end='\r')
+            
+            # Sprawdź czy nie przekroczono limitu czasu (ochrona przed timeout)
+            elapsed_total = (datetime.now() - start_time).total_seconds()
+            if elapsed_total > MAX_RUNTIME:
+                print(f"\n\n⏰ Osiągnięto limit czasu ({MAX_RUNTIME/3600:.1f}h) - bezpieczne zakończenie")
+                print(f"   Usunięto do tej pory: {total_deleted} ogłoszeń")
+                print(f"   Workflow uruchomi się ponownie automatycznie i będzie kontynuować...")
+                return total_fetched, total_deleted, total_errors
             
             # WAŻNE: Jeśli usunęliśmy ogłoszenia, NIE zwiększaj offsetu!
             # (lista się skurczyła, więc następne ogłoszenia przesunęły się w dół)
