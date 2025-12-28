@@ -638,5 +638,485 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to hantle chromowane do ćwiczeń siłowych i fitness, co dokładnie odpowiada kategorii 'Hantle' w poddrzewie 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria jest liściem i semantycznie idealnie pasuje."
+    },
+    {
+        "ID_Produktu": "3382",
+        "Nazwa_Produktu": "NBL6003 LOTKI NYLON 3 SZT. NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lotki nylonowe do gry w darta, co bezpośrednio pasuje do kategorii Dart w Sportach towarzyskich. Tytuł i opis wskazują na zastosowanie w grze dart, a wskazówka systemu potwierdza tę ścieżkę."
+    },
+    {
+        "ID_Produktu": "3383",
+        "Nazwa_Produktu": "NBL6013 LOTKI NYLON MULTICOLOR 3 SZT. NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Lotki nylonowe są bezpośrednio związane z grą w darta, co potwierdza tytuł, opis i wskazówka systemu. Kategoria 'Dart' (ID 4967) jest kategorią-liściem w gałęzi 'Sport i Hobby > Sporty towarzyskie', idealnie pasującą do produktu."
+    },
+    {
+        "ID_Produktu": "3385",
+        "Nazwa_Produktu": "NBL6026 LOTKI NYLON MULTICOLOR 6 SZT. NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lotki do darta, które są bezpośrednio związane z grą w darta, co idealnie pasuje do kategorii Dart w Sportach towarzyskich. Wskazówka systemu również potwierdza ten wybór."
+    },
+    {
+        "ID_Produktu": "3386",
+        "Nazwa_Produktu": "NBL6203 LOTKI Z PIÓR 3 SZT. NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to lotki (lub 'pióra') do gry w dart, co jest bezpośrednio związane z darm. Ścieżka wskazówki 'Sport i Hobby > Sporty towarzyskie > Dart' pasuje, więc używam jej do zawężenia. Kategoria Dart (id: 4967) jest liściem i najlepiej opisuje ten produkt jako akcesorium do darta."
+    },
+    {
+        "ID_Produktu": "3391",
+        "Nazwa_Produktu": "NRZ053 3W1 / ZESTAW DO BADMINTONA 2 RAKIETY + 2 RAKIETY NA PLAŻĘ + LOTKI +  FRIZBI JUNIOR NILS",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw do badmintona z rakietkami i lotkami, co bezpośrednio pasuje do kategorii Badminton w Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne. Frizbi jest dodatkiem, ale nie zmienia głównego przeznaczenia sportowego."
+    },
+    {
+        "ID_Produktu": "3392",
+        "Nazwa_Produktu": "NBL6091 LOTKI NYLON LED 3 SZT. NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lotki do gry w darta, co jest jasno określone w tytule i opisie. Kategoria 'Dart' (id: 4967) znajduje się w ścieżce 'Sport i Hobby > Sporty towarzyskie' i jest kategorią-liściem, idealnie dopasowaną semantycznie do produktu."
+    },
+    {
+        "ID_Produktu": "3393",
+        "Nazwa_Produktu": "NR205 ALUMINIUM ISOMETRIC / RAKIETA DO BADMINTONA + POKROWIEC NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta do badmintona z pokrowcem, co bezpośrednio odpowiada kategorii 'Badminton' (id: 5029) w ścieżce 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'. Jest to kategoria-liść, bardziej szczegółowa niż sugerowana 'Pozostały sport i hobby', idealnie dopasowana semantycznie."
+    },
+    {
+        "ID_Produktu": "3397",
+        "Nazwa_Produktu": "NBL6092 LOTKA NYLON LED 1 SZT. Z PIŁKĄ NILS",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do badmintona z lotką LED i piłeczką gąbkową, co bezpośrednio odpowiada kategorii Badminton w dziale Sport i Hobby, a nie zabawkom dla dzieci. Kategoria Badminton jest liściem i precyzyjnie opisuje przeznaczenie produktu jako sprzęt sportowy."
+    },
+    {
+        "ID_Produktu": "3399",
+        "Nazwa_Produktu": "NBL6020 LOTKI NYLON 3 SZT. NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lotki (strzałki) do gry w darta, które są bezpośrednim akcesorium tego sportu. Kategoria 'Dart' jest szczegółowa, liściowa i idealnie pasuje do opisu syntetycznych lotek z nylonem i bazą EVA."
+    },
+    {
+        "ID_Produktu": "3401",
+        "Nazwa_Produktu": "NBL6303 LOTKI NYLON OPAK.3 SZT. NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lotki nylonowe do gry w darta, co idealnie pasuje do kategorii Dart (id: 4967) w gałęzi Sport i Hobby > Sporty towarzyskie. Wskazówka systemu potwierdza tę ścieżkę, a kategoria jest liściem."
+    },
+    {
+        "ID_Produktu": "3403",
+        "Nazwa_Produktu": "NBL6593 LOTKI NYLON LED DO SPEEDMINTONA 3 SZT. NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to lotki do speedmintona, sportu podobnego do badmintona, który jest bezpośrednio sklasyfikowany w kategorii Badminton pod Sporty towarzyskie > Tenis i pokrewne. Zignorowano wskazówkę o Darcie, ponieważ nie pasuje semantycznie."
+    },
+    {
+        "ID_Produktu": "3417",
+        "Nazwa_Produktu": "NRZ052 STEEL / ZESTAW DO BADMINTONA 2 RAKIETY + LOTKI JUNIOR NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do badmintona (rakiety i lotki) dla juniorów, co idealnie pasuje do kategorii 'Badminton' w gałęzi 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'. Kategoria jest liściem i semantycznie odpowiada sprzętowi do tej dyscypliny."
+    },
+    {
+        "ID_Produktu": "3420",
+        "Nazwa_Produktu": "NRZ002 STEEL / ZESTAW DO BADMINTONA 2 RAKIETY + LOTKA NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Zestaw rakiet i lotki do badmintona dokładnie pasuje do kategorii Badminton w Sportach towarzyskich, która jest kategorią-liściem. Wskazówka systemu potwierdza tę ścieżkę, a produkt nie wymaga bardziej szczegółowej kategorii."
+    },
+    {
+        "ID_Produktu": "3423",
+        "Nazwa_Produktu": "NRZ012 STEEL / ZESTAW DO BADMINTONA 2 RAKIETY + 3 LOTKI + SIATKI 195x22cm + POKROWIEC NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do badmintona (rakiety, lotki, siatka), a kategoria 'Badminton' (id: 5029) znajduje się w 'Sport i Hobby > Sporty towarzyskie', co jest semantycznie idealnym dopasowaniem. Zignorowano podpowiedź systemu OLX ('Pozostały sport i hobby'), ponieważ istnieje bardziej szczegółowa, pasująca kategoria."
+    },
+    {
+        "ID_Produktu": "3441",
+        "Nazwa_Produktu": "NT300 SIATKA DO BADMINTONA 620x65cm + POKROWIEC PEŁNY NILS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Fotografia > Akcesoria fotograficzne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do badmintona, która jest sprzętem sportowym. W drzewie kategorii OLX istnieje kategoria 'Badminton' (id: 5029) w ścieżce 'Sport i Hobby' > 'Sporty towarzyskie' > 'Tenis i pokrewne', co idealnie odpowiada przeznaczeniu produktu. Kategoria jest liściem i semantycznie dopasowana."
+    },
+    {
+        "ID_Produktu": "3489",
+        "Nazwa_Produktu": "OBCIĄŻENIE BETONOWE KOMPOZYTOWE 2,5KG EB FIT FI29,5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążenie do ćwiczeń siłowych, używane w fitness i domowych siłowniach, co dokładnie pasuje do kategorii 'Obciążenia' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria jest liściem i semantycznie najlepiej dopasowana."
+    },
+    {
+        "ID_Produktu": "3490",
+        "Nazwa_Produktu": "OBCIĄŻENIE BETONOWE KOMPOZYTOWE 5KG EB FIT FI29,5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążenie (talerz) do ćwiczeń siłowych, używane w fitness i na siłowni. Tytuł i opis wskazują na sprzęt do treningu siłowego, a wskazówka systemu OLX sugeruje ścieżkę 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia'. W drzewie kategorii OLX istnieje kategoria 'Obciążenia' (id: 4339) będąca liściem pod 'Sprzęt siłowy' (id: 4316), która idealnie pasuje semantycznie do produktu."
+    },
+    {
+        "ID_Produktu": "3639",
+        "Nazwa_Produktu": "HANTLA KOMPOZYTOWA 11KG (10+1) EB FIT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantla kompozytowa do ćwiczeń siłowych, co dokładnie pasuje do kategorii liściowej 'Hantle' w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "3640",
+        "Nazwa_Produktu": "GRYF PROSTY KRÓTKI 35CM Z ZACIKAMI ŚREDNICA 25MM EB FIT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Pozostałe fitness",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gryf do ćwiczeń siłowych, który dokładnie pasuje do kategorii 'Gryfy' (ID 4336) w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Jest to bardziej szczegółowa kategoria niż sugerowana 'Pozostałe fitness' i bezpośrednio odpowiada charakterowi produktu."
+    },
+    {
+        "ID_Produktu": "3646",
+        "Nazwa_Produktu": "HANTLE KOMPOZYTOWE 2X2KG BEST SPORTING ZESTAW",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw hantli do ćwiczeń siłowych w domu, co dokładnie pasuje do kategorii 'Hantle' w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria jest najbardziej szczegółowa i zgodna z opisem oraz wskazówką systemu."
+    },
+    {
+        "ID_Produktu": "3656",
+        "Nazwa_Produktu": "GRYF 35 CM BEST SPORTING FI30 ZACISKI",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gryf krótki z zaciskami, używany w treningu siłowym, co bezpośrednio pasuje do kategorii 'Gryfy' pod 'Sprzęt siłowy' w dziale Fitness. Kategoria jest bardziej szczegółowa i semantycznie dopasowana niż ogólna 'Pozostałe' w 'Akcesoria treningowe' sugerowana przez wskazówkę."
+    },
+    {
+        "ID_Produktu": "3940",
+        "Nazwa_Produktu": "PIŁECZKI DO TENISA STOŁOWEGO ENERO 6 SZT pomarańczowe",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego, co bezpośrednio odpowiada kategorii 'Tenis stołowy' (id: 5027) w ścieżce 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'. Wskazówka systemu została zignorowana, ponieważ produkt jest sprzętem sportowym, a nie zabawką."
+    },
+    {
+        "ID_Produktu": "3952",
+        "Nazwa_Produktu": "RZUTKI LOTKI PLASTIKOWE DO DARTA KPL 3SZT ENERO czarne",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Rzutki (lotki) do darta są bezpośrednio związane z grą w darta, co odpowiada kategorii Dart w dziale sportów towarzyskich. Kategoria ta jest liściem i szczegółowo opisuje ten rodzaj sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "4062",
+        "Nazwa_Produktu": "OBCIĄŻENIE BETONOWE KOMPOZYTOWE 10KG EB FIT FI29,5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążenie do ćwiczeń siłowych, używane w fitness i na domowej siłowni. Kategoria 'Obciążenia' (ID: 4339) znajduje się w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy', co dokładnie odpowiada charakterystyce produktu i jest zgodne ze wskazówką systemu."
+    },
+    {
+        "ID_Produktu": "4401",
+        "Nazwa_Produktu": "HANTLA KOMPOZYTOWA KETTLEBELL 8 KG ODWAŻNIK ENERO FIT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to odważnik kettlebell, rodzaj hantli do ćwiczeń siłowych, co bezpośrednio odpowiada kategorii Hantle w Sprzęcie siłowym w dziale Fitness."
+    },
+    {
+        "ID_Produktu": "4548",
+        "Nazwa_Produktu": "ZESTAW DO TENISA STOŁOWEGO ENERO 2 RAKIETKI 3 PIŁECZKI I SIATKA",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do tenisa stołowego (ping-pong), który jest klasyfikowany jako sport towarzyszy. W drzewie kategorii istnieje bezpośrednia, szczegółowa kategoria liścia 'Tenis stołowy' (id: 5027) w ścieżce 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne', co idealnie pasuje do opisu produktu. Wskazówka systemu została zignorowana, ponieważ nie pasuje do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "4549",
+        "Nazwa_Produktu": "ZESTAW DO TENISA STOŁOWEGO ENERO 2 RAKIETKI 3 PIŁECZKI",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rakietek i piłeczek do tenisa stołowego, co bezpośrednio odpowiada kategorii 'Tenis stołowy' będącej liściem w drzewie OLX, znajdującej się w ścieżce 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'. Kategoria ta jest najbardziej szczegółowa i semantycznie dopasowana."
+    },
+    {
+        "ID_Produktu": "4553",
+        "Nazwa_Produktu": "Tarcza do rzutek Spokey NARVI BASIC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w darta (tarcza i rzutki), co idealnie pasuje do kategorii Dart w Sportach towarzyskich (Sport i Hobby). Tytuł i opis wielokrotnie wspominają grę w darta, a wskazówka systemu potwierdza tę ścieżkę."
+    },
+    {
+        "ID_Produktu": "4586",
+        "Nazwa_Produktu": "OCN0478 CZAPKA ODBLASKOWA UNIWERSALNA NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Czapki i kapelusze > Czapki",
+        "Finalna_Sciezka_AI": "Moda > Czapki i kapelusze > Czapki",
+        "Finalne_ID_AI": 2743,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Tytuł produktu to 'CZAPKA', a opis podkreśla jej uniwersalny charakter i zastosowanie sportowe, jednak podstawowa funkcja to nakrycie głowy. Kategoria 'Czapki' (id 2743) w gałęzi 'Moda > Czapki i kapelusze' jest kategorią-liść i semantycznie najlepiej odpowiada produktowi, mimo sportowego kontekstu. Wskazówka systemu potwierdza tę ścieżkę."
+    },
+    {
+        "ID_Produktu": "4587",
+        "Nazwa_Produktu": "OKN0477 KOMIN ODBLASKOWY WIELOFUNKCYJNY NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Szale i chusty > Szaliki",
+        "Finalne_ID_AI": 2732,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to komin odblaskowy, który można nosić na szyi, głowie lub nadgarstku, podobny do szalika. Kategoria 'Szaliki' (ID 2732) pod 'Moda > Akcesoria > Szale i chusty' jest kategorią-liściem i bezpośrednio pasuje semantycznie, mimo że produkt jest używany także do aktywności sportowych. Wskazówka systemu ('Moda > Akcesoria > Pozostałe') sugeruje podobną gałąź, ale 'Szaliki' jest bardziej szczegółowe."
+    },
+    {
+        "ID_Produktu": "4790",
+        "Nazwa_Produktu": "PIŁKA DO KOSZYKÓWKI BULLET R.7",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Piłka do koszykówki to akcesorium do gry w koszykówkę, co dokładnie pasuje do ścieżki Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria. Wskazówka OLX potwierdza ten wybór, a opis produktu jasno wskazuje na przeznaczenie do koszykówki."
+    },
+    {
+        "ID_Produktu": "4792",
+        "Nazwa_Produktu": "PIŁKA DO KOSZYKÓWKI ENERO MASTER R.6",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Piłka do koszykówki jest akcesorium do tej dyscypliny sportu. Wskazówka systemu OLX sugeruje ścieżkę 'Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria', która istnieje w drzewie kategorii i dokładnie pasuje do produktu. Kategoria 4988 jest liściem i semantycznie najlepiej opisuje ten produkt."
+    },
+    {
+        "ID_Produktu": "4902",
+        "Nazwa_Produktu": "NC1722 ZESTAW LIN NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Perfumy > Uniseks > Wody toaletowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw lin do zawieszania huśtawek, hamaków i foteli, co bezpośrednio związane jest z wyposażeniem ogrodu, szczególnie huśtawek i placów zabaw. Kategoria 'Huśtawki i place zabaw' jest liściem (is_leaf: true) w ścieżce 'Dom i Ogród > Ogród' i semantycznie najlepiej pasuje do zastosowania produktu."
+    },
+    {
+        "ID_Produktu": "4956",
+        "Nazwa_Produktu": "BR163 PAS NA BRZUCH WYSZCZUPLAJĄCY BLACK ONE SIZE HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Bielizna damska > Bielizna modelująca",
+        "Finalna_Sciezka_AI": "Moda > Bielizna damska > Bielizna modelująca",
+        "Finalne_ID_AI": 2664,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Pas wyszczuplający BR163 służy przede wszystkim do modelowania sylwetki (talia i brzuch), ukrywania mankamentów i redukcji tkanki tłuszczowej, co jest kluczową funkcją bielizny modelującej. Mimo że produkt jest przeznaczony dla obu płci i może być używany podczas ćwiczeń, jego główny cel – kształtowanie sylwetki – najlepiej pasuje do kategorii 'Bielizna modelująca' w gałęzi 'Moda > Bielizna damska'. Wskazówka systemu potwierdza tę ścieżkę, a brak bardziej szczegółowej kategorii uniwersalnej lub męskiej skłania do wyboru tej opcji."
+    },
+    {
+        "ID_Produktu": "5014",
+        "Nazwa_Produktu": "BR209 PAS NA BRZUCH WYSZCZUPLAJĄCY ORANGE ONE SIZE HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Bielizna damska > Bielizna modelująca",
+        "Finalna_Sciezka_AI": "Moda > Bielizna damska > Bielizna modelująca",
+        "Finalne_ID_AI": 2664,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to pas na brzuch do wyszczuplania, wykonany z neoprenu i poliestru, służący do modelowania sylwetki, co jest głównym celem bielizny modelującej. Wskazówka systemu również sugeruje tę kategorię, co potwierdza wybór, pomimo możliwego skojarzenia z akcesoriami fitness."
+    },
+    {
+        "ID_Produktu": "5075",
+        "Nazwa_Produktu": "H8334 CZARNE ROZM. L ZESTAW OCHRANIACZY NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalne_ID_AI": 4294,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw ochraniaczy ochronnych na nadgarstki, łokcie i kolana, powszechnie używanych w jeździectwie jako ochraniacze dla jeźdźca. Kategoria 'Ochraniacze i owijki' w gałęzi 'Akcesoria jeździeckie' jest szczegółowa i bezpośrednio pasuje do typu produktu, co potwierdza wskazówka systemu. Opis produktu nie wyklucza innych sportów, ale kontekst jeździecki jest dominujący w dostępnych kategoriach."
+    },
+    {
+        "ID_Produktu": "5100",
+        "Nazwa_Produktu": "OGRÓD WERYKALNY DONICZKA KASKADA DO ZIÓŁ",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Doniczki i osłonki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Donice",
+        "Finalne_ID_AI": 1632,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to donica kaskadowa do tworzenia wertykalnego ogrodu, przeznaczona głównie do uprawy ziół i roślin na balkonie, tarasie lub w domu. Choć wskazówka OLX sugeruje 'Doniczki i osłonki' (dekoracyjne, wewnętrzne), semantycznie lepiej pasuje do kategorii 'Donice' w 'Ogród', ponieważ jest to funkcjonalny produkt ogrodowy do uprawy roślin, a nie tylko dekoracja wnętrz."
+    },
+    {
+        "ID_Produktu": "5105",
+        "Nazwa_Produktu": "ZESTAW DO BADMINTONA METALOWY I LOTKA ENERO",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do badmintona (rakietki i lotka), przeznaczony do rekreacyjnej gry. Kategoria 'Badminton' znajduje się w ścieżce 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne' i dokładnie odpowiada produktowi. Wskazówka systemu została zignorowana, gdyż sugerowała kategorię związaną z zabawkami plastycznymi, co nie pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "5109",
+        "Nazwa_Produktu": "OGRODOWA KURTYNA WODNA 10M GŁOWICE MIEDZIANE",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kurtyna wodna do ogrodu, używana głównie do nawadniania roślin, zraszania oraz ochłody, co bezpośrednio odpowiada kategorii 'Nawadnianie' w dziale 'Ogród'. Opis podkreśla zastosowania związane z nawadnianiem szklarni, tuneli foliowych i ogólne funkcje zraszacza, co czyni tę kategorię najbardziej trafną, pomimo sugestii systemu dotyczącej narzędzi ręcznych, które nie odzwierciedlają głównego przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "5114",
+        "Nazwa_Produktu": "POKROWIEC NA MOTOR ROWER SKUTER 210X110CM DUNLOP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Sprzęt bagażowy",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalne_ID_AI": 4501,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec ochronny przed warunkami atmosferycznymi, reklamowany głównie dla motocykli (motor, skuter), ale też rowerów. W drzewie kategorii OLX, w dziale Motoryzacja > Wyposażenie i akcesoria samochodowe znajduje się bezpośrednia kategoria 'Pokrowce' (id: 4501), która semantycznie najlepiej pasuje do tego typu produktu, nawet jeśli nazwa nadrzędna mówi o 'samochodowych' – w praktyce często obejmuje akcesoria dla różnych pojazdów. Kategorie rowerowe (np. Sprzęt bagażowy lub Zabezpieczenia rowerowe) są węższe i nie uwzględniają motocykli, co czyni je mniej odpowiednimi."
+    },
+    {
+        "ID_Produktu": "5128",
+        "Nazwa_Produktu": "ZESTAW DO BADMINTONA W POKROWCU ENERO 102",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w badmintona (rakietki, lotki, pokrowiec), co jednoznacznie kwalifikuje go jako sprzęt sportowy do tej dyscypliny. W drzewie kategorii Badminton jest kategorią-liściem (ID 5029) w ścieżce Sport i Hobby -> Sporty towarzyskie -> Tenis i pokrewne -> Badminton. Wskazówka systemu (Zabawki edukacyjne) została zignorowana, ponieważ produkt jest przeznaczony do aktywności rekreacyjnej/sportowej, a nie jako zabawka edukacyjna."
+    },
+    {
+        "ID_Produktu": "5129",
+        "Nazwa_Produktu": "PIŁKA SIATKOWA ENERO SUPER STAR R.5",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Gry dla dzieci",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka siatkowa, wyraźnie opisana jako sprzęt sportowy do siatkówki, dyscypliny drużynowej. Najbardziej szczegółową i pasującą kategorią liściastą jest 'Akcesoria' pod 'Siatkówka' (id: 4991) w gałęzi 'Sport i Hobby' > 'Sporty drużynowe'. Wskazówka OLX dotycząca zabawek została zignorowana, ponieważ produkt nie jest zabawką, lecz profesjonalnym sprzętem sportowym."
+    },
+    {
+        "ID_Produktu": "5151",
+        "Nazwa_Produktu": "RAKIETKA DO TENISA STOŁOWEGO DONIC CHAMPS LINE 300 FSC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co bezpośrednio pasuje do kategorii 'Tenis stołowy' (id: 5027) w gałęzi 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'. Jest to najbardziej szczegółowa i semantycznie dopasowana kategoria-liść."
+    },
+    {
+        "ID_Produktu": "5170",
+        "Nazwa_Produktu": "HANTLA GUMOWA HEX 4 KG ENERO FIT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantla do ćwiczeń siłowych, co dokładnie odpowiada kategorii 'Hantle' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria jest liściem i semantycznie najlepiej pasuje do tytułu i opisu."
+    },
+    {
+        "ID_Produktu": "5217",
+        "Nazwa_Produktu": "Wiadro toaleta",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Architektura ogrodowa > Toalety przenośne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa > Toalety przenośne",
+        "Finalne_ID_AI": 3053,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przenośna toaleta turystyczna, używana na działkach, w ogrodach i w podróży, co idealnie pasuje do kategorii 'Toalety przenośne' w gałęzi architektury ogrodowej. Kategoria jest liściem i semantycznie najlepiej odpowiada zastosowaniu produktu."
+    },
+    {
+        "ID_Produktu": "5230",
+        "Nazwa_Produktu": "Organizer do szuflady do przycinania na wymiar 4 szt. 10x40 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Organizer do szuflady jest akcesorium służącym do organizacji wewnątrz mebli, co najlepiej odpowiada kategorii 'Akcesoria meblowe' w gałęzi 'Dom i Ogród > Meble'. Wskazówka 'Pudełka' została zignorowana, ponieważ produkt jest specyficznie przeznaczony do szuflad jako akcesorium meblowe, a nie ogólnym pojemnikiem."
+    },
+    {
+        "ID_Produktu": "5232",
+        "Nazwa_Produktu": "Krzesełko dziecięce od 3 do 6 lat",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalne_ID_AI": 4721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to krzesło dla dzieci w wieku 3-6 lat, co dokładnie odpowiada kategorii liścia 'Krzesła' (ID 4721) znajdującej się w ścieżce 'Dom i Ogród > Meble > Meble dla dzieci'. Wskazówka systemu OLX również prowadzi do tej ścieżki."
+    },
+    {
+        "ID_Produktu": "5239",
+        "Nazwa_Produktu": "Krzesełko dziecięce z motywem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalne_ID_AI": 4721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to krzesło dziecięce, zgodne z opisem mebla dla dzieci. Kategoria 'Krzesła' (ID 4721) w 'Meble dla dzieci' jest liściem i semantycznie najlepiej pasuje, co potwierdza wskazówka systemu OLX sugerująca ścieżkę 'Dom i Ogród > Meble > Meble dla dzieci > Krzesła'."
     }
 ]

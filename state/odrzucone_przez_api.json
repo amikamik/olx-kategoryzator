@@ -774,5 +774,495 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "2751",
+        "Nazwa_Produktu": "PU 72x24 82A PRZEZROCZYSTE (4 szt.) + ABEC-7 (8 szt.) ZESTAW NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Przybory do pisania > Długopisy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to kółka poliuretanowe (PU) i łożyska ABEC-7, które są typowymi akcesoriami do rolek, deskorolek lub hulajnóg, co odpowiada kategorii 'Akcesoria skating' w dziale 'Sport i Hobby'. Wskazówka systemu OLX dotycząca artykułów szkolnych została zignorowana, ponieważ nie pasuje do opisu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pu 72x24 82a przezroczyste (4 szt.) + abec-7 (8 szt.) zestaw nils extreme",
+                "description": "Kółka PU CLEAR NILS EXTREME są wykonane z poliuretanu. Najważniejszymi parametrami kółek są twardość oraz średnica. Twardość kółek decyduje zarówno o komforcie jazdy jak i o przyczepności do podłoża. Kółka PU-82A zapewniają dobrą amortyzację oraz doskonałą adaptację do każdej nawierzchni. Średnica kółek ma bezpośredni wpływ na szybkość jazdy. Kółka o większej średnicy umożliwiają osiąganie większych prędkości, jednak nie gwarantują tak dużej manewrowości jak kółka o mniejszej średnicy. Łożysko ABEC 7, wykonane z wysokiej jakości stali węglowej, które zapewnia doskonałą twardość i wytrzymałość. Charakteryzuje się najniższym oporem toczenia co przekłada się na największą prędkość w amerykańskiej normie Annular Bearing Engineering Commitee w skrócie ABEC. Istotnym parametrem tego łożyska jest mimośrodowość czyli okrągłość na torze w pierścieniu wewnętrznym i wynosi zaledwie 0,0025mm. Specyfikacja: Twardość kółka: 82A Rozmiar: PU 72×24 mm/82A Ilość w opakowaniu: 4 szt. Klasa łożysk: ABEC 7 Ilość łożysk w opakowaniu: 8 Ilość tulejek dystansowych: 4 Opakowanie: blister Uwagi: Nie przeznaczone do użytku komercyjnego Gwarancja 24 miesiące",
+                "category_id": 1679,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 48.93,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/43956.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/43955.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "2752",
+        "Nazwa_Produktu": "PU 76x24 82A PRZEZROCZYSTE (4 szt.) + ABEC-7 (8 szt.) ZESTAW NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Przybory do pisania > Długopisy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kółka PU i łożyska ABEC-7, które są typowymi akcesoriami do deskorolek, rolek lub hulajnóg, co odpowiada kategorii 'Akcesoria skating' w gałęzi 'Sport i Hobby > Skating'. Wskazówka systemu OLX (dotycząca długopisów) została zignorowana, ponieważ nie pasuje do opisu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pu 76x24 82a przezroczyste (4 szt.) + abec-7 (8 szt.) zestaw nils extreme",
+                "description": "Kółka PU CLEAR NILS EXTREME są wykonane z poliuretanu. Najważniejszymi parametrami kółek są twardość oraz średnica. Twardość kółek decyduje zarówno o komforcie jazdy jak i o przyczepności do podłoża. Kółka PU-82A zapewniają dobrą amortyzację oraz doskonałą adaptację do każdej nawierzchni. Średnica kółek ma bezpośredni wpływ na szybkość jazdy. Kółka o większej średnicy umożliwiają osiąganie większych prędkości, jednak nie gwarantują tak dużej manewrowości jak kółka o mniejszej średnicy. Łożysko ABEC 7, wykonane z wysokiej jakości stali węglowej, które zapewnia doskonałą twardość i wytrzymałość. Charakteryzuje się najniższym oporem toczenia co przekłada się na największą prędkość w amerykańskiej normie Annular Bearing Engineering Commitee w skrócie ABEC. Istotnym parametrem tego łożyska jest mimośrodowość czyli okrągłość na torze w pierścieniu wewnętrznym i wynosi zaledwie 0,0025mm. Specyfikacja: Twardość kółka: 82A Rozmiar: PU 76×24 mm/82A Ilość w opakowaniu: 4 szt. Klasa łożysk: ABEC 7 Ilość łożysk w opakowaniu: 8 Ilość tulejek dystansowych: 4 Opakowanie: blister Uwagi: Nie przeznaczone do użytku komercyjnego Gwarancja 24 miesiące",
+                "category_id": 1679,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 50.86,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/43959.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/43958.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "3159",
+        "Nazwa_Produktu": "PU 76x24 82A BIAŁE MATOWE (4 szt.) + ABEC-9 (8 szt.) ZESTAW NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Czasopisma",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw kółek poliuretanowych i łożysk ABEC-9, które są typowymi akcesoriami do sprzętu skatingowego (deskorolki, rolki, hulajnogi). Kategoria 'Akcesoria skating' znajduje się w ścieżce 'Sport i Hobby > Skating' i jest kategorią liściastą przeznaczoną dokładnie na takie części. Wskazówka systemu OLX dotycząca 'Czasopism' została zignorowana, ponieważ nie pasuje do charakteru produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pu 76x24 82a białe matowe (4 szt.) + abec-9 (8 szt.) zestaw nils extreme",
+                "description": "Kółka PU BIAŁE MATOWE NILS EXTREME są wykonane z poliuretanu. Najważniejszymi parametrami kółek są twardość oraz średnica. Twardość kółek decyduje zarówno o komforcie jazdy jak i o przyczepności do podłoża. Kółka PU-82A zapewniają dobrą amortyzację oraz doskonałą adaptację do każdej nawierzchni. Średnica kółek ma bezpośredni wpływ na szybkość jazdy. Kółka o większej średnicy umożliwiają osiąganie większych prędkości, jednak nie gwarantują tak dużej manewrowości jak kółka o mniejszej średnicy. Łożysko ABEC 9, wykonane z wysokiej jakości stali węglowej, które zapewnia doskonałą twardość i wytrzymałość. Charakteryzuje się najniższym oporem toczenia co przekłada się na największą prędkość w amerykańskiej normie Annular Bearing Engineering Committee w skrócie ABEC. Istotnym parametrem tego łożyska jest mimośrodowość czyli okrągłość na torze w pierścieniu wewnętrznym i wynosi zaledwie 0,0012mm. Specyfikacja: Twardość kółka: 82A Rozmiar: PU 76×24 mm/82A Ilość w opakowaniu: 4 szt. Klasa łożysk: ABEC 9 Ilość łożysk w opakowaniu: 8 Ilość tulejek dystansowych: 4 Uwagi: Nie przeznaczone do użytku komercyjne",
+                "category_id": 1679,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 57.62,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/324572.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/324573.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/324574.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/324575.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/324576.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "4451",
+        "Nazwa_Produktu": "ZESTAW BOKSERSKI DLA DZIECI : WOREK I RĘKAWICE",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Zestaw bokserski dla dzieci to akcesorium treningowe służące do zabawy i ćwiczeń, zawierające worek i rękawice. Kategoria 'Akcesoria treningowe' (ID 4317) znajduje się w ścieżce 'Sport i Hobby > Fitness > Akcesoria treningowe' i jest kategorią-liściem, która najlepiej pasuje do tego produktu. Wskazówka systemowa pomogła zawęzić poszukiwania do gałęzi fitness, gdzie ten produkt semantycznie odpowiada akcesoriom do treningu, a nie bardziej ogólnym kategoriom jak 'Sprzęt fitness' lub 'Sprzęt siłowy'. Produkt jest przeznaczony dla dzieci, ale głównym zastosowaniem jest trening/sport, co uzasadnia umieszczenie w tej kategorii zamiast w 'Zabawkach'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zestaw bokserski dla dzieci : worek i rękawice",
+                "description": "Twoje dziecko to istny wulkan energii? Kup mu ZESTAW BOKSERSKI DLA DZIECI WOREK + RĘKAWICE na nim wyciszy swoje emocje! zestaw pozwoli wyładować energię i poprawić kondycję wykonany z miękkich materiałów gwarantuje bezpieczeństwo i dobrą zabawę uniwersalne rękawice dołączone do zestawu pozwolą na zabawę zaraz po wypakowaniu specjalny uchwyt pozwoli zawiesić manekina np.: na drzewie kontrastowa kolorystyka i oryginalny wzór dodatkowo zachęci do treningu posiada certyfikat CE ZABAWA I TRENING Zestaw bokserski składający się z worka o wymiarach 38 x 14 cm i pary rękawic o wymiarach 15 x 19 x 3 cm - to nie tylko świetna zabawa ale i trening który rozwinie rozmaite umiejętności Twojego dziecka IDEALNY NA PREZENT Ćwiczenia z tym zestawem wyrabiają koordynację ruchową, zwinność i refleks. Dziecko w bezpieczny sposób wyładowuje emocje poprawiając przy tym wydolność organizmu. To idealny pomysł na prezent dla dziecka, bo dzięki zabawie można zaszczepić w nim zamiłowanie do sportu. UNIWERSALNE RĘKAWICE Rękawice są w rozmiarze uniwersalnym pasują na dziecięcą rękę zarówno dla chłopców jak i dziewczynek. Zapięcie na rzep pozwala dokładniej dopasować rękawice do wieku dziecka. Posiadają grube wypełnienie, które chroni ręce dziecka i mocny rzep regulujący szerokość przy nadgarstku. Parametry: W zestawie: worek bokserki w i 2 rękawice Worek z wypełnieniem o wymiarach 38 x 14 cm (wys. x śr.) Para rękawic bokserskich zapinanych na rzep w wymiarze 15 x 19 x 3 cm Materiał: PVC Przeznaczenie: dla chłopców i dziewczynek Waga netto: 0,650 kg Waga rękawicy: 0,025 kg Wymiary opakowania (siatka): 39 x 22 x 15 cm (wys. x gł. x szer.) Kolor: czarny, niebieski Dla dzieci powyżej 3 lat Marka: Enero Toys",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.51,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_bokserski_dla_dzieci_worek_rekawice.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_bokserski_dla_dzieci_worek_rekawice_4.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_bokserski_dla_dzieci_worek_rekawice_3.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_bokserski_dla_dzieci_worek_rekawice_1.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_bokserski_dla_dzieci_worek_rekawice_2.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_bokserski_dla_dzieci_worek_rekawice_5.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_bokserski_dla_dzieci_worek_i_rekawice_enero_toys_1.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_bokserski_dla_dzieci_worek_i_rekawice_enero_toys_2.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "4917",
+        "Nazwa_Produktu": "NC1771 LINA ORGANIZER NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Torby, plecaki, organizery",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Osprzęt turystyczny",
+        "Finalne_ID_AI": 3976,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to lina organizer z regulowanym zapięciem i 19 oczkami, przeznaczona do przymocowywania przedmiotów podczas aktywności outdoorowych, takich jak biwaki czy wędrówki. Wskazówka systemu (Dla Dzieci > Akcesoria dla niemowląt) nie pasuje, gdyż produkt jest ogólnego użytku turystycznego, a nie dla niemowląt. Kategoria 'Turystyka > Osprzęt turystyczny' (ID 3976) jest kategorią-liść i idealnie obejmuje akcesoria organizacyjne i pomocnicze do turystyki, takie jak liny, organizery i inne podobne sprzęty, co zgadza się z przeznaczeniem produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nc1771 lina organizer nils camp",
+                "description": "NC1771 marki NILS CAMP to lina organizer, która jest praktycznym rozwiązaniem dla każdego miłośnika outdoorowych przygód. NC1771 posiada aż 19 oczek, do których możemy przymocować mokre ubrania, naczynia, czy inne akcesoria, których nie chcemy trzymać na ziemi. Dodatkowo Lina posiada regulowane zapięcie z dwóch stron, dzięki któremu można w bardzo prosty i szybki sposób rozwiesić ją na dowolnych drzewach. Przy zakupie liny warto wyposażyć się również w karabińczyki marki NILS CAMP , które będą stanowić świetne uzupełnienie dla NC1771. Specyfikacja: Materia: Poliester Waga: 50g Wymiary: Długość: 425 cm + 2 x 90 cm Szerokość: 2,5 cm Ilość pierścieni: 19 Zapięcie: klamra",
+                "category_id": 3976,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 53.86,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_1(400).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_4(387).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_2(397).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_5(380).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img(397).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_3(392).jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "5220",
+        "Nazwa_Produktu": "Wkład chłodzący 200 gr.",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Klimatyzacja i wentylacja",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne",
+        "Finalne_ID_AI": 3975,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to wkład chłodzący do lodówek turystycznych, służący do utrzymywania niskiej temperatury w sprzęcie turystycznym. Kategoria 'Turystyka > Kuchnie i meble turystyczne' (ID: 3975) obejmuje lodówki turystyczne i ich akcesoria, co idealnie pasuje do opisu produktu jako akcesorium do lodówek turystycznych. Wskazówka systemu sugeruje 'Klimatyzacja i wentylacja' w AGD drobnym, ale produkt nie jest urządzeniem klimatyzacyjnym, a akcesorium turystycznym, dlatego wskazówka została zignorowana.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wkład chłodzący 200 gr.",
+                "description": "Wkład chłodzący Katex 200g niebieski do lodówek turystycznych Wkłady do lodówek turystycznych zostały wykonane z tworzywa sztucznego. Służą do utrzymywania niskiej temperatury w lodówce turystycznej. Aby wkłady prawidłowo działały, przed użyciem należy je umieścić w zamrażalniku na co najmniej 6 godzin. Po ich odpowiednim schłodzeniu należy je umieścić w lodówce turystycznej na transportowanych produktach spożywczych. Dzięki wkładom produkty spożywcze pozostaną dłużej świeże, a napoje zimne. Wkłady idealnie sprawdzą się podczas wycieczek, pikników oraz wyjazdów turystycznych. Dane techniczne: Wysokość: 17,5 cm Szerokość: 7,5 cm Głębokość: 2 cm Pojemność: 0,2 l",
+                "category_id": 3975,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 19.09,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/Wklad_chlodzacy_do_lodowki_turystycznej_500ML_NIEBIESKI_Kod_producenta_585_TH_ST(1).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/Wklad_chlodzacy_do_lodowki_turystycznej_500ML_NIEBIESKI_Marka_Stanley(1).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/Wklad_chlodzacy_do_lodowki_turystycznej_500ML_NIEBIESKI(1).jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "5241",
+        "Nazwa_Produktu": "UWC22 DYNAMICZNE UCHWYTY DO ĆWICZEŃ ZESTAW HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyty do ćwiczeń, które są akcesoriami treningowymi używanymi w fitness. Tytuł i opis wskazują na zastosowanie w treningu siłowym, co idealnie pasuje do kategorii 'Sport i Hobby > Fitness > Akcesoria treningowe'. Wskazówka systemu OLX potwierdza tę ścieżkę, a kategoria 4317 jest liściem, zgodnie z wymaganiami.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Uwc22 dynamiczne uchwyty do ćwiczeń zestaw hms",
+                "description": "Uchwyty UWC22 to nowy produkt firmy HMS, który zapewnia komfort i bezpieczeństwo podczas treningu. Dynamiczne uchwyty UWC22 są wykonane z wysokiej jakości materiałów, które są odporne na ścieranie i wilgoć. Mają ergonomiczny kształt \"Banana Grips\", który dopasowuje się do dłoni i zapobiega poślizgom. UWC22 mają szerokie zastosowanie. Sprawdzą się w treningu oporowym, na wyciągu, a także podczas martwego ciągu czy podciągania. W trakcie wykonywania wielu ćwiczeń w nienaturalny sposób pracują nasze nadgarstki i łokcie. Wraz z uchwytami od HMS zapobiegniesz urazom i nie będziesz musiał martwić się o ból. Uchwyty w stylu Banana Grips mają również optymalną długość, dzięki czemu idealnie dopasują się do twoich potrzeb. Dynamiczne uchwyty UWC22 są łatwe w montażu i demontażu, co ułatwia ich przechowywanie i transport. To bez wątpienia idealny wybór dla osób, które chcą poprawić swoją siłę, wytrzymałość i kondycję. Ten produkt świetnie sprawdzi się podczas m.in.: Podciągania Ściągania drążka Martwego ciągu Szrugsów Wiosłowania Treningu na wyciągu Specyfikacja: Materiał: TPE + Nylon Wymiaru uchwytów: Długość: 13.5 cm Szerokość maksymalna: 3.3 cm Szerokość minimalna: 2 cm Wymiar taśmy: Długość: 29.5 cm Szerokość 1.5 cm Waga produktu netto: 200 g Maksymalny udźwig produktu: 194 kg",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 58.69,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img(58).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_8(42).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_1(59).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_2(59).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_3(58).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_4(57).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_5(57).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_6(54).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

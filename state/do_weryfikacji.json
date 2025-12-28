@@ -377,5 +377,145 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "2747",
+        "Nazwa_Produktu": "PU 72x24 82A PRZEZROCZYSTE kółka (4 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Opony i dętki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Rowery > Części rowerowe",
+        "Finalne_ID_AI": 4240,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "75%",
+        "Uzasadnienie_AI": "Produkt to kółka (koła) z poliuretanu o specyfikacji technicznej (twardość 82A, średnica 72x24 mm), używane prawdopodobnie w sprzęcie sportowym takim jak rowery, deskorolki lub rolki. Wskazówka systemu OLX sugeruje kategorię związaną z rowerami, a w drzewie kategorii 'Części rowerowe' (ID 4240) jest kategorią-liść, która obejmuje koła i inne części rowerowe. Chociaż opis nie precyzuje jednoznacznie zastosowania rowerowego, to wskazówka pomaga zawęzić wybór do tej gałęzi. Kategoria 'Części rowerowe' jest bardziej szczegółowa niż ogólne 'Pozostałe' i pasuje semantycznie do produktu jako elementy jezdne."
+    },
+    {
+        "ID_Produktu": "2749",
+        "Nazwa_Produktu": "PU 72x24 82A BIAŁE (4 szt.) + ABEC-7 (8 szt.) ZESTAW NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Czasopisma",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "3521",
+        "Nazwa_Produktu": "DYSK PODUSZKA SENSOMOTORYCZNA Z POMPKĄ 33CM EB FIT",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Poduszki",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "3725",
+        "Nazwa_Produktu": "MINI POMPKA METEOR STROKE",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Pompki rowerowe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "4039",
+        "Nazwa_Produktu": "MATA PUZZLE PIANKOWE EVA 60X60X1,2CM KPL. 4SZT ENERO czerwony",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "4257",
+        "Nazwa_Produktu": "NCB12 SŁOŃ KUBEK TERMICZNY NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "4836",
+        "Nazwa_Produktu": "NC1714 LORNETKA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "4867",
+        "Nazwa_Produktu": "NC7817 UCHWYT HAK DO PARASOLA NILS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Parasole ogrodowe",
+        "Finalne_ID_AI": 2892,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "75%",
+        "Uzasadnienie_AI": "Produkt to hak/uchwyt do parasola ogrodowego lub plażowego, służący do stabilnego montażu parasola w podłożu. Bezpośrednio związany z parasolami ogrodowymi, które znajdują się w kategorii 'Parasole ogrodowe' pod 'Dom i Ogród' > 'Ogród' > 'Meble ogrodowe'. Nie ma osobnej kategorii na akcesoria do parasoli, więc wybrano najbliższą semantycznie kategorię-liść."
+    },
+    {
+        "ID_Produktu": "4935",
+        "Nazwa_Produktu": "NC1765 CZARNE STUPTUTY NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Pozostałe",
+        "Finalne_ID_AI": 4009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "75%",
+        "Uzasadnienie_AI": "Stuptuty to osprzęt turystyczny używany do ochrony butów i nogawek w warunkach górskich i turystycznych. Ponieważ nie pasują do innych specyficznych podkategorii osprzętu turystycznego (jak plecaki czy kije trekkingowe), trafiają do kategorii 'Pozostałe' w ramach 'Osprzętu turystycznego', co jest bardziej szczegółowe niż ogólna 'Pozostała turystyka'."
+    },
+    {
+        "ID_Produktu": "5138",
+        "Nazwa_Produktu": "BIDON ROWEROWY DUNLOP 750ML Z KOSZYKIEM SREBRNY",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Bidony rowerowe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5165",
+        "Nazwa_Produktu": "LAMPA ULICZNA LATARNIA SOLARNA 120LED + PILOT CZUJNIK RUCHU I ZMIERZCHU",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5210",
+        "Nazwa_Produktu": "Pojemnik do żywności 0,9 l 147x147x80mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5219",
+        "Nazwa_Produktu": "Wkład chłodzący 500 gr.",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Klimatyzacja i wentylacja",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Lodówki turystyczne",
+        "Finalne_ID_AI": 3994,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "75%",
+        "Uzasadnienie_AI": "Wkład chłodzący jest akcesorium przeznaczonym do lodówek turystycznych, które znajdują się w kategorii Turystyka > Kuchnie i meble turystyczne > Lodówki turystyczne. Mimo że produkt nie jest samą lodówką, jest z nią bezpośrednio związany i służy do utrzymania niskiej temperatury w takich urządzeniach. Wskazówka systemu dotycząca klimatyzacji została zignorowana, ponieważ nie pasuje semantycznie."
+    },
+    {
+        "ID_Produktu": "5233",
+        "Nazwa_Produktu": "Organizer na sztućce Deco Bella 9 częściowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
