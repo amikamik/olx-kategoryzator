@@ -1118,5 +1118,115 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to krzesło dziecięce, zgodne z opisem mebla dla dzieci. Kategoria 'Krzesła' (ID 4721) w 'Meble dla dzieci' jest liściem i semantycznie najlepiej pasuje, co potwierdza wskazówka systemu OLX sugerująca ścieżkę 'Dom i Ogród > Meble > Meble dla dzieci > Krzesła'."
+    },
+    {
+        "ID_Produktu": "5263",
+        "Nazwa_Produktu": "HANTLA GUMOWA HEX 2,5 KG EB FIT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "99%",
+        "Uzasadnienie_AI": "Produkt to hantla gumowa do ćwiczeń siłowych, co idealnie pasuje do kategorii liściowej 'Hantle' w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy. Opis i tytuł jednoznacznie wskazują na sprzęt do treningu siłowego, budowania masy mięśniowej i fitness, co jest zgodne z tą kategorią."
+    },
+    {
+        "ID_Produktu": "5269",
+        "Nazwa_Produktu": "OBCIĄŻENIA NA RZEP NEOPRENOWE 1 KG SPOKEY FORM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążenia na rzep neoprenowe służące do zwiększania oporu w treningu siłowym/fitness. Kategoria 'Obciążenia' (id 4339) pod 'Sprzęt siłowy' w dziale Fitness jest najbardziej szczegółowym i semantycznie dopasowanym liściem, lepszym niż ogólne 'Pozostałe' w akcesoriach treningowych sugerowane we wskazówce."
+    },
+    {
+        "ID_Produktu": "5295",
+        "Nazwa_Produktu": "PIŁKA NOŻNA BIEDRONKA BIAŁO-CZARNA ENERO R.5",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to piłka nożna, która jest podstawowym akcesorium do gry w piłkę nożną. Kategoria 'Akcesoria' w dziale piłki nożnej (Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria) jest szczegółowa i semantycznie pasująca, zgodnie z zasadą wybierania bardziej szczegółowych kategorii zamiast ogólnych (np. 'Pozostałe' w zabawkach). Wskazówka OLX sugerowała kategorię dziecięcą, ale produkt jest specyficznie związany z piłką nożną jako sportem."
+    },
+    {
+        "ID_Produktu": "5322",
+        "Nazwa_Produktu": "Krzesełko dzieciece do lat 3 FIORE różowe",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalne_ID_AI": 4721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to krzesełko dziecięce, które jest meblem przeznaczonym dla dzieci, zgodnie z opisem. Najlepiej pasuje do kategorii 'Krzesła' w podkategorii 'Meble dla dzieci', co jest również zgodne ze wskazówką systemu OLX. Kategoria ta jest liściem i semantycznie dopasowana do produktu."
+    },
+    {
+        "ID_Produktu": "5370",
+        "Nazwa_Produktu": "BR163 PAS NA BRZUCH WYSZCZUPLAJĄCY BLACK PLUS SIZE HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Bielizna damska > Bielizna modelująca",
+        "Finalna_Sciezka_AI": "Moda > Bielizna damska > Bielizna modelująca",
+        "Finalne_ID_AI": 2664,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas na brzuch wyszczuplający, czyli bielizna modelująca służąca do korekcji sylwetki. Wskazówka systemu OLX prowadzi do kategorii 'Moda > Bielizna damska > Bielizna modelująca' (ID 2664), co jest semantycznie idealnym dopasowaniem. Opis potwierdza zastosowanie do modelowania i wyszczuplania, a kategoria jest liściem w drzewie, więc jest najbardziej szczegółowa."
+    },
+    {
+        "ID_Produktu": "5381",
+        "Nazwa_Produktu": "TDN05 2 w 1 DART NILS FUN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł i opis dotyczą zestawu do gry w darta (tarcza i rzutki). Wskazówka systemu OLX sugeruje kategorię 'Sport i Hobby > Sporty towarzyskie > Dart', co jest zgodne z drzewem kategorii (id 4967, 'Dart', is_leaf: true). Jest to najbardziej szczegółowa i pasująca kategoria dla produktów związanych z dartem."
+    },
+    {
+        "ID_Produktu": "5382",
+        "Nazwa_Produktu": "TDG33 GROT MIĘKKI NILS FUN",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Maskotki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miękkie groty do darta, przeznaczone do plastikowych tarcz elektronicznego darta. Kategoria 'Dart' (id: 4967) w gałęzi 'Sport i Hobby > Sporty towarzyskie' jest najbardziej szczegółową i semantycznie pasującą kategorią liściową dla tego produktu, całkowicie ignorując niepasującą wskazówkę systemową."
+    },
+    {
+        "ID_Produktu": "5383",
+        "Nazwa_Produktu": "TDR01 RZUTKI NILS FUN",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rzutki do gry w darta, które są klasyfikowane jako sprzęt sportowy. Kategoria 'Dart' (id: 4967) pod 'Sporty towarzyskie' jest najbardziej szczegółowa i semantycznie pasująca. Wskazówka systemu dotycząca zabawek plastycznych została zignorowana, ponieważ nie odzwierciedla natury produktu."
+    },
+    {
+        "ID_Produktu": "5496",
+        "Nazwa_Produktu": "NC1798 RĘKAWICE TAKTYCZNE ZIELONE L NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Rękawiczki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Militaria",
+        "Finalne_ID_AI": 1601,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to rękawice taktyczne przeznaczone do aktywności outdoorowych (survival, kemping, trekking, polowania, wspinaczka), co lepiej pasuje do kategorii militariów w dziale Sport i Hobby niż do mody. Kategoria 'Militaria' (id: 1601) jest liściowa i semantycznie dopasowana do sprzętu taktycznego."
+    },
+    {
+        "ID_Produktu": "5497",
+        "Nazwa_Produktu": "NC1798 RĘKAWICE TAKTYCZNE ZIELONE XL NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Rękawiczki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Militaria",
+        "Finalne_ID_AI": 1601,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Rękawice taktyczne są opisane jako wyposażenie do survivalu, kempingu, trekkingu, polowań i wspinaczki, co semantycznie pasuje do kategorii Militaria w Sport i Hobby, a nie do Moda lub Turystyka. Kategoria Militaria (ID 1601) jest liściem i najlepiej oddaje przeznaczenie produktu do specjalistycznych aktywności outdoorowych."
+    },
+    {
+        "ID_Produktu": "5498",
+        "Nazwa_Produktu": "NC1728 PASEK TAKTYCZNY ZIELONY 125CM NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to pasek, który jest przede wszystkim akcesorium ubiorowym, choć o charakterze taktycznym/outdoorowym. W drzewie kategorii OLX najbliższa i najbardziej odpowiednia kategoria-liść to 'Paski' (ID 2721) znajdująca się w ścieżce Moda → Akcesoria. Opis podkreśla uniwersalność, funkcjonalność i zastosowanie w kontekście ubraniowym, co dobrze pasuje do tej kategorii. Alternatywne kategorie jak 'Turystyka' czy 'Militaria' są mniej precyzyjne, gdyż pasek nie jest sprzętem specjalistycznym, a raczej codziennym akcesorium o wzmocnionej konstrukcji."
     }
 ]

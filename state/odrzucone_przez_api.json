@@ -1264,5 +1264,158 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "5267",
+        "Nazwa_Produktu": "Lejek na słoik",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Lejek do słoików to akcesorium kuchenne używane przy przygotowywaniu i przechowywaniu przetworów, co idealnie pasuje do kategorii 'Pojemniki i przechowywanie żywności' w gałęzi 'Przybory kuchenne'. Wskazówka systemu OLX potwierdza tę ścieżkę, a opis produktu (bezpieczny w kontakcie z żywnością, mycie w zmywarce) dodatkowo wskazuje na zastosowanie kuchenne związane z przechowywaniem żywności.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Lejek na słoik",
+                "description": "UNIWERSALNY LEJEK DO PRZETWORÓW Lejek do słoików pomocny w kuchni jak również przy przygotowaniu przetworów domowych. Dane techniczne: Wykonany z wytrzymałego tworzywa sztucznego, wolny od BPA Wyposażony w wygodną rączkę Bezpieczny w kontakcie z żywnością Nadaje się do mycia w zmywarce WYSYŁKA KOLORU LOSOWA Wymiary: Średnica górna: 14,5 cm Średnica leja: 6,5 cm Długość rączki: 8,5 cm",
+                "category_id": 2130,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 18.12,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/Plastikowy_LEJEK_do_przetworow_sloikow_UNIWERSALNY_DUZY.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/Plastikowy_LEJEK_do_przetworow_sloikow_UNIWERSALNY_DUZY_Marka_Dunya.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/Plastikowy_LEJEK_do_przetworow_sloikow_UNIWERSALNY_DUZY_Material_plastik.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/Plastikowy_LEJEK_do_przetworow_sloikow_UNIWERSALNY_DUZY_Rodzaj_uniwersalny.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/Plastikowy_LEJEK_do_przetworow_sloikow_UNIWERSALNY_DUZY_Srednica_145_mm.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "5415",
+        "Nazwa_Produktu": "RST04 WHITE-BLACK ROZM. L RĘKAWICE NA SIŁOWNIĘ HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Odzież i obuwie rowerowe > Rękawiczki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to rękawice treningowe do fitness/sportów siłowych, opisane jako akcesorium treningowe zapobiegające odciskom, stabilizujące nadgarstek i poprawiające przyczepność. Kategoria 'Akcesoria treningowe' (id: 4317) w 'Fitness' (id: 771) pod 'Sport i Hobby' (id: 767) jest najbardziej odpowiednia. Sugerowana ścieżka rowerowa została zignorowana, ponieważ produkt nie jest związany z rowerami.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rst04 white-black rozm. l rękawice na siłownię hms",
+                "description": "Chcesz trenować bezpiecznie i wygodnie? Zobacz, co oferują rękawice treningowe RST04 od firmy HMS, które zostały zaprojektowane specjalnie dla osób uprawiających sporty siłowe i fitness. Zapobiegają odciskom i otarciom Rękawice treningowe RST04 są wykonane ze skóry, która jest trwała i odporna na ścieranie. Skóra chroni dłonie przed odciskami i otarciami, które mogą powstać podczas chwytania ciężarów, hantli, drążków czy innych sprzętów. Skóra jest również miękka i przyjemna w dotyku, co poprawia komfort użytkowania. Chronią przed urazami Rękawice treningowe RST04 mają specjalny ściągacz, który stabilizuje nadgarstek i zapobiega jego skręceniu lub nadwyrężeniu. Ściągacz jest regulowany i dopasowuje się do indywidualnego obwodu nadgarstka. Dzięki temu rękawice są bezpieczne i nie ograniczają ruchów. Komfort treningu Rękawice treningowe RST04 są wyposażone w silikonowe wypustki, które zapewniają lepszą przyczepność i zapobiegają ślizganiu się sprzętu w dłoniach. Silikon jest również odporny na wilgoć i pot, co zwiększa higienę i trwałość rękawic. Dodatkowo rękawice mają meshowe wstawki, które transportują wilgoć na zewnątrz tkaniny i zapewniają odpowiednią wentylację dłoni. Rękawice treningowe RST04 to produkt, który spełni oczekiwania każdego sportowca. Rękawice są nie tylko funkcjonalne, ale również stylowe i dostępne w dwóch kolorach. Specyfikacja: Materiał: skóra, mesh, silikon Szeroki ściągacz na nadgarstek Kolor: biało-czarny Rozmiar: L Obwód rękawicy w cm: 23",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 49.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img(103)(1)(1)(1).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_1(104)(1)(1)(1).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_2(104)(1)(1)(1).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_3(102)(1)(1)(1).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_4(100)(1)(1)(1).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_5(98)(1)(1)(1).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_6(95)(1)(1)(1).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_7(89)(1)(1)(1).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

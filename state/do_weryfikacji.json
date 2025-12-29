@@ -517,5 +517,25 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5321",
+        "Nazwa_Produktu": "KWIETNIK OGRÓD WERTYKALNY STOJĄCY antracyt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Kwietniki",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5416",
+        "Nazwa_Produktu": "RST04 WHITE-BLACK ROZM. XL RĘKAWICE NA SIŁOWNIĘ HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Odzież i obuwie rowerowe > Rękawiczki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "70%",
+        "Uzasadnienie_AI": "Rękawice treningowe do fitness i sportów siłowych są akcesorium treningowym. W drzewie kategorii nie ma specyficznej kategorii dla rękawic treningowych; najbliższa odpowiednia gałąź to 'Sport i Hobby > Fitness > Akcesoria treningowe', gdzie 'Pozostałe' jest kategorią-liściem obejmującą takie akcesoria. Zignorowano wskazówkę OLX o rowerach, ponieważ produkt jest przeznaczony do treningu siłowego, nie rowerowego."
     }
 ]
