@@ -45,5 +45,21 @@
             "Udało się pobrać tylko 0 produktów (minimum 100)"
         ],
         "end_time": "2026-01-03T12:02:00.988513"
+    },
+    {
+        "run_id": "20260105_123153",
+        "start_time": "2026-01-05T12:31:53.777113",
+        "status": "SUCCESS",
+        "stats": {
+            "total_products": 404,
+            "unchecked": 164,
+            "selected_for_test": 120,
+            "fetched_details": 119,
+            "uncertain": 41,
+            "deleted": 41
+        },
+        "errors": [],
+        "end_time": "2026-01-05T12:47:51.476459",
+        "duration_seconds": 957.7
     }
 ]

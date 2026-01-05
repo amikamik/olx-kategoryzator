@@ -1,0 +1,27 @@
+2026-01-05 12:31:53,777 [INFO] 
+================================================================================
+2026-01-05 12:31:53,777 [INFO] WALIDATOR JAKOŚCI - AUTOMATYCZNA KONTROLA KATEGORYZACJI
+2026-01-05 12:31:53,777 [INFO] ================================================================================
+2026-01-05 12:31:53,777 [DEBUG] Run ID: 20260105_123153
+2026-01-05 12:31:53,777 [DEBUG] Log file: /home/runner/work/olx-kategoryzator/olx-kategoryzator/logs/walidator_runs/run_20260105_123153.log
+2026-01-05 12:31:53,778 [INFO] 
+Stan mapping_feed_to_olx.json:
+2026-01-05 12:31:53,778 [INFO]   Łącznie produktów: 404
+2026-01-05 12:31:53,778 [INFO]   Niesprawdzonych: 164
+2026-01-05 12:31:53,778 [INFO]   Wymagane do testu: 120
+2026-01-05 12:31:53,778 [INFO] 
+  ✓ Wybieram 120 produktów do testowania
+2026-01-05 12:34:01,411 [INFO] 
+  🔍 Uruchamiam test DeepSeek (4x parallel)...
+2026-01-05 12:46:57,985 [INFO] 
+  🗑️  Usuwam 41 niepewnych produktów z OLX...
+2026-01-05 12:47:51,476 [INFO] 
+================================================================================
+2026-01-05 12:47:51,476 [INFO] ZAKOŃCZONO POMYŚLNIE
+2026-01-05 12:47:51,476 [INFO] ================================================================================
+2026-01-05 12:47:51,476 [INFO] Przetestowano: 120 produktów
+2026-01-05 12:47:51,476 [INFO] Niepewnych znaleziono: 41
+2026-01-05 12:47:51,476 [INFO] Usunięto z OLX: 41
+2026-01-05 12:47:51,476 [INFO] Czas wykonania: 957.70s
+2026-01-05 12:47:51,476 [INFO] ================================================================================
+
