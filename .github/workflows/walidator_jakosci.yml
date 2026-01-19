@@ -86,7 +86,7 @@ jobs:
           COMMISSION_PERCENT = 0.12
           MINIMUM_PROFIT_PLN = 15.0
           CENA_MIN = 1.0
-          CENA_MAX = 50.0
+          CENA_MAX = 150.0
           
           # --- Parametry kategoryzacji ---
           MINIMALNA_PEWNOSC = 80

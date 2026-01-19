@@ -56,7 +56,7 @@ COMMISSION_PERCENT = 0.12   # Prowizja OLX 12%
 MINIMUM_PROFIT_PLN = 15.0   # Minimalny zysk
 
 CENA_MIN = 1.0              # Filtr cenowy: min
-CENA_MAX = 50.0             # Filtr cenowy: max
+CENA_MAX = 150.0            # Filtr cenowy: max
 
 MINIMALNA_PEWNOSC = 90      # Próg pewności AI (%)
 ```

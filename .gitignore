@@ -32,6 +32,8 @@ Thumbs.db
 
 # Pliki wrażliwe (tokeny, hasła)
 config.py
+config/config.py
+config/tokeny_*.txt
 tokens.json
 .env
 
