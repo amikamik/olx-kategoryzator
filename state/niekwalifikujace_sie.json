@@ -1258,5 +1258,45 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Talerz żeliwny to obciążenie używane w treningu siłowym i fitness, co bezpośrednio odpowiada kategorii 'Obciążenia' pod 'Sprzęt siłowy' w dziale 'Fitness'."
+    },
+    {
+        "ID_Produktu": "333",
+        "Nazwa_Produktu": "HANTLA KOMPOZYTOWA KETTLEBELL 2W1 10 KG EB FIT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążenie do ćwiczeń siłowych (hantla/kettlebell 10 kg), które jest kluczowym elementem treningu siłowego. Kategoria 'Obciążenia' (ID 4339) znajduje się w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy', co idealnie pasuje do opisu produktu jako sprzęt do budowy masy mięśniowej i treningu siłowego. Wskazówka systemu OLX sugeruje 'Akcesoria treningowe > Pozostałe', ale 'Obciążenia' jest bardziej szczegółową i semantycznie dopasowaną kategorią w tej samej gałęzi (Fitness), więc wybrano ją zamiast ogólnej kategorii 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "358",
+        "Nazwa_Produktu": "KNV06 KETTLEBELL POKRYTY WINYLEM 6.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kettlebell to obciążenie używane w treningu siłowym, co idealnie pasuje do kategorii 'Obciążenia' w 'Sprzęt siłowy' pod 'Fitness'. Opis produktu podkreśla jego zastosowanie do ćwiczeń wzmacniających mięśnie, a wskazówka systemu potwierdza tę ścieżkę."
+    },
+    {
+        "ID_Produktu": "359",
+        "Nazwa_Produktu": "KNV08 KETTLEBELL POKRYTY WINYLEM 8.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kettlebell to ciężarek używany w treningu siłowym, co bezpośrednio pasuje do kategorii 'Obciążenia' w 'Sprzęt siłowy' pod 'Fitness'. Wskazówka systemowa potwierdza tę ścieżkę, a opis produktu podkreśla zastosowanie do ćwiczeń siłowych i fitness."
+    },
+    {
+        "ID_Produktu": "360",
+        "Nazwa_Produktu": "KNV12 KETTLEBELL POKRYTY WINYLEM 12.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Kettlebell to sprzęt do treningu siłowego, używany głównie w fitnessie. Kategoria 'Obciążenia' pod 'Sprzęt siłowy' w 'Fitness' jest liściem i najlepiej opisuje ten produkt, ponieważ obejmuje różne rodzaje obciążeń do ćwiczeń, w tym kettlebell, co jest zgodne z tytułem i opisem produktu oraz wskazówką systemu OLX."
     }
 ]

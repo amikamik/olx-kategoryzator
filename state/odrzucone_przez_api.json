@@ -1417,5 +1417,79 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "374",
+        "Nazwa_Produktu": "PSB 5 KG SLAM BALL PIŁKA DO ĆWICZEŃ HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka do ćwiczeń siłowych (slam ball), używana w fitnessie. Kategoria 'Piłki do ćwiczeń' (id: 4347) znajduje się pod ścieżką Sport i Hobby > Fitness > Akcesoria treningowe, co idealnie odpowiada przeznaczeniu produktu. Wskazówka OLX również sugeruje tę ścieżkę.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Psb 5 kg slam ball piłka do ćwiczeń hms",
+                "description": "Piłka PSB Slam Ball służy to urozmaicenia i wspomagania ćwiczeń siłowych. Umożliwia wykonywanie treningu obciążeniowego i wytrzymałościowego. Można ją również wykorzystać jako element rozgrzewki. Sprawdzi się podczas ćwiczeń rozciągających i wzmacniających mięśnie oraz poprawiających sprawność ciała. Jej dodatkową zaletą są antypoślizgowe wykończenia, przez co nie będzie się ślizgać podczas treningu, a gumowa powłoka zapewni długą ochronę. Slam Ball HMS dostępna jest w następujących wersjach: PSB3: 3kg, PSB5: 5kg, PSB8: 8kg, PSB9: 9kg, PSB10: 10kg, PSB13: 13 kg, PSB15: 15kg, PSB18: 18 kg, PSB22: 22 kg. Specyfikacja: materiał: tworzywo syntetyczne odporne na ścieranie średnica piłki: 22,5cm waga piłki: 5kg kolor: czarny gwarancja: 24 miesiące\n────────────────────────────────────────\n📋 INFORMACJE O PRODUCENCIE (GPSR)\n────────────────────────────────────────\n🏭 Producent/Importer: ABISAL SP. Z O.O.\n📍 Adres: PYSKOWICKA 17, 41-807, Zabrze, PL\n📧 Email: ABISAL@ABISAL.PL\n📞 Telefon: 32 307 07 91\n────────────────────────────────────────",
+                "category_id": 4347,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 74.09,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/PSB_5_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/PSB_5_MAXI_02.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/PSB_5_MAXI_03.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img_1(63).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img(70).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
