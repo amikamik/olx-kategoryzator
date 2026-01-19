@@ -350,7 +350,9 @@ def get_gpsr_text(producer_id):
         gpsr_lines.append(f"📍 Adres: {producer['address']}")
     
     if producer.get('email'):
-        gpsr_lines.append(f"📧 Email: {producer['email']}")
+        # OLX nie pozwala na @ w opisie - zamieniamy na (at)
+        email_safe = producer['email'].replace('@', '(at)')
+        gpsr_lines.append(f"📧 Email: {email_safe}")
     
     if producer.get('phone'):
         gpsr_lines.append(f"📞 Telefon: {producer['phone']}")
