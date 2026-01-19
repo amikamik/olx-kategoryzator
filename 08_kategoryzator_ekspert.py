@@ -338,26 +338,27 @@ def get_gpsr_text(producer_id):
     
     producer = RESPONSIBLE_PRODUCERS[producer_id]
     
+    # OLX nie akceptuje emoji ani znaków specjalnych - używamy zwykłego tekstu
     gpsr_lines = [
         "",
-        "─" * 40,
-        "📋 INFORMACJE O PRODUCENCIE (GPSR)",
-        "─" * 40,
-        f"🏭 Producent/Importer: {producer['name']}"
+        "-" * 40,
+        "INFORMACJE O PRODUCENCIE (GPSR)",
+        "-" * 40,
+        f"Producent/Importer: {producer['name']}"
     ]
     
     if producer.get('address'):
-        gpsr_lines.append(f"📍 Adres: {producer['address']}")
+        gpsr_lines.append(f"Adres: {producer['address']}")
     
     if producer.get('email'):
         # OLX nie pozwala na @ w opisie - zamieniamy na (at)
         email_safe = producer['email'].replace('@', '(at)')
-        gpsr_lines.append(f"📧 Email: {email_safe}")
+        gpsr_lines.append(f"Email: {email_safe}")
     
     if producer.get('phone'):
-        gpsr_lines.append(f"📞 Telefon: {producer['phone']}")
+        gpsr_lines.append(f"Telefon: {producer['phone']}")
     
-    gpsr_lines.append("─" * 40)
+    gpsr_lines.append("-" * 40)
     
     return "\n".join(gpsr_lines)
 
