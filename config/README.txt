@@ -1,5 +1,14 @@
 # Instrukcja Konfiguracji
 
+## 0. Feed produktów
+
+Link do generowania feedu z hurtowni cgrot.pl:
+```
+https://www.cgrot.pl/comparisons/file/jZWrtJPMjl
+```
+
+Pobierz i zapisz jako `input/feed_cgrot.xml`
+
 ## 1. Klucze API
 
 Edytuj plik `config.py` i uzupełnij:
@@ -43,7 +52,7 @@ OLX_AD_LOCATION = {
 
 ```python
 MARGIN_PERCENT = 0.30       # Marża 30%
-COMMISSION_PERCENT = 0.10   # Prowizja OLX 10%
+COMMISSION_PERCENT = 0.12   # Prowizja OLX 12%
 MINIMUM_PROFIT_PLN = 15.0   # Minimalny zysk
 
 CENA_MIN = 1.0              # Filtr cenowy: min

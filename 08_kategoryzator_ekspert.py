@@ -252,6 +252,113 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
     else:
         raise ValueError(f"Nieznany dostawca LLM: {provider}")
 
+# ==============================================================================
+# ======================== GPSR - PRODUCENCI ODPOWIEDZIALNI ====================
+# ==============================================================================
+
+# Globalny słownik producentów (wypełniany przy starcie)
+RESPONSIBLE_PRODUCERS = {}
+
+def parse_responsible_producers(file_path):
+    """
+    Parsuje sekcję responsibleProducers z pliku XML feedu.
+    Zwraca słownik {id: {name, address, email, phone}}
+    """
+    producers = {}
+    print(f"Parsowanie producentów odpowiedzialnych z: {file_path}")
+    try:
+        tree = ET.parse(file_path)
+        root = tree.getroot()
+        
+        rp_section = root.find('responsibleProducers')
+        if rp_section is None:
+            print("UWAGA: Brak sekcji responsibleProducers w feedzie!")
+            return producers
+        
+        for producer in rp_section.findall('p'):
+            producer_id = producer.get('id')
+            if not producer_id:
+                continue
+                
+            name_elem = producer.find('name')
+            address_elem = producer.find('address')
+            contact_elem = producer.find('contact')
+            
+            # Budowanie adresu
+            address_parts = []
+            if address_elem is not None:
+                street = address_elem.find('street')
+                postal = address_elem.find('postalCode')
+                city = address_elem.find('city')
+                country = address_elem.find('countryCode')
+                
+                if street is not None and street.text:
+                    address_parts.append(street.text.strip())
+                if postal is not None and postal.text:
+                    address_parts.append(postal.text.strip())
+                if city is not None and city.text:
+                    address_parts.append(city.text.strip())
+                if country is not None and country.text:
+                    address_parts.append(country.text.strip())
+            
+            # Kontakt
+            email = None
+            phone = None
+            if contact_elem is not None:
+                email_elem = contact_elem.find('email')
+                phone_elem = contact_elem.find('phoneNumber')
+                if email_elem is not None and email_elem.text:
+                    email = email_elem.text.strip()
+                if phone_elem is not None and phone_elem.text:
+                    phone = phone_elem.text.strip()
+            
+            producers[producer_id] = {
+                'name': name_elem.text.strip() if name_elem is not None and name_elem.text else 'Nieznany',
+                'address': ', '.join(address_parts) if address_parts else None,
+                'email': email,
+                'phone': phone
+            }
+        
+        print(f"Znaleziono {len(producers)} producentów odpowiedzialnych.")
+        
+    except ET.ParseError as e:
+        print(f"BŁĄD parsowania XML dla producentów: {e}")
+    except IOError as e:
+        print(f"BŁĄD odczytu pliku dla producentów: {e}")
+    
+    return producers
+
+def get_gpsr_text(producer_id):
+    """
+    Generuje tekst GPSR do dodania na końcu opisu ogłoszenia.
+    Zgodny z rozporządzeniem (UE) 2023/988 o bezpieczeństwie produktów.
+    """
+    if not producer_id or producer_id not in RESPONSIBLE_PRODUCERS:
+        return None
+    
+    producer = RESPONSIBLE_PRODUCERS[producer_id]
+    
+    gpsr_lines = [
+        "",
+        "─" * 40,
+        "📋 INFORMACJE O PRODUCENCIE (GPSR)",
+        "─" * 40,
+        f"🏭 Producent/Importer: {producer['name']}"
+    ]
+    
+    if producer.get('address'):
+        gpsr_lines.append(f"📍 Adres: {producer['address']}")
+    
+    if producer.get('email'):
+        gpsr_lines.append(f"📧 Email: {producer['email']}")
+    
+    if producer.get('phone'):
+        gpsr_lines.append(f"📞 Telefon: {producer['phone']}")
+    
+    gpsr_lines.append("─" * 40)
+    
+    return "\n".join(gpsr_lines)
+
 def parse_product_feed(file_path, limit):
     """Parsuje plik XML i zwraca listę produktów, obsługując błędy."""
     products = []
@@ -271,12 +378,24 @@ def parse_product_feed(file_path, limit):
                         if img.get('url'):
                             image_urls.append(img.get('url'))
 
+                # Pobieranie atrybutów (w tym producent odpowiedzialny)
+                attrs_dict = {}
+                attrs_tag = elem.find('attrs')
+                if attrs_tag is not None:
+                    for attr in attrs_tag.findall('a'):
+                        attr_name = attr.get('name')
+                        attr_value = attr.text
+                        if attr_name and attr_value:
+                            attrs_dict[attr_name] = attr_value.strip()
+
                 product_data = {
                     'id': elem.get('id'),
                     'price': elem.get('price'),
                     'name': (elem.find('name').text or '').strip(),
                     'description': (elem.find('desc').text or '').strip(),
-                    'images': image_urls
+                    'images': image_urls,
+                    'attrs': attrs_dict,
+                    'producer_id': attrs_dict.get('Producent odpowiedzialny') or attrs_dict.get('Podmiot odpowiedzialny')
                 }
                 products.append(product_data)
                 elem.clear() # Optymalizacja pamięci
@@ -588,9 +707,25 @@ def opublikuj_ogloszenie_na_olx(produkt, kategoria_id, wybrane_atrybuty, wybrane
     """
 
     # Krok 1: Przygotowanie pełnego ładunku (payload)
+    
+    # Przygotowanie opisu z GPSR
+    base_description = clean_html(produkt.get('description', "Brak opisu"))
+    
+    # Dodanie informacji GPSR na końcu opisu
+    gpsr_text = get_gpsr_text(produkt.get('producer_id'))
+    if gpsr_text:
+        full_description = base_description + gpsr_text
+        print(f"    │  ├─ ✅ Dodano dane GPSR do opisu (producent ID: {produkt.get('producer_id')})")
+    else:
+        full_description = base_description
+        if produkt.get('producer_id'):
+            print(f"    │  ├─ ⚠️ Nie znaleziono danych GPSR dla producenta ID: {produkt.get('producer_id')}")
+        else:
+            print(f"    │  ├─ ⚠️ Produkt nie ma przypisanego producenta odpowiedzialnego")
+    
     advert_data = {
         "title": produkt.get('name', "Brak tytułu").capitalize(),
-        "description": clean_html(produkt.get('description', "Brak opisu")),
+        "description": full_description,
         "category_id": kategoria_id,
         "advertiser_type": "private",
         "contact": config_obj.OLX_AD_CONTACT,
@@ -822,6 +957,10 @@ def main():
 
     config.CATEGORY_TREE_JSON_STR = category_tree_json_str
 
+    # --- Wczytywanie producentów odpowiedzialnych (GPSR) ---
+    global RESPONSIBLE_PRODUCERS
+    RESPONSIBLE_PRODUCERS = parse_responsible_producers(XML_FILE)
+    
     wszystkie_produkty = parse_product_feed(XML_FILE, 0)
     if not wszystkie_produkty:
         print("Nie znaleziono żadnych produktów w pliku XML. Sprawdź plik i ścieżkę.")
