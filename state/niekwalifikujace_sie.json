@@ -1298,5 +1298,85 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Kettlebell to sprzęt do treningu siłowego, używany głównie w fitnessie. Kategoria 'Obciążenia' pod 'Sprzęt siłowy' w 'Fitness' jest liściem i najlepiej opisuje ten produkt, ponieważ obejmuje różne rodzaje obciążeń do ćwiczeń, w tym kettlebell, co jest zgodne z tytułem i opisem produktu oraz wskazówką systemu OLX."
+    },
+    {
+        "ID_Produktu": "393",
+        "Nazwa_Produktu": "TOK05 TALERZ OLIMPIJSKI OGUMOWANY 5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to talerz olimpijski (obciążenie) do sztangi, używany w treningu siłowym i fitness. Kategoria 'Obciążenia' (id: 4339) znajduje się w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy' i jest kategorią-liść, co dokładnie odpowiada charakterowi produktu."
+    },
+    {
+        "ID_Produktu": "444",
+        "Nazwa_Produktu": "AS004 BLACK/GRAY STEP DO AEROBIKU HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Step do aerobiku to typowy sprzęt fitness, a w drzewie kategorii OLX istnieje precyzyjna kategoria 'Stepy, steppery i twistery' w ścieżce 'Sport i Hobby > Fitness > Sprzęt fitness'. Wskazówka systemu potwierdza tę ścieżkę, a opis produktu jasno wskazuje na urządzenie do treningu fitness z regulacją wysokości, co idealnie pasuje."
+    },
+    {
+        "ID_Produktu": "445",
+        "Nazwa_Produktu": "AS005 GRAY/BLACK STEP DO AEROBIKU HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to step do aerobiku/fitness, co bezpośrednio odpowiada kategorii 'Stepy, steppery i twistery' w gałęzi Sport i Hobby > Fitness > Sprzęt fitness. Opis produktu i wskazówka systemu potwierdzają to dopasowanie."
+    },
+    {
+        "ID_Produktu": "446",
+        "Nazwa_Produktu": "AS004 BLUE/L.BLUE STEP DO AEROBIKU HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to step do aerobiku, używany w treningach fitness. Kategoria 'Stepy, steppery i twistery' (ID 4332) pod 'Sport i Hobby > Fitness > Sprzęt fitness' dokładnie odpowiada temu typowi sprzętu, zgodnie z tytułem, opisem i wskazówką systemu OLX."
+    },
+    {
+        "ID_Produktu": "458",
+        "Nazwa_Produktu": "GPR120 GRYF PROSTY 6.75KG Z GWINTEM I ZACISKIEM 1200MM HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gryf prosty do ćwiczeń siłowych, używany w fitness, co bezpośrednio odpowiada kategorii 'Gryfy' w 'Sprzęt siłowy' pod 'Fitness' w 'Sport i Hobby'. Wskazówka systemu OLX potwierdza tę ścieżkę, a opis produktu (materiał, zastosowanie, specyfikacje) jasno wskazuje na sprzęt do treningu siłowego."
+    },
+    {
+        "ID_Produktu": "459",
+        "Nazwa_Produktu": "GL120 GRYF LEKKO ŁAMANY Z GWINTEM I ZACISKIEM 30MM x 120 CM HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gryf łamany do sztangi, używany w ćwiczeniach siłowych. Kategoria 'Gryfy' (id 4336) znajduje się pod 'Sprzęt siłowy' w dziale 'Fitness' i jest najbardziej szczegółową, pasującą kategorią-liściem, podczas gdy sugerowana 'Akcesoria treningowe > Pozostałe' jest zbyt ogólna."
+    },
+    {
+        "ID_Produktu": "463",
+        "Nazwa_Produktu": "THM10 TALERZ HAMMERTONE 10 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Talerze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Talerz Hammertone 10 kg HMS to obciążenie do sztangi używane w treningu siłowym, z opisem wskazującym na zastosowanie w siłowni (np. uchwyty, otwór 31 mm na gryf). Kategoria 'Obciążenia' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy' jest semantycznie najlepiej dopasowana, podczas gdy wskazówka o antycznej ceramice jest nieistotna dla tego produktu sportowego."
+    },
+    {
+        "ID_Produktu": "597",
+        "Nazwa_Produktu": "SG01 SZTANGIELKA Z GWINTEM 7 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sztangielka z gwintem, czyli rodzaj hantli do ćwiczeń siłowych. Kategoria 'Hantle' (id: 4337) znajduje się w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy', co bezpośrednio odpowiada przeznaczeniu produktu dla domowej siłowni lub fitness. Inne kategorie jak 'Obciążenia' lub 'Zestawy' są mniej specyficzne."
     }
 ]

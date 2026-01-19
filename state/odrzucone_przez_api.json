@@ -1491,5 +1491,156 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "387",
+        "Nazwa_Produktu": "ZESTAW BOKSERSKI ENERO DLA DZIECI REGULOWANY 75-128CM Z RĘKAWICAMI",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Zestaw bokserski dla dzieci to akcesorium treningowe służące do ćwiczeń fizycznych, rozwoju koordynacji i zwinności. Wskazówka systemu sugeruje kategorię z gałęzi 'Fitness > Akcesoria treningowe', a ponieważ nie ma bardziej szczegółowej podkategorii dla sprzętu bokserskiego, wybrano 'Pozostałe' w ramach 'Akcesoria treningowe'. Produkt, mimo że przeznaczony dla dzieci, funkcjonalnie odpowiada akcesoriom treningowym w sporcie i fitness.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zestaw bokserski enero dla dzieci regulowany 75-128cm z rękawicami",
+                "description": "Przedstawiamy super zestaw bokserski Enero z regulacja wysokości w zakresie 75-128cm - to nie tylko świetna zabawa ale i trening który rozwija umiejętności każdego dziecka Ćwiczenia z tym zestawem wyrabiają koordynację ruchową, zwinność i refleks. Dziecko w bezpieczny sposób wyładowuję emocję poprawiając przy tym wydolność organizmu. Gruszka jest specjalnie profilowana i ma kształt profesjonalnej gruszki bokserskiej. Solidna podstawa która jest równocześnie obciążeniem utrzymuje gruszkę w miejscu nawet przy silnych uderzeniach. Dzięki regulowanej wysokości możemy dopasować zestaw do wzrostu dziecka. Parametry: • W zestawie: gruszka , rękawice bokserskie, stojak, pompka do gruszki • Regulacja wysokości od 75 do 128cm • Konstrukcja stalowa ze sprężyną • Podstawa 12x15x67,5cm • Para rękawic bokserskich w rozmiarze uniwersalnym (pasują na dziecięce ręce) • Rękawice zapinane na rzep, lepsze dopasowanie do dłoni • Łatwy montaż • Z zestawie pompka do pompowania gruszki oraz można ją wykorzystywać do pompowania piłek • Zestaw zapakowany w estetyczne opakowanie, idealnie nadaje się na prezent • Zestaw nadaje się zarówno dla chłopców jak i dziewczynek • Waga netto: 1,65kg • Waga brutto: 1,79kg • Wymiary opakowania: 68x20x10cm Aktywny wypoczynek, ćwiczenie koordynacji ruchowej oraz zwinności, pozytywne rozładowywanie energii. Rękawice bokserskie Rękawice są w rozmiarze uniwersalnym i pasują na dziecięcą rękę. Pasują zarówno dla 3 jak i 8 latka. Zapięcie na rzep pozwala dokładniej dopasować rękawice do wieku dziecka. Rękawice posiadają grube wypełnienie które chroni ręce dziecka. Gruszka bokserska sprężynowa Dzięki wysokiej jakości sprężynie gruszka po uderzeniu odskakuje by po chwili wrócić do pozycji pionowej. Gruszka ma specjalny kształt który ułatwia uderzanie, taki sam kształt mają profesjonalne gruszki bokserskie. Gruszka wychyla się na wszystkie strony dodając frajdy podczas zabawy. Regulacja wysokość Dzięki specjalnej regulacji wysokość można regulować wysokość gruszki od 75- 128 centymetrów. Zestaw będzie pasował zarówno dla 3 latka jak i 8 latka.\n────────────────────────────────────────\n📋 INFORMACJE O PRODUCENCIE (GPSR)\n────────────────────────────────────────\n🏭 Producent/Importer: VICTORIA-SPORT\n📍 Adres: Wybickiego 9, 83-050, Bąkowo, PL\n📧 Email: biuro(at)galeriasportowa.pl\n📞 Telefon: 585733833\n────────────────────────────────────────",
+                "category_id": 4353,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 119.29,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/zestaw_bokserski_enero_dla_dzieci_regulowany_75_128cm_i_rekawice.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/zestaw_bokserski_enero_dla_dzieci_regulowany_75_128cm_i_rekawice_1.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/zestaw_bokserski_enero_dla_dzieci_regulowany_75_128cm_i_rekawice_2.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "W tym polu niedozwolone są znaki specjalne",
+                            "detail": "W tym polu niedozwolone są znaki specjalne"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "416",
+        "Nazwa_Produktu": "BR1869 ONE SIZE ŚCIĄGACZ NA BRZUCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Ściągacz na brzuch jest akcesorium używanym podczas ćwiczeń fitness do wspomagania redukcji tkanki tłuszczowej i poprawy sylwetki, co idealnie pasuje do kategorii 'Akcesoria treningowe' w gałęzi 'Sport i Hobby > Fitness'. Ignoruję podpowiedź o narzędziach, gdyż produkt nie ma z nimi związku.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Br1869 one size ściągacz na brzuch hms",
+                "description": "BR1869 HMS - to ściągacz na brzuch, pełniący funkcję pasa wyszczuplającego. Pomaga on zrzucić zbędne kilogramy, dzięki podnoszeniu temperatury ciała. Ściągacz jest lekki i wygodny, nie powoduje uczucia dyskomfortu nawet podczas całodziennego noszenia. Wygodę gwarantuje zapięcie na rzep, które pozwala idealnie dostosować rozmiar pasa do wymiarów użytkownika. BR1869 HMS pomaga zrzucić zbędne kilogramy i zniwelować mankamenty sylwetki. Przyspiesza również spalanie kalorii, a co za tym idzie, sprzyja utracie tkanki tłuszczowej i niweluje cellulit. Na tym nie koniec! Pas usprawnia także krążenie krwi. Specyfikacja: Materiał: 75% neopren, 25% poliester Kolor: czarny Wymiary: długość: 112-120 cm szerokość: 18 cm Rozmiar: uniwersalny Dla kobiet i mężczyzn Wspomaga redukcję tkanki tłuszczowej i spalanie kalorii Usprawnia krążenie krwi Może być stosowany podczas ćwiczeń, jak i na co dzień Wygodne zapięcie na dwa rzepy Idealne dopasowanie do ciała\n────────────────────────────────────────\n📋 INFORMACJE O PRODUCENCIE (GPSR)\n────────────────────────────────────────\n🏭 Producent/Importer: ABISAL SP. Z O.O.\n📍 Adres: PYSKOWICKA 17, 41-807, Zabrze, PL\n📧 Email: ABISAL(at)ABISAL.PL\n📞 Telefon: 32 307 07 91\n────────────────────────────────────────",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 73.97,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/359283.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/359284.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/359285.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/359286.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/359287.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/359288.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/359289.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/359290.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
