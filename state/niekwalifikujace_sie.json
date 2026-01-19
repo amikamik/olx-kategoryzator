@@ -1228,5 +1228,35 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to pasek, który jest przede wszystkim akcesorium ubiorowym, choć o charakterze taktycznym/outdoorowym. W drzewie kategorii OLX najbliższa i najbardziej odpowiednia kategoria-liść to 'Paski' (ID 2721) znajdująca się w ścieżce Moda → Akcesoria. Opis podkreśla uniwersalność, funkcjonalność i zastosowanie w kontekście ubraniowym, co dobrze pasuje do tej kategorii. Alternatywne kategorie jak 'Turystyka' czy 'Militaria' są mniej precyzyjne, gdyż pasek nie jest sprzętem specjalistycznym, a raczej codziennym akcesorium o wzmocnionej konstrukcji."
+    },
+    {
+        "ID_Produktu": "391",
+        "Nazwa_Produktu": "TOK01 TALERZ OLIMPIJSKI OGUMOWANY 1.25 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to talerz olimpijski (obciążenie) do sztangi, używany w treningu siłowym. Należy do kategorii Sport i Hobby, podkategorii Fitness, a dokładnie do Sprzętu siłowego. Kategoria 'Obciążenia' (ID 4339) jest kategorią-liściem i idealnie pasuje do opisu ciężarów do sztangi. Ścieżka: Sport i Hobby -> Fitness -> Sprzęt siłowy -> Obciążenia."
+    },
+    {
+        "ID_Produktu": "513",
+        "Nazwa_Produktu": "17025 CIĘŻAREK ŻELIWNY POKRYTY NEOPRENEM 0.5 KG",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Ciężarek żeliwny pokryty neoprenem to sprzęt do ćwiczeń siłowych i fitness, co bezpośrednio odpowiada kategorii 'Hantle' w gałęzi 'Sprzęt siłowy' (Fitness -> Sport i Hobby). Kategoria jest liściem i szczegółowo opisuje tego typu produkt."
+    },
+    {
+        "ID_Produktu": "963",
+        "Nazwa_Produktu": "TCZ01 TALERZ CZARNY 1.25 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Talerz żeliwny to obciążenie używane w treningu siłowym i fitness, co bezpośrednio odpowiada kategorii 'Obciążenia' pod 'Sprzęt siłowy' w dziale 'Fitness'."
     }
 ]

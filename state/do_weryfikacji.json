@@ -537,5 +537,31 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "70%",
         "Uzasadnienie_AI": "Rękawice treningowe do fitness i sportów siłowych są akcesorium treningowym. W drzewie kategorii nie ma specyficznej kategorii dla rękawic treningowych; najbliższa odpowiednia gałąź to 'Sport i Hobby > Fitness > Akcesoria treningowe', gdzie 'Pozostałe' jest kategorią-liściem obejmującą takie akcesoria. Zignorowano wskazówkę OLX o rowerach, ponieważ produkt jest przeznaczony do treningu siłowego, nie rowerowego."
+    },
+    {
+        "ID_Produktu": "443",
+        "Nazwa_Produktu": "YB02 65CM ANTI-BURST BRĄZOWA GRIZZLY PIŁKA GIMNASTYCZNA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Piłka gimnastyczna jest sprzętem do ćwiczeń fitness, rehabilitacji, jogi i pilatesu, co idealnie pasuje do kategorii 'Piłki do ćwiczeń' w ramach 'Akcesoria treningowe' w 'Fitness' pod 'Sport i Hobby'. Kategoria jest liściem i specyficzna dla tego typu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "754",
+        "Nazwa_Produktu": "PSB 3 KG SLAM BALL PIŁKA DO ĆWICZEŃ HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Piłka slam ball jest używana do ćwiczeń siłowych i fitness, co bezpośrednio pasuje do kategorii 'Piłki do ćwiczeń' pod 'Akcesoria treningowe' w 'Fitness'. Kategoria ta obejmuje piłki do treningu, a opis produktu wskazuje na zastosowanie w ćwiczeniach obciążeniowych, wytrzymałościowych i rozgrzewce.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]
