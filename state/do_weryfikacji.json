@@ -563,5 +563,31 @@
         "api_error": {
             "error": "Błąd pobierania atrybutów z OLX API."
         }
+    },
+    {
+        "ID_Produktu": "724",
+        "Nazwa_Produktu": "FS105 WAŁEK PIANKOWY/ROLLER 3W1 HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Rollery, wałki i piłeczki do masażu",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Rollery, wałki i piłeczki do masażu",
+        "Finalne_ID_AI": 4348,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wałek piankowy (roller) do masażu i treningu, używany do relaksacji mięśni, poprawy krążenia i terapii ruchowej, co idealnie pasuje do kategorii 'Rollery, wałki i piłeczki do masażu' w dziale Akcesoria treningowe > Fitness > Sport i Hobby.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
+    },
+    {
+        "ID_Produktu": "726",
+        "Nazwa_Produktu": "F4420 PRZYRZĄD DO ĆWICZEŃ MIĘŚNI RAMION HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to przyrząd do ćwiczeń mięśni przedramion (wrist roller), który kwalifikuje się jako akcesorium treningowe w kategorii fitness. Wskazówka systemu OLX sugeruje podobną ścieżkę (Sport i Hobby > Fitness > Akcesoria treningowe). W drzewie kategorii, pod 'Akcesoria treningowe' (ID 4317) nie ma bardziej szczegółowej, pasującej podkategorii (np. hantle, rollery do masażu), więc wybrano kategorię-liść 'Pozostałe' (ID 4353), która jest najmniej myląca dla tego typu sprzętu.",
+        "api_error": {
+            "error": "Brak odpowiedzi AI dla atrybutów."
+        }
     }
 ]
