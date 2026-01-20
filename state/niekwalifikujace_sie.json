@@ -1408,5 +1408,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to hantla żeliwna do ćwiczeń siłowych i fitness, co dokładnie odpowiada kategorii 'Hantle' w 'Sprzęt siłowy' pod 'Fitness' w 'Sport i Hobby'. Wskazówka systemu OLX dotycząca kolekcji została zignorowana, gdyż nie pasuje do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "984",
+        "Nazwa_Produktu": "HEX PRO 4 KG HANTLA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantle do treningu siłowego, co bezpośrednio pasuje do kategorii 'Hantle' (ID 4337) znajdującej się w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Wskazówka systemu OLX sugeruje tę samą ścieżkę, co potwierdza wybór. Kategoria jest liściem i semantycznie najlepiej dopasowana do opisu gumowanych hantli sześciokątnych."
+    },
+    {
+        "ID_Produktu": "985",
+        "Nazwa_Produktu": "HEX PRO 6 KG HANTLA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantle do treningu siłowego, co dokładnie odpowiada kategorii liściowej 'Hantle' w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Opis i tytuł jednoznacznie wskazują na ten rodzaj sprzętu."
     }
 ]
