@@ -589,5 +589,722 @@
         "api_error": {
             "error": "Brak odpowiedzi AI dla atrybutów."
         }
+    },
+    {
+        "ID_Produktu": "1139",
+        "Nazwa_Produktu": "FG01 NAKŁADKI NA GRYF (2SZT) HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Pozostałe fitness",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "1166",
+        "Nazwa_Produktu": "RST01 BLACK/RED ROZM. L RĘKAWICE NA SIŁOWNIĘ HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "75%",
+        "Uzasadnienie_AI": "Rękawiczki na siłownię są akcesorium treningowym do fitness, co pasuje do kategorii 'Akcesoria treningowe' w 'Sport i Hobby'. Ponieważ nie ma specyficznej podkategorii dla rękawiczek, wybrano liść 'Pozostałe' pod 'Akcesoria treningowe' jako najbardziej odpowiednią."
+    },
+    {
+        "ID_Produktu": "1339",
+        "Nazwa_Produktu": "PLAB1 PLATFORMA DO BALANSOWANIA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "1761",
+        "Nazwa_Produktu": "NKU03 PIŁKA LEKARSKA 3 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "2029",
+        "Nazwa_Produktu": "NB5003 ORANGE-GREEN ŚR.90 CM BOCIANIE GNIAZDO HUŚTAWKA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "2056",
+        "Nazwa_Produktu": "NC3080 KRZESŁO TURYSTYCZNE SZARE 110 CM NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Krzesła turystyczne",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "2145",
+        "Nazwa_Produktu": "PSTX06 PAS OBCIĄŻENIOWY DO ĆWICZEŃ SIŁOWYCH HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "2148",
+        "Nazwa_Produktu": "PSTX05 PAS OBCIĄŻENIOWY DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Pas obciążeniowy to akcesorium treningowe służące do zwiększania obciążenia podczas ćwiczeń siłowych, co idealnie wpisuje się w kategorię 'Akcesoria treningowe' w dziale 'Fitness'. Ponieważ w drzewie kategorii nie ma osobnej podkategorii dla pasów, wybrano liść 'Pozostałe' w tej gałęzi.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2149",
+        "Nazwa_Produktu": "TRS3609 TORBA SPORTOWA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Torby i plecaki treningowe",
+        "Finalne_ID_AI": 4352,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torba sportowa przeznaczona do przenoszenia akcesoriów treningowych na siłownię lub krótkie wyjazdy. Kategoria 'Torby i plecaki treningowe' (ID 4352) znajduje się w ścieżce 'Sport i Hobby -> Fitness -> Akcesoria treningowe' i jest semantycznie najlepiej dopasowana, ponieważ specyficznie obejmuje torby używane w kontekście aktywności fizycznej i treningu, co odpowiada opisowi produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2159",
+        "Nazwa_Produktu": "PA3998 BROWN ROZM. S PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas do ćwiczeń siłowych, służący do stabilizacji i odciążania odcinka lędźwiowego podczas treningu z dużymi obciążeniami. W drzewie kategorii OLX, akcesoria treningowe, takie jak pasy, znajdują się w kategorii 'Akcesoria treningowe' (id: 4343), która jest podkategorią 'Akcesoria treningowe' (id: 4317) w gałęzi 'Fitness' (id: 771) w 'Sport i Hobby' (id: 767). Jest to najbardziej szczegółowa i semantycznie pasująca kategoria-liść, odnosząca się bezpośrednio do tego typu sprzętu treningowego.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2160",
+        "Nazwa_Produktu": "PA3998 BROWN ROZM. M PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas do ćwiczeń siłowych, który stabilizuje odcinek lędźwiowy podczas treningu. Należy do akcesoriów treningowych w dziedzinie fitness. W drzewie kategorii, ścieżka 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' (4317) jest kategorią-liściem i najlepiej pasuje semantycznie, ponieważ pas jest akcesorium wspomagającym trening, a nie głównym sprzętem siłowym czy odżywką.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2161",
+        "Nazwa_Produktu": "PA3998 BROWN ROZM. L PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Pas do ćwiczeń siłowych jest akcesorium treningowym używanym w fitness, a kategoria 'Pozostałe' w 'Akcesoria treningowe' (pod 'Fitness' w 'Sport i Hobby') najlepiej pasuje, ponieważ produkt nie jest bezpośrednio wymieniony w innych podkategoriach, a jego główne zastosowanie to sport, nie rehabilitacja medyczna.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2162",
+        "Nazwa_Produktu": "PA3998 BROWN ROZM. XL PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Pas do ćwiczeń siłowych jest akcesorium treningowym używanym w fitness, szczególnie w treningu siłowym. Kategoria 'Akcesoria treningowe' pod 'Fitness' w 'Sport i Hobby' jest najbardziej odpowiednia, a ponieważ pas nie pasuje do specyficznych podkategorii jak akcesoria do jogi czy maty, wybieram liść 'Pozostałe' w tej gałęzi.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2163",
+        "Nazwa_Produktu": "PA3998 BROWN ROZM. XXL PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Pas do ćwiczeń siłowych to akcesorium treningowe używane w kontekście fitness, a kategoria 'Pozostałe' w ramach 'Akcesoria treningowe' pod 'Fitness' jest najbliższa semantycznie, ponieważ inne kategorie nie obejmują bezpośrednio pasów treningowych. Chociaż istnieje kategoria 'Pasy i gorsety' w 'Zdrowie i Uroda', kontekst produktu (trening siłowy, siłownia) wskazuje bardziej na sport niż na zastosowanie medyczne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2170",
+        "Nazwa_Produktu": "PDM3134I GOLD PISTOLET DO MASAŻU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Urządzenia do masażu",
+        "Finalne_ID_AI": 3660,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pistolet do masażu, urządzenie do masażu mięśni i terapii fizycznej. W drzewie kategorii 'Urządzenia do masażu' (id: 3660) pod 'Zdrowie i Uroda' jest bezpośrednio pasującą kategorią-liściem, obejmującą takie sprzęty. Inne kategorie jak 'Sprzęt fitness' lub 'Sport i Hobby' są mniej odpowiednie, ponieważ produkt jest przede wszystkim urządzeniem terapeutycznym/masażowym.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2171",
+        "Nazwa_Produktu": "PDM3125H BLACK PISTOLET DO MASAŻU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "2184",
+        "Nazwa_Produktu": "PFM02 MASKA TRENINGOWA PERFORMANCE MASK",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Maska treningowa PFM02 to akcesorium do treningu wytrzymałościowego, poprawiające wydolność oddechową i stosowane w różnych dyscyplinach sportu (bieganie, kolarstwo, sporty walki, crossfit). Kategoria 'Akcesoria treningowe' (id: 4317) w gałęzi 'Fitness' (id: 771) pod 'Sport i Hobby' (id: 767) najlepiej pasuje, ponieważ produkt jest akcesorium wspomagającym trening, a nie głównym sprzętem fitness. Kategoria jest liściem (is_leaf: true) i semantycznie dopasowana do opisu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2220",
+        "Nazwa_Produktu": "KO1665 ROZM. L STABILIZATOR KOLANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Opaski i stabilizatory",
+        "Finalne_ID_AI": 3701,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stabilizator stawu kolanowego, używany przy urazach i w rehabilitacji, co idealnie pasuje do kategorii 'Opaski i stabilizatory' w dziale sprzętu rehabilitacyjnego i ortopedycznego (Zdrowie i Uroda).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2221",
+        "Nazwa_Produktu": "KO1665 ROZM. XL STABILIZATOR KOLANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Opaski i stabilizatory",
+        "Finalne_ID_AI": 3701,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to stabilizator kolana z usztywnieniami, służący do medycznej stabilizacji stawu w przypadku skręceń, zwichnięć lub niestabilności. Najlepiej pasuje do kategorii 'Opaski i stabilizatory' (ID 3701) w ścieżce Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny, ponieważ jest to produkt ortopedyczny o charakterze medycznym, a nie akcesorium sportowe czy ogólne. Opis wskazuje na zastosowanie rehabilitacyjne i medyczne, co potwierdza wybór tej kategorii.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2243",
+        "Nazwa_Produktu": "LO1525 TURKUSOWO-CZARNY ROZM. S ŚCIĄGACZ NA ŁOKIEĆ HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Opaski i stabilizatory",
+        "Finalne_ID_AI": 3701,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opaska uciskowa na łokieć używana do stabilizacji, profilaktyki i leczenia urazów, co bezpośrednio odpowiada kategorii 'Opaski i stabilizatory' w dziale 'Sprzęt rehabilitacyjny i ortopedyczny' (Zdrowie i Uroda).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2298",
+        "Nazwa_Produktu": "MP10  MATA PUZZLE POD SPRZĘT PINK-GREY 9 ELEMENTÓW 10MM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata puzzle używana pod sprzęt fitness, służąca do ochrony podłogi i tłumienia dźwięków podczas treningu. Kategoria 'Maty' w ścieżce 'Sport i Hobby > Fitness > Akcesoria treningowe' jest kategorią-liściem i najlepiej opisuje to akcesorium treningowe.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2299",
+        "Nazwa_Produktu": "MP10 MATA PUZZLE POD SPRZĘT YELLOW-BLUE-PURPLE 9 ELEMENTÓW 10MM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Mata puzzle służy jako akcesorium do ochrony podłogi i tłumienia dźwięków podczas treningu fitness, co bezpośrednio pasuje do kategorii 'Maty' w podkategorii 'Akcesoria treningowe' w dziale 'Fitness'. Jest to najbardziej szczegółowa i semantycznie dopasowana kategoria-liść.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2308",
+        "Nazwa_Produktu": "MP10 MATA PUZZLE POD SPRZĘT GREEN-BLUE-RED 9 ELEMENTÓW 10MM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Mata puzzle jest opisana jako produkt do ochrony podłogi i redukcji hałasu podczas treningu z ciężarami i pod sprzęt fitness, co plasuje ją w kategorii sportowej. W drzewie kategorii, najbliższa i najbardziej szczegółowa kategoria liść to 'Maty' (id: 4346) w ścieżce Sport i Hobby -> Fitness -> Akcesoria treningowe, która dokładnie odpowiada przeznaczeniu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2318",
+        "Nazwa_Produktu": "MP12 MATA PUZZLE L.GRAY 9 ELEMENTÓW 12MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata puzzle przeznaczona głównie do ćwiczeń fitness (joga, trening siłowy), co idealnie pasuje do kategorii 'Maty' w 'Akcesoria treningowe' w dziale 'Fitness' (Sport i Hobby). Opis podkreśla zastosowanie w fitnessie, a mata jest kluczowym akcesorium treningowym.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2319",
+        "Nazwa_Produktu": "MP12 MATA PUZZLE D.GRAY 9 ELEMENTÓW 12MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to mata puzzle przeznaczona głównie do ćwiczeń fitness (joga, trening siłowy), co klasyfikuje ją jako akcesorium treningowe w kategorii Fitness, a nie jako dywan czy element wyposażenia domu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2321",
+        "Nazwa_Produktu": "MP10 MATA PUZZLE MULTIPACK BLUE-GREY 9 ELEMENTÓW 10MM ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Mata puzzle jest opisana jako sprzęt do ćwiczeń fitness, jogi i treningu siłowego, co bezpośrednio odpowiada kategorii 'Maty' w 'Akcesoria treningowe' pod 'Fitness' w dziale 'Sport i Hobby'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2387",
+        "Nazwa_Produktu": "PU10 WIELOFUNKCYJNA DESKA DO POMPEK BLACK HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Deska do pompek to przenośny przyrząd treningowy służący do ćwiczeń fitness, który nie pasuje bezpośrednio do konkretnych podkategorii w 'Akcesoria treningowe' (np. maty, piłki), ale jest podobnym akcesoriem do treningu bodyweight, dlatego przypisano do kategorii 'Pozostałe' w 'Akcesoria treningowe' (id 4353), która jest kategorią-liściem w gałęzi Sport i Hobby -> Fitness.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2416",
+        "Nazwa_Produktu": "HD03 KORONA KARKU PRZYRZĄD DO ĆWICZEŃ MIĘŚNI KARKU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Przyrząd do ćwiczeń mięśni karku to akcesorium treningowe używane w kulturystyce, sportach walki i fitness, co pasuje do kategorii Akcesoria treningowe w dziale Fitness. Ponieważ nie ma bardziej szczegółowej podkategorii, wybrano 'Pozostałe' jako kategorię-liść.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2417",
+        "Nazwa_Produktu": "ABX02 ARM BLASTER PRZYRZĄD DO ĆWICZENIA BICEPSÓW HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Arm blaster to przyrząd pomocniczy do ćwiczeń siłowych, służący do izolacji bicepsów i poprawy techniki. W kategorii Fitness, podkategoria Akcesoria treningowe obejmuje podobne dodatki, a ponieważ nie ma dedykowanej kategorii, wybieram liść 'Pozostałe' w tej gałęzi.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2430",
+        "Nazwa_Produktu": "TX11 ZESTAW TAŚM DO ĆWICZEŃ HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw taśm do ćwiczeń, używanych w treningu fitness jako akcesorium do treningu siłowego i kondycyjnego. Kategoria 'Taśmy i gumy do ćwiczeń' (ID 4351) znajduje się w ścieżce 'Sport i Hobby -> Fitness -> Akcesoria treningowe' i bezpośrednio odpowiada opisowi taśm treningowych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2448",
+        "Nazwa_Produktu": "ZESTAW BOKSERSKI ENERO DLA DZIECI REGULOWANY 80-102CM I RĘKAWICE",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Zestaw bokserski dla dzieci to przede wszystkim sprzęt do ćwiczeń fizycznych i treningu, służący rozwojowi motorycznemu i kondycji. W strukturze kategorii OLX, najbardziej pasującą gałęzią jest 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe'. Kategoria 'Akcesoria treningowe' (id: 4317) jest liściem i obejmuje sprzęt do ćwiczeń, taki jak ten zestaw. Alternatywne kategorie, takie jak 'Zabawki' (id: 231), są mniej odpowiednie, ponieważ produkt ma wyraźny charakter sportowo-treningowy, a nie tylko zabawkowy. Opis podkreśla korzyści dla zdrowia i rozwoju fizycznego, co wzmacnia dopasowanie do fitnessu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2450",
+        "Nazwa_Produktu": "MFK07 VIOLET-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 120*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Mata fitness to specyficzny produkt do ćwiczeń, który najlepiej pasuje do kategorii 'Maty' (ID: 4346) w sekcji 'Akcesoria treningowe' (ID: 4317) w gałęzi 'Fitness' (ID: 771). Kategoria ta jest liściem (is_leaf: true) i bezpośrednio odpowiada opisanemu przedmiotowi, zapewniając amortyzację i antypoślizgowość dla treningu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2451",
+        "Nazwa_Produktu": "MFK07 LIGHT GREY-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 120*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to mata fitness z materiału EVA, używana do ćwiczeń siłowych i aerobiku. Najlepiej pasuje do kategorii 'Maty' w 'Akcesoria treningowe' w 'Fitness', które jest częścią 'Sport i Hobby'. Jest to kategoria-liść, która bezpośrednio odpowiada rodzajowi produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2471",
+        "Nazwa_Produktu": "MFK08 GREEN-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 140*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Mata fitness jest akcesorium treningowym używanym do ćwiczeń fizycznych, co idealnie pasuje do kategorii 'Maty' w gałęzi 'Akcesoria treningowe' pod 'Fitness' w 'Sport i Hobby'. Kategoria ta jest liściem i bezpośrednio obejmuje maty do ćwiczeń, w tym do fitness, jogi i treningu siłowego.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2477",
+        "Nazwa_Produktu": "DC31 ZESTAW DRĄŻEK DO PILATESU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw drążka z gumami oporowymi do ćwiczeń pilates, fitness i rehabilitacji, co odpowiada kategorii Akcesoria treningowe w Fitness. Brak dedykowanej podkategorii Pilates, a zestaw nie pasuje ściśle do innych podkategorii jak Taśmy i gumy do ćwiczeń (głównie ze względu na obecność drążka), więc wybrano 'Pozostałe' w Akcesoria treningowe.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2571",
+        "Nazwa_Produktu": "MTW05 JASNONIEBIESKI ROZM. S (51-58 cm) KASK NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Kask jest opisany jako sprzęt ochronny do skatingu (hulajnoga, rolki, deskorolka), co bezpośrednio odpowiada kategorii 'Akcesoria skating' pod 'Skating' w 'Sport i Hobby'. Chociaż kaski mogą być również używane w innych sportach, opis skupia się na skatingu, co wskazuje na tę kategorię jako najbardziej odpowiednią.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2576",
+        "Nazwa_Produktu": "MGS02 MATERAC GIMNASTYCZNY SKŁADANY 1800x600MM BLACK HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalne_ID_AI": 3985,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to składany materac gimnastyczny przeznaczony do ćwiczeń fitness, treningu siłowego, jogi itp. Kategoria 'Materace' (ID: 3985) znajduje się w ścieżce 'Sport i Hobby' -> 'Fitness' -> 'Sprzęt fitness' i jest kategorią-liść, co pasuje do opisu materaca jako sprzętu fitness. Żadna bardziej szczegółowa kategoria w tej gałęzi nie istnieje, a alternatywy jak 'Karimaty' (ID: 3984) lub 'Śpiwory' (ID: 3986) są mniej odpowiednie, ponieważ produkt jest wyraźnie materacem do ćwiczeń.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2577",
+        "Nazwa_Produktu": "MGS02 MATERAC GIMNASTYCZNY SKŁADANY 1800x600MM GREY HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Materac gimnastyczny jest używany do ćwiczeń fitness, jogi i treningu, co pasuje do kategorii 'Maty' w 'Akcesoria treningowe' pod 'Fitness'. Jest to szczegółowa kategoria-liść odpowiadająca produktom do ćwiczeń na podłodze.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2578",
+        "Nazwa_Produktu": "MGS02 MATERAC GIMNASTYCZNY SKŁADANY 1800x600MM PINK HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to składany materac gimnastyczny używany do ćwiczeń takich jak joga, trening siłowy czy relaksacyjne, co semantycznie pasuje do kategorii 'Maty' pod 'Akcesoria treningowe' w 'Fitness'. Kategoria ta jest liściem i szczegółowo odpowiada przeznaczeniu produktu jako mata treningowa, pomimo nazwy 'materac'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2591",
+        "Nazwa_Produktu": "MTW01 LED ZIELONY ROZM. XS (43-49 cm) KASK NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to kask do skatingu (hulajnoga, rolki, deskorolka) z lampką LED, co klasyfikuje go jako akcesorium do sportów skatingowych. Kategoria 'Akcesoria skating' (id: 1679) jest liściem w drzewie kategorii OLX i najlepiej pasuje semantycznie, mimo że kaski mogą być również używane w innych sportach (np. rowerowe), ale opis wyraźnie wskazuje na zastosowanie w skatingu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2774",
+        "Nazwa_Produktu": "H706 CZARNO-MIĘTOWY ROZM. L  ZESTAW OCHRANIACZY NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Zestaw ochraniaczy na nadgarstki, łokcie i kolana jest typowym akcesorium do sportów typu skating (rolki, deskorolka, hulajnoga), gdzie ochrona tych części ciała jest kluczowa. Kategoria 'Akcesoria skating' jest kategorią-liściem bezpośrednio odpowiadającą temu przeznaczeniu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2836",
+        "Nazwa_Produktu": "NQ8400S BIAŁY ROZM. 39  WROTKI NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Wrotki",
+        "Finalne_ID_AI": 1678,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu zawiera słowo 'WROTKI', a opis szczegółowo opisuje wrotki marki NILS, co bezpośrednio odpowiada kategorii 'Wrotki' znajdującej się pod 'Skating' w dziale 'Sport i Hobby'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2837",
+        "Nazwa_Produktu": "NQ8400S BIAŁY ROZM. 40  WROTKI NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Wrotki",
+        "Finalne_ID_AI": 1678,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wrotki firmy NILS, które są sprzętem do jazdy rekreacyjnej/sportowej. W drzewie kategorii OLX wrotki są bezpośrednio dostępne jako kategoria liść w ścieżce 'Sport i Hobby' -> 'Skating' -> 'Wrotki' (id: 1678), co idealnie odpowiada opisanemu produktowi.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2838",
+        "Nazwa_Produktu": "NQ8400S CZARNY ROZM. 35  WROTKI NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Wrotki",
+        "Finalne_ID_AI": 1678,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł i opis jednoznacznie wskazują na wrotki (rolki wrotkowe), które są bezpośrednio wymienione jako kategoria 'Wrotki' (ID: 1678) pod 'Skating' (ID: 1670) w dziale 'Sport i Hobby'. Produkt nie pasuje do innych kategorii, jak zabawki czy moda, ponieważ jest to sprzęt sportowy do jazdy.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2840",
+        "Nazwa_Produktu": "NQ8400S CZARNY ROZM. 37  WROTKI NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Wrotki",
+        "Finalne_ID_AI": 1678,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł i opis wskazują na wrotki (inline skates) dla dzieci, co bezpośrednio pasuje do kategorii 'Wrotki' w gałęzi 'Sport i Hobby/Skating'. Kategoria ta jest liściem i najbardziej szczegółowa dla tego typu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2843",
+        "Nazwa_Produktu": "NQ8400S CZARNY ROZM. 40  WROTKI NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Wrotki",
+        "Finalne_ID_AI": 1678,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wrotki marki NILS, opisane jako sprzęt do jazdy na wrotkach dla dzieci, co bezpośrednio odpowiada kategorii 'Wrotki' znajdującej się w ścieżce Sport i Hobby -> Skating. Kategoria ta jest liściem i najlepiej semantycznie pasuje do produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3276",
+        "Nazwa_Produktu": "NH18190 2w1 CZARNO-NIEBIESKI ROZM.L(39-43) ŁYŻWOROLKI Z WYM. PŁ. HOKEJOWĄ NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Rolki",
+        "Finalne_ID_AI": 1677,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to łyżworolki, które są przede wszystkim rolkami z możliwością wymiany płozy na łyżwiarską. Kategoria 'Rolki' pod 'Skating' w 'Sport i Hobby' najlepiej pasuje do sprzętu do jazdy na rolkach, co potwierdza opis skupiony na kółkach, łożyskach i jeździe.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3280",
+        "Nazwa_Produktu": "NH18190 2w1 BIAŁO-RÓŻOWY ROZM.M(34-38) ŁYŻWOROLKI Z WYM. PŁ. HOKEJOWĄ NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Rolki",
+        "Finalne_ID_AI": 1677,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to łyżworolki (rolki z możliwością przekształcenia w łyżwy), które są rodzajem rolek do jazdy na kółkach. Kategoria 'Rolki' (id: 1677) pod 'Skating' w 'Sport i Hobby' jest najbardziej szczegółową i pasującą kategorią liściastą, ponieważ produkt jest zasadniczo sprzętem do jazdy na rolkach, z dodatkową funkcją łyżwiarską. Nie ma osobnej kategorii dla 'łyżworolek', więc 'Rolki' jest najlepszym dopasowaniem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3353",
+        "Nazwa_Produktu": "KTO05 KAMIZELKA TRENINGOWA Z OBCIĄŻENIEM 5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to kamizelka obciążeniowa używana do ćwiczeń fitness, która klasyfikuje się jako sprzęt treningowy. Najlepiej pasuje do kategorii 'Piłki do ćwiczeń' (ID 4347) w ścieżce Sport i Hobby -> Fitness -> Akcesoria treningowe, ponieważ jest to akcesorium służące do intensyfikacji treningu, podobnie jak piłki, choć nie jest to idealne dopasowanie. Alternatywnie, mogłaby pasować do 'Akcesoriów treningowych' (ID 4317), ale ta podkategoria jest bardziej ogólna, a 'Piłki do ćwiczeń' jest kategorią-liściem, która obejmuje różne akcesoria treningowe.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3354",
+        "Nazwa_Produktu": "KTO08 KAMIZELKA TRENINGOWA Z OBCIĄŻENIEM 8 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla psów > Akcesoria treningowe",
+        "Finalne_ID_AI": 2965,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kamizelka treningowa z obciążeniem, używana jako akcesorium treningowe dla psów (np. w agility, treningu posłuszeństwa). Analizując drzewo kategorii, znajduje się w gałęzi 'Zwierzęta' -> 'Akcesoria dla zwierząt' -> 'Akcesoria dla psów' -> 'Akcesoria treningowe' (ID 2965), która jest kategorią-liściem i najlepiej pasuje semantycznie. Pomimo że opis może brzmieć ogólnie sportowo, kontekst 'kamizelka' w tej kategorii odnosi się do akcesoriów dla psów, a nie ludzkiej odzieży sportowej. Wskazówka systemu OLX nie była pomocna, więc wybór oparty wyłącznie na analizie produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3378",
+        "Nazwa_Produktu": "NC4005 ZIELONY MATA TURYSTYCZNA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalne_ID_AI": 3985,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Mata turystyczna nadmuchiwana, używana do camping, plażowania i jako podkład pod śpiwór, pasuje do kategorii materacy turystycznych w dziale turystyki (Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3379",
+        "Nazwa_Produktu": "NC4007 NIEBIESKI MATA TURYSTYCZNA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalne_ID_AI": 3985,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Mata jest nadmuchiwana, używana do turystyki, campingu i jako podkład pod śpiwór, co bezpośrednio odpowiada kategorii materacy turystycznych w dziale turystyki.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3443",
+        "Nazwa_Produktu": "NC4340 NIEBIESKO-SZARY MATA SAMOPOMPUJĄCA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Karimaty",
+        "Finalne_ID_AI": 3984,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata samopompująca przeznaczona do spania pod namiotem, plażowania i campingu, co bezpośrednio wpisuje się w kategorię turystyki. W drzewie kategorii, 'Karimaty' (ID 3984) znajdują się pod 'Śpiwory, materace i karimaty' (ID 3973) w 'Turystyka' (ID 465), co idealnie pasuje do opisu maty jako sprzętu turystycznego do spania.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3444",
+        "Nazwa_Produktu": "NC4006 SZARY MATA TURYSTYCZNA Z POMPKĄ NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Karimaty",
+        "Finalne_ID_AI": 3984,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nadmuchiwana mata turystyczna z pompką, używana jako podkładka pod śpiwór podczas campingów, plażowania czy spania pod namiotem. W drzewie kategorii, 'Turystyka' (id: 465) znajduje się pod 'Sport i Hobby' (id: 767), a w niej 'Śpiwory, materace i karimaty' (id: 3973). Pod tą kategorią jest 'Karimaty' (id: 3984) jako kategoria-liść, która bezpośrednio pasuje do opisu maty turystycznej. Inne kategorie, jak 'Namioty i akcesoria' (id: 3972) lub ogólna 'Turystyka', są mniej precyzyjne. Produkt nie jest śpiworem (id: 3986) ani materacem (id: 3985), ale karimatą, co potwierdza jej przeznaczenie do spania na zewnątrz i przenośność.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3476",
+        "Nazwa_Produktu": "MFK08 GREY-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 140*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata fitness, używana do ćwiczeń siłowych, aerobiku itp., co dokładnie odpowiada kategorii 'Maty' pod 'Akcesoria treningowe' w 'Fitness'. Ścieżka kategorii: Sport i Hobby -> Fitness -> Akcesoria treningowe -> Maty (ID 4346) jest kategorią-liściem i najlepiej opisuje produkt, ignorując ogólne kategorie jak 'Pozostałe fitness'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3523",
+        "Nazwa_Produktu": "ZESTAW BOKSERSKI DLA DZIECI Z MOCOWANIEM NA DRZWI",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalne_ID_AI": 3093,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Zestaw bokserski dla dzieci jest przede wszystkim zabawką służącą do aktywnej zabawy i rozwoju umiejętności ruchowych, więc pasuje do kategorii 'Zabawki' w 'Dla Dzieci'. Brak specyficznej podkategorii dla zabawek sportowych wskazuje na wybór 'Pozostałe' jako najbardziej odpowiedniej kategorii-liścia.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3585",
+        "Nazwa_Produktu": "HAMAK TURYSTYCZNY 2 OSOBOWY 270X140CM Z MOSKITIERĄ ZIELONY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Hamaki i leżaki",
+        "Finalne_ID_AI": 3989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hamak turystyczny z moskitierą, przeznaczony do użytku w plenerze, na campingach i biwakach, co idealnie pasuje do kategorii 'Hamaki i leżaki' w dziale 'Turystyka'. Kategoria ta jest bardziej specyficzna niż ogrodowa, gdyż produkt jest przenośny i zaprojektowany do aktywności turystycznych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]

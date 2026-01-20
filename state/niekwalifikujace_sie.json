@@ -1538,5 +1538,675 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to pas do ćwiczeń siłowych, który jest akcesoriem treningowym, używanym w fitness. Wskazówka OLX prowadzi do 'Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe', co jest zgodne z opisanym produktem. W drzewie kategorii, 'Akcesoria treningowe' (id 4343) znajduje się pod 'Fitness' (id 771) i jest kategorią liściem, dokładnie odpowiadającą pasowi treningowemu. Jest to bardziej szczegółowe niż ogólne 'Fitness' lub 'Sprzęt siłowy' (id 4316), które mogą obejmować cięższy sprzęt."
+    },
+    {
+        "ID_Produktu": "1129",
+        "Nazwa_Produktu": "URP01 UCHWYT NA LINĘ HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Produkt to metalowy uchwyt na linę do podwieszania taśm treningowych i lin, o maksymalnym obciążeniu 195 kg, przeznaczony do ćwiczeń. Najlepiej pasuje do kategorii 'Sport i Hobby' > 'Fitness' > 'Sprzęt siłowy' > 'Pozostałe', jako akcesorium do treningu siłowego. Wskazówka systemu dotycząca uchwytów do telefonów została zignorowana, ponieważ produkt jest wyraźnie związany ze sportem."
+    },
+    {
+        "ID_Produktu": "1145",
+        "Nazwa_Produktu": "WDC05 POWER BAG 5 KG  HMS",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to worek bułgarski do treningu siłowego i kondycyjnego, co semantycznie pasuje do kategorii 'Obciążenia' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Wskazówka systemu dotycząca narzędzi została zignorowana, ponieważ produkt jest sprzętem fitness, a nie narzędziem domowym lub ogrodowym."
+    },
+    {
+        "ID_Produktu": "1191",
+        "Nazwa_Produktu": "UW12 UCHWYT HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to drążek do treningu siłowego na wyciągu, używany do ćwiczeń na różne grupy mięśniowe. Pasuje do kategorii Fitness > Sprzęt siłowy > Drążki i poręcze, gdyż jest to specjalistyczny drążek do ćwiczeń, a nie ogólne akcesorium treningowe."
+    },
+    {
+        "ID_Produktu": "1192",
+        "Nazwa_Produktu": "UW13 UCHWYT HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to drążek do treningu na wyciągu górnym i dolnym, służący do ćwiczeń siłowych. Pasuje do kategorii 'Sport i Hobby' > 'Fitness' > 'Sprzęt siłowy' > 'Drążki i poręcze', ponieważ jest to element sprzętu siłowego używanego w treningu fitness. Wskazówka systemu dotycząca uchwytów do telefonów została zignorowana, gdyż nie pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "1195",
+        "Nazwa_Produktu": "UW16 UCHWYT HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gryf obrotowy do treningu na wyciągu, używany w ćwiczeniach siłowych, co bezpośrednio odpowiada kategorii 'Gryfy' w 'Sprzęt siłowy' pod 'Fitness' w dziale 'Sport i Hobby'. Wskazówka systemu dotycząca uchwytów do elektroniki została zignorowana, gdyż nie pasuje do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "1206",
+        "Nazwa_Produktu": "AS005 BLACK/RED STEP DO AEROBIKU HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Kierownice i mostki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to step do aerobiku/fitness, służący do ćwiczeń, co idealnie pasuje do kategorii 'Stepy, steppery i twistery' w gałęzi Sport i Hobby > Fitness > Sprzęt fitness. Wskazówka dotycząca rowerów została zignorowana, gdyż nie odnosiła się do produktu."
+    },
+    {
+        "ID_Produktu": "1239",
+        "Nazwa_Produktu": "BR182 BRAMKA Z SIATKĄ STALOWY STELAŻ 1,82m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Budowa > Bramy i ogrodzenia > Siatki i panele ogrodzeniowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Bramka piłkarska to akcesorium do gry w piłkę nożną, przeznaczone do użytku w ogrodzie lub na boisku. Kategoria 'Piłka nożna > Akcesoria' jest szczegółowa i semantycznie dopasowana, podczas gdy sugerowana ścieżka dotyczy ogrodzeń, a nie sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "1241",
+        "Nazwa_Produktu": "BR240 BRAMKA Z SIATKĄ STALOWY STELAŻ 2,43m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Budowa > Bramy i ogrodzenia > Siatki i panele ogrodzeniowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Bramka jest akcesorium do piłki nożnej, więc należy do kategorii Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria, która jest kategorią-liść. Wskazówka OLX dotycząca bram ogrodzeniowych została zignorowana, ponieważ produkt ma charakter sportowy, a nie budowlany."
+    },
+    {
+        "ID_Produktu": "1294",
+        "Nazwa_Produktu": "GLM120 GRYF MOCNO ŁAMANY Z GWINTEM I ZACISKIEM 30MM x 120 CM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gryf do ćwiczeń siłowych, który idealnie pasuje do kategorii 'Gryfy' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria ta jest bardziej szczegółowa niż sugerowana 'Akcesoria treningowe > Pozostałe' i semantycznie lepiej dopasowana do opisu gryfu jako elementu sprzętu siłowego."
+    },
+    {
+        "ID_Produktu": "1338",
+        "Nazwa_Produktu": "DK06 DRABINKA KOORDYNACYJNA 6m HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Drabinki treningowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Drabinki treningowe",
+        "Finalne_ID_AI": 4329,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to drabinka koordynacyjna używana głównie do ćwiczeń fitness i treningu ogólnorozwojowego, co dokładnie odpowiada kategorii 'Drabinki treningowe' w dziale 'Sprzęt fitness'. Wskazówka systemu potwierdza tę ścieżkę, a opis produktu jasno wskazuje na zastosowanie w poprawie koordynacji i sprawności fizycznej."
+    },
+    {
+        "ID_Produktu": "1520",
+        "Nazwa_Produktu": "FUSIONTEC 777K ZESTAW RAKIET DO BADMINTONA LIMONKOWY+CZERWONY+LOTKI 3 SZT WISH",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rakiet i lotek do badmintona, co bezpośrednio pasuje do kategorii 'Badminton' (id: 5029) w gałęzi 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'. Wskazówka dotycząca Dart została zignorowana, ponieważ nie odpowiada treści produktu."
+    },
+    {
+        "ID_Produktu": "1525",
+        "Nazwa_Produktu": "ZSB-1 ZESTAW DO GRY W BADMITONA 2RAKIETY+ SIATKA  NILS",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w badmintona (rakiety, siatka, lotki), co dokładnie pasuje do kategorii 'Badminton' pod 'Sporty towarzyskie'. Wskazówka systemu dotycząca zabawek plastycznych została zignorowana, ponieważ produkt jest sprzętem sportowym, nie plastycznym."
+    },
+    {
+        "ID_Produktu": "1597",
+        "Nazwa_Produktu": "KNV10 BLUE KETTLEBELL ŻELIWNY POKRYTY WINYLEM HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kettlebell (ciężarek żeliwny) używany do treningu siłowego i fitness, co idealnie pasuje do kategorii 'Obciążenia' w dziale sprzętu siłowego w fitness. Wskazówka systemu potwierdza tę ścieżkę, a opis produktu podkreśla zastosowanie do ćwiczeń wzmacniających mięśnie i ogólną wydolność."
+    },
+    {
+        "ID_Produktu": "1602",
+        "Nazwa_Produktu": "TOX10 CZARNY TALERZ OLIMPIJSKI OGUMOWANY 10 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Talerz olimpijski ogumowany 10 kg to obciążenie do treningu siłowego, używane z gryfem olimpijskim. Kategoria 'Obciążenia' (pod 'Sprzęt siłowy' w 'Fitness') jest najbardziej specyficzną i semantycznie pasującą kategorią-liściem, bezpośrednio odpowiadającą temu typowi produktu. Ignoruję wskazówkę systemu ('Akcesoria treningowe > Pozostałe'), ponieważ istnieje lepsze dopasowanie w tej samej gałęzi."
+    },
+    {
+        "ID_Produktu": "1631",
+        "Nazwa_Produktu": "KZG 10 KETTLEBELL ŻELIWNY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kettlebell to obciążenie używane w treningu siłowym i fitness, co dokładnie odpowiada kategorii 'Obciążenia' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Jest to najbardziej specyficzna kategoria-liść pasująca do opisu produktu."
+    },
+    {
+        "ID_Produktu": "1687",
+        "Nazwa_Produktu": "HG PRO 4 KG HANTLA GUMOWANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantla gumowana o wadze 4 kg, co bezpośrednio odpowiada kategorii 'Hantle' (id: 4337) w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Wskazówka OLX była myląca, ponieważ hantle to sprzęt siłowy, a nie akcesoria treningowe."
+    },
+    {
+        "ID_Produktu": "1688",
+        "Nazwa_Produktu": "HG PRO 5 KG HANTLA GUMOWANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantla gumowana do treningu siłowego, co bezpośrednio pasuje do kategorii 'Hantle' (id: 4337) w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria ta jest liściem i bardziej szczegółowa niż sugerowana ścieżka 'Akcesoria treningowe > Pozostałe', która jest mniej precyzyjna dla tego typu sprzętu."
+    },
+    {
+        "ID_Produktu": "1689",
+        "Nazwa_Produktu": "HG PRO 6 KG HANTLA GUMOWANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantla gumowana o wadze 6 kg, używana do treningu siłowego, co bezpośrednio odpowiada kategorii 'Hantle' w 'Sprzęt siłowy' pod 'Fitness' w 'Sport i Hobby'. Kategoria ta jest liściem i semantycznie najlepiej pasuje do opisu produktu, ignorując mniej precyzyjną wskazówkę systemu OLX."
+    },
+    {
+        "ID_Produktu": "1690",
+        "Nazwa_Produktu": "HG PRO 7 KG HANTLA GUMOWANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantla gumowana, która bezpośrednio pasuje do kategorii 'Hantle' (id: 4337) w 'Sprzęt siłowy' pod 'Fitness'. Hantla to główny sprzęt siłowy, a nie akcesorium treningowe, więc ignoruję wskazówkę systemu sugerującą 'Akcesoria treningowe > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1692",
+        "Nazwa_Produktu": "HG PRO 9 KG HANTLA GUMOWANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantle gumowane o wadze 9 kg, które są używane do treningu siłowego i fitness. W drzewie kategorii hantle znajdują się w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy > Hantle' (id: 4337). Wskazówka systemu sugeruje 'Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe', ale hantle są konkretnie wymienione jako oddzielna kategoria pod 'Sprzęt siłowy', co jest bardziej szczegółowe i semantycznie pasujące niż ogólne 'Akcesoria treningowe'."
+    },
+    {
+        "ID_Produktu": "1693",
+        "Nazwa_Produktu": "HG PRO 10 KG HANTLA GUMOWANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Hantla to sprzęt siłowy używany w fitnessie, a kategoria 'Hantle' (id: 4337) pod 'Sprzęt siłowy' w 'Fitness' jest bezpośrednio dopasowana. Wskazówka systemu sugerowała 'Akcesoria treningowe', ale hantle są podstawowym sprzętem, nie akcesorium, więc wybrano bardziej specyficzną kategorię-liść."
+    },
+    {
+        "ID_Produktu": "1694",
+        "Nazwa_Produktu": "HG PRO 12 KG HANTLA GUMOWANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantla gumowana do treningu siłowego, co bezpośrednio pasuje do kategorii 'Hantle' (id 4337) w podkategorii 'Sprzęt siłowy' (id 4316) w dziale 'Fitness' (id 771) pod główną kategorią 'Sport i Hobby'. Jest to najbardziej szczegółowa i semantycznie dopasowana kategoria liścia, ignorując mniej precyzyjną wskazówkę systemu."
+    },
+    {
+        "ID_Produktu": "1721",
+        "Nazwa_Produktu": "KPC04 KETTLEBELL KOMPOZYTOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kettlebell, czyli obciążenie do treningu siłowego, co idealnie pasuje do kategorii 'Obciążenia' w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy. Jest to najbardziej szczegółowa i semantycznie dopasowana kategoria-liść dla tego typu sprzętu."
+    },
+    {
+        "ID_Produktu": "1723",
+        "Nazwa_Produktu": "KPC08 KETTLEBELL KOMPOZYTOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kettlebell to obciążenie używane w treningu siłowym i fitness, co dokładnie odpowiada kategorii 'Obciążenia' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria ta jest liściem i semantycznie najlepiej pasuje do opisu produktu jako ciężarek do ćwiczeń."
+    },
+    {
+        "ID_Produktu": "1724",
+        "Nazwa_Produktu": "KPC10 KETTLEBELL KOMPOZYTOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kettlebell, czyli obciążenie do treningu siłowego, co idealnie pasuje do kategorii 'Obciążenia' w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria jest liściem i semantycznie odpowiada opisowi produktu."
+    },
+    {
+        "ID_Produktu": "1725",
+        "Nazwa_Produktu": "KPC12 KETTLEBELL KOMPOZYTOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kettlebell, czyli obciążenie używane w treningu siłowym i fitness. Kategoria 'Obciążenia' w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy' najlepiej pasuje semantycznie, co potwierdza wskazówka systemu. Kettlebell jest typowym sprzętem siłowym, a opis podkreśla jego zastosowanie do ćwiczeń wzmacniających mięśnie i poprawy wydolności."
+    },
+    {
+        "ID_Produktu": "1807",
+        "Nazwa_Produktu": "DC30 DRĄŻEK DO PILATESU HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to drążek z gumami do ćwiczeń siłowych, pilates i fitness, co bezpośrednio odpowiada kategorii 'Drążki i poręcze' w 'Sprzęt siłowym' pod 'Fitness'. Wskazówka systemu potwierdza tę ścieżkę, a opis produktu podkreśla zastosowanie do treningu siłowego i ogólnorozwojowego."
+    },
+    {
+        "ID_Produktu": "1934",
+        "Nazwa_Produktu": "NB5035 BLUE ŚR.110 CM BOCIANIE GNIAZDO HUŚTAWKA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to huśtawka typu bocianie gniazdo przeznaczona głównie do użytku na zewnątrz (ogród, taras, balkon), co bezpośrednio odpowiada kategorii 'Huśtawki i place zabaw' w dziale 'Ogród'. Wskazówka OLX potwierdza tę ścieżkę, a opis produktu podkreśla zastosowanie rekreacyjne i ogrodowe."
+    },
+    {
+        "ID_Produktu": "1936",
+        "Nazwa_Produktu": "NB5031 GREEN ŚR.100 CM BOCIANIE GNIAZDO HUŚTAWKA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to huśtawka ogrodowa typu 'bocianie gniazdo', przeznaczona głównie do zabawy na świeżym powietrzu (ogród, taras, balkon), co bezpośrednio odpowiada kategorii 'Huśtawki i place zabaw' pod 'Ogród'. Kategoria jest liściem i semantycznie najlepiej pasuje, zgodnie ze wskazówką systemu."
+    },
+    {
+        "ID_Produktu": "1965",
+        "Nazwa_Produktu": "ALUMTEC 4466  ŻÓŁTY ZESTAW DO BADMINTONA 2 SZT + LOTKI 3 SZT+SIATKA+LINIE WISH",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w badmintona (rakietki, lotki, siatka, słupki), co idealnie pasuje do kategorii 'Badminton' znajdującej się w 'Sporty towarzyskie > Tenis i pokrewne'. Jest to najbardziej szczegółowa i semantycznie dopasowana kategoria-liść. Wskazówka systemu została zignorowana, gdyż dotyczyła zabawek plastycznych, a nie sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "2026",
+        "Nazwa_Produktu": "NB5031 BLUE ŚR.100 CM BOCIANIE GNIAZDO HUŚTAWKA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to huśtawka typu 'bocianie gniazdo', przeznaczona do zawieszenia w ogrodzie, na tarasie lub balkonie, co idealnie pasuje do kategorii 'Huśtawki i place zabaw' (id: 1708) znajdującej się w ścieżce 'Dom i Ogród > Ogród'. Jest to kategoria-liść, zgodna z tytułem, opisem i wskazówką systemu OLX."
+    },
+    {
+        "ID_Produktu": "2027",
+        "Nazwa_Produktu": "NB5003 MULTI ŚR.90 CM BOCIANIE GNIAZDO HUŚTAWKA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to huśtawka ogrodowa typu 'bocianie gniazdo', przeznaczona do zawieszenia w ogrodzie, na tarasie lub balkonie, o maksymalnym obciążeniu 150 kg, co idealnie pasuje do kategorii 'Huśtawki i place zabaw' w sekcji 'Ogród'. Wskazówka systemu potwierdza tę ścieżkę, a w drzewie kategorii jest to najbardziej szczegółowa, liściowa kategoria dla huśtawek ogrodowych."
+    },
+    {
+        "ID_Produktu": "2028",
+        "Nazwa_Produktu": "NB5003 BLUE-RED-ORANGE ŚR.90 CM BOCIANIE GNIAZDO HUŚTAWKA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Samochody i pojazdy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to huśtawka typu 'bocianie gniazdo', przeznaczona do ogrodu, tarasu, balkonu lub domu, co idealnie odpowiada kategorii 'Huśtawki i place zabaw' w dziale Ogród. Wskazówka systemu OLX sugerowała kategorię zabawek związanych z pojazdami, ale nie pasuje ona do opisu huśtawki."
+    },
+    {
+        "ID_Produktu": "2080",
+        "Nazwa_Produktu": "NB5032 MORO ŚR.110 CM BOCIANIE GNIAZDO HUŚTAWKA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to huśtawka typu bocianie gniazdo przeznaczona do ogrodu, tarasu lub balkonu, co bezpośrednio odpowiada kategorii 'Huśtawki i place zabaw' (ID: 1708) w gałęzi 'Dom i Ogród > Ogród'. Kategoria ta jest liściem i najlepiej odzwierciedla charakter produktu jako elementu zabawy na świeżym powietrzu, zgodnie z tytułem i opisem. Wskazówka systemu OLX potwierdza tę ścieżkę."
+    },
+    {
+        "ID_Produktu": "2098",
+        "Nazwa_Produktu": "NC3106 KRZESŁO BRAZILIJSKIE ZIELONE NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Krzesła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Krzesła",
+        "Finalne_ID_AI": 2889,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to krzesło brazylijskie, opisane jako przenośne, nadające się do użytku na świeżym powietrzu (ogród, balkon, camping). Kategoria 'Krzesła' pod 'Meble ogrodowe' jest liściem i lepiej oddaje przeznaczenie produktu niż ogólna kategoria 'Krzesła' pod 'Meble', która jest bardziej domowa."
+    },
+    {
+        "ID_Produktu": "2132",
+        "Nazwa_Produktu": "SGP20 SZTANGIELKI-SZTANGA KOMPOZYT 20 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Sztangi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Sztangi",
+        "Finalne_ID_AI": 4340,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sztangielki, które można łączyć w sztangę, służące do ćwiczeń siłowych, co bezpośrednio odpowiada kategorii 'Sztangi' w dziale fitness/sprzęt siłowy. Wskazówka OLX potwierdza tę ścieżkę, a opis produktu podkreśla przeznaczenie do treningu siłowego w domu."
+    },
+    {
+        "ID_Produktu": "2133",
+        "Nazwa_Produktu": "SGP30 SZTANGIELKI-SZTANGA KOMPOZYT 30 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Sztangi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Zestawy",
+        "Finalne_ID_AI": 4341,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw dwóch sztangielek (hantli) z możliwością połączenia w sztangę, zawierający gryfy, talerze, zaciski i łącznik. Kategoria 'Zestawy' w 'Sprzęt siłowy' najlepiej opisuje taki kombinowany produkt, podczas gdy 'Sztangi' lub 'Hantle' byłyby zbyt wąskie, bo nie obejmują pełnego zestawu."
+    },
+    {
+        "ID_Produktu": "2134",
+        "Nazwa_Produktu": "SGP40 SZTANGIELKI-SZTANGA KOMPOZYT 40 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Sztangi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Sztangi",
+        "Finalne_ID_AI": 4340,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw sztangielek i sztangi, który zalicza się do sprzętu siłowego w fitness. Podpowiedź systemu wskazuje kategorię 'Sztangi', a opis produktu podkreśla możliwość połączenia w sztangę jako kluczową funkcję, co czyni tę kategorię najbardziej odpowiednią."
+    },
+    {
+        "ID_Produktu": "2136",
+        "Nazwa_Produktu": "SGC20 SZTANGIELKI-SZTANGA KOMPOZYT 20 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Sztangi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Sztangi",
+        "Finalne_ID_AI": 4340,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw sztangielek, który można połączyć w sztangę, służący do treningu siłowego. Kategoria 'Sztangi' pod 'Sprzęt siłowy' w 'Fitness' najlepiej oddaje jego przeznaczenie, a wskazówka systemu potwierdza tę ścieżkę."
+    },
+    {
+        "ID_Produktu": "2138",
+        "Nazwa_Produktu": "SGC30 SZTANGIELKI-SZTANGA KOMPOZYT 30 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Sztangi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw sztangielek/sztangi z talerzami obciążeniowymi, używany do treningu siłowego. W drzewie kategorii, ścieżka 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia' (ID 4339) jest kategorią-liściem i najlepiej pasuje semantycznie, ponieważ obejmuje obciążenia takie jak talerze czy zestawy do sztang. Wskazówka systemu OLX sugeruje podobną gałąź ('Sprzęt siłowy'), co potwierdza wybór. Kategorie bardziej ogólne (np. 'Sprzęt siłowy' ID 4316) nie są liściami, więc wybieram najbardziej szczegółową dostępną."
+    },
+    {
+        "ID_Produktu": "2139",
+        "Nazwa_Produktu": "SGC40 SZTANGIELKI-SZTANGA KOMPOZYT 40 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Sztangi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Sztangi",
+        "Finalne_ID_AI": 4340,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw sztangielek z możliwością złączenia w sztangę, co odpowiada kategorii Sztangi w dziale Sprzęt siłowy (Fitness > Sport i Hobby). Wskazówka OLX potwierdza tę ścieżkę, a tytuł i opis podkreślają funkcję sztangi."
+    },
+    {
+        "ID_Produktu": "2388",
+        "Nazwa_Produktu": "DD200 DRĄŻEK ROZPOROWY 68-100 CM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Drążek rozporowy to sprzęt do treningu siłowego w domu, używany do ćwiczeń mięśni grzbietu, bicepsów i brzucha. Najlepiej pasuje do kategorii 'Sport i Hobby' -> 'Fitness' -> 'Sprzęt siłowy' -> 'Hantle', ponieważ jest to sprzęt siłowy podobny w zastosowaniu do hantli, choć specyficzny. Inne możliwe kategorie jak 'Akcesoria treningowe' (4317) są mniej precyzyjne, bo drążek to główny sprzęt, a nie akcesorium. Kategoria 'Hantle' (4337) jest kategorią-liściem i semantycznie najlepiej dopasowana do tego typu produktu."
+    },
+    {
+        "ID_Produktu": "2445",
+        "Nazwa_Produktu": "HANTLA ŻELIWNA 7 KG WALIZKA EB FIT",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantla żeliwna 7 kg, czyli sprzęt do treningu siłowego. W drzewie kategorii hantle znajdują się w ścieżce: Sport i Hobby -> Fitness -> Sprzęt siłowy -> Hantle. Kategoria 'Hantle' (id: 4337) jest kategorią-liściem i bezpośrednio odpowiada produktowi, który jest przeznaczony do ćwiczeń siłowych, ogólnorozwojowych i rehabilitacyjnych w warunkach domowych."
+    },
+    {
+        "ID_Produktu": "2472",
+        "Nazwa_Produktu": "GRYF PROSTY 120CM EB FIT FI25",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Gryf prosty to podstawowy element sprzętu siłowego, służący do ćwiczeń z wolnymi ciężarami. Kategoria 'Gryfy' (ID 4336) znajduje się w 'Sprzęt siłowy' (ID 4316) pod 'Fitness' (ID 771) w 'Sport i Hobby' (ID 767), co dokładnie odpowiada przeznaczeniu produktu."
+    },
+    {
+        "ID_Produktu": "2538",
+        "Nazwa_Produktu": "GBP01 GRYF DO TRAINING PUMP HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gryf do treningu siłowego (training pump), używany w ćwiczeniach z obciążeniem, co bezpośrednio odpowiada kategorii 'Gryfy' w ramach 'Sprzęt siłowy' w dziale 'Fitness' (Sport i Hobby)."
+    },
+    {
+        "ID_Produktu": "2622",
+        "Nazwa_Produktu": "SGC15 SZTANGIELKI-SZTANGA KOMPOZYT 15 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sztangielki (hantle) z możliwością połączenia w sztangę, używane w domowej siłowni, co dokładnie pasuje do kategorii 'Hantle' w gałęzi 'Sport i Hobby -> Fitness -> Sprzęt siłowy'. Kategoria jest liściem i najbardziej szczegółowa w tej dziedzinie."
+    },
+    {
+        "ID_Produktu": "3205",
+        "Nazwa_Produktu": "DESKOROLKA METEOR CANNABIS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Deskorolka to produkt z kategorii 'Skating' w 'Sport i Hobby'. Konkretnie 'Deskorolki' (id: 1675) jest kategorią-liściem pod 'Skating' (id: 1670), co idealnie pasuje do opisu deskorolki cruisingowej. Słowo 'CANNABIS' w tytule jest prawdopodobnie nazwą modelu lub grafiki, ale nie zmienia głównej funkcji produktu jako sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "3206",
+        "Nazwa_Produktu": "DESKOROLKA METEOR MULTIKOLOR GRAFFITI",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Deskorolka to sprzęt do jazdy rekreacyjnej/sportowej, który zgodnie z drzewem kategorii OLX należy do 'Sport i Hobby' -> 'Skating' -> 'Deskorolki'. Opis produktu jasno wskazuje na deskorolkę nieelektryczną, co pasuje do tej kategorii-liścia."
+    },
+    {
+        "ID_Produktu": "3234",
+        "Nazwa_Produktu": "DESKOROLKA METEOR MONA LISA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Deskorolka jest sprzętem sportowym do jazdy rekreacyjnej i miejskiej, co bezpośrednio pasuje do kategorii 'Deskorolki' w dziale 'Skating' pod 'Sport i Hobby'. Kategoria ta jest liściem i specyficznie obejmuje tego typu produkty."
+    },
+    {
+        "ID_Produktu": "3356",
+        "Nazwa_Produktu": "ODKR2S OBRĘCZ DO KOSZYKÓWKI NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Obręcz do koszykówki to akcesorium sportowe, które pasuje do kategorii 'Akcesoria' w podkategorii 'Koszykówka' (id: 4971), będącej częścią 'Sportów drużynowych'. Kategoria 'Akcesoria' (id: 4988) jest liściem i najlepiej opisuje ten produkt, ponieważ nie jest to odzież, obuwie ani inny typ sprzętu koszykarskiego."
+    },
+    {
+        "ID_Produktu": "3359",
+        "Nazwa_Produktu": "SDK01 SIATKA DO KOSZYKÓWKI NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Siatka do koszykówki to akcesorium sportowe, które najlepiej pasuje do kategorii 'Akcesoria' w podkategorii 'Koszykówka' (sport drużynowy). Kategoria jest liściem i semantycznie dopasowana."
+    },
+    {
+        "ID_Produktu": "3372",
+        "Nazwa_Produktu": "NC3107 RÓŻOWY KRZESŁO BRAZYLIJSKIE NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Fotele wiszące",
+        "Finalne_ID_AI": 2887,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to krzesło brazylijskie (wiszące), przeznaczone do relaksu na świeżym powietrzu, w ogrodzie, na balkonie lub campingu, co idealnie pasuje do kategorii 'Fotele wiszące' w ramach mebli ogrodowych."
+    },
+    {
+        "ID_Produktu": "3373",
+        "Nazwa_Produktu": "NC3107 NIEBIESKI KRZESŁO BRAZYLIJSKIE NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Fotele wiszące",
+        "Finalne_ID_AI": 2887,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wiszące krzesło brazylijskie (fotel) przeznaczone do relaksu na świeżym powietrzu, w ogrodzie, na balkonie lub campingu. Kategoria 'Fotele wiszące' pod 'Meble ogrodowe' precyzyjnie opisuje ten typ mebla, który jest wiszącym fotelem ogrodowym, a nie standardowym krzesłem czy hamakiem."
+    },
+    {
+        "ID_Produktu": "3374",
+        "Nazwa_Produktu": "NC3107 ZIELONY KRZESŁO BRAZYLIJSKIE NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Fotele wiszące",
+        "Finalne_ID_AI": 2887,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Krzesło brazylijskie to mebel przeznaczony głównie do użytku na świeżym powietrzu (ogród, balkon, camping), co wskazuje na kategorię 'Ogród' -> 'Meble ogrodowe'. Wśród mebli ogrodowych 'Fotele wiszące' najlepiej pasuje, ponieważ produkt jest fotelem do zawieszania, a nie standardowym krzesłem. Opis podkreśla montaż przez uchwyt i podobieństwo do hamaka, co potwierdza wybór."
+    },
+    {
+        "ID_Produktu": "3395",
+        "Nazwa_Produktu": "NN305 SIATKA DO BADMINTONA 305CM POKROWIEC PEŁNY NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to siatka do badmintona, używana do gry w badmintona, co kwalifikuje ją do kategorii sportowych. W drzewie kategorii, badminton jest kategorią-liściem (id: 5029) w ścieżce Sport i Hobby -> Sporty towarzyskie -> Tenis i pokrewne -> Badminton, co dokładnie odpowiada produktowi."
+    },
+    {
+        "ID_Produktu": "3422",
+        "Nazwa_Produktu": "NRZ014 STEEL / ZESTAW DO BADMINTONA 4 RAKIETY + 3 LOTKI + SIATKI 195x22cm  + POKROWIEC NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do gry w badmintona, zawierający rakiety, lotki, siatkę i akcesoria, co dokładnie pasuje do kategorii 'Badminton' (id: 5029) w ścieżce 'Sport i Hobby → Sporty towarzyskie → Tenis i pokrewne'. Kategoria jest liściem i specjalistyczna dla tego sportu."
+    },
+    {
+        "ID_Produktu": "3424",
+        "Nazwa_Produktu": "NRZ264 ALUMINIUM / ZESTAW DO BADMINTONA 4 RAKIETY + 3 LOTKI Z PIÓR + SIATKA 600x60cm + POKROWIEC NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w badmintona (rakiety, lotki, siatka, słupki), który idealnie pasuje do kategorii 'Badminton' w 'Sportach towarzyskich' pod 'Sportem i Hobby'. Kategoria jest szczegółowa, semantycznie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "3425",
+        "Nazwa_Produktu": "NRZ262 ALUMINIUM / ZESTAW DO BADMINTONA 2 RAKIETY + 3 LOTKI Z PIÓR + SIATKA 600x60cm + POKROWIEC NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w badmintona, zawierający rakiety, lotki, siatkę i akcesoria. Kategoria 'Badminton' (id: 5029) jest kategorią-liściem w ścieżce 'Sport i Hobby' -> 'Sporty towarzyskie' -> 'Tenis i pokrewne', co precyzyjnie odpowiada temu sportowi rakietowemu."
+    },
+    {
+        "ID_Produktu": "3429",
+        "Nazwa_Produktu": "NN400 SIATKA DO BADMINTONA 400CM POKROWIEC PEŁNY NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Siatka do badmintona to sprzęt sportowy bezpośrednio związany z badmintonem, który ma dedykowaną kategorię-liść 'Badminton' (id 5029) w ścieżce 'Sport i Hobby' -> 'Sporty towarzyskie' -> 'Tenis i pokrewne'. Jest to najbardziej szczegółowa i semantycznie pasująca kategoria."
+    },
+    {
+        "ID_Produktu": "3432",
+        "Nazwa_Produktu": "NRS001 ZESTAW DO SPEEDMINTONA 2 RAKIETY +  LOTKI + POKROWIEC ZIELONY NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw do speedmintona, który jest odmianą badmintona. Kategoria 'Badminton' (id: 5029) znajduje się w 'Sporty towarzyskie' pod 'Tenis i pokrewne', co najlepiej pasuje do opisu, ponieważ speedminton łączy elementy badmintona, tenisa i squasha. Jest to kategoria-liść, a nie ma oddzielnej kategorii dla speedmintona."
+    },
+    {
+        "ID_Produktu": "3456",
+        "Nazwa_Produktu": "GRYF PROSTY 150 CM EB FIT FI28",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gryf do sztangi, używany w treningu siłowym, co bezpośrednio odpowiada kategorii 'Gryfy' w 'Sprzęt siłowy' pod 'Fitness' w 'Sport i Hobby'. Opis skupia się na ćwiczeniach siłowych, wolnych ciężarach i specyfikacji gryfu, co potwierdza dopasowanie."
+    },
+    {
+        "ID_Produktu": "3466",
+        "Nazwa_Produktu": "ODKR2 OBRĘCZ DO KOSZYKÓWKI NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Obręcz do koszykówki to akcesorium sportowe specyficzne dla koszykówki, co dokładnie pasuje do kategorii 'Akcesoria' w podkategorii 'Koszykówka' (ID 4971) w 'Sportach drużynowych' (ID 4970). Kategoria jest liściem i najlepiej opisuje produkt."
+    },
+    {
+        "ID_Produktu": "3513",
+        "Nazwa_Produktu": "HANTLA GUMOWA HEX 8 KG EB FIT",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantla gumowa o wadze 8 kg, używana do ćwiczeń siłowych i fitness. Kategoria 'Hantle' (id: 4337) znajduje się pod 'Sprzęt siłowy' w 'Fitness' i jest kategorią-liściem, co dokładnie odpowiada opisanemu produktowi."
+    },
+    {
+        "ID_Produktu": "3514",
+        "Nazwa_Produktu": "HANTLA GUMOWA HEX 10 KG EB FIT",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Hantla to sprzęt siłowy używany w fitnessie, kategoria 'Hantle' znajduje się w podkategorii 'Sprzęt siłowy' w 'Fitness' w 'Sport i Hobby' i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "3560",
+        "Nazwa_Produktu": "PARASOL PLAŻOWO OGRODOWY 180CM NIEBIESKI MORSKI",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Parasole ogrodowe",
+        "Finalne_ID_AI": 2892,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Parasol jest opisany jako plażowo-ogrodowy, a w kategorii Ogród istnieje szczegółowa kategoria 'Parasole ogrodowe' (ID 2892), która bezpośrednio odpowiada produktowi. Ścieżka kategorii to Dom i Ogród → Ogród → Meble ogrodowe → Parasole ogrodowe, co jest najlepszym dopasowaniem semantycznym."
+    },
+    {
+        "ID_Produktu": "3574",
+        "Nazwa_Produktu": "DESKOROLKA PLASTIKOWA 22 CALE ENERO GRAFFITI",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Deskorolka jest bezpośrednio sklasyfikowana w kategorii 'Deskorolki' (id: 1675) pod 'Skating' (id: 1670) w gałęzi 'Sport i Hobby'. Opis produktu dotyczy deskorolki plastikowej do jazdy, co pasuje semantycznie do tej kategorii, a nie do ogólnych kategorii typu 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "3584",
+        "Nazwa_Produktu": "HAMAK TURYSTYCZNY 2 OSOBOWY 270X140CM Z MOSKITIERĄ NIEBIESKI",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Hamaki",
+        "Finalne_ID_AI": 2888,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hamak turystyczny z moskitierą, przeznaczony do użytku na łonie natury, w ogrodzie, na camping itp. Najbardziej szczegółową i pasującą kategorią-liściem jest 'Hamaki' (ID: 2888) w ścieżce: Dom i Ogród -> Ogród -> Meble ogrodowe -> Hamaki. Kategoria ta bezpośrednio odpowiada produktowi, podczas gdy ogólne kategorie turystyki (np. 'Namioty i akcesoria') są mniej precyzyjne."
     }
 ]

@@ -1716,5 +1716,716 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1151",
+        "Nazwa_Produktu": "UW04 UCHWYT HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to uchwyt do treningu na wyciągu, używany w ćwiczeniach siłowych i fitness. Opis koncentruje się na zastosowaniu sportowym (np. trening mięśni grzbietu), a nie na elektronice czy telefonach. Wskazówka OLX ('Elektronika > Telefony > Akcesoria > Uchwyty') jest myląca, ponieważ produkt dotyczy sprzętu sportowego, a nie akcesoriów do telefonów. Najlepsze dopasowanie to 'Sport i Hobby > Fitness > Akcesoria treningowe' (kategoria 4317), która jest kategorią-liściem i obejmuje akcesoria do ćwiczeń, takie jak uchwyty do wyciągów.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Uw04 uchwyt hms",
+                "description": "UW04 HMS to podwójny uchwyt przeznaczony do treningu na wyciągu górnym i dolnym. Służy do ćwiczenia mięśni grzbietu, ale sprawdzi się również w ćwiczeniach z połową sztangi ( druga połowa oparta o parkiet). Gryf idealnie wpasowuje się w środek uchwytu, umożliwiając swobodę wykonania ćwiczenia wiosłowania połową sztangi w opadzie tułowia. Trójkątna budowa uchwytu jest gwarancją idealnego ułożenia dłoni i wymuszenia przy tym prawidłowego ruchu w trakcie wykonywanego ćwiczenia. Ogumowana rękojeść zapewnia pewny chwyt oraz zapobiega wyślizgnięciu się przyboru z ręki, jednocześnie wymagając od nas mocniejszego chwytu. Dzięki temu pracujemy również nad rozbudową mięśni przedramienia. Niezbyt szeroki rozstaw rękojeści ułatwia utrzymanie prawidłowego toru ruchu, czyli prowadzenie łokci blisko tułowia. Wykonanie z wysokiej jakości stali pozwala na trening ze znacznym obciążeniem. Model UW04 pomoże łatwo i skutecznie rozbudować mięśnie grzbietu, które według niektórych są najważniejsze dla naszego układu mięśniowego. Specyfikacja: Służy do wyciągu górnego i dolnego Materiał: chromowana stal Długość części chwytnej (mm): 110 Średnica części chwytnej (mm): 32 Ilość miejsc chwytnych: 1 Rozstaw rękojeści (mm): 160 Uchwyt: gumowany Wymiary: długość (mm): 186 szerokość (mm): 180 wysokość (mm): 118 średnica (mm): 25 Średnica otworu (mm): 15 Waga produktu (kg): 1.85 Uwagi: Nie przeznaczony do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 94.16,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115629.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115630.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115631.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115632.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115633.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115634.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115635.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1152",
+        "Nazwa_Produktu": "UW05 UCHWYT HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to uchwyt do wyciągu treningowego, używany do ćwiczeń siłowych i fitness. Najlepiej pasuje do kategorii 'Akcesoria treningowe' w 'Fitness', a ponieważ nie ma specyficznej podkategorii dla uchwytów, wybrano 'Pozostałe' jako kategorię-liść. Wskazówka systemowa o uchwytach do telefonów została zignorowana, gdyż nie dotyczy sprzętu treningowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Uw05 uchwyt hms",
+                "description": "UW05 HMS to podwójny uchwyt, przeznaczony do treningu na wyciągu górnym i dolnym. Służy do ćwiczenia mięśni grzbietu, ale sprawdzi się również przy wykonywaniu ćwiczeń z połową sztangi ( druga połowa oparta o parkiet). Jej gryf idealnie wpasowuje się w środek uchwytu, co umożliwia swobodne wykonywania ćwiczenia wiosłowania połową sztangi w opadzie tułowia. Trójkątna budowa uchwytu jest gwarancją idealnego ułożenia dłoni i wymuszenia przy tym prawidłowego ruchu w trakcie wykonywanego ćwiczenia. Stalowa, chropowata rękojeść zapewnia pewny chwyt oraz zapobiega wyślizgnięciu się przyboru z ręki, jednocześnie wymagając od nas mocniejszego chwytu. Dzięki temu pracujemy również nad rozbudową mięśni przedramienia. Niezbyt szeroki rozstaw rękojeści ułatwia utrzymanie prawidłowego toru ruchu, czyli prowadzenie łokci blisko tułowia. Wykonanie z wysokiej jakości stali pozwala na trening ze znacznym obciążeniem. Model UW05 pomoże łatwo i skutecznie rozbudować mięśnie grzbietu, które według niektórych są najważniejsze dla naszego układu mięśniowego. Specyfikacja: Materiał: Wysokiej jakości stal Przeznaczony do wyciągu górnego i dolnego Dane techniczne: Wysokość: 130 mm Szerokość: 185 mm Rozstaw rękojeści: 100 mm Średnica rękojeści: 25 mm Średnica otworu: 12 mm Uwagi: Nie przeznaczony do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4353,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 86.64,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115636.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115637.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115638.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115639.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115640.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115641.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115642.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1154",
+        "Nazwa_Produktu": "UW06 UCHWYT HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt do ćwiczeń na wyciągu górnym/dolnym, służący do treningu mięśni (triceps, biceps), co kwalifikuje go jako akcesorium treningowe w kategorii fitness. Wskazówka OLX dotyczy uchwytów do telefonów i została zignorowana jako niezwiązana.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Uw06 uchwyt hms",
+                "description": "UW06 HMS to uchwyt trójkątny. Przeznaczony to wyciągu górnego, gdzie przymocowany, służy do ćwiczeń mięśnia trójgłowego ramienia, czyli tricepsa. Przy odpowiednim chwycie i ułożeniu ciała, można również wykorzystać go do treningu mięśnie brzucha. Uchwyt przymocowany do wyciągu dolnego świetnie nadaje się do ćwiczeń, które rozbudowują biceps. Jego trójkątny kształt umożliwia wykonanie ćwiczeń pod alternatywnym kątem do uchwytu prostego. Pozwala to na wykonanie efektywnego treningu oraz daje możliwość pełnego rozwoju całego mięśnia i wszystkich jego głów mięśniowych. Ogumowana rękojeść zapewnia pewny i komfortowy chwyt. Dzięki temu możemy skupić się na dokładnym wykonaniu ćwiczeń, nie przejmując się tym, że uchwyt wyślizgnie się z rąk. Wykonany jest z wysokiej jakości stali, co daje możliwość treningu ze znacznym obciążeniem. Model UW06 HMS pomoże w doskonały sposób zróżnicować i uzupełnić trening bicepsa oraz tricepsa, a także skutecznie rozbudować mięsnie. Specyfikacja: Materiał: Wysokiej jakości stal, guma Przeznaczony do wyciągu górnego i dolnego Dane techniczne: Wysokość: 195 mm Szerokość: 310 mm Rozstaw rękojeści: 210 cm Średnica rękojeści: 32 mm Średnica otworu: 12 mm Uwagi: Nie przeznaczony do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 86.64,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115718.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115719.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115720.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115721.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115722.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115723.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/115724.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "used"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1159",
+        "Nazwa_Produktu": "RST01 BLACK/YELLOW ROZM. S RĘKAWICE NA SIŁOWNIĘ HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Odzież i obuwie rowerowe > Rękawiczki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Rękawiczki są opisane jako przeznaczone do treningu siłowego i fitness, co wpisuje się w kategorię Fitness > Akcesoria treningowe. Sugestia systemu dotycząca rowerów została zignorowana, ponieważ produkt nie jest związany z rowerami.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rst01 black/yellow rozm. s rękawice na siłownię hms",
+                "description": "Przedstawiamy rękawiczki służące do treningu siłowego jak i fitness. RST01 to rękawiczki męskie, dostępnie w rozmiarach od S do XXL. Marka HMS opiera się na wykorzystaniu materiałów najwyższej klasy, dlatego rękawiczki zostały wykonane z wysokiej jakości tworzywa. Są bezpieczne w użyciu. Zapewniają ochronę przed odciskami, otarciami i urazami. Stabilizują również nadgarstki, dzięki czemu chronią przez kontuzjami. Mają uchwyty, które umożliwiają szybkie ściągnięcie z dłoni. Idealnie sprawdzą się podczas ćwiczeń podnosząc komfort i przyjemność treningu ! Specyfikacja: materiał: skóra, mesh, silikon szeroki ściągacz na nadgarstek rozmiar: S obwód w cm: S(21) kolor: żółty\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 86.64,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179425.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179426.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179427.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179428.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179429.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179430.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/179431.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1188",
+        "Nazwa_Produktu": "UW08 UCHWYT HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to uchwyt do ćwiczeń na wyciągu, służący do treningu mięśni grzbietu, co klasyfikuje go jako akcesorium treningowe w kategorii fitness. Wskazówka systemu dotycząca uchwytów do telefonów jest nieistotna, ponieważ produkt dotyczy sprzętu sportowego. Kategoria 'Akcesoria treningowe > Pozostałe' (id: 4353) jest liściem i najlepiej pasuje semantycznie, oferując bardziej szczegółowe dopasowanie niż ogólne 'Sprzęt fitness'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Uw08 uchwyt hms",
+                "description": "UW08 HMS to podwójny uchwyt przeznaczony do treningu na wyciągu górnym i dolnym. Służy głównie do ćwiczenia mięśni grzbietu. Jego kształt pozwala na obszerniejszy zakres ruchu niż przy prostym czy wąskim chwycie. Umożliwia także mocniejsze napięcie mięśnia, przez co nasz trening będzie skuteczniejszy. Budowa uchwytu gwarantuje idealne ułożenie dłoni oraz wymusza prawidłowy ruch. Szeroki rozstaw rękojeści umożliwia wykonywanie ćwiczeń pod alternatywnym kątem do uchwytu wąskiego. Daje to możliwość efektywniejszego treningu oraz pełnego rozwoju grupy mięśniowej. Stalowa, chropowata rękojeść zapobiega wyślizgnięciu się przyboru z rąk, jednocześnie wymagając od nas mocniejszego chwytu. Dzięki temu pracujemy także nad rozbudową mięśni przedramienia. Uchwyt wykonany jest z wysokiej jakości stali. Pozwoli to na trening ze znacznym obciążeniem. Model UW08 pomoże łatwo i skutecznie rozbudować mięśnie grzbietu, które według niektórych są najważniejsze dla naszego układu mięśniowego. Specyfikacja: Materiał: Wysokiej jakości stal Przeznaczony do wyciągu górnego i dolnego Dane techniczne: Wysokość: 170 mm Szerokość uchwytu: 305 mm Szerokość rękojeści: 165 mm Średnica rękojeści: 25 mm Średnica otworu: 12 mm Uwagi: Nie przeznaczony do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4353,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 149.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126760.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126761.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126762.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126763.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126764.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126765.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126766.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126767.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1189",
+        "Nazwa_Produktu": "UW10 UCHWYT HMS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Uchwyt HMS to akcesorium do treningu na wyciągu, służące do ćwiczeń siłowych, co plasuje go w kategorii sportu i hobby, konkretnie fitness. Kategoria 'Sport i Hobby > Fitness > Akcesoria treningowe' (ID 4317) jest kategorią-liściem i dobrze pasuje do tego typu sprzętu pomocniczego. Wskazówka systemu OLX dotycząca uchwytów do telefonów została zignorowana, ponieważ produkt wyraźnie nie jest związany z elektroniką, a z fitnessem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Uw10 uchwyt hms",
+                "description": "UW10 HMS to podwójny uchwyt przeznaczony do treningu na wyciągu górnym i dolnym. Służy do ćwiczenia mięśni grzbietu. Jego kształt oraz ułożenie rękojeści pod znacznym kątem pozwala na maksymalny zakres ruchu, co umożliwia maksymalne napięcie mięśnia. Przez to nasz trening będzie skuteczniejszy. Budowa uchwytu gwarantuje idealne ułożenie dłoni oraz wymusza prawidłowy ruch w trakcie ćwiczeń. Szeroki rozstaw rękojeści umożliwia wykonywanie ćwiczeń pod alternatywnym kątem do uchwytu wąskiego, co daje możliwość bardziej efektywnego treningu oraz pełnego rozwoju grupy mięśniowej. Wykonany jest z wysokiej jakości stali. Umożliwia to trening ze znacznym obciążeniem. Chropowata rękojeść zapobiega wyślizgnięciu się przyboru z rąk, jednocześnie wymaga od nas mocniejszego chwytu, dzięki któremu pracujemy również nad rozbudową mięśni przedramienia. Model UW10 HMS umożliwi łatwą i skuteczną rozbudowę mięśni grzbietu, które według niektórych są najważniejsze dla naszego układu mięśniowego. Specyfikacja: Materiał: wysokiej jakości stal Przeznaczenie: do wyciągu górnego, dolnego Dane techniczne: Rozstaw rękojeści: 450 mm Długość: 470 mm Wysokość: 240 mm Uwagi: Nie jest przeznaczony do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 212.21,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126768.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126769.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126770.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126771.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126772.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126773.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/126774.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1871",
+        "Nazwa_Produktu": "MGN01 MAGNEZJA SYPKA 900G HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Witaminy i suplementy zdrowia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Magnezja jest używana jako środek przeciwpoślizgowy do rąk podczas treningu siłowego, wspinaczki i innych sportów, co bezpośrednio kwalifikuje ją jako akcesorium treningowe w kategorii Fitness. Wskazówka systemu została zignorowana, ponieważ produkt nie jest suplementem diety, a środkiem do użytku zewnętrznego w kontekście sportowym.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Mgn01 magnezja sypka 900g hms premium",
+                "description": "MGN01 HMS PREMIUM to 100% węglanu magnezu czyli magnezja. Magnezja zapobiega poceniu się rąk oraz zwiększa tarcie co umożliwi mocniejszy i pewniejszy chwyt. Stosowana na siłowni, gdzie spocone dłonie wiążą się z niebezpieczeństwem uraz lub kontuzji. Dzięki niej ćwicząc hantlami lub sztangą nie musimy martwić się ewentualnym wyśliźnięciem się sprzętu. MGN01 to magnezja w proszku, jej zastosowanie jest bardzo proste, wystarczy nasypać na dłonie i lekko wetrzeć. Używana również w gimnastyce, wspinaczce oraz w każdym sporcie, gdzie pewny, silny chwyt to podstawa. Specyfikacja: Skład: 100% magnezja Waga: 900 g Wymiary opakowania: 20 x średnica 20 cm Uwagi: Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 86.64,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/MGN01_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/MGN01_MAXI_02.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1979",
+        "Nazwa_Produktu": "NC4349 ZIELONO-SZARA 193x58x3 CM MATA SAMOPOMPUJĄCA Z PODUSZKĄ NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalne_ID_AI": 3985,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata samopompująca z poduszką przeznaczona do turystyki, camping i plażowania, co bezpośrednio odpowiada kategorii 'Materace' w dziale 'Śpiwory, materace i karimaty' pod 'Turystyką'. Wskazówka systemu potwierdza tę ścieżkę, a opis produktu jasno wskazuje na zastosowanie outdoor jako materac turystyczny.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nc4349 zielono-szara 193x58x3 cm mata samopompująca z poduszką nils camp",
+                "description": "Plażowanie, camping czy też spanie na świeżym powietrzu, pod namiotem to z pewnością ulubione atrakcje, wielu z nas. Jednak dla naszej wygody, potrzebny jest dobry sprzęt. Oryginalne maty samopompujące marki NILS CAMP, zagwarantują komfort użytkowania, niezależnie od warunków, w jakich się znajdziemy. Przedstawiamy model NC4349, który występuje z poduszką. Mata samopompująca, jak sama nazwa wskazuje, nie wymaga naszego wysiłku aby przygotować ją do użytkowania. Wystarczy, odkręcić zawór i czekać, aż uzyska odpowiedni poziom napompowania, następnie zakręcić zawór. Dzięki temu, możemy zająć się np. rozkładaniem namiotu, a gdy skończymy, mata będzie już gotowa. Dla jak najlepszego dopasowania maty, do swoich potrzeb, istnieje możliwość samodzielnego dopompowania maty. Nie musimy martwić się również o to, by nie zapomnieć zabrać ze sobą poduszki, w modelu NC4349 poduszka jest na stałe. Dzięki takiemu rozwiązaniu, zaoszczędzimy miejsce, odczucia wygody podczas odpoczynku będą idealne, a udany odpoczynek to więcej energii do działania. Mata po złożeniu, zajmuje bardzo mało miejsca, a sposób składania jest bardzo prosty. Wystarczy odkręcić zawór i zrolować matę, zaczynając od góry. Nie musimy obawiać się, że sama się rozwinie, ponieważ posiada dwa paski z zatrzaskami. Po zrolowaniu, zapinamy je i mata zabezpieczona. Dodatkowo, w zestawie znajduje się poręczny pokrowiec, do którego zapakujemy naszą matę. To znacznie ułatwi transport i dodatkowo zabezpieczy matę, przed uszkodzeniem. Całość, w połączeniu z tym, że waga maty to zaledwie 1 kg powoduje, że bez problemu możemy ją mieć ze sobą, przy okazji każdej wycieczki. Produkt został wykonany z materiałów najwyższej jakości, dlatego z pewnością nie uszkodzi się przez nierówne podłoże, a co za tym idzie, posłuży na wiele sezonów. Gdyby jednak, nieszczęśliwie mata doznała drobnego uszkodzenia, dołączony został do niej zestaw naprawczy. Przy jego użyciu, bardzo szybko i łatwo naprawimy usterkę. Mata NC4349 to najlepszy towarzysz, każdej wyprawy. Specyfikacja: Materiał: 75D poliester, PVC, pianka PU o dużej gęstości, plastikowy zawór Wymiary: Długość: 193 cm Szerokość: 58 cm Wysokość: 3 cm Wymiary po złożeniu: Długość: 62 cm Średnica: 15 cm Waga produktu: 1000 g Poduszka: tak Dołączony zestaw naprawczy Uwagi: Nie przeznaczona do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 3985,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 111.76,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/322772.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/322774.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/322773.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/322775.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/322776.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/322777.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/322778.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/322779.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "2043",
+        "Nazwa_Produktu": "NC3142 NAMIOT PLAŻOWY SAMOROZKŁADAJĄCY CZERWONO-SZARY PODŁOGA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to namiot plażowy, używany głównie do rekreacji na świeżym powietrzu, co wpisuje się w kategorię turystyki. W drzewie kategorii OLX, namioty znajdują się w ścieżce Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty, co dokładnie odpowiada produktowi. Brak bardziej szczegółowej kategorii dla namiotów plażowych sprawia, że ogólna kategoria 'Namioty' jest najlepszym dopasowaniem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nc3142 namiot plażowy samorozkładający czerwono-szary podłoga nils camp",
+                "description": "Plażowanie, to jedna z ulubionych form letniego wypoczynku. Dobrze mieć ze sobą coś, co pozwoli odpocząć chwile od promieni słonecznych, zapewni cień, a jednocześnie osłoni od wiatru. Najlepszym rozwiązaniem, będzie namiot plażowy. Taki, który łatwo się rozkłada, jest wytrzymały i funkcjonalny. Takie właśnie są, oryginalne namioty marki NILS CAMP. Przedstawiamy model NC3142. To samorozkładający się namiot plażowy. Jego wymiary, gwarantują wygodę i komfort użytkowania. Główną zaletą, modelu NC3142 jest to, że sam się rozkłada. Wystarczy wyjąć go z pokrowca i położyć na ziemi. W przeciągu paru sekund namiot jest gotowy. Co za tym idzie w ekspresowym tempie, możemy oddać się błogiemu odpoczynkowi. Dzięki dołączonym do zestawu śledziom, produkt nie będzie się przemieszczał, nie zajdzie także ryzyko porwania przez wiatr. NC3142, został wykonany z materiałów najwyższej jakości. Materiał na podłodze jest wodoodporny, zatem wilgotny piasek nie będzie problemem. W namiocie, została zastosowana siatka wentylacyjna, dzięki której w środku cały czas jest przepływ powietrza. Namiot posiada również powłokę, chroniącą przed promieniami UV. Model NC3142 jest przestronny, jednak po złożeniu zajmuje bardzo mało miejsca. Mieści się do wygodnej torby, dołączonej do zestawu, która zabezpiecza produkt i ułatwia jego transport. Plażowanie, to jednak głównie opalanie, dlatego idealnym uzupełnieniem, tego wyjątkowego namiotu, będzie koc piknikowy. Marka NILS CAMP, posiada szeroki wybór koców, o najlepszych parametrach i ciekawym wzornictwie. Taki komplet, zagwarantuje cudownie spędzony czas na plaży. Specyfikacja: Materiał: 170T poliester z powłoką anty UV 25spf Wymiary: Długość: 150 cm Szerokość: 120 cm Wysokość: 95,5 Wymiary po złożeniu: Średnica: 60 cm Wysokość: 4 cm Stelaż: Włókno szklane śr. 5 mm Podłoga: PE, wodoodporność 1000 mm Uwagi: Nie przeznaczony do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 3978,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 94.06,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/323889.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/323890.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/323891.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/323892.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/323893.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/323894.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/323895.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/323896.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
