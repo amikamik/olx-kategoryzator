@@ -1428,5 +1428,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to hantle do treningu siłowego, co dokładnie odpowiada kategorii liściowej 'Hantle' w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Opis i tytuł jednoznacznie wskazują na ten rodzaj sprzętu."
+    },
+    {
+        "ID_Produktu": "986",
+        "Nazwa_Produktu": "HEX PRO 8 KG HANTLA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantla do ćwiczeń siłowych, co idealnie pasuje do kategorii liścia 'Hantle' w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Opis podkreśla zastosowanie w treningu fitness, a wskazówka OLX potwierdza tę ścieżkę."
+    },
+    {
+        "ID_Produktu": "987",
+        "Nazwa_Produktu": "HEX PRO 10 KG HANTLA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantle do treningu siłowego, co dokładnie odpowiada kategorii 'Hantle' znajdującej się w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria jest najbardziej szczegółowa i semantycznie dopasowana do opisu produktu."
+    },
+    {
+        "ID_Produktu": "1005",
+        "Nazwa_Produktu": "HEX PRO 12 KG HANTLA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantle do treningu siłowego, które idealnie pasują do kategorii liściowej 'Hantle' w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy. Sugerowana ścieżka OLX jest zgodna z analizą tytułu i opisu."
     }
 ]
