@@ -1642,5 +1642,79 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1074",
+        "Nazwa_Produktu": "BBR05 BLACK TALERZ OLIMPIJSKI BUMPER 5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to talerz olimpijski do sztangi (obciążenie), używany w treningu siłowym/fitness. Kategoria 'Sport i Hobby > Fitness > Akcesoria treningowe' (ID: 4317) jest kategorią-liściem i dokładnie pasuje do akcesoriów treningowych takich jak talerze. Wskazówka systemu OLX potwierdza tę ścieżkę, więc używam jej do zawężenia, ale wybieram konkretną kategorię-liść.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Bbr05 black talerz olimpijski bumper 5 kg hms",
+                "description": "BBR Talerz Olimpijski 5/10/15/20/25 kg HMS , pokryty gumą najwyższej jakości. Jego główne atuty to perfekcyjny odlew, estetyczne wykończenie oraz specjalne wyprofilowanie zapobiegające kręceniu się na gryfie . Talerze zostały wykonane z materiałów najwyższej jakości . Pokryte specjalną, grubą gumą, absorbującą każde uderzenie – dzięki czemu podczas upadku nie niszczy podłoża. Talerze BBR HMS osiągają, w zależności od wagi, od 75 do 96 punktów w skali Shore’a . Oznacza to, że talerze te osiągają dużo większą wytrzymałość, niż w przypadku tańszych, gumowanych talerzy dostępnych na rynku. Każdy talerz jest kalibrowany wagowo i wymiarowo . To oznacza, że waga dysku musi się mieścić w granicach +0,5 % a -0,5 %. Wewnętrzna średnica została dopasowana do gryfów olimpijskich. Precyzyjne wykonanie zapewnia stabilność ciężaru podczas intensywnego treningu. Tuleja w talerzu wykonana jest ze stali nierdzewnej – ułatwia to zakładanie i ściąganie obciążenia ze sztangi. Dodatkowo jest to element, dzięki któremu obciążenie stabilnie trzyma się na gryfie. Specyfikacja Materiał: stal nierdzewna pokryta gumą Waga: 5 kg Średnica wewnętrzna: 51 mm Średnica zewnętrzna: 450 mm Szerokość: 26 mm Uwagi: Nie przeznaczony do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 149.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/161269.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/161270.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/161271.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/161272.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1001-2000/161273.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
