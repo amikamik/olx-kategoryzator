@@ -913,6 +913,11 @@ def main():
     print(f"Dostawca modelu: {config.ACTIVE_LLM_PROVIDER}, Model: {config.GEMINI_MODEL_NAME if config.ACTIVE_LLM_PROVIDER == 'GEMINI' else config.OPENAI_MODEL_NAME}")
     print("#" * 80)
 
+    # --- Monitoring czasu wykonania (dla auto-restart) ---
+    MAX_RUNTIME_MINUTES = int(os.environ.get('MAX_RUNTIME_MINUTES', '5'))  # Domyślnie 5 min dla testu
+    START_TIME = time.time()
+    print(f"⏱️ Maksymalny czas wykonania: {MAX_RUNTIME_MINUTES} minut\n")
+    
     # --- Walidacja kluczy API ---
     provider = config.ACTIVE_LLM_PROVIDER
     if provider == "GEMINI" and config.GEMINI_API_KEY == "TWOJ_KLUCZ_API_GEMINI":
@@ -1004,6 +1009,18 @@ def main():
         print(f"{'='*80}\n")
         
         for idx, product in enumerate(products_to_process, 1):
+            # Sprawdzenie limitu czasu
+            elapsed_minutes = (time.time() - START_TIME) / 60
+            if elapsed_minutes > MAX_RUNTIME_MINUTES:
+                print(f"\n{'='*80}")
+                print(f"⏱️ OSIĄGNIĘTO LIMIT CZASU ({MAX_RUNTIME_MINUTES} min)")
+                print(f"⏱️ Przetworzono {idx-1}/{len(products_to_process)} produktów")
+                print(f"⏱️ State zapisany - workflow uruchomi się automatycznie ponownie")
+                print(f"{'='*80}\n")
+                with open('RESTART_NEEDED', 'w') as f:
+                    f.write(f"{len(products_to_process) - (idx-1)}")
+                break
+            
             print(f"\n[{idx}/{len(products_to_process)}] Produkt: {product['name'][:60]}... (ID: {product['id']})")
             print("├─ Kategoryzacja przez AI...")
             

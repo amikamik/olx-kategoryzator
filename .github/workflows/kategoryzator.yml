@@ -47,6 +47,24 @@ jobs:
           rm -f state/*.json
           echo "Pliki state wyczyszczone"
 
+      - name: 🔄 Odświeżenie tokena OLX
+        id: refresh_token
+        run: |
+          echo "🔄 Odświeżanie tokena OLX..."
+          NEW_TOKEN=$(python scripts/refresh_token.py)
+          if [ $? -eq 0 ] && [ ! -z "$NEW_TOKEN" ]; then
+            echo "✅ Token odświeżony pomyślnie"
+            echo "::add-mask::$NEW_TOKEN"
+            echo "REFRESHED_OLX_TOKEN=$NEW_TOKEN" >> $GITHUB_ENV
+          else
+            echo "❌ Błąd odświeżania - używam tokena z secrets"
+            echo "REFRESHED_OLX_TOKEN=${{ secrets.OLX_ACCESS_TOKEN }}" >> $GITHUB_ENV
+          fi
+        env:
+          OLX_CLIENT_ID: "202557"
+          OLX_CLIENT_SECRET: "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
+          OLX_REFRESH_TOKEN: "${{ secrets.OLX_REFRESH_TOKEN }}"
+
       - name: ⚙️ Przygotuj konfigurację z secretów
         run: |
           cat > config/config.py << EOF
@@ -77,7 +95,7 @@ jobs:
           # --- Konfiguracja OLX ---
           CLIENT_ID = "202557"
           CLIENT_SECRET = "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
-          ACCESS_TOKEN = "${{ secrets.OLX_ACCESS_TOKEN }}"
+          ACCESS_TOKEN = "${{ env.REFRESHED_OLX_TOKEN }}"
           REFRESH_TOKEN = "8bf78bbca8df822b188fdde14df9a468fb28be23"
           
           # Dane kontaktowe
@@ -127,6 +145,7 @@ jobs:
         env:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MAX_RUNTIME_MINUTES: "5"  # TEST: 5min (produkcja: 330)
 
       - name: 💾 Zapisz zaktualizowane pliki state i raport
         if: always()
@@ -140,6 +159,30 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "AUTO: Aktualizacja state i raport - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
+            echo "✅ Zaktualizowano pliki state i raport"
+          else
+            echo "ℹ️  Brak zmian w plikach"
+          fi
+
+      - name: 🔄 Auto-restart jeśli osiągnięto limit czasu
+        if: always()
+        run: |
+          if [ -f "RESTART_NEEDED" ]; then
+            REMAINING=$(cat RESTART_NEEDED)
+            echo "🔄 Wykryto potrzebę restartu - pozostało ~$REMAINING produktów"
+            echo "🔄 Uruchamiam workflow ponownie za 30 sekund..."
+            sleep 30
+            
+            curl -X POST \
+              -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+              -H "Accept: application/vnd.github.v3+json" \
+              https://api.github.com/repos/${{ github.repository }}/actions/workflows/kategoryzator.yml/dispatches \
+              -d "{\"ref\":\"${{ github.ref_name }}\",\"inputs\":{\"sample_size\":\"${{ inputs.sample_size }}\",\"reset_state\":\"false\"}}"
+            
+            echo "✅ Workflow został ponownie uruchomiony"
+          else
+            echo "✅ Wszystkie produkty przetworzone - brak potrzeby restartu"
+          fi
             echo "✅ Zaktualizowano pliki state i raport"
           else
             echo "ℹ️  Brak zmian w plikach"
