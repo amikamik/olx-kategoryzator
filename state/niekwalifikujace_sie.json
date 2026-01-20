@@ -1528,5 +1528,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to talerz olimpijski (obciążenie) do sztangi, używany w treningu siłowym, co idealnie pasuje do kategorii 'Obciążenia' w 'Sprzęt siłowy' pod 'Fitness' w 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "1106",
+        "Nazwa_Produktu": "PA3778 BLACK ROZM. M PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to pas do ćwiczeń siłowych, który jest akcesoriem treningowym, używanym w fitness. Wskazówka OLX prowadzi do 'Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe', co jest zgodne z opisanym produktem. W drzewie kategorii, 'Akcesoria treningowe' (id 4343) znajduje się pod 'Fitness' (id 771) i jest kategorią liściem, dokładnie odpowiadającą pasowi treningowemu. Jest to bardziej szczegółowe niż ogólne 'Fitness' lub 'Sprzęt siłowy' (id 4316), które mogą obejmować cięższy sprzęt."
     }
 ]
