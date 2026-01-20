@@ -1458,5 +1458,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to hantle do treningu siłowego, które idealnie pasują do kategorii liściowej 'Hantle' w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy. Sugerowana ścieżka OLX jest zgodna z analizą tytułu i opisu."
+    },
+    {
+        "ID_Produktu": "1024",
+        "Nazwa_Produktu": "AS003 GREEN/GRAY STEP DO AEROBIKU HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to step do aerobiku, czyli sprzęt fitness służący do ćwiczeń w domu. Kategoria 'Stepy, steppery i twistery' (id 4332) pod 'Sprzęt fitness' dokładnie odpowiada typowi urządzenia, co potwierdza zarówno analiza opisu, jak i wskazówka systemowa."
+    },
+    {
+        "ID_Produktu": "1025",
+        "Nazwa_Produktu": "AS005 WHITE/BLUE STEP DO AEROBIKU HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to step do aerobiku/fitness, używany do ćwiczeń modelujących sylwetkę, co dokładnie pasuje do kategorii 'Stepy, steppery i twistery' w gałęzi Sport i Hobby > Fitness > Sprzęt fitness. Wskazówka systemu potwierdza tę ścieżkę, a kategoria jest liściem."
     }
 ]
