@@ -914,7 +914,7 @@ def main():
     print("#" * 80)
 
     # --- Monitoring czasu wykonania (dla auto-restart) ---
-    MAX_RUNTIME_MINUTES = int(os.environ.get('MAX_RUNTIME_MINUTES', '2'))  # Domyślnie 2 min dla testu
+    MAX_RUNTIME_MINUTES = int(os.environ.get('MAX_RUNTIME_MINUTES', '150'))  # Domyślnie 2 min dla testu
     START_TIME = time.time()
     print(f"⏱️ Maksymalny czas wykonania: {MAX_RUNTIME_MINUTES} minut\n")
     
