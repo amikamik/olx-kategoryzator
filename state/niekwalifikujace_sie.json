@@ -1478,5 +1478,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to step do aerobiku/fitness, używany do ćwiczeń modelujących sylwetkę, co dokładnie pasuje do kategorii 'Stepy, steppery i twistery' w gałęzi Sport i Hobby > Fitness > Sprzęt fitness. Wskazówka systemu potwierdza tę ścieżkę, a kategoria jest liściem."
+    },
+    {
+        "ID_Produktu": "1040",
+        "Nazwa_Produktu": "KNV06 BLACK KETTLEBELL ŻELIWNY POKRYTY WINYLEM HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kettlebell – odważnik do treningu siłowego, który idealnie pasuje do kategorii 'Obciążenia' w gałęzi 'Sprzęt siłowy' pod 'Fitness'. Wskazówka systemu potwierdza tę ścieżkę, a brak bardziej szczegółowej kategorii (np. osobnej dla kettlebell) sprawia, że 'Obciążenia' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1041",
+        "Nazwa_Produktu": "KNV08 BLACK KETTLEBELL ŻELIWNY POKRYTY WINYLEM HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kettlebell, czyli obciążenie do treningu siłowego. Wskazówka OLX sugeruje ścieżkę 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia', która idealnie pasuje do opisu. W drzewie kategorii, 'Obciążenia' (id 4339) jest kategorią-liściem w 'Sprzęt siłowy', co odpowiada charakterowi produktu jako ciężarkowi do ćwiczeń fitness."
+    },
+    {
+        "ID_Produktu": "1042",
+        "Nazwa_Produktu": "KNV12 BLACK KETTLEBELL ŻELIWNY POKRYTY WINYLEM HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kettlebell – ciężarek do treningu siłowego, wykonany z żeliwa i pokryty winylem, służący do ćwiczeń wzmacniających mięśnie i poprawy koordynacji. Kategoria 'Obciążenia' (pod 'Sprzęt siłowy' w 'Fitness') bezpośrednio obejmuje tego typu sprzęt, a brak bardziej szczegółowej kategorii (np. 'Kettlebell') potwierdza, że jest to najlepsze dopasowanie. Wskazówka systemu zgadza się z analizą produktu."
     }
 ]
