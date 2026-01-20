@@ -1228,5 +1228,15 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to pasek, który jest przede wszystkim akcesorium ubiorowym, choć o charakterze taktycznym/outdoorowym. W drzewie kategorii OLX najbliższa i najbardziej odpowiednia kategoria-liść to 'Paski' (ID 2721) znajdująca się w ścieżce Moda → Akcesoria. Opis podkreśla uniwersalność, funkcjonalność i zastosowanie w kontekście ubraniowym, co dobrze pasuje do tej kategorii. Alternatywne kategorie jak 'Turystyka' czy 'Militaria' są mniej precyzyjne, gdyż pasek nie jest sprzętem specjalistycznym, a raczej codziennym akcesorium o wzmocnionej konstrukcji."
+    },
+    {
+        "ID_Produktu": "5574",
+        "Nazwa_Produktu": "NP8804 POMPKA DO PIŁEK NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Pompki rowerowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Pompka do piłek jest uniwersalnym akcesorium do sportów drużynowych (koszykówka, piłka nożna, siatkówka), a kategoria 'Pozostałe sporty drużynowe' jest liściem i obejmuje ogólne akcesoria nieprzypisane do konkretnego sportu drużynowego, co dobrze pasuje do opisu produktu."
     }
 ]

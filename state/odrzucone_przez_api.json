@@ -1417,5 +1417,71 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "5587",
+        "Nazwa_Produktu": "NC3100 TORBA TERMICZNA NIEBIESKA 32L NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Osprzęt turystyczny",
+        "Finalne_ID_AI": 3976,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Torba termiczna 32L jest opisana jako idealna na wypady plażowe, pikniki i outdoorowe przygody, służąca do przechowywania jedzenia i napojów w chłodzie. Kategoria 'Sport i Hobby > Turystyka > Osprzęt turystyczny' (ID: 3976) jest kategorią-liściem, która obejmuje sprzęt turystyczny, taki jak torby, plecaki i organizery na aktywności na świeżym powietrzu, co dobrze odpowiada funkcjonalności produktu. Wskazówka systemu sugeruje kategorię modową ('Moda > Torby i torebki'), ale produkt ma wyraźne cechy użytkowe związane z turystyką i rekreacją, a nie modą, więc wskazówka została zignorowana. Inne potencjalne kategorie, takie jak 'Supermarket > Torby na zakupy' (ID: 4354, ale nie jest liściem) lub 'Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy' (ID: 2144, ale nie jest liściem), są mniej precyzyjne lub nie są kategoriami-liśćmi. Kategoria 3976 jest najbardziej semantycznie dopasowana do przeznaczenia produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nc3100 torba termiczna niebieska 32l nils",
+                "description": "Idealna na wypady na plażę czy pikniki ze znajomymi, torba termiczna NC3100 marki NILS to praktyczne rozwiązanie dla tych, którzy chcą zachować swoje posiłki świeże i chłodne gdziekolwiek się znajdują. Wykonana z wytrzymałego materiału 600D Oxford i wyłożona izolacyjnym materiałem PEVA, główna komora zapewnia doskonałą ochronę termiczną. Przy pojemności 32 litrów i niskiej wadze, jest ona nie tylko bardzo pojemna, ale i łatwa w transporcie, co sprawia, że stanie się Twoim niezawodnym partnerem podczas każdej outdoorowej przygody. Dodatkowo NC3100 jest wyposażona w solidny uchwyt do noszenia w dłoni, co daje Ci swobodę podczas transportu. Torba termiczna NC3100 marki NILS jest doskonałym wyborem dla osób ceniących sobie wygodę, styl i efektywność podczas plażowania czy pikników, utrzymując jedzenie i napoje w idealnej temperaturze przez długi czas. Specyfikacja: Materiał: 600D Oxford, PEVA Pojemność: 32l Wymiary: Wysokość: 47 cm Szerokość: 36 cm Głębokość: 19 cm Waga: 250 g Komora główna z termoizolacją: tak Uchwyt na rękę: tak",
+                "category_id": 3976,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 49.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_1(236).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_2(237).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_3(232).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_4(228).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img_5(221).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/5001-6000/img(234).jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
