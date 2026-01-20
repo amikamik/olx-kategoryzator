@@ -145,7 +145,7 @@ jobs:
         env:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          MAX_RUNTIME_MINUTES: "5"  # TEST: 5min (produkcja: 330)
+          MAX_RUNTIME_MINUTES: "2"  # TEST: 2min (produkcja: 330)
 
       - name: 💾 Zapisz zaktualizowane pliki state i raport
         if: always()
