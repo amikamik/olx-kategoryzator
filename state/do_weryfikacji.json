@@ -1406,5 +1406,157 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "75%",
         "Uzasadnienie_AI": "Zestaw obejmuje badmintona i tenis, które należą do kategorii 'Tenis i pokrewne', a podkategoria 'Pozostałe' jest odpowiednia dla wielofunkcyjnego sprzętu rekreacyjnego łączącego te sporty z siatkówką."
+    },
+    {
+        "ID_Produktu": "5296",
+        "Nazwa_Produktu": "KIJE NORDIC WALKING 2-SEKFENCJE NIEBIESKIE",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Kije trekkingowe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5402",
+        "Nazwa_Produktu": "STR30 WIESZAK NA MATY COMMERCIAL HMS",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Produkt to wieszak specjalnie przeznaczony do mat do ćwiczeń, używany głównie w kontekście fitness i siłowni. Mimo że wskazówka sugeruje kategorię meblową, semantycznie lepiej pasuje do akcesoriów treningowych w kategorii sportowej, gdzie nie ma dedykowanej podkategorii dla przechowywania sprzętu, więc wybrano 'Pozostałe' w 'Akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5446",
+        "Nazwa_Produktu": "NC3743 NAMIOT KEMPINGOWY SAMOROZKŁADAJĄCY NIEBIESKI NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to namiot kempingowy, który bezpośrednio pasuje do kategorii 'Namioty' (id 3978) w dziale Turystyka, będącej liściem w drzewie kategorii OLX. Opis podkreśla jego zastosowanie do spędzania czasu na świeżym powietrzu i camping, co idealnie odpowiada tej kategorii.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5456",
+        "Nazwa_Produktu": "NC6010 ZIELONY NAMIOT KEMPINGOWY HIKER NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to namiot turystyczny do kempingu i wędrówek, co bezpośrednio odpowiada kategorii 'Namioty' (ID 3978) w ścieżce 'Turystyka' -> 'Namioty i akcesoria'. Jest to kategoria-liść, najbardziej szczegółowa i semantycznie dopasowana do opisu namiotu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5459",
+        "Nazwa_Produktu": "NC6033 NAMIOT KEMPINGOWY NIEBIESKI NIGHTFALL NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to namiot kempingowy dwuosobowy, co bezpośrednio pasuje do kategorii 'Namioty' (id: 3978) w gałęzi 'Sport i Hobby -> Turystyka -> Namioty i akcesoria'. Kategoria jest liściem i najlepiej opisuje produkt.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5580",
+        "Nazwa_Produktu": "NC3140 TORBA TERMICZNA CZARNA 25L NILS",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Plecaki",
+        "Finalne_ID_AI": 4000,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "75%",
+        "Uzasadnienie_AI": "Torba termiczna z pasami naramiennymi, przeznaczona na pikniki i wycieczki outdoorowe, pasuje do kategorii plecaków turystycznych w osprzęcie turystycznym. Wskazówka systemu o torbach na zakupy jest mniej trafna ze względu na specjalistyczną funkcję termiczną i outdoorowy charakter produktu."
+    },
+    {
+        "ID_Produktu": "5651",
+        "Nazwa_Produktu": "HHM15 HULA HOP BLACK Z MAGNESEM I OBCIĄŻNIKIEM + LICZNIK HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5702",
+        "Nazwa_Produktu": "MATA SAMOPOMPUJĄCA TURYSTYCZNA MATERAC 180X50X3CM GRANATOWA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5777",
+        "Nazwa_Produktu": "DESKA DO PŁYWANIA COMFY KICK",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5844",
+        "Nazwa_Produktu": "POMPKA DO MATERACY RĘCZNA 30CM 29P386",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Pozostałe",
+        "Finalne_ID_AI": 3987,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "75%",
+        "Uzasadnienie_AI": "Pompka jest przeznaczona głównie do materacy, które są częścią sprzętu turystycznego (materace turystyczne). Kategoria 'Pozostałe' pod 'Śpiwory, materace i karimaty' w gałęzi 'Turystyka' obejmuje akcesoria związane z tym sprzętem, takie jak pompki, co pasuje do tytułu i opisu produktu. Wskazówka OLX dotycząca materacy potwierdza powiązanie z tą gałęzią, choć produkt nie jest materacem."
+    },
+    {
+        "ID_Produktu": "5846",
+        "Nazwa_Produktu": "LAMPKA ROWEROWA NA TYŁ 5 LED DUNLOP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Oświetlenie rowerowe i odblaski",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5857",
+        "Nazwa_Produktu": "POMPKA DO PIŁEK 17CM Z IGŁĄ DWUKIERUNKOWA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Pompki rowerowe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5876",
+        "Nazwa_Produktu": "Plecak kabinowy Meteor Hermod 20 l Rami",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "5926",
+        "Nazwa_Produktu": "POKROWIEC NA MOTOR 228x124/75x99CM DUNLOP",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
