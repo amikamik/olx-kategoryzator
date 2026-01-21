@@ -2208,5 +2208,505 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to hamak turystyczny z moskitierą, przeznaczony do użytku na łonie natury, w ogrodzie, na camping itp. Najbardziej szczegółową i pasującą kategorią-liściem jest 'Hamaki' (ID: 2888) w ścieżce: Dom i Ogród -> Ogród -> Meble ogrodowe -> Hamaki. Kategoria ta bezpośrednio odpowiada produktowi, podczas gdy ogólne kategorie turystyki (np. 'Namioty i akcesoria') są mniej precyzyjne."
+    },
+    {
+        "ID_Produktu": "3644",
+        "Nazwa_Produktu": "HANTLA KOMPOZYTOWA 16 KG ( 2X8 KG ) EB FIT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hantle do ćwiczeń siłowych, co bezpośrednio odpowiada kategorii 'Hantle' w gałęzi Sport i Hobby > Fitness > Sprzęt siłowy. Kategoria jest liściem i najbardziej szczegółowa dla tego typu sprzętu."
+    },
+    {
+        "ID_Produktu": "3658",
+        "Nazwa_Produktu": "GRYF LEKKO ŁAMANY 120 CM BEST SPORITNG FI30MM PIERŚCIENIE",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Pozostałe fitness",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gryf lekko łamany, czyli element sprzętu siłowego używany w treningu fitness. Wskazówka systemu OLX kieruje do kategorii Sport i Hobby > Fitness, a bardziej szczegółowo do Sprzęt siłowy. W ramach tej kategorii istnieje leaf 'Gryfy' (id: 4336), która idealnie pasuje do opisu gryfu jako części sztangi. Wybrano tę kategorię zamiast ogólnej 'Pozostałe fitness', ponieważ jest bardziej precyzyjna i semantycznie dopasowana."
+    },
+    {
+        "ID_Produktu": "3721",
+        "Nazwa_Produktu": "HUŚTAWKA BOCIANIE GNIAZDO METEOR zielony",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Huśtawka bocianie gniazdo to sprzęt ogrodowy, przeznaczony do montażu na zewnątrz, co idealnie pasuje do kategorii 'Huśtawki i place zabaw' w dziale 'Ogród'. Opis produktu podkreśla zastosowanie w ogrodzie, wytrzymałość na warunki zewnętrzne i możliwość użytkowania przez dzieci i dorosłych, co lepiej odpowiada tej kategorii niż ogólna 'Zabawki > Pozostałe' sugerowana przez system."
+    },
+    {
+        "ID_Produktu": "3853",
+        "Nazwa_Produktu": "Spokey BENCH Hamak-siedzisko 80x100 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Sanki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Hamaki",
+        "Finalne_ID_AI": 2888,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Hamak-siedzisko jest typowym produktem do relaksu na świeżym powietrzu, używanym w ogrodzie, na tarasie czy balkonie, co idealnie pasuje do kategorii 'Hamaki' w gałęzi 'Meble ogrodowe' (Dom i Ogród > Ogród > Meble ogrodowe). Wskazówka systemu dotycząca sanek została zignorowana, ponieważ nie ma związku z produktem."
+    },
+    {
+        "ID_Produktu": "4018",
+        "Nazwa_Produktu": "CBRS20 TALERZ OLIMPIJSKI 2 x 2.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to talerze obciążeniowe do gryfów olimpijskich, używane w treningu siłowym. Kategoria 'Obciążenia' pod 'Sprzęt siłowy' w 'Fitness' precyzyjnie opisuje ten typ akcesorium, pasując do wskazówki systemu i specyfikacji produktu."
+    },
+    {
+        "ID_Produktu": "4046",
+        "Nazwa_Produktu": "Elektroniczna tarcza do darta Meteor",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to elektroniczna tarcza do darta z rzutkami, co bezpośrednio pasuje do kategorii 'Dart' (ID: 4967) w ramach 'Sporty towarzyskie'. Wskazówka systemu OLX potwierdza tę ścieżkę. Kategoria 4967 jest liściem (is_leaf: true) i szczegółowo opisuje sprzęt do gry w darta, co jest zgodne z tytułem i opisem produktu."
+    },
+    {
+        "ID_Produktu": "4135",
+        "Nazwa_Produktu": "PIASKOWNICA TRADYCYJNA Z ŁAWECZKĄ SASKA GARDEN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Piaskownica to element wyposażenia ogrodu lub placu zabaw, a kategoria 'Huśtawki i place zabaw' bezpośrednio obejmuje takie produkty. Wskazówka systemu dotyczyła ławki fitness, co nie pasuje do opisu produktu, więc została zignorowana."
+    },
+    {
+        "ID_Produktu": "4240",
+        "Nazwa_Produktu": "HD505 MINT HULAJNOGA NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga rekreacyjna dla dzieci i młodzieży, używana do jazdy po asfalcie, betonie i chodnikach, co bezpośrednio odpowiada kategorii 'Hulajnogi' w dziale 'Skating' (Sport i Hobby). Wskazówka systemu OLX potwierdza tę ścieżkę, a kategoria jest liściem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "4241",
+        "Nazwa_Produktu": "HD505 PINK HULAJNOGA NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga mechaniczna dla dzieci i młodzieży, używana do jazdy rekreacyjnej, co dokładnie odpowiada kategorii Hulajnogi pod Skating w dziale Sport i Hobby. Wskazówka OLX potwierdza tę ścieżkę, a brak wzmianki o napędzie elektrycznym wyklucza kategorię Hulajnogi elektryczne."
+    },
+    {
+        "ID_Produktu": "4321",
+        "Nazwa_Produktu": "OBRĘCZ DO KOSZA 43CM Z SIATKĄ ENERO CZERWONA",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna obręcz do koszykówki z siatką, używana w sporcie, a nie zabawka. Kategoria 'Akcesoria' w 'Koszykówce' (pod 'Sporty drużynowe') najlepiej pasuje, ponieważ produkt jest sprzętem sportowym, a nie odzieżą czy obuwiem. Wskazówka systemu została zignorowana, ponieważ produkt nie jest zabawką dla dzieci."
+    },
+    {
+        "ID_Produktu": "4324",
+        "Nazwa_Produktu": "NC7822 PARASOL PLAŻOWY XL 220 CM NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Parasole ogrodowe",
+        "Finalne_ID_AI": 2892,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Parasol plażowy jest funkcjonalnie podobny do parasola ogrodowego, a kategoria 'Parasole ogrodowe' jest najbardziej szczegółową dostępną kategorią-liściem dla parasoli w drzewie kategorii OLX. Wskazówka sugerowała turystykę, ale tam brakuje specyficznej kategorii dla parasoli, więc wybrano bardziej precyzyjną opcję."
+    },
+    {
+        "ID_Produktu": "4356",
+        "Nazwa_Produktu": "ZESTAW ZE SŁUPKAMI ENERO 310X76CM DO TENISA ZIEMNEGO SIATKONOGI",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalne_ID_AI": 5028,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw do mini tenisa ziemnego i siatkonogi, z czego tenis ziemny jest głównym zastosowaniem wymienionym w tytule i opisie. Kategoria 'Tenis ziemny' jest liściem w drzewie (Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne) i bezpośrednio odpowiada przeznaczeniu produktu. Wskazówka systemu dotycząca zabawek plastycznych została zignorowana, ponieważ nie pasuje do charakteru sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "4365",
+        "Nazwa_Produktu": "ZESTAW DO BADMINTONA I SIATKÓWKI ENERO 10W1",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Zestaw jest sprzętem do badmintona, który należy do sportów towarzyskich, konkretnie do kategorii 'Tenis i pokrewne' (id 5026) z podkategorią 'Badminton' (id 5029). Tytuł i opis wskazują na produkt do aktywności fizycznej i rekreacji, a nie na zabawkę czy artykuł plastyczny, co potwierdza obecność rakiet, siatki, lotek itp. Wskazówka systemu OLX nie pasuje, więc została zignorowana."
+    },
+    {
+        "ID_Produktu": "4382",
+        "Nazwa_Produktu": "PIŁKA SIATKOWA PLAŻOWA MIKASA VX20",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka siatkowa plażowa, która jest specyficznym akcesorium do siatkówki – sportu drużynowego. Kategoria 'Akcesoria' pod 'Siatkówka' w 'Sporty drużynowe' jest najbardziej precyzyjna i bezpośrednio odpowiada przeznaczeniu produktu, lepiej niż ogólna kategoria 'Piłki do ćwiczeń' z fitness sugerowana w podpowiedzi."
+    },
+    {
+        "ID_Produktu": "4399",
+        "Nazwa_Produktu": "PIŁKA NOŻNA TRENAŻER ENERO DLA DZIECI",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Gry dla dzieci",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to trenażer piłkarski dla dzieci, służący do treningu umiejętności w piłce nożnej. Choć OLX sugeruje kategorię 'Gry dla dzieci', produkt jest akcesorium sportowym, a nie zabawką w sensie gry planszowej. Najlepiej pasuje do kategorii Sporty drużynowe > Piłka nożna > Akcesoria, która bezpośrednio odnosi się do sprzętu treningowego dla tej dyscypliny."
+    },
+    {
+        "ID_Produktu": "4444",
+        "Nazwa_Produktu": "DART ELEKTRONICZNY ENERO 43 CM CZERWONY",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to elektroniczna gra w rzutki (dart), która jest klasyfikowana jako sport towarzyski. Kategoria 'Sport i Hobby' -> 'Sporty towarzyskie' -> 'Dart' (ID: 4967) jest kategorią-liściem i idealnie pasuje do opisu gry zręcznościowej z tarczą i lotkami. Wskazówka systemu ('Dla Dzieci > Zabawki > Pozostałe') została zignorowana, ponieważ produkt jest przeznaczony dla szerszego grona odbiorców (w tym dorosłych) i bardziej odpowiada kategorii sportowej niż zabawce."
+    },
+    {
+        "ID_Produktu": "4535",
+        "Nazwa_Produktu": "PIŁKA NOŻNA FC BARCELONA BLACK 1899 R.5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to piłka nożna, która jest akcesorium do gry w piłkę nożną. Kategoria 'Akcesoria' w 'Piłka nożna' (pod 'Sporty drużynowe') jest kategorią-liściem i najlepiej pasuje semantycznie, co potwierdza wskazówka OLX oraz szczegółowy opis produktu."
+    },
+    {
+        "ID_Produktu": "4539",
+        "Nazwa_Produktu": "GRA PIŁKARZYKI NA STÓŁ 50X31X9 CM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Piłkarzyki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Piłkarzyki",
+        "Finalne_ID_AI": 4968,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gra w piłkarzyki, która jest klasycznym sportem towarzyskim. Kategoria 'Piłkarzyki' (id 4968) pod 'Sporty towarzyskie' bezpośrednio odpowiada temu produktowi, co potwierdza również wskazówka OLX. Inne kategorie, takie jak 'Gry planszowe' lub 'Zabawki', są mniej precyzyjne, ponieważ piłkarzyki są przede wszystkim grą sportową o charakterze towarzyskim."
+    },
+    {
+        "ID_Produktu": "4545",
+        "Nazwa_Produktu": "HANTLA KOMPOZYTOWA KETTLEBELL 10 KG(4X2,5KG) EB FIT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kettlebell (hantla kettlebell) służący do ćwiczeń siłowych i fitness, co idealnie pasuje do kategorii 'Obciążenia' w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Kategoria 4339 jest liściem i bezpośrednio odpowiada obciążeniom używanym w treningu siłowym, zgodnie z tytułem i opisem produktu oraz wskazówką systemu."
+    },
+    {
+        "ID_Produktu": "4575",
+        "Nazwa_Produktu": "NUMERATOR TABLICA WYNIKÓW 54,5X29,5X20,5 CM ENERO",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to numerator/tablica wyników do użytku w rozgrywkach sportowych, takich jak koszykówka, tenis stołowy, piłka nożna itp. Najlepiej pasuje do kategorii 'Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria' (id 4988), która jest kategorią-liściem i obejmuje akcesoria sportowe. Wskazówka systemu OLX sugeruje kategorię dekoracyjną, ale produkt ma głównie zastosowanie sportowe, więc została zignorowana. Kategoria akcesoriów do koszykówki jest najbardziej szczegółowa i semantycznie dopasowana, biorąc pod uwagę opis produktu."
+    },
+    {
+        "ID_Produktu": "4595",
+        "Nazwa_Produktu": "ŚLIZG SANKI DMUCHANE 2 OSOBOWE BAŁWANEK 138X74X80 CM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Sanki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty zimowe > Sanki",
+        "Finalne_ID_AI": 1932,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sanki dmuchane do zjeżdżania z górek na śniegu, co bezpośrednio odpowiada kategorii 'Sanki' w gałęzi 'Sporty zimowe'. Wskazówka systemu OLX potwierdza tę ścieżkę, a kategoria jest liściem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "4664",
+        "Nazwa_Produktu": "HLB15A MINT HULAJNOGA DZIECIĘCA NILS FUN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga dziecięca, opisana jako sprzęt do skatingu, co idealnie pasuje do kategorii 'Hulajnogi' w dziale 'Skating'. W drzewie kategorii nie ma bardziej szczegółowej podkategorii dla hulajnóg dziecięcych, więc wybrano dostępną kategorię liść."
+    },
+    {
+        "ID_Produktu": "4713",
+        "Nazwa_Produktu": "HLB10 LED MINT HULAJNOGA DZIECIĘCA NILS FUN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga dziecięca, która zgodnie ze wskazówką OLX i analizą opisu należy do kategorii Sport i Hobby > Skating > Hulajnogi. Kategoria 'Hulajnogi' (ID 1676) jest liściem i najlepiej odzwierciedla charakter produktu jako sprzętu do jazdy rekreacyjnej, a nie zabawki czy pojazdu elektrycznego."
+    },
+    {
+        "ID_Produktu": "4731",
+        "Nazwa_Produktu": "BRAMKA DO PIŁKI NOŻNEJ ENERO Z SIATKĄ 182X122X61CM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to bramka do piłki nożnej, która jest akcesorium do tego sportu. Wskazówka systemu OLX sugeruje kategorię 'Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria', co idealnie pasuje. W drzewie kategorii, pod kategorią 'Piłka nożna' (id 4972) znajduje się podkategoria 'Akcesoria' (id 4989), która jest kategorią-liściem i semantycznie najlepiej dopasowana do opisu bramki jako sprzętu do piłki nożnej."
+    },
+    {
+        "ID_Produktu": "4791",
+        "Nazwa_Produktu": "PIŁKA DO KOSZYKÓWKI SPALDING TF-150 VARSITY R.6",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki marki Spalding, co bezpośrednio odpowiada kategorii 'Akcesoria' w 'Sporty drużynowe > Koszykówka' (ID 4988). Wskazówka systemu OLX sugeruje tę samą ścieżkę, a analiza tytułu i opisu potwierdza, że jest to akcesorium do koszykówki. Wybrano kategorię-liść, która jest najbardziej szczegółowa i semantycznie pasująca, zamiast ogólnych kategorii jak 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "4845",
+        "Nazwa_Produktu": "NC7822 TURKUSOWY PARASOL PLAŻOWY XL 220 CM NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Parasolki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Parasolki",
+        "Finalne_ID_AI": 2720,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Parasol plażowy to akcesorio ochronne przed słońcem, które najlepiej pasuje do kategorii 'Moda > Akcesoria > Parasolki' (id: 2720). Jest to kategoria-liść, zgodna z sugerowaną ścieżką OLX, a tytuł i opis produktu jasno wskazują na parasol, nie zaś na element turystyki czy ogrodu, gdzie brakuje bezpośredniej kategorii dla parasoli plażowych."
+    },
+    {
+        "ID_Produktu": "4853",
+        "Nazwa_Produktu": "HLB122 LED PINK HULAJNOGA DZIECIĘCA NILS FUN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga dziecięca, która jest sprzętem do jazdy rekreacyjnej/sportowej. W drzewie kategorii hulajnogi znajdują się w 'Sport i Hobby > Skating > Hulajnogi' (id: 1676), co idealnie pasuje do opisu i tytułu. Wskazówka systemu OLX potwierdza tę ścieżkę. Nie ma bardziej szczegółowej kategorii dla hulajnóg dziecięcych, a alternatywy jak 'Zabawki' lub 'Pojazdy elektryczne' są mniej odpowiednie, ponieważ produkt jest przede wszystkim sprzętem sportowym."
+    },
+    {
+        "ID_Produktu": "4855",
+        "Nazwa_Produktu": "HLB09 TURQUOISE HULAJNOGA DZIECIĘCA NILS FUN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga dziecięca, co wyraźnie pasuje do kategorii 'Hulajnogi' w podkategorii 'Skating' (Sport i Hobby). Tytuł i opis wskazują na sprzęt do aktywności fizycznej, a nie zabawkę, co potwierdza wskazówka systemu OLX. Kategoria jest liściem i najbardziej szczegółowa dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "4900",
+        "Nazwa_Produktu": "DD400 DRĄŻEK ROZPOROWY Z POZIOMICĄ 70-100 CM HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Drążek rozporowy to sprzęt do treningu siłowego, używany m.in. do podciągania i dipów. Wskazówka systemu OLX sugeruje ścieżkę 'Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze'. W drzewie kategorii, ID 4335 to 'Drążki i poręcze' pod 'Sprzęt siłowy' (ID 4316), który jest podkategorią 'Fitness' (ID 771) w 'Sport i Hobby' (ID 767). Jest to kategoria-liść, semantycznie dopasowana do produktu."
+    },
+    {
+        "ID_Produktu": "4901",
+        "Nazwa_Produktu": "DD401 DRĄŻEK ROZPOROWY Z POZIOMICĄ 98-130 CM HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Drążek rozporowy do ćwiczeń siłowych (podciągania, pompek) idealnie pasuje do kategorii 'Drążki i poręcze' (ID 4335) w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Wskazówka OLX potwierdza tę ścieżkę, a opis produktu jasno wskazuje na sprzęt do treningu siłowego w domu. Kategoria 4335 jest liściem i szczegółowa, nie ogólna."
+    },
+    {
+        "ID_Produktu": "4903",
+        "Nazwa_Produktu": "OBRĘCZ DO KOSZA 45CM Z PIŁKĄ I POMPKĄ BEST SPORTING",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obręcz do koszykówki z piłką i pompką, służąca do gry w koszykówkę na zewnątrz lub wewnątrz, co bezpośrednio kwalifikuje go do kategorii sportów drużynowych, a konkretnie koszykówki. Kategoria 'Akcesoria' w podkategorii 'Koszykówka' jest najbardziej szczegółową i semantycznie pasującą kategorią-liściem, obejmującą sprzęt taki jak obręcze, piłki i inne akcesoria. Wskazówka systemu o zabawkach edukacyjnych została zignorowana, ponieważ produkt jest sprzętem sportowym, a nie zabawką edukacyjną."
+    },
+    {
+        "ID_Produktu": "4942",
+        "Nazwa_Produktu": "ZDK881G KOSZ DO KOSZYKÓWKI NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz do koszykówki z piłką, przeznaczony głównie dla dzieci, co stanowi akcesorium do koszykówki. Kategoria 'Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria' jest najbardziej szczegółowa i semantycznie pasująca, zgodna ze wskazówką systemu i analizą opisu."
+    },
+    {
+        "ID_Produktu": "4945",
+        "Nazwa_Produktu": "ODKR10 OBRĘCZ DO KOSZYKÓWKI NILS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obręcz do koszykówki z siatką i śrubami, czyli akcesorium do koszykówki. Kategoria 'Akcesoria' (id: 4988) znajduje się w ścieżce 'Sport i Hobby > Sporty drużynowe > Koszykówka', co idealnie pasuje. Jest to kategoria-liść, zgodnie z wymaganiami."
+    },
+    {
+        "ID_Produktu": "4987",
+        "Nazwa_Produktu": "HLB001 TURQUOISE HULAJNOGA DZIECIĘCA NILS FUN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga dziecięca, która zgodnie z opisem jest przeznaczona dla młodych miłośników skatingu, co bezpośrednio odpowiada kategorii Hulajnogi w dziale Skating. Wskazówka OLX potwierdza tę ścieżkę, a brak bardziej szczegółowej kategorii dla hulajnóg dziecięcych czyni tę opcję najlepszą."
+    },
+    {
+        "ID_Produktu": "4989",
+        "Nazwa_Produktu": "HD025 LED VIOLET HULAJNOGA NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga rekreacyjna dla dzieci i młodzieży, co dokładnie odpowiada kategorii 'Hulajnogi' w gałęzi 'Sport i Hobby > Skating'. Wskazówka OLX potwierdza tę ścieżkę, a opis nie wskazuje na napęd elektryczny czy inne cechy, które mogłyby sugerować inną kategorię."
+    },
+    {
+        "ID_Produktu": "4992",
+        "Nazwa_Produktu": "HD026 GREY-DARK BLUE HULAJNOGA NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga rekreacyjna dla dzieci i młodzieży, co bezpośrednio odpowiada kategorii 'Hulajnogi' w dziale 'Skating' pod 'Sport i Hobby'. Wskazówka OLX potwierdza tę ścieżkę, a opis produktu (np. konstrukcja, kółka, zastosowanie) wskazuje na sprzęt sportowy, a nie zabawkę elektryczną czy rower."
+    },
+    {
+        "ID_Produktu": "5000",
+        "Nazwa_Produktu": "NC1708 NIEBIESKI PLECAK BIEGOWY TRIPPER NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Plecaki",
+        "Finalne_ID_AI": 2755,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Plecak opisany jest jako sportowy, do biegania, wycieczek i jazdy na rowerze, co wpisuje się w kategorię 'Plecaki' (ID 2755) w gałęzi 'Moda > Torby i torebki'. Sugerowana ścieżka systemu OLX jest tu trafna, a produkt nie pasuje bardziej do innych kategorii, takich jak plecaki rowerowe (w 'Rowery > Akcesoria rowerowe > Sprzęt bagażowy') czy turystyczne (w 'Turystyka'), ponieważ opis koncentruje się na zastosowaniach ogólnosportowych i codziennych, a nie specjalistycznym sprzęcie."
+    },
+    {
+        "ID_Produktu": "5098",
+        "Nazwa_Produktu": "TABLICA DO KOSZYKÓWKI ENERO BABY 40X32X8CM Z PIŁKĄ",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to tablica do koszykówki z piłką, która jest akcesorium sportowym związanym z koszykówką, choć reklamowana jako zabawka dla dzieci. Kategoria 'Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria' (id 4988) jest kategorią-liść i semantycznie pasuje jako akcesorium do tej dyscypliny. Jest bardziej szczegółowa niż ogólne kategorie w 'Zabawki' (np. 'Pozostałe' id 3093), co spełnia wymóg wybierania bardziej precyzyjnych kategorii. Wskazówka systemu sugerowała 'Dla Dzieci > Zabawki > Pozostałe', ale produkt ma wyraźny kontekst sportowy, więc kategoria sportowa jest lepszym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "5099",
+        "Nazwa_Produktu": "PIŁKA DO KOSZYKÓWKI WILSON NCAA ELEVATE VXT R.7",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki, co bezpośrednio pasuje do kategorii 'Akcesoria' w podkategorii 'Koszykówka' (ID 4971) w ramach 'Sportów drużynowych'. Kategoria jest liściem (is_leaf: true) i jest najbardziej szczegółowa w dostępnym drzewie kategorii dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "5117",
+        "Nazwa_Produktu": "HAMAK FOTEL BRAZYLIJSKI 100X50CM NATURA JUNGLE LIGHT",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Fotele",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Fotele wiszące",
+        "Finalne_ID_AI": 2887,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to hamak w formie fotela brazylijskiego, wiszący, przeznaczony do użytku w ogrodzie, na tarasie lub balkonie, co idealnie pasuje do kategorii 'Fotele wiszące' w 'Meble ogrodowe'. Wskazówka systemu ('Dom i Ogród > Meble > Fotele') została uwzględniona do zawężenia poszukiwań, ale bardziej szczegółowa i pasująca kategoria ogrodowa została wybrana ze względu na przeznaczenie produktu na zewnątrz."
+    },
+    {
+        "ID_Produktu": "5119",
+        "Nazwa_Produktu": "PIŁKA NOŻNA FC BARCELONA AWAY 20/21 R.5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Piłka nożna jako produkt mieści się w kategorii 'Sport i Hobby' > 'Sporty drużynowe' > 'Piłka nożna' > 'Akcesoria' (ID 4989), co jest zgodne z sugestią systemu OLX i opisem produktu. Kategoria ta jest liściem i semantycznie najlepiej dopasowana, ponieważ piłka to akcesorium do gry w piłkę nożną, a nie odzież czy obuwie."
+    },
+    {
+        "ID_Produktu": "5123",
+        "Nazwa_Produktu": "PIŁKA NOŻNA FC BARCELONA ROBERT LEWANDOWSKI R.5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka nożna z licencją FC Barcelona i podpisem Roberta Lewandowskiego, co klasyfikuje ją jako akcesorium do piłki nożnej. Wskazówka systemu OLX prowadzi do gałęzi 'Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria', gdzie kategoria 'Akcesoria' (id: 4989) jest kategorią-liściem i bezpośrednio odpowiada piłce jako akcesorium sportowemu. Inne kategorie w tej gałęzi, takie jak 'Odzież piłkarska' (id: 4979) czy 'Obuwie piłkarskie' (id: 4984), nie pasują, ponieważ produkt jest piłką, a nie odzieżą lub obuwiem."
+    },
+    {
+        "ID_Produktu": "5127",
+        "Nazwa_Produktu": "GARDEROBA TEKSTYLNA 127x45x172 cm CIEMNOSZARA",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Szafy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Szafy",
+        "Finalne_ID_AI": 1945,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to garderoba tekstylna, czyli przenośna szafa do przechowywania odzieży, co semantycznie pasuje do kategorii 'Szafy' w dziale 'Meble'. Wskazówka systemu potwierdza tę ścieżkę, a w drzewie kategorii nie ma bardziej szczegółowej, pasującej kategorii dla szaf tekstylnych."
+    },
+    {
+        "ID_Produktu": "5133",
+        "Nazwa_Produktu": "ZESTAW DO BADMINTONA KRÓTKI 46CM ENERO",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do badmintona, co bezpośrednio odpowiada kategorii Badminton w ścieżce Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne. Wskazówka systemu (Zabawki plastyczne) jest nieadekwatna, ponieważ produkt to sprzęt sportowy, nie zabawka."
+    },
+    {
+        "ID_Produktu": "5134",
+        "Nazwa_Produktu": "SIATKA SPORTOWA DO SIATKÓWKI BADMINTONA 609x220CM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Torby i plecaki treningowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Produkt to siatka sportowa z zestawem słupków, przeznaczona do siatkówki i badmintona. W drzewie kategorii OLX, 'Akcesoria' pod 'Siatkówka' jest kategorią-liść, która obejmuje akcesoria do siatkówki, w tym siatki. Tytuł i opis wskazują na główne zastosowanie w siatkówce, a kategoria jest specyficzna i pasuje semantycznie. Wskazówka systemu została zignorowana, ponieważ nie pasowała do produktu."
+    },
+    {
+        "ID_Produktu": "5137",
+        "Nazwa_Produktu": "PIŁKA NOŻNA WILSON PENTAGON R.5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to piłka nożna, która jest sprzętem sportowym związanym z piłką nożną. W drzewie kategorii OLX, w gałęzi 'Sport i Hobby > Sporty drużynowe > Piłka nożna', podkategoria 'Akcesoria' (id: 4989) jest kategorią-liściem i obejmuje akcesoria piłkarskie, do których w tym kontekście zalicza się piłki. Wskazówka systemu również sugeruje tę ścieżkę, co potwierdza wybór. Inne podkategorie pod 'Piłka nożna' (odzież, obuwie) nie pasują, a 'Pozostałe' jest mniej precyzyjne."
+    },
+    {
+        "ID_Produktu": "5147",
+        "Nazwa_Produktu": "POMPKA DO PIŁEK ENERO 12 CALI 30CM I WĘŻYK",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Pompka do piłek to akcesorium sportowe używane w sportach drużynowych, takich jak piłka nożna, co jest wyraźnie wspomniane w opisie. Kategoria 'Akcesoria' w 'Piłka nożna' jest najbardziej szczegółowa i pasująca, ignorując błędną wskazówkę o zabawkach plastycznych."
+    },
+    {
+        "ID_Produktu": "5199",
+        "Nazwa_Produktu": "Krzesełko dziecięce do lat 3 FIORE turkus",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalne_ID_AI": 4721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to krzesełko dziecięce, które jest meblem dla dzieci. Kategoria 'Krzesła' (id: 4721) pod 'Meble dla dzieci' (id: 4716) jest najbardziej szczegółową i pasującą kategorią liściem, zgodną z opisem produktu i wskazówką systemu OLX."
+    },
+    {
+        "ID_Produktu": "5214",
+        "Nazwa_Produktu": "Stolik plastikowy dla dzieci od 3 do 6 lat",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble dla dzieci > Stoliki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Stoliki",
+        "Finalne_ID_AI": 4730,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stolik plastikowy przeznaczony dla dzieci w wieku 3-6 lat, co idealnie pasuje do kategorii 'Meble dla dzieci > Stoliki'. Sugerowana ścieżka systemu OLX jest spójna z drzewem kategorii i opisem produktu, a kategoria 4730 jest liściem specyficznym dla stolików dziecięcych."
+    },
+    {
+        "ID_Produktu": "5240",
+        "Nazwa_Produktu": "Stolik dla dzieci z motywem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble dla dzieci > Stoliki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Stoliki",
+        "Finalne_ID_AI": 4730,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stolik dla dzieci, co idealnie pasuje do kategorii liścia 'Stoliki' w 'Meble dla dzieci'. Wskazówka OLX potwierdza tę ścieżkę, a opis produktu skupia się na zastosowaniu dla maluchów."
     }
 ]

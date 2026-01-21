@@ -2427,5 +2427,399 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "3977",
+        "Nazwa_Produktu": "NH18331 RÓŻOWY 4w1 ROZM. S (31-34) ŁYŻWOROLKI Z WYM. PŁOZĄ HOKEJOWĄ NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Łyżwy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Rolki",
+        "Finalne_ID_AI": 1677,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjne łyżworolki, które można przekształcić w łyżwy, wrotki lub rolko-wrotki, ale podstawowe przeznaczenie i kluczowe słowa w tytule/opisie (łyżworolki, rolko-wrotki) wskazują na kategorię związaną z rolkami w ramach skatingu. Kategoria 'Rolki' jest liściem w 'Sport i Hobby > Skating' i semantycznie najlepiej pasuje, mimo wskazówki systemu sugerującej łyżwy, która odnosi się tylko do jednej z opcji konfiguracji.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nh18331 różowy 4w1 rozm. s (31-34) łyżworolki z wym. płozą hokejową nils extreme",
+                "description": "NH18331 Set Nils Extreme to łyżworolki przeznaczone dla pasjonatów jazdy. Produkt oferuje 4 możliwości konfiguracji. Są to: łyżwy, łyżworolki, wrotki oraz rolko-wrotki. Dlaczego warto zdecydować się na wybór modelu NH18331 Nils Extreme ? Ponieważ pozwala on w pełni korzystać z zalet, jakie niesie z sobą gra w hokeja oraz jazda na łyżworolkach. Łyżworolki NH18331 to czysta radość z jazdy. Dzięki możliwości przełożenia dodatkowego kółka na tylną oś, łyżworolka funkcjonalnie zmienia się na rolko wrotkę. To rozwiązanie pomoże najmłodszym rolkarzom stawiać swoje pierwsze kroki w tym sporcie. Z kolei zamontowanie dodatkowego kółka na przednią oś sprawia, że produkt zmienia się w wrotkę. Łyżworolka wyposażona jest w specjalną plastikową płozę oraz hamulec co zapewnia bezpieczeństwo podczas jazdy. Z kolei kółka oraz łożyska klasy ABEC7 pozwalają na mniejsze opory toczenia, czyli szybszą jazdę. Łyżwy NH18331 Nils Extreme charakteryzują bardzo dobre właściwości jezdne. Jest to zasługą płóz wykonanych z wysokogatunkowej stali nierdzewnej oraz wielouchwytowego systemu zapięć pewnie trzymającego stopy. Wszystko to sprawia, że model ten sprawdza się dobrze w każdych warunkach, dostarczając niepowtarzalnych wrażeń z treningu. To wygodne łyżwy hokejowe, zaprojektowane z myślą o początkujących i średniozaawansowanych użytkownikach. Ich wysoka jakość gwarantuje trwałość i odporność na uszkodzenia mechaniczne. Model NH18331 Nils Extreme został również wyposażony w czterostopniową regulację rozmiaru buta, pozwalającą dostosować go do potrzeb użytkownika. Jest to sposób na oszczędność czasu oraz pieniędzy. Takie rozwiązanie pozwala bowiem na przedłużenie ich żywotności, daje też możliwość korzystania z nich więcej niż jednej osobie. Specyfikacja: But: twardy Skorupa: PP Wkładka: oddychająca membrana, materiał VELVET+EVA, siatka MESH Długość wewnętrzna buta (mm): 160-190 Zapięcie: dwie klamry dwusekcyjne Płoza łyżwy: stal nierdzewna Płoza łyżworolki: plastik (PE) Kółka: PU 64mm/82A (S) Łożyska: ABEC 7 Przycisk do regulacji rozmiaru Uwagi: Nie przeznaczona do użytku komercyjnego Zgodne z normą PN-EN 13843:2009 Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 1676,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 187.1,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/img_1(63).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/img_13(22).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/img_3(54).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/img_2(59).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/img_4(52).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/img_5(47).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/img_7(42).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/img_8(32).jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "4054",
+        "Nazwa_Produktu": "ZESTAW ŁUCZNICZY ENERO TOYS DLA DZIECI 78CM 4 STRZAŁY KOŁCZAN I CELOWNIK LASEROWY",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalne_ID_AI": 3093,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw łuczniczy dla dzieci, czyli zabawka. W kategorii 'Zabawki' pod 'Dla Dzieci' nie ma dedykowanej podkategorii dla zabawek sportowych czy łuczniczych, więc 'Pozostałe' jest najlepszym dopasowaniem jako kategoria-liść. Wskazówka systemu OLX również sugeruje tę ścieżkę, co potwierdza wybór.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zestaw łuczniczy enero toys dla dzieci 78cm 4 strzały kołczan i celownik laserowy",
+                "description": "Twoje dziecko uwielbia wszelkiego rodzaju zabawy, interesuje się sportem i jego różnymi dyscyplinami? Jeżeli nie próbował jeszcze strzelać z łuku to ten zestaw pomoże mu polubić również tą dyscyplinę sportową! idealny zestaw dla młodego łucznika posiada bezpieczne strzały zakończone gumowymi przyssawkami wyposażony w niezawodny celownik z czerwoną diodą laserową cięciwa do wystrzału to wygodna i bezpieczna guma pojemny kołczan zapewni stały dostęp do strzał dobre materiały i dbałość o szczegóły zadbają o dobrą i bezpieczną zabawę posiada certyfikat CE idealny na prezent Strzelanie oprócz zabawy rozwija większość grup mięśniowych w górnej części ciała, a koncentracja towarzysząca podczas próby wykonania celnego strzału pomaga lepiej skoncentrować się w innych dziedzinach życia. Oprócz tego praca nad koordynacją ręka-oko prowadzi do lepszej sprawności w rękach i poprawia pracę centralnego układu nerwowego. WSPANIAŁA ZABAWA Strzelanie z łuku jest bardzo atrakcyjną formą aktywnego spędzania wolnego czasu po wyczerpującej nauce. ZESTAW ŁUCZNICZY ENERO TOYS DLA DZIECI ŁUK 78CM 4 STRZAŁY, KOŁCZAN I CELWONIK LASEROWY zapewni interesującą zabawę Twojemu dziecku, jego kolegom, a może nawet i Tobie. MOCNE I TRWAŁE MATERIAŁY Zestaw wykonany z bardzo dobrej jakości materiałów pozwoli bezpiecznie bawić się Twojemu dziecku w Robin Hooda, rozgrywać turnieje, czy po prostu trenować celność. NIEZAWODNY CELOWNIK Łuk wyposażony został w laserowy celownik ułatwiający celowanie, co dodatkowo zachęci dziecko do zabawy. Celownik posiada włącznik ON/OFF, który można w każdej chwili włączyć i wyłączyć (w zestawie nie ma baterii) oraz specjalne mocujące pokrętło, dzięki któremu można złożyć celownik pionowo. KOŁCZAN Prawdziwy łucznik ma strzały zawsze przy sobie, by szybko strzelić do celu. Dołączony do zestawu kołczan pozwoli mieć wszyskie 4 strzały zawsze przy sobie. BEZPIECZEŃSTWO Każda strzała zakończona jest miękką przyssawką, dzięki czemu jest bezpieczna podczas zabawy. Zestaw posiada certyfikat CE i jest bezpieczny dla dzieci powyżej 3 roku życia. Parametry: W zestawie: łuk (1 szt.), celownik laserowy (1 szt.), strzały z bezpiecznymi przyssawkami (4 szt.), kołczan z regulowanym paskiem (do noszenia np.: na pasie) Materiał PVC, guma Wymiary łuku ok.: 4,5 x 25 x 78 cm (szer. x gł. x wys.) Wymiar kołaczanu: 17 x 4,5 x 40 cm (szer. x gł. x wys.) Średnica przyssawki: 4 cm Długość strzały: 55 cm o śr. 7 mm Strzały zabezpieczone gumowymi przyssawkami Łatwy montaż Certyfikat CE: tak Przeznaczenie: dla dzieci powyżej 3 lat Waga netto: 0,800 kg Waga brutto: 0,838 kg Wymiary opakowania (kolor box): 21,5 x 7,5 x 75 cm (szer. x gł. x wys.) Zasilanie lasera: 3 baterie AG10 (brak w zestawie)\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: VICTORIA-SPORT\nAdres: Wybickiego 9, 83-050, Bąkowo, PL\nEmail: biuro(at)galeriasportowa.pl\nTelefon: 585733833\n----------------------------------------",
+                "category_id": 3093,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 99.2,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_luczniczy_enero_dla_dzieci_luk_78cm_4_strzaly_i_kolczan.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_luczniczy_enero_dla_dzieci_luk_78cm_4_strzaly_i_kolczan_3.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_luczniczy_enero_dla_dzieci_luk_78cm_4_strzaly_i_kolczan_1.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_luczniczy_enero_dla_dzieci_luk_78cm_4_strzaly_i_kolczan_2.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_luczniczy_enero_dla_dzieci_luk_78cm_4_strzaly_i_kolczan_5.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/zestaw_luczniczy_enero_dla_dzieci_luk_78cm_4_strzaly_i_kolczan_4.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "4203",
+        "Nazwa_Produktu": "NC3173 SZARO-TURKUSOWY NAMIOT PLAŻOWY SAMOROZKŁADAJĄCY PODŁOGA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to namiot plażowy, co idealnie pasuje do kategorii 'Namioty' (id: 3978) w ścieżce 'Sport i Hobby > Turystyka > Namioty i akcesoria'. Jest to kategoria-liść i najdokładniejsza dopasowana do opisu namiotu. Wskazówka systemu OLX potwierdza tę ścieżkę.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nc3173 szaro-turkusowy namiot plażowy samorozkładający podłoga nils camp",
+                "description": "Plażowanie, to jedna z ulubionych form letniego wypoczynku. Dobrze mieć ze sobą coś, co pozwoli odpocząć chwile od promieni słonecznych, zapewni cień, a jednocześnie osłoni od wiatru. Najlepszym rozwiązaniem, będzie namiot plażowy. Taki, który łatwo się rozkłada, jest wytrzymały i funkcjonalny. Takie właśnie są, oryginalne namioty marki NILS CAMP . Przedstawiamy model NC3173 . To samorozkładający się namiot plażowy. Jego wymiary, gwarantują wygodę i komfort użytkowania. Główną zaletą, modelu NC3173 jest to, że sam się rozkłada. Wystarczy wyjąć go z pokrowca i położyć na ziemi. W przeciągu paru sekund namiot jest gotowy. Co za tym idzie w ekspresowym tempie, możemy oddać się błogiemu odpoczynkowi. Dzięki dołączonym do zestawu śledziom, produkt nie będzie się przemieszczał, nie zajdzie także ryzyko porwania przez wiatr. NC3173 , został wykonany z materiałów najwyższej jakości. Materiał na podłodze jest wodoodporny, zatem wilgotny piasek nie będzie problemem. Namiot posiada również powłokę, chroniącą przed promieniami UV. Model NC3173 jest przestronny, jednak po złożeniu zajmuje bardzo mało miejsca. Mieści się do wygodnej torby, dołączonej do zestawu, która zabezpiecza produkt i ułatwia jego transport. Plażowanie, to jednak głównie opalanie, dlatego idealnym uzupełnieniem, tego wyjątkowego namiotu, będzie koc piknikowy. Marka NILS CAMP, posiada szeroki wybór koców, o najlepszych parametrach i ciekawym wzornictwie. Taki komplet, zagwarantuje cudownie spędzony czas na plaży. Specyfikacja: Materiał: 170T poliester z powłoką anty UV 30spf Wymiary: Długość: 140 cm Szerokość: 110 cm Wysokość: 110 cm Wymiary po złożeniu: Średnica: 77 cm Wysokość: 3 cm Stelaż: Włókno szklane śr. 5 mm Podłoga: PE, wodoodporność 1000 mm Uwagi: Nie przeznaczony do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 3978,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 86.64,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img(69).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_4(73).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_2(71).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_3(71).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_1(72).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_7(67).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_9(43).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_8(63).jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "4204",
+        "Nazwa_Produktu": "NC3173 NIEBIESKO-SZARY NAMIOT PLAŻOWY SAMOROZKŁADAJĄCY PODŁOGA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to samorozkładający się namiot plażowy, używany głównie do turystyki i wypoczynku na plaży. Kategoria 'Namioty' w gałęzi 'Turystyka' jest najbardziej odpowiednia, ponieważ obejmuje namioty przenośne, a wskazówka systemu OLX potwierdza tę ścieżkę. Brak bardziej szczegółowej kategorii dla namiotów plażowych w drzewie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nc3173 niebiesko-szary namiot plażowy samorozkładający podłoga nils camp",
+                "description": "Plażowanie, to jedna z ulubionych form letniego wypoczynku. Dobrze mieć ze sobą coś, co pozwoli odpocząć chwile od promieni słonecznych, zapewni cień, a jednocześnie osłoni od wiatru. Najlepszym rozwiązaniem, będzie namiot plażowy. Taki, który łatwo się rozkłada, jest wytrzymały i funkcjonalny. Takie właśnie są, oryginalne namioty marki NILS CAMP . Przedstawiamy model NC3173 . To samorozkładający się namiot plażowy. Jego wymiary, gwarantują wygodę i komfort użytkowania. Główną zaletą, modelu NC3173 jest to, że sam się rozkłada. Wystarczy wyjąć go z pokrowca i położyć na ziemi. W przeciągu paru sekund namiot jest gotowy. Co za tym idzie w ekspresowym tempie, możemy oddać się błogiemu odpoczynkowi. Dzięki dołączonym do zestawu śledziom, produkt nie będzie się przemieszczał, nie zajdzie także ryzyko porwania przez wiatr. NC3173 , został wykonany z materiałów najwyższej jakości. Materiał na podłodze jest wodoodporny, zatem wilgotny piasek nie będzie problemem. Namiot posiada również powłokę, chroniącą przed promieniami UV. Model NC3173 jest przestronny, jednak po złożeniu zajmuje bardzo mało miejsca. Mieści się do wygodnej torby, dołączonej do zestawu, która zabezpiecza produkt i ułatwia jego transport. Plażowanie, to jednak głównie opalanie, dlatego idealnym uzupełnieniem, tego wyjątkowego namiotu, będzie koc piknikowy. Marka NILS CAMP, posiada szeroki wybór koców, o najlepszych parametrach i ciekawym wzornictwie. Taki komplet, zagwarantuje cudownie spędzony czas na plaży. Specyfikacja: Materiał: 170T poliester z powłoką anty UV 30spf Wymiary: Długość: 140 cm Szerokość: 110 cm Wysokość: 110 cm Wymiary po złożeniu: Średnica: 77 cm Wysokość: 3 cm Stelaż: Włókno szklane śr. 5 mm Podłoga: PE, wodoodporność 1000 mm Uwagi: Nie przeznaczony do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 3978,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 86.64,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img(70).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_4(74).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_3(72).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_2(72).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_1(73).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_5(71).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_6(71).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_8(64).jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "4205",
+        "Nazwa_Produktu": "NC3174 TURKUSOWO-SZARY NAMIOT PLAŻOWY SAMOROZKŁADAJĄCY PODŁOGA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to namiot plażowy, co bezpośrednio pasuje do kategorii 'Namioty' w gałęzi 'Turystyka'. Opis skupia się na cechach namiotu do użytku turystycznego, a kategoria jest liściem i najbardziej szczegółowa w tej ścieżce.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nc3174 turkusowo-szary namiot plażowy samorozkładający podłoga nils camp",
+                "description": "Plażowanie, to jedna z ulubionych form letniego wypoczynku. Dobrze mieć ze sobą coś, co pozwoli odpocząć chwile od promieni słonecznych, zapewni cień, a jednocześnie osłoni od wiatru. Najlepszym rozwiązaniem, będzie namiot plażowy. Taki, który łatwo się rozkłada, jest wytrzymały i funkcjonalny. Takie właśnie są, oryginalne namioty marki NILS CAMP . Przedstawiamy model NC3174. To bardzo duży, namiot plażowy, jego szerokość aż 220 cm gwarantuje, że bez problemu zmieści się w nim cała rodzina. Pomimo tego, że NC3174 jest bardzo duży, jego rozbicie jest proste i zajmuje parę minut. Co za tym idzie, w ekspresowym tempie, możemy oddać się błogiemu odpoczynkowi. Dzięki dołączonym do zestawu śledziom, produkt nie będzie się przemieszczał, nie zajdzie także ryzyko porwania przez wiatr. Dodatkowo, namiot posiada specjalne kieszenie, które można napełnić piaskiem. One również mają za zadanie, zapobiegać niepożądanemu przemieszczaniu się namiotu. NC3174 , został wykonany z materiałów najwyższej jakości. Materiał na podłodze jest wodoodporny, zatem wilgotny piasek nie będzie problemem. Nie straszny nam również deszcz. W namiocie, została zastosowana technologia, zapobiegająca nagrzewaniu się. Jest to bardzo istotne, zwłaszcza w upalne dni, kiedy schowanie się w namiocie ma przynieść ulgę od wysokiej temperatury. Namiot posiada również powłokę, chroniącą przed promieniami UV. Model NC3174 , jest przestronny, jednak po złożeniu zajmuje bardzo mało miejsca. Mieści się do wygodnej torby, dołączonej do zestawu, która zabezpiecza produkt i ułatwia jego transport. Plażowanie, to jednak głównie opalanie, dlatego idealnym uzupełnieniem, tego wyjątkowego namiotu, będzie koc piknikowy. Marka NILS CAMP , posiada szeroki wybór koców, o najlepszych parametrach i ciekawym wzornictwie. Taki komplet, zagwarantuje cudownie spędzony czas na plaży. Specyfikacja: Materiał: 190T poliester, ze srebrną powłoką anty UV 30spf Materiał stelaża: włókno szklane, O 6 mm Materiał podłogi: 100% PE, wodoodporność 450 mm Wymiary: Długość: 120 cm Szerokość: 220 cm Wysokość: 100 cm Wymiary po złożeniu: Średnica: 80 m Wysokość: 2 cm\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 3978,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 99.2,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img(71).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_18(6).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_1(74).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_17(9).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_2(73).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_5(72).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_8(65).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/4001-5000/img_15(12).jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
