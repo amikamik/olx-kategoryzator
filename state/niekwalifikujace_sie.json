@@ -3238,5 +3238,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to stół do gry w piłkarzyki, co bezpośrednio odpowiada kategorii 'Piłkarzyki' w 'Sport i Hobby > Sporty towarzyskie'. Kategoria jest liściem i najlepiej pasuje semantycznie do tytułu i opisu, potwierdza to również wskazówka systemu OLX."
+    },
+    {
+        "ID_Produktu": "5938",
+        "Nazwa_Produktu": "Krzesełko dziecięce do lat 3 FIORE zielone",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalne_ID_AI": 4721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to krzesło dziecięce, które idealnie pasuje do kategorii 'Krzesła' w 'Meble dla dzieci', zgodnie ze wskazówką OLX i strukturą drzewa kategorii, gdzie jest to kategoria-liść specyficzna dla tego typu mebli."
+    },
+    {
+        "ID_Produktu": "5958",
+        "Nazwa_Produktu": "Box na biżuterię Diamond",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Akcesoria",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Akcesoria",
+        "Finalne_ID_AI": 2833,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to organizer na biżuterię, który służy do przechowywania i organizacji biżuterii, co bezpośrednio kwalifikuje go jako akcesorium do biżuterii. Kategoria 'Biżuteria > Akcesoria' jest najbardziej semantycznie dopasowana, zgodnie ze wskazówką systemu i analizą opisu produktu."
+    },
+    {
+        "ID_Produktu": "5967",
+        "Nazwa_Produktu": "Taborecik prostokątny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalne_ID_AI": 1947,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to taboret dla dzieci, wykonany z tworzywa sztucznego, służący jako podwyższenie lub siedzisko. Kategoria 'Taborety i hokery' bezpośrednio odpowiada typowi mebla, a wskazówka systemu potwierdza tę ścieżkę. Chociaż produkt jest przeznaczony dla dzieci, nie ma bardziej szczegółowej kategorii liścia w 'Meble dla dzieci' specyficznie dla taboretów, więc ogólna kategoria taboretów jest najbardziej odpowiednia."
     }
 ]
