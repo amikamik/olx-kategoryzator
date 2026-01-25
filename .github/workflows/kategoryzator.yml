@@ -1,8 +1,19 @@
-name: 🏷️ Kategoryzacja i Publikacja OLX
+﻿name: 🏷️ Kategoryzacja i Publikacja OLX (Gemini)
 
 on:
   workflow_dispatch:
     inputs:
+      gemini_model:
+        description: 'Model Gemini do kategoryzacji'
+        required: true
+        default: 'gemini-2.5-pro'
+        type: choice
+        options:
+          - gemini-2.5-pro
+          - gemini-2.5-flash
+          - gemini-2.5-flash-lite
+          - gemini-3-pro-preview
+          - gemini-3-flash-preview
       sample_size:
         description: 'Liczba produktów do przetworzenia (0 = wszystkie)'
         required: false
@@ -19,15 +30,15 @@ permissions:
 
 jobs:
   kategoryzuj:
-    name: Kategoryzacja i publikacja
+    name: Kategoryzacja i publikacja (Gemini)
     runs-on: ubuntu-latest
-    timeout-minutes: 180  # 3h max
-    
+    timeout-minutes: 180
+
     steps:
-      - name: 📥 Pobierz kod z repozytorium
+      - name: 📡 Pobierz kod z repozytorium
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Potrzebne do commitowania zmian
+          fetch-depth: 0
 
       - name: 🐍 Konfiguracja Python 3.12
         uses: actions/setup-python@v5
@@ -57,7 +68,7 @@ jobs:
             echo "::add-mask::$NEW_TOKEN"
             echo "REFRESHED_OLX_TOKEN=$NEW_TOKEN" >> $GITHUB_ENV
           else
-            echo "❌ Błąd odświeżania - używam tokena z secrets"
+            echo "⚠️ Błąd odświeżania - używam tokena z secrets"
             echo "REFRESHED_OLX_TOKEN=${{ secrets.OLX_ACCESS_TOKEN }}" >> $GITHUB_ENV
           fi
         env:
@@ -65,99 +76,98 @@ jobs:
           OLX_CLIENT_SECRET: "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
           OLX_REFRESH_TOKEN: "${{ secrets.OLX_REFRESH_TOKEN }}"
 
-      - name: ⚙️ Przygotuj konfigurację z secretów
+      - name: ⚙️ Przygotuj konfigurację (GEMINI)
         run: |
           cat > config/config.py << EOF
           import os
-          
-          # --- Konfiguracja globalna ---
-          ACTIVE_LLM_PROVIDER = "DEEPSEEK"
-          
+
+          # --- GEMINI JAKO GŁÓWNY PROVIDER ---
+          ACTIVE_LLM_PROVIDER = "GEMINI"
+
           # --- Konfiguracja Gemini ---
-          GEMINI_API_KEY = "AIzaSyA3eSK_cwRKCEzys_4EY4OrIvpdda5eIc0"
-          GEMINI_MODEL_NAME = "gemini-2.5-flash"
-          GEMINI_TEMPERATURE = 0.0
-          
-          # --- Konfiguracja OpenAI ---
+          GEMINI_API_KEY = "${{ secrets.GEMINI_API_KEY }}"
+          GEMINI_MODEL_NAME = "${{ inputs.gemini_model }}"
+          GEMINI_TEMPERATURE = 1.0
+
+          # --- Konfiguracja OpenAI (do zadań pomocniczych) ---
           OPENAI_API_KEY = "${{ secrets.OPENAI_API_KEY }}"
           OPENAI_MODEL_NAME = "gpt-5-nano"
           OPENAI_TEMPERATURE = 1.0
-          
-          # --- Konfiguracja DeepSeek ---
+
+          # --- Konfiguracja DeepSeek (backup) ---
           DEEPSEEK_API_KEY = "${{ secrets.DEEPSEEK_API_KEY }}"
-          DEEPSEEK_MODEL_NAME = "deepseek-reasoner"
-          DEEPSEEK_TEMPERATURE = 1.0
-          
+
           # Modele dla różnych zadań:
-          CATEGORIZATION_MODEL = "deepseek-reasoner"  # Model używany TYLKO do kategoryzacji produktów
-          OTHER_TASKS_MODEL = "gpt-5-nano"            # Model używany do rozmiaru paczek, atrybutów, itp.
-          
+          CATEGORIZATION_MODEL = "${{ inputs.gemini_model }}"  # Model używany do kategoryzacji produktów
+          OTHER_TASKS_MODEL = "gpt-5-nano"  # Model używany do rozmiaru paczek, atrybutów, itp.
+
           # --- Konfiguracja OLX ---
           CLIENT_ID = "202557"
           CLIENT_SECRET = "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
           ACCESS_TOKEN = "${{ env.REFRESHED_OLX_TOKEN }}"
           REFRESH_TOKEN = "8bf78bbca8df822b188fdde14df9a468fb28be23"
-          
+
           # Dane kontaktowe
           OLX_AD_CONTACT = {
               "name": "Amadeusz",
               "phone": "530790357"
           }
-          
+
           OLX_AD_LOCATION = {
               "city_id": 20327,
               "district_id": None
           }
-          
+
           # --- Konfiguracja cenowa ---
           MARGIN_PERCENT = 0.30
           COMMISSION_PERCENT = 0.12
           MINIMUM_PROFIT_PLN = 15.0
           CENA_MIN = 1.0
           CENA_MAX = 150.0
-          
+
           # --- Parametry kategoryzacji ---
           MINIMALNA_PEWNOSC = 80
-          
+
           # Cache dla drzewa kategorii (wypełniane dynamicznie)
           CATEGORY_TREE_JSON_STR = ""
+
+          # GPSR
+          GPSR_ENABLED = True
           EOF
         env:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: 🏷️ Uruchom kategoryzator
+      - name: 🏷️ Uruchom kategoryzator (Gemini)
         run: |
           echo "=================================="
-          echo "KATEGORYZACJA I PUBLIKACJA OLX"
+          echo "KATEGORYZACJA OLX - GEMINI"
+          echo "Model: ${{ inputs.gemini_model }}"
           echo "Sample size: ${{ inputs.sample_size }}"
           echo "=================================="
           echo ""
-          
-          # Utworzenie folderów jeśli nie istnieją
+
           mkdir -p output
           mkdir -p state
-          
-          # Modyfikacja SAMPLE_SIZE w skrypcie
+
           sed -i "s/SAMPLE_SIZE = .*/SAMPLE_SIZE = ${{ inputs.sample_size }}/" 08_kategoryzator_ekspert.py
-          
+
           python 08_kategoryzator_ekspert.py
         env:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          MAX_RUNTIME_MINUTES: "150"  # 2.5h
+          MAX_RUNTIME_MINUTES: "150"
 
-      - name: 💾 Zapisz zaktualizowane pliki state i raport
+      - name: 💽 Zapisz zaktualizowane pliki state i raport
         if: always()
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add state/*.json
           git add output/raport_kategoryzacji.csv
-          
-          # Commit tylko jeśli są zmiany
+
           if ! git diff --staged --quiet; then
-            git commit -m "AUTO: Aktualizacja state i raport - $(date '+%Y-%m-%d %H:%M:%S')"
+            git commit -m "AUTO: Aktualizacja state i raport - Gemini ${{ inputs.gemini_model }} - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
             echo "✅ Zaktualizowano pliki state i raport"
           else
@@ -172,13 +182,13 @@ jobs:
             echo "🔄 Wykryto potrzebę restartu - pozostało ~$REMAINING produktów"
             echo "🔄 Uruchamiam workflow ponownie za 30 sekund..."
             sleep 30
-            
+
             curl -X POST \
               -H "Authorization: Bearer ${{ secrets.GH_PAT }}" \
               -H "Accept: application/vnd.github.v3+json" \
               https://api.github.com/repos/${{ github.repository }}/actions/workflows/kategoryzator.yml/dispatches \
-              -d "{\"ref\":\"${{ github.ref_name }}\",\"inputs\":{\"sample_size\":\"${{ inputs.sample_size }}\",\"reset_state\":\"false\"}}"
-            
+              -d "{\"ref\":\"${{ github.ref_name }}\",\"inputs\":{\"gemini_model\":\"${{ inputs.gemini_model }}\",\"sample_size\":\"${{ inputs.sample_size }}\",\"reset_state\":\"false\"}}"
+
             echo "✅ Workflow został ponownie uruchomiony"
           else
             echo "✅ Wszystkie produkty przetworzone - brak potrzeby restartu"
@@ -188,7 +198,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: raport-kategoryzacji
+          name: raport-kategoryzacji-gemini
           path: output/raport_kategoryzacji.csv
           if-no-files-found: ignore
 
@@ -196,7 +206,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: state-files
+          name: state-files-gemini
           path: state/*.json
           if-no-files-found: ignore
 
@@ -206,15 +216,16 @@ jobs:
           echo ""
           echo "=================================="
           echo "✅ Workflow zakończony"
+          echo "🤖 Model: ${{ inputs.gemini_model }}"
           echo "📅 Czas zakończenia: $(date)"
           echo "=================================="
-          
+
           if [ -f "output/raport_kategoryzacji.csv" ]; then
             echo ""
             echo "📊 Statystyki:"
             wc -l output/raport_kategoryzacji.csv
           fi
-          
+
           if [ -f "state/opublikowane.json" ]; then
             echo ""
             echo "✅ Opublikowane produkty:"
