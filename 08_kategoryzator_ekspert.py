@@ -184,18 +184,34 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
             "generationConfig": generation_config
         }
         
-        try:
-            response = requests.post(url, headers=headers, json=payload, timeout=120)
-            response.raise_for_status()
-            # Obsługa potencjalnie pustej odpowiedzi
-            candidates = response.json().get('candidates', [])
-            if not candidates or 'content' not in candidates[0] or 'parts' not in candidates[0]['content']:
-                print("Błąd odpowiedzi Gemini: Brak zawartości w odpowiedzi.")
+        # Retry logic dla błędów 503 (Service Unavailable) i 429 (Rate Limit)
+        max_retries = 3
+        retry_delay = 2  # sekundy
+        
+        for attempt in range(max_retries):
+            try:
+                response = requests.post(url, headers=headers, json=payload, timeout=120)
+                response.raise_for_status()
+                # Obsługa potencjalnie pustej odpowiedzi
+                candidates = response.json().get('candidates', [])
+                if not candidates or 'content' not in candidates[0] or 'parts' not in candidates[0]['content']:
+                    print("Błąd odpowiedzi Gemini: Brak zawartości w odpowiedzi.")
+                    return None
+                return candidates[0]['content']['parts'][0]['text']
+            except requests.exceptions.HTTPError as e:
+                if e.response.status_code in [503, 429]:  # Service Unavailable lub Rate Limit
+                    if attempt < max_retries - 1:
+                        wait_time = retry_delay * (attempt + 1)  # Exponential backoff
+                        print(f"⚠️ Błąd {e.response.status_code} - ponawiam za {wait_time}s (próba {attempt + 2}/{max_retries})...")
+                        time.sleep(wait_time)
+                        continue
+                print(f"Błąd wywołania Gemini API: {e}")
                 return None
-            return candidates[0]['content']['parts'][0]['text']
-        except requests.exceptions.RequestException as e:
-            print(f"Błąd wywołania Gemini API: {e}")
-            return None
+            except requests.exceptions.RequestException as e:
+                print(f"Błąd wywołania Gemini API: {e}")
+                return None
+        
+        return None  # Wszystkie próby nieudane
 
     elif provider == "OPENAI":
         if not OPENAI_CLIENT:
