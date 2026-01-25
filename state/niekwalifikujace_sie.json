@@ -3268,5 +3268,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to taboret dla dzieci, wykonany z tworzywa sztucznego, służący jako podwyższenie lub siedzisko. Kategoria 'Taborety i hokery' bezpośrednio odpowiada typowi mebla, a wskazówka systemu potwierdza tę ścieżkę. Chociaż produkt jest przeznaczony dla dzieci, nie ma bardziej szczegółowej kategorii liścia w 'Meble dla dzieci' specyficznie dla taboretów, więc ogólna kategoria taboretów jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "6394",
+        "Nazwa_Produktu": "NC3404 SKŁADANA ŁAWKA OGRODOWA 183 CM ANTRACYT NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Meble ogrodowe > Zestawy mebli",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Ławy i ławki",
+        "Finalne_ID_AI": 2891,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to składana ławka ogrodowa. Kategoria 'Ławy i ławki' w ścieżce 'Dom i Ogród > Ogród > Meble ogrodowe' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem, będąc kategorią-liściem."
     }
 ]
