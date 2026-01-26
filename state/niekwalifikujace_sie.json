@@ -3288,5 +3288,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to zestaw rakiet do gry w badmintona. W drzewie kategorii znajduje się dedykowana ścieżka: Sport i Hobby -> Sporty towarzyskie -> Tenis i pokrewne -> Badminton, która jest najdokładniejszym dopasowaniem. Sugerowana przez system kategoria (Zabawki plastyczne) jest całkowicie nieadekwatna do sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "6567",
+        "Nazwa_Produktu": "TACZKA OGRODOWA LOAD GO 55L CZARNA",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Taczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Taczki",
+        "Finalne_ID_AI": 2884,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to taczka ogrodowa marki Prosperplast, która idealnie pasuje do kategorii 'Taczki' znajdującej się w sekcji narzędzi ogrodowych w drzewie kategorii Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "6610",
+        "Nazwa_Produktu": "DONICZKA DO SADZENIA POMIDORÓW Z DRABINKĄ POJEMNOŚĆ 12L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Donice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Donice",
+        "Finalne_ID_AI": 1632,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczna donica przeznaczona do uprawy warzyw (pomidorów) w ogrodzie, na balkonie lub tarasie, co bezpośrednio odpowiada kategorii liścia 'Donice' w gałęzi 'Ogród'."
+    },
+    {
+        "ID_Produktu": "6622",
+        "Nazwa_Produktu": "IGŁY DO POMPOWANIA PIŁEK ENERO 3 SZT",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to igły do pompowania piłek sportowych (piłka nożna, siatkówka, koszykówka). Najbardziej dopasowaną gałęzią jest Sport i Hobby > Sporty drużynowe. Ponieważ igły są uniwersalne dla wielu dyscyplin w tej gałęzi i nie ograniczają się do jednej (jak np. tylko piłka nożna), kategoria 'Pozostałe sporty drużynowe' (liść: 4977) jest najwłaściwszym i najbardziej precyzyjnym wyborem."
     }
 ]

@@ -3448,5 +3448,210 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6639",
+        "Nazwa_Produktu": "RINGO GUMOWE ŚR 17CM - NIEBIESKIE TULLO",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Gry dla dzieci",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6682",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY SZARY CZEPEK SILIKONOWY DOTS NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek pływacki wykonany z silikonu, który jest podstawowym akcesorium do pływania. Najbardziej dopasowaną kategorią liściem w drzewie kategorii jest 'Pływanie' (ID: 1830) w gałęzi 'Sport i Hobby' > 'Sporty wodne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6683",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY SZARY CZEPEK SILIKONOWY DO DŁUGICH WŁOSÓW NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek pływacki, który jest akcesorium sportowym bezpośrednio związanym z dyscypliną pływania. Kategoria 'Pływanie' (ID: 1830) w gałęzi 'Sport i Hobby > Sporty wodne' jest najbardziej precyzyjnym i właściwym dopasowaniem dla tego przedmiotu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6684",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY SL02 CIEMNOSZARY CZEPEK SILIKONOWY NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek pływacki, który jest podstawowym akcesorium do uprawiania pływania. Najbardziej precyzyjną kategorią-liściem w drzewie jest 'Pływanie' w gałęzi 'Sporty wodne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6685",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY SL01 SZARY CZEPEK SILIKONOWY NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek silikonowy przeznaczony do sportów wodnych. Kategoria 'Pływanie' (ID: 1830) wewnątrz sekcji 'Sporty wodne' jest najbardziej precyzyjnym dopasowaniem semantycznym i jest kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6686",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY RÓŻOWY CZEPEK SILIKONOWY DOTS NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest czepkiem silikonowym przeznaczonym do pływania, co jednoznacznie klasyfikuje go do kategorii liścia 'Pływanie' w gałęzi Sporty wodne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6687",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY RD01 CZERWONY CZEPEK SILIKONOWY NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek pływacki przeznaczony dla entuzjastów sportów wodnych. Kategoria 'Pływanie' w gałęzi 'Sport i Hobby' -> 'Sporty wodne' jest najbardziej precyzyjnym i semantycznym dopasowaniem dla tego artykułu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6689",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY POMARAŃCZOWY CZEPEK SILIKONOWY DOTS NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek pływacki, który jest podstawowym akcesorium do pływania. W drzewie kategorii ścieżka Sport i Hobby -> Sporty wodne -> Pływanie jest najbardziej precyzyjnym i bezpośrednim dopasowaniem dla tego przedmiotu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6690",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY PK01 RÓŻOWY CZEPEK SILIKONOWY NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek silikonowy przeznaczony do pływania, dlatego kategoria 'Pływanie' w gałęzi 'Sporty wodne' jest najbardziej precyzyjnym dopasowaniem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6691",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY NIEBIESKI CZEPEK SILIKONOWY DOTS NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek pływacki (akcesorium basenowe), który idealnie pasuje do kategorii 'Pływanie' w sekcji sportów wodnych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6692",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY NIEBIESKI CZEPEK SILIKONOWY DO DŁUGICH WŁOSÓW NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek pływacki (akcesorium do pływania), który idealnie pasuje do kategorii Sport i Hobby > Sporty wodne > Pływanie.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6693",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY GR02 ZIELONY CZEPEK SILIKONOWY NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek pływacki silikonowy, który jest podstawowym akcesorium do pływania. Najlepiej pasuje do ścieżki Sport i Hobby > Sporty wodne > Pływanie, która kończy się na kategorii liściu o ID 1830.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6694",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY CZERWONY CZEPEK SILIKONOWY DOTS NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest czepkiem pływackim, który bezpośrednio pasuje do kategorii liścia 'Pływanie' w ramach gałęzi 'Sporty wodne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6695",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY CZERWONY CZEPEK SILIKONOWY DO DŁUGICH WŁOSÓW NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to silikonowy czepek pływacki, który jest podstawowym elementem wyposażenia do uprawiania pływania. Kategoria 'Pływanie' (id: 1830) znajdująca się w gałęzi Sport i Hobby > Sporty wodne jest najbardziej precyzyjnym i dedykowanym wyborem dla tego typu asortymentu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6696",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY CIEMNORÓŻOWY CZEPEK SILIKONOWY DOTS NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek silikonowy przeznaczony do pływania, dlatego najlepiej pasuje do kategorii 'Pływanie' w sekcji 'Sporty wodne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6697",
+        "Nazwa_Produktu": "NQC JEDNOKOLOROWY CIEMNONIEBIESKI CZEPEK SILIKONOWY DOTS NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to czepek pływacki, który jest podstawowym akcesorium do pływania. Kategoria 'Pływanie' wewnątrz gałęzi 'Sporty wodne' jest najbardziej precyzyjnym i właściwym dopasowaniem dla tego typu asortymentu sportowego.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]

@@ -3608,5 +3608,78 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "6547",
+        "Nazwa_Produktu": "NAMIOT PARAWAN PLAŻOWY SAMOROZKŁADAJĄCY 190x120x86CM GRANATOWO- NIEBIESKI",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest namiotem plażowym typu pop-up (samorozkładający się). Ze względu na jego konstrukcję i turystyczne przeznaczenie (biwak, plażowanie), najlepiej pasuje do kategorii 'Namioty' w sekcji Turystyka.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Namiot parawan plażowy samorozkładający 190x120x86cm granatowo- niebieski",
+                "description": "Planujesz wyjazd na biwak, nad morze lub jezioro i lenistwo na plaży? Uprzyjemnij sobie wypoczynek, uchroń się od palącego słońca i upału. Zyskaj odrobinę prywatności na kempingu i wakacjach. Namiot został wykonany z wytrzymałych materiałów technicznych, które uchronią Cię promieniami słonecznymi, natomiast stabilną konstrukcję stanowi wytrzymałe i elastyczne włókno szklane. Model jest idealnym wyborem nad naszym wietrznym morzem, ale też w ogrodzie lub na działce - wszędzie tam, gdzie chcesz się zrelaksować na świeżym powietrzu. To łatwo rozkładany lekki namiot plażowy warto mieć ze sobą na wczasach! Parametry: • Wymiary całkowite: długość 190cm / szerokość 120cm / wysokość 86cm • Materiał namiotu: poliester 190T • Materiał podłogi: folia poliester 110g/m2 • Ochrona przed promieniowaniem UV 20+ • Materiał stelaża: włókno szklane • Konstrukcja umożliwia błyskawiczne rozkładanie i składanie namiotu • W zestawie śledzie do przytroczenia do podłoża • Pakowany w pokrowiec • Średnica pokrowca: 63cm • Waga ok.: 0,75kg • W zestawie: osłona plażowa, pokrowiec, instrukcja obsługi Uwaga: ze względu na elastyczność materiału, wymiary mogą delikatnie różnić się od podanych w opisie Samorozkładający - największą zaletą parawanu jest jego funkcja samo-rozkładania się: po wyjęciu z pokrowca, parawan sam się rozkłada i w ciągu sekundy nadaje się do użytkowania Pokrowiec z uchwytami do przenoszenia - w zestawie znajduje się pokrowiec z uchwytami do przenoszenia, dzięki czemu po złożeniu- parawan zostaje zabezpieczony przed samo-rozłożeniem i jest bardzo wygodny w transporcie i przechowywaniu. Ultra-lekkość - stelaż parawanu został wykonany z włókna szklanego, dzięki czemu jest ultralekki, a zarazem elastyczny, odporny na pęknięcia i złamania Minimalne wymiary po złożeniu -po złożeniu parawanu, zamienia się on w płaski i ultralekki dysk, o średnicy 63 cm i wysokości ok 5 cm.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: VICTORIA-SPORT\nAdres: Wybickiego 9, 83-050, Bąkowo, PL\nEmail: biuro(at)galeriasportowa.pl\nTelefon: 585733833\n----------------------------------------",
+                "category_id": 3978,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 99.2,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/12(72).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/11(80).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/9(91).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/13(63).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/14(54).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/15(49).jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
