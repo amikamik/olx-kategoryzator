@@ -1009,7 +1009,27 @@ def main():
     if odrzucone_przez_cene > 0:
         print(f"Odrzucono {odrzucone_przez_cene} produktów ze względu na niespełnienie zakresu cenowego ({CENA_MIN} - {CENA_MAX} PLN).")
     
-    nowe_produkty = [p for p in produkty_po_filtracji_cenowej if p['id'] not in przetworzone_id]
+    # --- FILTROWANIE PRZEZ ID Z do_weryfikacji.json ---
+    DO_WERYFIKACJI_PLIK_FILTER = os.path.join(STATE_DIR, "do_weryfikacji.json")
+    id_do_reweryfikacji = set()
+    try:
+        with open(DO_WERYFIKACJI_PLIK_FILTER, 'r', encoding='utf-8') as f:
+            weryfikacja_data = json.load(f)
+            id_do_reweryfikacji = {str(item['ID_Produktu']) for item in weryfikacja_data}
+        print(f"✅ Wczytano {len(id_do_reweryfikacji)} produktów do reweryfikacji z do_weryfikacji.json")
+    except FileNotFoundError:
+        print("⚠️ UWAGA: Plik do_weryfikacji.json nie istnieje - przetwarzam wszystkie produkty.")
+    except Exception as e:
+        print(f"❌ Błąd wczytywania do_weryfikacji.json: {e}")
+    
+    # Filtrujemy produkty - jeśli są ID do reweryfikacji, bierzemy tylko je
+    if id_do_reweryfikacji:
+        produkty_po_filtracji_id = [p for p in produkty_po_filtracji_cenowej if p['id'] in id_do_reweryfikacji]
+        print(f"🔍 Po filtracji przez ID z do_weryfikacji.json: {len(produkty_po_filtracji_id)} produktów")
+    else:
+        produkty_po_filtracji_id = produkty_po_filtracji_cenowej
+    
+    nowe_produkty = [p for p in produkty_po_filtracji_id if p['id'] not in przetworzone_id]
 
     if SAMPLE_SIZE > 0:
         products_to_process = nowe_produkty[:SAMPLE_SIZE]
@@ -1207,3 +1227,4 @@ Przykład odpowiedzi:
     print("\nZakończono działanie skryptu.")
 if __name__ == "__main__":
     main()
+
