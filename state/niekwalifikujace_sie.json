@@ -3278,5 +3278,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to składana ławka ogrodowa. Kategoria 'Ławy i ławki' w ścieżce 'Dom i Ogród > Ogród > Meble ogrodowe' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem, będąc kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "6408",
+        "Nazwa_Produktu": "NRZ001 ZESTAW RAKIET RÓŻOWY DO BADMINTONA + LOTKA NILS",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rakiet do gry w badmintona. W drzewie kategorii znajduje się dedykowana ścieżka: Sport i Hobby -> Sporty towarzyskie -> Tenis i pokrewne -> Badminton, która jest najdokładniejszym dopasowaniem. Sugerowana przez system kategoria (Zabawki plastyczne) jest całkowicie nieadekwatna do sprzętu sportowego."
     }
 ]
