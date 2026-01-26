@@ -3268,5 +3268,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to taboret dla dzieci, wykonany z tworzywa sztucznego, służący jako podwyższenie lub siedzisko. Kategoria 'Taborety i hokery' bezpośrednio odpowiada typowi mebla, a wskazówka systemu potwierdza tę ścieżkę. Chociaż produkt jest przeznaczony dla dzieci, nie ma bardziej szczegółowej kategorii liścia w 'Meble dla dzieci' specyficznie dla taboretów, więc ogólna kategoria taboretów jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "357",
+        "Nazwa_Produktu": "KNV04 KETTLEBELL POKRYTY WINYLEM 4.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kettlebell (ciężarek), który jest typem obciążenia używanego w treningu siłowym. Kategoria 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia' jest najlepiej dopasowaną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "392",
+        "Nazwa_Produktu": "TOK02 TALERZ OLIMPIJSKI OGUMOWANY 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'talerz olimpijski ogumowany', który jest rodzajem ciężaru/obciążenia używanego w treningu siłowym. Kategoria 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia' jest idealnym i najbardziej szczegółowym dopasowaniem semantycznym."
+    },
+    {
+        "ID_Produktu": "409",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 1.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to ciężarek/hantla przeznaczony do ćwiczeń fitness i rehabilitacji. Najlepiej pasującą, szczegółową kategorią-liściem jest „Hantle” (id: 4337) znajdująca się w ścieżce „Sport i Hobby > Fitness > Sprzęt siłowy”."
     }
 ]
