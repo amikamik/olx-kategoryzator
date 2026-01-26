@@ -3681,5 +3681,361 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "6937",
+        "Nazwa_Produktu": "GRA MEMORY FLAGI ADM 7332 PUD",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Gry dla dzieci",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Gry dla dzieci",
+        "Finalne_ID_AI": 3071,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gra typu Memory (pamięciowa) od producenta Adamigo, przeznaczona dla dzieci (w opisie mowa o „młodym graczu”). Kategoria „Gry dla dzieci” wewnątrz sekcji „Zabawki” jest najbardziej trafnym wyborem dla tego typu gier edukacyjno-towarzyskich.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gra memory flagi adm 7332 pud",
+                "description": "Gra ADAMIGO MEMORY jest doskonałą grą towarzyską dla wszystkich lubiących dobrą zabawę w wesołym klimacie. Rozwija pamięć, uczy koncentracji, zbliża rodzinę i uprzyjemnia wolne chwile. Tym razem młody gracz ma okazję zapoznać się z wyglądem aż 40 flag różnych państw z całego świata. Zestaw gry zawiera: Zestaw zawiera 80 kartoników przedstawiających 40 flag państw świata.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: KUKURYKU JULIA POGORZELSKA\nAdres: EKONOMICZNA 4, 42-271, Częstochowa, PL\nEmail: 34 340 11 50\nTelefon: office@kukuryku.co\n----------------------------------------",
+                "category_id": 3071,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 60.51,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/1(527).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/2(524).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "11135",
+        "Nazwa_Produktu": "NQAW30 RÓŻOWY ZESTAW PŁYWACKI SILIKONOWE ZATYCZKI DO USZU I NA NOS NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów ochronnych (zatyczki do uszu i nosa) przeznaczonych bezpośrednio do uprawiania pływania i sportów wodnych. Kategoria 'Pływanie' będąca liściem w gałęzi 'Sporty wodne' jest najlepiej dopasowana semantycznie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nqaw30 różowy zestaw pływacki silikonowe zatyczki do uszu i na nos nils aqua",
+                "description": "NQAW30 marki NILS AQUA to pływacki zestaw zatyczek do uszu i nosa - Twoje niezawodne narzędzie ochronne, które zapewni Ci maksymalne bezpieczeństwo i komfort podczas każdego pływania! Nasze zatyczki do uszu i nosa zostały zaprojektowane z myślą o ochronie Twoich uszu oraz nosa przed wodą i wszelkimi potencjalnymi infekcjami. Zatyczki do uszu zostały wykonane z wysokiej jakości, miękkiego i elastycznego silikonu, dzięki czemu idealnie dopasowują się do kształtu Twoich uszu, zapewniając doskonałą szczelność i minimalizując ryzyko dostania się wody do kanalików słuchowych. Z kolei zatyczka do nosa wykonana została z mocnego i trwałego materiału PVC z silikonowym wykończeniem, co sprawia, że produkt jest w pełni bezpieczny i wygodny w użyciu. Nasze zatyczki do uszu oraz nosa są również wielokrotnego użytku, co oznacza, że możesz korzystać z nich przez długi czas, bez konieczności ciągłej wymiany. Po użyciu łatwo można je wyczyścić i ponownie zastosować, co sprawia, że są one wyjątkowo ekonomiczne i przyjazne dla środowiska. Nie tylko pływacy docenią nasze silikonowe zatyczki. Są one również idealne dla osób, które uprawiają inne sporty wodne, np.: nurkowanie, czy dla osób, które chcą po prostu cieszyć się spokojem i relaksem w basenie lub nad morzem. Sięgnij po nasz zestaw zatyczek do uszu i nosa i ciesz się bezpieczeństwem, wygodą i spokojem w wodzie! Specyfikacja: Materiał: silikon, PVC Kolor: różowy\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 1830,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 24.77,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/5(83).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/3(105).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/4(92).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "11136",
+        "Nazwa_Produktu": "NQAW30 NIEBIESKI ZESTAW PŁYWACKI SILIKONOWE ZATYCZKI DO USZU I NA NOS NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw zatyczek do uszu i nosa przeznaczony do pływania. Najbardziej precyzyjną kategorią-liściem w drzewie kategorii OLX jest 'Pływanie' (ID: 1830) w gałęzi Sporty wodne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nqaw30 niebieski zestaw pływacki silikonowe zatyczki do uszu i na nos nils aqua",
+                "description": "NQAW30 marki NILS AQUA to pływacki zestaw zatyczek do uszu i nosa - Twoje niezawodne narzędzie ochronne, które zapewni Ci maksymalne bezpieczeństwo i komfort podczas każdego pływania! Nasze zatyczki do uszu i nosa zostały zaprojektowane z myślą o ochronie Twoich uszu oraz nosa przed wodą i wszelkimi potencjalnymi infekcjami. Zatyczki do uszu zostały wykonane z wysokiej jakości, miękkiego i elastycznego silikonu, dzięki czemu idealnie dopasowują się do kształtu Twoich uszu, zapewniając doskonałą szczelność i minimalizując ryzyko dostania się wody do kanalików słuchowych. Z kolei zatyczka do nosa wykonana została z mocnego i trwałego materiału PVC z silikonowym wykończeniem, co sprawia, że produkt jest w pełni bezpieczny i wygodny w użyciu. Nasze zatyczki do uszu oraz nosa są również wielokrotnego użytku, co oznacza, że możesz korzystać z nich przez długi czas, bez konieczności ciągłej wymiany. Po użyciu łatwo można je wyczyścić i ponownie zastosować, co sprawia, że są one wyjątkowo ekonomiczne i przyjazne dla środowiska. Nie tylko pływacy docenią nasze silikonowe zatyczki. Są one również idealne dla osób, które uprawiają inne sporty wodne, np.: nurkowanie, czy dla osób, które chcą po prostu cieszyć się spokojem i relaksem w basenie lub nad morzem. Sięgnij po nasz zestaw zatyczek do uszu i nosa i ciesz się bezpieczeństwem, wygodą i spokojem w wodzie! Specyfikacja: Materiał: silikon, PVC Kolor: niebieski\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 1830,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 24.77,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/5(84).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/3(106).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/4(93).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "11137",
+        "Nazwa_Produktu": "NQAW30 CZARNY ZESTAW PŁYWACKI SILIKONOWE ZATYCZKI DO USZU I NA NOS NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów (zatyczki do uszu i nosa) przeznaczony do użytku podczas pływania i uprawiania sportów wodnych, co bezpośrednio odpowiada kategorii 'Pływanie' będącej liściem w gałęzi 'Sporty wodne'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nqaw30 czarny zestaw pływacki silikonowe zatyczki do uszu i na nos nils aqua",
+                "description": "NQAW30 marki NILS AQUA to pływacki zestaw zatyczek do uszu i nosa - Twoje niezawodne narzędzie ochronne, które zapewni Ci maksymalne bezpieczeństwo i komfort podczas każdego pływania! Nasze zatyczki do uszu i nosa zostały zaprojektowane z myślą o ochronie Twoich uszu oraz nosa przed wodą i wszelkimi potencjalnymi infekcjami. Zatyczki do uszu zostały wykonane z wysokiej jakości, miękkiego i elastycznego silikonu, dzięki czemu idealnie dopasowują się do kształtu Twoich uszu, zapewniając doskonałą szczelność i minimalizując ryzyko dostania się wody do kanalików słuchowych. Z kolei zatyczka do nosa wykonana została z mocnego i trwałego materiału PVC z silikonowym wykończeniem, co sprawia, że produkt jest w pełni bezpieczny i wygodny w użyciu. Nasze zatyczki do uszu oraz nosa są również wielokrotnego użytku, co oznacza, że możesz korzystać z nich przez długi czas, bez konieczności ciągłej wymiany. Po użyciu łatwo można je wyczyścić i ponownie zastosować, co sprawia, że są one wyjątkowo ekonomiczne i przyjazne dla środowiska. Nie tylko pływacy docenią nasze silikonowe zatyczki. Są one również idealne dla osób, które uprawiają inne sporty wodne, np.: nurkowanie, czy dla osób, które chcą po prostu cieszyć się spokojem i relaksem w basenie lub nad morzem. Sięgnij po nasz zestaw zatyczek do uszu i nosa i ciesz się bezpieczeństwem, wygodą i spokojem w wodzie! Specyfikacja: Materiał: silikon, PVC Kolor: czarny\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 1830,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 24.77,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/5(85).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/3(107).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/4(94).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "11493",
+        "Nazwa_Produktu": "SNK01 BLACK SILIKONOWE OBCIĄŻNIKI DO ĆWICZEŃ NA KOSTKI I NADGARSTKI HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążniki na nadgarstki i kostki, które są akcesoriami do ćwiczeń fitness. W drzewie kategorii pod gałęzią 'Fitness' (771) i 'Akcesoria treningowe' (4317) nie ma dedykowanej kategorii dla obciążników tego typu, dlatego kategoria 'Pozostałe' (4353) jest najbardziej adekwatnym liściem. Kategoria 'Obciążenia' (4339) zazwyczaj dotyczy talerzy do sztang i hantli w sekcji sprzętu siłowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Snk01 black silikonowe obciążniki do ćwiczeń na kostki i nadgarstki hms",
+                "description": "Zwiększ intensywność swoich codziennych aktywności i treningów dzięki obciążnikom SNK01 od HMS. To kompaktowe, ale skuteczne akcesorium zaprojektowane z myślą o osobach, które chcą poprawić siłę, wytrzymałość i dynamikę, niezależnie od poziomu zaawansowania. Wszechstronność i komfort noszenia SNK01 to obciążniki o uniwersalnym zastosowaniu – możesz je założyć zarówno na kostki, jak i na nadgarstki. Doskonale sprawdzą się podczas spacerów, biegania, treningu siłowego, sztuk walki czy ćwiczeń funkcjonalnych. Dzięki zastosowaniu miękkiego, elastycznego silikonu oraz wygodnym paskom na rzep, obciążniki dopasowują się do ciała i nie zsuwają się nawet przy dynamicznych ruchach, zapewniając maksymalną stabilność i bezpieczeństwo. Trwała konstrukcja i skuteczne działanie Wnętrze SNK01 wypełniają metalowe płytki, które gwarantują optymalne rozłożenie wagi oraz skuteczność treningową. Każdy obciążnik waży 0,5 kg, co czyni je idealnym dodatkiem do codziennych ćwiczeń. Silikonowa powłoka nie tylko chroni skórę przed otarciami, ale także zwiększa odporność na intensywne użytkowanie i działanie potu. Obciążenia można dowolnie przesuwać, by jak najlepiej dopasować je do ciała. Zwiększ efektywność swojego treningu Regularne stosowanie obciążników SNK01 przyczynia się do zwiększenia aktywacji mięśni rąk, nóg i tułowia (core). To świetny sposób na spalenie większej liczby kalorii, poprawę stabilizacji ciała i rozwinięcie ogólnej sprawności fizycznej. Dzięki nim nawet najprostsze aktywności, takie jak spacer czy domowy trening, stają się bardziej efektywne. SNK01 HMS to idealne uzupełnienie każdego planu treningowego, które w dyskretny i wygodny sposób pozwala przenieść aktywność fizyczną na wyższy poziom. Specyfikacja: Długość: 28 cm Szerokość: 7 cm Grubość obciążenia: 1 cm Elastyczny pasek Kolor: czarny Materiał: Żelazo + silikon Waga: 2 x 0,5 kg\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4353,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 95.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/8(95).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/2(394).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/3(364).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/4(305).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/5(264).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/6(161).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/7(121).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/11001-12000/img_1(6).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

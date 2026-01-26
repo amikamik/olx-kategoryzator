@@ -3318,5 +3318,265 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to igły do pompowania piłek sportowych (piłka nożna, siatkówka, koszykówka). Najbardziej dopasowaną gałęzią jest Sport i Hobby > Sporty drużynowe. Ponieważ igły są uniwersalne dla wielu dyscyplin w tej gałęzi i nie ograniczają się do jednej (jak np. tylko piłka nożna), kategoria 'Pozostałe sporty drużynowe' (liść: 4977) jest najwłaściwszym i najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "6774",
+        "Nazwa_Produktu": "PENNYBOARD ART REGGAE SIGNA",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Poradniki i albumy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pennyboard, czyli specyficzny rodzaj deskorolki wykonanej z tworzywa sztucznego. Kategoria 'Deskorolki' w sekcji 'Sport i Hobby > Skating' jest najbardziej precyzyjnym i trafnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "6832",
+        "Nazwa_Produktu": "ŻAGIEL PRZECIWSŁONECZNY OGRODOWY TRÓJKĄT 3X3X2M SZARY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Parasole ogrodowe",
+        "Finalne_ID_AI": 2892,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest żaglem przeciwsłonecznym przeznaczonym do ogrodu i na taras, pełniącym funkcję ochronną przed słońcem. W drzewie kategorii najlepiej pasuje do 'Parasole ogrodowe', ponieważ opis wprost nazywa go 'idealną alternatywą dla tradycyjnych parasoli'. Jest to najbardziej specyficzna kategoria-liść odpowiadająca funkcji zacieniania przestrzeni ogrodowej."
+    },
+    {
+        "ID_Produktu": "6901",
+        "Nazwa_Produktu": "RAMA TRENINGOWA REBOUNDER DO ODBIJANIA PIŁKI NOŻNEJ 100x100CM ENERO",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rebounder służący do treningu techniki piłkarskiej. Najbardziej dopasowaną semantycznie kategorią-liściem jest 'Akcesoria' w gałęzi 'Piłka nożna', co precyzyjnie odzwierciedla przeznaczenie sprzętu do konkretnej dyscypliny sportowej."
+    },
+    {
+        "ID_Produktu": "6941",
+        "Nazwa_Produktu": "PLECAK ADIDAS CLASSIC FP8098 łososiowy, białe logo",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Plecaki",
+        "Finalne_ID_AI": 2755,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uniwersalny plecak miejski/lifestyle'owy marki Adidas. Choć może służyć jako plecak szkolny lub turystyczny, jego nazwa (Classic) oraz opis wskazują na codzienne zastosowanie modowe. Wybrana kategoria (Moda > Torby i torebki > Plecaki) jest najbardziej trafnym i najmniej mylącym przypisaniem dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "6966",
+        "Nazwa_Produktu": "POCHODNIA LAMPA SOLARNA TAŃCZĄCE PŁOMYKI 12 LED SMD 7x7x50CM",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Oświetlenie ogrodowe",
+        "Finalne_ID_AI": 1638,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dekoracyjna lampa solarna przeznaczona do użytku zewnętrznego, konkretnie do oświetlania ogrodu, ścieżek i tarasów. Kategoria 'Oświetlenie ogrodowe' w gałęzi 'Dom i Ogród > Ogród' jest najbardziej precyzyjnym dopasowaniem dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "7039",
+        "Nazwa_Produktu": "KRAN DO ZBIORNIKA NA WODĘ DESZCZÓWKĘ CANTAP 3/4 CZ",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Ryneczek > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kran przeznaczony do zbiorników na deszczówkę, co jest elementem systemu gromadzenia i dystrybucji wody w ogrodzie. Kategoria 'Nawadnianie' (w ścieżce Dom i Ogród > Ogród) najlepiej odpowiada przeznaczeniu produktu, jakim jest podlewanie roślin i zarządzanie wodą ogrodową."
+    },
+    {
+        "ID_Produktu": "7040",
+        "Nazwa_Produktu": "KRAN DO ZBIORNIKA NA WODĘ DESZCZÓWKĘ CANTAP 3/4 CZ",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Ryneczek > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kran przeznaczony do zbiornika na wodę deszczową, służący do dozowania wody do podlewania ogrodu. Najbardziej precyzyjną kategorią liściem dla akcesoriów związanych z dystrybucją wody w ogrodzie jest 'Dom i Ogród > Ogród > Nawadnianie'."
+    },
+    {
+        "ID_Produktu": "7047",
+        "Nazwa_Produktu": "GRILL PIKNIKOWY JEDNORAZOWY 600G 31x24x4,8cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest jednorazowym grillem węglowym. W podanym drzewie kategorii kategoria 'Grill' (ID: 1633) znajduje się w ścieżce Dom i Ogród > Ogród i jest kategorią typu liść, która najdokładniej opisuje ten przedmiot."
+    },
+    {
+        "ID_Produktu": "7588",
+        "Nazwa_Produktu": "ANTYSZRONOWA OSŁONA NA SZYBY PE 85x185CM DUNLOP",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Osłony na szyby",
+        "Finalne_ID_AI": 4499,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to osłona antyszronowa na szyby samochodowe. W drzewie kategorii pod gałęzią 'Wyposażenie i akcesoria samochodowe' (ID: 4482) znajduje się kategoria liść 'Osłony na szyby' (ID: 4499), która jest idealnie dopasowana semantycznie i bardziej precyzyjna niż ogólna kategoria 'Pokrowce'."
+    },
+    {
+        "ID_Produktu": "7609",
+        "Nazwa_Produktu": "ZOŚKA ENERO KPL 3SZT",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw piłeczek do 'Zośki' (footbag), która w opisie jest definiowana jako gra zręcznościowa oraz dyscyplina sportowa (Footbag Freestyle). Kategoria 'Pozostałe sporty towarzyskie' jest semantycznie najlepiej dopasowana, ponieważ grupuje gry zręcznościowe i rekreacyjne o charakterze towarzyskim, podobnie jak wymienione w tej gałęzi bilard czy dart."
+    },
+    {
+        "ID_Produktu": "11189",
+        "Nazwa_Produktu": "Tablica do koszykówki Meteor Street",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tablica do koszykówki z obręczą, co kwalifikuje go jako sprzęt sportowy. Najlepiej pasującą ścieżką w drzewie kategorii jest Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "11199",
+        "Nazwa_Produktu": "DONICZKA DO SADZENIA POMIDORÓW Z DRABINKĄ POJEMNOŚĆ 18L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Donice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Donice",
+        "Finalne_ID_AI": 1632,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest donicą o dużej pojemności (18L) wyposażoną w drabinkę, przeznaczoną do uprawy warzyw na zewnątrz (balkon, taras) i wewnątrz. Najlepiej pasuje do kategorii liścia 'Donice' w gałęzi 'Ogród'."
+    },
+    {
+        "ID_Produktu": "11272",
+        "Nazwa_Produktu": "DESKOROLKA PLASTIKOWA ENERO MINI PUPPY",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to fizyczny sprzęt sportowy - deskorolka plastikowa przeznaczona do nauki jazdy. W drzewie kategorii znajduje się dedykowana kategoria-liść 'Deskorolki' w gałęzi 'Sport i Hobby > Skating', która najlepiej odpowiada przeznaczeniu produktu."
+    },
+    {
+        "ID_Produktu": "11277",
+        "Nazwa_Produktu": "PIŁKA NOŻNA FC BARCELONA PITCH GOLD R.5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do gry w piłkę nożną, która w strukturze kategorii OLX jest klasyfikowana jako akcesorium w obrębie konkretnej dyscypliny sportowej (Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria)."
+    },
+    {
+        "ID_Produktu": "11278",
+        "Nazwa_Produktu": "SIATKA CIENIUJĄCA 140G/M2 1.5X10M CIEMNO SZARA",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Budowa > Bramy i ogrodzenia > Siatki i panele ogrodzeniowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Bramy i ogrodzenia > Siatki i panele ogrodzeniowe",
+        "Finalne_ID_AI": 3141,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Siatka cieniująca jest produktem montowanym najczęściej na istniejących ogrodzeniach w celu zapewnienia prywatności oraz ochrony przed słońcem i wiatrem, co czyni kategorię 'Siatki i panele ogrodzeniowe' najbardziej precyzyjnym dopasowaniem w strukturze drzewa."
+    },
+    {
+        "ID_Produktu": "11279",
+        "Nazwa_Produktu": "SIATKA CIENIUJĄCA 110G/M2 1.5X10M CIEMNO SZARA",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Budowa > Bramy i ogrodzenia > Siatki i panele ogrodzeniowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Bramy i ogrodzenia > Siatki i panele ogrodzeniowe",
+        "Finalne_ID_AI": 3141,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Siatka cieniująca, mimo funkcji ochronnej dla roślin, jest produktem najczęściej montowanym na płotach w celu zapewnienia prywatności i osłony, dlatego kategoria 'Siatki i panele ogrodzeniowe' w sekcji ogrodzeń jest najbardziej adekwatnym i najmniej mylącym wyborem."
+    },
+    {
+        "ID_Produktu": "11348",
+        "Nazwa_Produktu": "LAMPA SOLARNA OGRODOWA GIRLANDA ŁAŃCUCH SOLARNY 4,9M 40LED CIEPŁY BIAŁY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Girlandy",
+        "Finalne_ID_AI": 3873,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wprost opisany jako girlanda ogrodowa (łańcuch świetlny) przeznaczona do użytku na zewnątrz. Kategoria 'Girlandy' w sekcji 'Oświetlenie zewnętrzne' jest najbardziej precyzyjnym i specyficznym dopasowaniem dla tego typu oświetlenia dekoracyjnego."
+    },
+    {
+        "ID_Produktu": "11537",
+        "Nazwa_Produktu": "LOTKA BADMINTON Z PIÓR 3 SZT LED ENERO",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lotki do badmintona, które znajdują się w dedykowanej kategorii dla tego sportu w sekcji sportów rakietowych (Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton)."
+    },
+    {
+        "ID_Produktu": "11541",
+        "Nazwa_Produktu": "PARASOL PLAŻOWO BALKONOWY 160CM BIAŁO NIEBIESKI",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Parasolki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Parasole ogrodowe",
+        "Finalne_ID_AI": 2892,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to parasol o dużej średnicy (160 cm) przeznaczony do ochrony przeciwsłonecznej na balkonie, tarasie i plaży. Najlepiej pasuje do kategorii 'Parasole ogrodowe' w gałęzi Dom i Ogród. Sugestia systemu 'Moda' jest błędna, gdyż odnosi się do małych parasolek osobistych/przeciwdeszczowych."
+    },
+    {
+        "ID_Produktu": "11542",
+        "Nazwa_Produktu": "AS002 BLACK/MINT STEP DO AEROBIKU HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Kierownice i mostki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to step do aerobiku i fitnessu marki HMS. Kategoria 'Stepy, steppery i twistery' (id: 4332) znajduje się w gałęzi Sport i Hobby > Fitness > Sprzęt fitness i jest semantycznie idealnie dopasowana do przedmiotu."
+    },
+    {
+        "ID_Produktu": "11549",
+        "Nazwa_Produktu": "LAMPA SOLARNA DYSKOWA 28 LED DO WBICIA W GRUNT LUB MONTAŻU NA ŚCIANIE",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalne_ID_AI": 3875,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uniwersalna lampa solarna LED przeznaczona do użytku zewnętrznego (ogród, podjazd, elewacja). Ze względu na dwa sposoby montażu (w grunt oraz na ścianę), kategoria 'Lampy' w ścieżce 'Oświetlenie zewnętrzne' jest najbardziej odpowiednim i precyzyjnym wyborem, obejmującym obie funkcje produktu."
+    },
+    {
+        "ID_Produktu": "11550",
+        "Nazwa_Produktu": "LAMPA SOLARNA 8 LED SMD DO WBICIA W PODŁOŻE KPL.12SZT",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalne_ID_AI": 3875,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw lamp solarnych przeznaczonych do oświetlenia zewnętrznego (ogrodu, ścieżek, tarasów). Kategoria 'Lampy' w gałęzi 'Oświetlenie zewnętrzne' najlepiej odpowiada charakterowi i funkcji produktu, a także jest zgodna z sugerowaną ścieżką drzewa kategorii."
+    },
+    {
+        "ID_Produktu": "11551",
+        "Nazwa_Produktu": "LAMPA SOLARNA TAŃCZĄCE NA WIETRZE KULECZKI BIAŁE 6 LED 72CM",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Oświetlenie ogrodowe",
+        "Finalne_ID_AI": 1638,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to lampa solarna z grotem do wbijania w ziemię, przeznaczona do oświetlania i dekorowania przestrzeni na zewnątrz (ogród, ścieżki, taras). Kategoria 'Oświetlenie ogrodowe' (1638) w sekcji 'Ogród' jest najbardziej precyzyjnym wyborem dla tego typu artykułów oświetleniowych przeznaczonych do ogrodu."
+    },
+    {
+        "ID_Produktu": "11557",
+        "Nazwa_Produktu": "OŚWIETLENIE SOLAR PARASOLA OGRODOWEGO 5M 72LED",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Oświetlenie ogrodowe",
+        "Finalne_ID_AI": 1638,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dekoracyjne oświetlenie solarne LED przeznaczone specjalnie do użytku w ogrodzie (montaż na parasolu). Najbardziej trafną kategorią-liściem dla tego typu produktów zasilanych energią słoneczną i montowanych na zewnątrz jest 'Oświetlenie ogrodowe' (ID 1638) w gałęzi 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "11606",
+        "Nazwa_Produktu": "AS003 GRAY/PINK STEP DO AEROBIKU HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to step do aerobiku i fitnessu, który wprost odpowiada kategorii 'Stepy, steppery i twistery' w sekcji sprzętu fitness."
+    },
+    {
+        "ID_Produktu": "11727",
+        "Nazwa_Produktu": "NC3907 TORBA BIODROWA CZARNA XL NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Nerki",
+        "Finalne_ID_AI": 2754,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to torba biodrowa, która w języku polskim jest powszechnie określana jako 'nerka'. Kategoria 'Nerki' (ID: 2754) pod 'Torby i torebki' jest najbardziej precyzyjnym dopasowaniem semantycznym dla tego przedmiotu."
     }
 ]
