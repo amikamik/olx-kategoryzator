@@ -3298,5 +3298,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to ciężarek/hantla przeznaczony do ćwiczeń fitness i rehabilitacji. Najlepiej pasującą, szczegółową kategorią-liściem jest „Hantle” (id: 4337) znajdująca się w ścieżce „Sport i Hobby > Fitness > Sprzęt siłowy”."
+    },
+    {
+        "ID_Produktu": "392",
+        "Nazwa_Produktu": "TOK02 TALERZ OLIMPIJSKI OGUMOWANY 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to \"talerz olimpijski\" czyli \"ciężar\", co wprost tłumaczy się na kategorię \"Obciążenia\". Kategoria-rodzic \"Sprzęt siłowy\" i jej nadrzędne kategorie \"Fitness\" oraz \"Sport i Hobby\" również idealnie pasują do opisu i przeznaczenia produktu."
     }
 ]
