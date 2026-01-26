@@ -1066,6 +1066,9 @@ def main():
             report_line, llm_choice = process_single_product(product, path_map, config)
             all_results.append(report_line)
             
+            # Opónienie midzy requestami eby nie przekroczy TPM (Tokens Per Minute)
+            time.sleep(10)  # Max 6 req/min * 7500 tok = 45k tok/min = 4.5% limitu TPM
+            
             # Zapis do CSV po każdym produkcie (APPEND mode)
             try:
                 file_exists = os.path.isfile(RAPORT_PLIK_CSV) and os.path.getsize(RAPORT_PLIK_CSV) > 0
