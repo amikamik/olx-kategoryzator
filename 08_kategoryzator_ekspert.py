@@ -1026,6 +1026,9 @@ def main():
     if id_do_reweryfikacji:
         produkty_po_filtracji_id = [p for p in produkty_po_filtracji_cenowej if p['id'] in id_do_reweryfikacji]
         print(f"🔍 Po filtracji przez ID z do_weryfikacji.json: {len(produkty_po_filtracji_id)} produktów")
+        # Usuwamy ID do reweryfikacji z listy przetworzonych - przetworzymy je ponownie
+        przetworzone_id = przetworzone_id - id_do_reweryfikacji
+        print(f"♻️ Usunito {len(id_do_reweryfikacji)} ID z przetworzonych - zostan przetworzone ponownie")
     else:
         produkty_po_filtracji_id = produkty_po_filtracji_cenowej
     
