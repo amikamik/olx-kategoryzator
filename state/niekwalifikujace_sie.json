@@ -338,5 +338,15 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to paliwo (etanol w formie pasty) przeznaczone bezpośrednio do podgrzewaczy gastronomicznych. Marka Hendi oraz opis techniczny wskazują na profesjonalne zastosowanie w branży gastronomicznej, co najlepiej dopasowuje go do kategorii Podgrzewacze w sekcji Gastronomia."
+    },
+    {
+        "ID_Produktu": "1000722",
+        "Nazwa_Produktu": "Pompka do kanistra z pastą do podgrzewaczy - Hendi 195604",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym akcesorium gastronomicznym marki Hendi, służącym do dozowania paliwa (pasty) używanego w bemarach i podgrzewaczach cateringowych. Ze względu na specjalistyczne zastosowanie w branży HoReCa, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
     }
 ]
