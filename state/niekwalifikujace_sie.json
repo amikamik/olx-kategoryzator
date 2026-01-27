@@ -3978,5 +3978,345 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to talerz olimpijski z gumowanym wykończeniem, służący jako obciążenie do sprzętu siłowego, co idealnie pasuje do kategorii Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia."
+    },
+    {
+        "ID_Produktu": "357",
+        "Nazwa_Produktu": "KNV04 KETTLEBELL POKRYTY WINYLEM 4.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kettlebell o wadze 4 kg, który jest klasyfikowany jako wolny ciężar (obciążenie) używany do treningu siłowego i fitnessu. Idealnie pasuje do kategorii 'Obciążenia' w sekcji 'Sprzęt siłowy'."
+    },
+    {
+        "ID_Produktu": "392",
+        "Nazwa_Produktu": "TOK02 TALERZ OLIMPIJSKI OGUMOWANY 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to talerz olimpijski (obciążenie żeliwne), który jest podstawowym elementem sprzętu siłowego. Najlepiej pasuje do kategorii liścia 'Obciążenia' w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "410",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 1.5 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek treningowy (hantel) o wadze 1.5 kg, przeznaczony do ćwiczeń fitness i siłowych. Kategoria 'Hantle' w sekcji 'Sprzęt siłowy' jest najbardziej precyzyjnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "412",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 3.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny (hantel) przeznaczony do ćwiczeń fitness i treningu siłowego. Najdokładniejszą kategorią liściem dla tego produktu jest 'Hantle' w gałęzi Sport i Hobby > Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "575",
+        "Nazwa_Produktu": "PU01 PODPÓRKI DO POMPEK",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Podpórki do pompek (uchwyty) to przyrząd do ćwiczeń siłowych z masą własnego ciała. W strukturze kategorii OLX tego typu sprzęt (paralletki, poręcze stacjonarne) przypisany jest do kategorii 'Drążki i poręcze' w sekcji Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "1139",
+        "Nazwa_Produktu": "FG01 NAKŁADKI NA GRYF (2SZT) HMS",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nakładki silikonowe na gryf sztangi lub hantli, używane w treningu siłowym do zwiększenia siły chwytu. Najbardziej adekwatną ścieżką jest Sport i Hobby > Fitness > Sprzęt siłowy (który zawiera gryfy i sztangi). Z powodu braku dedykowanej kategorii dla drobnych akcesoriów siłowych, wybrano liść 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "1738",
+        "Nazwa_Produktu": "SSB130 SMAR DO BIEŻNI W SPRAYU 450ML HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Bieżnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Pozostałe",
+        "Finalne_ID_AI": 4333,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to smar silikonowy przeznaczony do konserwacji i serwisu bieżni. Ponieważ sama bieżnia znajduje się w gałęzi 'Sprzęt fitness', środek do jej utrzymania najlepiej pasuje do kategorii 'Pozostałe' w tej samej sekcji (Sprzęt fitness), zamiast bezpośrednio do kategorii maszyn lub akcesoriów treningowych typu maty czy skakanki."
+    },
+    {
+        "ID_Produktu": "2029",
+        "Nazwa_Produktu": "NB5003 ORANGE-GREEN ŚR.90 CM BOCIANIE GNIAZDO HUŚTAWKA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka typu bocianie gniazdo, przeznaczona do użytku w ogrodzie lub na tarasie. Kategoria 'Huśtawki i place zabaw' (id: 1708) w gałęzi 'Ogród' jest najbardziej precyzyjnym i semantycznie dopasowanym miejscem dla tego typu artykułu."
+    },
+    {
+        "ID_Produktu": "2261",
+        "Nazwa_Produktu": "SND1400 ROZM. XL NEOPRENOWE SZORTY WYSZCZUPLAJĄCE HMS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Szorty sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież sportowa > Szorty sportowe",
+        "Finalne_ID_AI": 2928,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to spodenki (szorty) wykonane z neoprenu, przeznaczone specjalnie dla kobiet (co potwierdza opis). Kategoria 'Szorty sportowe' w sekcji ubrań damskich najlepiej pasuje semantycznie do rodzaju produktu i jego przeznaczenia."
+    },
+    {
+        "ID_Produktu": "2318",
+        "Nazwa_Produktu": "MP12 MATA PUZZLE L.GRAY 9 ELEMENTÓW 12MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Puzzle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness",
+        "Finalne_ID_AI": 4315,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to techniczna mata fitness wykonana z pianki EVA, marki HMS Premium, znanej z produkcji sprzętu sportowego. Opis jednoznacznie wskazuje na zastosowanie treningowe (fitness, joga, trening siłowy, podkład pod sprzęt fitness). System 'puzzle' odnosi się do sposobu łączenia elementów, a nie do charakteru zabawkowego."
+    },
+    {
+        "ID_Produktu": "4017",
+        "Nazwa_Produktu": "CBRS15 TALERZ OLIMPIJSKI 2 x 1.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to talerze obciążeniowe do gryfów olimpijskich, co jednoznacznie klasyfikuje go jako 'Obciążenia' w sekcji 'Sprzęt siłowy'."
+    },
+    {
+        "ID_Produktu": "4867",
+        "Nazwa_Produktu": "NC7817 UCHWYT HAK DO PARASOLA NILS",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Parasole ogrodowe",
+        "Finalne_ID_AI": 2892,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to uchwyt (hak/wkrętak) przeznaczony do stabilnego mocowania parasoli ogrodowych i plażowych w podłożu. W strukturze drzewa kategorii najtrafniejszym i najbardziej specyficznym miejscem dla akcesoriów do parasoli jest kategoria 'Parasole ogrodowe' (liść w gałęzi Dom i Ogród > Ogród > Meble ogrodowe)."
+    },
+    {
+        "ID_Produktu": "5015",
+        "Nazwa_Produktu": "ZESTAW REGULOWANY DO BADMINTONA TENISA SIATKÓWKI 3W1",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjny zestaw rekreacyjny (3w1), który pozwala na grę w badmintona, tenisa i siatkówkę. Wybrano kategorię 'Badminton' (5029), ponieważ jest to najbardziej szczegółowa kategoria (liść) pasująca do opisu, a maksymalna wysokość siatki (155 cm) jest standardową wysokością siatki do badmintona. Zgodnie z wytycznymi, wybrano konkretną kategorię sportu zamiast ogólnej kategorii 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "5165",
+        "Nazwa_Produktu": "LAMPA ULICZNA LATARNIA SOLARNA 120LED + PILOT CZUJNIK RUCHU I ZMIERZCHU",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalne_ID_AI": 3875,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest solarną lampą zewnętrzną o charakterystyce latarni ulicznej. Najlepiej pasuje do ścieżki kategorii Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy, która jest kategorią końcową (liściem) i precyzyjnie opisuje charakter przedmiotu."
+    },
+    {
+        "ID_Produktu": "5857",
+        "Nazwa_Produktu": "POMPKA DO PIŁEK 17CM Z IGŁĄ DWUKIERUNKOWA",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczna pompka z igłą dedykowana do piłek, co klasyfikuje ją jako akcesorium do sportów drużynowych. W podanym drzewie kategorii najbardziej precyzyjnym liściem dla tego typu asortymentu są 'Akcesoria' w sekcji 'Piłka nożna', będącej najszerszą kategorią dla sportów piłkarskich."
+    },
+    {
+        "ID_Produktu": "5876",
+        "Nazwa_Produktu": "Plecak kabinowy Meteor Hermod 20 l Rami",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Plecaki",
+        "Finalne_ID_AI": 2755,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest plecakiem podróżnym (kabinowym), co bezpośrednio odpowiada kategorii 'Plecaki' w gałęzi 'Moda > Torby i torebki'. Wybrana kategoria jest liściem i najlepiej oddaje charakter przedmiotu jako bagażu podręcznego."
+    },
+    {
+        "ID_Produktu": "5926",
+        "Nazwa_Produktu": "POKROWIEC NA MOTOR 228x124/75x99CM DUNLOP",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalne_ID_AI": 4501,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec ochronny na pojazd (motocykl/skuter). W podanym drzewie kategoria 'Pokrowce' (id: 4501) jest najbardziej precyzyjnym liściem odpowiadającym typowi produktu, mimo że znajduje się w gałęzi akcesoriów samochodowych. Jest to wybór najmniej mylący i zgodny z sugestią systemu OLX."
+    },
+    {
+        "ID_Produktu": "5976",
+        "Nazwa_Produktu": "Patera 3 - poziomowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Patery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to patera na ciasto i owoce, będąca elementem zastawy stołowej w kategorii Dom i Ogród. Kategoria ID 2156 jest bezpośrednim i najbardziej precyzyjnym dopasowaniem typu liść dla tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "5993",
+        "Nazwa_Produktu": "Wieszak dziecięcy Junior - zestaw 6 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw wieszaków na ubrania. W podanym drzewie kategorii kategoria 'Wieszaki' (ID: 1948) w gałęzi 'Dom i Ogród > Meble' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem dla tego typu akcesoriów, nawet jeśli są przeznaczone dla dzieci."
+    },
+    {
+        "ID_Produktu": "5995",
+        "Nazwa_Produktu": "DecoBella Transparentna Mata do szafek 50x125 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Maty edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to mata ochronna (liner) przeznaczona do szuflad i szafek. W strukturze drzewa kategorii OLX, akcesoria służące do wyścielania, ochrony lub poprawy funkcjonalności mebli najlepiej pasują do kategorii 'Akcesoria meblowe'. Wskazówka o matach edukacyjnych jest błędna ze względu na inne przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "6024",
+        "Nazwa_Produktu": "Krzesełko dziecięce ABC 38x56x27cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalne_ID_AI": 4721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to krzesełko przeznaczone dla dzieci, co idealnie pasuje do kategorii liścia 'Krzesła' znajdującej się w gałęzi Meble > Meble dla dzieci w sekcji Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "6025",
+        "Nazwa_Produktu": "Krzesełko dziecięce do lat 3 FIORE czerwone",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalne_ID_AI": 4721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to krzesełko przeznaczone dla dzieci. Najbardziej precyzyjną kategorią-liściem pasującą do tego opisu jest kategoria 'Krzesła', znajdująca się w gałęzi Dom i Ogród > Meble > Meble dla dzieci."
+    },
+    {
+        "ID_Produktu": "6026",
+        "Nazwa_Produktu": "Regał na kółkach 2 poziomowy Decobella SZARY dł.36 szer.23. wys. 40",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Regały",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Regały",
+        "Finalne_ID_AI": 720,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany regałem w tytule i opisie, a kategoria 720 (Regały) w sekcji Meble jest najbardziej precyzyjnym dopasowaniem dla tego typu wyposażenia domowego."
+    },
+    {
+        "ID_Produktu": "6027",
+        "Nazwa_Produktu": "Regał wąski na kółkach 3 poziomowy Decobella antracyt dł 54 szer.18 x wys. 71",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Regały",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Regały",
+        "Finalne_ID_AI": 720,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany regałem i pełni funkcję przechowywania na półkach. Kategoria 'Regały' (liść) w gałęzi 'Meble' jest najbardziej precyzyjnym i najmniej mylącym wyborem dla tego typu przedmiotu, mimo jego mobilności i wykonania z tworzywa sztucznego."
+    },
+    {
+        "ID_Produktu": "6028",
+        "Nazwa_Produktu": "Regał wąski na kółkach 4 poziomowy Decobella antracyt dł. 54 x szer. 18 x wys.100",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Regały",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Regały",
+        "Finalne_ID_AI": 720,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wąski regał (otwarta szafka z półkami), który w tytule i opisie jest jednoznacznie określony jako mebel do przechowywania. Kategoria 'Regały' w gałęzi 'Dom i Ogród > Meble' jest najbardziej precyzyjnym dopasowaniem semantycznym i stanowi liść w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "6029",
+        "Nazwa_Produktu": "Regał wąski na kółkach 4 poziomowy Decobella biały dł. 54 x szer. 18 x wys.100",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Regały",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Regały",
+        "Finalne_ID_AI": 720,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest określony jako regał do użytku domowego (kuchnia, łazienka, pokój dziecięcy), co idealnie odpowiada kategorii liścia 'Regały' w gałęzi 'Dom i Ogród > Meble'."
+    },
+    {
+        "ID_Produktu": "6052",
+        "Nazwa_Produktu": "BTS0060 SPODNIE TERMOAKTYWNE CZARNE MĘSKIE 2XL/3XL RAGNAR NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Spodnie sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to spodnie termoaktywne męskie. Najbardziej precyzyjną kategorią-liściem dla tego typu odzieży funkcyjnej w gałęzi ubrań męskich jest 'Odzież termiczna' (Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna)."
+    },
+    {
+        "ID_Produktu": "6054",
+        "Nazwa_Produktu": "BTS0060 SPODNIE TERMOAKTYWNE SZARE MĘSKIE L/XL RAGNAR NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Spodnie sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to męskie spodnie termoaktywne. W drzewie kategorii pod gałęzią Moda > Ubrania męskie > Odzież sportowa znajduje się kategoria-liść 'Odzież termiczna', która semantycznie idealnie odpowiada przeznaczeniu i charakterystyce produktu."
+    },
+    {
+        "ID_Produktu": "6055",
+        "Nazwa_Produktu": "BTS0060 SPODNIE TERMOAKTYWNE SZARE MĘSKIE 2XL/3XL RAGNAR NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Spodnie sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to męskie spodnie termoaktywne. W drzewie kategorii, w gałęzi Moda > Ubrania męskie > Odzież sportowa, znajduje się dedykowana kategoria 'Odzież termiczna', która najlepiej oddaje specyfikę i przeznaczenie tego produktu."
+    },
+    {
+        "ID_Produktu": "6056",
+        "Nazwa_Produktu": "BTS0464 SPODNIE TERMOAKTYWNE CZARNE MĘSKIE L/XL MAGNUS NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Spodnie sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to męskie spodnie termoaktywne. Kategoria 'Odzież termiczna' w obrębie ubrań męskich i odzieży sportowej jest najbardziej precyzyjnym dopasowaniem dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "6057",
+        "Nazwa_Produktu": "BTS0464 SPODNIE TERMOAKTYWNE CZARNE MĘSKIE 2XL/3XL MAGNUS NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Spodnie sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to męskie spodnie termoaktywne przeznaczone do aktywności fizycznej. W drzewie kategorii, w gałęzi Moda > Ubrania męskie > Odzież sportowa, znajduje się precyzyjna kategoria 'Odzież termiczna' (is_leaf: true), która najlepiej odpowiada specyfikacji produktu."
+    },
+    {
+        "ID_Produktu": "6058",
+        "Nazwa_Produktu": "BTS0062 SPODNIE TERMOAKTYWNE CZARNE DAMSKIE S/M ROSA NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > Odzież sportowa > Odzież termiczna",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2942,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to damskie spodnie termoaktywne. Najbardziej precyzyjną kategorią-liściem odzwierciedlającą przeznaczenie i płeć użytkownika jest 'Odzież termiczna' w ścieżce Moda > Ubrania damskie > Odzież sportowa."
+    },
+    {
+        "ID_Produktu": "6059",
+        "Nazwa_Produktu": "BTS0062 SPODNIE TERMOAKTYWNE CZARNE DAMSKIE L/XL ROSA NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > Odzież sportowa > Odzież termiczna",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2942,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to damskie spodnie termoaktywne, co jednoznacznie wskazuje na kategorię 'Odzież termiczna' w sekcji ubrań damskich (Odzież sportowa)."
+    },
+    {
+        "ID_Produktu": "6061",
+        "Nazwa_Produktu": "BTK0060 KOSZULKA TERMOAKTYWNA CZARNA MĘSKA 2XL/3XL RAGNAR NILS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież sportowa > Koszulki sportowe",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to męska koszulka termoaktywna. Najbardziej precyzyjną kategorią-liściem dla tego typu odzieży technicznej w dziale męskim jest 'Odzież termiczna' (w gałęzi Moda > Ubrania męskie > Odzież sportowa)."
     }
 ]

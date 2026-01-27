@@ -4378,5 +4378,660 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "953",
+        "Nazwa_Produktu": "PU 70x24 82A PRZEZROCZYSTE (4 szt.) + ABEC-7 (8 szt.) ZESTAW NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Czasopisma",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kółka poliuretanowe oraz łożyska ABEC-7, które są częściami zamiennymi i akcesoriami do sprzętu skatingowego (rolki, deskorolki, hulajnogi). Kategoria 'Akcesoria skating' jest najbardziej precyzyjnym dopasowaniem w drzewie kategorii.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pu 70x24 82a przezroczyste (4 szt.) + abec-7 (8 szt.) zestaw nils extreme",
+                "description": "Kółka PU CLEAR NILS EXTREME są wykonane z poliuretanu. Najważniejszymi parametrami kółek są twardość oraz średnica. Twardość kółek decyduje zarówno o komforcie jazdy jak i o przyczepności do podłoża. Kółka PU-82A zapewniają dobrą amortyzację oraz doskonałą adaptację do każdej nawierzchni. Średnica kółek ma bezpośredni wpływ na szybkość jazdy. Kółka o większej średnicy umożliwiają osiąganie większych prędkości, jednak nie gwarantują tak dużej manewrowości jak kółka o mniejszej średnicy. Łożysko ABEC 7, wykonane z wysokiej jakości stali węglowej, które zapewnia doskonałą twardość i wytrzymałość. Charakteryzuje się najniższym oporem toczenia co przekłada się na największą prędkość w amerykańskiej normie Annular Bearing Engineering Commitee w skrócie ABEC. Istotnym parametrem tego łożyska jest mimośrodowość czyli okrągłość na torze w pierścieniu wewnętrznym i wynosi zaledwie 0,0025mm. Specyfikacja: Twardość kółka: 82A Rozmiar: PU 70×24 mm/82A Ilość w opakowaniu: 4 szt. Klasa łożysk: ABEC 7 Ilość łożysk w opakowaniu: 8 Ilość tulejek dystansowych: 4 Opakowanie: blister Uwagi: Nie przeznaczone do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 1679,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 52.69,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/43953.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/43952.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "2450",
+        "Nazwa_Produktu": "MFK07 VIOLET-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 120*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata fitness wykonana z pianki EVA, przeznaczona do ćwiczeń i aerobiku, co wprost odpowiada liściowi 'Maty' w gałęzi Sport i Hobby > Fitness > Akcesoria treningowe.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Mfk07 violet-black mata fitness klubowa z otworami 120*60cm eva 15mm hms premium",
+                "description": "Mata fitness MFK07, to idealny produkt do ćwiczeń. Sprawdzi się zarówno w treningu siłowym, jak i w aerobiku. Antypoślizgowa struktura maty, zapobiega przesuwaniu się podczas ćwiczeń. Dzięki temu, nasz trening będzie komfortowy niezależnie od rodzaju nawierzchni, na której ćwiczymy. Mata zapewnia idealną amortyzację, między użytkownikiem, a twardą podłogą. MFK07, dopasowuje się do kształtu ciała trenującego, co sprawia, że wygoda w czasie ćwiczeń jest doskonała. Mata treningowa, sprawdzi się świetnie zarówno do ćwiczeń w domowym zaciszu, jak i na siłowni. Praktyczne otwory w macie, umożliwiają powieszenie produktu na ścianie. Mata MFK07, to obowiązkowy element naszych fitnessowych ćwiczeń. Specyfikacja: Kolor: fioletowo-czarny Wymiary: 120 cm x 60 cm x 15 mm Materiał: EVA Odległość pomiędzy otworami: 50 cm Uwagi: Nie przeznaczona do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4346,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 124.31,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/367035.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/367036.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/367037.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/367038.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/img_4(16).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "2451",
+        "Nazwa_Produktu": "MFK07 LIGHT GREY-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 120*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest matą fitness przeznaczoną do ćwiczeń aerobowych i treningu, co jednoznacznie klasyfikuje go w ścieżce Sport i Hobby > Fitness > Akcesoria treningowe > Maty.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Mfk07 light grey-black mata fitness klubowa z otworami 120*60cm eva 15mm hms premium",
+                "description": "Mata fitness MFK07, to idealny produkt do ćwiczeń. Sprawdzi się zarówno w treningu siłowym, jak i w aerobiku. Antypoślizgowa struktura maty, zapobiega przesuwaniu się podczas ćwiczeń. Dzięki temu, nasz trening będzie komfortowy niezależnie od rodzaju nawierzchni, na której ćwiczymy. Mata zapewnia idealną amortyzację, między użytkownikiem, a twardą podłogą. MFK07, dopasowuje się do kształtu ciała trenującego, co sprawia, że wygoda w czasie ćwiczeń jest doskonała. Mata treningowa, sprawdzi się świetnie zarówno do ćwiczeń w domowym zaciszu, jak i na siłowni. Praktyczne otwory w macie, umożliwiają powieszenie produktu na ścianie. Mata MFK07, to obowiązkowy element naszych fitnessowych ćwiczeń. Specyfikacja: Kolor: szaro-czarny Wymiary: 120 cm x 60 cm x 15 mm Materiał: EVA Odległość pomiędzy otworami: 50 cm Uwagi: Nie przeznaczona do użytku komercyjnego\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4346,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 124.31,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/367039.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/367040.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/367041.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/367042.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/img_4(17).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "2471",
+        "Nazwa_Produktu": "MFK08 GREEN-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 140*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest matą fitness przeznaczoną do ćwiczeń siłowych i aerobiku, co idealnie pasuje do kategorii mat w sekcji akcesoriów treningowych w dziale fitness.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Mfk08 green-black mata fitness klubowa z otworami 140*60cm eva 15mm hms premium",
+                "description": "Mata fitness MFK08 , to idealny produkt do ćwiczeń. Sprawdzi się zarówno w treningu siłowym, jak i w aerobiku. Antypoślizgowa struktura maty, zapobiega przesuwaniu się podczas ćwiczeń. Dzięki temu, nasz trening będzie komfortowy niezależnie od rodzaju nawierzchni, na której ćwiczymy. Mata zapewnia idealną amortyzację, między użytkownikiem, a twardą podłogą. MFK08 , dopasowuje się do kształtu ciała trenującego, co sprawia, że wygoda w czasie ćwiczeń jest doskonała. Mata treningowa, sprawdzi się świetnie zarówno do ćwiczeń w domowym zaciszu, jak i na siłowni. Praktyczne otwory w macie, umożliwiają powieszenie produktu na ścianie. Mata MFK08 , to obowiązkowy element naszych fitnessowych ćwiczeń. Antypoślizgowa i uniwersalna mata zapewni Ci odpowiednie bezpieczeństwo podczas treningu. Masz pewność, że nie przesunie się podczas ćwiczeń , a twoje ruchy będą wykonywane stabilnie. To idealna mata dla każdego, kto dba o swoje zdrowie i kondycję. MFK08 to uniwersalny model , ponieważ można go używać do różnych celów i w różnych warunkach. Niezależnie od tego, czy chcesz poprawić swoją kondycję, zrelaksować się czy wzmocnić mięśnie. Grubość - trenuj bez ograniczeń! Na naszej macie MFK08 możesz ćwiczyć bezpiecznie i wygodnie niezależnie od podłoża. Ten model ma grubość 1,5 cm , więc ochroni Cię przed chłodem i twardością parkietu , zapewniając pełną satysfakcję z treningu. Pamiętaj - nasza mata jest dedykowana do użytku w klubie. Czystość , czyli zadbaj z HMS Premium o higienę i estetykę. Nasza mata jest wykonana ze specjalnych materiałów, które zapobiegają przenikaniu brudu i wilgoci. Możesz ją łatwo umyć , nawet za pomocą zwykłej ścierki, i cieszyć się jej świeżością oraz zjawiskowym wyglądem przez długi czas. Nasza mata jest świetnym rozwiązaniem dla osób, które cenią sobie czystość i porządek. Materiał EVA , z którego wykonana jest mata MFK08 , jest odporny na ścieranie , wilgoć i bakterie. To jedne z najważniejszych cech maty z materiału EVA . Oznacza to, że mata nie ulega zniszczeniu pod wpływem ciągłego kontaktu z podłożem i obuwiem. Mata jest również lekka i łatwa w transporcie, dlatego czemu można ją zabrać ze sobą w dowolne miejsce. Stabilność - ćwicz pewnie i z elegancją! Nasza mata antypoślizgowa jest tak zaprojektowana, że nie zwija się ani nie marszczy podczas treningu . Dzięki temu zachowuje swój kształt i wygląd nawet po wielu sesjach treningowych. Dodatkowo ma otwory, które umożliwiają powieszenie jej na stojaku lub ścianie. Mata od HMS Premium to praktyczne i estetyczne rozwiązanie dla Ciebie. Specyfikacja: Kolor: zielono-czarny Wymiary: 140 cm x 60cm x 15 mm Materiał: EVA Odległość pomiędzy otworami: 49,5 cm Uwagi: Nie przeznaczona do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4346,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 149.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/370109.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/img_4(18).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/370110.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/370111.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/2001-3000/370112.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "3276",
+        "Nazwa_Produktu": "NH18190 2w1 CZARNO-NIEBIESKI ROZM.L(39-43) ŁYŻWOROLKI Z WYM. PŁ. HOKEJOWĄ NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Rolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Rolki",
+        "Finalne_ID_AI": 1677,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw 2w1 (łyżworolki i łyżwy). Na platformie OLX tego typu hybrydowy sprzęt sportowy jest kategoryzowany pod 'Rolki' w gałęzi 'Skating', co potwierdza również wskazówka systemowa. Wybrana kategoria jest liściem i najlepiej oddaje główne przeznaczenie produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nh18190 2w1 czarno-niebieski rozm.l(39-43) łyżworolki z wym. pł. hokejową nils extreme",
+                "description": "Łyżworolki są przyjemną metodą na umilenie dnia oraz zadbanie o zdrowie i kondycję. W łatwy sposób zadbasz o sylwetkę. W swojej ofercie posiadamy zarówno modele dla najmłodszych jak i dorosłych. Ciekawy design i wzornictwo zaspokoją nie jeden gust i przyciągną uwagę ! NH18190 2w1 to łyżworolki dla dzieci i młodzieży. Przeznaczony jest dla pasjonatów jazdy. Sprosta największym oczekiwaniom – ma możliwość 2 różnych konfiguracji. Model ten można używać jako łyżwy oraz łyżworolki. Taka możliwość pozwala na wykorzystanie sprzętu zarówno latem jak i zimą ! Łyżwy cechują się odpornością na uszkodzenia i wysoką trwałością. Marka NILS cechuje się wysoką jakością wykonania, dzięki czemu rolki posłużą długi czas. Wykonano je z syntetycznej skóry, tworzywa EVA i pianki. Taki układ nadaje stabilność oraz umożliwia dopływ powietrza do skóry podczas jazdy. Buty są lekkie, zapięcia na rzep są łatwe w obsłudze przy jednoczesnym zapewnieniu bezpieczeństwa i komfortu. NH18190 ma płozy ze stali nierdzewnej oraz łożyska ABEC7 , które zapewnią mniejsze tarcie przy jednoczesnej szybszej jeździe. Regulacja rozmiaru zapewni wykorzystanie rolek nie tylko w jednym sezonie, ale i na dłuższy czas. Możliwość wyboru odpowiedniego rozmiaru z regulacją sprawiają, że na pewno znajdziesz coś dla siebie ! Ten zakup sprawi Ci wiele radości, na długi czas ! Specyfikacja: But: półmiękki Wkładka: materiał EVA, pianka o dużej gęstości Długość wewnętrzna buta (mm): 245-270 Zapięcie: klamra dwusekcyjna, pasek na rzep, sznurowanie Płoza łyżwy: wysokogatunkowa stal nierdzewna Płoza łyżworolki: aluminium Kółka: PU 72mm/82A (L) Łożyska: ABEC 7 Przycisk do regulacji rozmiaru Uwagi: Nie przeznaczone do użytku komercyjnego Certyfikaty, normy: CE Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 1677,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 212.21,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372612.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372601.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372602.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372603.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372604.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372605.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372606.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372607.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "3280",
+        "Nazwa_Produktu": "NH18190 2w1 BIAŁO-RÓŻOWY ROZM.M(34-38) ŁYŻWOROLKI Z WYM. PŁ. HOKEJOWĄ NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Łyżwy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Rolki",
+        "Finalne_ID_AI": 1677,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to łyżworolki 2w1, czyli hybryda łącząca funkcję rolek i łyżew (dzięki wymiennej płozie). W polskiej kategoryzacji termin 'łyżworolki' (użyty jako pierwszy w tytule) jest semantycznie najbliższy kategorii 'Rolki'. Choć produkt posiada funkcję łyżew, kategoria 'Rolki' w gałęzi 'Skating' jest bardziej uniwersalna dla sprzętu całorocznego i najczęściej wybierana dla tego typu modeli marki Nils Extreme.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nh18190 2w1 biało-różowy rozm.m(34-38) łyżworolki z wym. pł. hokejową nils extreme",
+                "description": "Łyżworolki są przyjemną metodą na umilenie dnia oraz zadbanie o zdrowie i kondycję. W łatwy sposób zadbasz o sylwetkę. W swojej ofercie posiadamy zarówno modele dla najmłodszych jak i dorosłych. Ciekawy design i wzornictwo zaspokoją nie jeden gust i przyciągną uwagę ! NH18190 2w1 to łyżworolki dla dzieci i młodzieży. Przeznaczony jest dla pasjonatów jazdy. Sprosta największym oczekiwaniom – ma możliwość 2 różnych konfiguracji. Model ten można używać jako łyżwy oraz łyżworolki. Taka możliwość pozwala na wykorzystanie sprzętu zarówno latem jak i zimą ! Łyżwy cechują się odpornością na uszkodzenia i wysoką trwałością. Marka NILS cechuje się wysoką jakością wykonania, dzięki czemu rolki posłużą długi czas. Wykonano je z syntetycznej skóry, tworzywa EVA i pianki. Taki układ nadaje stabilność oraz umożliwia dopływ powietrza do skóry podczas jazdy. Buty są lekkie, zapięcia na rzep są łatwe w obsłudze przy jednoczesnym zapewnieniu bezpieczeństwa i komfortu. NH18190 ma płozy ze stali nierdzewnej oraz łożyska ABEC7 , które zapewnią mniejsze tarcie przy jednoczesnej szybszej jeździe. Regulacja rozmiaru zapewni wykorzystanie rolek nie tylko w jednym sezonie, ale i na dłuższy czas. Możliwość wyboru odpowiedniego rozmiaru z regulacją sprawiają, że na pewno znajdziesz coś dla siebie ! Ten zakup sprawi Ci wiele radości, na długi czas ! Specyfikacja: But: półmiękki Wkładka: materiał EVA, pianka o dużej gęstości Długość wewnętrzna buta (mm): 215-240 Zapięcie: klamra dwusekcyjna, pasek na rzep, sznurowanie Płoza łyżwy: wysokogatunkowa stal nierdzewna Płoza łyżworolki: aluminium Kółka: PU 70mm/82A (M) Łożyska: ABEC 7 Przycisk do regulacji rozmiaru Uwagi: Nie przeznaczone do użytku komercyjnego Certyfikaty, normy: CE Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 1677,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 212.21,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/img_5(64).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372661.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372663.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372664.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372665.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372666.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372667.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/372668.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "3476",
+        "Nazwa_Produktu": "MFK08 GREY-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 140*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata fitness wykonana z pianki EVA, przeznaczona do ćwiczeń siłowych i aerobiku. Kategoria 'Sport i Hobby > Fitness > Akcesoria treningowe > Maty' (ID 4346) jest najbardziej precyzyjnym dopasowaniem w podanym drzewie kategorii.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Mfk08 grey-black mata fitness klubowa z otworami 140*60cm eva 15mm hms premium",
+                "description": "Mata fitness MFK08 , to idealny produkt do ćwiczeń. Sprawdzi się zarówno w treningu siłowym, jak i w aerobiku. Antypoślizgowa struktura maty, zapobiega przesuwaniu się podczas ćwiczeń. Dzięki temu, nasz trening będzie komfortowy niezależnie od rodzaju nawierzchni, na której ćwiczymy. Mata zapewnia idealną amortyzację, między użytkownikiem, a twardą podłogą. MFK08 , dopasowuje się do kształtu ciała trenującego, co sprawia, że wygoda w czasie ćwiczeń jest doskonała. Mata treningowa, sprawdzi się świetnie zarówno do ćwiczeń w domowym zaciszu, jak i na siłowni. Praktyczne otwory w macie, umożliwiają powieszenie produktu na ścianie. Mata MFK08 , to obowiązkowy element naszych fitnessowych ćwiczeń. Antypoślizgowa i uniwersalna mata zapewni Ci odpowiednie bezpieczeństwo podczas treningu. Masz pewność, że nie przesunie się podczas ćwiczeń , a twoje ruchy będą wykonywane stabilnie. To idealna mata dla każdego, kto dba o swoje zdrowie i kondycję. MFK08 to uniwersalny model , ponieważ można go używać do różnych celów i w różnych warunkach. Niezależnie od tego, czy chcesz poprawić swoją kondycję, zrelaksować się czy wzmocnić mięśnie. Grubość - trenuj bez ograniczeń! Na naszej macie MFK08 możesz ćwiczyć bezpiecznie i wygodnie niezależnie od podłoża. Ten model ma grubość 1,5 cm , więc ochroni Cię przed chłodem i twardością parkietu , zapewniając pełną satysfakcję z treningu. Pamiętaj - nasza mata jest dedykowana do użytku w klubie. Czystość , czyli zadbaj z HMS Premium o higienę i estetykę. Nasza mata jest wykonana ze specjalnych materiałów, które zapobiegają przenikaniu brudu i wilgoci. Możesz ją łatwo umyć , nawet za pomocą zwykłej ścierki, i cieszyć się jej świeżością oraz zjawiskowym wyglądem przez długi czas. Nasza mata jest świetnym rozwiązaniem dla osób, które cenią sobie czystość i porządek. Materiał EVA , z którego wykonana jest mata MFK08 , jest odporny na ścieranie , wilgoć i bakterie. To jedne z najważniejszych cech maty z materiału EVA . Oznacza to, że mata nie ulega zniszczeniu pod wpływem ciągłego kontaktu z podłożem i obuwiem. Mata jest również lekka i łatwa w transporcie, dlatego czemu można ją zabrać ze sobą w dowolne miejsce. Stabilność - ćwicz pewnie i z elegancją! Nasza mata antypoślizgowa jest tak zaprojektowana, że nie zwija się ani nie marszczy podczas treningu . Dzięki temu zachowuje swój kształt i wygląd nawet po wielu sesjach treningowych. Dodatkowo ma otwory, które umożliwiają powieszenie jej na stojaku lub ścianie. Mata od HMS Premium to praktyczne i estetyczne rozwiązanie dla Ciebie. Specyfikacja: Kolor: szaro-czarny Wymiary: 140 cm x 60cm x 15 mm Materiał: EVA Odległość pomiędzy otworami: 49,5 cm Uwagi: Nie przeznaczona do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4346,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 149.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/MFK08_GREY_BLACK_MAXI_01.jpeg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/img_4(67).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/MFK08_GREY_BLACK_MAXI_04.jpeg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/MFK08_GREY_BLACK_MAXI_02.jpeg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/3001-4000/MFK08_GREY_BLACK_MAXI_03.jpeg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "6021",
+        "Nazwa_Produktu": "Deska+ ociekacz",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Deski do krojenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Deski do krojenia",
+        "Finalne_ID_AI": 2119,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako deska wykonana z tworzywa sztucznego służąca do krojenia z dodatkową funkcją odprowadzania wody przez otwory. Idealnie pasuje do kategorii liściastej 'Deski do krojenia' wewnątrz przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Deska+ ociekacz",
+                "description": "Deska została wykonana z wysokiej jakości tworzywa sztucznego. Wyrób również nie absorbuje zapachów krojonych produktów oraz się nie odbarwia. Końcówka deski jest zaokrąglona z wydrążonymi dziurkami co pozwoli na odcieknięcie pokrojonych składników nad zlewem po ich pokrojeniu. Lekka i poręczna, niewielkich rozmiarów, z powodzeniem zmieści się do szuflady. Specyfikacja: Materiał : tworzywo sztuczne Długość: 38 cm Szerokość: 25 cm Produkt występuje w mixie kolorystycznym - wysyłany losowo\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Krywałd-Katex\nAdres: Zwycięstwa 28, 44-193, Knurów, PL\nEmail: sklep(at)katex.com.pl\nTelefon: 32 235 22 30\n----------------------------------------",
+                "category_id": 2119,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 32.5,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/Taca_DESKA_DO_ROZMRAZANIA_miesa_mrozonek_OCIEKACZ_Dlugosc_cm_38_cm.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/Taca_DESKA_DO_ROZMRAZANIA_miesa_mrozonek_OCIEKACZ_EAN_GTIN_5907513615453.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/Taca_DESKA_DO_ROZMRAZANIA_miesa_mrozonek_OCIEKACZ_Kod_producenta_615453.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/Taca_DESKA_DO_ROZMRAZANIA_miesa_mrozonek_OCIEKACZ_Marka_bez_marki.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "6023",
+        "Nazwa_Produktu": "Kpl. pojemników prostokąt IVy kolor z drewniana pokrywką 2,0 lt+1,0 lt +0,5 ltx2",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw pojemników kuchennych przeznaczonych do przechowywania żywności (wymienione w opisie: sól, cukier, makarony), co wprost odpowiada kategorii 'Pojemniki i przechowywanie żywności' w dziale przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kpl. pojemników prostokąt ivy kolor z drewniana pokrywką 2,0 lt+1,0 lt +0,5 ltx2",
+                "description": "Ten praktyczny i estetyczny zestaw 4 pojemników kuchennych to doskonałe rozwiązanie dla osób, które cenią sobie minimalizm i organizację w swojej kuchni. Wykonane z najwyższej jakości tworzywa, każdy z pojemników zamykany jest drewnianą pokrywką z uszczelką, co zapewnia świeżość przechowywanych produktów. Wykorzystanie tego zestawu pojemników w kuchni to nie tylko świetny sposób na przechowywanie składników w zasięgu ręki, ale także na dodanie swojemu wnętrzu odrobiny nowoczesnej elegancji. Transparentne ścianki pozwalają na szybkie zidentyfikowanie zawartości, a drewniane elementy wprowadzają ciepło do wystroju pomieszczenia Specyfikacja: Pojemnik 2 l: szerokość 14,5 cm x głębokość 9 cm, wysokość 21,5 cm Pojemnik 1 l: szerokość 14,5 cm x głębokość 9 cm, wysokość 11 cm 2x Pojemnik 0,5 l: szerokość 14,5 cm x głębokość 9 cm, wysokość 5,5 cm Materiał: najwyższej jakości tworzywo Pokrywki: drewno z uszczelką Zalety: Wielowarstwowe przechowywanie: Zestaw oferuje różne rozmiary pojemników, które są idealne do przechowywania różnych rodzajów żywności, od soli i cukru, po makarony i płatki śniadaniowe. Nowoczesny design: Prostokątny kształt i białe wykończenie pojemników w połączeniu z naturalnym drewnem pokrywek wprowadzają do kuchni nowoczesny i świeży wygląd. Trwałość i higiena: Wysokiej jakości tworzywo jest łatwe do utrzymania w czystości i odpowiada za długą żywotność produktu. Estetyczna organizacja: Zestaw nie tylko pomaga utrzymać porządek, ale również pełni funkcję dekoracyjną.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Krywałd-Katex\nAdres: Zwycięstwa 28, 44-193, Knurów, PL\nEmail: sklep(at)katex.com.pl\nTelefon: 32 235 22 30\n----------------------------------------",
+                "category_id": 2130,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 51.82,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/Zestaw_Komplet_4_Pojemnikow_do_Kuchni_Kuchenne_Drewniane_Wieczko.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/Zestaw_Komplet_4_Pojemnikow_do_Kuchni_Kuchenne_Drewniane_Wieczko_Kod_producenta_W15_TH_OBJE.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/Zestaw_Komplet_4_Pojemnikow_do_Kuchni_Kuchenne_Drewniane_Wieczko_EAN_GTIN_8683027450458.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/Zestaw_Komplet_4_Pojemnikow_do_Kuchni_Kuchenne_Drewniane_Wieczko_Kolor_bialy.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/6001-7000/Zestaw_Komplet_4_Pojemnikow_do_Kuchni_Kuchenne_Drewniane_Wieczko_Material_wykonania_tworzywo_sztuczne.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
