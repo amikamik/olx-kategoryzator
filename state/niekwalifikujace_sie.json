@@ -28,5 +28,105 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to uchwyt spawalniczy (akcesorium do spawarek). W drzewie kategorii OLX sprzęt spawalniczy oraz dedykowane mu akcesoria (uchwyty, przewody) znajdują się w kategorii 'Spawarki i lutownice' w dziale Narzędzia. Jest to najbardziej specyficzna kategoria dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "1000459",
+        "Nazwa_Produktu": "Uchwyt do elektrod MMA z przewodem dł. 3,5m DKJ16-25 200A",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Uchwyt do elektrod MMA z przewodem jest bezpośrednim osprzętem spawalniczym. W podanym drzewie kategorii, kategoria 'Spawarki i lutownice' (1700) w sekcji 'Narzędzia' jest najbardziej trafnym i specyficznym miejscem dla maszyn spawalniczych oraz ich kluczowych akcesoriów."
+    },
+    {
+        "ID_Produktu": "1000520",
+        "Nazwa_Produktu": "Odizolowywacz korowarka do ściągania izolacji z kabli i przewodów MSW-Wirestripper-007",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczna korowarka do kabli, która zgodnie z opisem działa bez dostępu do energii elektrycznej poprzez manualne przeciąganie przewodów. Jako narzędzie montowane do stołu, ale obsługiwane ręcznie, najlepiej pasuje do kategorii narzędzi ręcznych w dziale Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "1000557",
+        "Nazwa_Produktu": "Uszczelka silikonowa do napełniacza nadziewarki kiełbasy 10-15L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest częścią eksploatacyjną (uszczelką) do profesjonalnych maszyn gastronomicznych (nadziewarek). W strukturze kategorii OLX dla sektora przemysłowego, najbardziej precyzyjną kategorią dla części zamiennych do maszyn i urządzeń profesjonalnych jest kategoria 'Części do maszyn i urządzeń' (ID: 4767) znajdująca się bezpośrednio pod głównym działem 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1000565",
+        "Nazwa_Produktu": "Sitko 4 mm do wilka maszynki do mięsa 220EXPERT",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do mięsa",
+        "Finalne_ID_AI": 5048,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest sitkiem (częścią eksploatacyjną) do profesjonalnego urządzenia gastronomicznego typu 'wilk', co jednoznacznie wskazuje na kategorię Maszyny do mięsa w obrębie sekcji Gastronomia (Firma i Przemysł)."
+    },
+    {
+        "ID_Produktu": "1000566",
+        "Nazwa_Produktu": "Sitko szarpak do wilka maszynki do mięsa 220EXPERT",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do mięsa",
+        "Finalne_ID_AI": 5048,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne sitko typu szarpak przeznaczone do 'wilka', czyli gastronomicznej maszynki do mielenia mięsa. Ze względu na przemysłowy charakter urządzenia (nazwa '220EXPERT', deklaracja CE dla Sanepidu) oraz brak dedykowanej podkategorii na akcesoria w dziale gastronomii, najlepszym wyborem jest najbardziej specyficzna kategoria maszyn, do których ta część przynależy."
+    },
+    {
+        "ID_Produktu": "1000569",
+        "Nazwa_Produktu": "Tarcza do szatkownicy elektrycznej plastry 2mm P2",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest częścią zamienną (tarczą tnącą) do profesjonalnej szatkownicy gastronomicznej marki Royal Catering. Opis wyraźnie wskazuje na przeznaczenie do profesjonalnych urządzeń gastronomicznych i spełnianie wymogów Sanepidu, co kieruje produkt do kategorii Firma i Przemysł > Gastronomia > Szatkownice."
+    },
+    {
+        "ID_Produktu": "1000570",
+        "Nazwa_Produktu": "Tarcza do szatkownicy elektrycznej plastry 4mm P4",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza tnąca (część zamienna) do profesjonalnej szatkownicy gastronomicznej marki Royal Catering. Ze względu na jego przemysłowe/gastronomiczne przeznaczenie, najlepiej pasuje do kategorii 'Części do maszyn i urządzeń' w dziale 'Firma i Przemysł', która jest dedykowana podzespołom do maszyn profesjonalnych."
+    },
+    {
+        "ID_Produktu": "1000573",
+        "Nazwa_Produktu": "Tarcza do szatkownicy elektrycznej wiórki 5mm H5",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest częścią zamienną (tarczą tnącą) do elektrycznej szatkownicy. Ponieważ opis wyraźnie wskazuje na profesjonalne zastosowanie w gastronomii (marka Royal Catering, deklaracja zgodności dla Sanepidu), produkt należy przypisać do kategorii 'Firma i Przemysł > Gastronomia'. Najbardziej specyficzną kategorią dla tego urządzenia i jego akcesoriów jest 'Szatkownice'."
+    },
+    {
+        "ID_Produktu": "1000574",
+        "Nazwa_Produktu": "Sitko 8 mm do wilka maszynki do mięsa 120PRO",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do mięsa",
+        "Finalne_ID_AI": 5048,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sitko do profesjonalnej maszynki do mielenia mięsa (tzw. wilka) marki Royal Catering. Ze względu na przeznaczenie do profesjonalnej gastronomii, najlepiej pasuje do kategorii Maszyny do mięsa w obrębie działu Firma i Przemysł > Gastronomia."
+    },
+    {
+        "ID_Produktu": "1000579",
+        "Nazwa_Produktu": "Krążki papierowe do praski do hamburgerów 500szt. 130mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny artykuł eksploatacyjny (papier gastronomiczny z warstwą silikonu) przeznaczony do urządzeń gastronomicznych (prasek do hamburgerów). Ze względu na przemysłowe przeznaczenie (gastronomia), dużą liczbę sztuk w opakowaniu (500 szt.) oraz dedykowanie do maszyn marki Royal Catering, kategoria 'Gastronomia > Pozostałe' w dziale 'Firma i Przemysł' jest właściwym wyborem dla sektora B2B."
     }
 ]
