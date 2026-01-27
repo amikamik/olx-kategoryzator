@@ -670,7 +670,16 @@ Użyj tej ścieżki jedynie do zawężenia poszukiwań w podobnej gałęzi drzew
     llm_choice = {}
     if llm_response_str:
         try:
-            llm_choice = json.loads(llm_response_str)
+            parsed = json.loads(llm_response_str)
+            # Obsługa przypadku gdy Gemini zwraca listę zamiast pojedynczego obiektu
+            if isinstance(parsed, list) and len(parsed) > 0:
+                llm_choice = parsed[0]  # Bierzemy pierwszy element z listy
+                print(f"   ⚠️ AI zwróciło listę - używam pierwszego elementu")
+            elif isinstance(parsed, dict):
+                llm_choice = parsed
+            else:
+                print(f"Nieoczekiwany format odpowiedzi od AI: {type(parsed)}")
+                llm_choice = {'uzasadnienie': 'Nieoczekiwany format odpowiedzi od AI.'}
         except json.JSONDecodeError:
             print(f"Błąd parsowania JSON od LLM dla produktu {product['id']}. Odpowiedź: {llm_response_str}")
             llm_choice = {'uzasadnienie': 'Błąd parsowania odpowiedzi JSON od LLM.'}
