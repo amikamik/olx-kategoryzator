@@ -56,5 +56,75 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1000520",
+        "Nazwa_Produktu": "Odizolowywacz korowarka do ściągania izolacji z kabli i przewodów MSW-Wirestripper-007",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ręczne narzędzie do ściągania izolacji z przewodów. Mimo że może być używany w przemyśle, jego podstawową funkcją i charakterystyką jest bycie narzędziem ręcznym. Kategoria 'Dom i Ogród > Narzędzia > Narzędzia ręczne' jest najbardziej precyzyjnym i adekwatnym opisem produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Odizolowywacz korowarka do ściągania izolacji z kabli i przewodów msw-wirestripper-007",
+                "description": "Nazwa producenta: MSW-WIRESTRIPPER-007 Niezwykle skuteczny odizolowywacz do usuwania izolacji z kabli i przewodów elektrycznych niemieckiego producenta elektronarzędzi marki MSW . Odizolowywacze doskonale sprawdzi się przy odzyskiwaniu kolorowych metali, w eksploatacji rzemieślniczej, związanej z segregacją odpadów, przemysłowej, prywatnej itp. Korowarka czyli ciągacz izolacji przystosowany jest do obróbki kabli jedno oraz wielożyłowych o grubości od 1 do 15 mm , miedzianych i aluminiowych . Zaletę korowarki jest łatwość obsługi oraz możliwość zastosowania bez dostępu do energii elektrycznej . Umieszczony w regulowanym otworze przewód poprzez przeciągnięcie zostaje nacięty hartowanymi ostrzami, znajdującymi się na jednym z wałków, co pozwala na późniejsze, ręczne i sprawne usunięcie izolacji. Odizolowywacz można przymocować do stołu roboczego za pomocą dwóch śrub. W zestawie znajdują się dwa noże – jeden do zamocowania w maszynie i drugi zapasowy. Parametry techniczne: - Model - MSW-WIRESTRIPPER-007 - Nr katalogowy - 6077 - Stan artykułu - Nowy - Materiał - Stalowa blacha - Średnica kabla - 1 - 15 mm - Liczba otworów na kable - 1 - Wymiary (DxSxW) - 4 x 17,5 x 23,5 cm - Waga - 1,3 kg - Wymiary wysyłki (DxSxW) - 20 x 18 x 5 cm - Waga wysyłki - 1,7 kg W zestawie: - wielofunkcyjna korowarka do przewodów izolowanych MSW-WIRESTRIPPER-007 - zapsowy nóż do nacinania izolacji - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: EXPONDO POLSKA SP. Z O.O. SP. K.\nAdres: Dekoracyjna 3, 65-155, Zielona Góra, Polska\nEmail: info(at)expondo.pl\nTelefon: +48688881008\n----------------------------------------",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 124.79,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/6077-allegro.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/101/6077-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/6077-odizolowywacz-korowarka-do-sciagania-izolacji-z-kabli-i-przewodow-msw-wirestripper-007-msw-hurtownia-tanio-cena.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/6077-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/6077-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

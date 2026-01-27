@@ -18,5 +18,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to 'części zapasowe' (pierścienie, porcelanki) do przecinarki plazmowej (urządzenia typu narzędzie/elektronarzędzie). Kategoria 'Dom i Ogród > Narzędzia > Części do narzędzi' jest semantycznie najbardziej dopasowana do części zamiennych/eksploatacyjnych narzędzi warsztatowych. Kategoria 1700 'Spawarki i lutownice' jest przeznaczona głównie dla całych urządzeń, a 4715 'Osprzęt do narzędzi' częściej dotyczy akcesoriów typu wiertła czy tarcze, podczas gdy elementy palnika są kluczowymi częściami wymiennymi."
+    },
+    {
+        "ID_Produktu": "1000557",
+        "Nazwa_Produktu": "Uszczelka silikonowa do napełniacza nadziewarki kiełbasy 10-15L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uszczelka, czyli część zamienna do nadziewarki do kiełbasy. Opis wskazuje na profesjonalne zastosowanie (pojemność 10-15L, marka Royal Catering), co jednoznacznie klasyfikuje produkt w kategorii dla firm i przemysłu. Najlepiej dopasowaną kategorią-liściem jest 'Części do maszyn i urządzeń', która precyzyjnie opisuje przeznaczenie przedmiotu."
+    },
+    {
+        "ID_Produktu": "1000573",
+        "Nazwa_Produktu": "Tarcza do szatkownicy elektrycznej wiórki 5mm H5",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tarcza tnąca, czyli część zamienna do szatkownicy elektrycznej. Opis wyraźnie wskazuje, że jest to sprzęt profesjonalny, przeznaczony do gastronomii (\"profesjonalnych urządzeń gastronomicznych\"). Dlatego najbardziej odpowiednią kategorią jest \"Firma i Przemysł > Gastronomia\". Ponieważ w tej gałęzi nie ma dedykowanej podkategorii na części, najlepszym wyborem jest liść \"Pozostałe\"."
+    },
+    {
+        "ID_Produktu": "1000594",
+        "Nazwa_Produktu": "Dysza do grilla gazowego Royal Catering Gaz Ziemny 20 mbar",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dysza, czyli część zamienna do grilla gazowego. Najbardziej odpowiednią i szczegółową kategorią, w której potencjalny kupujący będzie szukał części do grilla, jest kategoria 'Grill'. Mimo że nie jest to sam grill, umieszczenie części zamiennej w tej samej kategorii co urządzenie główne jest standardową praktyką w przypadku braku dedykowanej podkategorii na akcesoria lub części. Ścieżka 'Dom i Ogród > Ogród > Grill' precyzyjnie określa przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1000599",
+        "Nazwa_Produktu": "Szklany cylinder do podgrzewacza Hot Dogów Royal Catering",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'część zamienna' (szklany cylinder) do profesjonalnego urządzenia gastronomicznego (podgrzewacz do parówek marki Royal Catering). Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najdokładniejszym i najmniej mylącym wyborem, ponieważ precyzyjnie opisuje przedmiot jako część do maszyny, a nie całe urządzenie."
     }
 ]
