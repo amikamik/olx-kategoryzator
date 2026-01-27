@@ -378,5 +378,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to akcesorium dedykowane do obsługi grilla (szpatuła/szpachelka do burgerów), dlatego najlepiej pasuje do kategorii 'Grill' w sekcji 'Ogród'. Sugestia systemowa dotycząca narzędzi ręcznych jest błędna, gdyż odnosi się do narzędzi budowlanych/warsztatowych."
+    },
+    {
+        "ID_Produktu": "1000744",
+        "Nazwa_Produktu": "Palnik gazowy gastronomiczny do Creme Brulee - Hendi 198209",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalne_ID_AI": 5047,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny palnik gazowy marki Hendi, przeznaczony do zastosowań gastronomicznych. Ze względu na swój profesjonalny charakter i przeznaczenie do obróbki cieplnej potraw, najlepiej pasuje do kategorii 'Kuchnie gastronomiczne' w sekcji przemysłowej, która na OLX obejmuje urządzenia do gotowania i palniki."
+    },
+    {
+        "ID_Produktu": "1000745",
+        "Nazwa_Produktu": "Gaz do palnika gastronomicznego 4szt.- Hendi 199046",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalne_ID_AI": 5047,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wkłady gazowe (kartusze) przeznaczone do profesjonalnych palników gastronomicznych marki Hendi. Ze względu na przeznaczenie produktu do obróbki cieplnej w gastronomii oraz renomowaną markę sprzętu profesjonalnego, kategoria 'Kuchnie gastronomiczne' w dziale 'Firma i Przemysł' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1000767",
+        "Nazwa_Produktu": "Taca poliestrowa gładka 325x265mm GN 1/2 - Hendi 876602",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taca marki Hendi, spełniająca standard gastronomiczny GN 1/2, co jednoznacznie wskazuje na przeznaczenie B2B i profesjonalne wyposażenie punktów gastronomicznych. Kategoria 'Pojemniki gastronomiczne' jest najbardziej właściwa dla asortymentu w standardzie Gastronorm (GN)."
+    },
+    {
+        "ID_Produktu": "1000768",
+        "Nazwa_Produktu": "Szufelka do nakładania frytek 200x160mm - Hendi 642504",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny przybór gastronomiczny marki Hendi, przeznaczony dla restauracji i punktów małej gastronomii, co jednoznacznie kieruje go do sekcji Firma i Przemysł > Gastronomia. Wobec braku specyficznej podkategorii dla akcesoriów kuchennych w tym dziale, kategoria 'Pozostałe' (5071) jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1000769",
+        "Nazwa_Produktu": "Szufelka do nakładania frytek 170x170mm - Hendi 642559",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wybrana kategoria to 'Firma i Przemysł > Gastronomia > Pozostałe'. Produkt to specjalistyczna szufelka do frytek marki Hendi, która jest producentem profesjonalnego sprzętu gastronomicznego. Opis wprost wskazuje na zastosowanie w restauracjach i małej gastronomii, co klasyfikuje ten przedmiot jako wyposażenie profesjonalne, a nie zwykły domowy przybór kuchenny."
+    },
+    {
+        "ID_Produktu": "1000770",
+        "Nazwa_Produktu": "Szufelka do nakładania frytek - Hendi 642566",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalny osprzęt gastronomiczny. Szufelka do frytek jest standardowym narzędziem wykorzystywanym w profesjonalnych kuchniach i punktach typu fast-food, dlatego kategoria Firma i Przemysł > Gastronomia > Pozostałe jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1000782",
+        "Nazwa_Produktu": "Taca poliestrowa antypoślizgowa 530x325mm GN 1/1 - Hendi 508626",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taca kelnerska marki Hendi, wykonana w standardzie gastronomicznym GN 1/1. Ze względu na przeznaczenie do użytku profesjonalnego (restauracje, hotele) oraz specyfikację techniczną, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
     }
 ]
