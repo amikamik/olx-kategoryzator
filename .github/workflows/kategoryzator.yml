@@ -24,6 +24,11 @@ on:
         required: false
         default: false
         type: boolean
+      refresh_feed:
+        description: 'Pobierz feed na nowo przed przetwarzaniem?'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -144,6 +149,7 @@ jobs:
           echo "KATEGORYZACJA OLX - GEMINI"
           echo "Model: ${{ inputs.gemini_model }}"
           echo "Sample size: ${{ inputs.sample_size }}"
+          echo "Refresh feed: ${{ inputs.refresh_feed }}"
           echo "=================================="
           echo ""
 
@@ -152,7 +158,11 @@ jobs:
 
           sed -i "s/SAMPLE_SIZE = .*/SAMPLE_SIZE = ${{ inputs.sample_size }}/" 08_kategoryzator_ekspert.py
 
-          python 08_kategoryzator_ekspert.py
+          if [ "${{ inputs.refresh_feed }}" == "true" ]; then
+            python 08_kategoryzator_ekspert.py --refresh-feed
+          else
+            python 08_kategoryzator_ekspert.py
+          fi
         env:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

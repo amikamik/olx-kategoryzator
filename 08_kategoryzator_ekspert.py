@@ -3,6 +3,7 @@ import json
 import requests
 import sys
 import os
+import argparse
 
 # Dodaj folder config do ścieżki importu
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -19,7 +20,7 @@ import os # Dodajemy import os do obsługi ścieżek
 
 # --- Konfiguracja (teraz większość jest w config.py) ---
 # Budowanie ścieżek absolutnych - nowa struktura folderów
-XML_FILE = os.path.join(SCRIPT_DIR, "input", "feed_cgrot.xml")
+XML_FILE = os.path.join(SCRIPT_DIR, "input", "feed_hurtowniaprzemyslowa.xml")
 CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "input", "kategorie_olx.json")
 RAPORT_PLIK_CSV = os.path.join(SCRIPT_DIR, "output", "raport_kategoryzacji.csv")
 SAMPLE_SIZE = 150 # Test na większej próbie
@@ -924,6 +925,29 @@ def sprawdz_kwalifikacje_kategorii(sciezka_kategorii, kategorie_platne):
 
 def main():
     """Orkiestruje cały proces kategoryzacji."""
+    
+    # --- Parsowanie argumentów wiersza poleceń ---
+    parser = argparse.ArgumentParser(description='Kategoryzacja produktów OLX')
+    parser.add_argument('--refresh-feed', action='store_true',
+                        help='Pobierz feed na nowo i wzbogać o dane GPSR przed przetwarzaniem')
+    args = parser.parse_args()
+    
+    # --- Opcjonalne odświeżenie feedu ---
+    if args.refresh_feed:
+        print("#" * 80)
+        print("##### ODŚWIEŻANIE FEEDU (--refresh-feed) #####")
+        print("#" * 80)
+        try:
+            from aktualizuj_feed_gpsr import main as refresh_feed_main
+            refresh_feed_main()
+            print("\n✅ Feed został pomyślnie odświeżony i wzbogacony o dane GPSR\n")
+        except ImportError as e:
+            print(f"❌ BŁĄD: Nie można zaimportować skryptu aktualizuj_feed_gpsr.py: {e}")
+            return
+        except Exception as e:
+            print(f"❌ BŁĄD podczas odświeżania feedu: {e}")
+            return
+    
     print("#" * 80)
     print("##### START PROCESU KATEGORYZACJI PRODUKTÓW OLX #####")
     print(f"Dostawca modelu: {config.ACTIVE_LLM_PROVIDER}, Model: {config.GEMINI_MODEL_NAME if config.ACTIVE_LLM_PROVIDER == 'GEMINI' else config.OPENAI_MODEL_NAME}")
