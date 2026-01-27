@@ -38,6 +38,139 @@ if config.OPENAI_API_KEY and config.OPENAI_API_KEY != "TWOJ_KLUCZ_API_OPENAI":
 # ======================== FUNKCJE POMOCNICZE ==================================
 # ==============================================================================
 
+# --- GEMINI EXPLICIT CACHING ---
+GEMINI_CACHE_NAME = None  # Globalny cache dla drzewa kategorii
+
+def create_gemini_cache(api_key, model_name, system_content):
+    """
+    Tworzy explicit cache dla drzewa kategorii w Gemini API.
+    Cache działa przez 1 godzinę (TTL=3600s).
+    """
+    global GEMINI_CACHE_NAME
+    
+    print("📦 Tworzę cache dla drzewa kategorii w Gemini API...")
+    
+    url = f"https://generativelanguage.googleapis.com/v1beta/cachedContents?key={api_key}"
+    headers = {'Content-Type': 'application/json'}
+    
+    payload = {
+        "model": f"models/{model_name}",
+        "displayName": "olx-categories-cache",
+        "contents": [
+            {
+                "role": "user",
+                "parts": [{"text": system_content}]
+            }
+        ],
+        "ttl": "3600s"  # 1 godzina
+    }
+    
+    try:
+        response = requests.post(url, headers=headers, json=payload, timeout=120)
+        response.raise_for_status()
+        cache_data = response.json()
+        GEMINI_CACHE_NAME = cache_data.get('name')
+        usage = cache_data.get('usageMetadata', {})
+        cached_tokens = usage.get('totalTokenCount', 0)
+        print(f"   ✅ Cache utworzony: {GEMINI_CACHE_NAME}")
+        print(f"   📊 Cached tokens: {cached_tokens:,}")
+        return GEMINI_CACHE_NAME
+    except requests.exceptions.RequestException as e:
+        print(f"   ❌ Błąd tworzenia cache: {e}")
+        return None
+
+def delete_gemini_cache(api_key):
+    """Usuwa cache z Gemini API."""
+    global GEMINI_CACHE_NAME
+    
+    if not GEMINI_CACHE_NAME:
+        return
+    
+    print(f"🗑️ Usuwam cache Gemini: {GEMINI_CACHE_NAME}")
+    url = f"https://generativelanguage.googleapis.com/v1beta/{GEMINI_CACHE_NAME}?key={api_key}"
+    
+    try:
+        response = requests.delete(url, timeout=30)
+        if response.status_code == 200:
+            print("   ✅ Cache usunięty")
+        else:
+            print(f"   ⚠️ Nie udało się usunąć cache: {response.status_code}")
+    except:
+        pass
+    
+    GEMINI_CACHE_NAME = None
+
+def call_gemini_with_cache(user_content, api_key, model_name, response_format_json=False):
+    """
+    Wywołuje Gemini API używając explicit cache dla drzewa kategorii.
+    """
+    global GEMINI_CACHE_NAME
+    
+    if not GEMINI_CACHE_NAME:
+        print("⚠️ Brak cache - używam standardowego wywołania")
+        return None
+    
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
+    headers = {'Content-Type': 'application/json'}
+    
+    generation_config = {
+        "temperature": config.GEMINI_TEMPERATURE
+    }
+    if response_format_json:
+        generation_config["responseMimeType"] = "application/json"
+    
+    payload = {
+        "cachedContent": GEMINI_CACHE_NAME,
+        "contents": [
+            {
+                "role": "user",
+                "parts": [{"text": user_content}]
+            }
+        ],
+        "generationConfig": generation_config
+    }
+    
+    # Retry logic
+    max_retries = 3
+    retry_delay = 2
+    
+    for attempt in range(max_retries):
+        try:
+            response = requests.post(url, headers=headers, json=payload, timeout=120)
+            response.raise_for_status()
+            
+            data = response.json()
+            
+            # Log usage metadata
+            usage = data.get('usageMetadata', {})
+            cached_tokens = usage.get('cachedContentTokenCount', 0)
+            prompt_tokens = usage.get('promptTokenCount', 0)
+            if cached_tokens > 0:
+                print(f"   │  📊 Cache hit: {cached_tokens:,} tokenów z cache, {prompt_tokens - cached_tokens:,} nowych")
+            
+            candidates = data.get('candidates', [])
+            if not candidates or 'content' not in candidates[0] or 'parts' not in candidates[0]['content']:
+                print("Błąd odpowiedzi Gemini: Brak zawartości w odpowiedzi.")
+                return None
+            return candidates[0]['content']['parts'][0]['text']
+            
+        except requests.exceptions.HTTPError as e:
+            if e.response.status_code in [503, 429]:
+                if attempt < max_retries - 1:
+                    wait_time = retry_delay * (attempt + 1)
+                    print(f"⚠️ Błąd {e.response.status_code} - ponawiam za {wait_time}s (próba {attempt + 2}/{max_retries})...")
+                    time.sleep(wait_time)
+                    continue
+            print(f"Błąd wywołania Gemini API: {e}")
+            return None
+        except requests.exceptions.RequestException as e:
+            print(f"Błąd wywołania Gemini API: {e}")
+            return None
+    
+    return None
+
+# --- KONIEC GEMINI EXPLICIT CACHING ---
+
 def oblicz_cene_sprzedazy(cena_zakupu):
     """
     Oblicza cenę sprzedaży produktu, uwzględniając marżę, prowizję OLX
@@ -169,6 +302,16 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
         messages = [{"role": "user", "content": prompt}]
     
     if provider == "GEMINI":
+        # Sprawdź czy mamy cache - jeśli tak, użyj go
+        global GEMINI_CACHE_NAME
+        if GEMINI_CACHE_NAME is not None:
+            # Użyj cache - wyślij tylko user content (bez system prompt który jest w cache)
+            user_content = "\n\n".join([msg["content"] for msg in messages if msg["role"] != "system"])
+            if not user_content:
+                user_content = messages[-1]["content"] if messages else ""
+            return call_gemini_with_cache(user_content, api_key, model_name, response_format_json)
+        
+        # Fallback - bez cache (standardowe wywołanie)
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
         headers = {'Content-Type': 'application/json'}
         
@@ -443,8 +586,41 @@ def process_single_product(product, path_map, config_obj):
     olx_suggestion_path = path_map.get(int(top_olx_suggestion['id']), "Brak") if top_olx_suggestion else "Brak sugestii OLX"
 
     # --- Krok 2: Kategoryzacja przez "Eksperta" AI z pełnym kontekstem ---
-    # System message - STAŁY (cache hit w DeepSeek)
-    system_message = f"""Jesteś ekspertem od kategoryzacji produktów na platformie OLX. 
+    
+    # Sprawdź czy używamy Gemini z cache
+    use_gemini_cache = (config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" and GEMINI_CACHE_NAME is not None)
+    
+    if use_gemini_cache:
+        # Dla Gemini z cache - system prompt jest już w cache, wysyłamy tylko user message
+        # User message zawiera pełne info o produkcie i instrukcje formatu odpowiedzi
+        user_message = f"""Skategoryzuj ten produkt wybierając DOKŁADNIE JEDNĄ kategorię-liść z drzewa kategorii:
+
+Dane produktu:
+- Tytuł: "{product['name']}"
+- Opis: "{clean_html(product['description'])[:5000]}"
+
+Wskazówka od systemu OLX (użyj TYLKO jako podpowiedzi, NIE jako źródła prawdy):
+"{olx_suggestion_path}"
+
+Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
+{{
+  "kategoria_id": <ID wybranej kategorii jako integer>,
+  "pewnosc": <Twoja pewność wyboru od 0 do 100>,
+  "uzasadnienie": "<Krótkie wyjaśnienie dlaczego wybrałeś tę kategorię>"
+}}"""
+        
+        llm_response_str = call_llm_api(
+            messages=[
+                {"role": "user", "content": user_message}
+            ],
+            provider=config_obj.ACTIVE_LLM_PROVIDER,
+            model_name=config_obj.CATEGORIZATION_MODEL,
+            api_key=config_obj.GEMINI_API_KEY,
+            response_format_json=True
+        )
+    else:
+        # Dla innych providerów lub Gemini bez cache - pełny system message z drzewem
+        system_message = f"""Jesteś ekspertem od kategoryzacji produktów na platformie OLX. 
 Twoim zadaniem jest przypisanie produktu do DOKŁADNIE JEDNEJ kategorii z poniższego drzewa kategorii.
 
 WYMAGANIA:
@@ -466,9 +642,9 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
   "pewnosc": <Twoja pewność wyboru od 0 do 100>,
   "uzasadnienie": "<Krótkie wyjaśnienie dlaczego wybrałeś tę kategorię>"
 }}"""
-    
-    # User message - ZMIENNY (konkretny produkt)
-    user_message = f"""Dane produktu:
+        
+        # User message - ZMIENNY (konkretny produkt)
+        user_message = f"""Dane produktu:
 - Tytuł: "{product['name']}"
 - Opis: "{clean_html(product['description'])[:5000]}"
 
@@ -476,19 +652,19 @@ Wskazówka od systemu OLX (użyj TYLKO jako podpowiedzi do zawężenia poszukiwa
 "{olx_suggestion_path}"
 
 Użyj tej ścieżki jedynie do zawężenia poszukiwań w podobnej gałęzi drzewa. Jeśli sugerowana ścieżka wyraźnie nie pasuje do tytułu/opisu produktu, całkowicie ją zignoruj i wybierz kategorię wyłącznie na podstawie analizy produktu."""
-    
-    llm_response_str = call_llm_api(
-        messages=[
-            {"role": "system", "content": system_message},
-            {"role": "user", "content": user_message}
-        ],
-        provider=config_obj.ACTIVE_LLM_PROVIDER,
-        model_name=config_obj.CATEGORIZATION_MODEL,
-        api_key=(config_obj.DEEPSEEK_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "DEEPSEEK" 
-                 else config_obj.GEMINI_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" 
-                 else config_obj.OPENAI_API_KEY),
-        response_format_json=True
-    )
+        
+        llm_response_str = call_llm_api(
+            messages=[
+                {"role": "system", "content": system_message},
+                {"role": "user", "content": user_message}
+            ],
+            provider=config_obj.ACTIVE_LLM_PROVIDER,
+            model_name=config_obj.CATEGORIZATION_MODEL,
+            api_key=(config_obj.DEEPSEEK_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "DEEPSEEK" 
+                     else config_obj.GEMINI_API_KEY if config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" 
+                     else config_obj.OPENAI_API_KEY),
+            response_format_json=True
+        )
 
     # --- Krok 3: Parsowanie odpowiedzi i przygotowanie wyniku ---
     llm_choice = {}
@@ -1005,6 +1181,33 @@ def main():
 
     config.CATEGORY_TREE_JSON_STR = category_tree_json_str
 
+    # --- GEMINI EXPLICIT CACHING: Tworzenie cache dla drzewa kategorii ---
+    if provider == "GEMINI":
+        # Budujemy pełny system prompt z drzewem kategorii
+        system_prompt = f"""Jesteś ekspertem od kategoryzacji produktów na platformie OLX.pl.
+
+Twoim zadaniem jest dla każdego produktu:
+1. Przeanalizować nazwę i opis produktu
+2. Wybrać DOKŁADNIE JEDNĄ najlepiej pasującą kategorię z poniższego drzewa
+3. Zwrócić ID kategorii, pełną ścieżkę i poziom pewności (0-100%)
+
+DRZEWO KATEGORII OLX (JSON):
+{category_tree_json_str}
+
+ZASADY:
+- Wybierz kategorię na NAJGŁĘBSZYM możliwym poziomie (najbardziej szczegółową)
+- Jeśli produkt pasuje do wielu kategorii, wybierz najbardziej specyficzną
+- Pewność powinna odzwierciedlać jak dobrze produkt pasuje do wybranej kategorii
+- Odpowiedz TYLKO w formacie JSON bez żadnego dodatkowego tekstu"""
+        
+        print("\n" + "="*80)
+        cache_name = create_gemini_cache(config.GEMINI_API_KEY, config.GEMINI_MODEL_NAME, system_prompt)
+        if cache_name:
+            print("="*80 + "\n")
+        else:
+            print("⚠️ Cache nie został utworzony - używam standardowego trybu (bez cache)")
+            print("="*80 + "\n")
+
     # --- Wczytywanie producentów odpowiedzialnych (GPSR) ---
     global RESPONSIBLE_PRODUCERS
     RESPONSIBLE_PRODUCERS = parse_responsible_producers(XML_FILE)
@@ -1224,6 +1427,10 @@ Przykład odpowiedzi:
                     dodaj_do_przetworzonych(product['id'], PRZETWORZONE_PLIK)
             
             time.sleep(1)
+
+    # --- Cleanup Gemini Cache ---
+    if provider == "GEMINI" and GEMINI_CACHE_NAME:
+        delete_gemini_cache(config.GEMINI_API_KEY)
 
     print("\n--- ZAKOŃCZONO POMYŚLNIE ---")
     if all_results:
