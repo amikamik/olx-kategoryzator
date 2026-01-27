@@ -1,1 +1,22 @@
-﻿[]
+[
+    {
+        "ID_Produktu": "1000048",
+        "Nazwa_Produktu": "Zapasowy kosz do frytownic elektrycznych 25 x 23 x 12 cm",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to kosz zapasowy do profesjonalnej frytownicy gastronomicznej (marka Royal Catering, pojemność 16L). Ze względu na przeznaczenie komercyjne, należy on do kategorii 'Firma i Przemysł > Gastronomia'. W tej gałęzi nie ma dedykowanej podkategorii dla części zamiennych ani akcesoriów do frytownic, a kategoria 'Frytownice' (5042) przeznaczona jest dla kompletnych urządzeń. Dlatego kategoria 'Pozostałe' w dziale Gastronomia jest najbardziej odpowiednim miejscem dla tej części zamiennej, unikając błędnego przypisania do sprzętu AGD (domowego) lub ogólnych maszyn przemysłowych."
+    },
+    {
+        "ID_Produktu": "1000239",
+        "Nazwa_Produktu": "Części zapasowe PLAZMA S-45 P-45 TRAFIMET zestaw Z",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Części do narzędzi",
+        "Finalne_ID_AI": 4714,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to 'części zapasowe' (pierścienie, porcelanki) do przecinarki plazmowej (urządzenia typu narzędzie/elektronarzędzie). Kategoria 'Dom i Ogród > Narzędzia > Części do narzędzi' jest semantycznie najbardziej dopasowana do części zamiennych/eksploatacyjnych narzędzi warsztatowych. Kategoria 1700 'Spawarki i lutownice' jest przeznaczona głównie dla całych urządzeń, a 4715 'Osprzęt do narzędzi' częściej dotyczy akcesoriów typu wiertła czy tarcze, podczas gdy elementy palnika są kluczowymi częściami wymiennymi."
+    }
+]

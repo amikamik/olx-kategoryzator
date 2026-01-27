@@ -1,1 +1,60 @@
-﻿[]
+[
+    {
+        "ID_Produktu": "1000423",
+        "Nazwa_Produktu": "Taśmy pasy ścierne szlifierskie bezkońcowe 620x40mm ziarnistość P120 5szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalne_ID_AI": 4715,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to taśmy ścierne, które stanowią wymienny osprzęt (materiał eksploatacyjny) do elektronarzędzi takich jak szlifierki czy satyniarki. Kategoria 'Osprzęt do narzędzi' w ścieżce 'Dom i Ogród > Narzędzia' jest przeznaczona właśnie dla tego typu akcesoriów.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taśmy pasy ścierne szlifierskie bezkońcowe 620x40mm ziarnistość p120 5szt.",
+                "description": "Nazwa producenta: MSW-AOBELTS462-120 Profesjonalna, bezkońcowa taśma szlifierska niemieckiego producenta MSW przeznaczona do dokładnej i końcowej obróbki elementów metalowych, drewnianych, plastikowych itp . Taśma szlifierska wykonana jest z papieru ściernego o bardzo mocnym podkładzie i wysokiej jakości ziaren ściernych. Taśma przeznaczona jest do satyniarek i szlifierek do rur i profili w których znajdują się rolki prowadzące o szerokości 40 mm i obwodzie 620 mm Pasuje do satyniarki 6044 MSW-POL 900S , którą można nabyć w naszym sklepie oraz do urządzeń wszystkich innych marek. Parametry techniczne: - Model - MSW-AOBELTS462-120 - Nr katalogowy - 6067 - Stan artykułu - Nowy - Wymiary - 620 x 40 mm - Liczba - 5 szt. - Ziarnistość - 120 - Wymiary (DxSxW) - 30 x 4 x 3 cm - Waga - 0,09 kg - Wymiary wysyłki (DxSxW) - 22,5 x 18 x 6,5 cm - Waga wysyłki - 0,5 kg W zestawie: - komplet 5 sztuk taśm szlifierskich do szlifierki o ziarnistości 120\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: EXPONDO POLSKA SP. Z O.O. SP. K.\nAdres: Dekoracyjna 3, 65-155, Zielona Góra, Polska\nEmail: info(at)expondo.pl\nTelefon: +48688881008\n----------------------------------------",
+                "category_id": 4715,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 57.95,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/6067-tasmy-szlifierskie-pasy-scierne-bezkoncowe-620x40mm-zairnistosc-120-5szt-msw-hurtownia-tanio-cena.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+]
