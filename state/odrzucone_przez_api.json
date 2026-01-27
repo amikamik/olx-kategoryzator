@@ -3608,5 +3608,775 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "408",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 0.5 KG",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness",
+        "Finalne_ID_AI": 771,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ciężarki żeliwne pokryte winylem o wadze 0.5 kg, przeznaczone do ćwiczeń fitness, aerobiku, joggingu i rehabilitacji. Najlepiej pasuje do kategorii Sport i Hobby > Fitness > Sprzęt fitness.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "17023 ciężarek żeliwny pokryty winylem 0.5 kg",
+                "description": "17023 0.5kg HMS to ciężarek żeliwny pokryty winylem. Ergonomiczny kształt oraz trwałość zewnętrznej powłoki, gwarantują duży komfort podczas ćwiczeń, jak również ułatwiają utrzymanie go w czystości. Trening z hantlami z rodziny 17023 HMS jest idealnym sposobem na wszechstronny rozwój sprawności i siły całego ciała . Pomimo, że standardowe podejście do treningu z ciężarkami, opiera się jedynie na mięśniach rąk, ramion, klatki piersiowej i grzbietu. Hantle oferują wiele innych zastosowań . W zależności od potrzeb, 17023 HMS pozwalają na przeprowadzenie treningu ogólnorozwojowego , jak również poprawiającego wytrzymałość. Doskonale nadają się do ćwiczeń fitness, aerobiku, są pomocne w joggingu oraz w rehabilitacji . Główną zaletą ciężarków 17023 HMS, jest szeroka oferta dostępnych wariantów wagowych . Pozwala to na dobranie odpowiedniego do swoich potrzeb obciążenia. Z kolei ich niewielki rozmiar umożliwia przeprowadzenie treningu w dowolnym miejscu. Zatem nic nie stoi na przeszkodzie, by zabrać je z sobą na wakacje lub na wypad za miasto. 17023 HMS dostępne jest w następujących wersjach wagowych: 0.5kg, 0.75kg, 1kg, 1.5kg, 2kg, 3kg, 4kg, 5kg. Specyfikacja: Materiał: żeliwo Zewnętrzna warstwa winylowa Materiał: żeliwo pokryte winylem Waga: 0,50kg Uwagi: Nie przeznaczone do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 771,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 24.3,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_0_5_MAXI_03.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_0_5_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_0_5_MAXI_02.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "409",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 1.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny pokryty winylem, używany do ćwiczeń fitness, aerobiku, joggingu i rehabilitacji. Kategoria 'Sport i Hobby > Fitness > Akcesoria treningowe' najlepiej opisuje ten przedmiot.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "17023 ciężarek żeliwny pokryty winylem 1.0 kg",
+                "description": "17023 1kg HMS to ciężarek żeliwny pokryty winylem. Ergonomiczny kształt oraz trwałość zewnętrznej powłoki, gwarantują duży komfort podczas ćwiczeń, jak również ułatwiają utrzymanie go w czystości. Trening z hantlami z rodziny 17023 HMS jest idealnym sposobem na wszechstronny rozwój sprawności i siły całego ciała . Pomimo, że standardowe podejście do treningu z ciężarkami, opiera się jedynie na mięśniach rąk, ramion, klatki piersiowej i grzbietu. Hantle oferują wiele innych zastosowań . W zależności od potrzeb, 17023 HMS pozwalają na przeprowadzenie treningu ogólnorozwojowego , jak również poprawiającego wytrzymałość. Doskonale nadają się do ćwiczeń fitness, aerobiku, są pomocne w joggingu oraz w rehabilitacji . Główną zaletą ciężarków 17023 HMS, jest szeroka oferta dostępnych wariantów wagowych . Pozwala to na dobranie odpowiedniego do swoich potrzeb obciążenia. Z kolei ich niewielki rozmiar umożliwia przeprowadzenie treningu w dowolnym miejscu. Zatem nic nie stoi na przeszkodzie, by zabrać je z sobą na wakacje lub na wypad za miasto. 17023 HMS dostępne jest w następujących wersjach wagowych: 0.5kg, 0.75kg, 1kg, 1.5kg, 2kg, 3kg, 4kg, 5kg. Specyfikacja: Materiał: żeliwo Zewnętrzna warstwa winylowa Materiał: żeliwo pokryte winylem Waga: 1,00kg Uwagi: Nie przeznaczone do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 31.52,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img_9(2).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img_7(3).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img_8(2).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "410",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 1.5 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby",
+        "Finalne_ID_AI": 767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek/hantel do ćwiczeń, który idealnie pasuje do kategorii Sport i Hobby.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "17023 ciężarek żeliwny pokryty winylem 1.5 kg",
+                "description": "17023 1.5kg HMS to ciężarek żeliwny pokryty winylem. Ergonomiczny kształt oraz trwałość zewnętrznej powłoki, gwarantują duży komfort podczas ćwiczeń, jak również ułatwiają utrzymanie go w czystości. Trening z hantlami z rodziny 17023 HMS jest idealnym sposobem na wszechstronny rozwój sprawności i siły całego ciała . Pomimo, że standardowe podejście do treningu z ciężarkami, opiera się jedynie na mięśniach rąk, ramion, klatki piersiowej i grzbietu. Hantle oferują wiele innych zastosowań . W zależności od potrzeb, 17023 HMS pozwalają na przeprowadzenie treningu ogólnorozwojowego , jak również poprawiającego wytrzymałość. Doskonale nadają się do ćwiczeń fitness, aerobiku, są pomocne w joggingu oraz w rehabilitacji . Główną zaletą ciężarków 17023 HMS, jest szeroka oferta dostępnych wariantów wagowych . Pozwala to na dobranie odpowiedniego do swoich potrzeb obciążenia. Z kolei ich niewielki rozmiar umożliwia przeprowadzenie treningu w dowolnym miejscu. Zatem nic nie stoi na przeszkodzie, by zabrać je z sobą na wakacje lub na wypad za miasto. 17023 HMS dostępne jest w następujących wersjach wagowych: 0.5kg, 0.75kg, 1kg, 1.5kg, 2kg, 3kg, 4kg, 5kg. Specyfikacja: Materiał: żeliwo Zewnętrzna warstwa winylowa Materiał: żeliwo pokryte winylem Waga: 1,50kg Uwagi: Nie przeznaczone do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 767,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 41.18,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_1_5_MAXI_03.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_1_5_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_1_5_MAXI_02.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "411",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 2.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarki/hantle żeliwne pokryte winylem, służące do ćwiczeń fitness, aerobiku, joggingu i rehabilitacji. Kategoria \"Sport i Hobby > Fitness > Akcesoria treningowe\" najlepiej opisuje ten produkt.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "17023 ciężarek żeliwny pokryty winylem 2.0 kg",
+                "description": "17023 2kg HMS to ciężarek żeliwny pokryty winylem. Ergonomiczny kształt oraz trwałość zewnętrznej powłoki, gwarantują duży komfort podczas ćwiczeń, jak również ułatwiają utrzymanie go w czystości. Trening z hantlami z rodziny 17023 HMS jest idealnym sposobem na wszechstronny rozwój sprawności i siły całego ciała . Pomimo, że standardowe podejście do treningu z ciężarkami, opiera się jedynie na mięśniach rąk, ramion, klatki piersiowej i grzbietu. Hantle oferują wiele innych zastosowań . W zależności od potrzeb, 17023 HMS pozwalają na przeprowadzenie treningu ogólnorozwojowego , jak również poprawiającego wytrzymałość. Doskonale nadają się do ćwiczeń fitness, aerobiku, są pomocne w joggingu oraz w rehabilitacji . Główną zaletą ciężarków 17023 HMS, jest szeroka oferta dostępnych wariantów wagowych . Pozwala to na dobranie odpowiedniego do swoich potrzeb obciążenia. Z kolei ich niewielki rozmiar umożliwia przeprowadzenie treningu w dowolnym miejscu. Zatem nic nie stoi na przeszkodzie, by zabrać je z sobą na wakacje lub na wypad za miasto. 17023 HMS dostępne jest w następujących wersjach wagowych: 0.5kg, 0.75kg, 1kg, 1.5kg, 2kg, 3kg, 4kg, 5kg. Specyfikacja: Materiał: żeliwo Zewnętrzna warstwa winylowa Materiał: żeliwo pokryte winylem Waga: 2,00kg Uwagi: Nie przeznaczone do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 45.05,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_2_MAXI_03.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_2_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_2_MAXI_02.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "412",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 3.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny pokryty winylem, opisany jako idealny do wszechstronnego rozwoju sprawności i siły, ćwiczeń fitness, aerobiku, joggingu i rehabilitacji. Kategoria \"Sport i Hobby > Fitness > Akcesoria treningowe\" najlepiej pasuje do opisu produktu jako sprzętu do ćwiczeń fizycznych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "17023 ciężarek żeliwny pokryty winylem 3.0 kg",
+                "description": "17023 3kg HMS to ciężarek żeliwny pokryty winylem. Ergonomiczny kształt oraz trwałość zewnętrznej powłoki, gwarantują duży komfort podczas ćwiczeń, jak również ułatwiają utrzymanie go w czystości. Trening z hantlami z rodziny 17023 HMS jest idealnym sposobem na wszechstronny rozwój sprawności i siły całego ciała . Pomimo, że standardowe podejście do treningu z ciężarkami, opiera się jedynie na mięśniach rąk, ramion, klatki piersiowej i grzbietu. Hantle oferują wiele innych zastosowań . W zależności od potrzeb, 17023 HMS pozwalają na przeprowadzenie treningu ogólnorozwojowego , jak również poprawiającego wytrzymałość. Doskonale nadają się do ćwiczeń fitness, aerobiku, są pomocne w joggingu oraz w rehabilitacji . Główną zaletą ciężarków 17023 HMS, jest szeroka oferta dostępnych wariantów wagowych . Pozwala to na dobranie odpowiedniego do swoich potrzeb obciążenia. Z kolei ich niewielki rozmiar umożliwia przeprowadzenie treningu w dowolnym miejscu. Zatem nic nie stoi na przeszkodzie, by zabrać je z sobą na wakacje lub na wypad za miasto. 17023 HMS dostępne jest w następujących wersjach wagowych: 0.5kg, 0.75kg, 1kg, 1.5kg, 2kg, 3kg, 4kg, 5kg. Specyfikacja: Materiał: żeliwo Zewnętrzna warstwa winylowa Materiał: żeliwo pokryte winylem Waga: 3,00kg Uwagi: Nie przeznaczone do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 55.67,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_3_MAXI_03.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_3_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_3_MAXI_02.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "413",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 4.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness",
+        "Finalne_ID_AI": 771,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny pokryty winylem, używany do ćwiczeń fitness, aerobiku, joggingu i rehabilitacji. Najlepiej pasuje do kategorii Sport i Hobby > Fitness > Sprzęt fitness.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "17023 ciężarek żeliwny pokryty winylem 4.0 kg",
+                "description": "17023 4kg HMS to ciężarek żeliwny pokryty winylem. Ergonomiczny kształt oraz trwałość zewnętrznej powłoki, gwarantują duży komfort podczas ćwiczeń, jak również ułatwiają utrzymanie go w czystości. Trening z hantlami z rodziny 17023 HMS jest idealnym sposobem na wszechstronny rozwój sprawności i siły całego ciała . Pomimo, że standardowe podejście do treningu z ciężarkami, opiera się jedynie na mięśniach rąk, ramion, klatki piersiowej i grzbietu. Hantle oferują wiele innych zastosowań . W zależności od potrzeb, 17023 HMS pozwalają na przeprowadzenie treningu ogólnorozwojowego , jak również poprawiającego wytrzymałość. Doskonale nadają się do ćwiczeń fitness, aerobiku, są pomocne w joggingu oraz w rehabilitacji . Główną zaletą ciężarków 17023 HMS, jest szeroka oferta dostępnych wariantów wagowych . Pozwala to na dobranie odpowiedniego do swoich potrzeb obciążenia. Z kolei ich niewielki rozmiar umożliwia przeprowadzenie treningu w dowolnym miejscu. Zatem nic nie stoi na przeszkodzie, by zabrać je z sobą na wakacje lub na wypad za miasto. 17023 HMS dostępne jest w następujących wersjach wagowych: 0.5kg, 0.75kg, 1kg, 1.5kg, 2kg, 3kg, 4kg, 5kg. Specyfikacja: Materiał: żeliwo Zewnętrzna warstwa winylowa Materiał: żeliwo pokryte winylem Waga: 4,00kg Uwagi: Nie przeznaczone do użytku komercyjnego Gwarancja 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 771,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 73.06,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_4_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_4_MAXI_03.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/17023_4_MAXI_02.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "427",
+        "Nazwa_Produktu": "EM01 EKSPANDER GUMOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "99%",
+        "Uzasadnienie_AI": "Produkt to ekspander gumowy, który jest akcesorium treningowym używanym do ćwiczeń siłowych, ogólnorozwojowych i rehabilitacyjnych, co idealnie pasuje do kategorii Sport i Hobby > Fitness > Akcesoria treningowe.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Em01 ekspander gumowy hms",
+                "description": "Ekspander umożliwia kształtowanie górnych partii ciała. Pozwala popracować nad mięśniami ramion, pleców oraz klatki piersiowej, miednicy i brzucha. Model EM01 składa się z 5 lin gumowych mocowanych do dwóch uchwytów. Marka HMS cechuje się wysoką jakością wykonania, co powoduje, że urządzenie jest solidne i wytrzymałe. Naciągi ekspandera powstały z specjalnej gumy. Materiał posiada zwiększoną wytrzymałość na rozciąganie. Siłę oporu reguluje się poprzez założenie odpowiedniej ilości lin. EM01 HMS jest skutecznym sposobem wzmocnienia i wysmuklenia ramion, klatki piersiowej, brzucha, pleców oraz miednicy. EM01 pozwala wykonywać ćwiczenia siłowe, ogólnorozwojowe jak i rehabilitacyjne. Specyfikacja: gumowe naciągi uchwyty ze sztucznego tworzywa długość naciągów: 54 cm zakres obciążenia: 1-30kg długość całkowita przyrządu (z uchwytami): 78 cm gwarancja: 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 41.09,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/96812.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/96814.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/96813.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/96815.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "430",
+        "Nazwa_Produktu": "EG02 EKSPANDER  GUMOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ekspander gumowy do ćwiczeń ogólnorozwojowych i rehabilitacyjnych, co idealnie wpisuje się w kategorię 'Sport i Hobby > Fitness > Akcesoria treningowe'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Eg02 ekspander  gumowy hms",
+                "description": "Ekspander umożliwia wykonanie ćwiczeń górnych partii ciała. Pozwala rozbudować mięśnie ramion, pleców, klatki piersiowej, ale także odpowiedni trening wpływa na miednicę i brzuch. Ekspander jest prostym urządzeniem. Składa się z uchwytów oraz linek jakie je łączą. Linki są gumowe lub sprężynowe. Model EG02 ma elastyczny system oporu oraz piankowe uchwyty. Składa się z gumy i 2 uchwytów, które chwyta się podczas treningu w celu rozciągnięcia urządzenia. Jego dużą zaletą są niewielkie rozmiary, dzięki czemu idealnie sprawdzi się w domowych warunkach nie zajmując dużo miejsca. Służy do wykonywania treningu ogólnorozwojowego oraz ćwiczeń o charakterze rehabilitacyjnym, także wzmacniających i rozciągających. Specyfikacja: długość całkowita: 142 cm długości gumy 125 cm średnica gumy 0,7 cm uchwyty piankowe gwarancje: 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 33.47,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img(6).jfif"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/EG02_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/EG02_MAXI_02.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img_1(8).jfif"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "used"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "439",
+        "Nazwa_Produktu": "SK03  SKAKANKA SKÓRA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skakanka, która jest akcesorium treningowym używanym do ćwiczeń fitness i poprawy kondycji. Kategoria 'Sport i Hobby > Fitness > Akcesoria treningowe' najlepiej pasuje do opisu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sk03  skakanka skóra",
+                "description": "Skakanka to proste urządzenie, które wszyscy znają z dzieciństwa. Jednak to nie tylko wspomnienie. Skakanka może stać się elementem efektywnego treningu. Pozwala spalić kalorie, tkankę tłuszczową oraz znacząco wpłynąć na redukcję masy ciała ! Poprawia kondycję oraz koordynację ruchową w przyjemny i szybki sposób. Model SK03 to skakanka z plastikowymi uchwytami oraz skórzaną linką o długości 275 cm. Ma łożyska w uchwytach, które zapewniają płynność ruchów. Uchwyty pokryte są pianką wpływającą na komfort. SK03 cechuje się wysoką jakością wykonania, co zapewnia długi czas użytkowania bez obaw o niszczenie. Posiada odpowiednie wyprofilowane uchwyty i wygodnie leży w dłoniach. Trening jest komfortowy i bezpieczny. SK03 pozwoli osiągnąć zamierzone efekty w krótkim czasie ! Specyfikacja: linka: skóra uchwyty: plastik, pianka długość: 275cm długość rączki: 13 cm łożyska w uchwytach gwarancja: 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 41.19,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/SK03_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img_2(50).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/SK03_MAXI_02.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/SK03_MAXI_03.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/SK03_MAXI_04.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img(65).jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/img_1(57).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "440",
+        "Nazwa_Produktu": "SK07 SKAKANKA SKÓRA+ DREWNIANA RĄCZKA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skakanka, która jest akcesorium treningowym używanym do ćwiczeń fitness. Kategoria 'Akcesoria treningowe' w ścieżce 'Sport i Hobby > Fitness > Akcesoria treningowe' jest najbardziej odpowiednia.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sk07 skakanka skóra+ drewniana rączka",
+                "description": "Skakanka może stać się elementem efektywnego treningu. Pozwala spalić kalorie, tkankę tłuszczową oraz znacząco wpłynąć na redukcję masy ciała ! Poprawia kondycję oraz koordynację ruchową w przyjemny i szybki sposób. Model SK07 to skakanka z drewnianymi uchwytami oraz skórzaną linką o długości 270 cm. Ma łożyska w uchwytach, które zapewniają płynność ruchów. Uchwyty pokryte są pianką wpływającą na komfort. SK07 cechuje się wysoką jakością wykonania, co zapewnia długi czas użytkowania bez obaw o niszczenie. Posiada odpowiednie wyprofilowane uchwyty i wygodnie leży w dłoniach. Trening jest komfortowy i bezpieczny. SK07 pozwoli osiągnąć zamierzone efekty w krótkim czasie ! Specyfikacja: linka: skóra uchwyty: drewno długość: 270cm długość rączki: 14 cm łożyska w uchwytach gwarancja: 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 45.06,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/SK07_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/SK07_MAXI_03.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/SK07_MAXI_04.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/SK07_MAXI_05.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/SK07_MAXI_02.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/SK07_MAXI_06.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "442",
+        "Nazwa_Produktu": "EG03 EKSPANDER GUMOWY HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ekspander gumowy do ćwiczeń ogólnorozwojowych, rehabilitacyjnych oraz rozciągających i wzmacniających ciało. Pasuje do kategorii Sport i Hobby > Fitness > Akcesoria treningowe.  Chociaż podana wskazówka to \"Pozostałe\", ekspander jest ogólnym akcesorium treningowym, które nie jest wyszczególnione w bardziej szczegółowych podkategoriach, dlatego \"Akcesoria treningowe\" jest najbardziej odpowiednią kategorią.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Eg03 ekspander gumowy hms",
+                "description": "Ekspander umożliwia wykonanie ćwiczeń górnych partii ciała. Pozwala rozbudować mięśnie ramion, pleców, klatki piersiowej, ale także odpowiedni trening wpływa na miednicę i brzuch. Ekspander jest prostym urządzeniem. Składa się z uchwytów oraz linek jakie je łączą. Linki są gumowe lub sprężynowe. Model EG03 ma elastyczny system oporu oraz piankowe uchwyty. Składa się z gumy i 2 uchwytów, które chwyta się podczas treningu w celu rozciągnięcia urządzenia. Jego dużą zaletą są niewielkie rozmiary, dzięki czemu idealnie sprawdzi się w domowych warunkach nie zajmując dużo miejsca. Służy do wykonywania treningu ogólnorozwojowego oraz ćwiczeń o charakterze rehabilitacyjnym, a także rozciągających i wzmacniających całe ciało. Specyfikacja: długości całkowita: 46 cm średnica gumy 0,7 cm uchwyty piankowe gwarancja: 24 miesiące\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: ABISAL SP. Z O.O.\nAdres: PYSKOWICKA 17, 41-807, Zabrze, PL\nEmail: ABISAL(at)ABISAL.PL\nTelefon: 32 307 07 91\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 31.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/EG03_MAXI_02.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/EG03_MAXI_01.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/EG03_MAXI_03.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/EG03_MAXI_04.jpg"
+                    },
+                    {
+                        "url": "https://www.cgrot.pl/img/product_media/1-1000/EG03_MAXI_05.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "used"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

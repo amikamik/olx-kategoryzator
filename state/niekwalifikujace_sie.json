@@ -3958,5 +3958,25 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to stalowy talerz olimpijski o wadze 5 kg, przeznaczony do sportów siłowych. Kategoria 'Sprzęt siłowy > Obciążenia' idealnie odzwierciedla ten rodzaj produktu."
+    },
+    {
+        "ID_Produktu": "357",
+        "Nazwa_Produktu": "KNV04 KETTLEBELL POKRYTY WINYLEM 4.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy",
+        "Finalne_ID_AI": 4316,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kettlebell, który jest formą obciążenia używanego podczas treningu siłowego. Kategoria 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia' jest idealnie dopasowana."
+    },
+    {
+        "ID_Produktu": "392",
+        "Nazwa_Produktu": "TOK02 TALERZ OLIMPIJSKI OGUMOWANY 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy",
+        "Finalne_ID_AI": 4316,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to talerz olimpijski z gumowanym wykończeniem, służący jako obciążenie do sprzętu siłowego, co idealnie pasuje do kategorii Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia."
     }
 ]
