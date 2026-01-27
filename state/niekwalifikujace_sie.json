@@ -1,1 +1,32 @@
-﻿[]
+[
+    {
+        "ID_Produktu": "1000239",
+        "Nazwa_Produktu": "Części zapasowe PLAZMA S-45 P-45 TRAFIMET zestaw Z",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw części eksploatacyjnych (akcesoriów) do przecinarki plazmowej. W drzewie kategorii OLX przecinarki plazmowe oraz osprzęt do nich są klasyfikowane w kategorii 'Dom i Ogród > Narzędzia > Spawarki i lutownice', która jest najbardziej tematycznie dopasowaną kategorią dla sprzętu spawalniczego i pokrewnego."
+    },
+    {
+        "ID_Produktu": "1000432",
+        "Nazwa_Produktu": "Przewód masowy z zaciskiem do spawarek i przecinarek plazmowych dł. 4m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przewód masowy dedykowany do spawarek. W strukturze kategorii OLX kategoria 'Spawarki i lutownice' (ID 1700) w dziale 'Narzędzia' jest najbardziej specyficzną i odpowiednią kategorią dla urządzeń spawalniczych oraz ich bezpośredniego osprzętu, zgodnie ze wskazówką systemową."
+    },
+    {
+        "ID_Produktu": "1000449",
+        "Nazwa_Produktu": "Uchwyt spawalniczy MMA do spawarek 250A",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt spawalniczy (akcesorium do spawarek). W drzewie kategorii OLX sprzęt spawalniczy oraz dedykowane mu akcesoria (uchwyty, przewody) znajdują się w kategorii 'Spawarki i lutownice' w dziale Narzędzia. Jest to najbardziej specyficzna kategoria dla tego typu asortymentu."
+    }
+]
