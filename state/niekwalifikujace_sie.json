@@ -348,5 +348,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest profesjonalnym akcesorium gastronomicznym marki Hendi, służącym do dozowania paliwa (pasty) używanego w bemarach i podgrzewaczach cateringowych. Ze względu na specjalistyczne zastosowanie w branży HoReCa, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1000728",
+        "Nazwa_Produktu": "Szpatuła do potraw Kitchen Line dł. 355 mm - Hendi 529409",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Poradniki i albumy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia",
+        "Finalne_ID_AI": 5035,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna szpatuła gastronomiczna marki Hendi (model 529409) z serii Kitchen Line. Opis techniczny, długość (355 mm) oraz wyraźne przeznaczenie do podgrzewaczy (bemarów) wskazują na wyposażenie profesjonalnej kuchni w sekcji Firma i Przemysł > Gastronomia."
+    },
+    {
+        "ID_Produktu": "1000733",
+        "Nazwa_Produktu": "Szpachelka do grilla 150x95mm - Hendi 855669",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na przeznaczenie do grilla ('szpachelka do grilla'). W strukturze kategorii OLX, akcesoria grillowe najlepiej pasują do kategorii 'Grill' znajdującej się w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "1000734",
+        "Nazwa_Produktu": "Szpachelka do grilla burgerów BBQ 77x275 mm - Hendi 855676",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to akcesorium dedykowane do obsługi grilla (szpatuła/szpachelka do burgerów), dlatego najlepiej pasuje do kategorii 'Grill' w sekcji 'Ogród'. Sugestia systemowa dotycząca narzędzi ręcznych jest błędna, gdyż odnosi się do narzędzi budowlanych/warsztatowych."
     }
 ]
