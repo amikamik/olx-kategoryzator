@@ -488,5 +488,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalny wkład na sztućce marki Hendi, która specjalizuje się w wyposażeniu dla sektora HoReCa. Kategoria 'Pojemniki gastronomiczne' (5076) w sekcji 'Firma i Przemysł' jest najbardziej precyzyjnym miejscem dla specjalistycznych akcesoriów gastronomicznych tego typu."
+    },
+    {
+        "ID_Produktu": "1000869",
+        "Nazwa_Produktu": "Płyn zmywacz do części i narzędzi do myjki warsztatowej PRO CLEANER C-MAX 5L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny płyn czyszczący i odtłuszczający dedykowany do myjek warsztatowych oraz części silnikowych, co jednoznacznie klasyfikuje go jako specjalistyczne zaopatrzenie warsztatowe w sekcji Firma i Przemysł."
     }
 ]

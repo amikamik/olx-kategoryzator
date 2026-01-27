@@ -248,5 +248,147 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1000828",
+        "Nazwa_Produktu": "Szczypce do grilla i serwowania potraw stalowe dł. 292 mm - Hendi 171509",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to uniwersalne szczypce kuchenne marki Hendi, przeznaczone zarówno do serwowania potraw (np. w piekarniach i cukierniach), jak i do grillowania. Najlepiej pasują do kategorii 'Przybory kuchenne' (ID 2113), a z uwagi na brak dedykowanej podkategorii dla szczypiec, właściwym wyborem jest liść 'Pozostałe' (ID 2127). Wykluczam sugerowaną kategorię 'Narzędzia ręczne', która dotyczy narzędzi warsztatowych, oraz kategorię 'Grill', ponieważ opis podkreśla szerokie, uniwersalne zastosowanie gastronomiczne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szczypce do grilla i serwowania potraw stalowe dł. 292 mm - hendi 171509",
+                "description": "Numer producenta: HENDI 171509 Szczypce do serwowania marki Hendi wykonane zostały z wysokiej jakości stali nierdzewnej. Znajdą zastosowanie w cukierniach, piekarniach, a także zapewnią wygodę podczas grillowania i prac na ruszcie. Parametry techniczne: - Materiał - Stal nierdzewna - Długość - 292 mm W zestawie: - Szczypce do serwowania\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/171509-szczypce-do-serwowania-ean-8711369171509-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/171509-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/171509-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1000839",
+        "Nazwa_Produktu": "Naboje do syfonu do bitej śmietany gaz N2O 24 szt. - Hendi 588215",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalne_ID_AI": 3126,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Naboje do syfonu (gaz N2O) to typowe materiały eksploatacyjne i akcesoria do kuchennych urządzeń AGD. Wybrana kategoria 'Części i akcesoria AGD do kuchni' jest najbardziej precyzyjnym miejscem dla tego typu produktów w strukturze OLX.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Naboje do syfonu do bitej śmietany gaz n2o 24 szt. - hendi 588215",
+                "description": "Numer producenta: HENDI 588215 Naboje do syfonu do bitej śmietany marki Hendi oferowane są w opakowaniach o różnej wielkości. Pasują do wszystkich obecnych na rynku urządzeń i mają aż 5-cio letni okres przydatności do użycia. Naboje wykonane są doskonałej jakości stali i mieszczą w sobie około 8 g podtlenku azotu. Cechy produktu: - Można stosować we wszystkich dostępnych na rynku profesjonalnych syfonach do bitej śmietany, - 5 lat przydatności do użycia (od daty produkcji podanej na nabojach), - Bezpieczne, wykonane z doskonałej jakości stali, - Każdy nabój zawiera ok. 10 cm3 (8g) podtlenku azotu, - Wykonane są doskonałej jakości stali, bezpieczne w użyciu. Parametry techniczne: - Zawartość podtlenku azotu - ok. 10cm3 (8g) W zestawie: - Naboje do syfonu do bitej śmietany - 24 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 3126,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 56.99,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/588215-naboje -do-syfonu-do-bitej-smietany-gaz-n2o-24-szt-ean-8711369588215-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/588215-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/588215-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/588215-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/588215-5.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/588215-6.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
