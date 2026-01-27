@@ -114,5 +114,139 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1000794",
+        "Nazwa_Produktu": "Dyspenser pojemnik do sosów zimnych 0,35l. przezroczysty - Hendi 557822",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to butelka (dyspenser) do sosów, która służy do ich przechowywania i dozowania. Najlepiej pasuje do kategorii 'Pojemniki i przechowywanie żywności' w dziale przyborów kuchennych, gdyż określa ona podstawową funkcję przedmiotu, niezależnie od tego, czy jest on używany w domu, czy w profesjonalnej gastronomii.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dyspenser pojemnik do sosów zimnych 0,35l. przezroczysty - hendi 557822",
+                "description": "Numer producenta: HENDI 557822 Profesjonalny dyspenser Hendi - przezroczysty pojemnik 350 ml do sosów zimnych. Rekomendowany dla małej i dużej gastronomii, można go również używać w warunkach domowych. Głównymi zaletami pojemnika jest staranne wykonanie z polietylenu, który należą do miękkich i elastycznych tworzyw, co umożliwia nam na wygodne i szybkie mycie w zmywarkach. Specjalna zatyczka umożliwia zachowanie czystości oraz dzięki specjalnej zatyczce sos dłużej zachowuje świeżość. Cechy produktu: – wykonany z polietylenu, – można myć w zmywarkach, – zatyczka umożliwia zachowanie czystości, – dzięki zatyczce sos dłużej zachowuje świeżość. Parametry: – kolor: przezroczysty – pojemność w l: 0,35 – średnica w mm: 55 – wysokość w mm: 205 Zakres dostawy: – dyspenser pojemnik do sosów zimnych 0,35l. przezroczysty - Hendi 557822\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2130,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 22.44,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557822-dyspenser-pojemnik-do-sosow-zimnych-035l-przezroczysty-hendi-557822-hendi-hurtownia-sklep-cena-najtaniej.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557822-1.png"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557822-2.png"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1000825",
+        "Nazwa_Produktu": "Szczypce do grilla i serwowania potraw stalowe dł. 220 mm - Hendi 171400",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to uniwersalne akcesorium kuchenne (szczypce) służące do serwowania potraw i grillowania. W drzewie kategorii OLX przybory kuchenne tego typu, które nie mają dedykowanej podkategorii (jak noże czy garnki), najlepiej pasują do kategorii 'Wyposażenie wnętrz > Przybory kuchenne > Pozostałe'. Wykluczono kategorię 'Grill', ponieważ opis podkreśla szerokie zastosowanie produktu w cukierniach i piekarniach, a nie tylko w ogrodzie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szczypce do grilla i serwowania potraw stalowe dł. 220 mm - hendi 171400",
+                "description": "Numer producenta: HENDI 171400 Szczypce do serwowania wykonane zostały z wysokiej jakości stali nierdzewnej. Znajdą zastosowanie w cukierniach, piekarniach, a także zapewnią wygodę podczas grillowania i prac na ruszcie. Parametry techniczne: - Materiał - Stal nierdzewna - Długość - 220 mm W zestawie: - Szczypce do serwowania\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 31.08,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/171400-szczypce-do-grill-ai-serwowania-potraw-ean-8711369171400-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/171400-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/171400-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/171400-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/171400-1.png"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
