@@ -3558,5 +3558,2796 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "443",
+        "Nazwa_Produktu": "YB02 65CM ANTI-BURST BRĄZOWA GRIZZLY PIŁKA GIMNASTYCZNA HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka gimnastyczna, która jest akcesorium treningowym używanym w fitnessie. Kategoria 'Piłki do ćwiczeń' (Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń) jest najbardziej szczegółowa i precyzyjna, idealnie pasująca do opisu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "575",
+        "Nazwa_Produktu": "PU01 PODPÓRKI DO POMPEK",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to \"podpórki do pompek\", które są akcesoriami wspomagającymi ćwiczenia fitness i siłowe. Najbardziej szczegółową i trafną kategorią-liściem jest \"Pozostałe\" w gałęzi \"Sport i Hobby\" > \"Fitness\" > \"Akcesoria treningowe\", ponieważ podpórki nie pasują do żadnej z bardziej specyficznych podkategorii w obrębie akcesoriów, a ich głównym przeznaczeniem jest wspieranie treningu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "577",
+        "Nazwa_Produktu": "YB01 (PG 55CM) PIŁKA GIMNASTYCZNA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Piłka gimnastyczna', która idealnie pasuje do kategorii-liścia 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' -> 'Piłki do ćwiczeń'. Jest to najbardziej szczegółowa i trafna kategoria.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "724",
+        "Nazwa_Produktu": "FS105 WAŁEK PIANKOWY/ROLLER 3W1 HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Rollery, wałki i piłeczki do masażu",
+        "Finalne_ID_AI": 4348,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wałek piankowy/roller, który służy do treningu oraz masażu mięśni. Kategoria 'Sport i Hobby > Fitness > Akcesoria treningowe > Rollery, wałki i piłeczki do masażu' jest idealnie dopasowana do tytułu i opisu, ponieważ bezpośrednio odnosi się do tego typu urządzenia używanego w kontekście fitness i treningu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "754",
+        "Nazwa_Produktu": "PSB 3 KG SLAM BALL PIŁKA DO ĆWICZEŃ HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do ćwiczeń, która idealnie pasuje do kategorii-liścia 'Piłki do ćwiczeń' znajdującej się w ścieżce 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "873",
+        "Nazwa_Produktu": "YM03 GRAY MATA DO YOGI HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Akcesoria do jogi",
+        "Finalne_ID_AI": 4343,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'mata do jogi', a kategoria 'Akcesoria do jogi' jest liściem w drzewie kategorii 'Sport i Hobby > Fitness > Akcesoria treningowe' i idealnie pasuje do tytułu i opisu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "953",
+        "Nazwa_Produktu": "PU 70x24 82A PRZEZROCZYSTE (4 szt.) + ABEC-7 (8 szt.) ZESTAW NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw kółek i łożysk, które są kluczowymi częściami wymiennymi do sprzętu do skatingu (np. rolek, deskorolek, hulajnóg). Kategoria „Akcesoria skating” jest najbardziej precyzyjnym i szczegółowym dopasowaniem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1102",
+        "Nazwa_Produktu": "SK54 BLACK/RED SZYBKA SKAKANKA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Skakanki",
+        "Finalne_ID_AI": 4349,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skakanka, a w drzewie kategorii istnieje dokładnie pasująca kategoria-liść: \"Sport i Hobby\" -> \"Fitness\" -> \"Akcesoria treningowe\" -> \"Skakanki\".",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1139",
+        "Nazwa_Produktu": "FG01 NAKŁADKI NA GRYF (2SZT) HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nakładki na gryf, które są akcesoriami do treningu siłowego. Najbardziej pasującą ścieżką jest 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe'. Ponieważ nie ma bardziej szczegółowej kategorii dla nakładek na gryf w 'Akcesoriach treningowych', wybrano kategorię 'Pozostałe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1166",
+        "Nazwa_Produktu": "RST01 BLACK/RED ROZM. L RĘKAWICE NA SIŁOWNIĘ HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rękawiczki do treningu siłowego i fitness. Kategoria 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' jest najbardziej odpowiednia. Ponieważ nie ma bardziej szczegółowej podkategorii dla rękawiczek, kategoria-liść 'Pozostałe' w ramach 'Akcesoria treningowe' jest najlepszym wyborem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1280",
+        "Nazwa_Produktu": "KJ01 BLUE YOGA BLOK HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Akcesoria do jogi",
+        "Finalne_ID_AI": 4343,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to \"blok do jogi\", który jest narzędziem do uprawiania jogi. Kategoria \"Akcesoria do jogi\" jest bezpośrednim i najbardziej precyzyjnym dopasowaniem w drzewie kategorii, znajdującym się w gałęzi \"Sport i Hobby > Fitness > Akcesoria treningowe\".",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1334",
+        "Nazwa_Produktu": "BLM01 10CM POJEDYNCZA PIŁKA DO MASAŻU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Rollery, wałki i piłeczki do masażu",
+        "Finalne_ID_AI": 4348,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'piłka do masażu' dedykowana sportowcom i używana w celu rozluźniania mięśni. Kategoria 'Rollery, wałki i piłeczki do masażu' w ścieżce 'Sport i Hobby -> Fitness -> Akcesoria treningowe' jest idealnym i bardzo szczegółowym dopasowaniem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1339",
+        "Nazwa_Produktu": "PLAB1 PLATFORMA DO BALANSOWANIA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'platforma do balansowania', opisana jako przyrząd gimnastyczny służący do ćwiczeń równowagi i wzmocnienia mięśni. Najlepszym dopasowaniem jest kategoria 'Sport i Hobby' -> 'Fitness', a następnie 'Akcesoria treningowe'. Ponieważ nie ma bardziej szczegółowej kategorii bezpośrednio dla 'platform do balansowania', wybieram kategorię-liść 'Pozostałe' w ramach 'Akcesoria treningowe', która najlepiej oddaje charakter produktu jako dodatkowego sprzętu do ćwiczeń.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1414",
+        "Nazwa_Produktu": "AG01 AGRAFKA ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to przyrząd gimnastyczny do kształtowania mięśni, co kwalifikuje go do głównej kategorii 'Sport i Hobby'. W ramach tej kategorii, 'Fitness' jest najbardziej odpowiednie. Następnie, 'agrafka' jako małe, przenośne urządzenie do ćwiczeń najlepiej pasuje do 'Akcesoria treningowe'. Ponieważ nie ma bardziej szczegółowej kategorii dla 'agrafki' w tej gałęzi, wybieram kategorię-liść 'Pozostałe' pod 'Akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1476",
+        "Nazwa_Produktu": "PU 72x24 82A różowe kółka (4 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kółka PU, o specyfikacjach typowych dla sprzętu do jazdy (twardość 82A), co silnie wskazuje na zastosowanie w sportach typu skating (rolki, deskorolki, hulajnogi). Kategoria 'Akcesoria skating' jest najlepiej dopasowaną kategorią-liściem, semantycznie odpowiadającą produktowi.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1625",
+        "Nazwa_Produktu": "MS02 WAŁEK DO MASAŻU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Rollery, wałki i piłeczki do masażu",
+        "Finalne_ID_AI": 4348,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'wałek do masażu', który służy do treningu i masażu mięśni. Kategoria 'Rollery, wałki i piłeczki do masażu' jest najbardziej szczegółowa i precyzyjnie opisuje ten produkt, znajdując się w gałęzi 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe', co idealnie pasuje do opisu zastosowania wałka w kompleksowym treningu i aktywacji mięśni posturalnych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1738",
+        "Nazwa_Produktu": "SSB130 SMAR DO BIEŻNI W SPRAYU 450ML HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to smar do bieżni, co klasyfikuje go jako akcesorium do sprzętu fitness. W drzewie kategorii, najlepiej pasuje ścieżka 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe'. Ponieważ żaden z bardziej szczegółowych typów akcesoriów treningowych nie pasuje, wybieram kategorię-liść 'Pozostałe' w ramach 'Akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2056",
+        "Nazwa_Produktu": "NC3080 KRZESŁO TURYSTYCZNE SZARE 110 CM NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Krzesła turystyczne",
+        "Finalne_ID_AI": 3992,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'krzesło turystyczne' przeznaczone na camping, wycieczki i wędkowanie. Kategoria 'Krzesła turystyczne' (ID: 3992) jest bezpośrednim i najbardziej precyzyjnym dopasowaniem, będąc kategorią-liściem w gałęzi Sport i Hobby > Turystyka > Kuchnie i meble turystyczne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2145",
+        "Nazwa_Produktu": "PSTX06 PAS OBCIĄŻENIOWY DO ĆWICZEŃ SIŁOWYCH HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas obciążeniowy do ćwiczeń siłowych. Kategoria 'Akcesoria treningowe' jest najbardziej dopasowana semantycznie, a ponieważ pas nie jest wymieniony jako konkretny typ akcesorium, 'Pozostałe' w tej gałęzi jest najlepszym wyborem kategorii-liścia.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2148",
+        "Nazwa_Produktu": "PSTX05 PAS OBCIĄŻENIOWY DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas obciążeniowy do ćwiczeń siłowych, który jest akcesorium wspomagającym trening. Kategoria 'Akcesoria treningowe' (ID: 4317) jest najbardziej adekwatną kategorią nadrzędną w gałęzi 'Sport i Hobby' -> 'Fitness'. Ponieważ żadna z podkategorii 'Akcesoria treningowe' nie opisuje konkretnie pasa obciążeniowego (np. 'Hantelki', 'Maty', 'Taśmy i gumy do ćwiczeń'), najbardziej szczegółową i poprawną kategorią-liściem jest 'Pozostałe' (ID: 4353) w ramach 'Akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2149",
+        "Nazwa_Produktu": "TRS3609 TORBA SPORTOWA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Torby i plecaki treningowe",
+        "Finalne_ID_AI": 4352,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ergonomiczna torba sportowa przeznaczona na siłownię i na akcesoria treningowe. Kategoria 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' -> 'Torby i plecaki treningowe' (ID: 4352) jest najlepiej dopasowaną kategorią liściową, precyzyjnie odpowiadającą przeznaczeniu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2160",
+        "Nazwa_Produktu": "PA3998 BROWN ROZM. M PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas do ćwiczeń siłowych, który jest akcesorium wspomagającym trening. Kategoria 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' jest najbardziej odpowiednią gałęzią. Ponieważ nie ma bardziej szczegółowej kategorii bezpośrednio dla pasów do ćwiczeń siłowych, 'Pozostałe' (ID 4353) w ramach 'Akcesoriów treningowych' jest najlepiej dopasowaną kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2161",
+        "Nazwa_Produktu": "PA3998 BROWN ROZM. L PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas do ćwiczeń siłowych, który jest akcesorium treningowym. Najlepiej pasuje do ogólnej kategorii 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe'. Ponieważ żadna z podkategorii pod 'Akcesoria treningowe' nie opisuje precyzyjnie pasa do ćwiczeń siłowych (np. hantle, maty, itp.), wybrano kategorię 'Pozostałe' jako najbardziej odpowiednią opcję-liść.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2162",
+        "Nazwa_Produktu": "PA3998 BROWN ROZM. XL PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas do ćwiczeń siłowych, który jest akcesorium treningowym. Najlepiej pasuje do kategorii głównej 'Sport i Hobby', następnie 'Fitness' i 'Akcesoria treningowe'. Ponieważ nie ma bardziej szczegółowej kategorii dla pasów do ćwiczeń, wybieram kategorię-liść 'Pozostałe' w ramach 'Akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2163",
+        "Nazwa_Produktu": "PA3998 BROWN ROZM. XXL PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pas do ćwiczeń siłowych', który jest akcesorium wspomagającym trening. Najbardziej precyzyjna ścieżka w drzewie kategorii to 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe'. Ponieważ nie ma bardziej szczegółowej kategorii dla 'pasów do ćwiczeń', 'Pozostałe' w ramach 'Akcesoria treningowe' jest najlepszym wyborem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2170",
+        "Nazwa_Produktu": "PDM3134I GOLD PISTOLET DO MASAŻU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Urządzenia do masażu",
+        "Finalne_ID_AI": 3660,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pistolet do masażu, służący do dogłębnego masażu mięśni. Kategoria 'Urządzenia do masażu' (ID: 3660) w ramach gałęzi 'Zdrowie i Uroda' jest idealnym i najbardziej precyzyjnym dopasowaniem, odzwierciedlającym główną funkcję i przeznaczenie produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2171",
+        "Nazwa_Produktu": "PDM3125H BLACK PISTOLET DO MASAŻU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Urządzenia do masażu",
+        "Finalne_ID_AI": 3660,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pistolet do masażu, służący do masażu całego ciała w celu ulgi i odprężenia. Kategoria 'Zdrowie i Uroda > Urządzenia do masażu' (ID 3660) jest dokładnie dopasowana do funkcji i przeznaczenia produktu. Jest to kategoria-liść i jest najbardziej szczegółowa.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2184",
+        "Nazwa_Produktu": "PFM02 MASKA TRENINGOWA PERFORMANCE MASK",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to maska treningowa, służąca do symulacji treningu w warunkach górskich i zwiększania wydolności. Najlepiej pasuje do kategorii 'Sport i Hobby', a następnie 'Fitness'. W ramach 'Fitness' jest to konkretnie 'Akcesoria treningowe'. Ponieważ maska treningowa nie jest wymieniona jako osobna podkategoria, 'Pozostałe' w 'Akcesoria treningowe' jest najbardziej odpowiednią kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2220",
+        "Nazwa_Produktu": "KO1665 ROZM. L STABILIZATOR KOLANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Opaski i stabilizatory",
+        "Finalne_ID_AI": 3701,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stabilizator kolana, który jest bezpośrednio opisany przez kategorię-liść 'Opaski i stabilizatory' w ścieżce 'Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2221",
+        "Nazwa_Produktu": "KO1665 ROZM. XL STABILIZATOR KOLANA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Opaski i stabilizatory",
+        "Finalne_ID_AI": 3701,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stabilizator kolana, który idealnie pasuje do kategorii 'Zdrowie i Uroda' -> 'Sprzęt rehabilitacyjny i ortopedyczny' -> 'Opaski i stabilizatory'. Opis produktu wyraźnie wskazuje na jego zastosowanie w rehabilitacji i stabilizacji stawu kolanowego.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2243",
+        "Nazwa_Produktu": "LO1525 TURKUSOWO-CZARNY ROZM. S ŚCIĄGACZ NA ŁOKIEĆ HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Opaski i stabilizatory",
+        "Finalne_ID_AI": 3701,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ściągacz na staw łokciowy, który pełni funkcję stabilizatora i opaski uciskowej w profilaktyce i ochronie przed urazami. Kategoria 'Sprzęt rehabilitacyjny i ortopedyczny -> Opaski i stabilizatory' jest idealnie dopasowana semantycznie do funkcji i natury produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2254",
+        "Nazwa_Produktu": "NA1590 PRAWY ROZM. L/XL STABILIZATOR NADGARSTKA HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Opaski i stabilizatory",
+        "Finalne_ID_AI": 3701,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'stabilizator nadgarstka', a kategoria 'Opaski i stabilizatory' (ID: 3701) jest bezpośrednio zgodna z nazwą i przeznaczeniem produktu, znajdując się w logicznej ścieżce 'Zdrowie i Uroda' -> 'Sprzęt rehabilitacyjny i ortopedyczny'. Jest to kategoria-liść.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2261",
+        "Nazwa_Produktu": "SND1400 ROZM. XL NEOPRENOWE SZORTY WYSZCZUPLAJĄCE HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to szorty wyszczuplające przeznaczone do noszenia podczas aktywności fizycznej, zwiększające efektywność spalania tkanki tłuszczowej. Najlepiej pasuje do kategorii związanej ze sportem i fitnessem jako akcesorium treningowe. Kategoria `Sport i Hobby` -> `Fitness` -> `Akcesoria treningowe` -> `Pozostałe` jest najbardziej precyzyjnym wyborem, gdyż szorty te są dodatkiem wspomagającym trening, a ich podstawową cechą jest funkcja wyszczuplająca, co odróżnia je od zwykłej odzieży sportowej.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2298",
+        "Nazwa_Produktu": "MP10  MATA PUZZLE POD SPRZĘT PINK-GREY 9 ELEMENTÓW 10MM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata puzzle przeznaczona pod sprzęt sportowy w celu zabezpieczenia podłogi i tłumienia drgań podczas treningu. Kategoria 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' -> 'Maty' jest idealnie dopasowana semantycznie i jest kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2299",
+        "Nazwa_Produktu": "MP10 MATA PUZZLE POD SPRZĘT YELLOW-BLUE-PURPLE 9 ELEMENTÓW 10MM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'mata puzzle' przeznaczona pod sprzęt do ćwiczeń i na trening. Najlepszym dopasowaniem jest kategoria-liść 'Maty' w gałęzi 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2308",
+        "Nazwa_Produktu": "MP10 MATA PUZZLE POD SPRZĘT GREEN-BLUE-RED 9 ELEMENTÓW 10MM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata (puzzle) przeznaczona pod sprzęt treningowy, co idealnie pasuje do kategorii 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' -> 'Maty'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2318",
+        "Nazwa_Produktu": "MP12 MATA PUZZLE L.GRAY 9 ELEMENTÓW 12MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata typu puzzle, przeznaczona głównie do ćwiczeń fitness, jogi i treningów. Kategoria 'Maty' (ID 4346) znajduje się w gałęzi 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' i jest idealnym, szczegółowym dopasowaniem semantycznym.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2319",
+        "Nazwa_Produktu": "MP12 MATA PUZZLE D.GRAY 9 ELEMENTÓW 12MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata puzzle przeznaczona do ćwiczeń fitness, jogi i treningów siłowych. Kategoria 'Sport i Hobby -> Fitness -> Akcesoria treningowe -> Maty' jest najbardziej precyzyjnym i najlepiej dopasowanym liściem w drzewie kategorii, idealnie oddającym charakter produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2321",
+        "Nazwa_Produktu": "MP10 MATA PUZZLE MULTIPACK BLUE-GREY 9 ELEMENTÓW 10MM ONE FITNESS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata do ćwiczeń fitness, która jest akcesorium treningowym. Kategoria 'Maty' (ID: 4346) znajduje się dokładnie w ścieżce 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' i jest kategorią-liściem, idealnie pasującą do opisu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2328",
+        "Nazwa_Produktu": "OPX04 OPASKI TRENINGOWE NA KOSTKĘ (2szt) HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opaski treningowe na kostkę, które są akcesoriami do ćwiczeń fizycznych. Kategoria nadrzędna to 'Sport i Hobby', następnie 'Fitness' i 'Akcesoria treningowe'. Ponieważ opaski na kostkę nie pasują do żadnej z bardziej szczegółowych podkategorii w 'Akcesoria treningowe' (takich jak hantelki, maty czy taśmy), najbardziej odpowiednią kategorią-liściem jest 'Pozostałe' w ramach tej gałęzi.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2387",
+        "Nazwa_Produktu": "PU10 WIELOFUNKCYJNA DESKA DO POMPEK BLACK HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Deska do pompek to akcesorium treningowe wspomagające ćwiczenia z masą własnego ciała. Kategoria 'Sport i Hobby > Fitness > Akcesoria treningowe' jest najbardziej odpowiednia, a ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu produktu, 'Pozostałe' jest najlepszym wyborem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2416",
+        "Nazwa_Produktu": "HD03 KORONA KARKU PRZYRZĄD DO ĆWICZEŃ MIĘŚNI KARKU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny przyrząd do ćwiczeń mięśni karku i szyi, używany w treningach wytrzymałościowych i kulturystyce. Najbardziej precyzyjną kategorią-liściem jest 'Pozostałe' w gałęzi 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe', ponieważ jest to akcesorium do konkretnego rodzaju treningu, a nie główny sprzęt siłowy.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2430",
+        "Nazwa_Produktu": "TX11 ZESTAW TAŚM DO ĆWICZEŃ HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw taśm do ćwiczeń. Najlepiej pasującą kategorią-liściem jest 'Sport i Hobby' > 'Fitness' > 'Akcesoria treningowe' > 'Taśmy i gumy do ćwiczeń', która idealnie opisuje ten produkt.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2450",
+        "Nazwa_Produktu": "MFK07 VIOLET-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 120*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata fitness, a kategoria 'Maty' (ID: 4346) jest idealnie dopasowaną kategorią-liściem, znajdującą się w ścieżce Sport i Hobby -> Fitness -> Akcesoria treningowe.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2451",
+        "Nazwa_Produktu": "MFK07 LIGHT GREY-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 120*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Mata fitness', która idealnie pasuje do kategorii 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' -> 'Maty'. Jest to kategoria-liść i precyzyjnie odpowiada charakterowi produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2471",
+        "Nazwa_Produktu": "MFK08 GREEN-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 140*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata fitness, a kategoria 'Maty' w gałęzi 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' jest precyzyjnym i najlepiej dopasowanym liściem kategorii.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2477",
+        "Nazwa_Produktu": "DC31 ZESTAW DRĄŻEK DO PILATESU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to drążek połączony z gumami oporowymi do ćwiczeń. Kategoria 'Taśmy i gumy do ćwiczeń' (id: 4351) w ścieżce 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' najlepiej oddaje jego funkcjonalność i główne komponenty.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2571",
+        "Nazwa_Produktu": "MTW05 JASNONIEBIESKI ROZM. S (51-58 cm) KASK NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kask przeznaczony do różnych form skatingu (hulajnoga, rolki, deskorolka), co bezpośrednio odpowiada kategorii 'Sport i Hobby' -> 'Skating' -> 'Akcesoria skating'. Jest to najbardziej szczegółowa i trafna kategoria-liść.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2576",
+        "Nazwa_Produktu": "MGS02 MATERAC GIMNASTYCZNY SKŁADANY 1800x600MM BLACK HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to składany materac gimnastyczny. Kategoria 'Maty' (ID: 4346) znajduje się pod ścieżką Sport i Hobby -> Fitness -> Akcesoria treningowe, co idealnie pasuje do charakteru produktu i jego zastosowania, w tym do jogi i ogólnych ćwiczeń.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2577",
+        "Nazwa_Produktu": "MGS02 MATERAC GIMNASTYCZNY SKŁADANY 1800x600MM GREY HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'materac gimnastyczny', który jest rodzajem maty. Kategoria 'Maty' (ID 4346) jest najbardziej precyzyjnym dopasowaniem, znajdującym się w ścieżce Sport i Hobby -> Fitness -> Akcesoria treningowe. Jest to bardziej szczegółowa kategoria niż ogólne 'Sprzęt fitness' czy 'Pozostałe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2578",
+        "Nazwa_Produktu": "MGS02 MATERAC GIMNASTYCZNY SKŁADANY 1800x600MM PINK HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to materac gimnastyczny, który jest rodzajem maty treningowej. Kategoria 'Maty' (id: 4346) znajduje się w gałęzi 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe', co idealnie pasuje do przeznaczenia produktu wskazanego w tytule i opisie (ćwiczenia w leżeniu, joga, trening siłowy).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2585",
+        "Nazwa_Produktu": "NAR12 CZARNY RĘCZNIK Z MIKROFIBRY 180x100 cm NILS AQUA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręcznik z mikrofibry, którego opis podkreśla cechy takie jak super chłonność, szybkie schnięcie, lekkość i kompaktowość. Wskazane zastosowania to basen, jezioro, aktywności fizyczne na świeżym powietrzu oraz camping. Kategoria 'Pływanie' (Sport i Hobby -> Sporty wodne -> Pływanie) jest najbardziej szczegółowa i trafna, bezpośrednio odnosząc się do użytku ręcznika po kontakcie z wodą (basen, jezioro). Chociaż wspomniano również o campingu i aktywnościach na świeżym powietrzu, cechy ręcznika są kluczowe właśnie w kontekście osuszania po pływaniu i szybkim przygotowaniu do dalszego użytku.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2591",
+        "Nazwa_Produktu": "MTW01 LED ZIELONY ROZM. XS (43-49 cm) KASK NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kask ochronny przeznaczony do różnych form skatingu (hulajnoga, rolki, deskorolka), co bezpośrednio odpowiada kategorii 'Akcesoria skating'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2747",
+        "Nazwa_Produktu": "PU 72x24 82A PRZEZROCZYSTE kółka (4 szt.) NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kółka poliuretanowe o specyfikacji twardości i średnicy typowej dla sprzętu do sportów wrotkarskich (skating). Kategoria 'Akcesoria skating' (Sport i Hobby > Skating) jest najbardziej precyzyjnym i trafnym dopasowaniem, ponieważ kółka są akcesorium do deskorolek, hulajnóg, rolek lub wrotek.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2749",
+        "Nazwa_Produktu": "PU 72x24 82A BIAŁE (4 szt.) + ABEC-7 (8 szt.) ZESTAW NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw kółek PU i łożysk ABEC-7. Są to typowe akcesoria do sprzętu skatingowego (rolek, wrotek, deskorolek, hulajnóg). Kategoria 'Akcesoria skating' jest najlepiej dopasowana, ponieważ są to części zamienne/dodatkowe, a nie kompletny pojazd, a jednocześnie jest to kategoria-liść.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2774",
+        "Nazwa_Produktu": "H706 CZARNO-MIĘTOWY ROZM. L  ZESTAW OCHRANIACZY NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw ochraniaczy na nadgarstki, łokcie i kolana. Tego typu ochraniacze są podstawowym elementem wyposażenia do sportów rolkowych, deskorolkowych i hulajnogowych. Kategoria `Akcesoria skating` (ID: 1679) jest kategorią-liściem najlepiej odpowiadającą ogólnym akcesoriom ochronnym dla tych sportów w drzewie kategorii `Sport i Hobby > Skating`, co jest zgodne z przeznaczeniem produktu i powszechną ofertą marki Nils Extreme.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2836",
+        "Nazwa_Produktu": "NQ8400S BIAŁY ROZM. 39  WROTKI NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Wrotki",
+        "Finalne_ID_AI": 1678,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wrotki, a kategoria 'Wrotki' (ID: 1678) jest bezpośrednio dostępna w drzewie kategorii, będąc kategorią-liściem pod ścieżką 'Sport i Hobby > Skating'. Jest to idealne dopasowanie semantyczne do tytułu i opisu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2837",
+        "Nazwa_Produktu": "NQ8400S BIAŁY ROZM. 40  WROTKI NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Wrotki",
+        "Finalne_ID_AI": 1678,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'Wrotki'. Kategoria 'Wrotki' (ID: 1678) znajduje się w gałęzi 'Sport i Hobby > Skating' i jest kategorią-liściem, idealnie pasującą do produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2838",
+        "Nazwa_Produktu": "NQ8400S CZARNY ROZM. 35  WROTKI NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Wrotki",
+        "Finalne_ID_AI": 1678,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Wrotki' (roller skates), a kategoria 'Wrotki' (ID: 1678) jest bezpośrednim, najlepiej pasującym liściem w gałęzi 'Sport i Hobby > Skating'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2840",
+        "Nazwa_Produktu": "NQ8400S CZARNY ROZM. 37  WROTKI NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Wrotki",
+        "Finalne_ID_AI": 1678,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Wrotki', a w drzewie kategorii istnieje dokładnie pasująca kategoria-liść 'Sport i Hobby > Skating > Wrotki'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "2843",
+        "Nazwa_Produktu": "NQ8400S CZARNY ROZM. 40  WROTKI NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Wrotki",
+        "Finalne_ID_AI": 1678,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'Wrotki' (roller skates), a kategoria 'Wrotki' (id: 1678) jest bezpośrednim, najlepiej dopasowanym liściem w gałęzi Sport i Hobby > Skating.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3276",
+        "Nazwa_Produktu": "NH18190 2w1 CZARNO-NIEBIESKI ROZM.L(39-43) ŁYŻWOROLKI Z WYM. PŁ. HOKEJOWĄ NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Rolki",
+        "Finalne_ID_AI": 1677,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'ŁYŻWOROLKI' jako główną kategorię produktu. Chociaż produkt jest typu '2w1' i może być również używany jako łyżwy, jego podstawowe określenie w tytule to 'łyżworolki' z wymienną płozą hokejową. W drzewie kategorii, 'Rolki' (ID: 1677) jest najbardziej szczegółową kategorią-liściem pasującą do tego określenia i znajduje się w gałęzi 'Sport i Hobby > Skating'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3280",
+        "Nazwa_Produktu": "NH18190 2w1 BIAŁO-RÓŻOWY ROZM.M(34-38) ŁYŻWOROLKI Z WYM. PŁ. HOKEJOWĄ NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Rolki",
+        "Finalne_ID_AI": 1677,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przede wszystkim łyżworolki (ŁYŻWOROLKI) z wymienną płozą hokejową, co pozwala na używanie ich również jako łyżew. Kategoria 'Rolki' jest najbardziej szczegółowa i najlepiej opisuje podstawowy charakter produktu jako łyżworolki, natomiast funkcja 'łyżwy' jest dodatkowa. Zgodnie z wymaganiami, wybieram kategorię 'Rolki' jako najbardziej pasującą kategorię-liść.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3354",
+        "Nazwa_Produktu": "KTO08 KAMIZELKA TRENINGOWA Z OBCIĄŻENIEM 8 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kamizelka obciążeniowa, która jest akcesorium wspomagającym trening. Najlepiej pasującą kategorią-liściem jest 'Pozostałe' w gałęzi 'Sport i Hobby -> Fitness -> Akcesoria treningowe', ponieważ kamizelka jest dodatkiem treningowym, a nie głównym sprzętem fitness czy siłowym, a żadna z bardziej szczegółowych podkategorii nie pasuje idealnie.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3378",
+        "Nazwa_Produktu": "NC4005 ZIELONY MATA TURYSTYCZNA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Karimaty",
+        "Finalne_ID_AI": 3984,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata turystyczna, która jest bezpośrednim odpowiednikiem kategorii 'Karimaty'. Ścieżka 'Sport i Hobby -> Turystyka -> Śpiwory, materace i karimaty -> Karimaty' jest idealnie dopasowana do tytułu i opisu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3379",
+        "Nazwa_Produktu": "NC4007 NIEBIESKI MATA TURYSTYCZNA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalne_ID_AI": 3985,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nadmuchiwana mata turystyczna, która służy jako podkładka pod śpiwór dla komfortu podczas spania na zewnątrz. Kategoria 'Materace' (ID: 3985) w drzewie 'Sport i Hobby > Turystyka > Śpiwory, materace i karimaty' jest najbardziej precyzyjnym i semantycznie dopasowanym wyborem dla nadmuchiwanej maty, która pełni funkcję materaca turystycznego.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3443",
+        "Nazwa_Produktu": "NC4340 NIEBIESKO-SZARY MATA SAMOPOMPUJĄCA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalne_ID_AI": 3985,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to mata samopompująca, która jest typem materaca przeznaczonego do użytku turystycznego, na plaży lub pod namiotem. Kategoria 'Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace' jest najbardziej precyzyjnym i semantycznie dopasowanym wyborem, wskazującym na przeznaczenie produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3444",
+        "Nazwa_Produktu": "NC4006 SZARY MATA TURYSTYCZNA Z POMPKĄ NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalne_ID_AI": 3985,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'mata turystyczna z pompką', która jest nadmuchiwana i ma wbudowaną poduszkę, służąca do spania i wypoczynku w warunkach turystycznych. Najlepiej pasuje do kategorii 'Sport i Hobby' -> 'Turystyka' -> 'Śpiwory, materace i karimaty'. Spośród liści w tej gałęzi, 'Materace' jest najbardziej trafnym wyborem, ponieważ mata jest nadmuchiwana, co sugeruje cechy materaca, a nie prostej karimaty.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3476",
+        "Nazwa_Produktu": "MFK08 GREY-BLACK MATA FITNESS KLUBOWA Z OTWORAMI 140*60CM EVA 15MM HMS PREMIUM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to mata fitness, a kategoria 'Maty' (ID: 4346) w gałęzi 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' jest najbardziej szczegółową i najlepiej dopasowaną kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3521",
+        "Nazwa_Produktu": "DYSK PODUSZKA SENSOMOTORYCZNA Z POMPKĄ 33CM EB FIT",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dysk sensomotoryczny używany do ćwiczeń fitness, rehabilitacji i korekcji wad postawy. Marka specjalizuje się w akcesoriach fitness. Najlepsza pasująca ścieżka to Sport i Hobby -> Fitness -> Akcesoria treningowe. Ponieważ produkt nie jest konkretnie piłką, rollerem, czy innym wymienionym akcesorium, kategoria-liść 'Pozostałe' w tej gałęzi jest najbardziej odpowiednia.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3523",
+        "Nazwa_Produktu": "ZESTAW BOKSERSKI DLA DZIECI Z MOCOWANIEM NA DRZWI",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw bokserski dla dzieci, który w opisie jest wyraźnie przedstawiony jako narzędzie do treningu i rozwijania koordynacji ruchowej, zwinności i refleksu. Takie funkcje idealnie pasują do kategorii 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe'. Ponieważ nie ma bardziej szczegółowej kategorii dla sprzętu bokserskiego w tej gałęzi, 'Pozostałe' w 'Akcesoria treningowe' jest najlepszym wyborem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3585",
+        "Nazwa_Produktu": "HAMAK TURYSTYCZNY 2 OSOBOWY 270X140CM Z MOSKITIERĄ ZIELONY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Hamaki i leżaki",
+        "Finalne_ID_AI": 3989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hamak turystyczny, który idealnie pasuje do kategorii-liścia 'Hamaki i leżaki' znajdującej się w ścieżce 'Sport i Hobby > Turystyka > Kuchnie i meble turystyczne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "3725",
+        "Nazwa_Produktu": "MINI POMPKA METEOR STROKE",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Rowery > Akcesoria rowerowe > Pompki rowerowe",
+        "Finalne_ID_AI": 4268,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mini pompka rowerowa. Najlepiej pasującą, szczegółową kategorią-liściem jest 'Pompki rowerowe' znajdująca się w ścieżce: Sport i Hobby -> Rowery -> Akcesoria rowerowe.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "4039",
+        "Nazwa_Produktu": "MATA PUZZLE PIANKOWE EVA 60X60X1,2CM KPL. 4SZT ENERO czerwony",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata piankowa w formie puzzli, której opis wyraźnie podkreśla zastosowanie do tworzenia domowej siłowni, ćwiczeń sportowych i jako podkład pod sprzęt sportowy. Chociaż wspomniano również o zastosowaniu do zabawy dla dzieci, jej podstawowa funkcja jako mata do aktywności fizycznej i ochrona podłogi najlepiej pasuje do kategorii 'Sport i Hobby > Fitness > Akcesoria treningowe > Maty'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "4096",
+        "Nazwa_Produktu": "NC8019 KOC PIKNIKOWY KOLIBER 200 x 200cm NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Karimaty",
+        "Finalne_ID_AI": 3984,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koc piknikowy, który jest przeznaczony do użytku na zewnątrz (piknik, plażowanie, ogród) i charakteryzuje się wodoodporną warstwą oraz łatwością transportu. Najbliższą semantycznie kategorią-liściem, która najlepiej oddaje funkcjonalność przenośnej maty do siedzenia/leżenia na zewnątrz, jest 'Karimaty' w gałęzi 'Sport i Hobby > Turystyka > Śpiwory, materace i karimaty'. Kategoria 'Koce' (Dom i Ogród > Wyposażenie wnętrz) nie pasuje, ponieważ dotyczy koców do użytku wewnętrznego.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "4139",
+        "Nazwa_Produktu": "NAMIOT TURYSTYCZNY 2 OSOBOWY SPLASH Z TROPIKIEM ROYOKAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to namiot turystyczny, a kategoria 'Namioty' (ID: 3978) jest liściem w ścieżce Sport i Hobby -> Turystyka -> Namioty i akcesoria -> Namioty, co idealnie pasuje do tytułu i opisu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "4257",
+        "Nazwa_Produktu": "NCB12 SŁOŃ KUBEK TERMICZNY NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalne_ID_AI": 2137,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'kubek termiczny', który idealnie pasuje do kategorii-liścia 'Termosy i kubki termiczne' w ścieżce Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne. Jest to najbardziej szczegółowa i trafna kategoria dla tego typu produktu, niezależnie od jego zastosowania turystycznego.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "4336",
+        "Nazwa_Produktu": "NC6010 NAMIOT KEMPINGOWY HIKER NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to namiot kempingowy, a kategoria 'Namioty' (3978) jest najbardziej szczegółową i bezpośrednio pasującą kategorią-liściem w drzewie kategorii 'Sport i Hobby' -> 'Turystyka' -> 'Namioty i akcesoria'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "4746",
+        "Nazwa_Produktu": "MTW001 MIĘTOWY ROZM. XS(48-52CM) KASK NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kask przeznaczony do jazdy na rolkach, hulajnodze i deskorolce. Najlepiej pasuje do kategorii 'Sport i Hobby' -> 'Skating' -> 'Akcesoria skating', która jest kategorią-liściem i precyzyjnie opisuje tego typu artykuły ochronne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "4795",
+        "Nazwa_Produktu": "HHM14 HULA HOP GREEN Z MAGNESAMI I OBCIĄŻNIKIEM + LICZNIK HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Hula hop",
+        "Finalne_ID_AI": 4345,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hula hop, które jest konkretnym akcesorium treningowym. Istnieje bezpośrednio pasująca kategoria-liść 'Hula hop' w ścieżce 'Sport i Hobby > Fitness > Akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "4796",
+        "Nazwa_Produktu": "HHM14 HULA HOP VIOLET Z MAGNESAMI I OBCIĄŻNIKIEM + LICZNIK HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Hula hop",
+        "Finalne_ID_AI": 4345,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Hula Hop', a w drzewie kategorii istnieje dokładna kategoria-liść 'Hula hop' (ID: 4345), która jest semantycznie idealnie dopasowana do tytułu i opisu produktu. Jest to najbardziej szczegółowa i precyzyjna kategoria.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "4836",
+        "Nazwa_Produktu": "NC1714 LORNETKA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Pozostałe",
+        "Finalne_ID_AI": 4009,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lornetka, opisana jako idealna do obserwacji przyrody i wędrówek. Najlepiej pasującą gałęzią jest 'Sport i Hobby', a następnie 'Turystyka'. W ramach 'Turystyki', 'Osprzęt turystyczny' jest najbardziej szczegółowy. Ponieważ nie ma dedykowanej kategorii dla lornetek, wybrano kategorię-liść 'Pozostałe' w ramach 'Osprzętu turystycznego'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "4914",
+        "Nazwa_Produktu": "NC4006 TURKUSOWA MATA TURYSTYCZNA Z POMPKĄ NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalne_ID_AI": 3985,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dmuchana mata turystyczna, która zgodnie z opisem ma 5 cm wysokości i zapewnia komfort. Najlepiej pasuje do gałęzi 'Sport i Hobby' -> 'Turystyka' -> 'Śpiwory, materace i karimaty'. Spośród podkategorii, 'Materace' jest najbardziej odpowiednia dla dmuchanej, grubszej maty, w przeciwieństwie do zazwyczaj cieńszych 'Karimat'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "4968",
+        "Nazwa_Produktu": "NC2011 SZARO-ZIELONY PODWÓJNY ŚPIWÓR NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Śpiwory",
+        "Finalne_ID_AI": 3986,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to śpiwór turystyczny. Kategoria 'Sport i Hobby -> Turystyka -> Śpiwory, materace i karimaty -> Śpiwory' jest bezpośrednim i najbardziej szczegółowym dopasowaniem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5015",
+        "Nazwa_Produktu": "ZESTAW REGULOWANY DO BADMINTONA TENISA SIATKÓWKI 3W1",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalne_ID_AI": 100,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw 3w1 przeznaczony do gry w badmintona, tenisa i siatkówkę. Ponieważ nie ma jednej konkretnej kategorii-liścia, która obejmowałaby jednocześnie wszystkie trzy wymienione sporty i ich akcesoria, wybór kategorii 'Pozostały sport i hobby' pod nadrzędną kategorią 'Sport i Hobby' jest najbardziej odpowiedni i najmniej mylący. Pozwala to na uniknięcie przypisywania zestawu tylko do jednego sportu z pominięciem pozostałych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5138",
+        "Nazwa_Produktu": "BIDON ROWEROWY DUNLOP 750ML Z KOSZYKIEM SREBRNY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Rowery > Akcesoria rowerowe > Bidony rowerowe",
+        "Finalne_ID_AI": 4225,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bidon rowerowy wraz z koszykiem, co idealnie pasuje do kategorii-liścia 'Bidony rowerowe' znajdującej się w ścieżce 'Sport i Hobby' -> 'Rowery' -> 'Akcesoria rowerowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5210",
+        "Nazwa_Produktu": "Pojemnik do żywności 0,9 l 147x147x80mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik na żywność, a kategoria 'Pojemniki i przechowywanie żywności' w ścieżce Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne idealnie pasuje do jego funkcji i opisu, w tym przechowywania, mrożenia, podgrzewania i zastosowania jako lunchbox.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5219",
+        "Nazwa_Produktu": "Wkład chłodzący 500 gr.",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Pozostałe",
+        "Finalne_ID_AI": 4009,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wkład chłodzący do lodówek turystycznych, przeznaczony do użytku podczas wycieczek i pikników. Najlepiej pasuje do ogólnej kategorii 'Osprzęt turystyczny', a ponieważ nie ma bardziej szczegółowej kategorii dla 'wkładów chłodzących', wybieram 'Pozostałe' w ramach tej gałęzi.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5233",
+        "Nazwa_Produktu": "Organizer na sztućce Deco Bella 9 częściowy",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to 'Organizer na sztućce', który jest akcesorium do kuchni. Najlepiej pasuje do gałęzi 'Dom i Ogród' -> 'Wyposażenie wnętrz' -> 'Przybory kuchenne'. Ponieważ nie ma bardziej szczegółowej kategorii liścia dla organizerów na sztućce, wybrano ogólną kategorię 'Pozostałe' w ramach 'Przybory kuchenne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5296",
+        "Nazwa_Produktu": "KIJE NORDIC WALKING 2-SEKFENCJE NIEBIESKIE",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt audio > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 1978,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Kije Nordic Walking', które są semantycznie bardzo bliskie 'Kijom trekkingowym' w kategorii Turystyka. Jest to kategoria-liść i jest znacznie bardziej precyzyjna niż ogólne 'Pozostałe akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5402",
+        "Nazwa_Produktu": "STR30 WIESZAK NA MATY COMMERCIAL HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wieszak na maty do ćwiczeń, co wskazuje na związek z aktywnością fizyczną. Najlepiej pasuje do gałęzi 'Sport i Hobby' -> 'Fitness'. W ramach 'Fitness' wieszak jest akcesorium do przechowywania sprzętu treningowego, więc umieszczenie go w 'Akcesoria treningowe', a następnie w kategorii 'Pozostałe' jest najbardziej precyzyjne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5416",
+        "Nazwa_Produktu": "RST04 WHITE-BLACK ROZM. XL RĘKAWICE NA SIŁOWNIĘ HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rękawice treningowe przeznaczone do sportów siłowych i fitness. Kategoria 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe' jest najbardziej dopasowana. Ponieważ nie ma bardziej szczegółowej kategorii 'Rękawice treningowe' pod 'Akcesoria treningowe', 'Pozostałe' (4353) jest najlepszą kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5446",
+        "Nazwa_Produktu": "NC3743 NAMIOT KEMPINGOWY SAMOROZKŁADAJĄCY NIEBIESKI NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to namiot kempingowy. Najlepiej pasującą kategorią-liściem z drzewa kategorii jest \"Sport i Hobby\" -> \"Turystyka\" -> \"Namioty i akcesoria\" -> \"Namioty\".",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5456",
+        "Nazwa_Produktu": "NC6010 ZIELONY NAMIOT KEMPINGOWY HIKER NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to namiot kempingowy/turystyczny. Kategoria 'Namioty' w ścieżce 'Sport i Hobby > Turystyka > Namioty i akcesoria' jest idealnym i najbardziej szczegółowym dopasowaniem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5459",
+        "Nazwa_Produktu": "NC6033 NAMIOT KEMPINGOWY NIEBIESKI NIGHTFALL NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to namiot kempingowy, idealnie pasujący do kategorii 'Sport i Hobby -> Turystyka -> Namioty i akcesoria -> Namioty', która jest kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5580",
+        "Nazwa_Produktu": "NC3140 TORBA TERMICZNA CZARNA 25L NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Lodówki turystyczne",
+        "Finalne_ID_AI": 3994,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'torba termiczna', której główną funkcją jest utrzymywanie temperatury żywności i napojów, podobnie jak 'lodówka turystyczna' lub cooler. Chociaż opis wskazuje na możliwość noszenia jej jak plecak (co sugerowałoby kategorię 'Plecaki'), kluczowym atrybutem jest jej termoizolacja, co plasuje ją semantycznie bliżej do 'Lodówki turystyczne' w gałęzi 'Sport i Hobby > Turystyka > Kuchnie i meble turystyczne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5651",
+        "Nazwa_Produktu": "HHM15 HULA HOP BLACK Z MAGNESEM I OBCIĄŻNIKIEM + LICZNIK HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Hula hop",
+        "Finalne_ID_AI": 4345,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'Hula hop', a opis potwierdza jego przeznaczenie jako sprzętu do fitnessu. Kategoria 'Hula hop' (ID: 4345) jest kategorią-liściem i idealnie pasuje do charakterystyki produktu, znajdując się w logicznej ścieżce 'Sport i Hobby > Fitness > Akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5702",
+        "Nazwa_Produktu": "MATA SAMOPOMPUJĄCA TURYSTYCZNA MATERAC 180X50X3CM GRANATOWA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalne_ID_AI": 3985,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata samopompująca turystyczna, która pełni funkcję materaca. Najbardziej pasującą kategorią-liściem jest 'Materace' znajdująca się w ścieżce 'Sport i Hobby' -> 'Turystyka' -> 'Śpiwory, materace i karimaty'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5777",
+        "Nazwa_Produktu": "DESKA DO PŁYWANIA COMFY KICK",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to deska do pływania, która jest akcesorium sportowym służącym do nauki i doskonalenia umiejętności pływackich. Kategoria 'Pływanie' (1830) w gałęzi 'Sporty wodne' (1517) pod 'Sport i Hobby' (767) jest najlepiej dopasowaną i najbardziej szczegółową kategorią-liściem dla tego typu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5846",
+        "Nazwa_Produktu": "LAMPKA ROWEROWA NA TYŁ 5 LED DUNLOP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Rowery > Akcesoria rowerowe > Oświetlenie rowerowe i odblaski",
+        "Finalne_ID_AI": 4232,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lampka rowerowa, czyli akcesorium przeznaczone do roweru i służące do oświetlenia. Kategoria 'Oświetlenie rowerowe i odblaski' (ID: 4232) jest liściem i doskonale pasuje do opisu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5876",
+        "Nazwa_Produktu": "Plecak kabinowy Meteor Hermod 20 l Rami",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Plecaki",
+        "Finalne_ID_AI": 4000,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to plecak podróżny o wymiarach bagażu kabinowego, z funkcjami ułatwiającymi podróżowanie (np. mocowanie do walizki). Kategoria 'Sport i Hobby > Turystyka > Osprzęt turystyczny > Plecaki' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5966",
+        "Nazwa_Produktu": "Organizer do szuflad wielofunkcyjny",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalne_ID_AI": 2102,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Organizer do szuflad', opisany jako 'pojemnik z przegródkami' wykonany z plastiku, służący do przechowywania drobnych przedmiotów w szufladach (bielizna, skarpetki, krawaty). Najbardziej odpowiednią kategorią-liściem jest 'Pudełka' w gałęzi 'Dom i Ogród > Wyposażenie wnętrz', ponieważ produkt jest pojemnikiem służącym do organizacji, co idealnie pasuje do definicji pudełka.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5970",
+        "Nazwa_Produktu": "Suszarka do naczyń transp.30x39x7",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ociekacze i suszarki do naczyń",
+        "Finalne_ID_AI": 2129,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to suszarka do naczyń, która idealnie pasuje do kategorii 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ociekacze i suszarki do naczyń'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5973",
+        "Nazwa_Produktu": "Kosz DUO 2 x 25 l",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kosz na śmieci z podwójną komorą do segregacji (2x25l), wykonany z tworzywa sztucznego i z systemem ułatwiającym użytkowanie. Idealnie pasuje do kategorii \"Kosze na śmieci i pojemniki do segregacji\" w drzewie \"Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne\".",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5974",
+        "Nazwa_Produktu": "Suszarka do naczyń transp.37x46x9",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ociekacze i suszarki do naczyń",
+        "Finalne_ID_AI": 2129,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Suszarka do naczyń', a kategoria 'Ociekacze i suszarki do naczyń' jest bezpośrednim i precyzyjnym dopasowaniem do tytułu i opisu. Jest to kategoria liść w drzewie kategorii 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5975",
+        "Nazwa_Produktu": "Pojemnik okrągły EVA kolor z drewnianą pokrywką 1,5 l",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik na artykuły sypkie, przeznaczony do kuchni. Kategoria 'Pojemniki i przechowywanie żywności' (Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne) jest najbardziej precyzyjnym i trafnym dopasowaniem, jest kategorią-liściem i idealnie odzwierciedla przeznaczenie produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5976",
+        "Nazwa_Produktu": "Patera 3 - poziomowa",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Patery",
+        "Finalne_ID_AI": 2156,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'patera', a kategoria 'Patery' (ID: 2156) jest dokładnie dopasowana do nazwy i opisu produktu (patera na ciasto lub owoce). Jest to kategoria-liść w drzewie: Dom i Ogród -> Wyposażenie wnętrz -> Zastawa stołowa -> Patery.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5979",
+        "Nazwa_Produktu": "Półka łazienkowa narożna CADDY 280x175x450mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Półki łazienkowe",
+        "Finalne_ID_AI": 2061,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to półka łazienkowa. Kategoria 'Półki łazienkowe' (ID: 2061) jest idealnym i najbardziej szczegółowym dopasowaniem, znajdującym się w ścieżce 'Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5980",
+        "Nazwa_Produktu": "KOSZYK WILLY MAŁY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalne_ID_AI": 2100,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ażurowy koszyk z tworzywa sztucznego, przeznaczony do przenoszenia i przechowywania. Kategoria 'Koszyki' w gałęzi 'Dom i Ogród > Wyposażenie wnętrz' jest najbardziej precyzyjnym i semantycznie dopasowanym wyborem dla tego typu artykułu. Mimo, że może być używany w samochodzie lub na pikniku, jego podstawową funkcją i nazwą jest koszyk, co idealnie pasuje do wybranej kategorii-liścia.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5983",
+        "Nazwa_Produktu": "BOX ERKOC 8,5 l 23x37x16cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalne_ID_AI": 2102,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik/pudełko do przechowywania i porządkowania przedmiotów w różnych pomieszczeniach domowych (łazienka, sypialnia, garaż). Kategoria 'Dom i Ogród' > 'Wyposażenie wnętrz' > 'Pudełka' jest najbardziej adekwatna i precyzyjna dla tego typu produktu, a jednocześnie jest kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5985",
+        "Nazwa_Produktu": "Chłodziarka turystyczna 30 l NEW STAR",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Lodówki turystyczne",
+        "Finalne_ID_AI": 3994,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to chłodziarka turystyczna, która idealnie pasuje do kategorii 'Lodówki turystyczne' znajdującej się w ścieżce Sport i Hobby > Turystyka > Kuchnie i meble turystyczne. Opis produktu (przeznaczenie na wyjazdy, pikniki, biwaki, utrzymywanie temperatury) w pełni potwierdza ten wybór.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5987",
+        "Nazwa_Produktu": "BOX ERKOC 0,75 l 10,8x16x7,5 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalne_ID_AI": 2102,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemnik/pudełko do przechowywania i segregowania przedmiotów w domu. Kategoria 'Pudełka' (ID: 2102) jest liściem w ścieżce 'Dom i Ogród' -> 'Wyposażenie wnętrz' i najlepiej oddaje charakter produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5988",
+        "Nazwa_Produktu": "Miska kuchenna kwadratowa Double",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Miski",
+        "Finalne_ID_AI": 2124,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to miska kuchenna. Najlepiej pasującą i najbardziej szczegółową kategorią-liściem jest 'Miski' znajdująca się w ścieżce Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5990",
+        "Nazwa_Produktu": "WYCISKACZ DO CYTRUSÓW DUŻY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD drobne > Wyciskarki do cytrusów",
+        "Finalne_ID_AI": 2251,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Wyciskacz do cytrusów', który idealnie pasuje do kategorii-liścia 'Elektronika -> Sprzęt AGD -> AGD drobne -> Wyciskarki do cytrusów'. Jest to najbardziej szczegółowa i trafna kategoria dla tego produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5992",
+        "Nazwa_Produktu": "Silikonowa łapka gorących naczyń",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy",
+        "Finalne_ID_AI": 2131,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to silikonowa łapka żaroodporna do naczyń, która jest rodzajem rękawicy kuchennej. Kategoria 'Ścierki, rękawice i fartuchy' (Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne) jest najlepiej dopasowana semantycznie i jest kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5993",
+        "Nazwa_Produktu": "Wieszak dziecięcy Junior - zestaw 6 szt.",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Akcesoria dla niemowląt > Pozostałe akcesoria dla niemowląt",
+        "Finalne_ID_AI": 4765,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wieszaki przeznaczone do odzieży dziecięcej. Kategoria 'Dla Dzieci > Akcesoria dla niemowląt' jest najbardziej odpowiednią gałęzią dla akcesoriów dla młodszych dzieci, a 'Pozostałe akcesoria dla niemowląt' to najlepiej dopasowana kategoria-liść, ponieważ nie ma osobnej kategorii na wieszaki dziecięce.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5994",
+        "Nazwa_Produktu": "Nocnik-krzesełko z motywem",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Akcesoria dla niemowląt > Nocniki",
+        "Finalne_ID_AI": 4756,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Nocnik-krzesełko', co doskonale odpowiada kategorii-liściowi 'Nocniki' znajdującej się w ścieżce 'Dla Dzieci' -> 'Akcesoria dla niemowląt'. Opis produktu szczegółowo potwierdza jego funkcję jako nocnika do nauki toalety dla dzieci.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5997",
+        "Nazwa_Produktu": "Miska z pokrywką Chef 5500 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Miski",
+        "Finalne_ID_AI": 2124,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to miska z pokrywką, której zastosowanie w kuchni i do przechowywania żywności zostało wyraźnie podkreślone w opisie. Kategoria 'Miski' (ID 2124) znajdująca się w ścieżce 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne' jest najbardziej precyzyjnym i semantycznie dopasowanym miejscem dla tego typu produktu. Wskazany rozmiar oraz nazwa 'Chef' również sugerują zastosowanie do przygotowywania posiłków.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5998",
+        "Nazwa_Produktu": "Pojemnik do segregacji VEGBOX ECO",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Pojemnik do segregacji', a kategoria 'Kosze na śmieci i pojemniki do segregacji' jest idealnie dopasowana semantycznie i jest kategorią-liściem w drzewie kategorii 'Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "5999",
+        "Nazwa_Produktu": "Kosz na biel.RATTAN 60l-biały 435x337x602 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na pranie",
+        "Finalne_ID_AI": 2047,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to \"Kosz na bieliznę/pranie\", co idealnie odpowiada kategorii-liściowi \"Kosze na pranie\" znajdującej się w ścieżce Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6000",
+        "Nazwa_Produktu": "Pojemnik z pedałem 26 l \"RAINBOW PASTEL\"",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemnik z pedałem, który w opisie jest określony jako kosz na śmieci i wskazano jego zastosowanie w łazience, kuchni lub biurze, z uwzględnieniem segregacji odpadów zmieszanych i bio. Kategoria 'Kosze na śmieci i pojemniki do segregacji' pod 'Przybory kuchenne' jest najbardziej precyzyjnym i kompleksowym wyborem, idealnie oddającym funkcjonalność produktu i jego przeznaczenie również dla odpadów bio, co często ma miejsce w kuchni.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6001",
+        "Nazwa_Produktu": "Pojemnik z pedałem 14 l \"RAINBOW PASTEL\"",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalne_ID_AI": 2048,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz na śmieci z pedałem. Najbardziej szczegółową kategorią-liściem, która bezpośrednio nazywa ten typ produktu, jest 'Kosze na śmieci' (ID: 2048). Mimo że opis sugeruje użycie w łazience, kuchni lub biurze, kategoria 'Akcesoria łazienkowe > Kosze na śmieci' jest najbardziej precyzyjną nazwą samego przedmiotu, a 14L kosz jest powszechny również w łazienkach. Inna opcja 'Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji' (ID: 2122) jest mniej idealna, ponieważ ten konkretny pojemnik nie jest reklamowany jako system do segregacji, a jedynie jako pojedynczy kosz.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6002",
+        "Nazwa_Produktu": "Kosz na bieliznę PALM 50 L BIAŁY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na pranie",
+        "Finalne_ID_AI": 2047,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'Kosz na bieliznę'. W drzewie kategorii odnalazłem dokładne dopasowanie w ścieżce Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na pranie (ID: 2047), która jest kategorią-liściem i idealnie pasuje do opisu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6005",
+        "Nazwa_Produktu": "Kosz na biel.RATTAN 60l-popiel 435x337x602 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na pranie",
+        "Finalne_ID_AI": 2047,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kosz na pranie, który idealnie pasuje do kategorii-liścia \"Akcesoria łazienkowe > Kosze na pranie\" w drzewie Dom i Ogród > Wyposażenie wnętrz.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6010",
+        "Nazwa_Produktu": "Kpl Multibox okrągły 750 ml,1000 ml, 1500 ml- E-480",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw pojemników wielofunkcyjnych, z głównym przeznaczeniem do przechowywania żywności. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności' jest najbardziej szczegółowa i idealnie dopasowana semantycznie do tytułu i opisu produktu, spełniając wymóg wyboru kategorii-liścia.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6014",
+        "Nazwa_Produktu": "Kpl pojemników kwadratowych MASTER 3 cz. 575,1075,1900 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw kwadratowych pojemników przeznaczonych do przechowywania, przenoszenia i podgrzewania żywności. Kategoria 'Pojemniki i przechowywanie żywności' (ID: 2130) w ścieżce 'Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne' jest najlepiej dopasowaną kategorią-liściem, precyzyjnie opisującą funkcję produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6015",
+        "Nazwa_Produktu": "Pojemnik spożywczy kwadrat LINE PLUS 1750 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik spożywczy przeznaczony do przechowywania artykułów sypkich, co idealnie pasuje do kategorii 'Pojemniki i przechowywanie żywności' w gałęzi Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6016",
+        "Nazwa_Produktu": "Pojemnik spożywczy kwadrat LINE PLUS 2200 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik spożywczy do przechowywania żywności sypkiej, co idealnie pasuje do kategorii 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności'. Jest to kategoria-liść i precyzyjnie opisuje charakter produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6017",
+        "Nazwa_Produktu": "Pojemnik spożywczy kwadrat LINE 1200 ML",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik spożywczy przeznaczony do przechowywania artykułów sypkich, takich jak sól, cukier, mąka, makarony, ryż, płatki śniadaniowe. Kategoria 'Pojemniki i przechowywanie żywności' (Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne -> Pojemniki i przechowywanie żywności) jest idealnie dopasowana do funkcji i opisu produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6018",
+        "Nazwa_Produktu": "Pojemnik spożywczy kwadrat LINE 1750 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to plastikowy pojemnik do przechowywania żywności, idealnie pasujący do kategorii 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności'. Jest to kategoria-liść i najlepiej oddaje przeznaczenie produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6020",
+        "Nazwa_Produktu": "Pojemnik na artykuły sypkie DUNYA 2150 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik przeznaczony do przechowywania artykułów sypkich, co idealnie pasuje do kategorii-liścia 'Pojemniki i przechowywanie żywności' znajdującej się w gałęzi 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6021",
+        "Nazwa_Produktu": "Deska+ ociekacz",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Deski do krojenia",
+        "Finalne_ID_AI": 2119,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'deska do krojenia' z funkcją ociekacza, a kategoria 'Deski do krojenia' jest bezpośrednio dopasowana do głównego przeznaczenia produktu. Jest to kategoria-liść w ścieżce Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6022",
+        "Nazwa_Produktu": "Kosz z pedałem 10 lt KOMBA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kosz na śmieci z pedałem przeznaczony do segregacji odpadów. Kategoria 'Kosze na śmieci i pojemniki do segregacji' (ID 2122) jest najlepiej dopasowaną kategorią-liściem, znajdującą się w ścieżce Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne, co jest semantycznie zgodne z przeznaczeniem produktu w gospodarstwie domowym.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6023",
+        "Nazwa_Produktu": "Kpl. pojemników prostokąt IVy kolor z drewniana pokrywką 2,0 lt+1,0 lt +0,5 ltx2",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw pojemników kuchennych przeznaczonych do przechowywania żywności. Kategoria 'Pojemniki i przechowywanie żywności' (ID: 2130) w ścieżce 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne' jest najbardziej precyzyjnym i najlepiej dopasowanym wyborem, a jednocześnie jest kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6030",
+        "Nazwa_Produktu": "POJEMNIK BOX NA CIASTO - PODWÓJNY ECRU DO PRZENOSZENIA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemnik przeznaczony do przechowywania i transportowania ciasta. Kategoria 'Pojemniki i przechowywanie żywności' (Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne) jest najbardziej precyzyjna, ponieważ skupia się na funkcji przechowywania żywności, co idealnie pasuje do opisu produktu. Kategoria 'Akcesoria cukiernicze' byłaby mniej trafna, gdyż pojemnik służy do przechowywania gotowego wypieku, a nie jako narzędzie do jego przygotowania.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6031",
+        "Nazwa_Produktu": "POJEMNIK BOX NA CIASTO - PODWÓJNY SZARY DO PRZENOSZENIA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to podwójny pojemnik przeznaczony do przechowywania i transportowania ciast. Kategoria 'Pojemniki i przechowywanie żywności' (ID: 2130) w ścieżce Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne, idealnie odpowiada funkcjonalności i przeznaczeniu opisanego produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6032",
+        "Nazwa_Produktu": "MISKA DO MIKSOWANIA LINY 3 LT.",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Miski",
+        "Finalne_ID_AI": 2124,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to miska do miksowania, która idealnie pasuje do kategorii 'Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne -> Miski'. Jest to kategoria-liść i precyzyjnie opisuje charakter produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6033",
+        "Nazwa_Produktu": "TARKA Z POJEMNIKIEM BELLA 600 ml.",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarka z pojemnikiem, która jest przyborem kuchennym. Najlepiej pasuje do gałęzi 'Dom i Ogród' > 'Wyposażenie wnętrz' > 'Przybory kuchenne', a następnie do kategorii-liścia 'Pozostałe' w obrębie 'Przybory kuchenne', ponieważ nie ma bardziej szczegółowej kategorii dla tarek.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6034",
+        "Nazwa_Produktu": "WIADERKO WISZACE SKŁADANE 6 LT. BEŻOWE",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to składany kosz na śmieci przeznaczony na odpadki kuchenne, co idealnie pasuje do kategorii \"Kosze na śmieci i pojemniki do segregacji\" w ramach \"Przybory kuchenne\" (ścieżka: Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6035",
+        "Nazwa_Produktu": "WIADERKO WISZACE SKŁADANE 6 LT. SZARE",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to składany kosz na śmieci przeznaczony na odpadki kuchenne. Kategoria 'Kosze na śmieci i pojemniki do segregacji' (ID: 2122) jest idealnie dopasowana semantycznie i jest kategorią-liściem w drzewie: Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6036",
+        "Nazwa_Produktu": "MISKA Z POKRYWKĄ LINY 3 LT. OKRĄGŁA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Miski",
+        "Finalne_ID_AI": 2124,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to miska z pokrywką, idealna do przygotowywania ciast i mieszania, a także do użytku na zewnątrz. Kategoria „Miski” (znajdująca się zarówno w Przyborach kuchennych, jak i Zastawie stołowej) jest najbardziej precyzyjnym i bezpośrednim dopasowaniem do tytułu i opisu produktu, spełniając kryterium kategorii-liścia.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6037",
+        "Nazwa_Produktu": "MISKA KWADRATOWA Z SITKIEM LINY 3 LT.",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Miski",
+        "Finalne_ID_AI": 2124,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przede wszystkim miska, której integralnym elementem jest sitko. Kategoria 'Miski' najlepiej odzwierciedla główną funkcję i formę produktu w drzewie 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6038",
+        "Nazwa_Produktu": "LEJEK SILIKONOWY SKŁADANY SZARY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to silikonowy, składany lejek, który jest przyborem kuchennym. Nie ma bardziej szczegółowej kategorii dla lejków, więc kategoria-liść 'Pozostałe' w gałęzi 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne' jest najbardziej odpowiednia.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6039",
+        "Nazwa_Produktu": "LEJEK SILIKONOWY SKŁADANY MIĘTA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to silikonowy, składany lejek, który jest przyborem kuchennym służącym do przelewania płynów lub sypkich produktów. Kategoria 'Sitka i cedzaki' w drzewie 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne' jest najlepiej dopasowana, ponieważ lejek, sitko i cedzak pełnią podobne funkcje w kuchni, związane z kontrolą przepływu i oddzielaniem substancji.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6040",
+        "Nazwa_Produktu": "MISKA SILIKONOWA SKŁADANA OKR. 9 LITR. SZARA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Naczynia i sztućce turystyczne",
+        "Finalne_ID_AI": 3997,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to składana miska silikonowa, której zastosowanie w opisie jest szeroko nakreślone, obejmując sprzątanie domowe, czyszczenie samochodów, ale przede wszystkim wędkarstwo, biwakowanie i samochody kempingowe. Ze względu na cechy (składana, silikonowa) i wyraźny nacisk na zastosowania turystyczne i outdoorowe, kategoria 'Naczynia i sztućce turystyczne' pod 'Sport i Hobby' -> 'Turystyka' jest najbardziej trafna i precyzyjna.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6041",
+        "Nazwa_Produktu": "MISKA SILIKONOWA SKŁADANA OKR. 9 LITR. MIĘTA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Miski",
+        "Finalne_ID_AI": 2124,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to składana miska o pojemności 9 litrów. Opis sugeruje wszechstronne zastosowanie, m.in. do sprzątania, czyszczenia samochodów, wędkowania i biwakowania. Mimo szerokiego zakresu zastosowań, podstawowa identyfikacja produktu jako 'miska' (ang. bowl/basin) jest kluczowa. Najbardziej szczegółową i adekwatną kategorią-liściem, która odnosi się bezpośrednio do nazwy produktu ('Miska'), jest 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Miski'. Chociaż produkt nie jest wyłącznie 'kuchenny', jest to najlepsze dopasowanie w ramach dostępnego drzewa kategorii dla ogólnej miski/naczynia.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6042",
+        "Nazwa_Produktu": "CEDZAK SILIKONOWY SKŁADANY OKR. 3 LT. SZARY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to składany cedzak silikonowy, który idealnie pasuje do kategorii-liścia 'Sitka i cedzaki' w ścieżce 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6043",
+        "Nazwa_Produktu": "CEDZAK SILIKONOWY SKŁADANY OKR. 3 LT. MIĘTA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to cedzak, który jest bezpośrednio wymieniony w nazwie kategorii 'Sitka i cedzaki' (ID: 2132). Jest to najbardziej szczegółowa i trafna kategoria-liść dla tego produktu, znajdująca się w gałęzi 'Dom i Ogród' -> 'Wyposażenie wnętrz' -> 'Przybory kuchenne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6072",
+        "Nazwa_Produktu": "Piłka gimnastyczna w kształcie orzeszka Spokey LOVA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Piłka gimnastyczna', a kategoria 'Piłki do ćwiczeń' (ID: 4347) jest dokładnie dopasowana semantycznie i jest kategorią-liściem, znajdującą się pod ścieżką 'Sport i Hobby' -> 'Fitness' -> 'Akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6073",
+        "Nazwa_Produktu": "Mata samopompująca Spokey FATTY GREY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Karimaty",
+        "Finalne_ID_AI": 3984,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'mata samopompująca', która w opisie jest wprost porównana do 'karimaty' i wskazana jako alternatywa dla klasycznych karimat. Kategoria 'Karimaty' jest najbardziej szczegółową i najlepiej dopasowaną kategorią-liściem w gałęzi 'Sport i Hobby > Turystyka > Śpiwory, materace i karimaty'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6075",
+        "Nazwa_Produktu": "Pojemnik okrągły EVA kolor z drewnianą pokrywką 2,3 l",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik przeznaczony do przechowywania artykułów sypkich w kuchni, takich jak sól, cukier, mąka, makarony, ryż. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności' idealnie odpowiada temu przeznaczeniu, będąc najbardziej szczegółową i trafną kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6080",
+        "Nazwa_Produktu": "Parawan plażowy samorozkładający się Spokey STRATUS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Namioty i akcesoria > Namioty",
+        "Finalne_ID_AI": 3978,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'parawan plażowy' i 'samorozkładający się namiot plażowy', co idealnie pasuje do kategorii 'Namioty' w gałęzi 'Sport i Hobby > Turystyka > Namioty i akcesoria'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6085",
+        "Nazwa_Produktu": "Wyciskacz do cytrusów+ dzbanek 0,75 L",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD drobne > Wyciskarki do cytrusów",
+        "Finalne_ID_AI": 2251,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na wyciskacz do cytrusów. Kategoria 'Elektronika -> Sprzęt AGD -> AGD drobne -> Wyciskarki do cytrusów' (ID: 2251) jest idealnie dopasowaną kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6139",
+        "Nazwa_Produktu": "ONK03 OBCIĄŻNIKI NA KOSTKI I NADGARSTKI REGULOWANE 2 x 1.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obciążniki na kostki i nadgarstki, które są akcesoriami do treningu. Najlepszą kategorią-liściem jest 'Pozostałe' w gałęzi 'Sport i Hobby' > 'Fitness' > 'Akcesoria treningowe', ponieważ żadna z bardziej szczegółowych kategorii akcesoriów treningowych nie pasuje bezpośrednio do tego typu obciążników.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6163",
+        "Nazwa_Produktu": "NC1723 NÓŻ TAKTYCZNY SKŁADANY NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Multitoole i scyzoryki",
+        "Finalne_ID_AI": 4008,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to składany nóż taktyczny, idealny do survivalu i eksploracji. Kategoria 'Multitoole i scyzoryki' (ID: 4008) jest najbardziej szczegółowa i najlepiej pasuje semantycznie, ponieważ scyzoryki to rodzaj składanych noży, a sam nóż jest opisany jako wszechstronne narzędzie survivalowe, co wpisuje się w 'Osprzęt turystyczny'. Jest to również bardziej precyzyjne niż ogólne 'Militaria'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6166",
+        "Nazwa_Produktu": "POJEMNIK DO ŻYWNOSCI 1500 ml antracyt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik do przechowywania żywności, idealnie pasuje do kategorii 'Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne -> Pojemniki i przechowywanie żywności', która jest kategorią-liściem i jest najlepiej dopasowana semantycznie.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6167",
+        "Nazwa_Produktu": "Detergent box 8,5 lt motyw PRALKA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kubki i pojemniki łazienkowe",
+        "Finalne_ID_AI": 2049,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik na detergent z motywem pralki, przeznaczony do łazienki. Kategoria 'Kubki i pojemniki łazienkowe' jest najbardziej szczegółowa i trafna, ponieważ produkt jest pojemnikiem używanym w łazience.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6169",
+        "Nazwa_Produktu": "Kosz na biel.RATTAN 60l-beżowy 435x337x602 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na pranie",
+        "Finalne_ID_AI": 2047,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dokładnie 'kosz na bieliznę'/'kosz na pranie', co idealnie odpowiada kategorii-liść 'Kosze na pranie' (ID: 2047) w ścieżce Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6171",
+        "Nazwa_Produktu": "Kosz na bieliznę RATTAN 45l-popiel",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na pranie",
+        "Finalne_ID_AI": 2047,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu 'Kosz na bieliznę' idealnie pasuje do kategorii-liścia 'Kosze na pranie' w ścieżce Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe. Opis produktu dodatkowo potwierdza przeznaczenie jako kosz na pranie do łazienki lub pralni.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6173",
+        "Nazwa_Produktu": "Box transparentny 27 l 475x320x235 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalne_ID_AI": 2102,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to przezroczysty pojemnik do przechowywania, nazywany w tytule i opisie 'box' oraz 'pudełko do przechowywania'. Kategoria 'Pudełka' w gałęzi Dom i Ogród > Wyposażenie wnętrz jest najbardziej precyzyjnym i najlepiej dopasowanym liściem, bezpośrednio odpowiadającym rodzajowi produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6174",
+        "Nazwa_Produktu": "Cedzak mały 700 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to cedzak, który idealnie pasuje do kategorii-liścia 'Sitka i cedzaki' znajdującej się w ścieżce 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6176",
+        "Nazwa_Produktu": "Kosz z pedałem 15 lt KOMBA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalne_ID_AI": 2048,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz na śmieci, co bezpośrednio odpowiada nazwie kategorii 'Kosze na śmieci'. Chociaż opis wskazuje na zastosowanie w wielu pomieszczeniach (kuchnia, łazienka, biuro), kategoria 2048 jest najmniej myląca i najdokładniej opisuje sam produkt w porównaniu do kategorii uwzględniającej również pojemniki do segregacji, czego produkt nie oferuje.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6177",
+        "Nazwa_Produktu": "Kpl pojemników do żywności kwadrat 600,1025,1700 ml transparent",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw pojemników do przechowywania żywności. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności' jest idealnym i najbardziej szczegółowym dopasowaniem, będącym kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6178",
+        "Nazwa_Produktu": "DecoBella wieszak transparentny naszafkowy z policarbonu",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Wieszaki łazienkowe",
+        "Finalne_ID_AI": 2064,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wieszak na ręczniki i ściereczki, przeznaczony do zawieszenia na drzwiach szafek kuchennych lub łazienkowych. Kategoria 'Wieszaki łazienkowe' jest najbardziej szczegółową i trafną kategorią liściową, która doskonale oddaje funkcję i przeznaczenie produktu, mimo że może być również używany w kuchni. Jest to znacznie lepsze dopasowanie niż ogólne 'Pozostałe' w kategorii 'Przybory kuchenne'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6179",
+        "Nazwa_Produktu": "POJEMNIK UCHYLNY FANTASY 10 L 235x195x365mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalne_ID_AI": 2048,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kosz na śmieci, który może być używany zarówno w łazience, jak i w kuchni, co jest zgodne z przeznaczeniem ogólnym. Kategoria \"Kosze na śmieci\" (2048) jest liściem w drzewie kategorii i jest najlepiej dopasowana semantycznie do tytułu i opisu produktu, który nie wspomina o segregacji.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6182",
+        "Nazwa_Produktu": "Pojemnik uchylny SLIM 10 l - biały 240x195x365 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalne_ID_AI": 2048,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako 'kosz na śmieci' z uchylną pokrywką, idealny do łazienki lub kuchni. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci' jest najbardziej precyzyjnym i szczegółowym dopasowaniem, a także jest kategorią-liściem. Pomimo, że produkt może być również używany w kuchni, ta kategoria jest bardziej ogólna dla kosza na śmieci niż ta, która zawiera 'i pojemniki do segregacji'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6183",
+        "Nazwa_Produktu": "Pojemnik uchylny SLIM 10 l - beżowy 240x195x365 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalne_ID_AI": 2048,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Kosz na śmieci' (pojemnik uchylny), który zgodnie z opisem idealnie sprawdzi się zarówno w łazience, jak i w kuchni. Kategoria 'Kosze na śmieci' (ID: 2048) w gałęzi 'Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe' jest bezpośrednim i najlepiej dopasowanym semantycznie liściem. Chociaż istnieje podobna kategoria w gałęzi kuchennej ('Kosze na śmieci i pojemniki do segregacji' - ID: 2122), nazwa tej kategorii jest szersza o 'pojemniki do segregacji', co nie jest wprost wspomniane w tytule ani opisie produktu. Kategoria 2048 jest bardziej precyzyjna dla samego przedmiotu (kosz na śmieci).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6205",
+        "Nazwa_Produktu": "Pojemnik na proszek z pokrywką 7 l SZARY 235X260X185 MM",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kubki i pojemniki łazienkowe",
+        "Finalne_ID_AI": 2049,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik na proszek/detergenty, który ma być przechowywany w łazience. Kategoria 'Kubki i pojemniki łazienkowe' (Dom i Ogród -> Wyposażenie wnętrz -> Akcesoria łazienkowe) idealnie odpowiada temu przeznaczeniu i specyfice produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6207",
+        "Nazwa_Produktu": "Koszyczek pod prysznic Decobella",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kubki i pojemniki łazienkowe",
+        "Finalne_ID_AI": 2049,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koszyk pod prysznic służący do organizacji kosmetyków i gąbek, co najlepiej pasuje do kategorii 'Kubki i pojemniki łazienkowe' w gałęzi 'Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6209",
+        "Nazwa_Produktu": "Koszyk z pokrywką KNIT 12 l",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalne_ID_AI": 2100,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koszyk z pokrywką, idealnie pasujący do kategorii 'Koszyki' w ramach drzewa 'Dom i Ogród > Wyposażenie wnętrz'. Opis sugeruje jego zastosowanie w różnych pomieszczeniach do przechowywania różnorodnych przedmiotów, co jest zgodne z ogólnym przeznaczeniem koszyków.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6212",
+        "Nazwa_Produktu": "Pojemnik z pedałem SLIM 40 L 424x310x548 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik na odpady z pedałem, przeznaczony do segregacji śmieci w domu lub biurze. Najlepiej pasuje do kategorii 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji', która dokładnie opisuje funkcjonalność i przeznaczenie produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6213",
+        "Nazwa_Produktu": "Pojemnik z pedałem SLIM 60 L 490x356x632 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemnik na śmieci z pedałem, a w opisie wielokrotnie podkreślono jego przeznaczenie do segregacji odpadów. Kategoria 'Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne -> Kosze na śmieci i pojemniki do segregacji' jest najbardziej precyzyjnym dopasowaniem, ponieważ odnosi się bezpośrednio do funkcji produktu, włączając w to aspekt segregacji.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6214",
+        "Nazwa_Produktu": "Pojemnik uchylny SLIM 5 l - beżowy 185x150x280 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalne_ID_AI": 2048,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'kosz na śmieci SLIM 5 l', który jest przeznaczony zarówno do łazienki, jak i kuchni. Kategoria 'Akcesoria łazienkowe > Kosze na śmieci' (ID: 2048) jest kategorią-liściem i najbardziej precyzyjnie opisuje ten produkt, zwłaszcza biorąc pod uwagę jego niewielką pojemność (5L) i kompaktową, 'slim' konstrukcję, typową dla koszy łazienkowych. Druga pasująca kategoria 'Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji' (ID: 2122) jest również możliwa, ale nazwa tej kategorii jest nieco szersza (obejmuje segregację), a produkt jest prostym koszem uchylnym.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6215",
+        "Nazwa_Produktu": "Pojemnik uchylny SLIM 18 L- beżowy 290x235x461 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Kosz na śmieci' o pojemności 18L, opisany jako 'uniwersalny i niezbędny' zarówno do łazienki, jak i kuchni. Kategoria 'Kosze na śmieci i pojemniki do segregacji' znajduje się w gałęzi 'Dom i Ogród' > 'Wyposażenie wnętrz' > 'Przybory kuchenne', co jest bardziej uniwersalnym umiejscowieniem niż kategoria ściśle łazienkowa, zgodnym z opisem produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6216",
+        "Nazwa_Produktu": "Pojemnik uchylny SLIM 35 L- beżowy 355x285x577 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik na śmieci, który, zgodnie z opisem, nadaje się do stosowania w szafce kuchennej lub samodzielnego ustawienia w małej przestrzeni. Kategoria 'Kosze na śmieci i pojemniki do segregacji' znajduje się w ścieżce 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne', co idealnie pasuje do sugerowanego zastosowania w kuchni. Jest to najbardziej szczegółowa i najlepiej dopasowana kategoria-liść.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6217",
+        "Nazwa_Produktu": "Pojemnik uchylny SLIM 18 l biały 290x235x461 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalne_ID_AI": 2048,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Kosz na śmieci', a opis wskazuje na jego uniwersalne zastosowanie w łazience lub kuchni. Kategoria 'Kosze na śmieci' (ID 2048) w gałęzi Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe jest bezpośrednim i najlepiej dopasowanym liściem, bez dodawania cech (np. segregacji), które nie są wymienione w opisie produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6218",
+        "Nazwa_Produktu": "Pojemnik uchylny SLIM 35 l biały 355x285x577 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalne_ID_AI": 2048,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Kosz na śmieci', który, jak podano w opisie, 'Idealnie sprawdzi się w każdej łazience lub kuchni'. Kategoria 'Akcesoria łazienkowe' -> 'Kosze na śmieci' (ID: 2048) jest najbardziej precyzyjnym dopasowaniem, ponieważ bezpośrednio odnosi się do funkcji produktu ('Kosze na śmieci') i jego zastosowania w łazience. Mimo że produkt nadaje się również do kuchni, a istnieje kategoria 'Przybory kuchenne' -> 'Kosze na śmieci i pojemniki do segregacji' (ID: 2122), wybrałem kategorię 2048, ponieważ nazwa produktu nie wspomina o segregacji, a kategoria 2048 jest prostszym i bardziej bezpośrednim odzwierciedleniem samego 'kosza na śmieci'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6219",
+        "Nazwa_Produktu": "Szczotka WC RATTAN -beż 147x147x400",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Szczotki do WC",
+        "Finalne_ID_AI": 2062,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to szczotka do czyszczenia toalety. Kategoria 'Dom i Ogród' -> 'Wyposażenie wnętrz' -> 'Akcesoria łazienkowe' -> 'Szczotki do WC' jest idealnie dopasowana i jest kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6220",
+        "Nazwa_Produktu": "Szczotka WC RATTAN -biała 147x147x400",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Szczotki do WC",
+        "Finalne_ID_AI": 2062,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dokładnie 'Szczotka WC', a w drzewie kategorii istnieje dedykowana kategoria-liść 'Szczotki do WC', która jest semantycznie idealnie dopasowana. Jest to najbardziej szczegółowa i precyzyjna kategoria dla tego produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6221",
+        "Nazwa_Produktu": "Półka łazienkowa 2-pozimowa Caddy",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Półki łazienkowe",
+        "Finalne_ID_AI": 2061,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'półka łazienkowa', a kategoria 'Półki łazienkowe' (ID: 2061) jest bezpośrednim i najlepiej dopasowanym liściem w drzewie kategorii, znajdującym się w ścieżce Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6223",
+        "Nazwa_Produktu": "Pojemnik do żywnosci 500 ml antracyt 124x124x67mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na pojemnik przeznaczony do przechowywania żywności, co idealnie pasuje do kategorii-liścia 'Pojemniki i przechowywanie żywności' w ścieżce Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6224",
+        "Nazwa_Produktu": "Organizer 3 częściowy z uchwytem 257x355x198 CZARNY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalne_ID_AI": 2102,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to trójdzielny organizer z uchwytem, opisany jako 'skrzynka' z przegródkami, służący do przechowywania np. narzędzi, o uniwersalnym zastosowaniu w domu. Kategoria 'Dom i Ogród' > 'Wyposażenie wnętrz' > 'Pudełka' (ID: 2102) jest najlepiej dopasowaną kategorią-liściem, ponieważ organizer jest formą pudełka/pojemnika przeznaczonego do przechowywania przedmiotów w domu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6226",
+        "Nazwa_Produktu": "Pojemnik do żywnosci 900 ml antracyt 147x147x80mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik do przechowywania żywności, co idealnie pasuje do kategorii-liścia 'Pojemniki i przechowywanie żywności' znajdującej się w ścieżce Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6227",
+        "Nazwa_Produktu": "Kosz- organizer 21,5x29x15,9 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to organizer/pojemnik do przechowywania żywności (warzyw i owoców) w lodówce, co idealnie pasuje do kategorii-liścia 'Pojemniki i przechowywanie żywności' znajdującej się w ścieżce Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6228",
+        "Nazwa_Produktu": "SMART BOX transparentny 30 l",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalne_ID_AI": 2102,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uniwersalny, transparentny pojemnik do przechowywania, opisany jako 'plastikowe pudełko z przykrywką' do utrzymania porządku w całym domu, zarówno w kuchni, jak i biurze. Może służyć do przechowywania żywności, kosmetyków, dokumentów czy zabawek. Kategoria 'Pudełka' (2102) pod 'Dom i Ogród' > 'Wyposażenie wnętrz' jest najbardziej trafna, ponieważ produkt jest generalnym pudełkiem do przechowywania, a nie wyłącznie pojemnikiem do żywności (choć i tak może być używany). Kategoria jest liściem drzewa.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6229",
+        "Nazwa_Produktu": "BOX ERKOC 1,75 l 14x21x10 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uniwersalny pojemnik, który, mimo swojej wszechstronności (kuchnia, biuro, kosmetyki, zabawki), w opisie kładzie silny nacisk na przechowywanie żywności (możliwość użycia w zamrażalce i mikrofalówce, mycie w zmywarce). Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności' (ID 2130) jest najbardziej szczegółowa i najlepiej oddaje główną funkcję produktu, będąc kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6232",
+        "Nazwa_Produktu": "KPL. POJEMNIKÓW DO PRZYPRAW 6x245 EXCLUSIVE BLACK PEARL",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw pojemników do przypraw, które służą do przechowywania żywności (suchych przypraw). Kategoria 'Dom i Ogród' > 'Wyposażenie wnętrz' > 'Przybory kuchenne' > 'Pojemniki i przechowywanie żywności' jest idealnym i najbardziej szczegółowym dopasowaniem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "6233",
+        "Nazwa_Produktu": "KPL. POJEMNIKÓW OLIWA & OCET 2x 245 ml. EXCLUSIVE BLACK PEARL",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6235",
+        "Nazwa_Produktu": "Plecak kabinowy Meteor Hermod 20 l Floral",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6253",
+        "Nazwa_Produktu": "Uchwyt na gąbkę",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6254",
+        "Nazwa_Produktu": "Koszyk 2 lt RATTAN - popiel 255x170x73 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6255",
+        "Nazwa_Produktu": "Wiadro okrągłe z pokrywką 15l transparentne 34x34cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6256",
+        "Nazwa_Produktu": "Koszyk 2 lt RATTAN - biały 255x170x73 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6258",
+        "Nazwa_Produktu": "Wiadro okrągłe z pokrywką 10l transparentne 30x30 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6259",
+        "Nazwa_Produktu": "Kpl. Pojemników prostokątnych MASTER 3 cz. 550,1000,1800 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6260",
+        "Nazwa_Produktu": "Koszyczek na klamerki STYLE 2,7 lt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6261",
+        "Nazwa_Produktu": "Kpl Pojemników kwadratowych POLY3 x 0,7 lt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6262",
+        "Nazwa_Produktu": "Organizer BIG 202x300x140 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6266",
+        "Nazwa_Produktu": "Koszyczek narożny do zlewozmywaka",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6267",
+        "Nazwa_Produktu": "Pojemnik uchylny SLIM 50 l 435x343x699 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6269",
+        "Nazwa_Produktu": "Pojemnik z pedałem 6 l \"RAINBOW PASTEL\" 280x230x275 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6270",
+        "Nazwa_Produktu": "Kosz na bieliznę RATTAN 54l",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6271",
+        "Nazwa_Produktu": "Kosz RATTAN 19L beżowy 28x36x28cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6272",
+        "Nazwa_Produktu": "KILER BOX transparentny 11 lt.",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6273",
+        "Nazwa_Produktu": "SIODEŁKO ROWEROWE 26x16CM Z ODBLASKIEM DUNLOP MTB",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6274",
+        "Nazwa_Produktu": "Pojemnik do żywności Micro Line 1100 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6275",
+        "Nazwa_Produktu": "Wkład do szuflady dwupoziomowy 386x312x70mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6276",
+        "Nazwa_Produktu": "Pojemnik do żywności Micro Line 600 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6277",
+        "Nazwa_Produktu": "Miska kuchenna okrągła Double",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6278",
+        "Nazwa_Produktu": "Krzesełko dziecięce MIŚ 38x56x27 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6282",
+        "Nazwa_Produktu": "SAPERKA SKŁADANA WIELOFUNCYJNA W POKROWCU ENERO CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6283",
+        "Nazwa_Produktu": "Kpl pojemników okrągłych 3 cz. 625, 1200,2100 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6284",
+        "Nazwa_Produktu": "Kpl pojemników do żywności Micro Safe 600,1100,1800 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6287",
+        "Nazwa_Produktu": "HM1302 HULAJNOGA RÓŻOWA NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6288",
+        "Nazwa_Produktu": "HM1302 HULAJNOGA NIEBIESKA NILS EXTREME",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6292",
+        "Nazwa_Produktu": "KRZESŁO TURYSTYCZNE SKŁADANE 46X46X90CM CZARNE",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6293",
+        "Nazwa_Produktu": "NJ1190 ŁYŻWOROLKA 3W1 THREE STEPS W ZESTAWIE Z WROTKĄ BIAŁA ROZM. XS (26-29) NILS FUN",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6294",
+        "Nazwa_Produktu": "NJ1190 ŁYŻWOROLKA 3W1 THREE STEPS W ZESTAWIE Z WROTKĄ BIAŁA ROZM. S (30-33) NILS FUN",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6300",
+        "Nazwa_Produktu": "SKROBACZKA DO SZYB 24x11x3,1CM DUNLOP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6322",
+        "Nazwa_Produktu": "KOŁO DO TACZKI WÓZKA OGRODOWEGO POMPOWANE 38CM 4PR 4.00-8",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6323",
+        "Nazwa_Produktu": "ZESTAW 14 ADAPTERÓW DO POMPEK DUNLOP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6324",
+        "Nazwa_Produktu": "TRĄBKA KLAKSON ROWEROWY CHROM 21CM DUNLOP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "6329",
+        "Nazwa_Produktu": "Pojemnik uchylny SLIM 10 l - popiel 240x195x365 mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]

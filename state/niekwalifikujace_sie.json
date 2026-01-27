@@ -3308,5 +3308,655 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to \"talerz olimpijski\" czyli \"ciężar\", co wprost tłumaczy się na kategorię \"Obciążenia\". Kategoria-rodzic \"Sprzęt siłowy\" i jej nadrzędne kategorie \"Fitness\" oraz \"Sport i Hobby\" również idealnie pasują do opisu i przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "357",
+        "Nazwa_Produktu": "KNV04 KETTLEBELL POKRYTY WINYLEM 4.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kettlebell, który jest rodzajem ciężarka używanego do treningu siłowego. Kategoria 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia' jest najbardziej precyzyjna i bezpośrednio opisuje ten rodzaj produktu, a 'Obciążenia' jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "392",
+        "Nazwa_Produktu": "TOK02 TALERZ OLIMPIJSKI OGUMOWANY 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to talerz olimpijski, czyli ciężar używany w treningu siłowym. Kategoria 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia' jest najbardziej precyzyjnym i trafionym wyborem, odpowiadającym naturze produktu."
+    },
+    {
+        "ID_Produktu": "408",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 0.5 KG",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny (hantel) przeznaczony do ćwiczeń fitness, aerobiku i rehabilitacji. Kategoria 'Hantle' pod ścieżką 'Sport i Hobby > Fitness > Sprzęt siłowy' jest najbardziej precyzyjna i bezpośrednio odpowiada opisowi produktu. Jest to kategoria-liść."
+    },
+    {
+        "ID_Produktu": "409",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 1.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny (hantel), a kategoria 'Hantle' (ID: 4337) w drzewie 'Sport i Hobby > Fitness > Sprzęt siłowy' jest idealnym i najbardziej szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "410",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 1.5 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny, opis wyraźnie wspomina o \"hantlach\" do treningu siłowego i fitness. Kategoria \"Hantle\" w ścieżce \"Sport i Hobby > Fitness > Sprzęt siłowy\" jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "411",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 2.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek (hantel) przeznaczony do ćwiczeń. Kategoria 'Hantle' (ID: 4337) jest najbardziej szczegółowa i najlepiej dopasowana semantycznie, znajdując się w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy. Jest to kategoria-liść."
+    },
+    {
+        "ID_Produktu": "412",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 3.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny, w opisie użyto również terminu 'hantle'. Kategoria 'Hantle' (id: 4337) jest najbardziej precyzyjnym i szczegółowym dopasowaniem dla tego produktu, znajdującym się w logicznej ścieżce Sport i Hobby > Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "413",
+        "Nazwa_Produktu": "17023 CIĘŻAREK ŻELIWNY POKRYTY WINYLEM 4.0 KG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ciężarek żeliwny (hantel) przeznaczony do ćwiczeń fitness, aerobiku i rehabilitacji, co idealnie pasuje do kategorii Sport i Hobby > Fitness > Sprzęt siłowy > Hantle. Kategoria jest liściem i jest precyzyjnie dopasowana semantycznie."
+    },
+    {
+        "ID_Produktu": "726",
+        "Nazwa_Produktu": "F4420 PRZYRZĄD DO ĆWICZEŃ MIĘŚNI RAMION HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przyrząd do ćwiczeń mięśni przedramion (wrist roller), wykorzystujący obciążniki, co klasyfikuje go jako sprzęt do treningu siłowego. Najlepiej pasującą kategorią-liściem jest 'Sport i Hobby' -> 'Fitness' -> 'Sprzęt siłowy' -> 'Pozostałe', ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu urządzenia w obrębie sprzętu siłowego."
+    },
+    {
+        "ID_Produktu": "1761",
+        "Nazwa_Produktu": "NKU03 PIŁKA LEKARSKA 3 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Pozostałe",
+        "Finalne_ID_AI": 4333,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Piłka lekarska to sprzęt do ćwiczeń fitness, który nie pasuje do żadnej z bardziej szczegółowych podkategorii w gałęzi \"Sprzęt fitness\". Najlepszym wyborem jest kategoria-liść \"Pozostałe\" w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "2029",
+        "Nazwa_Produktu": "NB5003 ORANGE-GREEN ŚR.90 CM BOCIANIE GNIAZDO HUŚTAWKA NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka typu 'bocianie gniazdo', przeznaczona do użytku w ogrodzie, na tarasie, balkonie lub w domu. Kategoria 'Huśtawki i place zabaw' jest najbardziej precyzyjnym i najlepiej dopasowanym liściem w drzewie kategorii, znajdującym się w gałęzi 'Dom i Ogród' -> 'Ogród'."
+    },
+    {
+        "ID_Produktu": "2159",
+        "Nazwa_Produktu": "PA3998 BROWN ROZM. S PAS DO ĆWICZEŃ SIŁOWYCH HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas do ćwiczeń siłowych, który stabilizuje kręgosłup podczas treningu z dużymi obciążeniami. Najlepiej pasuje do kategorii 'Sport i Hobby' -> 'Fitness' -> 'Sprzęt siłowy'. Ponieważ nie jest to żaden ze specyficznych wymienionych sprzętów siłowych (hantle, sztangi itp.), kategoria 'Pozostałe' w obrębie 'Sprzęt siłowy' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "2417",
+        "Nazwa_Produktu": "ABX02 ARM BLASTER PRZYRZĄD DO ĆWICZENIA BICEPSÓW HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przyrząd do ćwiczeń bicepsów, służący do izolacji mięśnia i maksymalizacji treningu siłowego. Najlepiej pasuje do gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy', a ponieważ nie ma bardziej szczegółowej kategorii dla tego typu sprzętu, 'Pozostałe' w tej gałęzi jest najbardziej adekwatnym wyborem."
+    },
+    {
+        "ID_Produktu": "2448",
+        "Nazwa_Produktu": "ZESTAW BOKSERSKI ENERO DLA DZIECI REGULOWANY 80-102CM I RĘKAWICE",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Pozostałe",
+        "Finalne_ID_AI": 4333,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw bokserski dla dzieci, który ma na celu rozwój fizyczny, poprawę kondycji i refleksu. Najlepiej pasuje do kategorii 'Sport i Hobby', a w jej ramach do 'Fitness'. Ponieważ nie ma dedykowanej podkategorii dla sprzętu bokserskiego, 'Sprzęt fitness -> Pozostałe' jest najbardziej adekwatną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "3353",
+        "Nazwa_Produktu": "KTO05 KAMIZELKA TRENINGOWA Z OBCIĄŻENIEM 5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kamizelka obciążeniowa, która służy do zwiększania wagi podczas ćwiczeń. Najlepiej pasuje do kategorii 'Sport i Hobby' > 'Fitness' > 'Sprzęt siłowy' > 'Obciążenia', ponieważ jest to forma dodatkowego obciążenia wykorzystywana w treningu siłowym i kondycyjnym."
+    },
+    {
+        "ID_Produktu": "4017",
+        "Nazwa_Produktu": "CBRS15 TALERZ OLIMPIJSKI 2 x 1.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'talerze obciążeniowe do gryfów olimpijskich', które są kluczowym elementem sprzętu siłowego. Kategoria 'Obciążenia' w ścieżce 'Sport i Hobby -> Fitness -> Sprzęt siłowy' idealnie oddaje charakter produktu i jest najbardziej szczegółowym, pasującym liściem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "4867",
+        "Nazwa_Produktu": "NC7817 UCHWYT HAK DO PARASOLA NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2897,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to hak do parasola plażowego lub ogrodowego. W drzewie kategorii, same parasole ogrodowe (2892) znajdują się w kategorii 'Dom i Ogród' > 'Ogród' > 'Meble ogrodowe'. Ponieważ nie ma bardziej szczegółowej kategorii dla akcesoriów do parasoli, a parasol jest traktowany jako element umeblowania ogrodu (Meble ogrodowe), najbardziej trafnym wyborem jest kategoria-liść 'Pozostałe' (2897) pod nadrzędną kategorią 'Meble ogrodowe'. Alternatywa 'Osprzęt turystyczny' (4009) w 'Sport i Hobby' byłaby mniej precyzyjna, ponieważ parasole (nawet plażowe) mają swoje miejsce w kategorii 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "5165",
+        "Nazwa_Produktu": "LAMPA ULICZNA LATARNIA SOLARNA 120LED + PILOT CZUJNIK RUCHU I ZMIERZCHU",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalne_ID_AI": 3875,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to solarna lampa uliczna/latarnia z czujnikiem ruchu i zmierzchu, przeznaczona do oświetlania szerokiej gamy przestrzeni zewnętrznych wokół posesji (wejście do domu, garaż, taras, podjazd, ogród). Najlepiej pasuje do kategorii 'Dom i Ogród' -> 'Oświetlenie' -> 'Oświetlenie zewnętrzne' -> 'Lampy', ponieważ jest to ogólna kategoria dla lamp zewnętrznych, która obejmuje zarówno oświetlenie ogrodowe, jak i oświetlenie podjazdów, chodników itp. Tytuł 'lampa uliczna' dodatkowo wzmacnia to dopasowanie."
+    },
+    {
+        "ID_Produktu": "5321",
+        "Nazwa_Produktu": "KWIETNIK OGRÓD WERTYKALNY STOJĄCY antracyt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Donice",
+        "Finalne_ID_AI": 1632,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'kwietnik' i 'ogród wertykalny stojący', który służy do uprawy roślin w doniczkach. Kategoria 'Donice' (ID: 1632) w ścieżce Dom i Ogród -> Ogród jest najbardziej precyzyjnym i szczegółowym wyborem, idealnie oddającym funkcję produktu jako pojemnika na rośliny. Jest to kategoria-liść."
+    },
+    {
+        "ID_Produktu": "5844",
+        "Nazwa_Produktu": "POMPKA DO MATERACY RĘCZNA 30CM 29P386",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Akcesoria i części > Do kajaków, pontonów i rowerów wodnych",
+        "Finalne_ID_AI": 5022,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pompka ręczna do materacy i pontonów. Najlepiej pasuje do kategorii 'Sport i Hobby' -> 'Sporty wodne' -> 'Akcesoria i części', a najbardziej szczegółową i adekwatną kategorią liściową w tej gałęzi jest 'Do kajaków, pontonów i rowerów wodnych', ponieważ pompka służy do pompowania przedmiotów związanych z tymi aktywnościami."
+    },
+    {
+        "ID_Produktu": "5857",
+        "Nazwa_Produktu": "POMPKA DO PIŁEK 17CM Z IGŁĄ DWUKIERUNKOWA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pompka do piłek, która jest uniwersalnym akcesorium do wielu rodzajów piłek używanych w sportach. Ponieważ opis wskazuje na użycie 'do piłek i nie tylko', ale główny nacisk jest na piłki, a nie ma bardziej szczegółowej kategorii dla uniwersalnych pompek do piłek, kategoria 'Sport i Hobby / Sporty drużynowe / Pozostałe sporty drużynowe' jest najlepiej dopasowana semantycznie. Jest to liść i odpowiada ogólnemu przeznaczeniu produktu dla różnych dyscyplin sportowych."
+    },
+    {
+        "ID_Produktu": "5926",
+        "Nazwa_Produktu": "POKROWIEC NA MOTOR 228x124/75x99CM DUNLOP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Motoryzacja > Pozostała motoryzacja",
+        "Finalne_ID_AI": 80,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec na motor, co oznacza akcesorium do motocykla lub skutera. Główna kategoria to 'Motoryzacja'. W ramach tej kategorii nie ma dedykowanej gałęzi dla akcesoriów motocyklowych (jedynie 'Części motocyklowe', a pokrowiec nie jest częścią). Kategoria 'Wyposażenie i akcesoria samochodowe' byłaby myląca, ponieważ produkt jest wyraźnie przeznaczony na motor, nie na samochód. Zatem, najbardziej odpowiednią kategorią-liściem jest 'Pozostała motoryzacja', jako ogólna kategoria dla akcesoriów motocyklowych, które nie pasują do bardziej szczegółowych kategorii pojazdów czy części."
+    },
+    {
+        "ID_Produktu": "5995",
+        "Nazwa_Produktu": "DecoBella Transparentna Mata do szafek 50x125 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata antypoślizgowa przeznaczona do szafek. Szafki są elementem mebli, a mata stanowi dla nich akcesorium zabezpieczające i porządkujące przestrzeń. Kategoria 'Akcesoria meblowe' jest bezpośrednio dopasowana do funkcji i przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "6024",
+        "Nazwa_Produktu": "Krzesełko dziecięce ABC 38x56x27cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalne_ID_AI": 4721,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to krzesełko dziecięce. Najbardziej precyzyjną kategorią-liściem jest ścieżka 'Dom i Ogród > Meble > Meble dla dzieci > Krzesła', która idealnie pasuje do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "6025",
+        "Nazwa_Produktu": "Krzesełko dziecięce do lat 3 FIORE czerwone",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Krzesła",
+        "Finalne_ID_AI": 4721,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'krzesełko dziecięce', które idealnie pasuje do ścieżki 'Dom i Ogród' -> 'Meble' -> 'Meble dla dzieci' -> 'Krzesła'. Opis wskazuje, że jest to mebel dziecięcy, który może być używany zarówno w domu, jak i w ogrodzie, co zgadza się z kategorią nadrzędną 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "6026",
+        "Nazwa_Produktu": "Regał na kółkach 2 poziomowy Decobella SZARY dł.36 szer.23. wys. 40",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Regały",
+        "Finalne_ID_AI": 720,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dwupoziomowy regał na kółkach przeznaczony do przechowywania, idealny do różnych pomieszczeń. Kategoria 'Regały' (720) pod 'Dom i Ogród' > 'Meble' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem, a także jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "6027",
+        "Nazwa_Produktu": "Regał wąski na kółkach 3 poziomowy Decobella antracyt dł 54 szer.18 x wys. 71",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Regały",
+        "Finalne_ID_AI": 720,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to regał na kółkach przeznaczony do przechowywania, co bezpośrednio odpowiada kategorii 'Regały'. Kategoria ta jest liściem i jest najlepiej dopasowana semantycznie do tytułu i opisu produktu, który podkreśla jego funkcjonalność jako mebla do przechowywania w różnych pomieszczeniach."
+    },
+    {
+        "ID_Produktu": "6028",
+        "Nazwa_Produktu": "Regał wąski na kółkach 4 poziomowy Decobella antracyt dł. 54 x szer. 18 x wys.100",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Regały",
+        "Finalne_ID_AI": 720,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to regał wielofunkcyjny na kółkach, przeznaczony do przechowywania w różnych pomieszczeniach domowych (łazienka, kuchnia, biuro, pokój dziecięcy). Kategoria 'Regały' (ID 720) w ścieżce 'Dom i Ogród > Meble' jest najbardziej bezpośrednim i precyzyjnym dopasowaniem, ponieważ nazwa produktu bezpośrednio odnosi się do tej kategorii, a jego wszechstronność nie kwalifikuje go do bardziej specyficznych kategorii (np. tylko dla dzieci)."
+    },
+    {
+        "ID_Produktu": "6029",
+        "Nazwa_Produktu": "Regał wąski na kółkach 4 poziomowy Decobella biały dł. 54 x szer. 18 x wys.100",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Regały",
+        "Finalne_ID_AI": 720,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Regał wąski', co idealnie pasuje do kategorii-liścia 'Regały' znajdującej się w ścieżce 'Dom i Ogród > Meble'. Opis potwierdza jego funkcję jako mebla do przechowywania, używanego w różnych pomieszczeniach."
+    },
+    {
+        "ID_Produktu": "6052",
+        "Nazwa_Produktu": "BTS0060 SPODNIE TERMOAKTYWNE CZARNE MĘSKIE 2XL/3XL RAGNAR NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Bielizna sportowa",
+        "Finalne_ID_AI": 2931,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to męskie spodnie termoaktywne, których główną funkcją jest odprowadzanie wilgoci i utrzymanie optymalnej temperatury ciała podczas aktywności fizycznej. Jest to typowa cecha bielizny sportowej (bazowej warstwy odzieży sportowej), która jest noszona bezpośrednio przy skórze. Kategoria 'Bielizna sportowa' (Moda -> Ubrania męskie -> Odzież sportowa) jest najlepszym semantycznym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "6054",
+        "Nazwa_Produktu": "BTS0060 SPODNIE TERMOAKTYWNE SZARE MĘSKIE L/XL RAGNAR NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to spodnie termoaktywne, przeznaczone do różnych aktywności sportowych i outdoorowych. Kategoria 'Odzież termiczna' (w ścieżce Moda > Ubrania męskie > Odzież sportowa) najlepiej oddaje kluczową cechę produktu – jego właściwości termiczne i funkcjonalność dla szerokiej gamy sportów, zamiast zawężać do jednej dyscypliny (np. Rowery) czy ogólnego typu odzieży (np. Spodnie sportowe)."
+    },
+    {
+        "ID_Produktu": "6055",
+        "Nazwa_Produktu": "BTS0060 SPODNIE TERMOAKTYWNE SZARE MĘSKIE 2XL/3XL RAGNAR NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to spodnie termoaktywne męskie, przeznaczone do aktywności fizycznej w różnych porach roku, w tym zimowych. Kategoria 'Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna' idealnie pasuje do specyfiki produktu, uwzględniając jego płeć, przeznaczenie (odzież sportowa) oraz kluczową cechę 'termoaktywność' (odzież termiczna)."
+    },
+    {
+        "ID_Produktu": "6056",
+        "Nazwa_Produktu": "BTS0464 SPODNIE TERMOAKTYWNE CZARNE MĘSKIE L/XL MAGNUS NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to spodnie termoaktywne męskie, przeznaczone do różnych aktywności sportowych w każdą porę roku. Kategoria 'Odzież termiczna' (ID: 2943) jest najbardziej precyzyjnym dopasowaniem, ponieważ odnosi się bezpośrednio do właściwości termoaktywnych produktu i znajduje się w odpowiedniej gałęzi 'Moda -> Ubrania męskie -> Odzież sportowa'."
+    },
+    {
+        "ID_Produktu": "6057",
+        "Nazwa_Produktu": "BTS0464 SPODNIE TERMOAKTYWNE CZARNE MĘSKIE 2XL/3XL MAGNUS NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to spodnie termoaktywne męskie, przeznaczone do różnych aktywności sportowych. Kategoria 'Moda -> Ubrania męskie -> Odzież sportowa -> Odzież termiczna' jest najbardziej precyzyjna, ponieważ odzież termoaktywna jest bezpośrednio związana z odzieżą termiczną i dopasowana do przeznaczenia produktu dla mężczyzn i wielu dyscyplin sportowych wymienionych w opisie."
+    },
+    {
+        "ID_Produktu": "6058",
+        "Nazwa_Produktu": "BTS0062 SPODNIE TERMOAKTYWNE CZARNE DAMSKIE S/M ROSA NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2942,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'spodnie termoaktywne damskie', które są przeznaczone do różnych aktywności sportowych i posiadają właściwości termiczne. Kategoria 'Moda > Ubrania damskie > Odzież sportowa > Odzież termiczna' jest najbardziej precyzyjnym i szczegółowym dopasowaniem, bezpośrednio odpowiadającym na cechę 'termoaktywne' oraz płeć i rodzaj odzieży."
+    },
+    {
+        "ID_Produktu": "6059",
+        "Nazwa_Produktu": "BTS0062 SPODNIE TERMOAKTYWNE CZARNE DAMSKIE L/XL ROSA NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2942,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'spodnie termoaktywne damskie', a kategoria 'Moda > Ubrania damskie > Odzież sportowa > Odzież termiczna' jest najbardziej precyzyjnym i semantycznie dopasowanym liściem w drzewie kategorii, idealnie oddającym kluczową cechę produktu oraz jego przeznaczenie do aktywności fizycznej."
+    },
+    {
+        "ID_Produktu": "6061",
+        "Nazwa_Produktu": "BTK0060 KOSZULKA TERMOAKTYWNA CZARNA MĘSKA 2XL/3XL RAGNAR NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Koszulki sportowe",
+        "Finalne_ID_AI": 2936,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to męska koszulka termoaktywna przeznaczona do aktywności sportowych. Kategoria 'Moda > Ubrania męskie > Odzież sportowa > Koszulki sportowe' jest najbardziej szczegółowa i najlepiej opisuje rodzaj odzieży (koszulka) oraz jej przeznaczenie (sportowe). Chociaż istnieje również kategoria 'Odzież termiczna', 'Koszulki sportowe' jest bardziej precyzyjna, ponieważ produkt jest konkretnie koszulką, a nie ogólnie odzieżą termiczną."
+    },
+    {
+        "ID_Produktu": "6062",
+        "Nazwa_Produktu": "BTK0060 KOSZULKA TERMOAKTYWNA SZARA MĘSKA S/M RAGNAR NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koszulka termoaktywna męska przeznaczona do różnorodnych aktywności sportowych, w tym sportów zimowych, trekkingu, biegania, jazdy na rowerze i piłki nożnej. Kategoria 'Moda -> Ubrania męskie -> Odzież sportowa -> Odzież termiczna' jest najbardziej precyzyjna, ponieważ uwzględnia zarówno rodzaj odzieży (sportowa, męska) jak i jej kluczową cechę (termoaktywna)."
+    },
+    {
+        "ID_Produktu": "6064",
+        "Nazwa_Produktu": "BTK0060 KOSZULKA TERMOAKTYWNA SZARA MĘSKA 2XL/3XL RAGNAR NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Odzież termiczna",
+        "Finalne_ID_AI": 2943,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to męska koszulka termoaktywna, przeznaczona do różnorodnych aktywności fizycznych. Kategoria 'Odzież termiczna' w drzewie 'Moda -> Ubrania męskie -> Odzież sportowa' jest idealnie dopasowana semantycznie do opisu 'koszulka termoaktywna', jako kategoria-liść."
+    },
+    {
+        "ID_Produktu": "6065",
+        "Nazwa_Produktu": "BTK0464 KOSZULKA TERMOAKTYWNA CZARNA MĘSKA L/XL MAGNUS NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Koszulki sportowe",
+        "Finalne_ID_AI": 2936,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to męska koszulka termoaktywna przeznaczona do wielu aktywności sportowych (trekking, bieganie, sporty zimowe, jazda na rowerze, piłka nożna). Najlepiej pasuje kategoria 'Koszulki sportowe' w gałęzi 'Moda > Ubrania męskie > Odzież sportowa', ponieważ jest to kategoria-liść, która obejmuje rodzaj produktu (koszulka), płeć (męska) i szerokie zastosowanie sportowe, a jest bardziej ogólna niż kategorie dedykowane tylko jednemu rodzajowi sportu."
+    },
+    {
+        "ID_Produktu": "6066",
+        "Nazwa_Produktu": "BTK0464 KOSZULKA TERMOAKTYWNA CZARNA MĘSKA 2XL/3XL MAGNUS NILS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > Odzież sportowa > Koszulki sportowe",
+        "Finalne_ID_AI": 2936,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to męska koszulka termoaktywna przeznaczona do różnorodnych aktywności sportowych. Najlepiej pasującą kategorią-liściem jest 'Moda' > 'Ubrania męskie' > 'Odzież sportowa' > 'Koszulki sportowe', która precyzyjnie opisuje rodzaj produktu i jego przeznaczenie, nie zawężając go do jednej dyscypliny sportowej."
+    },
+    {
+        "ID_Produktu": "6074",
+        "Nazwa_Produktu": "Zestaw bramek samorozkładających Spokey GOALKEEPER II",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw bramek, które są akcesoriami do gry w piłkę nożną (jak wskazano w opisie). Kategoria 'Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria' jest najlepiej dopasowaną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "6084",
+        "Nazwa_Produktu": "Piłka nożna Spokey PRODIGY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka nożna, która jest akcesorium niezbędnym do uprawiania piłki nożnej. Kategoria 'Akcesoria' w gałęzi 'Sport i Hobby > Sporty drużynowe > Piłka nożna' jest najbardziej szczegółową i trafioną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "6086",
+        "Nazwa_Produktu": "TABLICA DYDAKTYCZNA MAGNETYCZNA DWUSTRONNA PIŁKA NOŻNA PURE 2 IMPROVE",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to tablica dydaktyczna, magnetyczna, dwustronna, przeznaczona do piłki nożnej dla trenerów. Jest to narzędzie do planowania i wizualizacji taktyki, a więc idealnie pasuje do kategorii 'Sport i Hobby' -> 'Sporty drużynowe' -> 'Piłka nożna' -> 'Akcesoria'. Jest to kategoria-liść i najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "6089",
+        "Nazwa_Produktu": "SKROBACZKA DO SZYB 2w1 28cm DUNLOP CZARNY",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Skrobaczki do szyb",
+        "Finalne_ID_AI": 4504,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na skrobaczkę do szyb samochodowych. Kategoria 'Skrobaczki do szyb' w gałęzi 'Motoryzacja > Wyposażenie i akcesoria samochodowe' jest idealnym i najbardziej szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "6090",
+        "Nazwa_Produktu": "SKROBACZKA DO SZYB 29CM DUNLOP SZARA",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Skrobaczki do szyb",
+        "Finalne_ID_AI": 4504,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skrobaczka do szyb samochodowych. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Skrobaczki do szyb' jest idealnie dopasowana semantycznie i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "6096",
+        "Nazwa_Produktu": "HPC 2.5 KG HANTLA POLIURETANOWA CPU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantla, a kategoria 'Hantle' (ID: 4337) jest bezpośrednim i najlepiej dopasowanym liściem w drzewie kategorii, znajdującym się w gałęzi Sport i Hobby > Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "6097",
+        "Nazwa_Produktu": "HPC 5 KG HANTLA POLIURETANOWA CPU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantla poliuretanowa, która jest bezpośrednim elementem kategorii 'Hantle' znajdującej się w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'. Jest to najbardziej precyzyjne i trafne dopasowanie."
+    },
+    {
+        "ID_Produktu": "6098",
+        "Nazwa_Produktu": "HPC 7.5 KG HANTLA POLIURETANOWA CPU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantla poliuretanowa, która jest bezpośrednio odzwierciedlona w kategorii-liściu 'Hantle' w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'."
+    },
+    {
+        "ID_Produktu": "6120",
+        "Nazwa_Produktu": "HPT01 2 x 1 KG HANTLE POLIURETANOWE TPU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantle poliuretanowe, które są sprzętem treningowym. Kategoria 'Hantle' znajduje się w ścieżce 'Sport i Hobby' -> 'Fitness' -> 'Sprzęt siłowy', co idealnie odpowiada opisowi produktu."
+    },
+    {
+        "ID_Produktu": "6121",
+        "Nazwa_Produktu": "HPT02 2 x 2 KG HANTLE POLIURETANOWE TPU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantle treningowe. Kategoria \"Hantle\" znajduje się w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy i jest idealnie dopasowana semantycznie do tytułu i opisu produktu. Jest to kategoria-liść."
+    },
+    {
+        "ID_Produktu": "6122",
+        "Nazwa_Produktu": "HPT03 2 x 3 KG HANTLE POLIURETANOWE TPU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantle treningowe. Kategoria 'Hantle' (ID: 4337) jest bezpośrednim i najbardziej precyzyjnym dopasowaniem dla tego typu sprzętu siłowego, znajdującego się w gałęzi 'Sport i Hobby > Fitness > Sprzęt siłowy'."
+    },
+    {
+        "ID_Produktu": "6130",
+        "Nazwa_Produktu": "TPC02 TALERZ OLIMPIJSKI POLIURETANOWY CPU 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'talerz olimpijski' do treningu siłowego. Kategoria 'Obciążenia' (4339) w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy' jest idealnie dopasowana semantycznie i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "6131",
+        "Nazwa_Produktu": "TPC05 TALERZ OLIMPIJSKI POLIURETANOWY CPU 5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to talerz olimpijski, który jest rodzajem obciążenia do treningu siłowego. Najlepiej pasującą kategorią-liściem jest 'Sport i Hobby' -> 'Fitness' -> 'Sprzęt siłowy' -> 'Obciążenia', która dokładnie opisuje ten produkt."
+    },
+    {
+        "ID_Produktu": "6137",
+        "Nazwa_Produktu": "ONK01 OBCIĄŻNIKI NA KOSTKI I NADGARSTKI REGULOWANE 2 x 0.5KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to regulowane obciążniki na kostki i nadgarstki, które są elementem sprzętu siłowego. Kategoria 'Obciążenia' w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy jest najbardziej precyzyjnym i trafnym dopasowaniem, ponieważ bezpośrednio odnosi się do rodzaju produktu."
+    },
+    {
+        "ID_Produktu": "6138",
+        "Nazwa_Produktu": "ONK02 OBCIĄŻNIKI NA KOSTKI I NADGARSTKI REGULOWANE 2 x 1KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to regulowane obciążniki na kostki i nadgarstki, służące do zwiększania intensywności treningu. Najlepiej pasuje do kategorii 'Obciążenia' w ramach 'Sprzęt siłowy' pod gałęzią 'Fitness', ponieważ podstawową funkcją produktu jest dodawanie ciężaru (obciążenia) podczas ćwiczeń, co wpisuje się w trening siłowy i ogólny fitness."
+    },
+    {
+        "ID_Produktu": "6140",
+        "Nazwa_Produktu": "ONK04 OBCIĄŻNIKI NA KOSTKI I NADGARSTKI REGULOWANE 2 x 2 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to regulowane obciążniki na kostki i nadgarstki, przeznaczone do treningu siłowego i fitness. Kategoria 'Sport i Hobby' -> 'Fitness' -> 'Sprzęt siłowy' jest najbardziej trafna. W jej ramach 'Obciążenia' to idealne dopasowanie, ponieważ produkt jest dosłownie formą obciążenia używaną do ćwiczeń."
+    },
+    {
+        "ID_Produktu": "6141",
+        "Nazwa_Produktu": "ONK05 OBCIĄŻNIKI NA KOSTKI I NADGARSTKI REGULOWANE 2 x 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'obciążniki na kostki i nadgarstki' przeznaczone do zwiększenia intensywności treningu. Kategoria 'Obciążenia' (ID: 4339) jest bezpośrednim, precyzyjnym i najtrafniejszym dopasowaniem, znajdującym się w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy. Jest to kategoria-liść i idealnie oddaje charakter produktu."
+    },
+    {
+        "ID_Produktu": "6142",
+        "Nazwa_Produktu": "MBO12 MAGNETYCZNY BOLEC NA DODATKOWE OBCIĄŻENIE DO STOSU HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to magnetyczny bolec do stosu obciążeń, służący do precyzyjnego dostosowywania ciężaru podczas treningu siłowego na atlasie. Jest to akcesorium bezpośrednio związane ze sprzętem siłowym. Najlepszym dopasowaniem jest kategoria 'Sport i Hobby' -> 'Fitness' -> 'Sprzęt siłowy', a ponieważ nie ma bardziej szczegółowej kategorii dla tego typu akcesoriów, wybór 'Pozostałe' w ramach tej gałęzi jest najbardziej trafny."
+    },
+    {
+        "ID_Produktu": "6150",
+        "Nazwa_Produktu": "EKRAN TERMOIZOLACYJNY/LAMINAT ŚCIENNY 750x50CM KINZO",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ekran termoizolacyjny, który służy do izolacji ścian, podłóg i dachów, zwiększając komfort cieplny i efektywność energetyczną. Jest to materiał budowlany o właściwościach izolacyjnych. Najbardziej odpowiednia kategoria to 'Dom i Ogród' -> 'Budowa' -> 'Izolacje', a ponieważ nie ma bardziej szczegółowej podkategorii idealnie pasującej do 'ekran/laminat', wybieram kategorię-liść 'Pozostałe' w ramach 'Izolacji'."
+    },
+    {
+        "ID_Produktu": "6154",
+        "Nazwa_Produktu": "SZTANGA SKŁADANA KOMPOZYTOWA 20KG 130CM PURE 2 IMPROVE",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Sztangi",
+        "Finalne_ID_AI": 4340,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to składana sztanga kompozytowa wraz z obciążeniami, przeznaczona do treningu siłowego. Kategoria 'Sport i Hobby' -> 'Fitness' -> 'Sprzęt siłowy' -> 'Sztangi' jest najbardziej szczegółowym i precyzyjnym dopasowaniem dla tego typu sprzętu."
+    },
+    {
+        "ID_Produktu": "6164",
+        "Nazwa_Produktu": "NC1725 NÓŻ TAKTYCZNY NILS CAMP",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Militaria",
+        "Finalne_ID_AI": 1601,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'nóż taktyczny' przeznaczony do survivalu i aktywności w terenie. Kategoria 'Militaria' (Sport i Hobby > Militaria) jest najlepiej dopasowana semantycznie do tego typu sprzętu, zwłaszcza biorąc pod uwagę słowo 'taktyczny', które sugeruje specjalistyczne zastosowanie, wykraczające poza ogólne 'narzędzia' czy 'scyzoryki'."
+    },
+    {
+        "ID_Produktu": "6186",
+        "Nazwa_Produktu": "KOR09 KAMIZELKA OBCIĄŻENIOWA REGULOWANA 9KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kamizelka obciążeniowa, która jest formą dodatkowego ciężaru używanego w treningach siłowych i cardio. Kategoria 'Obciążenia' pod 'Sprzęt siłowy' w dziale 'Sport i Hobby -> Fitness' jest najbardziej precyzyjnym i semantycznie dopasowanym wyborem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "6208",
+        "Nazwa_Produktu": "Taborecik prostokątny MINI",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalne_ID_AI": 1947,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Taborecik prostokątny MINI', co dosłownie oznacza mały taboret. Kategoria 'Taborety i hokery' jest bezpośrednim i najbardziej precyzyjnym dopasowaniem dla tego typu produktu w drzewie kategorii, spełniającym wymaganie wyboru kategorii-liścia."
+    },
+    {
+        "ID_Produktu": "6243",
+        "Nazwa_Produktu": "TOS50 TALERZ OLIMPIJSKI STALOWY KALIBROWANY 5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stalowy talerz olimpijski o wadze 5 kg, przeznaczony do sportów siłowych. Kategoria 'Sprzęt siłowy > Obciążenia' idealnie odzwierciedla ten rodzaj produktu."
     }
 ]
