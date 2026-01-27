@@ -1017,6 +1017,48 @@ def dodaj_do_przetworzonych(product_id, sciezka_pliku_przetworzone):
         with open(sciezka_pliku_przetworzone, 'w', encoding='utf-8') as f:
             json.dump(przetworzone, f, indent=4, ensure_ascii=False)
 
+def commit_state_to_git(message="AUTO: Checkpoint - aktualizacja state"):
+    """
+    Commituje pliki state do git (działa tylko w GitHub Actions).
+    Zapewnia, że postęp nie zostanie utracony przy przerwaniu workflow.
+    """
+    import subprocess
+    
+    # Sprawdź czy jesteśmy w GitHub Actions
+    if not os.environ.get('GITHUB_ACTIONS'):
+        return False
+    
+    try:
+        # Konfiguracja git (może być już skonfigurowana, ale na wszelki wypadek)
+        subprocess.run(['git', 'config', 'user.name', 'GitHub Actions Bot'], 
+                      capture_output=True, check=False)
+        subprocess.run(['git', 'config', 'user.email', 'actions@github.com'], 
+                      capture_output=True, check=False)
+        
+        # Dodaj pliki state
+        subprocess.run(['git', 'add', 'state/*.json'], capture_output=True, check=False)
+        subprocess.run(['git', 'add', 'output/raport_kategoryzacji.csv'], capture_output=True, check=False)
+        
+        # Sprawdź czy są zmiany do commitowania
+        result = subprocess.run(['git', 'diff', '--staged', '--quiet'], capture_output=True)
+        if result.returncode == 0:
+            # Brak zmian
+            return False
+        
+        # Commit
+        subprocess.run(['git', 'commit', '-m', message], capture_output=True, check=True)
+        
+        # Push
+        subprocess.run(['git', 'push'], capture_output=True, check=True)
+        
+        print(f"   💾 Checkpoint: state zapisany do GitHub")
+        return True
+    except subprocess.CalledProcessError:
+        # Cichy fail - nie przerywamy głównego procesu
+        return False
+    except Exception:
+        return False
+
 # ==============================================================================
 # ========================= GŁÓWNA FUNKCJA URUCHOMIENIOWA ======================
 # ==============================================================================
@@ -1436,6 +1478,10 @@ Przykład odpowiedzi:
                     dodaj_do_przetworzonych(product['id'], PRZETWORZONE_PLIK)
             
             time.sleep(1)
+            
+            # --- CHECKPOINT: Zapisz state do GitHub co 10 produktów ---
+            if idx % 10 == 0:
+                commit_state_to_git(f"AUTO: Checkpoint po {idx} produktach")
 
     # --- Cleanup Gemini Cache ---
     if provider == "GEMINI" and GEMINI_CACHE_NAME:
