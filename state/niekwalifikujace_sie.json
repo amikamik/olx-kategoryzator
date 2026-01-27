@@ -4318,5 +4318,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to męska koszulka termoaktywna. Najbardziej precyzyjną kategorią-liściem dla tego typu odzieży technicznej w dziale męskim jest 'Odzież termiczna' (w gałęzi Moda > Ubrania męskie > Odzież sportowa)."
+    },
+    {
+        "ID_Produktu": "357",
+        "Nazwa_Produktu": "KNV04 KETTLEBELL POKRYTY WINYLEM 4.0 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kettlebell to specyficzny rodzaj ciężarka (odważnika kulowego) wykorzystywany w treningu siłowym i fitness. Najbardziej odpowiednią kategorią dla tego typu produktu w podanym drzewie kategorii jest 'Obciążenia' w gałęzi 'Sprzęt siłowy', co pokrywa się z przeznaczeniem produktu opisanym przez producenta."
+    },
+    {
+        "ID_Produktu": "392",
+        "Nazwa_Produktu": "TOK02 TALERZ OLIMPIJSKI OGUMOWANY 2.5 KG HMS",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to talerz olimpijski (ciężar żeliwny), który jest klasyfikowany jako obciążenie do sztang i hantli. Kategoria 'Obciążenia' (ID: 4339) w gałęzi Sport i Hobby > Fitness > Sprzęt siłowy jest najbardziej precyzyjnym dopasowaniem semantycznym i jest kategorią-liściem."
     }
 ]
