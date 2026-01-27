@@ -159,11 +159,12 @@ jobs:
           sed -i "s/SAMPLE_SIZE = .*/SAMPLE_SIZE = ${{ inputs.sample_size }}/" 08_kategoryzator_ekspert.py
 
           if [ "${{ inputs.refresh_feed }}" == "true" ]; then
-            python 08_kategoryzator_ekspert.py --refresh-feed
+            python -u 08_kategoryzator_ekspert.py --refresh-feed
           else
-            python 08_kategoryzator_ekspert.py
+            python -u 08_kategoryzator_ekspert.py
           fi
         env:
+          PYTHONUNBUFFERED: "1"
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           MAX_RUNTIME_MINUTES: "150"
