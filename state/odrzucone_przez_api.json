@@ -126,5 +126,185 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1000743",
+        "Nazwa_Produktu": "Części i akcesoria do syfonu do bitej śmietany Profi Line - Hendi 589205",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw części do syfonu do bitej śmietany. Syfony te są narzędziami służącymi do przygotowywania i dekorowania deserów, co sprawia, że kategoria 'Akcesoria cukiernicze' w dziale 'Przybory kuchenne' jest najbardziej precyzyjnym wyborem semantycznym, lepszym niż ogólna kategoria 'Pozostałe'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Części i akcesoria do syfonu do bitej śmietany profi line - hendi 589205",
+                "description": "Numer producenta: HENDI 589205 Części zamienne do syfonu do bitej śmietany pasują do syfonów PROFI LINE 588017 – pojemność 0,5l oraz 588024-pojemność 0,1l. W skład zestawu wchodzą: - uszczelka do głowicy, - adapter dyszy, - dysza płaska, - dysza prosta, - uchwyt na naboje, - zawór, - szczoteczka, - dysza #8220;Tulipan#8221;\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 120.69,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/589205-czesci-i-akcesoria-do-syfonu-do-bitej-smietany-profi-line-hendi-589205-hendi-hurtownia-sklep-cena-najtaniej.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1000746",
+        "Nazwa_Produktu": "Gaz do palnika gastronomicznego Creme Brulee i zapalniczek 1szt. - Hendi 199008",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to gaz marki gastronomicznej Hendi przeznaczony głównie do palników do Creme Brulee (deser), co czyni go akcesorium cukierniczym w dziale przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gaz do palnika gastronomicznego creme brulee i zapalniczek 1szt. - hendi 199008",
+                "description": "Kod producenta: HENDI 199008 Wkład z gazem marki #8220;Royal Gas#8221; do palnika gastronomicznego do Creme Brulee oraz do napełniania zapalniczek. Jeden pojemnik zawiera 200ml skroplonego gazu butan. W zestawie: - 1 x aerozol z gazem o pojemności 200ml - 5 końcówek o różnych średnicach\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 26.76,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/131/199008-gaz-do-palnika-gastronomicznego-creme-brulee-zapalniczek-hurtownia-dropshipping.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1000794",
+        "Nazwa_Produktu": "Dyspenser pojemnik do sosów zimnych 0,35l. przezroczysty - Hendi 557822",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemnik (dyspenser) służący do przechowywania i dozowania sosów. Mimo że marka Hendi kojarzona jest z gastronomią, drobne akcesoria kuchenne i pojemniki na żywność (również profesjonalne) powszechnie kategoryzowane są w dziale 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności'. Jest to najbardziej adekwatna kategoria liść opisująca funkcję 'pojemnika' i 'przechowywania'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dyspenser pojemnik do sosów zimnych 0,35l. przezroczysty - hendi 557822",
+                "description": "Numer producenta: HENDI 557822 Profesjonalny dyspenser Hendi - przezroczysty pojemnik 350 ml do sosów zimnych. Rekomendowany dla małej i dużej gastronomii, można go również używać w warunkach domowych. Głównymi zaletami pojemnika jest staranne wykonanie z polietylenu, który należą do miękkich i elastycznych tworzyw, co umożliwia nam na wygodne i szybkie mycie w zmywarkach. Specjalna zatyczka umożliwia zachowanie czystości oraz dzięki specjalnej zatyczce sos dłużej zachowuje świeżość. Cechy produktu: – wykonany z polietylenu, – można myć w zmywarkach, – zatyczka umożliwia zachowanie czystości, – dzięki zatyczce sos dłużej zachowuje świeżość. Parametry: – kolor: przezroczysty – pojemność w l: 0,35 – średnica w mm: 55 – wysokość w mm: 205 Zakres dostawy: – dyspenser pojemnik do sosów zimnych 0,35l. przezroczysty - Hendi 557822\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2130,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 22.44,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557822-dyspenser-pojemnik-do-sosow-zimnych-035l-przezroczysty-hendi-557822-hendi-hurtownia-sklep-cena-najtaniej.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557822-1.png"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557822-2.png"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
