@@ -2606,5 +2606,612 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004148",
+        "Nazwa_Produktu": "Profesjonalny widelec do mięs kuty ze stali Profi Line 150 mm - Hendi 844229",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny widelec do mięs (do porcjowania), który w kategoryzacji przyborów kuchennych jest tradycyjnie przypisywany do grupy noży i akcesoriów do krojenia. Wykonanie z kutej stali węglowej i przeznaczenie gastronomiczne (HACCP) jednoznacznie wskazuje na kategorię przyborów kuchennych w dziale Wyposażenie wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny widelec do mięs kuty ze stali profi line 150 mm - hendi 844229",
+                "description": "Numer producenta: HENDI 844229 Widelec do mięs z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny składa się z 50 etapów - kuty na gorąco z jednego kawałka stali - można myć w zmywarkach - rączka z tworzywa POM Parametry: - długość ostrza: 150mm - długość noża: 285mm - grubość: 9mm W zestawie: - widelec do mięs - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 127.71,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844229-hendi-profesjonalny-widelec-do-mies-kuty-ze-stali-profi-line-150-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844229-hendi-profesjonalny-widelec-do-mies-kuty-ze-stali-profi-line-150-mm-hurtownia-sklep-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004149",
+        "Nazwa_Produktu": "Profesjonalny nóż do obierania kuty ze stali Profi Line 90 mm - Hendi 844236",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny nóż kuchenny przeznaczony do obierania, co idealnie pasuje do kategorii 'Noże i nożyce kuchenne' znajdującej się w sekcji 'Przybory kuchenne'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż do obierania kuty ze stali profi line 90 mm - hendi 844236",
+                "description": "Numer producenta: HENDI 844236 Nóż do obierania z serii Profi Line marki Hendi Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Parametry: - długość ostrza: 90 mm - długość noża: 195 mm - grubość: 1,9 mm W zestawie: - nóż do obierania - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 102.45,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844236-hendi-profesjonalny-noz-do-obierania-kuty-ze-stali-profi-line-90-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004151",
+        "Nazwa_Produktu": "Profesjonalny nóż kucharski szefa kuchni kuty ze stali Profi Line - Hendi 844250",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny nóż kuchenny (szefa kuchni), który idealnie pasuje do najbardziej specyficznej kategorii liścia 'Noże i nożyce kuchenne' w dziale wyposażenia wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż kucharski szefa kuchni kuty ze stali profi line - hendi 844250",
+                "description": "Numer producenta: HENDI 844250 Nóż kuchenny z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Opis funkcjonalności ostrza: 1. Przednia część ostrza jest odpowiednia do krojenia niewielkich warzyw, np. czosnku. 2. Grubego grzbietu można użyć do łamania małych kostek bądź otwierania skorupiaków. 3. Boczną stroną ostrza można spłaszczać filety, podnosić posiekane zioła itp. 4. Miękkie i twarde produkty można kroić przy użyciu środkowej części ostrza. Ostrze o zakrzywionym kształcie jest idealne do siekania ziół. 5. Odwrotną częścią ostrza można kroić elementy trudne do przekrojenia. Przeniesienie siły jest w tej części optymalne Parametry: - długość ostrza: 150mm - długość noża: 265mm - grubość: 2mm W zestawie: - nóż kuchenny - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 140.34,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844250-hendi-profesjonalny-noz-kucharski-szefa-kuchni-kuty-ze-stali-profi-line-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844205-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844205-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004152",
+        "Nazwa_Produktu": "Profesjonalny nóż do filetowania giętki kuty ze stali Profi Line 150 mm - Hendi 844267",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym nożem kuchennym przeznaczonym do filetowania. Najbardziej dopasowaną kategorią w drzewie jest 'Noże i nożyce kuchenne' (ID: 2128), która znajduje się w sekcji Wyposażenie wnętrz > Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż do filetowania giętki kuty ze stali profi line 150 mm - hendi 844267",
+                "description": "Numer producenta: HENDI 844267 Nóż do filetowania - giętki z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Parametry: - długość ostrza: 150mm - długość noża: 270mm - grubość: 2mm W zestawie: - nóż do filetowania - giętki - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 113.68,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844267-hendi-profesjonalny-noz-do-filetowania-gietki-kuty-ze-stali-profi-line-150-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004153",
+        "Nazwa_Produktu": "Profesjonalny nóż Santoku ze szlifem kulowym Profi Line 180 mm - Hendi 844274",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny nóż kuchenny typu Santoku. W drzewie kategorii OLX najbardziej precyzyjną kategorią dla tego przedmiotu jest 'Noże i nożyce kuchenne' (ID: 2128) w sekcji Dom i Ogród.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż santoku ze szlifem kulowym profi line 180 mm - hendi 844274",
+                "description": "Numer producenta: HENDI 844274 Nóż Santoku - szlif kulkowy z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Parametry: - długość ostrza: 180 mm - długość noża: 310 mm - grubość: 3 mm W zestawie: - nóż Santoku - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 203.49,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844274-hendi-profesjonalny-noz-santoku-ze-szlifem-kulowym-profi-line-180-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004154",
+        "Nazwa_Produktu": "Profesjonalny nóż do pieczywa wygięty kuty ze stali Profi Line 215 mm - Hendi 844281",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest nożem do pieczywa (chleba), co jednoznacznie klasyfikuje go do kategorii 'Noże i nożyce kuchenne'. Choć marka Hendi jest często używana w gastronomii profesjonalnej, w strukturze OLX noże kuchenne mają dedykowaną kategorię w sekcji Wyposażenie wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż do pieczywa wygięty kuty ze stali profi line 215 mm - hendi 844281",
+                "description": "Numer producenta: HENDI 844281 Nóż do chleba - wygięty z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Parametry: - długość ostrza: 215mm - długość noża: 340mm - grubość: 2,4mm W zestawie: - nóż do chleba - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 159.99,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844281-hendi-profesjonalny-noz-do-pieczywa-wygiety-kuty-ze-stali-profi-line-215-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844281-hendi-profesjonalny-noz-do-pieczywa-wygiety-kuty-ze-stali-profi-line-215-mm-hurtownia-sklep-cena.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004155",
+        "Nazwa_Produktu": "Profesjonalny nóż do pieczywa kuty ze stali Profi Line 215 mm - Hendi 844298",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny nóż do pieczywa (chleba), który w strukturze kategorii OLX najlepiej pasuje do liścia 'Noże i nożyce kuchenne' w sekcji Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż do pieczywa kuty ze stali profi line 215 mm - hendi 844298",
+                "description": "Numer producenta: HENDI 844298 Nóż do chleba z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Parametry: - długość ostrza: 215mm - długość noża: 340mm - grubość: 2,4mm W zestawie: - nóż do chleba - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 147.36,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844298-hendi-profesjonalny-noz-do-pieczywa-kuty-ze-stali-profi-line-215-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844298-hendi-profesjonalny-noz-do-pieczywa-kuty-ze-stali-profi-line-215-mm-hurtownia-sklep-cena.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004156",
+        "Nazwa_Produktu": "Profesjonalny nóż rzeźniczy do mięsa kuty ze stali Profi Line 200 mm - Hendi 844304",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny nóż rzeźniczy przeznaczony do użytku kuchennego (krojenie mięsa, warzyw, ziół). Najbardziej precyzyjną kategorią w drzewie jest kategoria 'Noże i nożyce kuchenne' (ID 2128) znajdująca się w sekcji 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż rzeźniczy do mięsa kuty ze stali profi line 200 mm - hendi 844304",
+                "description": "Numer producenta: HENDI 844304 Nóż rzeźniczy do krojenia mięsa z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Opis funkcjonalności ostrza: 1. Przednia część ostrza jest odpowiednia do krojenia niewielkich warzyw, np. czosnku. 2. Grubego grzbietu można użyć do łamania małych kostek bądź otwierania skorupiaków. 3. Boczną stroną ostrza można spłaszczać filety, podnosić posiekane zioła itp. 4. Miękkie i twarde produkty można kroić przy użyciu środkowej części ostrza. Ostrze o zakrzywionym kształcie jest idealne do siekania ziół. 5. Odwrotną częścią ostrza można kroić elementy trudne do przekrojenia. Przeniesienie siły jest w tej części optymalne Parametry: - długość ostrza: 200mm - długość noża: 330mm - grubość: 2,6mm W zestawie: - nóż rzeźniczy - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 146.25,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844304-hendi-profesjonalny-noz-rzezniczy-do-miesa-kuty-ze-stali-profi-line-200-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844205-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844205-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004157",
+        "Nazwa_Produktu": "Profesjonalny nóż rzeźniczy do mięsa kuty ze stali Profi Line 250 mm - Hendi 844311",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny nóż rzeźniczy (przybór kuchenny). Najbardziej precyzyjną kategorią dla tego typu produktów w drzewie OLX jest 'Noże i nożyce kuchenne' (ID: 2128) w sekcji Wyposażenie wnętrz. Sugestia dotycząca narzędzi ręcznych jest błędna, gdyż odnosi się ona do narzędzi warsztatowych/budowlanych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż rzeźniczy do mięsa kuty ze stali profi line 250 mm - hendi 844311",
+                "description": "Numer producenta: HENDI 844311 Nóż rzeźniczy do krojenia mięsa z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Opis funkcjonalności ostrza: 1. Przednia część ostrza jest odpowiednia do krojenia niewielkich warzyw, np. czosnku. 2. Grubego grzbietu można użyć do łamania małych kostek bądź otwierania skorupiaków. 3. Boczną stroną ostrza można spłaszczać filety, podnosić posiekane zioła itp. 4. Miękkie i twarde produkty można kroić przy użyciu środkowej części ostrza. Ostrze o zakrzywionym kształcie jest idealne do siekania ziół. 5. Odwrotną częścią ostrza można kroić elementy trudne do przekrojenia. Przeniesienie siły jest w tej części optymalne Parametry: - długość ostrza: 250mm - długość noża: 380mm - grubość: 2,7mm W zestawie: - nóż rzeźniczy - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 147.36,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844311-hendi-profesjonalny-noz-rzezniczy-do-miesa-kuty-ze-stali-profi-line-250-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844205-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844205-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004161",
+        "Nazwa_Produktu": "Stalka ostrzałka diamentowa do noży owalna Profi Line 310 mm - Hendi 844403",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Elektronarzędzia > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczna ostrzałka diamentowa (stalka) do noży kuchennych. W strukturze kategorii OLX, akcesoria do ostrzenia i pielęgnacji noży są klasyfikowane w kategorii 'Noże i nożyce kuchenne' w ramach przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stalka ostrzałka diamentowa do noży owalna profi line 310 mm - hendi 844403",
+                "description": "Numer producenta: HENDI 844403 Ostrzałka do noży diamentowa - owalna z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Parametry: - długość ostrza: 310 mm - długość noża: 445 mm W zestawie: - ostrzałka do noży - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 213.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844403-hendi-stalka-ostrzalka-diamentowa-do-nozy-owalna-profi-line-310-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
