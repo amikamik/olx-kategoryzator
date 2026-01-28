@@ -40,6 +40,8 @@ if config.OPENAI_API_KEY and config.OPENAI_API_KEY != "TWOJ_KLUCZ_API_OPENAI":
 
 # --- GEMINI EXPLICIT CACHING ---
 GEMINI_CACHE_NAME = None  # Globalny cache dla drzewa kategorii
+LAST_RATE_LIMIT_TIME = None  # Czas ostatniego błędu 429 (do cooldown między produktami)
+CONSECUTIVE_RATE_LIMITS = 0  # Licznik kolejnych błędów rate limit
 
 def create_gemini_cache(api_key, model_name, system_content):
     """
@@ -130,9 +132,9 @@ def call_gemini_with_cache(user_content, api_key, model_name, response_format_js
         "generationConfig": generation_config
     }
     
-    # Retry logic
-    max_retries = 3
-    retry_delay = 2
+    # Retry logic z dłuższymi czasami oczekiwania dla rate limit
+    max_retries = 5
+    retry_delays = [5, 15, 30, 60, 120]  # Coraz dłuższe czekanie
     
     for attempt in range(max_retries):
         try:
@@ -147,6 +149,8 @@ def call_gemini_with_cache(user_content, api_key, model_name, response_format_js
             prompt_tokens = usage.get('promptTokenCount', 0)
             if cached_tokens > 0:
                 print(f"   │  📊 Cache hit: {cached_tokens:,} tokenów z cache, {prompt_tokens - cached_tokens:,} nowych")
+            else:
+                print(f"   │  ⚠️ BRAK CACHE HIT - zużyto {prompt_tokens:,} tokenów!")
             
             candidates = data.get('candidates', [])
             if not candidates or 'content' not in candidates[0] or 'parts' not in candidates[0]['content']:
@@ -163,10 +167,14 @@ def call_gemini_with_cache(user_content, api_key, model_name, response_format_js
             
             if e.response.status_code in [503, 429]:
                 if attempt < max_retries - 1:
-                    wait_time = retry_delay * (attempt + 1)
+                    wait_time = retry_delays[attempt]
                     print(f"⚠️ Błąd {e.response.status_code} - ponawiam za {wait_time}s (próba {attempt + 2}/{max_retries})...")
                     time.sleep(wait_time)
                     continue
+                else:
+                    # Po wyczerpaniu prób, dodaj długi cooldown przed następnym produktem
+                    print(f"❌ Wyczerpano próby - czekam 120s przed kontynuacją (cooldown TPM)...")
+                    time.sleep(120)
             print(f"Błąd wywołania Gemini API: {e}")
             return None
         except requests.exceptions.RequestException as e:
@@ -334,9 +342,9 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
             "generationConfig": generation_config
         }
         
-        # Retry logic dla błędów 503 (Service Unavailable) i 429 (Rate Limit)
-        max_retries = 3
-        retry_delay = 2  # sekundy
+        # Retry logic z dłuższymi czasami dla rate limit (bez cache zużywa ~148k tokenów!)
+        max_retries = 5
+        retry_delays = [10, 30, 60, 120, 180]  # Dłuższe czasy bo pełne zapytanie
         
         for attempt in range(max_retries):
             try:
@@ -351,10 +359,14 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
             except requests.exceptions.HTTPError as e:
                 if e.response.status_code in [503, 429]:  # Service Unavailable lub Rate Limit
                     if attempt < max_retries - 1:
-                        wait_time = retry_delay * (attempt + 1)  # Exponential backoff
-                        print(f"⚠️ Błąd {e.response.status_code} - ponawiam za {wait_time}s (próba {attempt + 2}/{max_retries})...")
+                        wait_time = retry_delays[attempt]
+                        print(f"⚠️ Błąd {e.response.status_code} (bez cache!) - ponawiam za {wait_time}s (próba {attempt + 2}/{max_retries})...")
                         time.sleep(wait_time)
                         continue
+                    else:
+                        # Po wyczerpaniu prób, dodaj bardzo długi cooldown
+                        print(f"❌ Wyczerpano próby bez cache - czekam 180s przed kontynuacją (cooldown TPM)...")
+                        time.sleep(180)
                 print(f"Błąd wywołania Gemini API: {e}")
                 return None
             except requests.exceptions.RequestException as e:
@@ -1308,7 +1320,18 @@ ZASADY:
         print(f"Rozpoczynam przetwarzanie {len(products_to_process)} z {len(nowe_produkty)} nowych produktów...")
         print(f"{'='*80}\n")
         
+        # Zmienne do rate limiting
+        last_api_call_time = 0
+        MIN_DELAY_BETWEEN_PRODUCTS = 2  # Minimum 2 sekundy między produktami (RPM limit)
+        
         for idx, product in enumerate(products_to_process, 1):
+            # Rate limiting - czekaj minimum X sekund od ostatniego wywołania API
+            if last_api_call_time > 0:
+                elapsed_since_last = time.time() - last_api_call_time
+                if elapsed_since_last < MIN_DELAY_BETWEEN_PRODUCTS:
+                    wait_time = MIN_DELAY_BETWEEN_PRODUCTS - elapsed_since_last
+                    time.sleep(wait_time)
+            
             # Sprawdzenie limitu czasu
             elapsed_minutes = (time.time() - START_TIME) / 60
             if elapsed_minutes > MAX_RUNTIME_MINUTES:
@@ -1324,6 +1347,7 @@ ZASADY:
             print(f"\n[{idx}/{len(products_to_process)}] Produkt: {product['name'][:60]}... (ID: {product['id']})")
             print("├─ Kategoryzacja przez AI...")
             
+            last_api_call_time = time.time()  # Zapisz czas przed wywołaniem API
             report_line, llm_choice = process_single_product(product, path_map, config)
             all_results.append(report_line)
             
