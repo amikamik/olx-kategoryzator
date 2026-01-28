@@ -1063,5 +1063,84 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002882",
+        "Nazwa_Produktu": "Patelnia aluminiowa z powłoką Teflon Platinum Professional nieprzywierającą śr. 24 cm - Hendi 621110",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczna patelnia aluminiowa marki Hendi. Mimo że jest to linia profesjonalna (Professional), na platformie OLX patelnie tego typu – niezależnie od stopnia ich profesjonalizmu – kategoryzowane są przede wszystkim w sekcji Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie, ze względu na ich standardowe zastosowanie i formę naczynia.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Patelnia aluminiowa z powłoką teflon platinum professional nieprzywierającą śr. 24 cm - hendi 621110",
+                "description": "Numer producenta: Hendi 621110 Aluminiowa patelnia z nieprzywierającą teflonową powłoką marki Hendi to naczynie, które doskonale sprawdzi się w barach mlecznych, małych restauracjach, hotelach czy prywatnych domach. Charakteryzuje się szybkim i równomiernym rozprowadzaniem ciepła i uchwytem ze stali nierdzewnej pokrytym antypoślizgowym silikonem. Cechy i funkcje: - korpus wykonany z twardego odlewu aluminium, - bardzo szybko i równomiernie rozprowadza ciepło, - uchwyt ze stali nierdzewnej pokryty antypoślizgową silikonową powłoką, - nieprzywierająca powłoka Teflon reg; Platinum Plus, - powłoka nakładana w 3 warstwach i odporna na temperatury sięgające 260 st. C, - bardzo łatwe czyszczenie, - idealna do wszystkich typów kuchenek, także indukcyjnych. Parametry techniczne: - Seria - Platinum Professional - Materiał korpusu - odlew aluminium - Materiał powłoki - Teflon Platinum Plus - Liczba warstw powłoki - 3 - Materiał uchwytu - stal nierdzewna z silikonową powłoką - Odpowiedni do kuchenek - ceramicznych, gazowych, elektrycznych, indukcyjnych - Możliwość mycia w zmywarce - NIE - Grubość - 4 mm - Średnica dna - 180 mm - Wymiary (Średnica x Wysokość) - 240 x 50 mm W zestawie: - patelnia. Linia patelni Platinum Professional\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 182.44,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/621110-hendi-patelnia-aluminiowa-z-powloka-nanoceramiczna-nieprzywierajaca-sr-24-cm-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/621110-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/621110-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/621110-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/621110-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/621110-5.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/621110-6.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/621110-7.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
