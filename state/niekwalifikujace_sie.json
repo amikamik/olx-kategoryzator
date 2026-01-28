@@ -498,5 +498,155 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalny płyn czyszczący i odtłuszczający dedykowany do myjek warsztatowych oraz części silnikowych, co jednoznacznie klasyfikuje go jako specjalistyczne zaopatrzenie warsztatowe w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1000914",
+        "Nazwa_Produktu": "Łopata do pieca do pizzy 1320 mm - Hendi 617861",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna łopata do pizzy o długości 1,3 m, która zgodnie z opisem jest przeznaczona do użytku w pizzeriach i restauracjach. Marka Hendi jest producentem sprzętu profesjonalnego, a gabaryty przedmiotu (1320 mm) wykluczają typowe zastosowanie domowe, co kwalifikuje przedmiot do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1000920",
+        "Nazwa_Produktu": "Nakładka na ruszt kuchenny pod małe garnki - Hendi 839997",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi, znanej z dostarczania sprzętu dla profesjonalnej gastronomii, co potwierdza opis wspominający o deklaracji CE niezbędnej dla Sanepidu. Ponieważ jest to akcesorium do rusztu kuchennego, najlepiej pasuje do kategorii 'Pozostałe' w obrębie działu 'Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1000946",
+        "Nazwa_Produktu": "Tarcza do frytek 10mm - Hendi 280614",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza tnąca przeznaczona do profesjonalnej szatkownicy gastronomicznej marki Hendi. Ze względu na przeznaczenie dla branży gastronomicznej (wzmianka o Sanepidzie i konkretnym modelu urządzenia profesjonalnego), najlepiej pasującą kategorią jest 'Firma i Przemysł > Gastronomia > Szatkownice'."
+    },
+    {
+        "ID_Produktu": "1000952",
+        "Nazwa_Produktu": "Stojak na tarcze do szatkownicy elektrycznej - Hendi 280690",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalne akcesorium do szatkownic elektrycznych używanych w gastronomii. Wybrana kategoria 'Szatkownice' w dziale 'Gastronomia' jest najbardziej specyficzna dla urządzeń i osprzętu tego typu (branża HoReCa), w przeciwieństwie do kategorii AGD, która dotyczy głównie użytku domowego."
+    },
+    {
+        "ID_Produktu": "1000980",
+        "Nazwa_Produktu": "Kamień lawowy do grilla gazowego 3kg - Hendi 152706",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kamień lawowy, który jest eksploatacyjnym akcesorium do grilli gazowych. W strukturze OLX akcesoria te kategoryzuje się bezpośrednio w kategorii 'Grill' w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "1000981",
+        "Nazwa_Produktu": "Kamień lawowy do grilla gazowego 9kg - Hendi 152904",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kamienie lawowe przeznaczone do użytku w grillach gazowych. W strukturze kategorii OLX kategoria 'Grill' (ID 1633) w sekcji 'Ogród' jest najbardziej odpowiednim i najgłębszym miejscem dla akcesoriów oraz materiałów eksploatacyjnych związanych z grillowaniem."
+    },
+    {
+        "ID_Produktu": "1000982",
+        "Nazwa_Produktu": "Kamień lawowy do grilla gazowego 5kg - Hendi 152805",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kamień lawowy jest akcesorium bezpośrednio związanym z eksploatacją grilli gazowych, dlatego kategoria 'Grill' (1633) jest najbardziej trafnym wyborem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "1001110",
+        "Nazwa_Produktu": "Benzyna ekstrakcyjna w aerozolu B-MAX Spray 500ML",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalne_ID_AI": 3252,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Benzyna ekstrakcyjna jest kluczowym środkiem chemicznym stosowanym do odtłuszczania powierzchni przed malowaniem oraz czyszczenia narzędzi malarskich, co czyni kategorię 'Akcesoria malarskie' najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1001111",
+        "Nazwa_Produktu": "Rozcieńczalnik rozpuszczalnik NITRO RC-01 N-MAX 5L",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Etui",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalne_ID_AI": 3252,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to rozpuszczalnik/rozcieńczalnik nitro przeznaczony do pracy z farbami i lakierami oraz czyszczenia narzędzi, co czyni go niezbędnym elementem procesu malarskiego. W drzewie kategorii najlepiej pasuje do 'Akcesoria malarskie' w sekcji 'Wykończenie wnętrz'."
+    },
+    {
+        "ID_Produktu": "1001120",
+        "Nazwa_Produktu": "Waga platformowa pocztowa do paczek SBS-PT-50/2 do 50kg / 2g",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga platformowa o udźwigu do 50kg, przeznaczona do ważenia paczek i listów. Kategoria 'Wagi' w sekcji 'Sklepy i magazyny' (Firma i Przemysł) jest najbardziej odpowiednia dla urządzeń o charakterze przemysłowym i logistycznym."
+    },
+    {
+        "ID_Produktu": "1001121",
+        "Nazwa_Produktu": "Waga pocztowa do paczek i listów SBS-LW-10/500 do 10kg / 0.5g",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wagą platformową przeznaczoną do użytku profesjonalnego (ważenie paczek i listów), dlatego najlepiej pasuje do dedykowanej podkategorii 'Wagi' w sekcji 'Sklepy i magazyny' wewnątrz kategorii głównej 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1001122",
+        "Nazwa_Produktu": "Waga pocztowa do paczek i listów SBS-LW-25/1000 do 25kg / 1g",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga platformowa/pocztowa marki Steinberg Systems, dedykowana do ważenia paczek i listów. Najlepiej pasuje do kategorii 'Wagi' w sekcji 'Sklepy i magazyny' wewnątrz działu 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1001123",
+        "Nazwa_Produktu": "Waga pocztowa do paczek i listów SBS-LW-5000/100 do 5kg / 0,1g",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga platformowa i pocztowa marki Steinberg Systems, przeznaczona do ważenia paczek i listów oraz zliczania sztuk. Najbardziej odpowiednią kategorią dla wyposażenia biur, magazynów i punktów wysyłkowych jest 'Firma i Przemysł > Sklepy i magazyny > Wagi'."
+    },
+    {
+        "ID_Produktu": "1001764",
+        "Nazwa_Produktu": "Ładowarka sieciowa zasilacz do wagi Steinberg Systems 7,5V 200mA",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Ładowarki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest zasilaczem/częścią zamienną do wag elektronicznych marki Steinberg Systems. Marka ta specjalizuje się w wagach przemysłowych, laboratoryjnych i sklepowych, co klasyfikuje ten osprzęt w dziale 'Firma i Przemysł'. Wybrana kategoria 'Części do maszyn i urządzeń' jest najbardziej precyzyjnym miejscem dla komponentów technicznych do urządzeń profesjonalnych."
+    },
+    {
+        "ID_Produktu": "1009938",
+        "Nazwa_Produktu": "Pasek napędowy klinowy do maszyny do waty cukrowej Royal Catering",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest mechaniczną częścią zamienną (paskiem napędowym) do profesjonalnego urządzenia gastronomicznego marki Royal Catering. Zgodnie z drzewem kategorii najlepiej pasuje do 'Części do maszyn i urządzeń' (ID: 4767) w dziale 'Firma i Przemysł', ponieważ marka ta specjalizuje się w wyposażeniu komercyjnym i przemysłowym, a nie w domowym sprzęcie AGD."
     }
 ]

@@ -390,5 +390,364 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1001106",
+        "Nazwa_Produktu": "Alkohol izopropylowy Izopropanol IPA I-MAX 99,9% Spray 500ML",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalna_Sciezka_AI": "Elektronika > Pozostała elektronika",
+        "Finalne_ID_AI": 451,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to alkohol izopropylowy (izopropanol) w sprayu, który jest standardowym środkiem chemicznym stosowanym w serwisowaniu i konserwacji urządzeń elektronicznych, optyki oraz mechaniki precyzyjnej. Opis produktu w pierwszej kolejności i najszerzej wymienia zastosowania takie jak czyszczenie PCB, optyki aparatów, głowic audio/video oraz ekranów, co czyni kategorię 'Elektronika > Pozostała elektronika' najbardziej adekwatnym wyborem dla technicznego preparatu serwisowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Alkohol izopropylowy izopropanol ipa i-max 99,9% spray 500ml",
+                "description": "Nazwa producenta: IPA I-MAX 500ML SPRAY Alkohol izopropylowy , izopropanol, IPA to profesjonalny środek chemiczny z grupy alkoholi organicznych posiadający doskonałe właściwości czyszczące i odtłuszczające a dzięki zdolności szybkiego odparowywania jest idealnym rozpuszczalnikiem. Produkt w aeorozolu z aplikatorem do użycia w trudno dostępnych miejscach. SKŁAD - Alcohol isopropylicus - propan-2-ol - 2-propanol - 99% Najważniejsze cechy izopropanolu - IPA - rozpuszcza oleje i smary - usuwa większość zanieczyszczeń i zabrudzeń - doskonale odtłuszcza każdą powierzchnię - nie pozostawia żadnych śladów - błyskawicznie odparowuje - bezpieczny dla delikatnych powierzchni - neutralny chemicznie wobec materiałów powszechnie stosowanych w elektronice i elektromechanice - usuwa praktycznie wszystkie możliwe zanieczyszczenia z powierzchni optycznych - wysoka czystość pozwala na stosowanie w kosmetyce - łatwo miesza się z wodą i wiąże wodę Zastosowania alkoholu izopropylowego IPA - czyszczenie delikatnych części urządzeń elektronicznych i elektrycznych - idealny do czyszczenia optyki teleskopów, lornetek, lunet, obiektywów aparatów fotograficznych, obiektywów noktowizorów itp - odtłuszczanie oraz usuwania zanieczyszczeń z włókien światłowodowych przed założeniem złączy lub ich spawaniem - czyszczenie czoła ferruli po polerowaniu - regeneracja kartridży do drukarek laserowych oraz atramentowych - pielęgnacja czytników optycznych, mechanizmów i głowic audio / video - czyszczenie tkanin bawełnianych i elementów wykonanych z drewna - czyszczenie atomizerów w e-papierosach - jako dodatek do paliw w celu zwiększenia rozpuszczalności w nich wody - zapobieganie powstawania korków lodowych w przewodach paliwowych - usuwanie środków smarnych i tłuszczy wodoodpornych, w przemyśle drukarskim - czyszczenie okularów i szkieł powiększających - czyszczenie monitorów i ekranów LED, LCD - jako środek dezynfekujący i odkażający W zestawie: - 500ml alkoholu izopropylowego w aerozolu POLECAMY profesjonale BEZPYŁOWE CZYŚCIWA PRZEMYSŁOWE dostępne w naszym sklepie.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 451,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 32.84,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/141000801-alkohol-izopropylowy-izopropanol-ipa-spray-w-aerozolu-500ml-hurtownia-cena-zgora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/141000801-alkohol-izopropylowy-izopropanol-ipa-spray-w-aerozolu-500ml-hurtownia-cena-tanio-zgora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/141000801-ipa-izopropanol-isopropanol-alkohol-izopropylowy-2-propanol-w aerozolu-spray-500ml.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.2.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002534",
+        "Nazwa_Produktu": "Garnek niski Kitchen Line z pokrywką 1,5 l śr. 160 x 75 h - Hendi 836002",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest niskim garnkiem ze stali nierdzewnej z pokrywką. W dostarczonym drzewie kategorii najbardziej precyzyjną kategorią-liściem dla tego produktu jest 'Garnki i patelnie' (ID: 2121) znajdująca się w sekcji 'Przybory kuchenne'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Garnek niski kitchen line z pokrywką 1,5 l śr. 160 x 75 h - hendi 836002",
+                "description": "Kod producenta: 836002 Garnek niski z pokrywką Kitchen Line marki Hendi to uniwersalne akcesorium kuchenne przeznaczone do użytku zarówno w lokalach gastronomicznych, jak i w gospodarstwach domowych na wszystkich rodzajach kuchenek. Kapsułowe, wielowarstwowe dno garnka zapewnia efektywne rozprowadzanie ciepła podczas gotowania. Nowoczesne połączenie surowców zapewnia do 15% oszczędności energii, co gwarantuje efektywne i szybsze gotowanie. Cechy produktu: - Wykonany ze stali nierdzewnej, - Możliwość gotowania na wszystkich rodzajach kuchenek, włącznie z indukcyjną, - Kapsułowe, wielowarstwowe dno zapewniające efektywne rozprowadzanie ciepła, - Bezpieczne użytkowanie dzięki solidnym, nienagrzewającym się stalowym uchwytom, - Nadaje się do mycia w zmywarkach. Parametry techniczne: - Nr katalogowy - 836002 - Seria - Kitchen Line - Stan - Nowy - Materiał dna - Stal nierdzewna 18/10 / Aluminium / Stal nierdzewna - Pojemność - 1,5 l - Grubość ścianki - 0,6 mm - Wymiary - ø 160 x (H) 75 mm W zestawie: - Garnek niski Kitchen Line - Pokrywka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 105.26,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/836002-garnek-niski-kitchen-line-z-pokrywka-1-5-l-ean-8711369836002-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002535",
+        "Nazwa_Produktu": "Garnek niski Kitchen Line z pokrywką 2,9 l śr. 200 x 95 h - Hendi 836019",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest garnkiem kuchennym ze stali nierdzewnej, co w drzewie kategorii OLX odpowiada bezpośrednio kategorii liścia 'Garnki i patelnie' (ID: 2121) w sekcji wyposażenia wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Garnek niski kitchen line z pokrywką 2,9 l śr. 200 x 95 h - hendi 836019",
+                "description": "Kod producenta: Hendi 836019 Garnek niski z pokrywką Kitchen Line marki Hendi to uniwersalne akcesorium kuchenne przeznaczone do użytku zarówno w lokalach gastronomicznych, jak i w gospodarstwach domowych na wszystkich rodzajach kuchenek. Kapsułowe, wielowarstwowe dno garnka zapewnia efektywne rozprowadzanie ciepła podczas gotowania. Cechy i funkcje: - Wykonany ze stali nierdzewnej, - Możliwość gotowania na wszystkich rodzajach kuchenek, włącznie z indukcyjną, - Kapsułowe, wielowarstwowe dno zapewniające efektywne rozprowadzanie ciepła, - Bezpieczne użytkowanie dzięki solidnym, nienagrzewającym się stalowym uchwytom, - Nadaje się do mycia w zmywarkach, Parametry techniczne: - Seria - Kitchen Line - Pojemność - 2,9 l - Materiały - Aluminium, Stal nierdzewna, Stal nierdzewna 18/0 - Grubość ścianki - 0,6 mm - Materiał pokrywki - Stal nierdzewna - Wymiary (Średnica x Wysokość) - ø 200 x 95 mm W zestawie: - Garnek niski Kitchen Line 2,9 l śr. 200 x 95 h - Hendi 836019 - Pokrywka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 134.73,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/836019-1.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002536",
+        "Nazwa_Produktu": "Garnek niski Kitchen Line z pokrywką 4,9 l śr. 240 x 110 h - Hendi 836026",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to garnek kuchenny z pokrywką ze stali nierdzewnej, który posiada dedykowaną i najbardziej specyficzną kategorię 'Garnki i patelnie' w dziale Dom i Ogród.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Garnek niski kitchen line z pokrywką 4,9 l śr. 240 x 110 h - hendi 836026",
+                "description": "Numer producenta: Hendi 836026 Garnek niski z pokrywką Kitchen Line marki Hendi to uniwersalne akcesorium kuchenne przeznaczone do użytku zarówno w lokalach gastronomicznych, jak i w gospodarstwach domowych na wszystkich rodzajach kuchenek. Kapsułowe, wielowarstwowe dno garnka zapewnia efektywne rozprowadzanie ciepła podczas gotowania. Nowoczesne połączenie surowców zapewnia do 15 % oszczędności energii, co gwarantuje efektywne i szybsze gotowanie. Cechy i funkcje: - Wykonany ze stali nierdzewnej, - Możliwość gotowania na wszystkich rodzajach kuchenek, włącznie z indukcyjną, - Kapsułowe, wielowarstwowe dno zapewniające efektywne rozprowadzanie ciepła, - Bezpieczne użytkowanie dzięki solidnym, nienagrzewającym się stalowym uchwytom, - Nadaje się do mycia w zmywarkach, - Wysokiej jakości solidne dno wykonano z wysokogatunkowego aluminium oraz stali nierdzewnej. Parametry techniczne: - Seria - Kitchen Line - Pojemność - 4,9 l - Grubość ścianki - 0,6 mm - Materiał - Aluminium, Stal nierdzewna, Stal nierdzewna 18/0 - Materiał pokrywki - Stal nierdzewna - Wymiary (Średnica x Wysokość) - ø 240 x 110 mm - Waga netto - 1.53 kg W zestawie: - Garnek niski Kitchen Line 4,9 l śr. 240 x 115 h - Hendi 836026 - Pokrywka.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 174.21,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/836026-garnek-niski-kitchen-line-ean-8711369836026-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002537",
+        "Nazwa_Produktu": "Garnek niski Kitchen Line z pokrywką 7.3 l śr. 280 x 120 h - Hendi 836033",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest niskim garnkiem ze stali nierdzewnej z pokrywką, co jednoznacznie klasyfikuje go do kategorii 'Garnki i patelnie' w dziale przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Garnek niski kitchen line z pokrywką 7.3 l śr. 280 x 120 h - hendi 836033",
+                "description": "Kod producenta: 836033 Garnek niski z pokrywką Kitchen Line marki Hendi to uniwersalne akcesorium kuchenne przeznaczone do użytku zarówno w lokalach gastronomicznych, jak i w gospodarstwach domowych na wszystkich rodzajach kuchenek. Kapsułowe, wielowarstwowe dno garnka zapewnia efektywne rozprowadzanie ciepła podczas gotowania. Nowoczesne połączenie surowców zapewnia do 15% oszczędności energii, co gwarantuje efektywniejsze i szybsze gotowanie. Cechy produktu: - Wykonany ze stali nierdzewnej, - Możliwość gotowania na wszystkich rodzajach kuchenek, włącznie z indukcyjną, - Kapsułowe, wielowarstwowe dno zapewniające efektywne rozprowadzanie ciepła, - Bezpieczne użytkowanie dzięki solidnym, nienagrzewającym się stalowym uchwytom, - Nadaje się do mycia w zmywarkach. Parametry techniczne: - Nr katalogowy - 836033 - Seria - Kitchen Line - Stan - Nowy - Materiał dna - Stal nierdzewna 18/10 / Aluminium / Stal nierdzewna - Pojemność - 7,3 l - Grubość ścianki - 0,7 mm - Wymiary - ø 280 x (H) 120 mm W zestawie: - Garnek niski Kitchen Line - Pokrywka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 214.72,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/836033-garnek-niski-kitchen-line-ean-8711369836033-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002539",
+        "Nazwa_Produktu": "Garnek średni Kitchen Line z pokrywką 1,9 l śr. 160 x 95 mm - Hendi 836101",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to garnek kuchenny z pokrywką ze stali nierdzewnej, co jednoznacznie klasyfikuje go do kategorii 'Garnki i patelnie' w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Garnek średni kitchen line z pokrywką 1,9 l śr. 160 x 95 mm - hendi 836101",
+                "description": "Numer producenta: Hendi 836101 Średni garnek z pokrywką o pojemności 1,9 litra z serii Kitchen Line marki Hendi to uniwersalne naczynie, które znajdzie zastosowanie zarówno w domowej kuchni, jak i w branży HoReCa. Charakteryzuje się wysoką jakością wykonania oraz kapsułowym wielowarstwowym dnem (stal nierdzewna 430, aluminium, stal nierdzewna 201). Garnek sprawdzi się na wszystkich rodzajach kuchenek, także na indukcyjnej. Cechy i funkcje: - Wykonanie ze stali nierdzewnej, - Kapsułowe wielowarstwowe dno zapewniające efektywne rozprowadzanie ciepła, - Bezpieczne użytkowanie dzięki solidnym, nienagrzewającym się stalowym uchwytom, - Nadaje się do mycia w zmywarkach. Parametry techniczne: - Seria - Kitchen Line - Pojemność - 1,9 l - Odpowiedni do - Kontakt z żywnością, kuchenka gazowa, kuchenka indukcyjna, kuchenka elektryczna, kuchenka ceramiczna, zmywarka do naczyń - Grubość ścianki - 0,6 mm - Materiał dna - stal nierdzewna/aluminium/stal nierdzewna - Materiał pokrywki - stal nierdzewna - Długość uchwytu - 68 mm - Wymiary (Średnica x Wysokość) - ø160 x 95 mm - Waga netto - 0,74 kg W zestawie: - Garnek - Pokrywka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 112.1,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/836101-garnek-sredni-kitchen-line-ean-8711369836101-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
