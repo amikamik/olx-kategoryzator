@@ -3638,5 +3638,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalna rózga kuchenna marki Hendi o długości 500 mm, co wskazuje na zastosowanie przemysłowe/gastronomiczne (standardowe domowe trzepaczki są znacznie mniejsze). Marka Hendi jest wiodącym dostawcą dla sektora HoReCa, dlatego kategoria Firma i Przemysł > Gastronomia > Pozostałe jest najbardziej adekwatna."
+    },
+    {
+        "ID_Produktu": "1004271",
+        "Nazwa_Produktu": "Stojak na deski do krojenia stal nierdzewna - 6 desek - Hendi 826201",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalne wyposażenie gastronomiczne, co potwierdza opis wspominający o deklaracji zgodności CE niezbędnej dla Sanepidu. Najodpowiedniejszą kategorią dla profesjonalnych akcesoriów kuchennych niewymienionych wprost w drzewie jest 'Pozostałe' w sekcji Gastronomia."
+    },
+    {
+        "ID_Produktu": "1004272",
+        "Nazwa_Produktu": "Szatkownica ręczna do warzyw profesjonalna - Zestaw 5 przystawek typ V- Hendi 222614",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna szatkownica renomowanej marki gastronomicznej Hendi. W drzewie kategorii OLX istnieje dedykowana kategoria 'Szatkownice' w sekcji 'Gastronomia' (Firma i Przemysł), co jest znacznie lepszym dopasowaniem niż ogólne przybory kuchenne, zwłaszcza biorąc pod uwagę profesjonalne przeznaczenie zestawu."
+    },
+    {
+        "ID_Produktu": "1004282",
+        "Nazwa_Produktu": "Pinceta pęseta gastronomiczna ze stali nierdzewnej 300 mm - Hendi 680018",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Stoły gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt marki Hendi opisany jako 'gastronomiczna' wskazuje na profesjonalne wyposażenie kuchni przemysłowej. Najbardziej trafnym wyborem jest kategoria 'Pozostałe' w obrębie działu Gastronomia w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1004287",
+        "Nazwa_Produktu": "Szpatuła grillowa kątowa do steków 305 mm - Hendi 855607",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie określa go jako 'szpatułę grillową', co czyni kategorię 'Grill' (obejmującą urządzenia oraz akcesoria do grillowania) najbardziej trafnym wyborem, mimo profesjonalnego charakteru marki Hendi i możliwości zastosowania w kuchni."
     }
 ]

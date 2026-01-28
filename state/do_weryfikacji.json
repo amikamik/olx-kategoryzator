@@ -248,5 +248,129 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "1004262",
+        "Nazwa_Produktu": "Sito gęste z rączkami ze stali nierdzewnej Profi Line śr. 260 mm - Hendi 637609",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne sitko kuchenne wykonane ze stali nierdzewnej. W strukturze kategorii OLX najlepiej pasuje do ścieżki: Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki (ID: 2132).",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1004263",
+        "Nazwa_Produktu": "Sito profesjonalne z podwójną siatką stalowe śr. 260 mm - Hendi 639009",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest sitkiem stalowym (sito), a kategoria 'Sitka i cedzaki' (2132) jest najbardziej specyficzną i bezpośrednią kategorią dla tego typu przyborów kuchennych w drzewie OLX.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1004264",
+        "Nazwa_Produktu": "Sitko profesjonalne z podwójną siatką stalowe śr. 310 mm - Hendi 639016",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne sitko kuchenne marki Hendi. W drzewie kategorii OLX najbardziej specyficzną kategorią dla tego przedmiotu jest 'Sitka i cedzaki' (ID: 2132), znajdująca się w sekcji przyborów kuchennych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1004265",
+        "Nazwa_Produktu": "Sito profesjonalne z podwójną siatką stalowe śr. 360 mm - Hendi 639023",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sito stalowe (utensylium kuchenne). Kategoria 'Sitka i cedzaki' (ID: 2132) jest najbardziej precyzyjnym dopasowaniem funkcyjnym w całym drzewie kategorii, obejmującym zarówno akcesoria domowe, jak i profesjonalne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1004266",
+        "Nazwa_Produktu": "Sito chińskie stożkowe z gęstą siatką ze stali śr.180mm- Hendi 647509",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sito chińskie (rodzaj sitka kuchennego), które idealnie pasuje do najbardziej szczegółowej kategorii 'Sitka i cedzaki' (ID: 2132) znajdującej się w sekcji przyborów kuchennych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1004267",
+        "Nazwa_Produktu": "Sito chińskie stożkowe z gęstą siatką ze stali śr. 160mm - Hendi 647516",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest sitkiem kuchennym, co wprost odpowiada kategorii liściastej 'Sitka i cedzaki' (ID: 2132) w sekcji Przyborów kuchennych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1004268",
+        "Nazwa_Produktu": "Sito chińskie stożkowe z gęstą siatką ze stali śr. 205mm - Hendi 647554",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne sito stożkowe (tzw. chińskie), które jednoznacznie kwalifikuje się do kategorii akcesoriów kuchennych przeznaczonych do przesiewania i odcedzania.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1004269",
+        "Nazwa_Produktu": "Sito chińskie stożkowe z gęstą siatką ze stali śr. 245mm - Hendi 647561",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne sito stożkowe (chińskie), które w drzewie kategorii OLX najlepiej pasuje do podkategorii 'Sitka i cedzaki' znajdującej się w 'Przyborach kuchennych'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1004288",
+        "Nazwa_Produktu": "Szpatuła grillowa kątowa wąska ze stali nierdzewnej 254mm - Hendi 855683",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "1004290",
+        "Nazwa_Produktu": "Szpatuła do masy cukierniczej wąska 203mm - Hendi 855690",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara porcelana > Cukiernice",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]

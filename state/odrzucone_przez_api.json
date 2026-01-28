@@ -5071,5 +5071,374 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004259",
+        "Nazwa_Produktu": "Sito gęste z rączkami ze stali nierdzewnej Profi Line śr. 200 mm - Hendi 637302",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne sito kuchenne ze stali nierdzewnej, które idealnie pasuje do liścia kategorii 'Sitka i cedzaki' w dziale wyposażenia wnętrz i przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito gęste z rączkami ze stali nierdzewnej profi line śr. 200 mm - hendi 637302",
+                "description": "Numer producenta: 637302 Profesjonalne sito z linii Profi Line marki HENDI wykonane z wysokiej jakości stali nierdzewnej próby 18/10 dopuszczonej do kontaktu z żywnością. Uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Dwa wygodne zaczepy na obwodzie sitka umożliwiają zawieszenie na naczyniu. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Sitko jest uniwersalne, znajdzie zastosowanie do przesiewania, osuszania żywności podczas gotowania, a także do oddzielania cieczy i ciał stałych. Parametry: - średnica: 200 mm - długość: 360 mm W zestawie: - sitko\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 50.51,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637302-hendi-sito-geste-z-raczkami-ze-stali-nierdzewnej-profi-line-sr-200-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637104-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637104-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004260",
+        "Nazwa_Produktu": "Sito gęste z rączkami ze stali nierdzewnej Profi Line śr. 220 mm - Hendi 637401",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sito kuchenne marki Hendi, przeznaczone do przesiewania i osuszania żywności. Idealnie pasuje do kategorii 'Sitka i cedzaki' w dziale przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito gęste z rączkami ze stali nierdzewnej profi line śr. 220 mm - hendi 637401",
+                "description": "Numer producenta: 637401 Profesjonalne sito z linii Profi Line marki HENDI wykonane z wysokiej jakości stali nierdzewnej próby 18/10 dopuszczonej do kontaktu z żywnością. Uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Dwa wygodne zaczepy na obwodzie sitka umożliwiają zawieszenie na naczyniu. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Sitko jest uniwersalne, znajdzie zastosowanie do przesiewania, osuszania żywności podczas gotowania, a także do oddzielania cieczy i ciał stałych. Parametry: - średnica: 220 mm - długość: 380 mm W zestawie: - sitko\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 56.99,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/637401-hendi-sito-geste-z-raczkami-ze-stali-nierdzewnej-profi-line-sr-220-mm-hurtownia-sklep-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637104-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637104-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637401-hendi-sito-geste-z-raczkami-ze-stali-nierdzewnej-profi-line-sr-220-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004261",
+        "Nazwa_Produktu": "Sito gęste z rączkami ze stali nierdzewnej Profi Line śr. 240 mm - Hendi 637500",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sito kuchenne marki Hendi przeznaczone do kontaktu z żywnością. Najbardziej precyzyjną kategorią w drzewie jest 'Sitka i cedzaki' znajdująca się w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito gęste z rączkami ze stali nierdzewnej profi line śr. 240 mm - hendi 637500",
+                "description": "Numer producenta: 637500 Profesjonalne sito z linii Profi Line marki HENDI wykonane z wysokiej jakości stali nierdzewnej próby 18/10 dopuszczonej do kontaktu z żywnością. Uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Dwa wygodne zaczepy na obwodzie sitka umożliwiają zawieszenie na naczyniu. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Sitko jest uniwersalne, znajdzie zastosowanie do przesiewania, osuszania żywności podczas gotowania, a także do oddzielania cieczy i ciał stałych. Parametry: - średnica: 240 mm - długość: 410 mm W zestawie: - sitko\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 60.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637500-hendi-sito-geste-z-raczkami-ze-stali-nierdzewnej-profi-line-sr-240-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637104-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637104-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004276",
+        "Nazwa_Produktu": "Szczypce do serwowania ze stali nierdzewnej dł. 240 mm 2 szt. - Hendi 171028",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Szczypce do serwowania są klasyfikowane jako przybory kuchenne. W wybranym drzewie kategorii w sekcji 'Przybory kuchenne' (2113) nie istnieje specyficzna podkategoria dla szczypiec, dlatego najbardziej precyzyjnym wyborem jest kategoria 'Pozostałe' (2127) na najniższym poziomie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szczypce do serwowania ze stali nierdzewnej dł. 240 mm 2 szt. - hendi 171028",
+                "description": "Numer producenta: 171028 Szczypce do serwowania wykonane zostały z wysokiej jakości stali nierdzewnej. Znajdą zastosowanie w cukierniach, piekarniach, a także zapewnią wygodę podczas grillowania i prac na ruszcie. Produkt przystosowany do mycia w zmywarce. Parametry: - długość: 240mm W zestawie: - szczypce do grilla (2 szt.) - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 49.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/171028-hendi-szczypce-do-serwowania-ze-stali-nierdzewnej-dl-240-mm-2-szt-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004277",
+        "Nazwa_Produktu": "Szczypce do serwowania ze stali nierdzewnej dł. 300 mm 2 szt. - Hendi 171127",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uniwersalne szczypce do serwowania i grillowania wykonane ze stali nierdzewnej. Najlepiej pasują do kategorii Przybory kuchenne (ID: 2113) w sekcji Dom i Ogród. Ponieważ w drzewie nie ma specyficznej podkategorii dla szczypiec, właściwym wyborem jest kategoria-liść 'Pozostałe' (ID: 2127) w obrębie przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szczypce do serwowania ze stali nierdzewnej dł. 300 mm 2 szt. - hendi 171127",
+                "description": "Numer producenta: 171127 Szczypce do serwowania wykonane zostały z wysokiej jakości stali nierdzewnej. Znajdą zastosowanie w cukierniach, piekarniach, a także zapewnią wygodę podczas grillowania i prac na ruszcie. Produkt przystosowany do mycia w zmywarce. Parametry: - długość: 300 mm W zestawie: - szczypce do grilla (2 szt.) - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 54.83,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/171127-hendi-szczypce-do-serwowania-ze-stali-nierdzewnej-dl-300-mm-2-szt-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004285",
+        "Nazwa_Produktu": "Szpachelka kuchenna ze stali nierdzewnej z drewnianym uchwytem brązowa - Hendi 855119",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to szpachelka kuchenna służąca do obróbki żywności (smażenia, przewracania, siekania). W drzewie kategorii OLX przybory tego typu znajdują się w sekcji Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne. Ze względu na brak dedykowanej podkategorii dla łopatek lub szpachelek, kategoria 'Pozostałe' (ID 2127) w obrębie przyborów kuchennych jest najbardziej precyzyjnym wyborem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szpachelka kuchenna ze stali nierdzewnej z drewnianym uchwytem brązowa - hendi 855119",
+                "description": "Numer producenta: 855119 Szpachelka wykonana z wysokiej jakości stali nierdzewnej, odpornej na uszkodzenia mechaniczne. Rączka szpachelki posiada drewniany uchwyt, dzięki któremu jest on ciepły i przyjemny w dotyku. Doskonale nada się do lodów tajskich, smażenia, przewracania potraw. Ostre brzegi umożliwiają siekanie potraw w trakcie obróbki cieplnej. Z uwagi na drewnianą rączkę produktu nie należy myć w zmywarce oraz poddawać na dłuższe działanie ciepła czy wody, a także stosować agresywnych detergentów. Parametry: - wymiary:118x100 mm - długość: 251 mm W zestawie: - szpachelka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 39.72,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/855119.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
