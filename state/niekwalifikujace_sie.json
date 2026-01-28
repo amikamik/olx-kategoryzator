@@ -3588,5 +3588,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to ręczny obierak (peeler), który funkcjonalnie jest narzędziem tnącym i zgodnie z taksonomią platformy najlepiej pasuje do kategorii noży i przyborów kuchennych w dziale Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "1004204",
+        "Nazwa_Produktu": "Listwa do bonowania zamówień aluminium dł. 600 mm - Hendi 513705",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Kierownice i mostki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to listwa do bonowania (uchwyt na zamówienia) marki Hendi, która jest profesjonalnym dostawcą dla branży gastronomicznej. Ze względu na przeznaczenie do użytku w restauracjach, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia, a z braku specyficznej podkategorii dla akcesoriów kuchennych, wybór pada na 'Pozostałe' w tym dziale."
+    },
+    {
+        "ID_Produktu": "1004214",
+        "Nazwa_Produktu": "Chochla HACCP ze stali Kitchen Line 0.05 l - Hendi 527108",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne akcesorium marki Hendi, która jest wiodącym producentem sprzętu dla branży gastronomicznej. Opis wyraźnie wskazuje na zgodność ze standardami HACCP oraz przeznaczenie dla branży HoReCa. Ze względu na profesjonalny charakter produktu, najlepiej pasuje on do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
     }
 ]

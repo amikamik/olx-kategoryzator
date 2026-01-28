@@ -3631,5 +3631,63 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004213",
+        "Nazwa_Produktu": "Łyżka do serwowania HACCP ze stali Kitchen Line dł. 325 mm - Hendi 526309",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to łyżka do serwowania wykonana ze stali nierdzewnej, będąca akcesorium kuchennym. W drzewie kategorii pod 'Przybory kuchenne' nie występuje dedykowana kategoria dla łyżek, dlatego najlepszym wyborem jest kategoria 'Pozostałe' (leaf) w tej sekcji.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Łyżka do serwowania haccp ze stali kitchen line dł. 325 mm - hendi 526309",
+                "description": "Numer producenta: 526309 Łyżka do serwowania z linii Kitchen Line marki HENDI idealna do serwowania dań zarówno ciepłych, jak i zimnych. Wykonana została z jednego kawałka stali nierdzewnej, dzięki czemu spełnia wymogi HACCP, dodatkowo pozbawiona jest spawów i zgięć, gwarantując wysoką jakość wykonania. Jednolity uchwyt zakończony jest w sposób umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu tak, aby zawsze mieć go pod ręką. Produkt przystosowany jest do mycia w zmywarce. Świetnie sprawdzi się w branży HoReCa, a także w domowej kuchni. Parametry: - długość: 325 mm W zestawie: - łyżka do serwowania\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/526309-hendi-lyzka-do-serwowania-haccp-ze-stali-kitchen-line-dl-325-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
