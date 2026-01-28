@@ -4498,5 +4498,578 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004248",
+        "Nazwa_Produktu": "Sito chińskie stożkowe cedzak ze stali nierdzewnej śr. 235 mm - Hendi 547502",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sito chińskie, czyli specjalistyczny rodzaj cedzaka kuchennego. Najdokładniejszą kategorią liściem dla tego przedmiotu jest 'Sitka i cedzaki' znajdująca się w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito chińskie stożkowe cedzak ze stali nierdzewnej śr. 235 mm - hendi 547502",
+                "description": "Numer producenta: 547502 Profesjonalne sito chińskie wykonane z wysokiej jakości stali nierdzewnej próby 18/10 dopuszczonej do kontaktu z żywnością. Druciany uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Produkt przystosowany do mycia w zmywarce Parametry: - średnica: 235 mm - długość: 395 mm W zestawie: - sito chińskie - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 129.11,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/547502-hendi-sito-chinskie-stozkowe-cedzak-ze-stali-nierdzewnej-sr-235-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/547304-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004251",
+        "Nazwa_Produktu": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 120 mm - Hendi 635001",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stalowe sitko kuchenne przeznaczone do kontaktu z żywnością. Najbardziej precyzyjną kategorią dla tego przedmiotu w drzewie OLX jest 'Sitka i cedzaki' znajdująca się w sekcji Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 120 mm - hendi 635001",
+                "description": "Numer producenta: 635001 Profesjonalne sito z linii Kitchen Line marki HENDI wykonane z wysokiej jakości stali ocynkowanej dopuszczonej do kontaktu z żywnością. Uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Dwa wygodne zaczepy na obwodzie sitka umożliwiają zawieszenie na naczyniu. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Sitko jest uniwersalne, znajdzie zastosowanie do przesiewania, osuszania żywności podczas gotowania, a także do oddzielania cieczy i ciał stałych. Parametry: - średnica: 120 mm - długość: 280 mm W zestawie: - sitko\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.0,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-hendi-sito-sitko-geste-stalowe-do-przecedzania-i-przecierania-sr-120-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004252",
+        "Nazwa_Produktu": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 160 mm - Hendi 635155",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne sitko kuchenne służące do przecedzania żywności, co idealnie dopasowuje go do specyficznej kategorii 'Sitka i cedzaki' znajdującej się w sekcji 'Przybory kuchenne'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 160 mm - hendi 635155",
+                "description": "Numer producenta: 635155 Profesjonalne sito z linii Kitchen Line marki HENDI wykonane z wysokiej jakości stali ocynkowanej dopuszczonej do kontaktu z żywnością. Uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Dwa wygodne zaczepy na obwodzie sitka umożliwiają zawieszenie na naczyniu. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Sitko jest uniwersalne, znajdzie zastosowanie do przesiewania, osuszania żywności podczas gotowania, a także do oddzielania cieczy i ciał stałych. Parametry: - średnica: 160 mm - długość: 320 mm W zestawie: - sitko\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635155-hendi-sito-sitko-geste-stalowe-do-przecedzania-i-przecierania-sr-160-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004253",
+        "Nazwa_Produktu": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 180 mm - Hendi 635209",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stalowe sitko kuchenne przeznaczone do przecedzania i przecierania, co idealnie pasuje do kategorii 'Sitka i cedzaki' w dziale przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 180 mm - hendi 635209",
+                "description": "Numer producenta: 635209 Profesjonalne sito z linii Kitchen Line marki HENDI wykonane z wysokiej jakości stali ocynkowanej dopuszczonej do kontaktu z żywnością. Uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Dwa wygodne zaczepy na obwodzie sitka umożliwiają zawieszenie na naczyniu. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Sitko jest uniwersalne, znajdzie zastosowanie do przesiewania, osuszania żywności podczas gotowania, a także do oddzielania cieczy i ciał stałych. Parametry: - średnica: 180 mm - długość: 340 mm W zestawie: - sitko\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.4,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635209-hendi-sito-sitko-geste-stalowe-do-przecedzania-i-przecierania-sr-180-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004254",
+        "Nazwa_Produktu": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 200 mm - Hendi 635308",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sitko kuchenne (gastronomiczne), które posiada dedykowaną kategorię liścia 'Sitka i cedzaki' w sekcji wyposażenia kuchni.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 200 mm - hendi 635308",
+                "description": "Numer producenta: 635308 Profesjonalne sito z linii Kitchen Line marki HENDI wykonane z wysokiej jakości stali ocynkowanej dopuszczonej do kontaktu z żywnością. Uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Dwa wygodne zaczepy na obwodzie sitka umożliwiają zawieszenie na naczyniu. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Sitko jest uniwersalne, znajdzie zastosowanie do przesiewania, osuszania żywności podczas gotowania, a także do oddzielania cieczy i ciał stałych. Parametry: - średnica: 200 mm - długość: 360 mm W zestawie: - sitko\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 37.56,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635308-hendi-sito-sitko-geste-stalowe-do-przecedzania-i-przecierania-sr-200-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004255",
+        "Nazwa_Produktu": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 230 mm - Hendi 635407",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stalowe sitko kuchenne przeznaczone do przecedzania i przecierania żywności. Kategoria 'Sitka i cedzaki' (ID 2132) w sekcji 'Przybory kuchenne' jest najbardziej precyzyjną kategorią-liściem dla tego typu asortymentu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 230 mm - hendi 635407",
+                "description": "Numer producenta: 635407 Profesjonalne sito z linii Kitchen Line marki HENDI wykonane z wysokiej jakości stali ocynkowanej dopuszczonej do kontaktu z żywnością. Uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Dwa wygodne zaczepy na obwodzie sitka umożliwiają zawieszenie na naczyniu. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Sitko jest uniwersalne, znajdzie zastosowanie do przesiewania, osuszania żywności podczas gotowania, a także do oddzielania cieczy i ciał stałych. Parametry: - średnica: 230 mm - długość: 400 mm W zestawie: - sitko\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 39.72,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635407-hendi-sito-sitko-geste-stalowe-do-przecedzania-i-przecierania-sr-230-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004256",
+        "Nazwa_Produktu": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 250 mm - Hendi 635605",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stalowe sitko kuchenne marki Hendi. Najbardziej precyzyjną kategorią dla tego typu przedmiotu w drzewie kategorii OLX jest 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki' (ID 2132).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito sitko gęste stalowe do przecedzania i przecierania śr. 250 mm - hendi 635605",
+                "description": "Numer producenta: 635605 Profesjonalne sito z linii Kitchen Line marki HENDI wykonane z wysokiej jakości stali ocynkowanej dopuszczonej do kontaktu z żywnością. Uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Dwa wygodne zaczepy na obwodzie sitka umożliwiają zawieszenie na naczyniu. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Sitko jest uniwersalne, znajdzie zastosowanie do przesiewania, osuszania żywności podczas gotowania, a także do oddzielania cieczy i ciał stałych. Parametry: - średnica: 250 mm - długość: 435 mm W zestawie: - sitko\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 48.35,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635605-hendi-sito-sitko-geste-stalowe-do-przecedzania-i-przecierania-sr-250-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/635001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004257",
+        "Nazwa_Produktu": "Sito gęste z rączkami ze stali nierdzewnej Profi Line śr. 160 mm - Hendi 637104",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczne sito kuchenne (akcesorium gastronomiczne), które idealnie pasuje do kategorii 'Sitka i cedzaki' znajdującej się w przyborach kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito gęste z rączkami ze stali nierdzewnej profi line śr. 160 mm - hendi 637104",
+                "description": "Numer producenta: 637104 Profesjonalne sito z linii Profi Line marki HENDI wykonane z wysokiej jakości stali nierdzewnej próby 18/10 dopuszczonej do kontaktu z żywnością. Uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Dwa wygodne zaczepy na obwodzie sitka umożliwiają zawieszenie na naczyniu. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Sitko jest uniwersalne, znajdzie zastosowanie do przesiewania, osuszania żywności podczas gotowania, a także do oddzielania cieczy i ciał stałych. Parametry: - średnica: 160 mm - długość: 305 mm W zestawie: - sitko\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 37.56,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637104-hendi-sito-geste-z-raczkami-ze-stali-nierdzewnej-profi-line-sr-160-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637104-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637104-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004258",
+        "Nazwa_Produktu": "Sito gęste z rączkami ze stali nierdzewnej Profi Line śr. 180 mm - Hendi 637203",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne sitko kuchenne wykonane ze stali nierdzewnej, co jednoznacznie klasyfikuje go do kategorii 'Sitka i cedzaki' (ID: 2132). Podpowiedź systemowa dotycząca narzędzi ręcznych jest błędna, ponieważ Hendi to marka sprzętu gastronomicznego, a produkt służy do kontaktu z żywnością.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito gęste z rączkami ze stali nierdzewnej profi line śr. 180 mm - hendi 637203",
+                "description": "Numer producenta: 637203 Profesjonalne sito z linii Profi Line marki HENDI wykonane z wysokiej jakości stali nierdzewnej próby 18/10 dopuszczonej do kontaktu z żywnością. Uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Dwa wygodne zaczepy na obwodzie sitka umożliwiają zawieszenie na naczyniu. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Sitko jest uniwersalne, znajdzie zastosowanie do przesiewania, osuszania żywności podczas gotowania, a także do oddzielania cieczy i ciał stałych. Parametry: - średnica: 180 mm - długość: 325 mm W zestawie: - sitko\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 45.11,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637203-hendi-sito-geste-z-raczkami-ze-stali-nierdzewnej-profi-line-sr-180-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637104-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/637104-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
