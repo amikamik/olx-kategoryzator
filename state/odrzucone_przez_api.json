@@ -938,5 +938,130 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002555",
+        "Nazwa_Produktu": "Rondel Kitchen Line do smażenia bez pokrywki 1 l śr. 160 mm - Hendi 839300",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rondel (rodzaj garnka) wykonany ze stali nierdzewnej, przeznaczony do smażenia i gotowania na różnych typach kuchenek, co jednoznacznie klasyfikuje go do kategorii 'Garnki i patelnie'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rondel kitchen line do smażenia bez pokrywki 1 l śr. 160 mm - hendi 839300",
+                "description": "Numer producenta: 839300 Rondel do smażenia bez pokrywki z serii Kitchen Line marki Hendi Cechy produktu: - Kapsułowe dno wielowarstwowe łączy w sobie właściwości aluminium w zakresie rozprowadzania ciepła z trwałością i właściwościami magnetycznymi stali nierdzewnej umożliwiającymi gotowanie indukcyjne, - Wykonany ze stali nierdzewnej - Powierzchnia zewnętrzna w całości satynowana, - Długi niewypełniony, nienagrzewający się uchwyt ze stali nierdzewnej, - Do kuchenek ceramicznych, elektrycznych, gazowych, indukcyjnych - Można myć w zmywarce Parametry techniczne: - Grubość ścianki: 0,6 mm - Średnica: 160 mm - Wysokość: 60 mm - Pojemność: 1,2 l W zestawie: - Rondel\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 84.2,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/839300-hendi-rondel-kitchen-line-do-smazenia-bez-pokrywki-sr-160-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/839300-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002556",
+        "Nazwa_Produktu": "Rondel Kitchen Line do smażenia bez pokrywki 1,6 L śr. 200 mm - Hendi 839409",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny rondel (naczynie kuchenne łączące cechy garnka i patelni), który bezsprzecznie należy do kategorii 'Garnki i patelnie' w dziale 'Wyposażenie wnętrz'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rondel kitchen line do smażenia bez pokrywki 1,6 l śr. 200 mm - hendi 839409",
+                "description": "Numer producenta: Hendi 839409 Profesjonalny rondel do smażenia o pojemności 1,6 litra z serii Kitchen Line marki Hendi to uniwersalne naczynie, które znajdzie zastosowanie zarówno w profesjonalnej kuchni, jak i w prywatnych domach. Charakteryzuje się wykonaniem z wysokiej jakości stali nierdzewnej i kapsułowym dnem typu sandwich. Cechy i funkcje: - wykonany ze stali nierdzewnej, - długi, niewypełniony uchwyt ze stali nierdzewnej, - kapsułowe dno typu sandwich (stal nierdzewna-aluminium-stal magnetyczna), - łączy w sobie właściwości aluminium w zakresie rozprowadzania ciepła z trwałością i właściwościami magnetycznymi stali nierdzewnej umożliwiającymi gotowanie indukcyjne, - dno formowane w technologii impact bonding zapewnia idealne łączenie warstw gwarantując odporność na korozję i umożliwia lepszy transfer ciepła, - powierzchnia zewnętrzna w całości satynowana, - można stosować do wszystkich typów kuchni, również kuchenek indukcyjnych. Parametry techniczne: - Seria - Kitchen Line - Pojemność - 1,6 l - Materiał wewnętrzny rondla - stal nierdzewna - Grubość ścianki - 0,6 mm - Materiał dna - magnetyczna stal nierdzewna/aluminium/stal nierdzewna - Wymiary (Średnica x Wysokość) - ø200 x 75 mm W zestawie: - rondel Kitchen Line do smażenia bez pokrywki 1,6 śr. 200 mm - Hendi 839409\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 99.01,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/839409-hendi-rondel-kitchen-line-do-smazenia-bez-pokrywki-sr-200-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/839300-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/839300-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

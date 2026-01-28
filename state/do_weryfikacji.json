@@ -8,5 +8,15 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "1002822",
+        "Nazwa_Produktu": "Garnek wysoki Profi Line z pokrywką dno Sandwich 3 l śr. 160 x 150 h - Hendi 832004",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
     }
 ]

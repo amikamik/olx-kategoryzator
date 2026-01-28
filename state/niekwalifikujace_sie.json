@@ -798,5 +798,135 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Alkohol izopropylowy (IPA) jest profesjonalnym rozpuszczalnikiem i środkiem odtłuszczającym. W systemie kategoryzacji OLX preparaty chemiczne służące do przygotowania i odtłuszczania powierzchni, takie jak rozpuszczalniki czy benzyny techniczne, są przypisywane do kategorii Akcesoria malarskie, co potwierdza również wskazówka systemowa."
+    },
+    {
+        "ID_Produktu": "1002551",
+        "Nazwa_Produktu": "Patelnia Kitchen Line bez pokrywki śr. 320 mm - Hendi 838617",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to patelnia marki Hendi, która specjalizuje się w profesjonalnym osprzęcie gastronomicznym. Choć może być używana w domu, jej parametry i opis wyraźnie wskazują na przeznaczenie do profesjonalnej kuchni, co czyni kategorię 'Patelnie gastronomiczne' najbardziej specyficzną."
+    },
+    {
+        "ID_Produktu": "1002568",
+        "Nazwa_Produktu": "Patelnia Profi Line bez pokrywki 2 l śr. 240 mm - Hendi 835432",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna patelnia marki Hendi z serii Profi Line, dedykowana dla branży HoReCa i profesjonalnych kuchni, co czyni kategorię 'Patelnie gastronomiczne' w sekcji 'Firma i Przemysł' najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1002569",
+        "Nazwa_Produktu": "Patelnia Profi Line bez pokrywki 3.6 l śr 280 mm - Hendi 835531",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wybrana kategoria jest najbardziej specyficzna dla tego produktu, ponieważ marka Hendi oraz linia Profi Line są dedykowane przede wszystkim dla profesjonalnej branży gastronomicznej (HoReCa), a kategoria 'Patelnie gastronomiczne' (5056) precyzyjniej określa charakter naczynia niż ogólna kategoria domowa."
+    },
+    {
+        "ID_Produktu": "1002570",
+        "Nazwa_Produktu": "Patelnia Profi Line bez pokrywki 4.8 l śr. 320 mm - Hendi 835630",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalną patelnią marki Hendi z serii Profi Line, przeznaczoną głównie dla branży HoReCa i kuchni profesjonalnych, co wskazuje na kategorię 'Patelnie gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1002571",
+        "Nazwa_Produktu": "Patelnia nieprzywierająca Profi Line bez pokrywki 2 l śr. 240 mm - Hendi 835401",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna patelnia marki Hendi, która jest wiodącym dostawcą sprzętu dla branży gastronomicznej. Kategoria 'Patelnie gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej precyzyjnym wyborem dla naczynia z linii Profi Line o parametrach przemysłowych."
+    },
+    {
+        "ID_Produktu": "1002829",
+        "Nazwa_Produktu": "Patelnia aluminiowa z marmurkową powłoką nieprzywierającą śr. 200 mm - Hendi 627600",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna patelnia marki Hendi z serii Marble Professional, przeznaczona głównie do użytku w restauracjach i punktach gastronomicznych, co czyni kategorię 'Patelnie gastronomiczne' w sekcji 'Firma i Przemysł' najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1002830",
+        "Nazwa_Produktu": "Patelnia aluminiowa z marmurkową powłoką nieprzywierającą śr. 240 mm - Hendi 627617",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to patelnia marki Hendi, która jest wyspecjalizowanym producentem sprzętu dla profesjonalistów. Opis wyraźnie wskazuje na zastosowanie w restauracjach i hotelach, co czyni kategorię 'Patelnie gastronomiczne' w sekcji 'Firma i Przemysł' bardziej precyzyjną od ogólnej kategorii domowej."
+    },
+    {
+        "ID_Produktu": "1002832",
+        "Nazwa_Produktu": "Patelnia aluminiowa z marmurkową powłoką nieprzywierającą śr. 320 mm - Hendi 627631",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna patelnia marki Hendi, która zgodnie z opisem jest dedykowana do użytku w restauracjach i punktach gastronomicznych, co idealnie dopasowuje ją do kategorii patelni gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1002835",
+        "Nazwa_Produktu": "Patelnia aluminiowa z marmurkowa powłoką nieprzywierającą śr. 260 mm - Hendi 627662",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna patelnia marki Hendi z serii Marble Professional, która zgodnie z opisem jest przeznaczona do użytku w restauracjach i punktach gastronomicznych. Najlepiej pasuje do kategorii specjalistycznego sprzętu gastronomicznego dla firm."
+    },
+    {
+        "ID_Produktu": "1002838",
+        "Nazwa_Produktu": "Patelnia Wok Marble Professional 3 L śr. 280 - Hendi 627730",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna patelnia typu wok marki Hendi, która jest wiodącym producentem wyposażenia dla branży HoReCa. Opis wyraźnie wskazuje na zastosowanie w restauracjach i hotelach, co decyduje o przypisaniu jej do kategorii 'Patelnie gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1002840",
+        "Nazwa_Produktu": "Patelnia do paelli 340x40 mm - Hendi 622100",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna patelnia marki Hendi, a opis wyraźnie wskazuje na jej przeznaczenie do użytku w profesjonalnych kuchniach, restauracjach i zakładach gastronomicznych. Dlatego najbardziej specyficzną kategorią jest 'Patelnie gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1002841",
+        "Nazwa_Produktu": "Patelnia do paelli 460x40mm - Hendi 622308",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna patelnia do paelli marki Hendi, która w opisie jest wyraźnie dedykowana dla restauracji i zakładów gastronomicznych, dlatego kategoria 'Patelnie gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej precyzyjna."
+    },
+    {
+        "ID_Produktu": "1002846",
+        "Nazwa_Produktu": "Patelnia do paelli emaliowana śr. 15 cm - Hendi 622728",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna patelnia marki Hendi, przeznaczona do użytku w branży HoReCa (restauracje, hotele), co wprost wskazuje na kategorię 'Patelnie gastronomiczne' w dziale 'Firma i Przemysł'."
     }
 ]
