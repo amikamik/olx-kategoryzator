@@ -3750,5 +3750,533 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004226",
+        "Nazwa_Produktu": "Łyżka cedzakowa HACCP ze stali nierdzewnej Profi Line śr. 100 - Hendi 541203",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to łyżka cedzakowa, która idealnie pasuje do kategorii 'Sitka i cedzaki' (ID: 2132). Mimo profesjonalnego charakteru marki Hendi, w strukturze OLX akcesoria tego typu kategoryzuje się w dziale wyposażenia kuchni.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Łyżka cedzakowa haccp ze stali nierdzewnej profi line śr. 100 - hendi 541203",
+                "description": "Numer producenta: 541203 Łyżka cedzakowa z linii Profi Line marki HENDI idealna do odcedzania potraw z wody, czy tłuszczu. Wykonana została z jednego kawałka stali nierdzewnej próby 18/10, dzięki czemu spełnia wymogi HACCP, dodatkowo pozbawiona jest spawów i zgięć, gwarantując wysoką jakość wykonania. Jednolity uchwyt zakończony jest w sposób umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu tak, aby zawsze mieć go pod ręką. Produkt przystosowany jest do mycia w zmywarce. Świetnie sprawdzi się w branży HoReCa, a także w domowej kuchni. Parametry: - średnica: 100 mm - długość: 400 mm W zestawie: - łyżka cedzakowa\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 48.35,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/541203-hendi-lyzka-cedzakowa-haccp-ze-stali-nierdzewnej-profi-line-sr-100-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/541104-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004227",
+        "Nazwa_Produktu": "Łyżka cedzakowa HACCP ze stali nierdzewnej Profi Line śr. 120 - Hendi 541302",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to łyżka cedzakowa, co bezpośrednio odpowiada nazwie kategorii 'Sitka i cedzaki' w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Łyżka cedzakowa haccp ze stali nierdzewnej profi line śr. 120 - hendi 541302",
+                "description": "Numer producenta: 541302 Łyżka cedzakowa z linii Profi Line marki HENDI idealna do odcedzania potraw z wody, czy tłuszczu. Wykonana została z jednego kawałka stali nierdzewnej próby 18/10, dzięki czemu spełnia wymogi HACCP, dodatkowo pozbawiona jest spawów i zgięć, gwarantując wysoką jakość wykonania. Jednolity uchwyt zakończony jest w sposób umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu tak, aby zawsze mieć go pod ręką. Produkt przystosowany jest do mycia w zmywarce. Świetnie sprawdzi się w branży HoReCa, a także w domowej kuchni. Parametry: - średnica: 120 mm - długość: 460 mm W zestawie: - łyżka cedzakowa\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 56.99,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/541302-hendi-lyzka-cedzakowa-haccp-ze-stali-nierdzewnej-profi-line-sr-120-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/541104-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004228",
+        "Nazwa_Produktu": "Łyżka cedzakowa HACCP ze stali nierdzewnej Profi Line śr. 160 - Hendi 541500",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to łyżka cedzakowa, która bezpośrednio pasuje do kategorii 'Sitka i cedzaki' znajdującej się w przyborach kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Łyżka cedzakowa haccp ze stali nierdzewnej profi line śr. 160 - hendi 541500",
+                "description": "Numer producenta: 541500 Łyżka cedzakowa z linii Profi Line marki HENDI idealna do odcedzania potraw z wody, czy tłuszczu. Wykonana została z jednego kawałka stali nierdzewnej próby 18/10, dzięki czemu spełnia wymogi HACCP, dodatkowo pozbawiona jest spawów i zgięć, gwarantując wysoką jakość wykonania. Jednolity uchwyt zakończony jest w sposób umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu tak, aby zawsze mieć go pod ręką. Produkt przystosowany jest do mycia w zmywarce. Świetnie sprawdzi się w branży HoReCa, a także w domowej kuchni. Parametry: - średnica: 160 mm - długość: 530 mm W zestawie: - łyżka cedzakowa\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 77.19,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/541500-hendi-lyzka-cedzakowa-haccp-ze-stali-nierdzewnej-profi-line-sr-160-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/541104-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004230",
+        "Nazwa_Produktu": "Łyżka do serwowania ze stali nierdzewnej Profi Line dł. 480 mm - Hendi 542507",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna łyżka do serwowania marki Hendi o długości 48 cm. Ze względu na jej wymiary (przeznaczenie do głębokich garnków gastronomicznych) oraz profesjonalną linię Profi Line, produkt jest klasyfikowany jako przybór kuchenny (narzędzie pracy), a nie standardowy element zastawy stołowej (sztućce). Kategoria 'Przybory kuchenne > Pozostałe' jest najbardziej precyzyjna dla tego typu akcesoriów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Łyżka do serwowania ze stali nierdzewnej profi line dł. 480 mm - hendi 542507",
+                "description": "Numer producenta: 542507 Łyżka do serwowania z linii Profi Line marki HENDI idealna do podawania zarówno gorących, jak i zimnych dań. Wykonana została z jednego kawałka stali nierdzewnej próby 18/10, dzięki czemu spełnia wymogi HACCP, dodatkowo pozbawiona jest spawów i zgięć, gwarantując wysoką jakość wykonania. Jednolity uchwyt zakończony jest w sposób umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu tak, aby zawsze mieć go pod ręką. Produkt przystosowany jest do mycia w zmywarce. Świetnie sprawdzi się w branży HoReCa, a także w domowej kuchni. Parametry: - wymiary: 100x65 mm - długość: 480 mm W zestawie: - łyżka do serwowania\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 60.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/542507-hendi-lyzka-do-serwowania-ze-stali-nierdzewnej-profi-line-dl-480-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/542606-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004231",
+        "Nazwa_Produktu": "Chochla do serwowania ze stali nierdzewnej Profi Line dł. 430 mm - Hendi 542606",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to chochla do zup i sosów, która jest klasycznym przyborem kuchennym. W drzewie kategorii pod 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne' nie istnieje specyficzna podkategoria dla chochli, dlatego najbardziej odpowiednim i najgłębszym wyborem jest kategoria 'Pozostałe' (ID 2127).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Chochla do serwowania ze stali nierdzewnej profi line dł. 430 mm - hendi 542606",
+                "description": "Numer producenta: 542606 Chochla do serwowania z linii Profi Line marki HENDI idealna do rozlewu zup, czy sosów. Wykonana została z jednego kawałka stali nierdzewnej próby 18/10, dzięki czemu spełnia wymogi HACCP, dodatkowo pozbawiona jest spawów i zgięć, gwarantując wysoką jakość wykonania. Jednolity uchwyt zakończony jest w sposób umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu tak, aby zawsze mieć go pod ręką. Produkt przystosowany jest do mycia w zmywarce. Świetnie sprawdzi się w branży HoReCa, a także w domowej kuchni. Parametry: - wymiary: 100x65 mm - długość: 430 mm W zestawie: - chochla do serwowania\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 60.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/542606-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/542606-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/542606-hendi-chochla-do-serwowania-ze-stali-nierdzewnej-profi-line-dl-430-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004232",
+        "Nazwa_Produktu": "Widelec do mięs ze stali nierdzewnej Profi Line dł. 350 mm - Hendi 542705",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny widelec do mięs o długości 350 mm, przeznaczony zarówno do branży gastronomicznej (HoReCa), jak i domowej kuchni. Najlepiej pasuje do kategorii 'Przybory kuchenne' w dziale 'Dom i Ogród'. Ze względu na brak specyficznej podkategorii dla widelców do serwowania/mięs w drzewie, należy wybrać kategorię 'Pozostałe' (ID: 2127) będącą liściem w obrębie 'Przyborów kuchennych'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Widelec do mięs ze stali nierdzewnej profi line dł. 350 mm - hendi 542705",
+                "description": "Numer producenta: 542705 Widelec do mięs z linii Profi Line marki HENDI idealny do podawania zarówno gorących, jak i zimnych dań. Wykonany został z jednego kawałka stali nierdzewnej próby 18/10, dzięki czemu spełnia wymogi HACCP, dodatkowo pozbawiony jest spawów i zgięć, gwarantując wysoką jakość wykonania. Jednolity uchwyt zakończony jest w sposób umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu tak, aby zawsze mieć go pod ręką. Produkt przystosowany jest do mycia w zmywarce. Świetnie sprawdzi się w branży HoReCa, a także w domowej kuchni. Parametry: - wymiary: 35x350 mm W zestawie: - widelec do mięs\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 49.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/542705-hendi-widelec-do-mies-ze-stali-nierdzewnej-profi-line-dl-350-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/542606-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004233",
+        "Nazwa_Produktu": "Rózga trzepaczka stalowa 8 wrzecion dł. 250 mm - Hendi 510001",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rózga kuchenna (trzepaczka). W drzewie kategorii OLX, w sekcji 'Przybory kuchenne' (2113), nie ma dedykowanej kategorii dla trzepaczek czy rózeg, dlatego najbardziej odpowiednią kategorią-liściem jest 'Pozostałe' (2127) w tej samej gałęzi.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rózga trzepaczka stalowa 8 wrzecion dł. 250 mm - hendi 510001",
+                "description": "Numer producenta: 510001 Rózga marki HENDI posiada 8 wrzecion, wykonana ze stali nierdzewnej świetnie, sprawdzi się do zagęszczania sosów, rozcierania ciasta czy ubijania piany. Uchwyt posiada otwór umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Odporna na poddawanie wysokiej temperaturze, dzięki czemu bez obaw można ją myć w zmywarce. Produkt dopuszczony do kontaktu z żywnością. Idealna do branży HoReCa, a także warunków domowych. Parametry: - długość: 250 mm W zestawie: - rózga z uchwytem\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 38.64,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/510001-hendi-rozga-trzepaczka-stalowa-8-wrzecion-dl-250-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/510001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004234",
+        "Nazwa_Produktu": "Rózga trzepaczka stalowa 8 wrzecion dł. 300 mm - Hendi 510100",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rózga (trzepaczka) kuchenna marki Hendi, wykonana ze stali nierdzewnej. Najlepiej pasuje do ścieżki: Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe (ID: 2127). Wybrana kategoria jest najbardziej specyficzna dla ręcznych akcesoriów kuchennych, dla których w drzewie nie przewidziano dedykowanej podkategorii. Marka Hendi jest kojarzona z gastronomią, jednak produkt jest przeznaczony również do użytku domowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rózga trzepaczka stalowa 8 wrzecion dł. 300 mm - hendi 510100",
+                "description": "Numer producenta: 510100 Rózga marki HENDI posiada 8 wrzecion, wykonana ze stali nierdzewnej świetnie, sprawdzi się do zagęszczania sosów, rozcierania ciasta czy ubijania piany. Uchwyt posiada otwór umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Odporna na poddawanie wysokiej temperaturze, dzięki czemu bez obaw można ją myć w zmywarce. Produkt dopuszczony do kontaktu z żywnością. Idealna do branży HoReCa, a także warunków domowych. Parametry: - długość: 300 mm W zestawie: - rózga z uchwytem\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 39.72,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/510100-hendi-rozga-trzepaczka-stalowa-8-wrzecion-dl-300-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/510001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004235",
+        "Nazwa_Produktu": "Rózga trzepaczka stalowa 8 wrzecion dł. 350 mm - Hendi 510209",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rózga/trzepaczka kuchenna wykonana ze stali nierdzewnej, która jest klasyfikowana jako przybór kuchenny. W drzewie kategorii OLX najbardziej precyzyjną lokalizacją dla ogólnych narzędzi kuchennych (niebędących nożami, garnkami czy wagami) jest sekcja 'Przybory kuchenne', a ponieważ nie ma dedykowanej podkategorii dla trzepaczek, wybór pada na liść 'Pozostałe' (ID 2127) w tej grupie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rózga trzepaczka stalowa 8 wrzecion dł. 350 mm - hendi 510209",
+                "description": "Numer producenta: 510209 Rózga marki HENDI posiada 8 wrzecion, wykonana ze stali nierdzewnej świetnie, sprawdzi się do zagęszczania sosów, rozcierania ciasta czy ubijania piany. Uchwyt posiada otwór umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Odporna na poddawanie wysokiej temperaturze, dzięki czemu bez obaw można ją myć w zmywarce. Produkt dopuszczony do kontaktu z żywnością. Idealna do branży HoReCa, a także warunków domowych. Parametry: - długość: 350mm W zestawie: - rózga z uchwytem\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/510209-hendi-rozga-trzepaczka-stalowa-8-wrzecion-dl-350-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/510001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]
