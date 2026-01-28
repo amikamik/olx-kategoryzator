@@ -3512,5 +3512,124 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004193",
+        "Nazwa_Produktu": "Nożyk do obierania warzyw i owoców ze stali nierdzewnej 165 mm - Hendi 841129",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest nożem do obierania warzyw i owoców, co bezpośrednio odpowiada kategorii liściastej 'Noże i nożyce kuchenne' w sekcji wyposażenia wnętrz i przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nożyk do obierania warzyw i owoców ze stali nierdzewnej 165 mm - hendi 841129",
+                "description": "Numer producenta: 841129 Profesjonalny nóż do obierania z wygiętym ostrzem. Cechy produktu: - wyprodukowany w Niemczech - wykonany ze stali nierdzewnej - uchwyt z polipropylenu - można myć w zmywarkach - przeznaczony do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość noża: 165 mm - długość ostrza: 60 mm W zestawie: - nóż do obierania\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 32.16,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/841129-hendi-nozyk-do-obierania-warzyw-i-owocow-ze-stali-nierdzewnej-165-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004200",
+        "Nazwa_Produktu": "Papier ścierny do maszynki elektrycznej do ostrzenia noży - Hendi 224410",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalne_ID_AI": 4715,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest materiałem eksploatacyjnym (papier ścierny) przeznaczonym do konkretnego elektronarzędzia (elektrycznej ostrzałki). W strukturze OLX kategoria 'Osprzęt do narzędzi' jest najbardziej odpowiednim miejscem dla akcesoriów ściernych i wymiennych elementów tnących/szlifujących do urządzeń zasilanych elektrycznie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Papier ścierny do maszynki elektrycznej do ostrzenia noży - hendi 224410",
+                "description": "Numer producenta: 224410 Papier ścierny do maszynki elektrycznej do ostrzenia noży - model 224403. Zakres dostawy obejmuje 2 sztuki papieru ściernego.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 4715,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 52.67,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/224410-hendi-papier-scierny-do-maszynki-elektrycznej-do-ostrzenia-nozy-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/224410-1.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
