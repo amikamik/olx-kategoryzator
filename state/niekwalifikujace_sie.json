@@ -3448,5 +3448,125 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to konkretnie deska do krojenia. W drzewie kategorii OLX istnieje dedykowana kategoria dla tego przedmiotu (ID 2119). Choć produkt jest profesjonalny (normy HACCP, wymiar GN 1/1), na OLX drobne akcesoria kuchenne trafiają zazwyczaj do 'Przyborów kuchennych' w dziale 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "1004078",
+        "Nazwa_Produktu": "Haki rzeźnicze sklepowe 4 szt. 90x4mm - Hendi 513538",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki",
+        "Finalne_ID_AI": 4671,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to haki rzeźnicze/sklepowe marki Hendi, przeznaczone do profesjonalnego użytku w sklepach lub zakładach przetwórstwa mięsnego. Kategoria 'Haki i zawieszki' (4671) wewnątrz 'Sklepy i magazyny' jest najbardziej precyzyjną kategorią-liściem dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "1004079",
+        "Nazwa_Produktu": "Haki rzeźnicze sklepowe 4 szt. 110x5mm - Hendi 513545",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki",
+        "Finalne_ID_AI": 4671,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne haki rzeźnicze ze stali nierdzewnej marki Hendi, opisane w tytule jako 'sklepowe'. Kategoria 'Haki i zawieszki' (4671) w dziale 'Sklepy i magazyny' jest najbardziej precyzyjnym dopasowaniem dla tego typu wyposażenia punktów handlowych i przetwórczych."
+    },
+    {
+        "ID_Produktu": "1004080",
+        "Nazwa_Produktu": "Haki rzeźnicze sklepowe 4 szt. 130x5mm - Hendi 513552",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki",
+        "Finalne_ID_AI": 4671,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne haki rzeźnicze marki Hendi, używane w sklepach mięsnych i zakładach gastronomicznych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki' jest najbardziej specyficznym dopasowaniem dla tego typu wyposażenia."
+    },
+    {
+        "ID_Produktu": "1004081",
+        "Nazwa_Produktu": "Haki rzeźnicze sklepowe 4 szt. 150x6mm - Hendi 513569",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki",
+        "Finalne_ID_AI": 4671,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne haki rzeźnicze marki Hendi, przeznaczone do użytku komercyjnego w sklepach lub gastronomii. Kategoria 'Haki i zawieszki' w sekcji 'Sklepy i magazyny' jest najbardziej precyzyjnym dopasowaniem dla tego typu osprzętu wystawienniczego i magazynowego."
+    },
+    {
+        "ID_Produktu": "1004088",
+        "Nazwa_Produktu": "Szufelka kuchenna aluminiowa gastronomiczna 0.125 l - Hendi 521205",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym akcesorium marki Hendi, która specjalizuje się w wyposażeniu dla gastronomii. Opis wyraźnie wskazuje na przeznaczenie dla branży HoReCa (gastronomia), co decyduje o wyborze kategorii w sekcji Firma i Przemysł zamiast standardowych przyborów kuchennych w sekcji Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "1004089",
+        "Nazwa_Produktu": "Szufelka kuchenna aluminiowa gastronomiczna 0.2 l - Hendi 521304",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna szufelka marki Hendi przeznaczona dla branży gastronomicznej (HoReCa). Zgodnie z profesjonalnym przeznaczeniem i danymi technicznymi (numer producenta, branża), najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia. Ze względu na brak dedykowanej kategorii dla drobnych przyborów profesjonalnych, wybieram najbardziej odpowiednią kategorię-liść: Pozostałe."
+    },
+    {
+        "ID_Produktu": "1004090",
+        "Nazwa_Produktu": "Szufelka kuchenna aluminiowa gastronomiczna 0.3 l - Hendi 521403",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna szufelka kuchenna marki Hendi, przeznaczona dla branży HoReCa (gastronomii). Ze względu na profesjonalne zastosowanie i markę, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1004091",
+        "Nazwa_Produktu": "Szufelka kuchenna aluminiowa gastronomiczna 0.5 l - Hendi 521502",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna szufelka przeznaczona dla branży HoReCa (gastronomii), o czym świadczy marka Hendi oraz opis. Najwłaściwszą kategorią dla specjalistycznych akcesoriów gastronomicznych niewymienionych z nazwy w innych podkategoriach jest 'Firma i Przemysł > Gastronomia > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1004092",
+        "Nazwa_Produktu": "Szufelka kuchenna aluminiowa gastronomiczna 0.65 l - Hendi 521601",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne akcesorium marki Hendi przeznaczone dla branży HoReCa i gastronomii, co jednoznacznie wskazuje na kategorię Firma i Przemysł > Gastronomia. Ze względu na brak specyficznej podkategorii dla drobnych przyborów kuchennych w tym dziale, wybrano kategorię 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1004093",
+        "Nazwa_Produktu": "Szufelka kuchenna aluminiowa gastronomiczna 2.0 l - Hendi 521809",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna szufelka gastronomiczna marki Hendi, przeznaczona do użytku w branży HoReCa. Ze względu na jej przemysłowy charakter i dużą pojemność (2.0 l), najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia'. W związku z brakiem specyficznej podkategorii dla drobnych przyborów kuchennych w sekcji gastronomicznej, właściwym wyborem jest kategoria 'Pozostałe' (leaf node 5071)."
+    },
+    {
+        "ID_Produktu": "1004094",
+        "Nazwa_Produktu": "Szufelka spożywcza plastikowa z polipropylenu 0.125 l - Hendi 562000",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi z wyraźnym wskazaniem na przeznaczenie dla branży HoReCa oraz podaniem numeru katalogowego producenta kwalifikuje się jako profesjonalne wyposażenie gastronomiczne. W drzewie kategorii Firma i Przemysł > Gastronomia, szufelka jako drobne akcesorium najlepiej pasuje do podkategorii Pozostałe (liść."
+    },
+    {
+        "ID_Produktu": "1004096",
+        "Nazwa_Produktu": "Szufelka spożywcza plastikowa z polipropylenu 0.65 l - Hendi 562079",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna szufelka marki Hendi, co wraz z opisem wskazującym na branżę HoReCa i podaniem numeru producenta sugeruje kategorię przemysłową/biznesową. W sekcji Gastronomia (5035) produkt najlepiej pasuje do kategorii Pozostałe (5071), ponieważ nie jest urządzeniem mechanicznym ani pojemnikiem."
     }
 ]
