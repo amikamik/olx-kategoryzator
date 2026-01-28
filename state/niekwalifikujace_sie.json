@@ -658,5 +658,145 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to patelnia marki Hendi z serii Kitchen Line, która jest dedykowana dla profesjonalnego sektora HoReCa (gastronomii). Wybrana kategoria 'Patelnie gastronomiczne' jest najbardziej specyficznym dopasowaniem dla profesjonalnego naczynia kuchennego tego typu."
+    },
+    {
+        "ID_Produktu": "1000593",
+        "Nazwa_Produktu": "Dysza do grilla gazowego Royal Catering LPG Propan Butan 50 mbar",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Ogrzewanie przenośne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to techniczna część zamienna (dysza gazowa) do profesjonalnych urządzeń gastronomicznych marki Royal Catering. Ponieważ jest to komponent serwisowy do sprzętu komercyjnego, najlepiej pasuje do kategorii 'Części do maszyn i urządzeń' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1000597",
+        "Nazwa_Produktu": "Popychacz do szatkownicy elektrycznej Royal Catering",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to część zamienna (popychacz) do szatkownicy elektrycznej marki Royal Catering. Ponieważ jest to marka profesjonalnego sprzętu gastronomicznego (model RCGS 550), najlepiej pasuje do kategorii Szatkownice w sekcji Gastronomia w dziale Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1000599",
+        "Nazwa_Produktu": "Szklany cylinder do podgrzewacza Hot Dogów Royal Catering",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to część zamienna do profesjonalnego urządzenia gastronomicznego marki Royal Catering. Ze względu na przemysłowy charakter marki i przeznaczenie do podgrzewacza parówek, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe, która jest bardziej specyficzna branżowo i głębiej umiejscowiona w drzewie niż ogólna kategoria części do maszyn."
+    },
+    {
+        "ID_Produktu": "1000732",
+        "Nazwa_Produktu": "Szpachelka kątowa do grilla hamburgerów 107x305mm - Hendi 855652",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna szpatuła gastronomiczna marki Hendi, która jest rozpoznawalnym producentem wyposażenia dla sektora HoReCa. Ze względu na markę, obecność numeru katalogowego (855652) oraz techniczny opis produktu (stal nierdzewna, konkretne wymiary ostrza), najlepiej pasuje on do kategorii profesjonalnej gastronomii w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1000735",
+        "Nazwa_Produktu": "Szpachelka do grilla 108x80x251mm- Hendi 855713",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na przeznaczenie szpachelki do grilla ('do grilla'). Najbardziej precyzyjną kategorią dla akcesoriów grillowych w strukturze OLX jest kategoria 'Grill' w dziale 'Ogród'. Choć produkt jest marki Hendi (sprzęt profesjonalny), użytkownicy indywidualni najczęściej szukają takich akcesoriów właśnie w kategorii grillowej."
+    },
+    {
+        "ID_Produktu": "1000736",
+        "Nazwa_Produktu": "Szpachelka szpatuła kątowa giętka do grilla 380x73 mm - Hendi 855737",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szpatuła przeznaczona głównie do grillowania (hamburgerów). Mimo profesjonalnej marki (Hendi) i wzmianki o branży HoReCa, akcesoria tego typu najtrafniej klasyfikowane są w kategorii 'Grill' w sekcji ogrodowej. Sugestia systemowa dotycząca narzędzi ręcznych (budowlanych) jest błędna, gdyż wynika z nazewnictwa ('szpachelka'), a nie z rzeczywistego przeznaczenia przedmiotu."
+    },
+    {
+        "ID_Produktu": "1000746",
+        "Nazwa_Produktu": "Gaz do palnika gastronomicznego Creme Brulee i zapalniczek 1szt. - Hendi 199008",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Trafika > Zapalniczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to gaz butan marki Hendi, która specjalizuje się w profesjonalnym wyposażeniu gastronomicznym. Tytuł i opis kładą główny nacisk na zastosowanie w palnikach gastronomicznych (np. do Creme Brulee), co sprawia, że kategoria 'Pozostałe' w dziale 'Gastronomia' w sekcji 'Firma i Przemysł' jest najbardziej dopasowana do charakteru marki i profesjonalnego przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "1000752",
+        "Nazwa_Produktu": "Skrobak do płyt grillowych skrobaczka do grilla - Hendi 855201",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Marka Hendi to profesjonalny producent wyposażenia dla branży horeca. Produkt jest specjalistycznym narzędziem do czyszczenia profesjonalnych urządzeń grzewczych (płyt grillowych), co jednoznacznie wskazuje na kategorię Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1000753",
+        "Nazwa_Produktu": "Ostrza do skrobaka skrobaczki do płyt grillowych 5szt - Hendi 855218",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw wymiennych ostrzy do skrobaka przeznaczonego do czyszczenia grilla i płyt grillowych. Choć marka Hendi jest marką profesjonalną (gastronomiczną), kategoria 'Dom i Ogród > Ogród > Grill' (1633) jest najbardziej trafnym i najczęściej wybieranym miejscem na OLX dla wszelkiego rodzaju narzędzi i akcesoriów do konserwacji oraz czyszczenia grillów."
+    },
+    {
+        "ID_Produktu": "1000796",
+        "Nazwa_Produktu": "Dyspenser pojemnik do sosów zimnych 0,7l. czerwony - Hendi 557914",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym dyspenserem marki Hendi, przeznaczonym bezpośrednio dla sektora gastronomicznego (HoReCa), co czyni kategorię 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' najbardziej odpowiednią, mimo możliwości użytkowania domowego."
+    },
+    {
+        "ID_Produktu": "1000808",
+        "Nazwa_Produktu": "Nóż do wilka Kitchen Line 12 - Hendi 282359",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Multitoole i scyzoryki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do mięsa",
+        "Finalne_ID_AI": 5048,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nożyk tnący do profesjonalnej maszynki do mielenia mięsa, zwanej w terminologii gastronomicznej 'wilkiem'. Marka Hendi specjalizuje się w wyposażeniu dla profesjonalnej gastronomii, dlatego kategoria Maszyny do mięsa w sekcji Gastronomia jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1000819",
+        "Nazwa_Produktu": "Stojak ekspozytor stalowy do kanapek i Hot Dogów - Hendi 429419",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny ekspozytor marki Hendi, która specjalizuje się w sprzęcie dla gastronomii. Ponieważ stojak jest wykonany ze stali nierdzewnej i przeznaczony do ekspozycji kanapek i hot dogów w punktach gastronomicznych, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1000844",
+        "Nazwa_Produktu": "Alkohol izopropylowy Izopropanol IPA I-MAX 99,9% 1L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalne_ID_AI": 3252,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Alkohol izopropylowy (IPA) jest profesjonalnym rozpuszczalnikiem i środkiem odtłuszczającym, kluczowym do przygotowania powierzchni przed malowaniem lub lakierowaniem, co klasyfikuje go w hierarchii OLX jako akcesorium malarskie."
+    },
+    {
+        "ID_Produktu": "1000845",
+        "Nazwa_Produktu": "Alkohol izopropylowy Izopropanol IPA I-MAX 99,9% 5L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalne_ID_AI": 3252,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Alkohol izopropylowy (IPA) jest profesjonalnym rozpuszczalnikiem i środkiem odtłuszczającym. W systemie kategoryzacji OLX preparaty chemiczne służące do przygotowania i odtłuszczania powierzchni, takie jak rozpuszczalniki czy benzyny techniczne, są przypisywane do kategorii Akcesoria malarskie, co potwierdza również wskazówka systemowa."
     }
 ]
