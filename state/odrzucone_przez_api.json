@@ -1883,5 +1883,66 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004037",
+        "Nazwa_Produktu": "Deska do krojenia HACCP do mięsa wędlin 600x400mm brązowa - Hendi 825648",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Deski do krojenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Deski do krojenia",
+        "Finalne_ID_AI": 2119,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to deska do krojenia, a wybrana kategoria 2119 (Deski do krojenia) jest najbardziej specyficznym liściem w drzewie kategorii, precyzyjnie opisującym ten typ przedmiotu, nawet przy uwzględnieniu profesjonalnych norm HACCP.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Deska do krojenia haccp do mięsa wędlin 600x400mm brązowa - hendi 825648",
+                "description": "Numer producenta: HENDI 825648 Profesjonalna deska do krojenia HACCP dwustronnie gładka. Cechy produktu: - wykonana z polietylenu HDPE 500 - zgodna z normami HACCP - nie można myć w zmywarkach - przeznaczona do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku - przeznaczenie: mięso gotowane, wędliny Parametry: - wymiary: 600x400x(H)18mm W zestawie: - deska do krojenia - instrukcja PL Deski do krojenia HACCP\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2119,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 174.21,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/825648-hendi-deska-do-krojenia-haccp-do-miesa-wedlin-600x400mm-brazowa-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/825600-hendi-deska-do-krojenia-haccp-hurtownia.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
