@@ -3689,5 +3689,66 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004225",
+        "Nazwa_Produktu": "Łyżka cedzakowa HACCP ze stali nierdzewnej Profi Line śr. 80 - Hendi 541104",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to łyżka cedzakowa (skimmer), która funkcjonalnie i terminologicznie najlepiej pasuje do kategorii 'Sitka i cedzaki' w dziale przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Łyżka cedzakowa haccp ze stali nierdzewnej profi line śr. 80 - hendi 541104",
+                "description": "Numer producenta: 541104 Łyżka cedzakowa z linii Profi Line marki HENDI idealna do odcedzania potraw z wody, czy tłuszczu. Wykonana została z jednego kawałka stali nierdzewnej próby 18/10, dzięki czemu spełnia wymogi HACCP, dodatkowo pozbawiona jest spawów i zgięć, gwarantując wysoką jakość wykonania. Jednolity uchwyt zakończony jest w sposób umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu tak, aby zawsze mieć go pod ręką. Produkt przystosowany jest do mycia w zmywarce. Świetnie sprawdzi się w branży HoReCa, a także w domowej kuchni. Parametry: - średnica: 80 mm - długość: 390 mm W zestawie: - łyżka cedzakowa\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 48.35,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/541104-hendi-lyzka-cedzakowa-haccp-ze-stali-nierdzewnej-profi-line-sr-80-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/541104-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
