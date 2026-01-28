@@ -5440,5 +5440,69 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004310",
+        "Nazwa_Produktu": "Tarka do cynamonu i gałki muszkatołowej pył Stal Laserowo Ostrzona - Hendi 856352",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarka kuchenna ze stali nierdzewnej, będąca przyborem kuchennym. W drzewie kategorii OLX tarki najlepiej pasują do sekcji Przybory kuchenne w kategorii Dom i Ogród, a z braku dedykowanej podkategorii dla tarek, wybieram poziom 'Pozostałe' w tym węźle.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Tarka do cynamonu i gałki muszkatołowej pył stal laserowo ostrzona - hendi 856352",
+                "description": "Numer producenta: 856352 Laserowo ostrzona, ekstremalnie ostra Cechy produktu: - można myć w zmywarkach - ostrza wykonane ze stali nierdzewnej - rączka wykonana z polipropylenu - tarka bardzo drobna Parametry: - długość: 220/390 mm - szerokość: 35 mm W zestawie: - tarka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 87.53,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/856352-1-tarka-do-cynamonu-galki-muszkatolowej-hendi-hurtowwnia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/856352-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/856352-tarka-do-cynamonu-galki-muszkatolowej-hendi-hurtowwnia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
