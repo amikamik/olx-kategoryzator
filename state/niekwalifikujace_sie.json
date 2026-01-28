@@ -3678,5 +3678,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Tytuł produktu wyraźnie określa go jako 'szpatułę grillową', co czyni kategorię 'Grill' (obejmującą urządzenia oraz akcesoria do grillowania) najbardziej trafnym wyborem, mimo profesjonalnego charakteru marki Hendi i możliwości zastosowania w kuchni."
+    },
+    {
+        "ID_Produktu": "1004328",
+        "Nazwa_Produktu": "Maszynka kotleciarka do zmiękczania mięsa czerwona Profi Line - Hendi 843451",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do mięsa",
+        "Finalne_ID_AI": 5048,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna kotleciarka marki Hendi, przeznaczona do obróbki mięsa. Ze względu na markę (Hendi Profi Line) oraz specjalistyczne zastosowanie (technologia nacinania włókien), najlepiej pasuje do kategorii Maszyny do mięsa w dziale Gastronomia."
+    },
+    {
+        "ID_Produktu": "1004333",
+        "Nazwa_Produktu": "Ubijak do ziemniaków ze stali nierdzewnej 180x600mm - Hendi 693100",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia",
+        "Finalne_ID_AI": 5035,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Ubijak marki Hendi o długości 600 mm jest profesjonalnym akcesorium przeznaczonym do użytku w gastronomii (HoReCa), a nie w standardowych warunkach domowych. Ze względu na markę i parametry techniczne, najlepiej pasuje do sekcji Firma i Przemysł w kategorii Gastronomia."
     }
 ]

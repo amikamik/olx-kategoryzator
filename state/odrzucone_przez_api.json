@@ -5504,5 +5504,377 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004329",
+        "Nazwa_Produktu": "Maszynka kotleciarka do zmiękczania mięsa biała Profi Line - Hendi 843468",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczna maszynka (nakłuwacz/zmiękczacz) do mięsa. Ponieważ jest to narzędzie kuchenne obsługiwane ręcznie i niewymagające zasilania elektrycznego, najlepiej pasuje do kategorii 'Przybory kuchenne'. Ze względu na brak dedykowanej podkategorii dla tłuczków czy nakłuwaczy, najbardziej precyzyjnym wyborem jest kategoria 'Pozostałe' w obrębie przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Maszynka kotleciarka do zmiękczania mięsa biała profi line - hendi 843468",
+                "description": "Kod producenta: 843468 Maszynka do zmiękczania mięsa marki Hendi sprawdzi się do poprawiania cech sensorycznych bez użycia dodatków do żywności, jest to nowoczesna technologia uszlachetniania mięsa. Zasada działania polega na nacinaniu włókien mięśniowych struktury surowca zwierzęcego przy jednoczesnym, delikatnym jego rozbijaniu powodując rozluźnienie tekstury. Dzięki zastosowaniu prezentowanej maszynki czas na marynowanie oraz obróbkę termiczną zmniejsza się nawet o 25% w stosunku do klasycznych metod. Maszynka do zmiękczania mięsa wyposażona została w ostrze ze stali nierdzewnej próby 18/8, otoczone białą obudową z tworzywa ABS. Przystosowana jest do mycia w zmywarce, bez utraty na jakości ostrza. Cechy produktu: - Nowoczesna i najskuteczniejsza technologia uszlachetniania, rozmiękczania oraz polepszania jakości i smaku mięsa, - Połączenie metody głębokiego nacinania włókien mięsa przy jednoczesnym delikatnym jego rozbijaniu, - Dzięki maszynce skraca się czas marynowania, gotowania, smażenia i grillowania zmiękczonego mięsa, - Podczas uderzania ostrza wprowadzają przyprawy i sosy w głąb mięsa, - Miękkie sprężyny, łatwiejsza praca, lepszy efekt kulinarny. Parametry techniczne: - Materiał - ABS, stal 18/8 - Ilość ostrzy - 51 ostrzy - Długość - 150 mm - Szerokość - 42 mm - Wysokość - 118 mm W zestawie: - Maszynka do zmiękczania mięsa - Instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 133.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/843468-maszyna-kotleciarka-do-zmiekczania-miesa-ean-8711369843468-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/843468-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/843468-1.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004330",
+        "Nazwa_Produktu": "Praska wyciskacz do ziemniaków do puree ze stali nierdzewnej - Hendi 515105",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to manualny przybór kuchenny (praska/wyciskacz). W strukturze kategorii OLX dla artykułów gospodarstwa domowego tego typu najodpowiedniejszą ścieżką jest Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne. Ponieważ w tej sekcji nie istnieje specyficzna kategoria dla wyciskaczy do warzyw, produkt trafia do kategorii liścia 'Pozostałe'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Praska wyciskacz do ziemniaków do puree ze stali nierdzewnej - hendi 515105",
+                "description": "Kod producenta: 515105 Wyciskacz marki Hendi ze stali nierdzewnej to niezastąpiony element do robienia purée z ziemniaków. W prosty i szybki sposób otrzymamy pożądaną konsystencję, a po skończonym użyciu bez obaw produkt można umyć w zmywarce. Świetnie się sprawdzi w profesjonalnej kuchni z branży HoReCa, a także w domowych warunkach. Cechy produktu: - Konstrukcja ze stali nierdzewnej, - Łatwa obsługa, - Uniwersalny, - Nadaje się do mycia w zmywarkach. Parametry techniczne: - Materiały - Stal nierdzewna - Wymiary - 320 x 110 x (H) 110 mm W zestawie: - Praska\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 189.46,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/515105-praska-wyciskacz-do-ziemniakow-purre-ze-stali-ean-8711369515105-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/515105-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/515105-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/515105-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/515105-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/515105-5.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004335",
+        "Nazwa_Produktu": "Praska wyciskacz do czosnku ze stali nierdzewnej 2 grubości - Hendi 856123",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wyciskacz do czosnku (praska), który jest klasycznym przyborem kuchennym. W drzewie kategorii OLX, wewnątrz sekcji 'Przybory kuchenne' (2113), nie ma specyficznej kategorii dla prasek czy wyciskaczy, dlatego zgodnie z zasadą wybierania najbardziej szczegółowego liścia, produkt trafia do 'Pozostałe' (2127) w tej samej gałęzi.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Praska wyciskacz do czosnku ze stali nierdzewnej 2 grubości - hendi 856123",
+                "description": "Numer producenta: 856123 Wyciskacz do czosnku marki Hendi Cechy produktu: - dwa wyjmowane elementy - wykonany ze stali nierdzewnej - uchwyt z polipropylenu - przystosowany do mycia w zmywarce Parametry: - długość: 185 mm - szerokość: 25 mm W zestawie: - wyciskacz do czosnku\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 62.39,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/856123-hendi-praska-wyciskacz-do-czosnku-ze-stali-nierdzewnej-2-grubosci-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/856123.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004357",
+        "Nazwa_Produktu": "Wybierak cukierniczy do ciasta z silikonową łopatką 350 mm - Hendi 659007",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to wybierak cukierniczy (łopatka silikonowa), który jest typowym narzędziem używanym przy wyrobach cukierniczych i pieczeniu, co czyni kategorię 'Akcesoria cukiernicze' najbardziej precyzyjną.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wybierak cukierniczy do ciasta z silikonową łopatką 350 mm - hendi 659007",
+                "description": "Numer producenta: 659007 Wybierak do ciasta marki Hendi idealnie sprawdzi się przy wyrobach cukierniczych. Posiada łopatkę wykonaną z silikonu oraz uchwyt z tworzywa ABS. Produkt odporny w zakresie -60deg;C do 260deg;C, także bez obaw można go myć w zmywarce. Uchwyt posiada otwór w rączce, umożliwiając zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze znajdował się pod ręką. Parametry: - wymiary: 70x105 mm - długość: 350 mm W zestawie: - wybierak\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 45.11,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/659007-hendi-wybierak-cukierniczy-do-ciasta-z-silikonowa-lopatka-350-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004358",
+        "Nazwa_Produktu": "Wybierak cukierniczy do ciasta z silikonową łopatką 265 mm - Hendi 659014",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wybierakiem (łopatką) silikonową przeznaczoną specjalnie do wyrobów cukierniczych, co czyni kategorię 'Akcesoria cukiernicze' najbardziej precyzyjnym wyborem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wybierak cukierniczy do ciasta z silikonową łopatką 265 mm - hendi 659014",
+                "description": "Numer producenta: 659014 Wybierak do ciasta marki Hendi idealnie sprawdzi się przy wyrobach cukierniczych. Posiada łopatkę wykonaną z silikonu oraz uchwyt z tworzywa ABS. Produkt odporny w zakresie -60deg;C do 260deg;C, także bez obaw można go myć w zmywarce. Uchwyt posiada otwór w rączce, umożliwiając zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze znajdował się pod ręką. Parametry: - wymiary: 55x90 mm - długość: 265 mm W zestawie: - wybierak\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.4,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/659014-hendi-wybierak-cukierniczy-do-ciasta-z-silikonowa-lopatka-254-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004359",
+        "Nazwa_Produktu": "Wybierak cukierniczy do ciasta z silikonową łopatką 420 mm - Hendi 659106",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wybierakiem (szpatułką) przeznaczonym do prac cukierniczych, co bezpośrednio kwalifikuje go do kategorii 'Akcesoria cukiernicze' w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wybierak cukierniczy do ciasta z silikonową łopatką 420 mm - hendi 659106",
+                "description": "Numer producenta: 659106 Wybierak do ciasta marki Hendi idealnie sprawdzi się przy wyrobach cukierniczych. Posiada łopatkę wykonaną z silikonu oraz uchwyt z tworzywa ABS. Produkt odporny w zakresie -60deg;C do 260deg;C, także bez obaw można go myć w zmywarce. Uchwyt posiada otwór w rączce, umożliwiając zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze znajdował się pod ręką. Parametry: - wymiary: 70x105 mm - długość: 420 mm W zestawie: - wybierak\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 46.19,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/659106-hendi-wybierak-cukierniczy-do-ciasta-z-silikonowa-lopatka-450-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
