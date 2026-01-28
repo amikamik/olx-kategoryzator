@@ -2130,5 +2130,481 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004134",
+        "Nazwa_Produktu": "Profesjonalny nóż rzeźniczy do mięsa kuty ze stali Kitchen Line 200 mm - Hendi 781340",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nóż rzeźniczy przeznaczony zarówno do użytku domowego, jak i profesjonalnego. Idealnie pasuje do liścia kategorii 'Noże i nożyce kuchenne' w ścieżce Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż rzeźniczy do mięsa kuty ze stali kitchen line 200 mm - hendi 781340",
+                "description": "Numer producenta: HENDI 781340 Nóż rzeźniczy do mięsa z serii Kitchen Line marki Hendi. Cechy produktu: - wykonany z jednego kawałka bardzo twardej, kutej stali chromowo-molibdenowej - uchwyt z tworzywa POM - wyjątkowa trwałość i antykorozyjność - najwyższa jakość wykonania ostrza zapewni długą żywotność noża - bezpieczna wyprofilowana rękojeść - przeznaczona do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość noża: 330 mm - długość ostrza: 200 mm W zestawie: - nóż do mięsa\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 66.7,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/781340-hendi-profesjonalny-noz-rzezniczy-do-miesa-kuty-ze-stali-kitchen-line-200-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004135",
+        "Nazwa_Produktu": "Profesjonalny nóż kucharski szefa kuchni ze stali Kitchen Line 150 mm - Hendi 781357",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym nożem kuchennym (szefa kuchni), który posiada dedykowaną kategorię liścia 'Noże i nożyce kuchenne' w sekcji wyposażenia wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż kucharski szefa kuchni ze stali kitchen line 150 mm - hendi 781357",
+                "description": "Numer producenta: HENDI 781357 Nóż kucharski klasyczny z serii Kitchen Line marki Hendi. Cechy produktu: - wykonany z jednego kawałka bardzo twardej, kutej stali chromowo-molibdenowej - uchwyt z tworzywa POM - wyjątkowa trwałość i antykorozyjność - najwyższa jakość wykonania ostrza zapewni długą żywotność noża - bezpieczna wyprofilowana rękojeść - przeznaczona do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość noża: 295 mm - długość ostrza: 150 mm W zestawie: - nóż klasyczny kucharski\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 68.86,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/781357-hendi-profesjonalny-noz-kucharski-szefa-kuchni-ze-stali-kitchen-line-200-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004136",
+        "Nazwa_Produktu": "Profesjonalny widelec do mięs kuty ze stali Kitchen Line 175 mm - Hendi 781364",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to kuty widelec do mięs (carving fork) przeznaczony do profesjonalnego porcjowania i przygotowywania mięsa. W drzewie kategorii najlepiej pasuje do 'Przybory kuchenne' (ID 2113), a konkretnie do podkategorii 'Noże i nożyce kuchenne' (ID 2128), która grupuje narzędzia tnące i akcesoria do porcjowania (takie widelce są niemal zawsze używane w parze z nożami do mięs). Kategoria 'Sztućce' (ID 2160) znajduje się pod 'Zastawą stołową', co sugeruje przeznaczenie do jedzenia przy stole, a nie do preparacji żywności.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny widelec do mięs kuty ze stali kitchen line 175 mm - hendi 781364",
+                "description": "Numer producenta: HENDI 781364 Widelec do mięs z serii Kitchen Line marki Hendi. Cechy produktu: - wykonany z jednego kawałka bardzo twardej, kutej stali chromowo-molibdenowej - uchwyt z tworzywa POM - wyjątkowa trwałość i antykorozyjność - najwyższa jakość wykonania ostrza zapewni długą żywotność widelca - bezpieczna wyprofilowana rękojeść - przeznaczona do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość: 290 mm - długość ostrza: 175 mm W zestawie: - widelec do mięs\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 68.86,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/781364-hendi-profesjonalny-widelec-do-mies-kuty-ze-stali-kitchen-line-175-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004138",
+        "Nazwa_Produktu": "Profesjonalny nóż do jarzyn kuty ze stali Kitchen Line 125 mm - Hendi 781388",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to nóż kuchenny przeznaczony zarówno do użytku profesjonalnego, jak i domowego, co kwalifikuje go bezpośrednio do kategorii liścia 'Noże i nożyce kuchenne' w sekcji wyposażenia wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż do jarzyn kuty ze stali kitchen line 125 mm - hendi 781388",
+                "description": "Numer producenta: HENDI 781388 Nóż do jarzyn z serii Kitchen Line marki Hendi. Cechy produktu: - wykonany z jednego kawałka bardzo twardej, kutej stali chromowo-molibdenowej - uchwyt z tworzywa POM - wyjątkowa trwałość i antykorozyjność - najwyższa jakość wykonania ostrza zapewni długą żywotność noża - bezpieczna wyprofilowana rękojeść - przeznaczona do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość noża: 240 mm - długość ostrza: 125 mm W zestawie: - nóż do jarzyn\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 50.51,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/781388-hendi-profesjonalny-noz-do-jarzyn-kuty-ze-stali-kitchen-line-125-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004140",
+        "Nazwa_Produktu": "Profesjonalne nożyce do drobiu kute ze stali Kitchen Line 250 mm - Hendi 781401",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to nożyce kuchenne (specjalistyczne do drobiu). Kategoria 'Noże i nożyce kuchenne' (2128) jest najbardziej precyzyjnym dopasowaniem w drzewie kategorii.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalne nożyce do drobiu kute ze stali kitchen line 250 mm - hendi 781401",
+                "description": "Numer producenta: HENDI 781401 Nożyce do drobiu z serii Kitchen Line marki Hendi. Cechy produktu: - wykonany z jednego kawałka bardzo twardej, kutej stali chromowo-molibdenowej - uchwyt z tworzywa POM - wyjątkowa trwałość i antykorozyjność - najwyższa jakość wykonania ostrza zapewni długą żywotność nożyc - bezpieczna wyprofilowana rękojeść - przeznaczona do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość nożyc: 250 mm - długość ostrza: 140 mm W zestawie: - nożyce do drobiu\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 55.91,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/781401-hendi-profesjonalne-nozyce-do-drobiu-kute-ze-stali-kitchen-line-250-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004141",
+        "Nazwa_Produktu": "Stalka ostrzałka do noży kuchennych kuta ze stali 230 mm - Hendi 781418",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalka (ostrzałka) służąca do konserwacji noży. W systemie kategoryzacji OLX ostrzałki do noży kuchennych są przypisane do kategorii 'Noże i nożyce kuchenne' w dziale Przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stalka ostrzałka do noży kuchennych kuta ze stali 230 mm - hendi 781418",
+                "description": "Numer producenta: HENDI 781418 Ostrzałka do noży marki Hendi. Cechy produktu: - wykonany z jednego kawałka bardzo twardej, kutej stali chromowo-molibdenowej - uchwyt z tworzywa POM - wyjątkowa trwałość i antykorozyjność - najwyższa jakość wykonania - bezpieczna wyprofilowana rękojeść - przeznaczona do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość noża: 360 mm - długość ostrza: 230 mm - średnica: 10 mm W zestawie: - ostrzałka do noży\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 49.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/781418-hendi-stalka-ostrzalka-do-nozy-kuchennych-kuta-ze-stali-230-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004146",
+        "Nazwa_Produktu": "Profesjonalny nóż kucharski szefa kuchni kuty ze stali Profi Line 250 mm - Hendi 844205",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym nożem kuchennym, który idealnie wpisuje się w dedykowaną kategorię liścia 'Noże i nożyce kuchenne' wewnątrz działu przyborów kuchennych i wyposażenia wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż kucharski szefa kuchni kuty ze stali profi line 250 mm - hendi 844205",
+                "description": "Numer producenta: HENDI 844205 Nóż kucharski z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Opis funkcjonalności ostrza: 1. Przednia część ostrza jest odpowiednia do krojenia niewielkich warzyw, np. czosnku. 2. Grubego grzbietu można użyć do łamania małych kostek bądź otwierania skorupiaków. 3. Boczną stroną ostrza można spłaszczać filety, podnosić posiekane zioła itp. 4. Miękkie i twarde produkty można kroić przy użyciu środkowej części ostrza. Ostrze o zakrzywionym kształcie jest idealne do siekania ziół. 5. Odwrotną częścią ostrza można kroić elementy trudne do przekrojenia. Przeniesienie siły jest w tej części optymalne. Parametry: - długość ostrza: 250mm - długość noża: 385mm - grubość: 3,3mm W zestawie: - nóż kucharski - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 195.07,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844205-hendi-profesjonalny-noz-kucharski-szefa-kuchni-kuty-ze-stali-profi-line-250-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844205-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844205-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004147",
+        "Nazwa_Produktu": "Profesjonalny nóż kucharski szefa kuchni kuty ze stali Profi Line 200 mm - Hendi 844212",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest nożem kuchennym przeznaczonym do przygotowywania potraw, co jednoznacznie klasyfikuje go w kategorii 'Noże i nożyce kuchenne' w sekcji Przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż kucharski szefa kuchni kuty ze stali profi line 200 mm - hendi 844212",
+                "description": "Numer producenta: HENDI 844212 Nóż kucharski z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Opis funkcjonalności ostrza: 1. Przednia część ostrza jest odpowiednia do krojenia niewielkich warzyw, np. czosnku. 2. Grubego grzbietu można użyć do łamania małych kostek bądź otwierania skorupiaków. 3. Boczną stroną ostrza można spłaszczać filety, podnosić posiekane zioła itp. 4. Miękkie i twarde produkty można kroić przy użyciu środkowej części ostrza. Ostrze o zakrzywionym kształcie jest idealne do siekania ziół. 5. Odwrotną częścią ostrza można kroić elementy trudne do przekrojenia. Przeniesienie siły jest w tej części optymalne. Parametry: - długość ostrza: 200mm - długość noża: 335mm - grubość: 3,3mm W zestawie: - nóż kucharski - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 179.64,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844212-hendi-profesjonalny-noz-kucharski-szefa-kuchni-kuty-ze-stali-profi-line-200-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844205-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844205-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
