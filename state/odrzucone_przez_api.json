@@ -2011,5 +2011,124 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004131",
+        "Nazwa_Produktu": "Profesjonalny nóż kucharski szefa kuchni kuty ze stali Kitchen Line 200 mm - Hendi 781319",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczny nóż kuchenny (szefa kuchni), który idealnie pasuje do kategorii 'Noże i nożyce kuchenne' w dziale wyposażenia wnętrz i przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż kucharski szefa kuchni kuty ze stali kitchen line 200 mm - hendi 781319",
+                "description": "Numer producenta: HENDI 781319 Nóż kucharski klasyczny z serii Kitchen Line marki Hendi. Cechy produktu: - wykonane z jednego kawałka bardzo twardej, kutej stali chromowo-molibdenowej - uchwyt z tworzywa ABS i AS - najwyższa jakość wykonania sprawia, że noże są bardzo trwałe i wyjątkowo odporne na korozję, a ostrze zachowuje długo żywotność - unikalna konstrukcja rękojeści z tworzywa uniemożliwia gromadzenie się resztek w miejscach łączenia z ostrzem - bezpieczna wyprofilowana rękojeść - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - p rzeznaczona do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość noża: 340 mm - długość ostrza: 200 mm W zestawie: - nóż kucharski klasyczny\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 73.18,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/781319-hendi-profesjonalny-noz-kucharski-szefa-kuchni-kuty-ze-stali-kitchen-line-200-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/781319-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004132",
+        "Nazwa_Produktu": "Profesjonalny nóż do szynki i łososia kuty ze stali Kitchen Line 215 mm - Hendi 781326",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny nóż kuchenny (do szynki i łososia). Najbardziej precyzyjną kategorią w drzewie jest 'Noże i nożyce kuchenne' w sekcji Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż do szynki i łososia kuty ze stali kitchen line 215 mm - hendi 781326",
+                "description": "Numer producenta: HENDI 781326 Nóż do szynki i łososia z serii Kitchen Line marki Hendi. Cechy produktu: - wykonany z jednego kawałka bardzo twardej, kutej stali chromowo-molibdenowej - uchwyt z tworzywa POM - wyjątkowa trwałość i antykorozyjność - najwyższa jakość wykonania ostrza zapewni długą żywotność noża - bezpieczna wyprofilowana rękojeść - przeznaczona do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość noża: 380 mm - długość ostrza: 215 mm W zestawie: - nóż do szynki i łososia\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 66.7,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/781326-hendi-profesjonalny-noz-do-szynki-i-lososia-kuty-ze-stali-kitchen-line-215-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
