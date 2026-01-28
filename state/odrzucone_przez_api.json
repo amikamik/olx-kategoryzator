@@ -3271,5 +3271,246 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004182",
+        "Nazwa_Produktu": "Nóż dekoracyjny z ząbkowanym ostrzem ze stali nierdzewnej - Hendi 856062",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to nóż kuchenny o ząbkowanym ostrzu, przeznaczony zarówno do użytku domowego, jak i profesjonalnej gastronomii. Najbardziej precyzyjną kategorią w drzewie jest ID 2128 (Noże i nożyce kuchenne).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nóż dekoracyjny z ząbkowanym ostrzem ze stali nierdzewnej - hendi 856062",
+                "description": "Numer producenta: 856062 Nóż z ząbkowanym ostrzem z serii noży dekoracyjnych Hendi, Cechy produtkutu: - ostrze wykonane ze stali nierdzewnej - rączka wykonana z polipropylenu - można myć w zmywarce - przeznaczony do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość noża: 200 mm - długość ostrza: 90 mm W zestawie: - nóż z ząbkowanym ostrzem Noże dekoracyjne HENDI\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 48.35,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/856062-hendi-noz-dekoracyjny-z-zabkowanym-ostrzem-ze-stali-nierdzewnej-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/856062-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/856062-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004185",
+        "Nazwa_Produktu": "Radełko do ciasta z falowanym ostrzem ze stali nierdzewnej - Hendi 856154",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Radełko do ciasta to specjalistyczne narzędzie wykorzystywane przy wypiekach i obróbce ciasta, co sprawia, że kategoria 'Akcesoria cukiernicze' w sekcji przyborów kuchennych jest najbardziej precyzyjnym wyborem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Radełko do ciasta z falowanym ostrzem ze stali nierdzewnej - hendi 856154",
+                "description": "Numer producenta: 856154 Radełko do ciasta - falowane ostrze z serii noży dekoracyjnych Hendi Cechy produktu: - ostrze wykonane ze stali nierdzewnej - rączka wykonana z polipropylenu - można myć w zmywarkach - przeznaczony do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość noża: 180 mm - średnica: 60 mm W zestawie: - radełko do ciasta\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 45.11,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/856154-hendi-radelko-do-ciasta-z-falowanym-ostrzem-ze-stali-nierdzewnej-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/856154-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004190",
+        "Nazwa_Produktu": "Nożyk do obierania warzyw i owoców ze stali nierdzewnej 165 mm - Hendi 841020",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest nożykiem kuchennym przeznaczonym do obierania warzyw i owoców, co w strukturze kategorii OLX odpowiada liściowi 'Noże i nożyce kuchenne' w dziale przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nożyk do obierania warzyw i owoców ze stali nierdzewnej 165 mm - hendi 841020",
+                "description": "Numer producenta: 841020 Profesjonalny nożyk do obierania z wygięty ostrzem. Cechy produktu: - wyprodukowany w Niemczech - wykonany ze stali nierdzewnej - drewniany uchwyt - nie należy myć w zmywarce - przeznaczony do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość noża: 165 mm - długość ostrza: 60 mm W zestawie: - nóż do obierania\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.4,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/841020-hendi-nozyk-do-obierania-warzyw-i-owocow-ze-stali-nierdzewnej-165-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004192",
+        "Nazwa_Produktu": "Nożyk do obierania warzyw i owoców ze stali nierdzewnej 190 mm - Hendi 841112",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to nóż kuchenny do obierania warzyw i owoców, co jednoznacznie wskazuje na kategorię liścia 'Noże i nożyce kuchenne' w sekcji wyposażenia wnętrz i przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nożyk do obierania warzyw i owoców ze stali nierdzewnej 190 mm - hendi 841112",
+                "description": "Numer producenta: 841112 Profesjonalny nóż do obierania ze szpiczastym końcem. Cechy produktu: - wyprodukowany w Niemczech - wykonany ze stali nierdzewnej - uchwyt z polipropylenu - można myć w zmywarce - przeznaczony do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość noża: 190 mm - długość ostrza: 87 mm W zestawie: - nóż do obierania\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 32.16,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/841112-hendi-nozyk-do-obierania-warzyw-i-owocow-ze-stali-nierdzewnej-190-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
