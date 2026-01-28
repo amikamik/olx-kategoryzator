@@ -5876,5 +5876,179 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004363",
+        "Nazwa_Produktu": "Wybierak cukierniczy do ciasta w kształcie łyżki z tworzywa ABS dł. 254 mm - Hendi 659458",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wybierak cukierniczy przeznaczony do ciast, co w strukturze kategorii OLX odpowiada najdokładniej liściowi 'Akcesoria cukiernicze' w dziale przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wybierak cukierniczy do ciasta w kształcie łyżki z tworzywa abs dł. 254 mm - hendi 659458",
+                "description": "Numer producenta: 659458 Wybierak do ciasta marki Hendi idealnie sprawdzi się przy wyrobach cukierniczych. Posiada łopatkę wykonaną z syntetycznej gumy oraz uchwyt z tworzywa ABS. Uchwyt posiada otwór w rączce, umożliwiając zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze znajdował się pod ręką. Produkt odporny na wysokie warunki termiczne, także bez obaw można myć w zmywarce. Parametry: - wymiary: 57x88 mm - długość: 254 mm W zestawie: - wybierak\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 28.92,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/659458-hendi-wybierak-cukierniczy-do-ciasta-w-ksztalcie-lyzki-z-tworzywa-abs-dl-254-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004364",
+        "Nazwa_Produktu": "Wybierak cukierniczy do ciasta w kształcie łyżki z tworzywa ABS dł. 357 mm - Hendi 659465",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wybierakiem do ciasta (łopatką) dedykowanym do prac cukierniczych. Idealnie wpisuje się w definicję kategorii 'Akcesoria cukiernicze' znajdującej się w sekcji 'Przybory kuchenne'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wybierak cukierniczy do ciasta w kształcie łyżki z tworzywa abs dł. 357 mm - hendi 659465",
+                "description": "Numer producenta: 659465 Wybierak do ciasta marki Hendi idealnie sprawdzi się przy wyrobach cukierniczych. Posiada łopatkę wykonaną z syntetycznej gumy oraz uchwyt z tworzywa ABS. Uchwyt posiada otwór w rączce, umożliwiając zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze znajdował się pod ręką. Produkt odporny na wysokie warunki termiczne, także bez obaw można myć w zmywarce. Parametry: - wymiary: 75x117 mm - długość: 357 mm W zestawie: - wybierak\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/659465-hendi-wybierak-cukierniczy-do-ciasta-w-ksztalcie-lyzki-z-tworzywa-abs-dl-356-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004365",
+        "Nazwa_Produktu": "Wybierak cukierniczy do ciasta w kształcie łyżki z tworzywa ABS dł. 408 mm - Hendi 659472",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wybierak cukierniczy przeznaczony do ciasta, co jednoznacznie klasyfikuje go jako akcesorium cukiernicze w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wybierak cukierniczy do ciasta w kształcie łyżki z tworzywa abs dł. 408 mm - hendi 659472",
+                "description": "Numer producenta: 659472 Wybierak do ciasta marki Hendi idealnie sprawdzi się przy wyrobach cukierniczych. Posiada łopatkę wykonaną z syntetycznej gumy oraz uchwyt z tworzywa ABS. Uchwyt posiada otwór w rączce, umożliwiając zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze znajdował się pod ręką. Produkt odporny na wysokie warunki termiczne, także bez obaw można myć w zmywarce. Parametry: - wymiary: 75x117 mm - długość: 408 mm W zestawie: - wybierak\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/659472-hendi-wybierak-cukierniczy-do-ciasta-w-ksztalcie-lyzki-z-tworzywa-abs-dl-408-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

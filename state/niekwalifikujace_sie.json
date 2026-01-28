@@ -3698,5 +3698,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Ubijak marki Hendi o długości 600 mm jest profesjonalnym akcesorium przeznaczonym do użytku w gastronomii (HoReCa), a nie w standardowych warunkach domowych. Ze względu na markę i parametry techniczne, najlepiej pasuje do sekcji Firma i Przemysł w kategorii Gastronomia."
+    },
+    {
+        "ID_Produktu": "1001861",
+        "Nazwa_Produktu": "Wkład z pokrywką na zupę do adaptera 470930 do podgrzewacza 4.2 l - Hendi 470909",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalne akcesorium gastronomiczne ze stali nierdzewnej. Jest to wkład (pojemnik) do podgrzewacza zupy, dlatego najlepiej pasuje do kategorii Pojemniki gastronomiczne w sekcji Firma i Przemysł > Gastronomia."
+    },
+    {
+        "ID_Produktu": "1001862",
+        "Nazwa_Produktu": "Adapter na 2 pojemniki do zupy do podgrzewacza stołowego - Hendi 470930",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Podgrzewacze",
+        "Finalne_ID_AI": 5059,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to adapter przeznaczony do profesjonalnych podgrzewaczy gastronomicznych (standard GN 1/1) marki Hendi, co kwalifikuje go do kategorii Podgrzewacze w sekcji Gastronomia."
     }
 ]
