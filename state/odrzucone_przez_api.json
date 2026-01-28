@@ -749,5 +749,194 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002541",
+        "Nazwa_Produktu": "Garnek średni Kitchen Line z pokrywką 6 l śr. 240 x 135 mm - Hendi 836309",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym garnkiem ze stali nierdzewnej, co wprost odpowiada kategorii liścia 'Garnki i patelnie' w ścieżce Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Garnek średni kitchen line z pokrywką 6 l śr. 240 x 135 mm - hendi 836309",
+                "description": "Numer producenta: Hendi 836309 Średni garnek z pokrywką o pojemności 6 litrów z serii Kitchen Line marki Hendi to uniwersalne naczynie, które znajdzie zastosowanie zarówno w domowej kuchni, jak i w branży HoReCa. Charakteryzuje się wysoką jakością wykonania oraz kapsułowym wielowarstwowym dnem (stal nierdzewna 430, aluminium, stal nierdzewna 201). Garnek sprawdzi się na wszystkich rodzajach kuchenek, także na indukcyjnej. Cechy i funkcje: - Wykonanie ze stali nierdzewnej, - Kapsułowe wielowarstwowe dno zapewniające efektywne rozprowadzanie ciepła, - Bezpieczne użytkowanie dzięki solidnym, nienagrzewającym się stalowym uchwytom, - Nadaje się do mycia w zmywarkach. Parametry techniczne: - Seria - Kitchen Line - Pojemność - 6 l - Odpowiedni do - Kontakt z żywnością, kuchenka gazowa, kuchenka indukcyjna, kuchenka elektryczna, kuchenka ceramiczna, zmywarka do naczyń - Grubość ścianki - 0,6 mm - Materiał dna - stal nierdzewna/aluminium/stal nierdzewna - Materiał pokrywki - stal nierdzewna - Długość uchwytu - 75 mm - Wymiary (Średnica x Wysokość) - ø240 x 135 mm - Waga netto - 1,57 kg W zestawie: - Garnek - Pokrywka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 186.65,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/836309-garnek-sredni-kitchen-line-z-pokrywka-ean-8711369836309-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/836200-06.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002544",
+        "Nazwa_Produktu": "Garnek wysoki Kitchen Line z pokrywką 2,8 l śr. 160 x 140 h - Hendi 837108",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczny garnek kuchenny ze stali nierdzewnej. Najbardziej precyzyjną kategorią na poziomie liścia w dostarczonym drzewie jest 'Garnki i patelnie' (ID: 2121) w sekcji Dom i Ogród.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Garnek wysoki kitchen line z pokrywką 2,8 l śr. 160 x 140 h - hendi 837108",
+                "description": "Numer producenta: Hendi 837108 Wysoki garnek z pokrywką o pojemności 2,8 litra z serii Kitchen Line marki Hendi to uniwersalne naczynie, które znajdzie zastosowanie zarówno w domowej kuchni, jak i w branży HoReCa. Charakteryzuje się wysoką jakością wykonania oraz kapsułowym wielowarstwowym dnem (stal nierdzewna 201, aluminium, stal nierdzewna 430). Garnek nadaje się do pracy zarówno z kuchenkami ceramicznymi, gazowymi czy elektrycznymi, jak i również indukcyjnymi. Cechy i funkcje: - Wykonany ze stali nierdzewnej, - Możliwość gotowania a wszystkich rodzajach kuchenek, włącznie z indukcją, - Kapsułowe, wielowarstwowe dno zapewniające efektywne rozprowadzanie ciepła, - Bezpieczne użytkowanie dzięki solidnym, nienagrzewającym się stalowym uchwytom, - Nadaje się do mycia w zmywarkach. Parametry techniczne: - Seria - Kitchen Line - Pojemność - 2,8 l - Materiał wewnętrzny garnka - stal nierdzewna - Grubość ścianki - 0,6 mm - Materiał dna - stal nierdzewna/aluminium/stal nierdzewna - Wymiary (Średnica x Wysokość) - ø160 x 140 mm - Waga - 0.9 kg W zestawie: - Garnek - Pokrywka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 133.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/837108-garnek-wysoki-kitchen-line-z-pokrywka-2-8-ean-8711369837108-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/837108-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/837108-7.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/837108-15.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002545",
+        "Nazwa_Produktu": "Garnek wysoki Kitchen Line z pokrywką 5 l śr. 200 x 160 h - Hendi 837207",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym garnkiem kuchennym z pokrywką. Najbardziej dopasowaną kategorią końcową (liściem) w drzewie OLX dla tego typu produktów jest 'Garnki i patelnie' (ID: 2121) w sekcji Wyposażenie wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Garnek wysoki kitchen line z pokrywką 5 l śr. 200 x 160 h - hendi 837207",
+                "description": "Numer producenta: Hendi 837207 Wysoki garnek z pokrywką o pojemności 5 litrów z serii Kitchen Line marki Hendi to uniwersalne naczynie, które znajdzie zastosowanie zarówno w domowej kuchni, jak i w branży HoReCa. Charakteryzuje się wysoką jakością wykonania oraz kapsułowym wielowarstwowym dnem (stal nierdzewna 201, aluminium, stal nierdzewna 430). Garnek nadaje się do pracy zarówno z kuchenkami ceramicznymi, gazowymi czy elektrycznymi, jak i również indukcyjnymi. Cechy i funkcje: - Wykonany ze stali nierdzewnej, - Możliwość gotowania a wszystkich rodzajach kuchenek, włącznie z indukcją, - Kapsułowe, wielowarstwowe dno zapewniające efektywne rozprowadzanie ciepła, - Bezpieczne użytkowanie dzięki solidnym, nienagrzewającym się stalowym uchwytom, - Nadaje się do mycia w zmywarkach. Parametry techniczne: - Seria - Kitchen Line - Pojemność - 5 l - Materiał wewnętrzny garnka - stal nierdzewna - Grubość ścianki - 0,6 mm - Materiał dna - stal nierdzewna/aluminium/stal nierdzewna - Wymiary (Średnica x Wysokość) - ø200 x 160 mm - Waga - 1.24 kg W zestawie: - Garnek - Pokrywka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 174.21,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/837207-garnek-wysoki-kitchen-line-ean-8711369837207-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/837108-15.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

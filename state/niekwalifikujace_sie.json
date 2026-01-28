@@ -648,5 +648,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest mechaniczną częścią zamienną (paskiem napędowym) do profesjonalnego urządzenia gastronomicznego marki Royal Catering. Zgodnie z drzewem kategorii najlepiej pasuje do 'Części do maszyn i urządzeń' (ID: 4767) w dziale 'Firma i Przemysł', ponieważ marka ta specjalizuje się w wyposażeniu komercyjnym i przemysłowym, a nie w domowym sprzęcie AGD."
+    },
+    {
+        "ID_Produktu": "1002549",
+        "Nazwa_Produktu": "Patelnia Kitchen Line bez pokrywki śr. 240 mm - Hendi 838501",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to patelnia marki Hendi z serii Kitchen Line, która jest dedykowana dla profesjonalnego sektora HoReCa (gastronomii). Wybrana kategoria 'Patelnie gastronomiczne' jest najbardziej specyficznym dopasowaniem dla profesjonalnego naczynia kuchennego tego typu."
     }
 ]
