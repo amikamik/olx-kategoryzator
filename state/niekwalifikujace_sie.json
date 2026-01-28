@@ -3428,5 +3428,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Marka Hendi jest producentem profesjonalnego sprzętu gastronomicznego, co sugeruje przynależność do branży 'Firma i Przemysł'. Produkt jest akcesorium pomocniczym do filtrowania frytury (tłuszczu), co jest czynnością specyficzną dla profesjonalnych kuchni. Ze względu na brak dedykowanej podkategorii dla akcesoriów/przyborów w dziale 'Gastronomia', kategoria 'Pozostałe' w tym drzewie jest najbardziej odpowiednim i najczęściej stosowanym wyborem dla tego typu przedmiotów profesjonalnych."
+    },
+    {
+        "ID_Produktu": "1004023",
+        "Nazwa_Produktu": "Druciana szufla do frytek z podwójną siatką - Hendi 642603",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna szufla marki Hendi, przeznaczona do użytku w gastronomii. Z uwagi na charakter B2B i przeznaczenie do profesjonalnych kuchni, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
     }
 ]
