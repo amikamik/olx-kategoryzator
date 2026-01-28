@@ -3628,5 +3628,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalne akcesorium kuchenne marki Hendi, wykonane ze stali nierdzewnej 18/10 i spełniające normy HACCP. Ze względu na przeznaczenie dla branży HoReCa oraz parametry techniczne (długość 51 cm), najlepiej pasuje do kategorii profesjonalnej gastronomii w dziale Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1004238",
+        "Nazwa_Produktu": "Rózga trzepaczka stalowa 8 wrzecion dł. 500 mm - Hendi 511503",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna rózga kuchenna marki Hendi o długości 500 mm, co wskazuje na zastosowanie przemysłowe/gastronomiczne (standardowe domowe trzepaczki są znacznie mniejsze). Marka Hendi jest wiodącym dostawcą dla sektora HoReCa, dlatego kategoria Firma i Przemysł > Gastronomia > Pozostałe jest najbardziej adekwatna."
     }
 ]

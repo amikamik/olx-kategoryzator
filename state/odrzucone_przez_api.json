@@ -4278,5 +4278,225 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004236",
+        "Nazwa_Produktu": "Rózga trzepaczka stalowa 8 wrzecion dł. 400 mm - Hendi 510308",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczna rózga (trzepaczka) kuchenna ze stali nierdzewnej. Najbardziej dopasowaną kategorią w drzewie jest 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne'. Ponieważ w tej sekcji nie istnieje specyficzna kategoria dla trzepaczek, wybrano kategorię liścia 'Pozostałe' (ID: 2127), która jest właściwym miejscem dla manualnych akcesoriów kuchennych niewymienionych z nazwy.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rózga trzepaczka stalowa 8 wrzecion dł. 400 mm - hendi 510308",
+                "description": "Numer producenta: 510308 Rózga marki HENDI posiada 8 wrzecion, wykonana ze stali nierdzewnej świetnie, sprawdzi się do zagęszczania sosów, rozcierania ciasta czy ubijania piany. Uchwyt posiada otwór umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Odporna na poddawanie wysokiej temperaturze, dzięki czemu bez obaw można ją myć w zmywarce. Produkt dopuszczony do kontaktu z żywnością. Idealna do branży HoReCa, a także warunków domowych. Parametry: - długość: 400 mm W zestawie: - rózga z uchwytem\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 49.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/510308-hendi-rozga-trzepaczka-stalowa-8-wrzecion-dl-400-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/510001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004237",
+        "Nazwa_Produktu": "Rózga trzepaczka stalowa 8 wrzecion dł. 450 mm - Hendi 510407",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczny przybór kuchenny (rózga/trzepaczka). W drzewie kategorii OLX nie ma dedykowanej kategorii dla trzepaczek, dlatego najlepiej pasuje do kategorii 'Pozostałe' w sekcji 'Przybory kuchenne' (id: 2113). Choć marka Hendi i rozmiar (450 mm) sugerują zastosowanie profesjonalne (HoReCa), opis wyraźnie wskazuje na przydatność w warunkach domowych, co czyni dział 'Dom i Ogród' najbardziej trafnym wyborem dla przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rózga trzepaczka stalowa 8 wrzecion dł. 450 mm - hendi 510407",
+                "description": "Numer producenta: 510407 Rózga marki HENDI posiada 8 wrzecion, wykonana ze stali nierdzewnej świetnie, sprawdzi się do zagęszczania sosów, rozcierania ciasta czy ubijania piany. Uchwyt posiada otwór umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Odporna na poddawanie wysokiej temperaturze, dzięki czemu bez obaw można ją myć w zmywarce. Produkt dopuszczony do kontaktu z żywnością. Idealna do branży HoReCa, a także warunków domowych. Parametry: - długość: 450 mm - grubość wrzeciona 2.2 mm W zestawie: - rózga z uchwytem\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 51.59,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/510407-hendi-rozga-trzepaczka-stalowa-8-wrzecion-dl-450-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/510001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004240",
+        "Nazwa_Produktu": "Rózga trzepaczka stalowa 8 wrzecion dł. 600 mm - Hendi 511701",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przybór kuchenny (rózga/trzepaczka). Najlepiej pasującą ścieżką w drzewie kategorii jest Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne. Ponieważ drzewo nie zawiera specyficznej kategorii dla trzepaczek, właściwym wyborem jest kategoria 'Pozostałe' (ID: 2127) będąca liściem w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rózga trzepaczka stalowa 8 wrzecion dł. 600 mm - hendi 511701",
+                "description": "Numer producenta: 511701 Rózga marki HENDI posiada 8 wrzecion, wykonana ze stali nierdzewnej świetnie, sprawdzi się do zagęszczania sosów, rozcierania ciasta czy ubijania piany. Uchwyt posiada otwór umożliwiający zawieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Odporna na poddawanie wysokiej temperaturze, dzięki czemu bez obaw można ją myć w zmywarce. Produkt dopuszczony do kontaktu z żywnością. Idealna do branży HoReCa, a także warunków domowych. Parametry: - długość: 600 mm - grubość wrzeciona: 2.2 mm W zestawie: - rózga z uchwytem\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 58.07,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/511701-hendi-rozga-trzepaczka-stalowa-8-wrzecion-dl-600-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/510001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004247",
+        "Nazwa_Produktu": "Sito chińskie stożkowe cedzak ze stali nierdzewnej śr. 185 mm - Hendi 547304",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Sitka i cedzaki",
+        "Finalne_ID_AI": 2132,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sito kuchenne (cedzak) marki Hendi, wykonane ze stali nierdzewnej i przeznaczone do kontaktu z żywnością. Najbardziej precyzyjną kategorią w drzewie jest 'Sitka i cedzaki' (ID: 2132) znajdująca się w sekcji Przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sito chińskie stożkowe cedzak ze stali nierdzewnej śr. 185 mm - hendi 547304",
+                "description": "Numer producenta: 547304 Profesjonalne sito chińskie wykonane z wysokiej jakości stali nierdzewnej próby 18/10 dopuszczonej do kontaktu z żywnością. Druciany uchwyt umożliwia powieszenie akcesorium w łatwo dostępnym miejscu, tak aby zawsze mieć go pod ręką. Wykazuje dużą odporność mechaniczną, a także antykorozyjność. Produkt przystosowany do mycia w zmywarce. Parametry: - średnica: 185 mm - długość: 350 mm W zestawie: - sito chińskie - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2132,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 87.53,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/547304-hendi-sito-chinskie-stozkowe-cedzak-ze-stali-nierdzewnej-sr-185-mm-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/547304-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
