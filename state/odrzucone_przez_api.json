@@ -3213,5 +3213,63 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004162",
+        "Nazwa_Produktu": "Profesjonalny nóż uniwersalny ząbkowany czarny HACCP 100 mm - Hendi 842102",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny nóż kuchenny marki Hendi, przeznaczony do gastronomii oraz użytku domowego. Najbardziej precyzyjną kategorią dla tego typu przedmiotu w drzewie kategorii OLX jest 'Noże i nożyce kuchenne' (ID: 2128).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż uniwersalny ząbkowany czarny haccp 100 mm - hendi 842102",
+                "description": "Numer producenta: 842102 Uniwersalny nóż z linii Standard marki Hendi z rączką w kolorze czarnym Cechy produktu: - wykonany ze stali nierdzewnej - uchwyt z polipropylenu, zgodnie z normami HACCP - każdy nóż jest w osobnym estetycznym blistrze - nóż ząbkowany - można myć w zmywarkach - przeznaczony do profesjonalnej kuchni, małej gastronomi oraz do domowego użytku Parametry: - długość ostrza: 100 mm - długość noża: 205 mm - grubość: 1,2 mm W zestawie: - nóż uniwersalny\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.68,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/842102-hendi-profesjonalny-noz-uniwersalny-zabkowany-czarny-haccp-100-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
