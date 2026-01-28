@@ -44,7 +44,7 @@ GEMINI_CACHE_NAME = None  # Globalny cache dla drzewa kategorii
 def create_gemini_cache(api_key, model_name, system_content):
     """
     Tworzy explicit cache dla drzewa kategorii w Gemini API.
-    Cache działa przez 1 godzinę (TTL=3600s).
+    Cache działa przez 24 godziny (TTL=86400s - maksimum).
     """
     global GEMINI_CACHE_NAME
     
@@ -62,7 +62,7 @@ def create_gemini_cache(api_key, model_name, system_content):
                 "parts": [{"text": system_content}]
             }
         ],
-        "ttl": "3600s"  # 1 godzina
+        "ttl": "86400s"  # 24 godziny (maksimum)
     }
     
     try:
@@ -155,6 +155,12 @@ def call_gemini_with_cache(user_content, api_key, model_name, response_format_js
             return candidates[0]['content']['parts'][0]['text']
             
         except requests.exceptions.HTTPError as e:
+            # 403 Forbidden - cache prawdopodobnie wygasł
+            if e.response.status_code == 403:
+                print(f"⚠️ Błąd 403 Forbidden - cache wygasł, wyłączam cache")
+                GEMINI_CACHE_NAME = None  # Wyłącz cache
+                return None  # Fallback do standardowego wywołania
+            
             if e.response.status_code in [503, 429]:
                 if attempt < max_retries - 1:
                     wait_time = retry_delay * (attempt + 1)
