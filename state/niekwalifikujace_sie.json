@@ -4728,5 +4728,355 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to specjalistyczny nóż rzeźniczy z certyfikacją HACCP, co wskazuje na zastosowanie profesjonalne w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' najlepiej oddaje ten kontekst, ponieważ nie ma bardziej szczegółowej kategorii dla ręcznych narzędzi w tym dziale."
+    },
+    {
+        "ID_Produktu": "1005107",
+        "Nazwa_Produktu": "Paliwo pasta do podgrzewacza do żywności puszka z knotem 145ml zestaw 24szt. - Hendi 193693",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest paliwem do podgrzewaczy żywności, co wskazuje na zastosowanie w gastronomii, często profesjonalnej (marka Hendi, opakowanie 24 szt.). Najlepszą kategorią jest 'Firma i Przemysł > Gastronomia', a ponieważ nie ma bardziej szczegółowej dla paliwa, wybrana została kategoria 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "1005109",
+        "Nazwa_Produktu": "Paliwo pasta do podgrzewacza do żywności puszka z knotem 200ml zestaw 24szt. - Hendi 193686",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to paliwo do podgrzewaczy żywności, co jednoznacznie wskazuje na zastosowanie w branży gastronomicznej. Biorąc pod uwagę kontekst marki Hendi (profesjonalny sprzęt cateringowy) oraz sprzedaż w zestawie 24 sztuk (wskazującą na użytkowanie komercyjne), kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna. Ponieważ nie ma bardziej szczegółowej kategorii dla paliw lub akcesoriów do podgrzewaczy w ramach Gastronomii, 'Pozostałe' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1005113",
+        "Nazwa_Produktu": "Palnik gazowy gastronomiczny cukierniczy automatyczny do Creme Brulee - Hendi 198223",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalne_ID_AI": 5047,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to palnik gazowy gastronomiczny, używany do gotowania (np. Creme Brulee). Kategoria 'Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne' jest kategorią liściową i, pomimo nazwy sugerującej większe sprzęty, w kontekście OLX często obejmuje pojedyncze, specjalistyczne urządzenia do gotowania w gastronomii. Potwierdza to również wskazówka systemowa."
+    },
+    {
+        "ID_Produktu": "1005137",
+        "Nazwa_Produktu": "Pojemnik GN perforowany stal nierdzewna GN1/1 530x325mm wys. 20mm - Hendi 802168",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to perforowany pojemnik GN (Gastronorm) ze stali nierdzewnej, wyraźnie przeznaczony do użytku w restauracjach, hotelach i innych punktach gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i idealnie pasuje do charakterystyki produktu."
+    },
+    {
+        "ID_Produktu": "1005140",
+        "Nazwa_Produktu": "Pojemnik GN perforowany stal nierdzewna GN1/3 325x176mm wys. 200mm - Hendi 802502",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to perforowany pojemnik GN przeznaczony do użytku w restauracjach i innych punktach gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i idealnie pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "1005141",
+        "Nazwa_Produktu": "Pojemnik GN perforowany stal nierdzewna GN1/3 325x176mm wys. 150mm - Hendi 802519",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to perforowany pojemnik GN ze stali nierdzewnej, przeznaczony do zastosowań gastronomicznych w restauracjach, hotelach i barach mlecznych. Kategoria 'Pojemniki gastronomiczne' w drzewie 'Firma i Przemysł > Gastronomia' jest najbardziej precyzyjnym i szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1005142",
+        "Nazwa_Produktu": "Pojemnik GN perforowane dno stal nierdzewna GN1/3 325x176mm wys. 40mm - Hendi 802540",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN, który jest typowym pojemnikiem gastronomicznym. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' idealnie odpowiada jego nazwie i zastosowaniu w gastronomii, co jest jasno określone w opisie."
+    },
+    {
+        "ID_Produktu": "1005143",
+        "Nazwa_Produktu": "Pojemnik GN perforowany stal nierdzewna GN1/3 325x176mm wys. 100mm - Hendi 802526",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to perforowany pojemnik GN ze stali nierdzewnej, przeznaczony do użytku w restauracjach, hotelach i innych lokalach gastronomicznych, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1005144",
+        "Nazwa_Produktu": "Pojemnik GN perforowane dno stal nierdzewna GN1/3 325x176mm wys. 65mm - Hendi 802533",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik GN przeznaczony do użytku w gastronomii (restauracje, hotele, bary mleczne), co idealnie pasuje do kategorii 'Pojemniki gastronomiczne' znajdującej się pod 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1005145",
+        "Nazwa_Produktu": "Pojemnik GN z chowanymi uchwytami stal nierdzewna GN1/3 325x176mm wys. 200mm - Hendi 803509",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN przeznaczony do użytku w restauracjach i innych punktach gastronomicznych, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1005146",
+        "Nazwa_Produktu": "Pojemnik GN z chowanymi uchwytami stal nierdzewna GN1/4 265x162mm wys. 200mm - Hendi 803608",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN, a opis jasno wskazuje na zastosowanie w gastronomii (restauracje, hotele, bary mleczne). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest idealnym i najbardziej szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1005147",
+        "Nazwa_Produktu": "Pojemnik GN z chowanymi uchwytami stal nierdzewna GN1/6 176x162mm wys. 200mm - Hendi 803707",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN, który jest specjalistycznym pojemnikiem gastronomicznym. Najbardziej szczegółowa i trafna kategoria to 'Pojemniki gastronomiczne' znajdująca się w dziale 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1005149",
+        "Nazwa_Produktu": "Pojemnik GN Profi Line stalowy -40C do +300C GN 2/4 wys. 150mm - Hendi 801840",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik GN przeznaczony do użytku w gastronomii (restauracje, hotele, bary mleczne). Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjnie opisuje ten typ produktu w ramach kategorii 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1005150",
+        "Nazwa_Produktu": "Pojemnik GN Profi Line stalowy -40C do +300C GN 2/4 wys. 65mm - Hendi 801857",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN, który jest specjalistycznym pojemnikiem gastronomicznym. Kategoria 'Pojemniki gastronomiczne' jest idealnym i najbardziej szczegółowym dopasowaniem, znajdując się w drzewie 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1005151",
+        "Nazwa_Produktu": "Pojemnik GN Profi Line stalowy -40C do +300C GN 2/4 wys. 40mm - Hendi 801864",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN stalowy przeznaczony do użytku w gastronomii, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1005152",
+        "Nazwa_Produktu": "Pojemnik GN Profi Line stalowy -40C do +300C GN 2/4 wys. 20mm - Hendi 801871",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN przeznaczony do użytku w gastronomii. Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółową i trafnie opisuje ten produkt."
+    },
+    {
+        "ID_Produktu": "1005153",
+        "Nazwa_Produktu": "Pojemnik z pokrywką stalowy na pastę paliwo do podgrzewacza żywności zestaw 2szt. A - Hendi 470527",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowy pojemnik na pastę paliwową do podgrzewaczy żywności, co silnie wskazuje na zastosowanie gastronomiczne. Marka Hendi jest znana z profesjonalnego sprzętu gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1005155",
+        "Nazwa_Produktu": "Pokrywka pokrywa do wiadra ze stali nierdzewnej śr. 280mm - Hendi 516690",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do wiadra gastronomicznego. Kategoria 'Pojemniki gastronomiczne' w gałęzi 'Firma i Przemysł > Gastronomia' jest najbardziej precyzyjna i szczegółowa, idealnie pasująca do przeznaczenia produktu. Kategoria 'Części i akcesoria AGD do kuchni' z gałęzi 'Elektronika' sugerowana przez system jest myląca, ponieważ 'AGD' odnosi się do artykułów gospodarstwa domowego, a produkt jest przeznaczony do zastosowań gastronomicznych/profesjonalnych."
+    },
+    {
+        "ID_Produktu": "1005158",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN z kolorowymi klipsami Haccp GN2/3 354x325mm stal nierdzewna - Hendi 805213",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, co w połączeniu z informacjami o HACCP, Sanepidzie, piecach konwekcyjnych i bemarach, jednoznacznie wskazuje na zastosowanie w profesjonalnej gastronomii. Kategoria 'Pojemniki gastronomiczne' (ID: 5076) jest najbardziej szczegółową i najlepiej pasującą opcją."
+    },
+    {
+        "ID_Produktu": "1005159",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN z kolorowymi klipsami Haccp GN2/4 530x162mm stal nierdzewna - Hendi 805275",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, używanego w gastronomii. Najbardziej precyzyjną kategorią-liściem jest 'Pojemniki gastronomiczne', ponieważ pokrywka jest integralną częścią takiego pojemnika, a kontekst użycia (HACCP, piece konwekcyjne, bemery, Sanepid) jednoznacznie wskazuje na zastosowanie profesjonalne, idealnie pasujące do gałęzi 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1005162",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN z kolorowymi klipsami Haccp GN1/4 265x162mm stal nierdzewna - Hendi 805244",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, który jest standardem w gastronomii. Opis wyraźnie wskazuje na zastosowania profesjonalne ('piece konwekcyjne, lodówki, bemary i podgrzewacze', 'Haccp', 'Sanepidu'). Najbardziej szczegółową i pasującą kategorią jest 'Pojemniki gastronomiczne' pod 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1005165",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z uszczelką silikonową GN2/3 354x325mm stalowa nierdzewna - Hendi 802618",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, przeznaczona do użytku w gastronomii (restauracje, firmy cateringowe). Kategoria 'Pojemniki gastronomiczne' (ID: 5076) jest najbardziej szczegółową i adekwatną kategorią dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "1005166",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z uszczelką silikonową GN1/2 265x325mm stalowa nierdzewna - Hendi 802625",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, który jest standardowym elementem wyposażenia gastronomicznego. Kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia' jest najbardziej precyzyjna i szczegółowa."
+    },
+    {
+        "ID_Produktu": "1005167",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z uszczelką silikonową GN1/3 325x176mm stalowa nierdzewna - Hendi 802632",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, przeznaczona do użytku w restauracjach, barach i firmach kateringowych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1005168",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z uszczelką silikonową GN1/4 265x162mm stalowa nierdzewna - Hendi 802649",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, przeznaczona dla gastronomii (restauracje, bary, catering). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i idealnie pasuje do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "1005169",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z uszczelką silikonową GN1/6 176x162mm stalowa nierdzewna - Hendi 802656",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, przeznaczona do użytku w restauracjach, barach i firmach cateringowych. Najbardziej szczegółową i pasującą kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ pokrywka jest ściśle związana z pojemnikami gastronomicznymi."
+    },
+    {
+        "ID_Produktu": "1005171",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z uszczelką silikonową i wycięciem na uchwyty GN2/3 354x325mm stal - Hendi 804315",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, przeznaczona dla profesjonalnych lokali gastronomicznych. Najbardziej szczegółowa kategoria to 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', która obejmuje zarówno pojemniki, jak i akcesoria do nich."
+    },
+    {
+        "ID_Produktu": "1005173",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z uszczelką silikonową i wycięciem na uchwyty GN1/3 325x176mm stal - Hendi 804339",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do profesjonalnych pojemników gastronomicznych GN, co idealnie pasuje do kategorii 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł > Gastronomia'. Jest to najbardziej szczegółowa i trafna kategoria-liść."
+    },
+    {
+        "ID_Produktu": "1005174",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z uszczelką silikonową i wycięciem na uchwyty GN1/4 265x162mm stal - Hendi 804346",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, przeznaczona do profesjonalnych zastosowań gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1005176",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z wycięciem na uchwyty GN1/1 530x325mm stal nierdzewna - Hendi 804209",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, przeznaczona do użytku w restauracjach i firmach kateringowych. Kategoria 'Pojemniki gastronomiczne' w drzewie 'Firma i Przemysł > Gastronomia' jest najdokładniejszym i najbardziej szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1005177",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z wycięciem na uchwyty GN2/3 354x325mm stal nierdzewna - Hendi 804216",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, przeznaczona do użytku w gastronomii. Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółową i idealnie pasującą kategorią, ponieważ pokrywka jest integralną częścią takiego pojemnika."
+    },
+    {
+        "ID_Produktu": "1005178",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z wycięciem na uchwyty GN1/2 265x325mm stal nierdzewna - Hendi 804223",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN z serii 'Profi Line', przeznaczona do użytku w restauracjach, barach i firmach cateringowych, co jednoznacznie wskazuje na kategorię gastronomiczną. 'Pojemniki gastronomiczne' to najbardziej szczegółowa i trafna kategoria-liść."
+    },
+    {
+        "ID_Produktu": "1005179",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z wycięciem na uchwyty GN1/3 325x176mm stal nierdzewna - Hendi 804230",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, przeznaczona do profesjonalnego użytku gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, ponieważ pokrywka jest akcesorium do pojemnika gastronomicznego, a opis jasno wskazuje na zastosowanie w restauracjach i cateringu."
+    },
+    {
+        "ID_Produktu": "1005180",
+        "Nazwa_Produktu": "Pokrywka do pojemnika GN Profi Line z wycięciem na uchwyty GN1/4 265x162mm stal nierdzewna - Hendi 804247",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN, przeznaczona do użytku profesjonalnego w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1005204",
+        "Nazwa_Produktu": "Stojak bufetowy dekoracyjny do misek do prezentacji trójkąty wys. 200mm - Hendi 561973",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stojak bufetowy, markowany przez Hendi, co wskazuje na profesjonalny sprzęt gastronomiczny. Najbardziej szczegółową kategorią-liściem pasującą do tego typu wyposażenia jest 'Pozostałe' w dziale 'Firma i Przemysł > Gastronomia', ponieważ nie ma bardziej precyzyjnej podkategorii dla stojaków bufetowych."
     }
 ]
