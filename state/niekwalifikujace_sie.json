@@ -4488,5 +4488,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to taca w standardzie Gastronorm (GN 1/1) z linii 'Profi Line', przeznaczona do użytku w piecach konwekcyjnych, lodówkach, bemarach i podgrzewaczach. Wskazuje to na profesjonalne zastosowanie gastronomiczne, dlatego 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółową i trafną kategorią."
+    },
+    {
+        "ID_Produktu": "1003335",
+        "Nazwa_Produktu": "Pojemnik kuweta do wzrostu ciasta na pizze 60x40cm wys. 70mm - Hendi 880906",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla kotów > Kuwety",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik do wzrostu ciasta na pizzę, dedykowany do zastosowań gastronomicznych (marka Hendi, duże wymiary). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna, ignorując mylące słowo 'kuweta' w tytule, które w tym kontekście nie odnosi się do kuwety dla zwierząt."
+    },
+    {
+        "ID_Produktu": "1003336",
+        "Nazwa_Produktu": "Pojemnik kuweta do wzrostu ciasta na pizze 60x40cm wys. 90mm - Hendi 880913",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik do ciasta na pizzę, co sugeruje zastosowanie gastronomiczne. Marka Hendi jest również kojarzona z wyposażeniem dla firm. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej odpowiada przeznaczeniu produktu, w odróżnieniu od ogólnych akcesoriów kuchennych do użytku domowego."
+    },
+    {
+        "ID_Produktu": "1003352",
+        "Nazwa_Produktu": "Torba termiczna do transportu PIZZY 45x45cm - Hendi 709818",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to torba termiczna przeznaczona do transportu żywności, w szczególności pizzy, z uwzględnieniem wymogów sanitarnych dla gastronomii. Kategoria 'Pojemniki gastronomiczne' w drzewie 'Firma i Przemysł > Gastronomia' jest najbardziej precyzyjnym i szczegółowym wyborem, idealnie odzwierciedlającym zastosowanie produktu. Kategoria z podpowiedzi 'Torby na zakupy' jest zbyt ogólna i nie pasuje do profesjonalnego charakteru produktu."
+    },
+    {
+        "ID_Produktu": "1003353",
+        "Nazwa_Produktu": "Torba termiczna do transportu PIZZY 35x35cm - Hendi 709825",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torba termiczna przeznaczona do transportu pizzy, co wskazuje na zastosowanie profesjonalne w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, biorąc pod uwagę charakter produktu i markę (Hendi, znana z wyposażenia gastronomicznego)."
+    },
+    {
+        "ID_Produktu": "1003355",
+        "Nazwa_Produktu": "Podkładka dystansowa do pudełek transportu pizzy zestaw 500szt. - Hendi 709900",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podkładka dystansowa do pudełek na pizzę, używana w transporcie gastronomicznym. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, ponieważ podkładka jest akcesorium bezpośrednio związanym z pojemnikami (pudełkami) gastronomicznymi, mimo że sama nie jest pojemnikiem."
+    },
+    {
+        "ID_Produktu": "1002608",
+        "Nazwa_Produktu": "Pojemnik kuweta na naczynia 55.5x41cm - Hendi 552001",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Akcesoria kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik kuchenny na naczynia marki HENDI, która jest typowym producentem sprzętu gastronomicznego. Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjna, idealnie pasująca do nazwy i opisu produktu. Sugestia systemu, by zakwalifikować produkt jako 'Antyk', jest błędna ze względu na nowoczesny charakter produktu."
     }
 ]
