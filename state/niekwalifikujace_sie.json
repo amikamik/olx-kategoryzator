@@ -4338,5 +4338,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to sitko (część) do 'wilka' (maszynki do mielenia mięsa), marki HENDI Kitchen Line. Marka Hendi i określenie 'Kitchen Line' często odnoszą się do profesjonalnego sprzętu gastronomicznego, co najlepiej pasuje do kategorii 'Firma i Przemysł'. Ponieważ jest to część urządzenia, kategoria 'Części do maszyn i urządzeń' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1004835",
+        "Nazwa_Produktu": "Grzałka do frytownicy Royal Catering RCEF-10EY/DY 230V 3200W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Podgrzewacze wody",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to grzałka (część zamienna) do frytownicy marki Royal Catering, która jest zazwyczaj używana w gastronomii (sektor Firma i Przemysł). Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' najlepiej oddaje charakter produktu jako części do urządzenia profesjonalnego."
+    },
+    {
+        "ID_Produktu": "1004885",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 5szt. - niebieskie 240L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Pozostałe",
+        "Finalne_ID_AI": 4275,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wytrzymałe worki na odpady, których producent jest liderem w dostarczaniu urządzeń i produktów do zakładów przemysłowych i warsztatów. Opis podkreśla ich zastosowanie w kontekście przemysłowym. Kategoria 'Firma i Przemysł > Pozostałe' jest najbardziej odpowiednia, ponieważ worki są ogólnym materiałem eksploatacyjnym w tym sektorze, a nie pasują do żadnej z bardziej specyficznych podkategorii w gałęzi 'Firma i Przemysł' (np. biuro, gastronomia, maszyny, odzież robocza, sklepy i magazyny, wyposażenie warsztatów)."
+    },
+    {
+        "ID_Produktu": "1004886",
+        "Nazwa_Produktu": "Worki na opdadki śmieci grube 80 mikr. wytrzymałe rolka 5szt. - zielone 240L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wytrzymałe worki na śmieci, których opis wskazuje na zastosowanie w 'zakładach przemysłowych i warsztatach'. Najbardziej szczegółową i trafną kategorią jest 'Firma i Przemysł > Sklepy i magazyny > Pozostałe', co najlepiej oddaje ich przeznaczenie w kontekście komercyjnym/przemysłowym."
+    },
+    {
+        "ID_Produktu": "1004887",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 5szt. - czarne 240L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to worki na śmieci o dużej pojemności i grubości, przeznaczone dla zakładów przemysłowych i warsztatów, co wskazuje na zastosowanie komercyjne/przemysłowe. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej odpowiednim miejscem dla tego typu artykułów, a 'Pozostałe' jest najbardziej szczegółową kategorią-liściem, gdy nie ma dedykowanej dla worków na śmieci."
+    },
+    {
+        "ID_Produktu": "1004888",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 5szt. - żółte 240L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wytrzymałe worki na śmieci, a opis wyraźnie wskazuje na zastosowanie w \"zakładach przemysłowych i warsztatach\", co idealnie pasuje do kategorii \"Firma i Przemysł\". Dalej, \"Sklepy i magazyny\" to odpowiednie miejsce dla tego typu materiałów eksploatacyjnych, a \"Pozostałe\" jest najbardziej szczegółową kategorią dla worków w tym kontekście."
     }
 ]
