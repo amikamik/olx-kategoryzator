@@ -4458,5 +4458,55 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt jest elementem konstrukcyjnym (hak do rozbudowy) specyficznego systemu regałowego, dlatego kategoria 'Regały' w sekcji 'Sklepy i magazyny' jest najwłaściwszym miejscem dla osprzętu i części składowych takich systemów."
+    },
+    {
+        "ID_Produktu": "1005017",
+        "Nazwa_Produktu": "Ekspozytor stojak stalowy do butelek dyspenserów do sosów 3 x 0.2L śr. 50mm  - Hendi 557969",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalny osprzęt gastronomiczny wykonany ze stali nierdzewnej, przeznaczony do użytku w branży HoReCa. Ze względu na specyficzne przeznaczenie (stojak na dyspensery do sosów) i charakterystykę marki, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe, która jest dedykowana dla specjalistycznych akcesoriów kuchennych niebędących urządzeniami elektrycznymi ani meblami."
+    },
+    {
+        "ID_Produktu": "1005018",
+        "Nazwa_Produktu": "Ekspozytor stojak stalowy do butelek dyspenserów do sosów 3 x 0.35L śr. 55mm  - Hendi 557976",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym akcesorium gastronomicznym renomowanej marki Hendi, wykonanym ze stali nierdzewnej 18/0. Nazwa 'ekspozytor' oraz przeznaczenie do dyspenserów sosów wskazują na użytek komercyjny w barach, restauracjach lub punktach fast-food, co klasyfikuje go w kategorii specjalistycznej dla branży gastronomicznej w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1005019",
+        "Nazwa_Produktu": "Ekspozytor stojak stalowy do butelek dyspenserów do sosów 3 x 0.7L śr. 70mm  - Hendi 557983",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt marki Hendi (producenta profesjonalnego wyposażenia dla branży HoReCa) to stojak na dyspensery do sosów, który stanowi typowy element wyposażenia profesjonalnych punktów gastronomicznych (restauracje, food trucki), co jednoznacznie wskazuje na kategorię Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1005025",
+        "Nazwa_Produktu": "Pokrywa ROLLTOP do koszyka na pieczywo GN2/3 wys. 175mm - Hendi 427538",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywa w standardzie gastronomicznym GN (2/3) marki Hendi, przeznaczona do użytku profesjonalnego, co klasyfikuje go do kategorii Pojemniki gastronomiczne w sekcji Gastronomia."
+    },
+    {
+        "ID_Produktu": "1005029",
+        "Nazwa_Produktu": "Kuweta do lodów profesjonalna stalowa nierdzewna 360x165x120mm poj. 5L  - Hendi 807019",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna kuweta gastronomiczna (GN) marki Hendi, wykonana ze stali nierdzewnej, przeznaczona do użytku komercyjnego w lodziarniach i gastronomii, co jednoznacznie wskazuje na kategorię Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne."
     }
 ]
