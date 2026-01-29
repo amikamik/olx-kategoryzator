@@ -8619,5 +8619,527 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002124",
+        "Nazwa_Produktu": "Końcówki do rożków rękawów cukierniczych do dekorowania PROSTE 4-16mm zestaw 7szt. - Hendi 551011",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw końcówek do rękawów cukierniczych, który służy do dekorowania wypieków, co jednoznacznie klasyfikuje go do kategorii Akcesoria cukiernicze w dziale Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Końcówki do rożków rękawów cukierniczych do dekorowania proste 4-16mm zestaw 7szt. - hendi 551011",
+                "description": "Numer producenta: 551011 Zestaw prostych końcówek do rękawów wykonany został z polipropylenu. Parametry: - średnica: 4-6-8-10-12-14-16 mm W zestawie: - końcówki do rękawów 7 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 48.35,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/551011-koncowki-do-rozkow-rekawow-cukierniczych-do-dekorowania-proste-4-16mm-zestaw-7szt-hendi-551011-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002125",
+        "Nazwa_Produktu": "Końcówki do rożków rękawów cukierniczych do dekorowania KARBOWANE 8-20mm zestaw 7szt. - Hendi 551110",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw końcówek do rękawów cukierniczych służących do dekorowania wypieków, co jednoznacznie klasyfikuje go w kategorii Akcesoria cukiernicze.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Końcówki do rożków rękawów cukierniczych do dekorowania karbowane 8-20mm zestaw 7szt. - hendi 551110",
+                "description": "Numer producenta: 551110 Zestaw karbowanych końcówek do rękawów wykonany został z polipropylenu. Parametry: - średnica: 8-10-12-14-16-18-20 mm W zestawie: - końcówki do rękawów 7 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 48.35,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/551110-koncowki-do-rozkow-rekawow-cukierniczych-do-dekorowania-karbowane-8-20mm-zestaw-7szt-hendi-551110-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002126",
+        "Nazwa_Produktu": "Końcówki do rożków rękawów cukierniczych do dekorowania ZESTAW 12 szt. - Hendi 551400",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw końcówek do rękawów cukierniczych, które są typowym akcesorium cukierniczym wykorzystywanym w kuchni. Wybrana kategoria 'Akcesoria cukiernicze' (2115) znajduje się w ścieżce Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne i jest najbardziej precyzyjnym liściem w drzewie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Końcówki do rożków rękawów cukierniczych do dekorowania zestaw 12 szt. - hendi 551400",
+                "description": "Numer producenta: 551400 Zestaw końcówek do rękawów cukierniczych wykonany został z polipropylenu. Parametry: - średnica: 6-8-10-12 mm W zestawie: - końcówki do rękawów cukierniczych 12 szt. - pudełko - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 99.01,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/551400-koncowki-do-rozkow-rekawow-cukierniczych-do-dekorowania-zestaw-12-szt-hendi-551400-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002127",
+        "Nazwa_Produktu": "Końcówki do rożków rękawów cukierniczych do dekorowania STALOWE 4-16mm 7szt. - Hendi 551615",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to końcówki do rękawów cukierniczych (tylki), które są klasyfikowane jako akcesoria cukiernicze w dziale przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Końcówki do rożków rękawów cukierniczych do dekorowania stalowe 4-16mm 7szt. - hendi 551615",
+                "description": "Numer producenta: 551615 Zestaw końcówek do rękawów cukierniczych wykonany został z wysokiej jakości stali nierdzewnej odpornej na korozję oraz uszkodzenia mechaniczne. Zestaw zawiera 7 prostych końcówek do rękawów cukierniczych o różnych średnicach. Parametry: - średnica: 4-6-8-10-12-14-16 mm W zestawie: - Końcówki do rękawów cukierniczych 7 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 55.91,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/551615-koncowki-do-rozkow-rekawow-cukierniczych-do-dekorowania-stalowe-4-16mm-7szt-hendi-551615-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002132",
+        "Nazwa_Produktu": "Końcówki do rożków rękawów cukierniczych do dekorowania STALOWE 2-10mm 5szt.- Hendi 551691",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to końcówki do rękawów cukierniczych służące do dekoracji wypieków, co w drzewie kategorii OLX odpowiada kategorii liściowej 'Akcesoria cukiernicze' w sekcji 'Wyposażenie wnętrz > Przybory kuchenne'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Końcówki do rożków rękawów cukierniczych do dekorowania stalowe 2-10mm 5szt.- hendi 551691",
+                "description": "Numer producenta: 551691 Zestaw końcówek do rękawów cukierniczych wykonany został z wysokiej jakości stali nierdzewnej odpornej na korozję oraz uszkodzenia mechaniczne. Zestaw zawiera 5 prostych końcówek do rękawów cukierniczych o różnych średnicach. Parametry: - średnica: 2-4-6-8-10 mm W zestawie: - Końcówki do rękawów cukierniczych 5 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 55.91,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/551691-koncowki-do-rozkow-rekawow-cukierniczych-do-dekorowania-stalowe-2-10mm-5szt-hendi-551691-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002150",
+        "Nazwa_Produktu": "Pędzelek cukierniczy do lukrowania silikonowy szer. 35mm - Hendi 515358",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest pędzelkiem przeznaczonym do prac cukierniczych (lukrowania), co idealnie odpowiada specyfice kategorii Akcesoria cukiernicze.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pędzelek cukierniczy do lukrowania silikonowy szer. 35mm - hendi 515358",
+                "description": "Numer producenta: 515358 Pędzelek cukierniczy - uchwyt wykonany z polipropylenu - nie można myć w zmywarkach - temperatura max 280deg;C Parametry: - długość: 235 mm - szerokość: 35 mm W zestawie: - Pędzelek cukierniczy\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 32.16,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/515358-pedzelek-cukierniczy-do-lukrowania-silikonowy-szer-35mm-hendi-515358-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002151",
+        "Nazwa_Produktu": "Pędzelek cukierniczy do lukrowania silikonowy szer. 50mm - Hendi 515365",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pędzelek cukierniczy, który jest wyspecjalizowanym narzędziem do wypieków, co bezpośrednio odpowiada kategorii 'Akcesoria cukiernicze' w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pędzelek cukierniczy do lukrowania silikonowy szer. 50mm - hendi 515365",
+                "description": "Numer producenta: 515365 Pędzelek cukierniczy - uchwyt wykonany z polipropylenu - nie można myć w zmywarkach - temperatura max 280deg;C Parametry: - długość: 235 mm - szerokość: 50 mm W zestawie: - Pędzelek cukierniczy\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/515365-pedzelek-cukierniczy-do-lukrowania-silikonowy-szer-50mm-hendi-515365-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002159",
+        "Nazwa_Produktu": "Porcjoner łyżka do lodów i sorbetu STÖCKEL 1/30L śr. 49mm długa - STOCKEL 755679",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to łyżka (porcjoner) do lodów marki STÖCKEL. Jest to klasyczny przybór kuchenny wykorzystywany do nakładania żywności. W drzewie kategorii OLX najbardziej odpowiednią ścieżką dla tego typu akcesorium jest Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe (ID 2127), ponieważ w sekcji przyborów kuchennych nie istnieje bardziej specyficzna kategoria dedykowana wyłącznie porcjonerom lub łyżkom do serwowania.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Porcjoner łyżka do lodów i sorbetu stöckel 1/30l śr. 49mm długa - stockel 755679",
+                "description": "Numer producenta: 755679 Porcjoner do nakładania lodów STÖCKEL wykonany został z wysokiej jakości aluminium. Akcesorium dopuszczone do kontaktu z żywnością. Parametry: - średnica: 49 mm - długość: 170 mm - pojemność: 1/30 l W zestawie: - Porcjoner do lodów i sorbetu STÖCKEL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 187.14,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/755679-porcjoner-lyzka-do-lodow-i-sorbetu-stockel-1-30l-sr-49mm-dluga-stockel-755679-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002162",
+        "Nazwa_Produktu": "Porcjoner łyżka do lodów i sorbetu KITCHEN LINE 1/30 śr. 56mm ogrzewana olejem srebrna - Hendi 759301",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczne akcesorium kuchenne (łyżka/porcjoner). Najbardziej precyzyjną kategorią dla tego typu narzędzi w strukturze OLX jest dział 'Przybory kuchenne' (2113). Ze względu na brak dedykowanej podkategorii dla łyżek do lodów, wybieram kategorię-liść 'Pozostałe' (2127) w obrębie tej grupy.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Porcjoner łyżka do lodów i sorbetu kitchen line 1/30 śr. 56mm ogrzewana olejem srebrna - hendi 759301",
+                "description": "Numer producenta: 759301 Porcjoner do nakładania lodów marki HENDI z linii Kitchen Line wykonany został z wysokiej jakości aluminium. Dużą zaletą akcesorium jest długi uchwyt, wewnątrz którego znajduje się olej dla lepszego porcjowania lodów. Ciepło dłoni nagrzewa olej w środku porcjonera, sprawiając, że zdecydowanie łatwiej jest formować oraz porcjować lody. Produkt dopuszczony jest do kontaktu z żywnością. Cechy produktu: - Wykonany z aluminium, - Lekki, - Uchwyt wypełniony olejem, - Przeznaczony do lodziarni i kawiarni, - Nie nadaje się do mycia w zmywarce. Parametry: - Średnica: 56 mm - Długość: 225 mm - Pojemność: 1/30 l W zestawie: - Porcjoner do lodów i sorbetu STÖCKEL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 94.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/759301-porcjoner-lyzka-do-lodow-i-sorbetu-kitchen-line-1-30-sr-49mm-ogrzewana-olejem-srebrna-hendi-759301-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
