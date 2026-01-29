@@ -7562,5 +7562,53 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1003648",
+        "Nazwa_Produktu": "Miseczka dziecięca do deserów lodów KLOWN 1szt. - Hendi 786239",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Miski",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Miski",
+        "Finalne_ID_AI": 2153,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to miseczka do deserów wykonana z porcelany. Pasuje idealnie do kategorii 'Miski' pod 'Zastawą stołową' w dziale 'Wyposażenie wnętrz'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 401",
+            "wyslany_payload": {
+                "title": "Miseczka dziecięca do deserów lodów klown 1szt. - hendi 786239",
+                "description": "Numer producenta: 786239 Kolorowa miseczka w kształcie Klauna zachęci do jedzenia nawet największego niejadka. Miseczkę można myć w zmywarkach. Wykonana z porcelany, Parametry: długość: 226 mm szerokość: 145 mm wysokość: 37 mm W zestawie: Miseczka do deserów\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2153,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 69.94,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/786239-miseczka-dziecieca-do-deserow-lodow-klown-1szt-hendi-786239-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": "invalid_token",
+                "error_description": "The access token provided is invalid",
+                "error_human_title": "Nieprawidłowy token."
+            }
+        }
     }
 ]
