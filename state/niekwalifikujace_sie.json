@@ -4428,5 +4428,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to specjalistyczny środek chemiczny o przeznaczeniu profesjonalnym (marka Hendi, objętość 10L, pH 1). Tytuł i opis wyraźnie wskazują na zastosowanie w zmywarkach gastronomicznych i przemysłowych, co klasyfikuje go jako zaopatrzenie dla firm z branży gastronomicznej (Firma i Przemysł > Gastronomia > Pozostałe), a nie produkt do użytku domowego z działu Supermarket."
+    },
+    {
+        "ID_Produktu": "1002697",
+        "Nazwa_Produktu": "Sól tabletki solne NaCl do uzdatniacza odkamieniacza do wody 25Kg - Hendi 231265",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Filtry i zmiękczacze wody",
+        "Finalne_ID_AI": 3215,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tabletki solne (NaCl) przeznaczone do regeneracji złóż w zmiękczaczach oraz uzdatniaczach wody. Wybrana kategoria 'Filtry i zmiękczacze wody' (3215) w sekcji instalacji hydraulicznych jest najbardziej precyzyjnym miejscem dla materiałów eksploatacyjnych tego typu."
+    },
+    {
+        "ID_Produktu": "1002755",
+        "Nazwa_Produktu": "Pojemnik termoizolacyjny cateringowy termos do transportu żywności EEP GN1/1 40L - Hendi 707906",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik termoizolacyjny w standardzie gastronomicznym GN 1/1, marki Hendi, przeznaczony do transportu żywności, co klasyfikuje go w kategorii wyposażenia profesjonalnej gastronomii."
+    },
+    {
+        "ID_Produktu": "1002763",
+        "Nazwa_Produktu": "Hak montażowy do rozbudowy regału magazynowego ażurowego 812273 - Hendi 812280",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalne_ID_AI": 4677,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest elementem konstrukcyjnym (hak do rozbudowy) specyficznego systemu regałowego, dlatego kategoria 'Regały' w sekcji 'Sklepy i magazyny' jest najwłaściwszym miejscem dla osprzętu i części składowych takich systemów."
     }
 ]

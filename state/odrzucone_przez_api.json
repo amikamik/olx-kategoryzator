@@ -14284,5 +14284,325 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004978",
+        "Nazwa_Produktu": "Brytfanna stalowa nierdzewna do pieczenia w piekarniku 315x245x50mm - Hendi 508503",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to brytfanna wykonana ze stali nierdzewnej, która służy do przygotowywania potraw w piekarniku. W strukturze kategorii OLX, brytfanny są klasyfikowane jako naczynia do gotowania i pieczenia mięs/dań obiadowych, co najlepiej odpowiada liściowi 'Garnki i patelnie' w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Brytfanna stalowa nierdzewna do pieczenia w piekarniku 315x245x50mm - hendi 508503",
+                "description": "Numer producenta: Hendi 508503 Brytfanna ze stali nierdzewnej marki Hendi to naczynie, które doskonale sprawdzi się w barach mlecznych, restauracjach, hotelach i domowych kuchniach. Charakteryzuje się wysoką odpornością termiczną i odpornością na uszkodzenia mechaniczne. Cechy i funkcje: - wykonana ze stali nierdzewnej, - odporność na temperatury w zakresie od -40 do 250 st. C, - wygodne uchwyty, - przystosowana do piekarników (należy unikać kontaktu ze źródłem ognia). - wymiary (DxSxW): 315 x 245 x 50 mm. W zestawie: - brytfanna\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 99.01,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-brytfanna-stalowa-nierdzewna-do-pieczenia-w-piekarniku-315x245x50mm-hendi-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-5.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004979",
+        "Nazwa_Produktu": "Brytfanna stalowa nierdzewna do pieczenia w piekarniku 370x265x60mm - Hendi 508510",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to brytfanna ze stali nierdzewnej, która służy do pieczenia i duszenia potraw. Funkcjonalnie najlepiej odpowiada kategorii 'Garnki i patelnie' (ID: 2121) w sekcji przyborów kuchennych. Mimo profesjonalnej marki Hendi, opis wskazuje na zastosowanie zarówno w gastronomii, jak i w kuchniach domowych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Brytfanna stalowa nierdzewna do pieczenia w piekarniku 370x265x60mm - hendi 508510",
+                "description": "Numer producenta: Hendi 508510 Brytfanna ze stali nierdzewnej marki Hendi to naczynie, które doskonale sprawdzi się w barach mlecznych, restauracjach, hotelach i domowych kuchniach. Charakteryzuje się wysoką odpornością termiczną i odpornością na uszkodzenia mechaniczne. Cechy i funkcje: - wykonana ze stali nierdzewnej, - odporność na temperatury w zakresie od -40 do 250 st. C, - wygodne uchwyty, - przystosowana do piekarników (należy unikać kontaktu ze źródłem ognia). - wymiary (DxSxW): 370 x 265 x 60 mm. W zestawie: - brytfanna\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 110.87,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-brytfanna-stalowa-nierdzewna-do-pieczenia-w-piekarniku-315x245x50mm-hendi-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-5.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004980",
+        "Nazwa_Produktu": "Brytfanna stalowa nierdzewna do pieczenia w piekarniku 430x310x60mm - Hendi 508527",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalne_ID_AI": 2121,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to brytfanna ze stali nierdzewnej przeznaczona do pieczenia i przygotowywania potraw. W drzewie kategorii OLX brytfanny są standardowo klasyfikowane w kategorii 'Garnki i patelnie' (ID 2121) w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Brytfanna stalowa nierdzewna do pieczenia w piekarniku 430x310x60mm - hendi 508527",
+                "description": "Numer producenta: Hendi 508527 Brytfanna ze stali nierdzewnej marki Hendi to naczynie, które doskonale sprawdzi się w barach mlecznych, restauracjach, hotelach i domowych kuchniach. Charakteryzuje się wysoką odpornością termiczną i odpornością na uszkodzenia mechaniczne. Cechy i funkcje: - wykonana ze stali nierdzewnej, - odporność na temperatury w zakresie od -40 do 250 st. C, - wygodne uchwyty, - przystosowana do piekarników (należy unikać kontaktu ze źródłem ognia). - wymiary (DxSxW): 430 x 310 x 60 mm. W zestawie: - brytfanna\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2121,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 145.95,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-brytfanna-stalowa-nierdzewna-do-pieczenia-w-piekarniku-315x245x50mm-hendi-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/508503-5.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004985",
+        "Nazwa_Produktu": "Chochelka chochla do zupy ze stali nierdzewnej poj. 110ml - Hendi 529010",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to chochla kuchenna, która jest klasyfikowana jako przybór kuchenny. W drzewie kategorii 'Przybory kuchenne' nie ma dedykowanej podkategorii dla tego typu narzędzi (jak np. dla garnków czy noży), dlatego najbardziej odpowiednią kategorią końcową jest 'Pozostałe' w obrębie sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Chochelka chochla do zupy ze stali nierdzewnej poj. 110ml - hendi 529010",
+                "description": "Kod producenta: 529010 Chochla do zup z linii Kitchen Line , wykonana ze stali nierdzewnej i polipropylenu. - Wykonana ze stali nierdzewnej, - Rączka wykonana z polipropylenu, - Można myć w zmywarkach, - Wyprofilowana rękojeść zapobiega wpadaniu łyżki do podgrzewacza, Parametry techniczne: - Materiały - Stal nierdzewna, PP - Odpowiedni do - Zmywarka do naczyń - Średnica - 80 mm - Długość - 300 mm - Pojemność - 0,11 l W zestawie: - Chochla\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 50.51,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/529010-chochelka-chochla-do-zupy-ze-stali-nierdzewnej-poj-110ml-hendi-529010-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/529010-2.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004995",
+        "Nazwa_Produktu": "Deska kuchenna do krojenia i siekania antypoślizgowa HDPE 45x30cm - Hendi 826379",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Deski do krojenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne",
+        "Finalne_ID_AI": 2113,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest deską do krojenia, która posiada bezpośrednio odpowiadającą mu kategorię liścia w sekcji Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Deska kuchenna do krojenia i siekania antypoślizgowa hdpe 45x30cm - hendi 826379",
+                "description": "Numer producenta: HENDI 826379 Deska do krojenia w kolorze białym. Cechy produktu: - wykonana z polietylenu HDPE - antypoślizgowe nóżki - nie można myć w zmywarkach Parametry: - długość: 450mm - szerokość: 300mm - wysokość: 20mm W zestawie: - deska do krojenia\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2119,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 123.5,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/826379-deska-kuchenna-do-krojenia-i-siekania-antyposlizgowa-hdpe-45x30cm-hendi-826379-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
