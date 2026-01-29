@@ -13504,5 +13504,361 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002587",
+        "Nazwa_Produktu": "Rękawice termiczne piekarnicze do 250C dł. 350 mm zestaw 2szt. - Hendi 556603",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Odzież robocza > Rękawice",
+        "Finalne_ID_AI": 4279,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to certyfikowane rękawice ochronne (Środki Ochrony Indywidualnej) profesjonalnej marki Hendi, przeznaczone do użytku piekarniczego i gastronomicznego. Najbardziej precyzyjną kategorią jest dział Rękawice w sekcji Odzież robocza.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rękawice termiczne piekarnicze do 250c dł. 350 mm zestaw 2szt. - hendi 556603",
+                "description": "Numer producenta: 556603 Certyfikowane rękawice ochronne marki Hendi . Oznakowane CE zgodnie z nowym Rozporządzeniem 2016/425/UE w sprawie Środków Ochrony Indywidualnej. Cechy produktu: - 2 sztuki - Odporność termiczna do 250deg;C Parametry: - Długość: 350 mm - 1 komplet = 2 rękawice W zestawie: - Komplet rękawic piekarskich\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 4279,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 60.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/556603-rekawice-piekarskie-ochronne-hendi-556603-ean-8711369556603-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1003212",
+        "Nazwa_Produktu": "Ruszt stalowy nierdzewny poprzeczny do pieca piekarnika 600x400mm - Hendi 801994",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalne_ID_AI": 3126,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ruszt poprzeczny dedykowany do piekarnika/pieca. Zgodnie z hierarchią kategorii, akcesoria i części wymienne do urządzeń kuchennych (takich jak piekarniki) najlepiej pasują do kategorii 'Części i akcesoria AGD do kuchni'. Chociaż marka Hendi jest marką gastronomiczną, kategoria w sekcji AGD jest najbardziej precyzyjnym miejscem dla elementów wyposażenia pieców.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Ruszt stalowy nierdzewny poprzeczny do pieca piekarnika 600x400mm - hendi 801994",
+                "description": "Numer producenta: 801994 Ruszt – wykonany ze stali nierdzewnej 18/10 – można używać w piekarnikach Parametry: – wymiary: 600x400mm W zestawie: – ruszt\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 3126,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 140.84,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/ruszt-stalowy-poprzeczny-do-pieca-piekarnika-hendi-801994.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1003219",
+        "Nazwa_Produktu": "Blacha piekarnicza cukiernicza wypiekowa 60x40cm 3 ranty - Hendi 808207",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalne_ID_AI": 2116,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest blachą wypiekową (piekarniczą), co wprost odpowiada nazwie i przeznaczeniu kategorii 'Blachy i formy do pieczenia' (ID: 2116). Mimo że marka Hendi jest profesjonalna, na OLX tego typu akcesoria kuchenne najlepiej pasują do tej konkretnej podkategorii w dziale Dom i Ogród.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Blacha piekarnicza cukiernicza wypiekowa 60x40cm 3 ranty - hendi 808207",
+                "description": "Numer producenta: 808207 Blacha wypiekowa przeznaczona do użytku piekarniczo-cukierniczego – Wykonana z aluminium – Blacha gładka – 3 ranty – Można używać w piekarnikach Parametry: – wysokość: 18mm – wymiary: 600x400mm W zestawie: – blacha – instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2116,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 144.55,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/808207-blacha-piekarnicza-cukiernicza-wypiekowa-60x40cm-3-ranty-hendi-808207-hurtownia-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1003220",
+        "Nazwa_Produktu": "Blacha piekarnicza cukiernicza perforowana wypiekowa 60x40cm 3 ranty - Hendi 808214",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalne_ID_AI": 2116,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna blacha wypiekowa, która bezpośrednio pasuje do kategorii 'Blachy i formy do pieczenia'. Jest to najbardziej precyzyjna kategoria-liść dla tego typu przedmiotów kuchennych, niezależnie od ich profesjonalnego zastosowania.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Blacha piekarnicza cukiernicza perforowana wypiekowa 60x40cm 3 ranty - hendi 808214",
+                "description": "Numer producenta: 808214 Blacha wypiekowa przeznaczona do użytku piekarniczo-cukierniczego – wykonana z aluminium – blacha perforowana – 3 ranty – można używać w piekarnikach Parametry: – wymiary: 600 x 400mm – otworki średnicy 3 mm – grubość stali: 1,4 mm W zestawie: – blacha\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2116,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 159.99,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/808214-blacha-piekarnicza-cukiernicza-perforowana-wypiekowa-60x40cm-3-ranty-hendi-808214-hurtownia-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1003224",
+        "Nazwa_Produktu": "Blacha piekarnicza cukiernicza wypiekowa GN1/1 perforowana 4 ranty - Hendi 808306",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalne_ID_AI": 2116,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest blachą do pieczenia (bakeware). Wybrana kategoria 'Blachy i formy do pieczenia' (2116) jest najbardziej specyficznym liściem w drzewie odpowiadającym typowi przedmiotu, pomimo profesjonalnego standardu gastronomicznego GN1/1.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Blacha piekarnicza cukiernicza wypiekowa gn1/1 perforowana 4 ranty - hendi 808306",
+                "description": "Numer producenta: 808306 Blacha wypiekowa gastronomiczna – perforowana wyposażona w 4 ranty – wykonana z aluminium – można używać w piekarnikach Parametry: – wymiary zewnętrzne: 530x325x(H)10mm W zestawie: – blacha\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2116,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 117.89,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/808306-blacha-piekarnicza-cukiernicza-wypiekowa-gn1-1-perforowana-4-ranty-hendi-808306-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/808306-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1003290",
+        "Nazwa_Produktu": "Rękawice kuchenne ochronne termiczne z włókna szklanego 2szt. - Hendi 556627",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy",
+        "Finalne_ID_AI": 2131,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rękawice kuchenne o właściwościach ochronnych i termicznych. Najdokładniejszą kategorią w drzewie jest kategoria liść 'Ścierki, rękawice i fartuchy', która znajduje się w sekcji przyborów kuchennych i wyposażenia wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rękawice kuchenne ochronne termiczne z włókna szklanego 2szt. - hendi 556627",
+                "description": "Numer producenta: 556627 Rękawice ochronne – Bawełniane z powłoką trudnopalną – 2 sztuki w opakowaniu – Bardzo długie dla lepszej ochrony ręki – Dodatkowa ochrona przed wodą – Odporność termiczna do 250C Parametry: – ilość szt. w opakowaniu: 2 – długość: 430 mm W zestawie: – 1 opakowanie = 2 szt. rękawic kuchennych\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2131,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 123.5,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/556627-rekawice-kuchenne-ochronne-termiczne-z-wlokna-szklanego-2szt-hendi-556627-hurtownia-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

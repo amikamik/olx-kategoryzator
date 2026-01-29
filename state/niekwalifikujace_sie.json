@@ -4108,5 +4108,105 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest częścią zamienną (grzałką) do profesjonalnego urządzenia gastronomicznego marki Royal Catering. Ze względu na przemysłowy charakter sprzętu oraz wymogi Sanepidu, właściwą kategorią jest dział Firma i Przemysł, a konkretnie Części do maszyn i urządzeń."
+    },
+    {
+        "ID_Produktu": "1002586",
+        "Nazwa_Produktu": "Szczotka druciana do grilla dł. 290mm 2szt. - Hendi 525517",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium przeznaczonym bezpośrednio do czyszczenia i konserwacji grilla. W strukturze OLX akcesoria grillowe najlepiej pasują do kategorii liścia 'Grill' w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "1002590",
+        "Nazwa_Produktu": "Pokrowiec ochronny z folii PEVA do grilla Hendi 154717 / 154878 - Hendi 144923",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec ochronny dedykowany konkretnym modelom grilla. W strukturze OLX akcesoria do grillowania najlepiej pasują do kategorii 'Grill' w sekcji 'Ogród', mimo że system podpowiada ogólną kategorię pokrowców z sekcji wyposażenia wnętrz."
+    },
+    {
+        "ID_Produktu": "1003204",
+        "Nazwa_Produktu": "Ruszt stalowy do piekarnika pieca konwekcyjnego GN1/1 - Hendi 801901",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD do zabudowy > Piekarniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ruszt wykonany w profesjonalnym standardzie gastronomicznym GN 1/1 marki Hendi. Oznaczenie GN oraz przeznaczenie do pieców konwekcyjnych jednoznacznie wskazuje na kategorię gastronomiczną w sekcji Firma i Przemysł. Wyposażenie w standardzie Gastronorm (GN) jest najczęściej kategoryzowane w sekcji 'Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1003205",
+        "Nazwa_Produktu": "Ruszt stalowy do piekarnika pieca konwekcyjnego GN1/1 - Hendi 801918",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD do zabudowy > Piekarniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne akcesorium kuchenne marki Hendi, wykonane w standardzie GN 1/1 (Gastro-Norm), który jest branżowym standardem w profesjonalnej gastronomii. Ze względu na przeznaczenie do pieców konwekcyjnych i wymiary przemysłowe, produkt najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ nie jest on samym urządzeniem (piecem) ani pojemnikiem."
+    },
+    {
+        "ID_Produktu": "1003207",
+        "Nazwa_Produktu": "Ruszt stalowy do piekarnika pieca konwekcyjnego GN2/3 - Hendi 801932",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD do zabudowy > Piekarniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to stalowy ruszt w standardzie gastronomicznym GN 2/3 marki Hendi. Ze względu na profesjonalne zastosowanie (piece konwekcyjne) oraz wymiarowanie w systemie Gastronorm (GN), produkt najlepiej pasuje do kategorii pojemników gastronomicznych, które obejmują cały osprzęt systemu GN w sekcji Gastronomia."
+    },
+    {
+        "ID_Produktu": "1003209",
+        "Nazwa_Produktu": "Ruszt stalowy chromowany do piekarnika pieca konwekcyjnego GN2/1 - Hendi 801949",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Części do kotłów i pieców",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to ruszt w profesjonalnym standardzie gastronomicznym GN 2/1 (650x530mm), co wyklucza zastosowanie w standardowych piekarnikach domowych. Marka Hendi oraz przeznaczenie do pieców konwekcyjnych jednoznacznie wskazują na kategorię Gastronomia w dziale Firma i Przemysł. Ze względu na brak dedykowanej podkategorii dla rusztów lub akcesoriów do pieców konwekcyjnych, kategoria 'Pozostałe' w obrębie Gastronomii jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1003211",
+        "Nazwa_Produktu": "Ruszt stalowy chromowany poprzeczny do pieca piekarnika 600x400mm - Hendi 801963",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Marka Hendi oraz wymiar rusztu 600x400 mm jednoznacznie wskazują na profesjonalne wyposażenie gastronomiczne (standard Euronorm), stosowane w piecach konwekcyjnych i piekarnikach przemysłowych. Najlepszą kategorią dla profesjonalnych akcesoriów gastronomicznych, które nie są maszynami, jest Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1003225",
+        "Nazwa_Produktu": "Blacha piekarnicza cukiernicza wypiekowa GN2/3 perforowana 4 ranty - Hendi 808313",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna blacha wypiekowa w standardzie gastronomicznym GN (Gastro Norm) marki Hendi. Ze względu na specyfikację (rozmiar GN2/3) oraz przeznaczenie do użytku profesjonalnego, kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest właściwym wyborem."
+    },
+    {
+        "ID_Produktu": "1003231",
+        "Nazwa_Produktu": "Taca blacha Profi Line -40C do 300C GN1/1 wys. 40mm - Hendi 809242",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taca w standardzie Gastronorm (GN 1/1) marki Hendi, wykonana ze stali nierdzewnej, przeznaczona do użytku w piecach konwekcyjnych i bemarach. Ze względu na przemysłowy standard GN oraz markę producenta, najlepiej pasuje do kategorii 'Pojemniki gastronomiczne' w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1003232",
+        "Nazwa_Produktu": "Taca blacha Profi Line -40C do 300C GN1/1 wys. 20mm - Hendi 809259",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taca w systemie Gastro Norm (GN 1/1) marki Hendi. Standard GN jest specyficzny dla wyposażenia profesjonalnych kuchni, dlatego kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej odpowiednia, mimo że opis dopuszcza użycie domowe."
     }
 ]
