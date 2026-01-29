@@ -14047,5 +14047,242 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002675",
+        "Nazwa_Produktu": "Płyn do czyszczenia instalacji spieniania mleka w ekspresach do kawy 1L - Hendi 231296",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do ekspresów",
+        "Finalne_ID_AI": 3116,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny płyn czyszczący (akcesorium eksploatacyjne) dedykowany wyłącznie do konserwacji ekspresów do kawy. W drzewie kategorii OLX produkty tego typu najlepiej pasują do kategorii 'Części i akcesoria do ekspresów' w sekcji Elektronika > Sprzęt AGD.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Płyn do czyszczenia instalacji spieniania mleka w ekspresach do kawy 1l - hendi 231296",
+                "description": "Numer producenta: 231296 Cechy produktu: - Preparat do czyszczenia toru spieniania mleka we wszystkich ekspresach do kawy wyposażonych w instalację lub przystawki spieniające, - Usuwa stare, skrystalizowane białka i tłuszcz, - Na bieżąco udrażnia przewody , - Zawiera kwas amidosulfonowy i fosforowy , - Działa odkamieniająco , - Butelka o pojemności 1 l . W zestawie: - Płyn do czyszczenia instalacji spieniania mleka w ekspresach do kawy 1 l.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 3116,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 46.84,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/231296-plyn-do-czyszczenia-instalacji-spieniania-mleka-w-ekspresach-do-kawy-1l-hendi-231296-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002682",
+        "Nazwa_Produktu": "Płyn nabłyszczacz do płukania i nabłyszczania naczyń w zmywarkach gastronomicznych 5L - Hendi 975022",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki do zmywania",
+        "Finalne_ID_AI": 4366,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest nabłyszczaczem do naczyń przeznaczonym do zmywarek. Chociaż jest to produkt profesjonalny/gastronomiczny, kategoria 'Środki do zmywania' w sekcji Supermarket najlepiej opisuje jego funkcję użytkową (detergenty i chemia do naczyń).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Płyn nabłyszczacz do płukania i nabłyszczania naczyń w zmywarkach gastronomicznych 5l - hendi 975022",
+                "description": "Numer producenta: 975022 Płyn nabłyszczacz do płukania i nabłyszczania naczyń w zmywarkach gastronomicznych 5 l może być stosowany do mycia do naczyń szklanych, ceramicznych, fajansowych, teflonowych, emaliowanych, metalowych (srebro, aluminium, stal itp.) we wszystkich typach zmywarek gastronomicznych i przemysłowych. Cechy produktu: - Silnie skoncentrowany preparat wspomagający płukanie naczyń w zmywarkach z jednoczesnym nabłyszczaniem , - Rozpuszcza minerały (związki wapnia, żelaza itp.) zawarte w wodzie, eliminując tym samym zacieki i smugi powstające na naczyniach, - Może być stosowany we wszystkich typach zmywarek gastronomicznych i przemysłowych, - Zalecany do naczyń szklanych, ceramicznych, fajansowych, teflonowych, emaliowanych, metalowych (srebro, aluminium, stal itp.), - Bezpieczny dla naczyń ręcznie malowanych, - Doskonale nabłyszcza , - Zawiera kwasy organiczne , - Nie wymaga wycierania , - pH 1 . W zestawie: - Preparat do płukania i nabłyszczania naczyń 5 l.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 4366,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 120.69,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/975022-plyn-nablyszczacz-do-plukania-i-nablyszczania-naczyn-w-zmywarkach-gastronomicznych-5l-hendi-975022-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002683",
+        "Nazwa_Produktu": "Profesjonalny środek płyn do mycia grilla piekarnika  i pieca 1L - Hendi 975039",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to płynny środek czyszczący przeznaczony do usuwania zabrudzeń z grilli i piekarników, co w drzewie kategorii OLX najlepiej odpowiada sekcji Dom i Ogród > Supermarket > Środki czyszczące.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny środek płyn do mycia grilla piekarnika  i pieca 1l - hendi 975039",
+                "description": "Numer producenta: 975039 Cechy produktu: - Gotowy do użycia silnie zasadowy preparat do bieżącego usuwania zanieczyszczeń tłuszczowo-smolistych , przypalonego tłuszczu i przebarwień pochodzenia organicznego, - Myje i odtłuszcza , - Zalecany do codziennego mycia grilli, pieców, piekarników, okapów, - Utrzymuje naturalny połysk mytych powierzchni, - Bezzapachowy , - Butelka o pojemności 1 l . W zestawie: - Preparat do mycia grilli i pieców - 1 l.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 46.84,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/975039-profesjonalny-srodek-preparat-do-mycia-grilla-rozna-i-pieca-1l-hendi-975039-hurtownia-cena-tanio-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002687",
+        "Nazwa_Produktu": "Profesjonalny koncentrat płyn do ręcznego mycia naczyń 5L - Hendi 975145",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki do zmywania",
+        "Finalne_ID_AI": 4366,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest koncentratem płynu do mycia naczyń, co jednoznacznie klasyfikuje go do kategorii 'Środki do zmywania' w sekcji 'Dom i Ogród > Supermarket'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny koncentrat płyn do ręcznego mycia naczyń 5l - hendi 975145",
+                "description": "Numer producenta: 975145 Profesjonalny koncentrat płyn do ręcznego mycia naczyń 5 l jest bezpieczny dla każdego rodzaju naczyń: szklanych, ceramicznych, emaliowanych, stalowych, plastikowych, metali szlachetnych i kolorowych. Gwarantuje doskonałą gęstość i lepkość (przyczepność), posiada cytrynowy zapach . Cechy produktu: - Koncentrat o odczynie neutralnym do ręcznego mycia naczyń, - Bezpieczny dla każdego rodzaju naczyń: szklanych, ceramicznych, emaliowanych, stalowych, plastikowych, metali szlachetnych i kolorowych, - Zmiękcza i usuwa zabrudzenia pochodzenia spożywczego, tłuszcze, przebarwienia, - Pozostawia naturalny połysk , - Gwarantuje doskonałą gęstość i lepkość (przyczepność), posiada cytrynowy zapach , - Bezpieczny dla rąk i środowiska, odpowiedni do twardej wody , - Pojemność 5 litrów . W zestawie: - Koncentrat do ręcznego mycia naczyń - kanister o pojemności 5 l.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 4366,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 60.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/975145-profesjonalny-koncentrat-plyn-do-recznego-mycia-naczyn-5l-hendi-975145-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

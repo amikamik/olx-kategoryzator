@@ -4378,5 +4378,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalne wyposażenie gastronomiczne przeznaczone do zmywarek przemysłowych (standard wymiarów 500x500 mm). Z tego względu kategoria 'Firma i Przemysł > Gastronomia > Zmywarki' jest bardziej odpowiednia niż kategoria dla domowego sprzętu AGD."
+    },
+    {
+        "ID_Produktu": "1002653",
+        "Nazwa_Produktu": "Kosz na śmieci stalowy z wkładem otwierany nożnie 20L - Hendi 691335",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowy kosz na śmieci otwierany nożnie (pedałowy). Wybrana kategoria (ID: 2048) jest najbardziej szczegółowym liściem w drzewie dla tego typu asortymentu w dziale Dom i Ogród. Chociaż pojemność 20L jest duża, kosze pedałowe tego typu są tradycyjnie umiejscawiane w tej kategorii, co jest zgodne ze strukturą OLX."
+    },
+    {
+        "ID_Produktu": "1002660",
+        "Nazwa_Produktu": "Świetlówki do lampy owadobójczej 15W zestaw 2 szt. - Hendi 270028",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Świetlówki",
+        "Finalne_ID_AI": 3857,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw świetlówek o konkretnej mocy (15W), przeznaczonych do lamp. Najbardziej precyzyjną kategorią dla tego typu asortymentu w drzewie kategorii OLX jest kategoria 'Świetlówki' znajdująca się w sekcji Oświetlenie."
+    },
+    {
+        "ID_Produktu": "1002666",
+        "Nazwa_Produktu": "Lampa owadobójcza wodoodporna Świetlówka - Hendi 935286",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Latarki i lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Świetlówki",
+        "Finalne_ID_AI": 3857,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produktem jest zestaw świetlówek (lamp fluorescencyjnych) UV-A, które stanowią wymienne źródło światła. W drzewie kategorii OLX najbardziej precyzyjną kategorią dla tego typu produktu jest liść 'Świetlówki' znajdujący się w sekcji oświetlenia domowego."
+    },
+    {
+        "ID_Produktu": "1002680",
+        "Nazwa_Produktu": "Płyn preparat odkamieniacz do odkamieniania zmywarek gastronomicznych 1L  - Hendi 975008",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny preparat chemiczny przeznaczony do profesjonalnych urządzeń gastronomicznych (zmywarki przemysłowe, kotły, wyparzarki) marki Hendi. Ze względu na jego przemysłowe zastosowanie i markę dedykowaną dla biznesu, najbardziej trafną kategorią jest 'Firma i Przemysł > Gastronomia > Pozostałe', a nie ogólna kategoria środków czyszczących dla konsumentów."
+    },
+    {
+        "ID_Produktu": "1002681",
+        "Nazwa_Produktu": "Płyn nabłyszczacz do płukania i nabłyszczania naczyń w zmywarkach gastronomicznych 10L - Hendi 975015",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny środek chemiczny o przeznaczeniu profesjonalnym (marka Hendi, objętość 10L, pH 1). Tytuł i opis wyraźnie wskazują na zastosowanie w zmywarkach gastronomicznych i przemysłowych, co klasyfikuje go jako zaopatrzenie dla firm z branży gastronomicznej (Firma i Przemysł > Gastronomia > Pozostałe), a nie produkt do użytku domowego z działu Supermarket."
     }
 ]
