@@ -1367,7 +1367,7 @@ ZASADY:
         
         # Zmienne do rate limiting
         last_api_call_time = 0
-        MIN_DELAY_BETWEEN_PRODUCTS = 2  # Minimum 2 sekundy między produktami (RPM limit)
+        MIN_DELAY_BETWEEN_PRODUCTS = 6  # Minimum 6 sekund między produktami (Gemini RPM limit)
         
         for idx, product in enumerate(products_to_process, 1):
             # Rate limiting - czekaj minimum X sekund od ostatniego wywołania API
