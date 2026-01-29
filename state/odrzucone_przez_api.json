@@ -6212,5 +6212,61 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002120",
+        "Nazwa_Produktu": "Gałkownica do nakładania lodów Profi Line 1/24 śr. 51mm - Hendi 759233",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to gałkownica do lodów, która jest przyborem kuchennym. Najbardziej szczegółowa kategoria w drzewie to 'Przybory kuchenne', a ponieważ nie ma bardziej specyficznej podkategorii dla tego typu narzędzia, wybieram 'Pozostałe' w tej sekcji.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gałkownica do nakładania lodów profi line 1/24 śr. 51mm - hendi",
+                "description": "Numer producenta: 759233 Gałkownica do nakładania lodów z linii Profi Line wykonana została z wysokiej jakości stali nierdzewnej, zaś uchwyty z przyjemnego w dotyku poliamidu. Akcesorium można myć w zmywarce bez obaw o uszkodzenie. Produkt dopuszczony do kontaktu z żywnością. Parametry: średnica: 51 mm pojemność: 1/24 l W zestawie: Gałkownica do nakładania lodów Profi Line\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 179.64,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/759233-galkownica-do-nakladania-lodow-profi-line-1-24-sr-53mm-hendi-759233-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/759233-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/759233-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image, Could not fetch image"
+                }
+            }
+        }
     }
 ]

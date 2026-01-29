@@ -3978,5 +3978,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to półmisek marki HENDI, która specjalizuje się w wyposażeniu gastronomicznym. Opis wyraźnie wskazuje na jego przeznaczenie do użytku profesjonalnego, np. w bufetach czy na stołach szwedzkich, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1002118",
+        "Nazwa_Produktu": "Szpatuła do lodów stalowa z uchwytem z tritanu fioletowa - Hendi 755839",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szpatuła do lodów marki Hendi, która jest znana z dostarczania sprzętu gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do profesjonalnego zastosowania, a 'Pozostałe' jest najbardziej szczegółową kategorią-liściem dla tego typu narzędzia gastronomicznego."
+    },
+    {
+        "ID_Produktu": "1002123",
+        "Nazwa_Produktu": "Gałkownica do nakładania lodów Profi Line 1/40 śr. 44mm - Hendi 759264",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gałkownica do lodów z linii 'Profi Line' marki Hendi, co wskazuje na profesjonalne zastosowanie w gastronomii. Najbardziej pasującą i szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Pozostałe'."
     }
 ]
