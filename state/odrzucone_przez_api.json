@@ -6268,5 +6268,61 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002374",
+        "Nazwa_Produktu": "Dyspenser dozownik barmański 0.8L czerwony - Hendi 557600",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalne_ID_AI": 2114,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'dozownik barmański'. Najbardziej szczegółowa kategoria to 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie', która doskonale pasuje do przeznaczenia produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dyspenser dozownik barmański 0.8l czerwony - hendi 557600",
+                "description": "Numer producenta: 557600 - Dyspenser barmański 2-częściowy - Wykonany z twardego polietylenu - Wymienna końcówka i pokrywka - Odkręcana górna część - Można myć w zmywarkach Parametry: średnica: 90mm wysokość: 300mm pojemność: 0,8l W zestawie: - Dyspenser barmański Nasze urządzenia posiadają deklarację zgodności CE niezbędną dla Sanepidu.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2114,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557600-dyspenser-dozownik-barmanski-08l-czerwony-hendi-557600-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557600-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557600-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
     }
 ]

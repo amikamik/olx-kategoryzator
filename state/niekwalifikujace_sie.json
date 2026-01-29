@@ -4068,5 +4068,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Nazwa produktu jasno określa go jako 'Palnik gastronomiczny', a opis wymienia zastosowania takie jak 'cukiernictwo do Creme Brulee', co bezpośrednio wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej kategorii dla palników gazowych pod Gastronomią, wybieram 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1004822",
+        "Nazwa_Produktu": "Zestaw do podłączenia butli z gazem LPG reduktor 37 mbar 1,5m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Instalacje > Hydraulika > Zawory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Zawory",
+        "Finalne_ID_AI": 3222,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do podłączenia butli gazowej, którego kluczowym elementem jest reduktor ciśnienia (rodzaj zaworu). Kategoria 'Zawory' w dziale 'Hydraulika' jest najbardziej precyzyjnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1002373",
+        "Nazwa_Produktu": "Zmywak barmański do szklanek i pokali - Hendi 552681",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Szklanki i kufle",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny zmywak barmański, który jest specjalistycznym sprzętem czyszczącym przeznaczonym do użytku w gastronomii. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' najlepiej oddaje jego charakter i przeznaczenie."
     }
 ]
