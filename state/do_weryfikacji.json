@@ -392,5 +392,18 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "1002632",
+        "Nazwa_Produktu": "Kosz do zmywarki na tace 50x50cm - Hendi 877111",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do zmywarek",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do zmywarek",
+        "Finalne_ID_AI": 3124,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kosz do zmywarki, który jest akcesorium do sprzętu AGD, a dokładnie do zmywarek. Kategoria 'Części i akcesoria do zmywarek' jest najbardziej szczegółowa i precyzyjnie opisuje ten produkt.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]

@@ -4548,5 +4548,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to pojemnik kuchenny na naczynia marki HENDI, która jest typowym producentem sprzętu gastronomicznego. Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjna, idealnie pasująca do nazwy i opisu produktu. Sugestia systemu, by zakwalifikować produkt jako 'Antyk', jest błędna ze względu na nowoczesny charakter produktu."
+    },
+    {
+        "ID_Produktu": "1002625",
+        "Nazwa_Produktu": "Kosz do zmywarki gastronomicznej uniwersalny 50x50cm - Hendi 877005",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do zmywarek",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'kosz do zmywarki gastronomicznej', co wskazuje na zastosowanie profesjonalne/przemysłowe. Najbardziej odpowiednia kategoria to 'Firma i Przemysł > Gastronomia'. Ponieważ kosz jest pojemnikiem na naczynia, a nie częścią mechaniczną samej zmywarki, 'Pojemniki gastronomiczne' jest najbardziej szczegółową i trafną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1002628",
+        "Nazwa_Produktu": "Kosz do zmywarki na szklanki i szkło 25 elementów 50x50cm - Hendi 877036",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Szklanki i kufle",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz do zmywarki, który jest akcesorium/częścią maszyny (zmywarki). Marka Hendi oraz parametry wskazują na zastosowanie przemysłowe/gastronomiczne, pasujące do kategorii 'Firma i Przemysł > Części do maszyn i urządzeń'."
+    },
+    {
+        "ID_Produktu": "1002631",
+        "Nazwa_Produktu": "Kosz do zmywarki na talerze 50x50cm - Hendi 877104",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest koszem przeznaczonym specjalnie do zmywarek gastronomicznych, co bezpośrednio wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Kosz jest rodzajem pojemnika używanego w gastronomii, dlatego 'Pojemniki gastronomiczne' jest najbardziej szczegółową i pasującą kategorią-liściem."
     }
 ]
