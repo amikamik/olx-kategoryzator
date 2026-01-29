@@ -7628,5 +7628,615 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002049",
+        "Nazwa_Produktu": "Jednorazowe foliowe woreczki rożki cukiernicze do szprycowania i ozdabiania 100 szt. 90µm - Hendi 557105",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe woreczki (rożki) cukiernicze służące do ozdabiania wypieków, co stanowi klasyczny przykład produktu z kategorii 'Akcesoria cukiernicze' w obrębie przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Jednorazowe foliowe woreczki rożki cukiernicze do szprycowania i ozdabiania 100 szt. 90µm - hendi 557105",
+                "description": "Numer producenta: 557105 Jednorazowe foliowe woreczki cukiernicze marki HENDI to praktyczny niezbędnik wśród cukierników. Cechy produktu: - odpowiednie do ciepłej i zimnej masy, - wykonane z polietylenu LD, - opakowanie - rolka 100 szt. - zgodne ze standardami HACCP Parametry: - długość: 530 mm - szerokość: 285 mm - grubość folii: 80 mikronów W zestawie: - rolka 100 szt. woreczków cukierniczych\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 84.2,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557105-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557105.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002050",
+        "Nazwa_Produktu": "Jednorazowe foliowe woreczki rożki cukiernicze do szprycowania i ozdabiania 100 szt. 80µm - Hendi 557112",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe woreczki (rożki) cukiernicze służące do dekoracji i szprycowania, co jednoznacznie klasyfikuje go jako akcesorium cukiernicze w dziale przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Jednorazowe foliowe woreczki rożki cukiernicze do szprycowania i ozdabiania 100 szt. 80µm - hendi 557112",
+                "description": "Numer producenta: 557112 Jednorazowe foliowe woreczki cukiernicze marki HENDI to praktyczny niezbędnik wśród cukierników. Cechy produktu: - odpowiednie do ciepłej i zimnej masy, - wykonane z polietylenu LD, - opakowanie - rolka 100 szt. - zgodne ze standardami HACCP Parametry: - długość: 445 mm - szerokość: 220 mm - grubość folii: 80 mikronów W zestawie: - rolka 100 szt. woreczków cukierniczych\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 71.02,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557105-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557105.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002059",
+        "Nazwa_Produktu": "Foremka do pieczenia ciasta prostokątna 26x10x7.5cm aluminiowa - Hendi 682302",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalne_ID_AI": 2116,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasyczną foremką do pieczenia ciasta, co bezpośrednio odpowiada kategorii 'Blachy i formy do pieczenia' znajdującej się w przyborach kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Foremka do pieczenia ciasta prostokątna 26x10x7.5cm aluminiowa - hendi 682302",
+                "description": "Numer producenta: 682302 Foremka do pieczenia ciasta - prostokątna - wykonana z aluminium - nie można myć w zmywarkach Parametry: - długość: 260 mm - szerokość: 100 mm - wysokość: 75 mm W zestawie: - foremka do pieczenia ciasta\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2116,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 72.1,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/682302-foremka-do-pieczenia-ciasta-prostokatna-26x10x7-5cm-aluminiowa-hendi-682302-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002060",
+        "Nazwa_Produktu": "Foremka do pieczenia ciasta prostokątna 30x11x7.5cm aluminiowa - Hendi 682401",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalne_ID_AI": 2116,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to foremka do pieczenia ciasta, co stanowi bezpośredni odpowiednik kategorii liścia 'Blachy i formy do pieczenia' w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Foremka do pieczenia ciasta prostokątna 30x11x7.5cm aluminiowa - hendi 682401",
+                "description": "Numer producenta: 682401 Foremka do pieczenia ciasta - prostokątna - wykonana z aluminium - nie można myć w zmywarkach Parametry: - długość: 300 mm - szerokość: 110 mm - wysokość: 75 mm W zestawie: - Foremka do pieczenia ciasta\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2116,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 89.82,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/682401-foremka-do-pieczenia-ciasta-prostokatna-30x110x7-5cm-aluminiowa-hendi-682401-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002065",
+        "Nazwa_Produktu": "Foremka do babeczek z rantem aluminiowa śr. 7cm wys. 6.8cm - Hendi 689608",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalne_ID_AI": 2116,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to aluminiowa foremka przeznaczona do pieczenia babeczek, co jednoznacznie klasyfikuje go do kategorii 'Blachy i formy do pieczenia' w obrębie wyposażenia wnętrz i przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Foremka do babeczek z rantem aluminiowa śr. 7cm wys. 6.8cm - hendi 689608",
+                "description": "Numer producenta: 689608 Foremka do babeczek z rantem - wykonana z aluminium - nie można myć w zmywarkach Parametry: - średnica: 70 mm - wysokość: 68 mm W zestawie: - Foremka do babeczek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2116,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/689608-foremka-do-babeczek-z-rantem-aluminiowa-sr-7cm-wys-6-8cm-hendi-689608-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002066",
+        "Nazwa_Produktu": "Foremka do babeczek gładka aluminiowa śr. 7cm wys. 6.8cm - Hendi 689806",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalne_ID_AI": 2116,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to aluminiowa foremka przeznaczona do pieczenia babeczek, co jednoznacznie klasyfikuje go do kategorii 'Blachy i formy do pieczenia' w obrębie przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Foremka do babeczek gładka aluminiowa śr. 7cm wys. 6.8cm - hendi 689806",
+                "description": "Numer producenta: 689806 Foremka do babeczek - wykonana z aluminium - nie można myć w zmywarkach Parametry: - średnica: 70 mm - wysokość: 68 mm W zestawie: - Foremka do babeczek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2116,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 32.16,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/689806-foremka-do-babeczek-z-gladka-aluminiowa-sr-7cm-wys-6-8cm-hendi-689806-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002076",
+        "Nazwa_Produktu": "Gałkownica do nakładania lodów Kitchen Line stal nierdzewna 1/10L - Hendi 572016",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Gałkownica do lodów jest narzędziem kuchennym służącym do porcjowania deserów, co najlepiej pasuje do kategorii akcesoriów cukierniczych w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gałkownica do nakładania lodów kitchen line stal nierdzewna 1/10l - hendi 572016",
+                "description": "Numer producenta: 572016 Gałkownica do nakładania lodów z linii Kitchen Line wykonana została w całości z wysokiej jakości stali nierdzewnej. Akcesorium można myć w zmywarce bez obaw o uszkodzenie. Produkt dopuszczony do kontaktu z żywnością. Parametry: – średnica: 70 mm – pojemność: 1/10 l W zestawie: - Gałkownica do nakładania lodów\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 84.2,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/572016-galkownica-do-nakladania-lodow-kitchen-line-stal-nierdzewna-1-10l-hendi-572016-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/572016-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/572016-galkownica-do-nakladania-lodow-kitchen-line-stal-nierdzewna-1-10l-hendi-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002077",
+        "Nazwa_Produktu": "Gałkownica do nakładania lodów Kitchen Line stal nierdzewna 1/12L - Hendi 572115",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gałkownica (gałkownica do lodów), która jest manualnym przyborem kuchennym. W drzewie kategorii OLX produkty tego typu, służące do porcjowania żywności, najlepiej pasują do sekcji 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe', co jest spójne z ogólnym przeznaczeniem akcesoriów kuchennych marki Hendi z linii Kitchen Line.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gałkownica do nakładania lodów kitchen line stal nierdzewna 1/12l - hendi 572115",
+                "description": "Numer producenta: 572115 Gałkownica do nakładania lodów z linii Kitchen Line wykonana została w całości z wysokiej jakości stali nierdzewnej. Akcesorium można myć w zmywarce bez obaw o uszkodzenie. Produkt dopuszczony do kontaktu z żywnością. Parametry: – średnica: 66 mm – pojemność: 1/12 l W zestawie: – Gałkownica do nakładania lodów\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 84.2,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/572115-galkownica-do-nakladania-lodow-kitchen-line-stal-nierdzewna-1-12l-hendi-572115-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/572016-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/572016-galkownica-do-nakladania-lodow-kitchen-line-stal-nierdzewna-1-10l-hendi-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002078",
+        "Nazwa_Produktu": "Gałkownica do nakładania lodów Kitchen Line stal nierdzewna 1/16L - Hendi 572214",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gałkownica do lodów, która jest narzędziem kuchennym. W drzewie kategorii OLX, akcesoria do porcjowania i przygotowywania potraw, które nie posiadają dedykowanej podkategorii (jak noże czy garnki), najlepiej pasują do kategorii 'Pozostałe' w sekcji 'Przybory kuchenne' w dziale 'Dom i Ogród'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gałkownica do nakładania lodów kitchen line stal nierdzewna 1/16l - hendi 572214",
+                "description": "Numer producenta: 572214 Gałkownica do nakładania lodów z linii Kitchen Line wykonana została w całości z wysokiej jakości stali nierdzewnej. Akcesorium można myć w zmywarce bez obaw o uszkodzenie. Produkt dopuszczony do kontaktu z żywnością. Parametry: – średnica: 59 mm – pojemność: 1/16 l W zestawie: – Gałkownica do nakładania lodów\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 81.4,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/572214-galkownica-do-nakladania-lodow-kitchen-line-stal-nierdzewna-1-16l-hendi-572214-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/572214-galkownica-do-nakladania-lodow-kitchen-line-stal-nierdzewna-1-16l-hendi-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/572016-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002079",
+        "Nazwa_Produktu": "Gałkownica do nakładania lodów Kitchen Line stal nierdzewna 1/20L - Hendi 572313",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gałkownica do lodów, która jest ręcznym narzędziem kuchennym. W drzewie kategorii OLX przybory tego typu trafiają do sekcji Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne. Ponieważ nie ma dedykowanej podkategorii dla łyżek lub gałkownic do lodów, kategoria 'Pozostałe' (ID 2127) w tej gałęzi jest najbardziej trafnym i szczegółowym wyborem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gałkownica do nakładania lodów kitchen line stal nierdzewna 1/20l - hendi 572313",
+                "description": "Numer producenta: 572313 Gałkownica do nakładania lodów z linii Kitchen Line wykonana została w całości z wysokiej jakości stali nierdzewnej. Akcesorium można myć w zmywarce bez obaw o uszkodzenie. Produkt dopuszczony do kontaktu z żywnością. Parametry: – średnica: 56 mm – pojemność: 1/20 l W zestawie: – Gałkownica do nakładania lodów\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 79.99,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/572313-galkownica-do-nakladania-lodow-kitchen-line-stal-nierdzewna-1-20l-hendi-572313-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/572313-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/572313-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
