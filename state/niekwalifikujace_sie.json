@@ -3928,5 +3928,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to półmisek ze stali nierdzewnej, wyraźnie przeznaczony do użytku w hotelach, restauracjach i cateringu. Kategoria 'Firma i Przemysł > Gastronomia' najlepiej oddaje komercyjny charakter produktu, a 'Pojemniki gastronomiczne' jest najbardziej szczegółową kategorią-liściem, która pasuje do naczynia służącego do serwowania."
+    },
+    {
+        "ID_Produktu": "1002008",
+        "Nazwa_Produktu": "Taca bankietowa stalowa okrągła śr. 30cm - Hendi 480205",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu („Taca bankietowa”, „do serwowania”, „w hotelach, restauracjach”) wyraźnie wskazują na profesjonalne zastosowanie gastronomiczne. Kategoria „Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne” jest najbardziej precyzyjnym dopasowaniem dla tego typu przedmiotu, odzwierciedlającym jego komercyjny charakter, w przeciwieństwie do sugerowanej kategorii „Dom i Ogród”, która odnosi się do użytku domowego."
+    },
+    {
+        "ID_Produktu": "1002015",
+        "Nazwa_Produktu": "Taca stalowa prostokątna z rantem dekoracyjnym GN1/1 - Hendi 807804",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to taca stalowa przeznaczona do serwowania posiłków w hotelach, restauracjach i miejscach samoobsługowych, co jednoznacznie wskazuje na zastosowanie profesjonalne w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1002016",
+        "Nazwa_Produktu": "Chłodzona taca do potraw z pokrywą 43x29cm - Hendi 424155",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to chłodzona taca przeznaczona do prezentowania potraw w punktach gastronomicznych. Kategoria 'Pojemniki gastronomiczne' w gałęzi 'Firma i Przemysł > Gastronomia' jest najbardziej specyficzna i najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1002018",
+        "Nazwa_Produktu": "Element wkład chłodzący GN1/1 do tacy 424186 - Hendi 424193",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny wkład chłodzący do tac gastronomicznych (GN1/1), przeznaczony do użytku profesjonalnego, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1002023",
+        "Nazwa_Produktu": "Półmisek z melaminy prostokątny 49.5x27cm wys. 5.6cm biały - Hendi 561515",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to półmisek marki HENDI, która specjalizuje się w wyposażeniu gastronomicznym. Opis wyraźnie wskazuje na jego przeznaczenie do użytku profesjonalnego, np. w bufetach czy na stołach szwedzkich, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
     }
 ]
