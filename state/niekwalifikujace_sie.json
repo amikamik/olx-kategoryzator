@@ -4048,5 +4048,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to kuweta/pojemnik do lodów, markowany przez Hendi, która jest znanym producentem sprzętu gastronomicznego. Opis podkreśla solidną konstrukcję i jakość wykonania, co jest typowe dla produktów profesjonalnych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafnie odzwierciedla przeznaczenie produktu w kontekście profesjonalnym."
+    },
+    {
+        "ID_Produktu": "1002162",
+        "Nazwa_Produktu": "Porcjoner łyżka do lodów i sorbetu KITCHEN LINE 1/30 śr. 56mm ogrzewana olejem srebrna - Hendi 759301",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest porcjonerem do lodów przeznaczonym do użytku komercyjnego (lodziarnie, kawiarnie), co wskazuje na kategorię 'Firma i Przemysł'. W podkategorii 'Gastronomia' nie ma bardziej szczegółowej opcji dla tego typu narzędzi, więc 'Pozostałe' jest najbardziej odpowiednie."
     }
 ]
