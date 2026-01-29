@@ -3738,5 +3738,195 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Nazwa produktu zawiera markę 'Hendi', która jest znana z profesjonalnego sprzętu gastronomicznego. Chochelka do sosów jest przyborem kuchennym, który może być używany zarówno w domu, jak i w gastronomii, ale ze względu na markę, kategoryzacja w 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej odpowiednia i precyzyjna."
+    },
+    {
+        "ID_Produktu": "1001884",
+        "Nazwa_Produktu": "Łyżka do sałatek z tworzywa SAN do 80C czarna dł. 335 mm - Hendi 564455",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Części do maszyn rolniczych",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to łyżka do sałatek marki Hendi, która jest wiodącym producentem sprzętu gastronomicznego. Sugeruje to zastosowanie profesjonalne, dlatego kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia. Ponieważ nie ma bardziej szczegółowej kategorii dla pojedynczego narzędzia kuchennego, wybrano 'Pozostałe' w ramach tej gałęzi."
+    },
+    {
+        "ID_Produktu": "1001887",
+        "Nazwa_Produktu": "Miseczka z melaminy do sosów i dipów 0.08 l - Hendi 561713",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Miski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miseczka (pojemnik) marki Hendi, która jest znana z wyposażenia gastronomicznego. Przeznaczenie do sosów i dipów oraz profesjonalny numer producenta wskazują na zastosowanie w sektorze HORECA, co czyni kategorię 'Pojemniki gastronomiczne' najbardziej szczegółową i adekwatną."
+    },
+    {
+        "ID_Produktu": "1001896",
+        "Nazwa_Produktu": "Pasta etanol BIO do podgrzewaczy w puszce zestaw 6x200g - Hendi 194357",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Twarz > Pielęgnacja > Zestawy kosmetyków",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pasta etanolowa do podgrzewaczy, przeznaczona głównie do zastosowań gastronomicznych i cateringowych. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Gastronomia', a ponieważ nie ma bardziej szczegółowej kategorii dla paliw/konsumowalnych artykułów gastronomicznych, 'Pozostałe' w tej sekcji jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "1001901",
+        "Nazwa_Produktu": "Stojak ekspozytor na 3 talerze o śr. 27 cm stalowy - Hendi 425473",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowy stojak ekspozycyjny na talerze, a marka Hendi jest znana z profesjonalnego sprzętu gastronomicznego. Kategoria 'Pojemniki gastronomiczne' w ramach 'Firma i Przemysł > Gastronomia' najlepiej oddaje przeznaczenie tego typu produktu do zastosowań komercyjnych, służąc do przechowywania lub prezentacji naczyń w gastronomii. Jest to bardziej szczegółowa i adekwatna kategoria niż ogólne 'Pozostałe' w 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "1001904",
+        "Nazwa_Produktu": "Podstawa ekspozycyjna do tac i półmisków stalowa - Hendi 480502",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Birofilistyka > Podstawki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowa podstawa ekspozycyjna do tac i półmisków, wyprodukowana przez firmę Hendi, specjalizującą się w sprzęcie gastronomicznym. Najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia', a ponieważ nie ma bardziej szczegółowej podkategorii dla tego konkretnego typu akcesorium, 'Pozostałe' w tej gałęzi jest najbardziej odpowiednie."
+    },
+    {
+        "ID_Produktu": "1001931",
+        "Nazwa_Produktu": "Pojemnik na sztućce GN 1/1 4-częściowy szary - Hendi 552308",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Nazwa produktu 'Pojemnik na sztućce GN 1/1' oraz marka Hendi silnie wskazują na profesjonalne zastosowanie gastronomiczne (standard Gastronorm). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1001932",
+        "Nazwa_Produktu": "Pojemnik na sztućce GN1/1 4-częściowy czarny - Hendi 552315",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu, w tym standard GN1/1 oraz marka Hendi, wyraźnie wskazują na zastosowanie w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej specyficzna i trafna, w przeciwieństwie do ogólnego 'Pojemniki i przechowywanie żywności' z kategorii 'Dom i Ogród', która nie oddaje profesjonalnego charakteru produktu."
+    },
+    {
+        "ID_Produktu": "1001935",
+        "Nazwa_Produktu": "Wkład na sztućce z polipropylenu do ekspozytora 552407 - Hendi 871201",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wskazują na przeznaczenie wkładu na sztućce do ekspozytora, co wraz z marką Hendi (producent sprzętu gastronomicznego) sugeruje zastosowanie profesjonalne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje ten kontekst."
+    },
+    {
+        "ID_Produktu": "1001936",
+        "Nazwa_Produktu": "Pokrywa przeźroczysta uchylna do ekspozycji potraw GN1/1 - Hendi 427415",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrywa do pojemników gastronomicznych GN1/1, co jest specjalistycznym wyposażeniem kuchennym. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjna, idealnie pasująca do przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "1001973",
+        "Nazwa_Produktu": "Szczypce uniwersalne do potraw z poliwęglanu do 100C przezroczyste - Hendi 657621",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szczypce do potraw marki Hendi, która specjalizuje się w wyposażeniu gastronomicznym. Mimo, że nie ma dokładniejszej podkategorii, kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do charakteru produktu i marki, nawet jeśli kończy się na 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1001974",
+        "Nazwa_Produktu": "Ekskluzywny zapalacz gazowy dł. 230mm zestaw 2 szt. - Hendi 198124",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zapalacz gazowy marki Hendi, która jest znana z wyposażenia dla gastronomii. Długa forma zapalacza sugeruje zastosowanie profesjonalne (np. do zapalania pieców, palników gastronomicznych). Najbardziej szczegółową kategorią, która odzwierciedla to zastosowanie, jest 'Firma i Przemysł > Gastronomia > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1001981",
+        "Nazwa_Produktu": "Okrągła pokrywa RollTop do ekspozycji potraw - Hendi 427514",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywa RollTop do ekspozycji potraw, co wskazuje na zastosowanie w profesjonalnej gastronomii. Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółową i trafną kategorią dla tego typu akcesorium do przechowywania i serwowania żywności w warunkach profesjonalnych, co jest zgodne z marką Hendi."
+    },
+    {
+        "ID_Produktu": "1001984",
+        "Nazwa_Produktu": "Taca ze stali nierdzewnej z pokrywą przeźroczystą okrągła śr. 300mm - Hendi 980101",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taca ze stali nierdzewnej z pokrywą, marki Hendi. Marka Hendi jest znana z wyposażenia gastronomicznego, co sugeruje profesjonalne zastosowanie. Kategoria 'Pojemniki gastronomiczne' jest najbardziej specyficzna dla tego typu produktu w kontekście profesjonalnym."
+    },
+    {
+        "ID_Produktu": "1001985",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 19 cm - Hendi 404003",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to stalowy półmisek przeznaczony do użytku komercyjnego w hotelach, restauracjach i cateringu. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółową i adekwatną kategorią, uwzględniającą przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1001986",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 24 cm - Hendi  404102",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowy półmisek przeznaczony do użytku w hotelach, restauracjach i cateringu. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1001987",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 30 cm - Hendi  404201",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to stalowy półmisek przeznaczony do użytku w hotelach, restauracjach i cateringu. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje komercyjny charakter produktu, będącego naczyniem do serwowania żywności w gastronomii."
+    },
+    {
+        "ID_Produktu": "1001988",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 35 cm - Hendi  404300",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowy półmisek przeznaczony do użytku w hotelach, restauracjach i cateringu. Pasuje idealnie do kategorii 'Firma i Przemysł > Gastronomia', a najbardziej szczegółowa i trafna podkategoria to 'Pojemniki gastronomiczne', ponieważ półmisek służy do serwowania i przechowywania żywności w kontekście gastronomicznym. Wskazówka systemowa była myląca, ponieważ produkt jest nowy i ze stali nierdzewnej, a nie antykiem z ceramiki."
+    },
+    {
+        "ID_Produktu": "1001989",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 40 cm - Hendi  404409",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowy półmisek marki HENDI, przeznaczony do użytku w hotelach, restauracjach i na imprezach cateringowych. Tytuł i opis jasno wskazują na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1001990",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 45 cm - Hendi  404508",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to półmisek ze stali nierdzewnej, wyraźnie przeznaczony do użytku w hotelach, restauracjach i cateringu. Kategoria 'Firma i Przemysł > Gastronomia' najlepiej oddaje komercyjny charakter produktu, a 'Pojemniki gastronomiczne' jest najbardziej szczegółową kategorią-liściem, która pasuje do naczynia służącego do serwowania."
     }
 ]

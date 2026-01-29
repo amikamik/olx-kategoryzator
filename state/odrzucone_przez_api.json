@@ -6050,5 +6050,167 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1001933",
+        "Nazwa_Produktu": "Pojemnik na sztućce GN 1/1 6-częściowy szary - Hendi 552353",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Sztućce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Sztućce",
+        "Finalne_ID_AI": 2160,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemnik na sztućce, co idealnie pasuje do kategorii 'Sztućce' w obrębie 'Zastawa stołowa' w dziale 'Dom i Ogród'. Jest to najbardziej szczegółowa kategoria dla tego typu akcesorium.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pojemnik na sztućce gn 1/1 6-częściowy szary - hendi 552353",
+                "description": "Numer producenta: 552353 Pojemnik na sztućce GN1/1 - 6-częsciowy - Wykonany z polietylenu - Z miejscem na łyżeczki do kawy, łyżeczki do herbaty oraz widelczyki do ciasta Parametry: - długość 530 mm - szerokość 325 mm - wysokość 105 mm W zestawie: - pojemnik na sztućce GN 1/1\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2160,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 71.02,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/552353-pojemnik-na-sztucce-gn1-1-6-czesciowy-szary-hendi-552353-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/552261-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001983",
+        "Nazwa_Produktu": "Pokrywa przeźroczysta do patery obrotowej do ciasta - Hendi 523834",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Patery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Patery",
+        "Finalne_ID_AI": 2156,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywa do patery, która jest bezpośrednio związana z kategorią 'Patery'. Jest to najbardziej szczegółowa kategoria-liść pasująca do przedmiotu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pokrywa przeźroczysta do patery obrotowej do ciasta - hendi 523834",
+                "description": "Numer producenta: 523834 Pokrywa wykonana z poliamidu, pasuje do patery o ID: 523827 Parametry: - średnica: 300mm - wysokość: 110mm W zestawie: - pokrywa do patery\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2156,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/523834-pokrywa-przezroczysta-do-patery-obrotowej-do-ciasta-hendi-523834-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/523827-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001991",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 50 cm - Hendi  404607",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Salaterki i półmiski",
+        "Finalne_ID_AI": 2157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowy półmisek. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Salaterki i półmiski' jest najbardziej szczegółową i bezpośrednio pasującą nazwą dla tego przedmiotu, mimo iż opis wskazuje na zastosowanie profesjonalne. Kategoria ta jest na najgłębszym możliwym poziomie drzewa i precyzyjnie określa typ produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stalowy półmisek do mięs i wędlin owalny dł. 50 cm - hendi  404607",
+                "description": "Numer producenta: 404607 Półmisek marki HENDI to naczynie, które znajdzie zastosowanie w hotelach, restauracjach oraz innych miejscach serwujących posiłki i napoje z dostawą do stolika. Doskonale sprawdzi się również w lokalach nastawionych na samoobsługę (w barach z żywnością na wagę lub hotelach ze śniadaniami serwowanymi jako szwedzki stół). Cechy produktu: - Idealny do obsługi imprez cateringowych - Wysoka jakość wykonania - Wykonany ze stali nierdzewnej - Można myć w zmywarkach Parametry: - długość: 500mm - szerokość: 350mm W zestawie: - półmisek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2157,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 91.22,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404607-stalowy-polmisek-do-mies-i-wedlin-owalny-dl-50-cm-hendi-404607-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
     }
 ]
