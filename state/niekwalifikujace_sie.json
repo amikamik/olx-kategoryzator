@@ -4088,5 +4088,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalny zmywak barmański, który jest specjalistycznym sprzętem czyszczącym przeznaczonym do użytku w gastronomii. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' najlepiej oddaje jego charakter i przeznaczenie."
+    },
+    {
+        "ID_Produktu": "1002388",
+        "Nazwa_Produktu": "Kratka barowa do osuszania szklanek i kieliszków zestaw 5szt - Hendi 597958",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Kieliszki i pucharki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna kratka barmańska do osuszania szklanek i kieliszków, spełniająca normy HACCP. Wskazuje to na zastosowanie w gastronomii komercyjnej, a nie w domu. W kategorii 'Firma i Przemysł' podkategoria 'Gastronomia' jest najlepszym dopasowaniem, a ponieważ nie ma bardziej szczegółowej opcji dla tego typu akcesorium, 'Pozostałe' jest najbardziej odpowiednim liściem."
+    },
+    {
+        "ID_Produktu": "1002390",
+        "Nazwa_Produktu": "Szczotki barowe do mycia szklanek i pokali wys. 18cm - Hendi 696002",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Szklanki i kufle",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szczotki barowe do mycia szklanek, co wskazuje na zastosowanie profesjonalne w gastronomii. W kategorii 'Firma i Przemysł > Gastronomia' brak jest bardziej szczegółowej podkategorii dla tego typu ręcznych narzędzi czyszczących, dlatego najlepiej pasuje 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1002391",
+        "Nazwa_Produktu": "Szczotki barowe do mycia szklanek i pokali wys. 18 / 25 cm - Hendi 696040",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Szklanki i kufle",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne szczotki barowe do mycia szklanek, co wskazuje na zastosowanie w gastronomii. Marka Hendi jest znana z wyposażenia gastronomicznego. Brak bardziej szczegółowej kategorii w ramach 'Gastronomia', więc 'Pozostałe' jest najlepszym wyborem."
     }
 ]
