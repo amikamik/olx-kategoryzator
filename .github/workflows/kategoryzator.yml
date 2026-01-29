@@ -167,7 +167,7 @@ jobs:
           PYTHONUNBUFFERED: "1"
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          MAX_RUNTIME_MINUTES: "150"
+          MAX_RUNTIME_MINUTES: "350"
 
       - name: 💽 Zapisz zaktualizowane pliki state i raport
         if: always()
