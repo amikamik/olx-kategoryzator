@@ -3998,5 +3998,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to gałkownica do lodów z linii 'Profi Line' marki Hendi, co wskazuje na profesjonalne zastosowanie w gastronomii. Najbardziej pasującą i szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1002133",
+        "Nazwa_Produktu": "Stojak do lodów ze stali nierdzewnej na 3 wafle - Hendi 755730",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stojak na lody, który w opisie jest wyraźnie przeznaczony do użytku w cukierniach i punktach lodziarskich. Najbardziej pasującą kategorią, odzwierciedlającą komercyjne zastosowanie, jest 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu akcesoriów, 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1002134",
+        "Nazwa_Produktu": "Kuweta pojemnik do lodów ze stali nierdzewnej 6.5l - Hendi 802021",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczna kuweta do lodów marki Hendi, znanej z profesjonalnego sprzętu gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "1002135",
+        "Nazwa_Produktu": "Kuweta pojemnik do lodów ze stali nierdzewnej 5l - Hendi 802038",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny pojemnik do lodów marki Hendi, która jest znana z wyposażenia gastronomicznego. Opis wskazuje na zastosowanie w warunkach chłodniczych, co również sugeruje profesjonalne środowisko. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu."
+    },
+    {
+        "ID_Produktu": "1002136",
+        "Nazwa_Produktu": "Kuweta pojemnik do lodów ze stali nierdzewnej 3.6l - Hendi 802045",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kuweta do lodów ze stali nierdzewnej marki Hendi, która jest znana z profesjonalnego sprzętu gastronomicznego. Kategoria 'Pojemniki gastronomiczne' jest najbardziej specyficzna dla tego typu artykułu przeznaczonego do użytku w gastronomii, a także jest kategorią liściową."
+    },
+    {
+        "ID_Produktu": "1002137",
+        "Nazwa_Produktu": "Kuweta pojemnik do lodów ze stali nierdzewnej 5l - Hendi 802052",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kuweta/pojemnik do lodów, markowany przez Hendi, która jest znanym producentem sprzętu gastronomicznego. Opis podkreśla solidną konstrukcję i jakość wykonania, co jest typowe dla produktów profesjonalnych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafnie odzwierciedla przeznaczenie produktu w kontekście profesjonalnym."
     }
 ]
