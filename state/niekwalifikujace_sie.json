@@ -4578,5 +4578,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest koszem przeznaczonym specjalnie do zmywarek gastronomicznych, co bezpośrednio wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Kosz jest rodzajem pojemnika używanego w gastronomii, dlatego 'Pojemniki gastronomiczne' jest najbardziej szczegółową i pasującą kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1002660",
+        "Nazwa_Produktu": "Świetlówki do lampy owadobójczej 15W zestaw 2 szt. - Hendi 270028",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Świetlówki",
+        "Finalne_ID_AI": 3857,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to świetlówki, które są częścią oświetlenia. Najbardziej szczegółowa kategoria w drzewie to 'Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Świetlówki'."
+    },
+    {
+        "ID_Produktu": "1002666",
+        "Nazwa_Produktu": "Lampa owadobójcza wodoodporna Świetlówka - Hendi 935286",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Latarki i lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Świetlówki",
+        "Finalne_ID_AI": 3857,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to świetlówka do lamp owadobójczych. Najbardziej szczegółowa i trafna kategoria to 'Świetlówki' znajdująca się pod 'Dom i Ogród > Oświetlenie > Żarówki i świetlówki'."
+    },
+    {
+        "ID_Produktu": "1002680",
+        "Nazwa_Produktu": "Płyn preparat odkamieniacz do odkamieniania zmywarek gastronomicznych 1L  - Hendi 975008",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest specjalistycznym odkamieniaczem do zmywarek gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia dla produktów przeznaczonych dla profesjonalnej gastronomii. W ramach tej gałęzi, 'Zmywarki' to najbardziej szczegółowa kategoria liść, która bezpośrednio odnosi się do przeznaczenia produktu, mimo że jest to preparat do zmywarek, a nie same zmywarki. Brak jest bardziej ogólnej podkategorii dla środków chemicznych lub akcesoriów gastronomicznych."
+    },
+    {
+        "ID_Produktu": "1002681",
+        "Nazwa_Produktu": "Płyn nabłyszczacz do płukania i nabłyszczania naczyń w zmywarkach gastronomicznych 10L - Hendi 975015",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest płynem nabłyszczającym przeznaczonym do zmywarek gastronomicznych i przemysłowych, co bezpośrednio wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ brak jest bardziej szczegółowej podkategorii dla środków czyszczących w gastronomii, 'Pozostałe' jest najbardziej odpowiednią kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1002682",
+        "Nazwa_Produktu": "Płyn nabłyszczacz do płukania i nabłyszczania naczyń w zmywarkach gastronomicznych 5L - Hendi 975022",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to płyn nabłyszczający przeznaczony do zmywarek gastronomicznych i przemysłowych. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej szczegółowa, ponieważ umieszcza produkt w kontekście jego przeznaczenia profesjonalnego/komercyjnego, a nie ogólnych środków czyszczących dla domu."
+    },
+    {
+        "ID_Produktu": "1002755",
+        "Nazwa_Produktu": "Pojemnik termoizolacyjny cateringowy termos do transportu żywności EEP GN1/1 40L - Hendi 707906",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik termoizolacyjny przeznaczony do transportu żywności w cateringu (określenie 'cateringowy', 'GN 1/1', marka Hendi). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, lepiej niż ogólne 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności'."
+    },
+    {
+        "ID_Produktu": "1002763",
+        "Nazwa_Produktu": "Hak montażowy do rozbudowy regału magazynowego ażurowego 812273 - Hendi 812280",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalne_ID_AI": 4677,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hak montażowy przeznaczony do rozbudowy regału magazynowego. Kategoria 'Regały' (ID: 4677) w gałęzi 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej szczegółową i trafioną kategorią, ponieważ hak jest integralnym elementem do rozbudowy regału, a nie ogólnym hakiem czy zawieszką. Podpowiedź OLX również wskazuje na tę kategorię."
     }
 ]
