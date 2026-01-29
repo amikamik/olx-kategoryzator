@@ -10342,5 +10342,411 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002381",
+        "Nazwa_Produktu": "Shaker koktailer barmański do drinków i koktajli stalowy 0.75L - Hendi 593004",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalne_ID_AI": 2114,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to shaker do koktajli, który jednoznacznie pasuje do najbardziej szczegółowej kategorii 'Akcesoria barmańskie' znajdującej się w przyborach kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Shaker koktailer barmański do drinków i koktajli stalowy 0.75l - hendi 593004",
+                "description": "Numer producenta: 593004 Profesjonalny Shaker do koktajli i drinków, obowiązkowe wyposażenie każdego barmana, świetnie sprawdza się również w domowych warunkach. Cechy produktu: – 3 częściowy – Wykonany ze stali nierdzewnej Parametry: – średnica: 80mm – wysokość: 240mm – pojemność: 0,75l W zestawie: – Shaker do koktajli i drinków\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2114,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 65.62,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/593004-shaker-koktailer-barmanski-do-drinkow-i-koktajli-stalowy-075l-hendi-593004-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002383",
+        "Nazwa_Produktu": "Shaker koktailer barmański do drinków i koktajli stalowy 0.75L - Hendi 593035",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalne_ID_AI": 2114,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest shakerem barmańskim przeznaczonym do przygotowywania drinków, co jednoznacznie klasyfikuje go do kategorii 'Akcesoria barmańskie' w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Shaker koktailer barmański do drinków i koktajli stalowy 0.75l - hendi 593035",
+                "description": "Numer producenta: 593035 Shaker trzyczęściowy – Wykonany ze stali nierdzewnej Parametry: – średnica: 90mm – wysokość: 255mm – pojemność: 0,75l W zestawie: – Shaker\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2114,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 61.31,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/593035-shaker-koktailer-barmanski-do-drinkow-i-koktajli-stalowy-075l-hendi-593035-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002384",
+        "Nazwa_Produktu": "Shaker kubek bostoński barmański do drinków i koktajli stalowy 0.8 L - Hendi 593042",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalne_ID_AI": 2114,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kubek do shakera bostońskiego, będący typowym narzędziem barmańskim. W drzewie kategorii OLX najbardziej precyzyjnym dopasowaniem na poziomie liścia jest kategoria 'Akcesoria barmańskie' (ID: 2114), znajdująca się w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Shaker kubek bostoński barmański do drinków i koktajli stalowy 0.8 l - hendi 593042",
+                "description": "Numer producenta: 593042 - Kubek do shakera bostońskiego - Wykonany ze stali nierdzewnej Parametry: pojemność: 0,8l W zestawie: - Kubek do shakera bostońskiego\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2114,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 38.64,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/593042-shaker-kubek-bostonski-barmanski-do-drinkow-i-koktajli-stalowy-075l-hendi-593042-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002386",
+        "Nazwa_Produktu": "Miarka barmańska do alkoholu dwustronna stalowa 25 / 35 ml - Hendi 596715",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalne_ID_AI": 2114,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to miarka barmańska (jigger), która jest typowym akcesorium barmańskim. Wybrana kategoria 'Akcesoria barmańskie' (ID: 2114) jest najbardziej szczegółowym i precyzyjnym dopasowaniem dla tego typu przedmiotu w drzewie kategorii.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Miarka barmańska do alkoholu dwustronna stalowa 25 / 35 ml - hendi 596715",
+                "description": "Numer producenta: 596715 Miara barmańska dwustronna – Wykonana ze stali nierdzewnej – Dwustronna o pojemności: 25 ml i 35 ml Parametry: – średnica: 40 mm – wysokość: 75 mm W zestawie: – Miara barmańska dwustronna\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2114,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.0,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/596715-miarka-barmanska-do-alkoholu-dwustronna-stalowa-25-35-ml-hendi-596715-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002387",
+        "Nazwa_Produktu": "Miarka barmańska do alkoholu dwustronna stalowa 25 / 50 ml  - Hendi 596722",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalne_ID_AI": 2114,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to miarka barmańska (jigger), która jest podstawowym narzędziem barmańskim. Kategoria 'Akcesoria barmańskie' (ID: 2114) jest najbardziej szczegółowym liściem w drzewie, pasującym do tego typu przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Miarka barmańska do alkoholu dwustronna stalowa 25 / 50 ml  - hendi 596722",
+                "description": "Numer producenta: 596722 Miara barmańska – Dwustronna – Wykonana ze stali nierdzewnej Parametry: – średnica: 40 mm – wysokość: 85 mm – pojemności: 25 ml i 50 ml W zestawie: – Miara barmańska dwustronna\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2114,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.01,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/596722-miarka-barmanska-do-alkoholu-dwustronna-stalowa-25-50-ml-hendi-596722-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002388",
+        "Nazwa_Produktu": "Kratka barowa do osuszania szklanek i kieliszków zestaw 5szt - Hendi 597958",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Kieliszki i pucharki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalne_ID_AI": 2114,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany kratką barmańską w tytule i opisie, co czyni go idealnym dopasowaniem do kategorii 'Akcesoria barmańskie' w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kratka barowa do osuszania szklanek i kieliszków zestaw 5szt - hendi 597958",
+                "description": "Numer producenta: 597958 - Kratka barmańska - Wykonana z białego polipropylenu - Idealna do osuszania szklanek i kieliszków - Możliwość łączenia - Spełnia normy higieny HACCP Parametry: długość: 313mm szerokość: 209mm W zestawie: - Kratka barmańska x5 Nasze urządzenia posiadają deklarację zgodności CE niezbędną dla Sanepidu.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2114,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 54.83,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/597958-kratka-barowa-do-osuszania-szklanek-i-kieliszkow-zestaw-5szt-hendi-597958-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002393",
+        "Nazwa_Produktu": "Szczypce do lodu ze stali nierdzewnej 180mm zestaw 2 szt - Hendi 523520",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalne_ID_AI": 2114,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Szczypce do lodu są specjalistycznym przyborem kuchennym służącym do serwowania lodu, co klasyfikuje je bezpośrednio w kategorii akcesoriów barmańskich. Wskazówka systemowa dotycząca narzędzi ręcznych jest błędna, ponieważ sugeruje narzędzia warsztatowe/budowlane, a nie kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szczypce do lodu ze stali nierdzewnej 180mm zestaw 2 szt - hendi 523520",
+                "description": "Numer producenta: 523520 Szczypce do lodu wykonane ze stali nierdzewnej pakowane w zestaw 2 szt. Cechy produktu: – Długość 180 mm – Wykonane ze stali nierdzewnej – Można myć w zmywarkach Parametry: – długość: 180 mm W zestawie: – Szczypce do lodu x2\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2114,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/523520.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
