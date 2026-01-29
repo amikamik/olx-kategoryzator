@@ -4648,5 +4648,75 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to hak montażowy przeznaczony do rozbudowy regału magazynowego. Kategoria 'Regały' (ID: 4677) w gałęzi 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej szczegółową i trafioną kategorią, ponieważ hak jest integralnym elementem do rozbudowy regału, a nie ogólnym hakiem czy zawieszką. Podpowiedź OLX również wskazuje na tę kategorię."
+    },
+    {
+        "ID_Produktu": "1005017",
+        "Nazwa_Produktu": "Ekspozytor stojak stalowy do butelek dyspenserów do sosów 3 x 0.2L śr. 50mm  - Hendi 557969",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi (znanej z profesjonalnego sprzętu gastronomicznego) jest stojakiem do dyspenserów sosów, co jednoznacznie wskazuje na zastosowanie w gastronomii, a nie w domu. Ponieważ nie ma bardziej szczegółowej kategorii dla stojaków/ekspozytorów w sekcji Gastronomia, kategoria 'Pozostałe' w tej gałęzi jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1005018",
+        "Nazwa_Produktu": "Ekspozytor stojak stalowy do butelek dyspenserów do sosów 3 x 0.35L śr. 55mm  - Hendi 557976",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stojak do dyspenserów sosów marki Hendi, która jest znana z wyposażenia gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna dla tego typu profesjonalnego sprzętu. Ponieważ nie ma bardziej szczegółowej kategorii dla stojaków/ekspozytorów dyspenserów w ramach Gastronomii, 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1005019",
+        "Nazwa_Produktu": "Ekspozytor stojak stalowy do butelek dyspenserów do sosów 3 x 0.7L śr. 70mm  - Hendi 557983",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stojak na dyspensery do sosów, z marką Hendi, która jest znana z wyposażenia gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu w profesjonalnym środowisku."
+    },
+    {
+        "ID_Produktu": "1005025",
+        "Nazwa_Produktu": "Pokrywa ROLLTOP do koszyka na pieczywo GN2/3 wys. 175mm - Hendi 427538",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywa typu Rolltop do koszyka na pieczywo w rozmiarze GN 2/3, produkowana przez firmę Hendi, która specjalizuje się w wyposażeniu gastronomicznym. Wskazuje to jednoznacznie na zastosowanie profesjonalne w gastronomii, a kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółową i adekwatną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1005029",
+        "Nazwa_Produktu": "Kuweta do lodów profesjonalna stalowa nierdzewna 360x165x120mm poj. 5L  - Hendi 807019",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna kuweta do lodów ze stali nierdzewnej, która jest typem pojemnika gastronomicznego przeznaczonego do użytku w warunkach chłodniczych, idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1005038",
+        "Nazwa_Produktu": "Mata podkładka barmańska pod szklanki do baru gumowa 60x8cm - Hendi 597965",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata barmańska, przeznaczona do użytku w barach i gastronomii. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do profesjonalnego zastosowania produktu. Brak bardziej szczegółowej kategorii dla mat barmańskich w obrębie gastronomii, dlatego 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1005039",
+        "Nazwa_Produktu": "Mata podkładka barmańska pod szklanki do baru gumowa 45.3x30.5cm - Hendi 597972",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata barmańska, która jest wyposażeniem profesjonalnym dla branży gastronomicznej. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu akcesoriów, 'Pozostałe' w tej gałęzi jest najlepszym wyborem. Sugestia OLX dotycząca 'Dom i Ogród' jest błędna, gdyż produkt nie jest przeznaczony do użytku domowego."
     }
 ]
