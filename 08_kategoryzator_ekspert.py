@@ -224,6 +224,42 @@ def clean_html(raw_html):
     clean_text = re.sub('<[^<]+?>', ' ', raw_html)
     return " ".join(clean_text.split())
 
+def skroc_tytul(tytul, max_dlugosc=69):
+    """
+    Skraca tytuł do maksymalnie max_dlugosc znaków.
+    Nie ucina w połowie słowa - szuka ostatniej spacji.
+    """
+    if not tytul or len(tytul) <= max_dlugosc:
+        return tytul
+    
+    # Szukaj ostatniej spacji przed limitem
+    skrocony = tytul[:max_dlugosc]
+    ostatnia_spacja = skrocony.rfind(' ')
+    
+    if ostatnia_spacja > max_dlugosc // 2:  # Jeśli spacja jest w rozsądnym miejscu
+        return skrocony[:ostatnia_spacja].rstrip()
+    else:
+        return skrocony.rstrip()  # Utni ostro jeśli nie ma dobrej spacji
+
+def wyczysc_opis_dla_olx(opis):
+    """
+    Usuwa znaki specjalne z opisu, które mogą powodować błędy w API OLX.
+    Zostawia: litery, cyfry, podstawową interpunkcję, polskie znaki, białe znaki.
+    """
+    if not opis:
+        return ""
+    
+    # Dozwolone znaki: litery (w tym polskie), cyfry, podstawowa interpunkcja, białe znaki
+    # Usuwamy: emotikony, symbole specjalne, znaki kontrolne itp.
+    dozwolone = re.compile(r'[^a-zA-Z0-9ąćęłńóśźżĄĆĘŁŃÓŚŹŻ\s.,;:!?()\-\[\]/"\'+%&@#=*\n\r]')
+    czysty = dozwolone.sub('', opis)
+    
+    # Usuń wielokrotne spacje/entery
+    czysty = re.sub(r'[ \t]+', ' ', czysty)  # Wielokrotne spacje na jedną
+    czysty = re.sub(r'\n{3,}', '\n\n', czysty)  # Max 2 entery pod rząd
+    
+    return czysty.strip()
+
 def load_full_category_map(file_path):
     """
     Wczytuje kategorie z pliku JSON i buduje:
@@ -946,9 +982,18 @@ def opublikuj_ogloszenie_na_olx(produkt, kategoria_id, wybrane_atrybuty, wybrane
         else:
             print(f"    │  ├─ ⚠️ Produkt nie ma przypisanego producenta odpowiedzialnego")
     
+    # Przygotowanie tytułu (max 69 znaków dla OLX API)
+    tytul_oryginalny = produkt.get('name', "Brak tytułu").capitalize()
+    tytul_skrocony = skroc_tytul(tytul_oryginalny, 69)
+    if len(tytul_oryginalny) > 69:
+        print(f"    │  ├─ ⚠️ Tytuł skrócony: {len(tytul_oryginalny)} → {len(tytul_skrocony)} znaków")
+    
+    # Czyszczenie opisu ze znaków specjalnych
+    opis_czysty = wyczysc_opis_dla_olx(full_description)
+    
     advert_data = {
-        "title": produkt.get('name', "Brak tytułu").capitalize(),
-        "description": full_description,
+        "title": tytul_skrocony,
+        "description": opis_czysty,
         "category_id": kategoria_id,
         "advertiser_type": "private",
         "contact": config_obj.OLX_AD_CONTACT,
