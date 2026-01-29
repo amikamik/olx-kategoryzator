@@ -11823,5 +11823,352 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004866",
+        "Nazwa_Produktu": "Pojemnik kubeł na odpady i śmieci ATESTY Europlast Austria - niebieski 120L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 120-litrowy kubeł na odpady komunalne. Kategoria 'Kosze na śmieci i pojemniki do segregacji' (2122) jest najbardziej precyzyjnym i najgłębszym poziomem kategoryzacji dla tego typu przedmiotów w strukturze OLX, mimo że nadrzędną kategorią są 'Przybory kuchenne'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pojemnik kubeł na odpady i śmieci atesty europlast austria - niebieski 120l",
+                "description": "Kod producenta: 0004-1 Atestowany pojemnik, kubeł na odpady komunalne wyprodukowany przez europejskiego lidera, austriacką firmę EUROPLAST . Kosz na śmieci wykonany został z wysokiej jakości ekologicznych materiałów . Spełni swoje zadania w najtrudniejszych warunkach podczas codziennej intensywnej eksploatacji. Najważniejsze zalety: - odporny na działanie promieni UV - odporny na działanie niskich i wysokich temperatur (nie jest przeznaczony do składowania gorącego popiołu) - gładka powierzchnia uniemożliwia klejenie się odpadów. - odporny na warunki atmosferyczne. - wytwarzany z materiałów nadających się do ponownego przerobu - nie zawiera kadmu - estetyczny wygląd - koła z pełnej opony, osadzonej na stalowej osi Specyfikacja Waga (kg) - 9 Pojemność (L) - 120 Rozmiary (mm) - 480 x 540 x 950 Kolor - niebieski Miejsce na zamontowanie chip-a transpondera. Zaczep / obrzeże umożliwia swoją konstrukcją opróżnianie przy użyciu grzebieniowego, obrotowego, bramowego lub hakowego mechanizmu załadowczego pojazdów przeznaczonych do odbioru odpadów. Atesty i normy: - DIN EN 840-1, EN 840-5, EN 840-6 - RAL-GZ 951/1 - atest PZH W zestawie: - kubeł na odpady 120L niebieski - koła na stalowej osi\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Europlast GmbH\nAdres: Schmelz 83, 9772, Dellach im Drautal, Austria\nEmail: verkauf(at)europlast.at\nTelefon: +43(0)47148228\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 195.07,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-1-meva-pojemnik-kubel-na-odpady-i-smieci-atesty-europlast-austria-niebieski-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-certyfikaty-atesty-do-pojemnikow-kubelow-na-odpady-i-smieci-europlast-austria-iso-PZH.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-2-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-1-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-1-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-1-4.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004867",
+        "Nazwa_Produktu": "Pojemnik kubeł na odpady i śmieci ATESTY Europlast Austria - zielony 120L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 120-litrowy kubeł na odpady komunalne. Kategoria 'Kosze na śmieci i pojemniki do segregacji' (ID: 2122) jest najbardziej specyficzną kategorią przeznaczoną dla pojemników na odpady w drzewie kategorii OLX, obejmującą zarówno kosze domowe, jak i większe pojemniki do segregacji zewnętrznej.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pojemnik kubeł na odpady i śmieci atesty europlast austria - zielony 120l",
+                "description": "Kod producenta: 0004-2 Atestowany pojemnik, kubeł na odpady komunalne wyprodukowany przez europejskiego lidera, austriacką firmę EUROPLAST . Kosz na śmieci wykonany został z wysokiej jakości ekologicznych materiałów . Spełni swoje zadania w najtrudniejszych warunkach podczas codziennej intensywnej eksploatacji. Najważniejsze zalety: - odporny na działanie promieni UV - odporny na działanie niskich i wysokich temperatur (nie jest przeznaczony do składowania gorącego popiołu) - gładka powierzchnia uniemożliwia klejenie się odpadów. - odporny na warunki atmosferyczne. - wytwarzany z materiałów nadających się do ponownego przerobu - nie zawiera kadmu - estetyczny wygląd - koła z pełnej opony, osadzonej na stalowej osi Specyfikacja Waga (kg) - 9 Pojemność (L) - 120 Rozmiary (mm) - 480 x 540 x 950 Kolor - zielony Miejsce na zamontowanie chip-a transpondera. Zaczep / obrzeże umożliwia swoją konstrukcją opróżnianie przy użyciu grzebieniowego, obrotowego, bramowego lub hakowego mechanizmu załadowczego pojazdów przeznaczonych do odbioru odpadów. Atesty: - DIN EN 840-1, EN 840-5, EN 840-6 - RAL-GZ 951/1 - atest PZH W zestawie: - kubeł na odpady 120L zielony - koła z ośką stalową\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Europlast GmbH\nAdres: Schmelz 83, 9772, Dellach im Drautal, Austria\nEmail: verkauf(at)europlast.at\nTelefon: +43(0)47148228\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 195.07,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-2-meva-pojemnik-kubel-na-odpady-i-smieci-atesty-europlast-austria-zielony-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-certyfikaty-atesty-do-pojemnikow-kubelow-na-odpady-i-smieci-europlast-austria-iso-PZH.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-2-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-2-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-1-4.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004868",
+        "Nazwa_Produktu": "Pojemnik kubeł na odpady i śmieci ATESTY Europlast Austria - czarny 120L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemnik na odpady (kosz na śmieci). W drzewie kategorii OLX kategoria ID 2122 'Kosze na śmieci i pojemniki do segregacji' jest najbardziej precyzyjnym dopasowaniem dla tego typu przedmiotów, obejmującym zarówno domowe, jak i komunalne kubły na odpady.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pojemnik kubeł na odpady i śmieci atesty europlast austria - czarny 120l",
+                "description": "Kod producenta: 0004-3 Atestowany pojemnik, kubeł na odpady komunalne wyprodukowany przez europejskiego lidera, austriacką firmę EUROPLAST . Kosz na śmieci wykonany został z wysokiej jakości ekologicznych materiałów . Spełni swoje zadania w najtrudniejszych warunkach podczas codziennej intensywnej eksploatacji. Najważniejsze zalety: - odporny na działanie promieni UV - odporny na działanie niskich i wysokich temperatur (nie jest przeznaczony do składowania gorącego popiołu) - gładka powierzchnia uniemożliwia klejenie się odpadów. - odporny na warunki atmosferyczne. - wytwarzany z materiałów nadających się do ponownego przerobu - nie zawiera kadmu - estetyczny wygląd - koła z pełnej opony, osadzonej na stalowej osi Specyfikacja Waga (kg) - 9 Pojemność (L) - 120 Rozmiary (mm) - 480 x 540 x 950 Kolor - czarny Miejsce na zamontowanie chip-a transpondera. Zaczep / obrzeże umożliwia swoją konstrukcją opróżnianie przy użyciu grzebieniowego, obrotowego, bramowego lub hakowego mechanizmu załadowczego pojazdów przeznaczonych do odbioru odpadów. Atesty: - DIN EN 840-1, EN 840-5, EN 840-6 - RAL-GZ 951/1 - atest PZH W zestawie: - kubeł na odpady 120L czarny - koła na stalowej osi\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Europlast GmbH\nAdres: Schmelz 83, 9772, Dellach im Drautal, Austria\nEmail: verkauf(at)europlast.at\nTelefon: +43(0)47148228\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 195.07,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-3-meva-pojemnik-kubel-na-odpady-i-smieci-atesty-europlast-austria-czarny-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-certyfikaty-atesty-do-pojemnikow-kubelow-na-odpady-i-smieci-europlast-austria-iso-PZH.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-2-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-1-4.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004869",
+        "Nazwa_Produktu": "Pojemnik kubeł na odpady i śmieci ATESTY Europlast Austria - żółty 120L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym kubłem na odpady komunalne (120L). W strukturze OLX kategoria 'Kosze na śmieci i pojemniki do segregacji' (ID 2122) jest najbardziej precyzyjnym miejscem dla tego typu przedmiotów, niezależnie od ich przeznaczenia (wewnątrz lub na zewnątrz budynku).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pojemnik kubeł na odpady i śmieci atesty europlast austria - żółty 120l",
+                "description": "Kod producenta: 0004-4 Atestowany pojemnik, kubeł na odpady komunalne wyprodukowany przez europejskiego lidera, austriacką firmę EUROPLAST . Kosz na śmieci wykonany został z wysokiej jakości ekologicznych materiałów . Spełni swoje zadania w najtrudniejszych warunkach podczas codziennej intensywnej eksploatacji. Najważniejsze zalety: - odporny na działanie promieni UV - odporny na działanie niskich i wysokich temperatur (nie jest przeznaczony do składowania gorącego popiołu) - gładka powierzchnia uniemożliwia klejenie się odpadów. - odporny na warunki atmosferyczne. - wytwarzany z materiałów nadających się do ponownego przerobu - nie zawiera kadmu - estetyczny wygląd - koła z pełnej opony, osadzonej na stalowej osi Specyfikacja Waga (kg) - 9 Pojemność (L) - 120 Rozmiary (mm) - 480 x 540 x 950 Kolor - żółty Miejsce na zamontowanie chip-a transpondera. Zaczep / obrzeże umożliwia swoją konstrukcją opróżnianie przy użyciu grzebieniowego, obrotowego, bramowego lub hakowego mechanizmu załadowczego pojazdów przeznaczonych do odbioru odpadów. Atesty: - DIN EN 840-1, EN 840-5, EN 840-6 - RAL-GZ 951/1 - atest PZH W zestawie: - kubeł na odpady 120L żółty - koła na stalowej osi\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Europlast GmbH\nAdres: Schmelz 83, 9772, Dellach im Drautal, Austria\nEmail: verkauf(at)europlast.at\nTelefon: +43(0)47148228\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 195.07,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-4-meva-pojemnik-kubel-na-odpady-i-smieci-atesty-europlast-austria-zolty-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-certyfikaty-atesty-do-pojemnikow-kubelow-na-odpady-i-smieci-europlast-austria-iso-PZH.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-2-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-1-4.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004870",
+        "Nazwa_Produktu": "Pojemnik kubeł na BIO odpady i śmieci spożywcze ATESTY Europlast Austria - brązowy 120L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 120-litrowy kubeł na odpady (BIO). W strukturze kategorii OLX, kosze na śmieci oraz pojemniki służące do segregacji odpadów znajdują się w kategorii o ID 2122.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pojemnik kubeł na bio odpady i śmieci spożywcze atesty europlast austria - brązowy 120l",
+                "description": "Kod producenta: 0004-5 Atestowany pojemnik, kubeł na odpady komunalne wyprodukowany przez europejskiego lidera, austriacką firmę EUROPLAST . Kosz na śmieci wykonany został z wysokiej jakości ekologicznych materiałów . Spełni swoje zadania w najtrudniejszych warunkach podczas codziennej intensywnej eksploatacji. Najważniejsze zalety: - odporny na działanie promieni UV - odporny na działanie niskich i wysokich temperatur (nie jest przeznaczony do składowania gorącego popiołu) - gładka powierzchnia uniemożliwia klejenie się odpadów. - odporny na warunki atmosferyczne. - wytwarzany z materiałów nadających się do ponownego przerobu - nie zawiera kadmu - estetyczny wygląd - koła z pełnej opony, osadzonej na stalowej osi Specyfikacja Waga (kg) - 9 Pojemność (L) - 120 Rozmiary (mm) - 480 x 540 x 950 Kolor - brązowy Miejsce na zamontowanie chip-a transpondera. Zaczep / obrzeże umożliwia swoją konstrukcją opróżnianie przy użyciu grzebieniowego, obrotowego, bramowego lub hakowego mechanizmu załadowczego pojazdów przeznaczonych do odbioru odpadów. Atesty: - DIN EN 840-1, EN 840-5, EN 840-6 - RAL-GZ 951/1 - atest PZH W zestawie: - kubeł na odpady 120L brązowy - koła na stalowej osi\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Europlast GmbH\nAdres: Schmelz 83, 9772, Dellach im Drautal, Austria\nEmail: verkauf(at)europlast.at\nTelefon: +43(0)47148228\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 195.07,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/pojemnik-kubel-na-bio-odpady-i-smieci-spozywcze-atesty-europlast-austria-brazowy-120-naklejka.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/1004870-pojemnik-kubel-na-bio-odpady-i-smieci-spozywcze-atesty-europlast-austria-brazowy-120-naklejka.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-certyfikaty-atesty-do-pojemnikow-kubelow-na-odpady-i-smieci-europlast-austria-iso-PZH.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-2-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-1-4.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

@@ -4098,5 +4098,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to nóż (część zamienna) do profesjonalnej maszynki do mielenia mięsa, w branży gastronomicznej nazywanej 'wilkiem'. Ze względu na profesjonalny charakter marki Hendi oraz specyfikację (rozmiar 22), kategoria 'Firma i Przemysł > Gastronomia > Maszyny do mięsa' (5048) jest najbardziej odpowiednim i specyficznym miejscem dla tego produktu w strukturze OLX."
+    },
+    {
+        "ID_Produktu": "1004835",
+        "Nazwa_Produktu": "Grzałka do frytownicy Royal Catering RCEF-10EY/DY 230V 3200W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Podgrzewacze wody",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest częścią zamienną (grzałką) do profesjonalnego urządzenia gastronomicznego marki Royal Catering. Ze względu na przemysłowy charakter sprzętu oraz wymogi Sanepidu, właściwą kategorią jest dział Firma i Przemysł, a konkretnie Części do maszyn i urządzeń."
     }
 ]
