@@ -3928,5 +3928,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalny przyrząd gastronomiczny marki Stöckel, przeznaczony do użytku w lodziarniach i punktach gastronomicznych. Obecność numeru katalogowego producenta oraz techniczna specyfikacja pojemności (1/20L) wskazują na wyposażenie profesjonalne, które na platformie OLX najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1004822",
+        "Nazwa_Produktu": "Zestaw do podłączenia butli z gazem LPG reduktor 37 mbar 1,5m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Instalacje > Hydraulika > Zawory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Zawory",
+        "Finalne_ID_AI": 3222,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw z reduktorem ciśnienia i wężem gazowym, stanowiący element instalacji gazowej (LPG). W drzewie kategorii OLX reduktory ciśnienia i osprzęt do butli gazowych są najczęściej klasyfikowane w dziale Instalacje > Hydraulika > Zawory, jako techniczne elementy sterujące przepływem."
     }
 ]

@@ -10076,5 +10076,271 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004813",
+        "Nazwa_Produktu": "Najlżejsza kuchenka turystyczna na kartusze gazowe (zawór lub gwint) SPARK 80gram 2.6kW",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Kuchenki turystyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Kuchenki turystyczne",
+        "Finalne_ID_AI": 3993,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lekka, składana kuchenka turystyczna przeznaczona do użytku polowego na wyprawach, co jednoznacznie klasyfikuje go do kategorii 'Kuchenki turystyczne' w sekcji Turystyka.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Najlżejsza kuchenka turystyczna na kartusze gazowe (zawór lub gwint) spark 80gram 2.6kw",
+                "description": "Kod producenta: KP14001 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i akcesorów turystycznych firmy MEVA istniejącej od 1898r. Kuchenka turystyczna SPARK służy do zamocowania na kartuszu gazowym z gwintem lub zaworem w ten sposób doskonale zastępuje kolejny element wyposażenia. Precyzyjne i solidne wykonanie kuchenki daje gwarancję bezproblemowej pracy w trudnych warunkach polowych . Możliwość złożenia kuchenki do niewielkich rozmiarów i ekstremalnie niska waga oraz duża moc sprawią, że stanie się TWOIM ulubionym partnerem w ciężkich wyprawach. Specyfikacja Waga (g) - 80 Moc (kW) - 2,6 Wymiary (mm) - 45 x 45 x 70 (składana) Zużycie gazu (gram/godz) - 186 Przyłącze gazu - gwint 7/16 lub zawór Pasujące kartusze - KP02006 i KP02007 W zestawie: - kuchenka turystyczna SPARK - poręczne etui na kuchenkę - BRAK KARTUSZA Z GAZEM (do kupienia osobno w naszym sklepie)\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 3993,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 93.07,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/kp14001-nova-najlzejsza-kuchenka-turystyczna-na-kartusze-gazowe-zawor-lub-gwint-spark-80-gram-2-6kw-hurtownia-sklep-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/KP14001-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/KP14001-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/KP14001-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/kp14001-nova-najlzejsza-kuchenka-turystyczna-na-kartusze-gazowe-zawor-lub-gwint-spark-80gram-2-6kw-hurtownia-sklep-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/KP14001-4.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004815",
+        "Nazwa_Produktu": "Najlżejsza kuchenka turystyczna na kartusze gazowe (zawór lub gwint) HIKER 70gram 2.4kW",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Kuchenki turystyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Kuchenki turystyczne",
+        "Finalne_ID_AI": 3993,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lekki palnik gazowy przeznaczony do użytku w terenie (turystyka), co idealnie odpowiada kategorii 'Kuchenki turystyczne' znajdującej się w sekcji 'Sport i Hobby > Turystyka'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Najlżejsza kuchenka turystyczna na kartusze gazowe (zawór lub gwint) hiker 70gram 2.4kw",
+                "description": "Kod producenta: KP14003 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i akcesorów turystycznych firmy MEVA istniejącej od 1898r. Kuchenka turystyczna HIKER służy do zamocowania na kartuszu gazowym z gwintem lub zaworem w ten sposób doskonale zastępuje kolejny element wyposażenia. Precyzyjne i solidne wykonanie kuchenki daje gwarancję bezproblemowej pracy w trudnych warunkach polowych . Możliwość złożenia kuchenki do niewielkich rozmiarów i ekstremalnie niska waga oraz duża moc sprawią, że stanie się TWOIM ulubionym partnerem w ciężkich wyprawach. Czas do uzyskania wrzenia 1l wody – 2 min 50 sek Specyfikacja Waga (g) - 70 Moc (kW) - 2,4 Wymiary (mm) - 55 x 55 x 82 (składana) Zużycie gazu (gram/godz) - 172 Przyłącze gazu - gwint 7/16 lub zawór Pasujące kartusze - KP02006 i KP02007 W zestawie: - kuchenka turystyczna HIKER - BRAK KARTUSZA Z GAZEM (do kupienia osobno w naszym sklepie)\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 3993,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 91.59,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/kp14003-nova-najlzejsza-kuchenka-turystyczna-na-kartusze-gazowe-zawor-lub-gwint-hiker-70-gram-2-4kw-hurtownia-sklep-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/KP14003-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/kp14003-nova-najlzejsza-kuchenka-turystyczna-na-kartusze-gazowe-zawor-lub-gwint-hiker-70gram-2-4kw-hurtownia-sklep-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/KP14003-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/KP14003-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/KP14003-11.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002372",
+        "Nazwa_Produktu": "Pojemnik barmański na dodatki do drinków 5 wkładów stalowy - Hendi 552100",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalne_ID_AI": 2114,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik barmański na dodatki do drinków (garnish tray), co wprost odpowiada kategorii liściowej 'Akcesoria barmańskie' znajdującej się w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pojemnik barmański na dodatki do drinków 5 wkładów stalowy - hendi 552100",
+                "description": "Numer producenta: 552100 - Pojemnik barmański na dodatki do drinków - Wykonany ze stali nierdzewnej - Przezroczysta pokrywa wykonana z polipropylenu Parametry: długość: 375mm szerokość: 140mm wysokość: 90mm W zestawie: - Pojemnik barmański - 5 białych pojemników-wkładów Nasze urządzenia posiadają deklarację zgodności CE niezbędną dla Sanepidu.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2114,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 166.1,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/552100-pojemnik-barmanski-na-dodatki-do-drinkow-5-wkladow-stalowy-hendi-552100-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/552100-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/552100-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002374",
+        "Nazwa_Produktu": "Dyspenser dozownik barmański 0.8L czerwony - Hendi 557600",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalne_ID_AI": 2114,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dyspenser/dozownik barmański, który bezpośrednio odpowiada specyfice kategorii 'Akcesoria barmańskie' (ID: 2114) znajdującej się w ścieżce Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dyspenser dozownik barmański 0.8l czerwony - hendi 557600",
+                "description": "Numer producenta: 557600 - Dyspenser barmański 2-częściowy - Wykonany z twardego polietylenu - Wymienna końcówka i pokrywka - Odkręcana górna część - Można myć w zmywarkach Parametry: średnica: 90mm wysokość: 300mm pojemność: 0,8l W zestawie: - Dyspenser barmański Nasze urządzenia posiadają deklarację zgodności CE niezbędną dla Sanepidu.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2114,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557600-dyspenser-dozownik-barmanski-08l-czerwony-hendi-557600-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557600-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/557600-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
     }
 ]
