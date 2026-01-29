@@ -6408,5 +6408,398 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1001973",
+        "Nazwa_Produktu": "Szczypce uniwersalne do potraw z poliwęglanu do 100C przezroczyste - Hendi 657621",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szczypce kuchenne służące do przygotowywania i nakładania potraw. W strukturze kategorii OLX, akcesoria tego typu należą do grupy 'Przybory kuchenne'. Ze względu na brak dedykowanej podkategorii dla szczypiec, właściwym wyborem jest kategoria 'Pozostałe' w obrębie przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szczypce uniwersalne do potraw z poliwęglanu do 100c przezroczyste - hendi 657621",
+                "description": "Numer producenta: 657621 Szczypce uniwersalne do potraw - Odporność termiczna do 100deg;C - Wykonane z poliwęglanu - Można myć w zmywarkach Parametry: długość: 230mm W zestawie: - Szczypce uniwersalne do potraw\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 32.16,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/657621-szczypce-uniwersalne-do-potraw-z-poliweglanu-do-100c-przezroczyste-hendi-657621-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001983",
+        "Nazwa_Produktu": "Pokrywa przeźroczysta do patery obrotowej do ciasta - Hendi 523834",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Patery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Patery",
+        "Finalne_ID_AI": 2156,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest pokrywą przeznaczoną bezpośrednio do patery (stojaka na ciasto). W kategoryzacji OLX akcesoria do konkretnych naczyń serwujących, takich jak patery, umieszcza się w kategorii odpowiadającej głównemu produktowi.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pokrywa przeźroczysta do patery obrotowej do ciasta - hendi 523834",
+                "description": "Numer producenta: 523834 Pokrywa wykonana z poliamidu, pasuje do patery o ID: 523827 Parametry: - średnica: 300mm - wysokość: 110mm W zestawie: - pokrywa do patery\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2156,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/523834-pokrywa-przezroczysta-do-patery-obrotowej-do-ciasta-hendi-523834-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/523827-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001984",
+        "Nazwa_Produktu": "Taca ze stali nierdzewnej z pokrywą przeźroczystą okrągła śr. 300mm - Hendi 980101",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalne_ID_AI": 2135,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to taca kuchenna, co bezpośrednio odpowiada kategorii liściastej 'Tace i stoliki' w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taca ze stali nierdzewnej z pokrywą przeźroczystą okrągła śr. 300mm - hendi 980101",
+                "description": "Numer producenta: 980101 Taca ze stali nierdzewnej - Pokrywa wykonana z tworzywa SAN - Taca z rączkami wykonana ze stali nierdzewnej Parametry: średnica: 300 mm wysokość: 110 mm W zestawie: - taca ze stali nierdzewnej - pokrywa\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2135,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 76.05,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/980101-taca-ze-stali-nierdzewnej-z-pokrywa-przezroczysta-okragla-sr-300mm-hendi-980101-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001985",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 19 cm - Hendi 404003",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Salaterki i półmiski",
+        "Finalne_ID_AI": 2157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowy półmisek przeznaczony do serwowania dań. W drzewie kategorii OLX najbardziej precyzyjną kategorią dla tego typu przedmiotu (zastawa stołowa) jest liść 'Salaterki i półmiski' (ID: 2157). Mimo profesjonalnej marki Hendi, kategoria w dziale Dom i Ogród najlepiej oddaje funkcję przedmiotu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stalowy półmisek do mięs i wędlin owalny dł. 19 cm - hendi 404003",
+                "description": "Numer producenta: 404003 Półmisek do mięs i wędlin marki HENDI to naczynie, które znajdzie zastosowanie w hotelach, restauracjach oraz innych miejscach serwujących posiłki i napoje z dostawą do stolika. Doskonale sprawdzi się również w lokalach nastawionych na samoobsługę (w barach z żywnością na wagę lub hotelach ze śniadaniami serwowanymi jako szwedzki stół). Cechy produktu: - Idealny do obsługi imprez cateringowych - Wysoka jakość wykonania - Wykonany ze stali nierdzewnej - Można myć w zmywarkach Parametry: - długość: 190mm - szerokość: 140mm W zestawie: - półmisek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2157,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-stalowy-polmisek-do-mies-i-wedlin-owalny-dl-19-cm-hendi-404003-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001986",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 24 cm - Hendi  404102",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Salaterki i półmiski",
+        "Finalne_ID_AI": 2157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to owalny półmisek wykonany ze stali. Wybrana kategoria 'Salaterki i półmiski' (ID: 2157) w sekcji 'Zastawa stołowa' jest najbardziej precyzyjnym określeniem przedmiotu w całym drzewie kategorii. Mimo profesjonalnego charakteru marki Hendi, kategoria ta lepiej opisuje naturę produktu niż ogólne kategorie w dziale 'Gastronomia'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stalowy półmisek do mięs i wędlin owalny dł. 24 cm - hendi  404102",
+                "description": "Numer producenta: 404102 Półmisek marki HENDI to naczynie, które znajdzie zastosowanie w hotelach, restauracjach oraz innych miejscach serwujących posiłki i napoje z dostawą do stolika. Doskonale sprawdzi się również w lokalach nastawionych na samoobsługę (w barach z żywnością na wagę lub hotelach ze śniadaniami serwowanymi jako szwedzki stół). Cechy produktu: - Idealny do obsługi imprez cateringowych - Wysoka jakość wykonania - Wykonany ze stali nierdzewnej - Można myć w zmywarkach Parametry: - długość: 240mm - szerokość: 170mm W zestawie: - półmisek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2157,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404102-stalowy-polmisek-do-mies-i-wedlin-owalny-dl-25-cm-hendi-404102-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001987",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 30 cm - Hendi  404201",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Salaterki i półmiski",
+        "Finalne_ID_AI": 2157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to owalny półmisek ze stali nierdzewnej, który jest elementem zastawy stołowej. Kategoria 'Salaterki i półmiski' (ID: 2157) jest najbardziej specyficznym i bezpośrednim dopasowaniem dla tego typu przedmiotu w podanym drzewie kategorii.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stalowy półmisek do mięs i wędlin owalny dł. 30 cm - hendi  404201",
+                "description": "Numer producenta: 404201 Półmisek marki HENDI to naczynie, które znajdzie zastosowanie w hotelach, restauracjach oraz innych miejscach serwujących posiłki i napoje z dostawą do stolika. Doskonale sprawdzi się również w lokalach nastawionych na samoobsługę (w barach z żywnością na wagę lub hotelach ze śniadaniami serwowanymi jako szwedzki stół). Cechy produktu: - Idealny do obsługi imprez cateringowych - Wysoka jakość wykonania - Wykonany ze stali nierdzewnej - Można myć w zmywarkach Parametry: - długość: 300mm - szerokość: 220mm W zestawie: - półmisek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2157,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 42.55,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404201-stalowy-polmisek-do-mies-i-wedlin-owalny-dl-30-cm-hendi-404201-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001988",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 35 cm - Hendi  404300",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Salaterki i półmiski",
+        "Finalne_ID_AI": 2157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to owalny półmisek ze stali nierdzewnej. Najbardziej dopasowaną kategorią liściem jest 'Salaterki i półmiski' (ID: 2157) w sekcji Zastawa stołowa. Sugestia systemu OLX dotycząca Antyków jest błędna, ponieważ produkt jest nowoczesnym wyposażeniem gastronomicznym marki Hendi.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stalowy półmisek do mięs i wędlin owalny dł. 35 cm - hendi  404300",
+                "description": "Numer producenta: 404300 Półmisek marki HENDI to naczynie, które znajdzie zastosowanie w hotelach, restauracjach oraz innych miejscach serwujących posiłki i napoje z dostawą do stolika. Doskonale sprawdzi się również w lokalach nastawionych na samoobsługę (w barach z żywnością na wagę lub hotelach ze śniadaniami serwowanymi jako szwedzki stół). Cechy produktu: - Idealny do obsługi imprez cateringowych - Wysoka jakość wykonania - Wykonany ze stali nierdzewnej - Można myć w zmywarkach Parametry: - długość: 350mm - szerokość: 220mm W zestawie: - półmisek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2157,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 51.59,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404300-stalowy-polmisek-do-mies-i-wedlin-owalny-dl-35-cm-hendi-404300-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
     }
 ]
