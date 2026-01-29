@@ -11291,5 +11291,537 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002484",
+        "Nazwa_Produktu": "Taca ekspozycyjna do prezentacji żywności stalowa 345x245mm - Hendi 407400",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalne_ID_AI": 2135,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taca ekspozycyjna wykonana ze stali nierdzewnej, co bezpośrednio odpowiada nazwie i funkcji kategorii 'Tace i stoliki' (ID: 2135). Mimo profesjonalnego charakteru marki Hendi, produkt ten jest elementem wyposażenia kuchennego/serwisu, a kategoria ta jest najbardziej precyzyjnym dopasowaniem semantycznym w udostępnionym w drzewie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taca ekspozycyjna do prezentacji żywności stalowa 345x245mm - hendi 407400",
+                "description": "Numer producenta: 407400 Taca ekspozycyjna marki HENDI świetnie sprawdzi się do eksponowania lub serwowania przystawek w bufecie, kuchni bądź na stołach szwedzkich. Cechy produktu: - wykonana ze stali nierdzewnej - możliwość mycia w zmywarce - produkt rekomendowany dla sklepów, restauracji lub firm cateringowych Parametry: - wymiary: 345 x 245mm W zestawie: - taca ekspozycyjna\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2135,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 108.06,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/407400-taca-ekspozycyjna-do-prezentacji-zywnosci-stalowa-345x245mm-hendi-407400-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002496",
+        "Nazwa_Produktu": "Taca ekspozycyjna do żywności z melaminy 270x210x17mm czarna - Hendi 569009",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalne_ID_AI": 2135,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taca ekspozycyjna przeznaczona do serwowania i prezentacji żywności. Kategoria 'Tace i stoliki' w sekcji 'Przybory kuchenne' jest najbardziej precyzyjnym dopasowaniem dla tego typu przedmiotu w drzewie kategorii.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taca ekspozycyjna do żywności z melaminy 270x210x17mm czarna - hendi 569009",
+                "description": "Numer producenta: 569009 Taca ekspozycyjna marki HENDI świetnie sprawdzi się do eksponowania lub serwowania przystawek w bufecie, kuchni bądź na stołach szwedzkich. Cechy produktu: - wykonana z czarnej melaminy - możliwość mycia w zmywarce - produkt rekomendowany dla sklepów, restauracji lub firm cateringowych - odporność termiczna -20deg;C do 70deg;C Parametry: - wymiary: 270x210x(H)17mm W zestawie: - taca ekspozycyjna\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2135,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 62.39,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/569009-taca-ekspozycyjna-do-zywnosci-z-melaminy-270x210x17mm-czarna-hendi-569009-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002497",
+        "Nazwa_Produktu": "Taca ekspozycyjna do żywności z melaminy 300x150x17mm czarna - Hendi 569016",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalne_ID_AI": 2135,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest tacą ekspozycyjną wykonaną z melaminy. Nazwa produktu oraz jego przeznaczenie (serwowanie i ekspozycja przystawek) wprost wskazują na kategorię 'Tace i stoliki' (ID 2135), która jest najbardziej specyficzną kategorią-liściem dla tego typu asortymentu w drzewie kategorii OLX.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taca ekspozycyjna do żywności z melaminy 300x150x17mm czarna - hendi 569016",
+                "description": "Numer producenta: 569016 Taca ekspozycyjna marki HENDI świetnie sprawdzi się do eksponowania lub serwowania przystawek w bufecie, kuchni bądź na stołach szwedzkich. Cechy produktu: - wykonana z czarnej melaminy - możliwość mycia w zmywarce - produkt rekomendowany dla sklepów, restauracji lub firm cateringowych - odporność termiczna -20deg;C do 70deg;C Parametry: - wymiary: 300x150x(H)17mm W zestawie: - taca ekspozycyjna\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2135,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 62.39,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/569016-taca-ekspozycyjna-do-zywnosci-z-melaminy-300x150x17mm-czarna-hendi-569016-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002499",
+        "Nazwa_Produktu": "Taca ekspozycyjna do żywności z melaminy 350x240x17mm czarna - Hendi 569207",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalne_ID_AI": 2135,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako taca ekspozycyjna. Kategoria 'Tace i stoliki' (2135) jest najbardziej precyzyjnym dopasowaniem w drzewie kategorii, odpowiadającym bezpośrednio typowi przedmiotu, niezależnie od jego profesjonalnego przeznaczenia gastronomicznego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taca ekspozycyjna do żywności z melaminy 350x240x17mm czarna - hendi 569207",
+                "description": "Numer producenta: 569207 Taca ekspozycyjna marki HENDI świetnie sprawdzi się do eksponowania lub serwowania przystawek w bufecie, kuchni bądź na stołach szwedzkich. Cechy produktu: - wykonana z czarnej melaminy - możliwość mycia w zmywarce - produkt rekomendowany dla sklepów, restauracji lub firm cateringowych - odporność termiczna -20deg;C do 70deg;C Parametry: - wymiary: 350x240x(H)17mm W zestawie: - taca ekspozycyjna\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2135,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 79.99,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/569207-taca-ekspozycyjna-do-zywnosci-z-melaminy-350x240x17mm-czarna-hendi-569207-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002501",
+        "Nazwa_Produktu": "Taca cukiernicza piekarnicza ekspozycyjna z aluminium 600x400x20mm srebrna - Hendi 808511",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalne_ID_AI": 2135,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taca ekspozycyjna przeznaczona do ciast i wyrobów piekarniczych. Wybrana kategoria 'Tace i stoliki' (2135) jest najbardziej precyzyjnym dopasowaniem pod względem formy i funkcji przedmiotu w dostępnym drzewie kategorii, co jest również zgodne ze wskazówką systemu OLX.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taca cukiernicza piekarnicza ekspozycyjna z aluminium 600x400x20mm srebrna - hendi 808511",
+                "description": "Numer producenta: 808511 Taca ekspozycyjna do ciasta marki Hendi to uniwersalne naczynie, które znajdzie zastosowanie w hotelach, restauracjach, piekarniach i cukierniach. Cechy i funkcje: - wykonana z aluminium, - kolor srebrny, - nie można myć w zmywarce, Parametry: - wymiary: 600x400x(H)20mm W zestawie: - taca cukiernicza\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2135,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 102.45,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/808511-taca-cukiernicza-piekarnicza-ekspozycyjna-z-aluminium-600x400x20mm-srebrna-hendi-808511-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002503",
+        "Nazwa_Produktu": "Taca cukiernicza piekarnicza ekspozycyjna z aluminium 600x400x20mm złota - Hendi 808573",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalne_ID_AI": 2135,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest tacą ekspozycyjną. Kategoria 'Tace i stoliki' (2135) najlepiej odpowiada typowi przedmiotu, a fakt, że jest to produkt profesjonalny marki Hendi, nie zmienia faktu, że tace tego typu są klasyfikowane jako przybory kuchenne w sekcji wyposażenia wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taca cukiernicza piekarnicza ekspozycyjna z aluminium 600x400x20mm złota - hendi 808573",
+                "description": "Numer producenta: 808573 Taca ekspozycyjna marki HENDI świetnie sprawdzi się do eksponowania lub serwowania przystawek w bufecie, kuchni bądź na stołach szwedzkich. Cechy produktu: - wykonana z aluminium - produkt rekomendowany dla sklepów, restauracji lub firm cateringowych - kolor złoty Parametry: - wymiary: 600x400x(H)20mm W zestawie: - taca ekspozycyjna\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2135,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 162.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/808573-taca-cukiernicza-piekarnicza-ekspozycyjna-z-aluminium-600x400x20mm-zlota-hendi-808573-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1003074",
+        "Nazwa_Produktu": "Sitko do wilka Kitchen Line HENDI 22 śr. sitka 82mm / oczka 4.5mm - Hendi 282038",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalne_ID_AI": 3126,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest częścią zamienną (sitkiem) do urządzenia kuchennego, jakim jest wilk do mięsa. Wybrana kategoria (Części i akcesoria AGD do kuchni) najdokładniej opisuje charakter przedmiotu jako podzespół sprzętu do przetwarzania żywności.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sitko do wilka kitchen line hendi 22 śr. sitka 82mm / oczka 4.5mm - hendi 282038",
+                "description": "Numer producenta: 282038 Sitko do wilka HENDI - wykonane ze stali nierdzewnej - można myć w zmywarkach - odpowiedni do wilka HENDI 22 Kitchen Line o kodzie 282007 Parametry: - średnica sitka: 82 mm - średnica oczka: 4,5 mm W zestawie: - sitko do wilka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 3126,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 160.71,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/282038-sitko-do-wilka-kitchen-line-hendi-22-sr-sitka-82mm-oczka-45mm-hendi-282038-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1003075",
+        "Nazwa_Produktu": "Sitko do wilka Kitchen Line HENDI 22 śr. sitka 82mm / oczka 3mm - Hendi 282045",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalne_ID_AI": 3126,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sitko będące częścią zamienną do elektrycznego urządzenia kuchennego (wilka do mięsa). Kategoria 'Części i akcesoria AGD do kuchni' (w obrębie Sprzętu AGD) jest najbardziej precyzyjnym miejscem dla tego typu asortymentu, mimo że urządzenie marki Hendi ma charakter profesjonalny.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Sitko do wilka kitchen line hendi 22 śr. sitka 82mm / oczka 3mm - hendi 282045",
+                "description": "Numer producenta: 282045 Sitko do wilka HENDI - wykonane ze stali nierdzewnej - można myć w zmywarkach - odpowiedni do wilka HENDI 22 Kitchen Line o kodzie 282007 Parametry: - średnica sitka: 82 mm - średnica oczka: 3 mm W zestawie: - sitko do wilka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 3126,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 174.21,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/282045-sitko-do-wilka-kitchen-line-hendi-22-sr-sitka-82mm-oczka-3mm-hendi-282045-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1003121",
+        "Nazwa_Produktu": "Przystawka na worki próżniowe w rolce do pakowarki listwowej Kitchen Line 975374 - Hendi 970638",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalne_ID_AI": 2130,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt/przystawka na rolki folii do pakowania próżniowego. Kategoria 'Pojemniki i przechowywanie żywności' jest standardowym miejscem na platformie OLX dla akcesoriów związanych z systemami próżniowego przechowywania żywności, w tym worków, rolek oraz podajników z nożykami.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Przystawka na worki próżniowe w rolce do pakowarki listwowej kitchen line 975374 - hendi 970638",
+                "description": "Numer producenta: 970638 Przystawka na worki w rolce do pakowarki listwowej - Uchwyt na worki w rolce - Możliwy montaż do pakowarki Kitchen Line 975374 lub do każdej innej pakowarki jako oddzielnie stojąca przystawka - Z ruchomym nożykiem precyzyjnie odcinającym żądaną długość worka - Dla rolek o maksymalnych wymiarach o100x400 mm - Podstawa wykonana z ABS - Transparentna pokrywa z poliwęglanu dla łatwej kontroli stanu rolki Parametry: długość: 487mm szerokość: 122mm wysokość: 107mm wymiary wewnętrzne: 412x101x(H)101 mm W zestawie: - przystawka na worki\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2130,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 138.94,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/970638.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
