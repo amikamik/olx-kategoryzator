@@ -4718,5 +4718,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to mata barmańska, która jest wyposażeniem profesjonalnym dla branży gastronomicznej. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu akcesoriów, 'Pozostałe' w tej gałęzi jest najlepszym wyborem. Sugestia OLX dotycząca 'Dom i Ogród' jest błędna, gdyż produkt nie jest przeznaczony do użytku domowego."
+    },
+    {
+        "ID_Produktu": "1005088",
+        "Nazwa_Produktu": "Nóż rzeźniczy masarski do mięsa Standard Haccp dł. 380mm - Hendi 844410",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny nóż rzeźniczy z certyfikacją HACCP, co wskazuje na zastosowanie profesjonalne w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' najlepiej oddaje ten kontekst, ponieważ nie ma bardziej szczegółowej kategorii dla ręcznych narzędzi w tym dziale."
     }
 ]
