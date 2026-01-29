@@ -4478,5 +4478,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to ruszt stalowy nierdzewny do pieca piekarnika firmy Hendi. Marka Hendi jest wiodącym dostawcą sprzętu gastronomicznego. Wymiary 600x400mm sugerują zastosowanie profesjonalne, a ruszt w tym kontekście może być traktowany jako pojemnik gastronomiczny lub element wyposażenia w tej kategorii. Kategoria 'Pojemniki gastronomiczne' (ID 5076) jest najbardziej szczegółową kategorią-liściem, która odzwierciedla profesjonalny charakter produktu."
+    },
+    {
+        "ID_Produktu": "1003231",
+        "Nazwa_Produktu": "Taca blacha Profi Line -40C do 300C GN1/1 wys. 40mm - Hendi 809242",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to taca w standardzie Gastronorm (GN 1/1) z linii 'Profi Line', przeznaczona do użytku w piecach konwekcyjnych, lodówkach, bemarach i podgrzewaczach. Wskazuje to na profesjonalne zastosowanie gastronomiczne, dlatego 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółową i trafną kategorią."
     }
 ]
