@@ -12834,5 +12834,675 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004893",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - żółte 120L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Pozostałe",
+        "Finalne_ID_AI": 4367,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Worki na śmieci to artykuły eksploatacyjne codziennego użytku (FMCG). Najlepiej pasują do kategorii Dom i Ogród > Supermarket. Ponieważ nie ma dedykowanej podkategorii dla akcesoriów do sprzątania (innych niż chemia/środki czyszczące), podkategoria 'Pozostałe' wewnątrz działu Supermarket jest najbardziej trafnym wyborem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - żółte 120l",
+                "description": "Kod producenta: 1077-4 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 120 Rozmiary (mm) - 700 x 1100 Materiał: polietylen Grubość folii (µm): 50 Kolor: żółty Worki sprzedawane są w rolkach po 25szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 4367,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-4-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-zolte-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-4-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-4-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004894",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - czerwone 120L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Worki na śmieci są standardowym artykułem eksploatacyjnym zaliczanym do chemii gospodarczej i akcesoriów do sprzątania. W strukturze OLX produkty te najlepiej pasują do kategorii Dom i Ogród > Supermarket > Środki czyszczące.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - czerwone 120l",
+                "description": "Kod producenta: 1077-6 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 120 Rozmiary (mm) - 700 x 1100 Materiał: polietylen Grubość folii (µm): 50 Kolor: czerwony Worki sprzedawane są w rolkach po 25szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-6-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-czerwone-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-6-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-6-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004895",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 15szt. - niebieskie 120L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Pozostałe",
+        "Finalne_ID_AI": 4367,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Worki na śmieci to produkt szybko zbywalny (FMCG), który najlepiej pasuje do sekcji Supermarket. Ponieważ nie są to środki chemiczne (czyszczące), najbardziej odpowiednią podkategorią jest 'Pozostałe' w dziale Supermarket. Pomimo przemysłowej grubości (80 mikronów), produkt zachowuje formę konsumencką (rolka) i uniwersalne zastosowanie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 15szt. - niebieskie 120l",
+                "description": "Kod producenta: 1078-1 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 120 Rozmiary (mm) - 700 x 1100 Materiał: polietylen Grubość folii (µm): 80 Kolor: niebieski Worki sprzedawane są w rolkach po 15szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 4367,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-1-meva-worki-na-opdadki-smieci-grube-80-mikr-wytrzymale-rolka-15szt-niebieskie-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-1-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-1-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004897",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 15szt. - żółte 120L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to worki na śmieci przeznaczone do segregacji odpadów. W drzewie kategorii OLX produkty związane z gospodarką odpadami (zarówno pojemniki, jak i materiały eksploatacyjne takie jak worki) są klasyfikowane w kategorii 'Kosze na śmieci i pojemniki do segregacji' w sekcji wyposażenia wnętrz/kuchni.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 15szt. - żółte 120l",
+                "description": "Kod producenta: 1078-4 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 120 Rozmiary (mm) - 700 x 1100 Materiał: polietylen Grubość folii (µm): 80 Kolor: żółty Worki sprzedawane są w rolkach po 15szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-4-meva-worki-na-opdadki-smieci-grube-80-mikr-wytrzymale-rolka-15szt-zolte-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-4-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-4-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004898",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 15szt. - czerwone 120L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wytrzymałe worki na śmieci (120L, 80 mikronów) przeznaczone do segregacji odpadów. Kategoria 'Kosze na śmieci i pojemniki do segregacji' (2122) jest najbardziej odpowiednim miejscem dla akcesoriów związanych z gospodarką odpadami i segregacją, a słowo kluczowe 'segregacja' występuje zarówno w opisie produktu, jak i w nazwie kategorii.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 15szt. - czerwone 120l",
+                "description": "Kod producenta: 1078-6 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 120 Rozmiary (mm) - 700 x 1100 Materiał: polietylen Grubość folii (µm): 80 Kolor: czerwony Worki sprzedawane są w rolkach po 15szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-6-meva-worki-na-opdadki-smieci-grube-80-mikr-wytrzymale-rolka-15szt-czerwone-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-6-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-6-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004901",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - niebieskie 70L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to worki na śmieci służące do segregacji odpadów, co bezpośrednio odpowiada nazwie kategorii 'Kosze na śmieci i pojemniki do segregacji'. Słowo kluczowe 'segregacji' pojawia się zarówno w opisie produktu, jak i w nazwie wybranej kategorii.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - niebieskie 70l",
+                "description": "Kod producenta: 5030-1 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 70 Rozmiary (mm) - 550 x 1000 Materiał: polietylen Grubość folii (µm): 50 Kolor: niebieski Worki sprzedawane są w rolkach po 25szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-1-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-niebieskie-70l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-1-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-1-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004902",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - zielone 70L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Worki na śmieci są klasyfikowane jako artykuły eksploatacyjne służące do utrzymania porządku. W strukturze OLX najlepiej pasują do kategorii Supermarket > Środki czyszczące, która obejmuje chemię gospodarczą i akcesoria do sprzątania.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - zielone 70l",
+                "description": "Kod producenta: 5030-2 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 70 Rozmiary (mm) - 550 x 1000 Materiał: polietylen Grubość folii (µm): 50 Kolor: zielony Worki sprzedawane są w rolkach po 25szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-2-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-zielone-70l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-2-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-2-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004903",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - czarne 70L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Pozostałe",
+        "Finalne_ID_AI": 4367,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Worki na śmieci to artykuły jednorazowego użytku (eksploatacyjne), które w strukturze OLX najlepiej pasują do sekcji 'Supermarket'. Ponieważ nie istnieje dedykowana kategoria na akcesoria do sprzątania, podkategoria 'Pozostałe' wewnątrz Supermarketu jest najbardziej trafnym wyborem dla tego typu produktów codziennej potrzeby.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - czarne 70l",
+                "description": "Kod producenta: 5030-3 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 70 Rozmiary (mm) - 550 x 1000 Materiał: polietylen Grubość folii (µm): 50 Kolor: czarny Worki sprzedawane są w rolkach po 25szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 4367,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-3-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-czarne-70l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-3-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-3-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004904",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - żółte 70L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to worki na śmieci przeznaczone do segregacji odpadów (wskazuje na to kolor żółty oraz opis o organizacji segregacji). Kategoria 2122 ('Kosze na śmieci i pojemniki do segregacji') jest najbardziej precyzyjną kategorią dla akcesoriów związanych z gospodarką odpadami i ich segregacją.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - żółte 70l",
+                "description": "Kod producenta: 5030-4 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 70 Rozmiary (mm) - 550 x 1000 Materiał: polietylen Grubość folii (µm): 50 Kolor: żółty Worki sprzedawane są w rolkach po 25szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-4-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-zolte-70l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-4-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-4-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004905",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - czerwone 70L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to worki na śmieci służące do segregacji odpadów. Kategoria 'Kosze na śmieci i pojemniki do segregacji' (2122) w sekcji Dom i Ogród jest najbardziej specyficznym miejscem dla przedmiotów związanych z gospodarką odpadami, mimo że nazwa kategorii wymienia jedynie kosze i pojemniki.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - czerwone 70l",
+                "description": "Kod producenta: 5030-6 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 70 Rozmiary (mm) - 550 x 1000 Materiał: polietylen Grubość folii (µm): 50 Kolor: czerwony Worki sprzedawane są w rolkach po 25szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelčického 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-6-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-czerwone-70l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-6-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-6-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
