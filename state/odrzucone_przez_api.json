@@ -7509,5 +7509,58 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1005393",
+        "Nazwa_Produktu": "Filiżanka do kawy i herbaty Arcoroc TRIANON 280ml zestaw 6szt. - Hendi D6922",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Filiżanki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Filiżanki",
+        "Finalne_ID_AI": 2149,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na 'Filiżankę', co idealnie pasuje do kategorii-liścia 'Filiżanki' w ścieżce 'Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Filiżanka do kawy i herbaty arcoroc trianon 280ml zestaw 6szt. -",
+                "description": "Kod producenta: D6922 Filiżanka Arcoroc z linii Trianon Cechy produktu: - Wykonany z trwałego materiału Opal opatentowanego przez Arc International, - Trzykrotnie większa odporność na stłuczenia niż porcelany, - Idealna powierzchnia nawet po 2000 myciach w wybranych zmywarkach gastronomicznych, W ZESTAWIE BRAK SPODKA POD FILIŻANKĘ WIDOCZNEGO NA ZDJĘCIU, DO DOKUPIENIA OSOBNO: NR D6926 Parametry: - Pojemność: 280ml - Wymiary: śr.94x(H)72mm W zestawie: - Filiżanka 6szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2149,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 103.85,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/D6922-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/d6922-filizanka-do-kawy-i-herbaty-arcoroc-trianon-280ml-zestaw-6szt-hendi-d6922-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]

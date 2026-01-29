@@ -5208,5 +5208,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to dozownik kuchenny do parmezanu, wykonany ze stali nierdzewnej. Marka Hendi jest znana z profesjonalnego sprzętu gastronomicznego, co sugeruje zastosowanie w sektorze Firma i Przemysł. W kategorii Gastronomia, 'Pojemniki gastronomiczne' najlepiej opisują funkcję dozownika jako naczynia do przechowywania i wydawania żywności w kontekście profesjonalnym."
+    },
+    {
+        "ID_Produktu": "1002275",
+        "Nazwa_Produktu": "Dzwonek hotelowy na recepcję stalowy śr. 85mm - Hendi 595008",
+        "Poczatkowa_Sciezka_OLX": "Praca > Hotelarstwo > Obsługa hotelowa",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to dzwonek recepcyjny przeznaczony do użytku w hotelach i pensjonatach do przywoływania obsługi. Chociaż nie jest to bezpośrednio element wyposażenia gastronomicznego, to gastronomia jest kluczowym elementem branży hotelarskiej, a dzwonek służy do obsługi klienta w punkcie usługowym. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej szczegółową i adekwatną kategorią-liściem odzwierciedlającą komercyjne zastosowanie produktu w kontekście obsługi gości."
+    },
+    {
+        "ID_Produktu": "1002182",
+        "Nazwa_Produktu": "Ekspozytor pudełko na herbatę drewniane 30x28cm - Hendi 456514",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ekspozytor/pudełko na herbatę z 12 przegródkami, marki Hendi, która jest dostawcą profesjonalnego sprzętu gastronomicznego. Sugeruje to zastosowanie komercyjne. Kategoria 'Pojemniki gastronomiczne' pod 'Firma i Przemysł > Gastronomia' jest bardziej specyficzna niż ogólne 'Pudełka' w 'Dom i Ogród', biorąc pod uwagę charakter produktu i markę."
+    },
+    {
+        "ID_Produktu": "1005405",
+        "Nazwa_Produktu": "Kanka miniaturowa do przekąsek stal nierdzewna 45x50mm - Hendi 426463",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miniaturowa kanka do przekąsek, wykonana ze stali nierdzewnej, z marką Hendi, która jest znana z wyposażenia dla gastronomii. Najlepiej pasuje do kategorii związanej z profesjonalnym sprzętem gastronomicznym, szczególnie jako pojemnik do serwowania/przechowywania żywności w restauracjach czy cateringu."
+    },
+    {
+        "ID_Produktu": "1005446",
+        "Nazwa_Produktu": "Koszyk miniaturowy do smażonych przekąsek stal nierdzewna 100x80x75mm - Hendi 426425",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miniaturowy koszyk do smażonych przekąsek, wykonany ze stali nierdzewnej, z przeznaczeniem do kuchni (w tym profesjonalnych, biorąc pod uwagę markę Hendi). Najbardziej szczegółową i adekwatną kategorią jest 'Pojemniki gastronomiczne' w ramach działu 'Firma i Przemysł > Gastronomia', ponieważ jego funkcja jest ściśle związana z przygotowaniem i serwowaniem jedzenia w kontekście gastronomicznym."
+    },
+    {
+        "ID_Produktu": "1005447",
+        "Nazwa_Produktu": "Koszyk miniaturowy do smażonych przekąsek stal nierdzewna 125x100x85mm - Hendi 426432",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miniaturowy koszyk ze stali nierdzewnej przeznaczony do smażonych przekąsek, co wskazuje na specjalistyczne zastosowanie w kuchniach, w tym profesjonalnych (marka Hendi). Najbardziej szczegółową i trafną kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ koszyk służy jako pojemnik do podawania lub przechowywania (choćby tymczasowego po smażeniu) żywności w kontekście gastronomicznym, a nie jako ogólny koszyk domowy."
+    },
+    {
+        "ID_Produktu": "1005449",
+        "Nazwa_Produktu": "Koszyk miniaturowy do smażonych przekąsek stal nierdzewna 275x130x45mm - Hendi 426456",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny koszyk do smażonych przekąsek, wykonany ze stali nierdzewnej, a producent (Hendi) jest znany z wyposażenia gastronomicznego. Kategoria 'Pojemniki gastronomiczne' (5076) pod 'Firma i Przemysł > Gastronomia' jest najbardziej precyzyjną kategorią-liściem, odzwierciedlającą jego funkcję i kontekst użytkowania, lepiej niż ogólne 'Koszyki' w dziale 'Dom i Ogród'."
     }
 ]
