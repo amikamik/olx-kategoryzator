@@ -7244,5 +7244,270 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002212",
+        "Nazwa_Produktu": "Dzbanek imbryk z pokrywką ze stali nierdzewnej do kawy herbaty 0.2L - Hendi 453001",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Dzbanki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Zaparzacze i kawiarki",
+        "Finalne_ID_AI": 2139,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dzbanek/imbryk przeznaczony do kawy i herbaty, pasujący idealnie do kategorii 'Zaparzacze i kawiarki' w sekcji 'Dom i Ogród', jako przedmiot kuchenny.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dzbanek imbryk z pokrywką ze stali nierdzewnej do kawy herbaty 0.2l",
+                "description": "Numer producenta: 453001 Dzbanek do kawy marki Hendi z pokrywką otwieraną na przycisk znajdzie zastosowanie w każdym lokalu gastronomicznym a także w domowej kuchni. Cechy produktu: - Wykonany ze stali nierdzewnej - Pokrywka otwierana na przycisk - Model prosty - Można myć w zmywarkach Parametry: - Średnica: 74 mm - Wysokość: 95 mm - Pojemność 0,2L W zestawie: - Dzbanek z pokrywką\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2139,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 55.91,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/453001-dzbanek-imbryk-z-pokrywka-ze-stali-nierdzewnej-do-kawy-herbaty-03l-hendi-453001-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/453001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002213",
+        "Nazwa_Produktu": "Dzbanek imbryk z pokrywką ze stali nierdzewnej do kawy herbaty 0.3L - Hendi 453100",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Dzbanki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Dzbanki, karafki i mleczniki",
+        "Finalne_ID_AI": 2148,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dzbanek/imbryk do kawy i herbaty, wykonany ze stali nierdzewnej. Najbardziej szczegółową i pasującą kategorią jest 'Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Dzbanki, karafki i mleczniki', ponieważ jest to naczynie służące do podawania napojów, co bezpośrednio odpowiada definicji dzbanka w zastawie stołowej. Mimo zastosowania gastronomicznego, brak bardziej specyficznej kategorii dzbanków pod 'Firma i Przemysł' sprawia, że kategoria z 'Dom i Ogród' jest trafniejsza niż ogólne 'Pojemniki gastronomiczne'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dzbanek imbryk z pokrywką ze stali nierdzewnej do kawy herbaty 0.3l",
+                "description": "Numer producenta: 453100 Dzbanek do kawy marki Hendi z pokrywką otwieraną na przycisk znajdzie zastosowanie w każdym lokalu gastronomicznym a także w domowej kuchni. Cechy produktu: - Pokrywka otwierana na przycisk - Wykonany ze stali nierdzewnej - Model prosty - Można myć w zmywarce Parametry: - Średnica: 74 mm - Wysokość: 123 mm - Pojemność 0,3 l W zestawie: - Dzbanek do kawy z pokrywką\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2148,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 60.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/453100-dzbanek-imbryk-z-pokrywka-ze-stali-nierdzewnej-do-kawy-herbaty-05l-hendi-453100-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/453001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002214",
+        "Nazwa_Produktu": "Dzbanek imbryk z pokrywką ze stali nierdzewnej do kawy herbaty 0.6L - Hendi 453209",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Dzbanki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Imbryki",
+        "Finalne_ID_AI": 2150,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to imbryk do kawy/herbaty, a kategoria 'Imbryki' (id: 2150) jest najbardziej szczegółowa i bezpośrednio odpowiada nazwie produktu. Nie jest to produkt antyczny, ani ceramiczny.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dzbanek imbryk z pokrywką ze stali nierdzewnej do kawy herbaty 0.6l",
+                "description": "Numer producenta: 453209 Dzbanek do kawy marki Hendi z pokrywką otwieraną na przycisk znajdzie zastosowanie w każdym lokalu gastronomicznym a także w domowej kuchni. Cechy produktu: - Dzbanek do kawy z pokrywką - Wykonany ze stali nierdzewnej - Pokrywka otwierana na przycisk - Model prosty - Można myć w zmywarkach Parametry techniczne: - Pojemność - 0,6 l - Wymiary - śr.97x(H)142 mm W zestawie: - Dzbanek do kawy z pokrywką\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2150,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 84.2,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/453209-dzbanek-imbryk-z-pokrywka-ze-stali-nierdzewnej-do-kawy-herbaty-1l-hendi-453209-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/453001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002215",
+        "Nazwa_Produktu": "Dzbanek imbryk z pokrywką ze stali nierdzewnej do kawy herbaty 0,9L - Hendi 453308",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Dzbanki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Imbryki",
+        "Finalne_ID_AI": 2150,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Nazwa produktu zawiera słowo 'imbryk', a kategoria 'Imbryki' (2150) jest dokładnym dopasowaniem. Opis potwierdza, że jest to dzbanek do kawy/herbaty, co idealnie pasuje do tej kategorii znajdującej się pod 'Zastawa stołowa'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dzbanek imbryk z pokrywką ze stali nierdzewnej do kawy herbaty 0,9l",
+                "description": "Numer producenta: 453308 Dzbanek do kawy marki Hendi z pokrywką otwieraną na przycisk znajdzie zastosowanie w każdym lokalu gastronomicznym a także w domowej kuchni. Cechy produktu: - Pokrywka otwierana na przycisk - Model prosty - Wykonany ze stali nierdzewnej - Można myć w zmywarce Parametry: - Pojemność: 0,9 l - Średnica: 120 mm - Wysokość: 158 mm W zestawie: - Dzbanek do kawy z pokrywką\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2150,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 120.69,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/453308-dzbanek-imbryk-z-pokrywka-ze-stali-nierdzewnej-do-kawy-herbaty-15l-hendi-453308-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/453001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002216",
+        "Nazwa_Produktu": "Dzbanek imbryk z pokrywką ze stali nierdzewnej do kawy herbaty 1,4L - Hendi 453407",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Dzbanki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Zaparzacze i kawiarki",
+        "Finalne_ID_AI": 2139,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dzbanek/imbryk do kawy i herbaty, wykonany ze stali nierdzewnej, przeznaczony do użytku domowego i gastronomicznego. Najbardziej szczegółowa kategoria to 'Zaparzacze i kawiarki', która odnosi się do naczyń służących do przygotowywania kawy i herbaty.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dzbanek imbryk z pokrywką ze stali nierdzewnej do kawy herbaty 1,4l",
+                "description": "Numer producenta: 453407 Dzbanek do kawy marki Hendi z pokrywką otwieraną na przycisk znajdzie zastosowanie w każdym lokalu gastronomicznym a także w domowej kuchni. Cechy produktu: - Pokrywka otwierana na przycisk - Model prosty - Wykonany ze stali nierdzewnej - Można myć w zmywarce Parametry: - Pojemność: 1,4 l - Średnica: 126 mm - Wysokość: 185 mm W zestawie: - Dzbanek do kawy z pokrywką\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2139,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 133.72,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/453407-dzbanek-imbryk-z-pokrywka-ze-stali-nierdzewnej-do-kawy-herbaty-2l-hendi-453407-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/453001-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]
