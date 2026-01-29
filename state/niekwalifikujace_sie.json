@@ -3808,5 +3808,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalna pokrywa bufetowa (RollTop) marki Hendi, przeznaczona do ekspozycji potraw w branży gastronomicznej. Ze względu na profesjonalne zastosowanie i markę, najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pozostałe', która grupuje specjalistyczne akcesoria serwisowe i bufetowe."
+    },
+    {
+        "ID_Produktu": "1002007",
+        "Nazwa_Produktu": "Taca stalowa bankietowa GN1/1 wys. 17mm - Hendi 436103",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt posiada wymiary zgodne ze standardem gastronomicznym GN1/1 (Gastronorm) oraz pochodzi od producenta specjalizującego się w profesjonalnym wyposażeniu kuchni (Hendi). Najbardziej adekwatną kategorią dla profesjonalnych naczyń o standardzie GN jest kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1002015",
+        "Nazwa_Produktu": "Taca stalowa prostokątna z rantem dekoracyjnym GN1/1 - Hendi 807804",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taca marki Hendi wykonana w standardzie Gastronorm (GN 1/1), który jest specyficzny dla branży gastronomicznej. Opis wyraźnie wskazuje na zastosowanie w hotelach i restauracjach, co kwalifikuje przedmiot do kategorii profesjonalnych pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1002016",
+        "Nazwa_Produktu": "Chłodzona taca do potraw z pokrywą 43x29cm - Hendi 424155",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taca chłodząca marki Hendi, przeznaczona bezpośrednio dla sektora profesjonalnej gastronomii. Choć jest to taca, w kontekście eksperckim i profesjonalnym (B2B) takie akcesoria serwisu i prezentacji dań klasyfikuje się w kategorii 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł', co odróżnia go od zwykłych tacek domowych."
+    },
+    {
+        "ID_Produktu": "1002018",
+        "Nazwa_Produktu": "Element wkład chłodzący GN1/1 do tacy 424186 - Hendi 424193",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wkład chłodzący w standardzie gastronomicznym GN 1/1 marki Hendi, co jednoznacznie wskazuje na wyposażenie profesjonalnej gastronomii w kategorii Firma i Przemysł."
     }
 ]

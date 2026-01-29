@@ -6801,5 +6801,234 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1001989",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 40 cm - Hendi  404409",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Salaterki i półmiski",
+        "Finalne_ID_AI": 2157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to półmisek wykonany ze stali nierdzewnej. Najbardziej precyzyjną kategorią dla tego typu przedmiotu jest kategoria 'Salaterki i półmiski' (ID: 2157), znajdująca się w sekcji 'Zastawa stołowa'. Choć marka Hendi jest marką profesjonalną, kategoria ta najlepiej oddaje charakter fizyczny produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stalowy półmisek do mięs i wędlin owalny dł. 40 cm - hendi  404409",
+                "description": "Numer producenta: 404409 Półmisek marki HENDI to naczynie, które znajdzie zastosowanie w hotelach, restauracjach oraz innych miejscach serwujących posiłki i napoje z dostawą do stolika. Doskonale sprawdzi się również w lokalach nastawionych na samoobsługę (w barach z żywnością na wagę lub hotelach ze śniadaniami serwowanymi jako szwedzki stół). Cechy produktu: - Idealny do obsługi imprez cateringowych - Wysoka jakość wykonania - Wykonany ze stali nierdzewnej - Można myć w zmywarkach Parametry: - długość: 400mm - szerokość: 260mm W zestawie: - półmisek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2157,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 61.31,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404409-stalowy-polmisek-do-mies-i-wedlin-owalny-dl-40-cm-hendi-404409-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001990",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 45 cm - Hendi  404508",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Salaterki i półmiski",
+        "Finalne_ID_AI": 2157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to stalowy półmisek przeznaczony do serwowania potraw. Najdokładniej pasującą kategorią w drzewie jest 'Salaterki i półmiski' znajdująca się w sekcji 'Zastawa stołowa'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stalowy półmisek do mięs i wędlin owalny dł. 45 cm - hendi  404508",
+                "description": "Numer producenta: 404508 Półmisek marki HENDI to naczynie, które znajdzie zastosowanie w hotelach, restauracjach oraz innych miejscach serwujących posiłki i napoje z dostawą do stolika. Doskonale sprawdzi się również w lokalach nastawionych na samoobsługę (w barach z żywnością na wagę lub hotelach ze śniadaniami serwowanymi jako szwedzki stół). Cechy produktu: - Idealny do obsługi imprez cateringowych - Wysoka jakość wykonania - Wykonany ze stali nierdzewnej - Można myć w zmywarkach Parametry: - długość: 450mm - szerokość: 290mm W zestawie: - półmisek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2157,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 72.1,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404508-stalowy-polmisek-do-mies-i-wedlin-owalny-dl-45-cm-hendi-404508-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001991",
+        "Nazwa_Produktu": "Stalowy półmisek do mięs i wędlin owalny dł. 50 cm - Hendi  404607",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Salaterki i półmiski",
+        "Finalne_ID_AI": 2157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to półmisek owalny przeznaczony do serwowania potraw. W drzewie kategorii OLX kategoria 'Salaterki i półmiski' (ID: 2157) znajdująca się w sekcji 'Zastawa stołowa' jest najbardziej precyzyjnym dopasowaniem dla tego przedmiotu, niezależnie od tego, czy jest on przeznaczony do użytku domowego czy profesjonalnej gastronomii (marka Hendi).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stalowy półmisek do mięs i wędlin owalny dł. 50 cm - hendi  404607",
+                "description": "Numer producenta: 404607 Półmisek marki HENDI to naczynie, które znajdzie zastosowanie w hotelach, restauracjach oraz innych miejscach serwujących posiłki i napoje z dostawą do stolika. Doskonale sprawdzi się również w lokalach nastawionych na samoobsługę (w barach z żywnością na wagę lub hotelach ze śniadaniami serwowanymi jako szwedzki stół). Cechy produktu: - Idealny do obsługi imprez cateringowych - Wysoka jakość wykonania - Wykonany ze stali nierdzewnej - Można myć w zmywarkach Parametry: - długość: 500mm - szerokość: 350mm W zestawie: - półmisek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2157,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 91.22,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404607-stalowy-polmisek-do-mies-i-wedlin-owalny-dl-50-cm-hendi-404607-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/404003-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002023",
+        "Nazwa_Produktu": "Półmisek z melaminy prostokątny 49.5x27cm wys. 5.6cm biały - Hendi 561515",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Salaterki i półmiski",
+        "Finalne_ID_AI": 2157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nowoczesny półmisek do serwowania marki Hendi. Najbardziej precyzyjną kategorią z drzewa jest 'Salaterki i półmiski' w sekcji 'Zastawa stołowa'. Sugestia systemu OLX dotycząca antyków jest błędna, gdyż melamina to współczesne tworzywo sztuczne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Półmisek z melaminy prostokątny 49.5x27cm wys. 5.6cm biały - hendi 561515",
+                "description": "Numer producenta: 561515 Półmisek prostokątny marki HENDI świetnie sprawdzi się do eksponowania lub serwowania przystawek w bufecie, kuchni bądź na stołach szwedzkich. Cechy produktu: - Wykonany z melaminy - Higieniczny, odporny na uderzenia - Bardzo lekki - Odporność na temperaturę od -20deg;C do 70deg;C - Nie można używać w kuchenkach mikrofalowych - Można myć w zmywarkach Parametry: długość: 495mm szerokość: 270mm wysokość: 56mm W zestawie: - półmisek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2157,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 168.41,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/561515-polmisek-z-melaminy-prostokatny-49-5x27cm-wys-5-6cm-bialy-hendi-561515-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/561508-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
