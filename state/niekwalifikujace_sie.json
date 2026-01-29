@@ -4208,5 +4208,175 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalna taca w systemie Gastro Norm (GN 1/1) marki Hendi. Standard GN jest specyficzny dla wyposażenia profesjonalnych kuchni, dlatego kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej odpowiednia, mimo że opis dopuszcza użycie domowe."
+    },
+    {
+        "ID_Produktu": "1003317",
+        "Nazwa_Produktu": "Foremka z wałkiem do wyrobu okrągłych pierożków Ravioli 12szt - Hendi 975541",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu (numer producenta Hendi, wałek w zestawie, materiał wykonania) oraz profesjonalny charakter opisu (deklaracja CE dla Sanepidu) jednoznacznie wskazują na profesjonalne wyposażenie gastronomiczne. W drzewie kategorii OLX, dla specjalistycznych akcesoriów kuchennych marki Hendi przeznaczonych dla profesjonalistów, najbardziej adekwatną kategorią jest 'Firma i Przemysł > Gastronomia > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1003335",
+        "Nazwa_Produktu": "Pojemnik kuweta do wzrostu ciasta na pizze 60x40cm wys. 70mm - Hendi 880906",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla kotów > Kuwety",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalne akcesorium gastronomiczne przeznaczone do pizzerii. Chociaż nazwa zawiera słowo 'kuweta', opis jednoznacznie wskazuje na przeznaczenie do kontaktu z żywnością (wyrastanie ciasta na pizzę), co wyklucza kategorię akcesoriów dla zwierząt i kwalifikuje produkt do pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1003336",
+        "Nazwa_Produktu": "Pojemnik kuweta do wzrostu ciasta na pizze 60x40cm wys. 90mm - Hendi 880913",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalne wyposażenie HORECA. Ze względu na standardowe wymiary gastronomiczne (60x40 cm) oraz przeznaczenie do profesjonalnego wyrastania ciasta w pizzeriach, najlepiej pasuje do kategorii 'Pojemniki gastronomiczne' w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1003352",
+        "Nazwa_Produktu": "Torba termiczna do transportu PIZZY 45x45cm - Hendi 709818",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne wyposażenie marki Hendi przeznaczone do transportu żywności w branży gastronomicznej. Wzmianka o dokumentacji dla Sanepidu oraz specyficzne wymiary na 4 kartony pizzy jednoznacznie wskazują na kategorię profesjonalnych pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1003353",
+        "Nazwa_Produktu": "Torba termiczna do transportu PIZZY 35x35cm - Hendi 709825",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna torba termoizolacyjna marki Hendi, przeznaczona do transportu pizzy w branży gastronomicznej. Najlepiej pasuje do kategorii pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1003354",
+        "Nazwa_Produktu": "Torba termiczna LUNCH BOX do transportu 6 lunchbox-ów - Hendi 709849",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna torba termoizolacyjna marki Hendi, przeznaczona do transportu cateringu, o czym świadczy m.in. kieszeń na rachunki. Najbardziej precyzyjną kategorią dla profesjonalnych akcesoriów do transportu żywności jest 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1003355",
+        "Nazwa_Produktu": "Podkładka dystansowa do pudełek transportu pizzy zestaw 500szt. - Hendi 709900",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne akcesorium gastronomiczne (podkładka dystansowa do pizzy) marki Hendi, sprzedawane w zestawie 500 sztuk, co wskazuje na przeznaczenie komercyjne (pizzerie). Najbardziej odpowiednią kategorią dla specjalistycznych akcesoriów cateringowych w sekcji B2B jest Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1002608",
+        "Nazwa_Produktu": "Pojemnik kuweta na naczynia 55.5x41cm - Hendi 552001",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Akcesoria kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Marka Hendi jest czołowym producentem wyposażenia dla profesjonalnej gastronomii. Produkt to polipropylenowy pojemnik (kuweta) do transportu lub przechowywania naczyń, co jednoznacznie klasyfikuje go w kategorii Pojemniki gastronomiczne w dziale Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1002625",
+        "Nazwa_Produktu": "Kosz do zmywarki gastronomicznej uniwersalny 50x50cm - Hendi 877005",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do zmywarek",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny kosz o standardowym wymiarze przemysłowym (50x50 cm) marki Hendi, przeznaczony wyłącznie do zmywarek gastronomicznych. Najbardziej precyzyjną kategorią jest kategoria 'Zmywarki' w sekcji 'Firma i Przemysł > Gastronomia', która obejmuje zarówno urządzenia profesjonalne, jak i dedykowane im akcesoria."
+    },
+    {
+        "ID_Produktu": "1002626",
+        "Nazwa_Produktu": "Kosz do zmywarki na szklanki i szkło 49 elementów 50x50cm - Hendi 877012",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Szklanki i kufle",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to kosz do zmywarki marki Hendi, która jest wiodącym producentem profesjonalnego wyposażenia dla gastronomii. Wymiary 50x50 cm są standardem dla zmywarek przemysłowych/gastronomicznych. Ze względu na profesjonalne przeznaczenie produktu, najbardziej trafną kategorią jest 'Zmywarki' w sekcji 'Gastronomia', a nie kategoria dla urządzeń domowych (AGD)."
+    },
+    {
+        "ID_Produktu": "1002627",
+        "Nazwa_Produktu": "Kosz do zmywarki na szklanki i szkło 36 elementów 50x50cm - Hendi 877029",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Szklanki i kufle",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny kosz do zmywarki o standardowych wymiarach gastronomicznych (50x50 cm) marki Hendi. Ze względu na przeznaczenie do użytku przemysłowego/gastronomicznego, a nie domowego, najlepiej pasuje do kategorii Zmywarki w dziale Gastronomia (Firma i Przemysł)."
+    },
+    {
+        "ID_Produktu": "1002628",
+        "Nazwa_Produktu": "Kosz do zmywarki na szklanki i szkło 25 elementów 50x50cm - Hendi 877036",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Szklanki i kufle",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny kosz do zmywarki gastronomicznej o standardowych wymiarach 50x50 cm, marki Hendi, która specjalizuje się w wyposażeniu dla profesjonalistów. Ze względu na przemysłowy charakter i markę, produkt najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia > Zmywarki', która na platformie OLX obejmuje zarówno maszyny, jak i dedykowany osprzęt do zmywarek profesjonalnych."
+    },
+    {
+        "ID_Produktu": "1002631",
+        "Nazwa_Produktu": "Kosz do zmywarki na talerze 50x50cm - Hendi 877104",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz do profesjonalnej zmywarki gastronomicznej (standardowy wymiar 50x50 cm, marka Hendi). Ze względu na przeznaczenie do profesjonalnej gastronomii, najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia > Zmywarki', która obejmuje zarówno same urządzenia, jak i dedykowany osprzęt."
+    },
+    {
+        "ID_Produktu": "1002635",
+        "Nazwa_Produktu": "Pokrywa na kosze do zmywarek 50x50cm - Hendi 877180",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do zmywarek",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne akcesorium (pokrywa kosza) do zmywarek gastronomicznych o standardowych wymiarach przemysłowych 50x50 cm marki Hendi. Ze względu na przeznaczenie dla branży gastronomicznej (B2B), a nie dla użytkowników domowych, kategoria 'Firma i Przemysł > Gastronomia > Zmywarki' jest bardziej adekwatna niż kategoria AGD dla sprzętów domowych."
+    },
+    {
+        "ID_Produktu": "1002637",
+        "Nazwa_Produktu": "Kosz do zmywarek na sztućce 50x50cm - Hendi 877203",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny kosz do zmywarek marki Hendi o standardowych wymiarach gastronomicznych 50x50 cm. Ze względu na przeznaczenie do użytku komercyjnego (gastronomia), najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia. Ponieważ kategoria 'Zmywarki' (5069) dotyczy samych urządzeń, akcesoria i osprzęt tego typu są umieszczane w kategorii 'Pozostałe' (5071) w obrębie gastronomii."
+    },
+    {
+        "ID_Produktu": "1002645",
+        "Nazwa_Produktu": "Nadstawka do kosza do zmywarki 49 elementów - Hendi 877500",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do zmywarek",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalne akcesorium do zmywarek gastronomicznych. Wymiary (500x500 mm) są standardem dla koszy przemysłowych, co jednoznacznie wskazuje na kategorię 'Firma i Przemysł > Gastronomia > Zmywarki', a nie na części do domowego sprzętu AGD."
+    },
+    {
+        "ID_Produktu": "1002647",
+        "Nazwa_Produktu": "Nadstawka do kosza do zmywarki 25 elementów - Hendi 877524",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do zmywarek",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalne wyposażenie gastronomiczne przeznaczone do zmywarek przemysłowych (standard wymiarów 500x500 mm). Z tego względu kategoria 'Firma i Przemysł > Gastronomia > Zmywarki' jest bardziej odpowiednia niż kategoria dla domowego sprzętu AGD."
     }
 ]

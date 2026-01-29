@@ -13860,5 +13860,192 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1003316",
+        "Nazwa_Produktu": "Foremka z wałkiem do wyrobu klasycznych pierożków Ravioli 36szt - Hendi 975534",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Poradniki i albumy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to ręczny przybór kuchenny służący do formowania potraw (ravioli). Najlepiej pasuje do kategorii 'Przybory kuchenne' w dziale 'Dom i Ogród'. Z uwagi na brak dedykowanej podkategorii dla akcesoriów do makaronu, wybrano liść 'Pozostałe' w obrębie przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Foremka z wałkiem do wyrobu klasycznych pierożków ravioli 36szt - hendi 975534",
+                "description": "Numer producenta: 975534 - Forma na klasyczne ravioli - Forma z odlewu aluminium - Podstawa ze stali lakierowanej - Na gumowych nóżkach - 36 form 30x30x(H)8mm - Wałek drewniany w zestawie - Nie można myć w zmywarkach Parametry: wymiary: 320x137x(H)18mm W zestawie: - forma na klasyczne ravioli - wałek Nasze urządzenia posiadają deklarację zgodności CE niezbędną dla Sanepidu.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 147.36,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/975534-foremka-z-walkiem-do-wyrobu-klasycznych-pierozkow-ravioli-36szt-hendi-975534-hurtownia-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004387",
+        "Nazwa_Produktu": "Filtr papierowy do ekspresów zaparzaczy przelewowych do kawy śr. 250 mm - Hendi 208656",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Zaparzacze i kawiarki",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do ekspresów",
+        "Finalne_ID_AI": 3116,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to filtry papierowe będące akcesoriami do ekspresów przelewowych. Najbardziej precyzyjną kategorią dla materiałów eksploatacyjnych do urządzeń do parzenia kawy jest 'Części i akcesoria do ekspresów' (ID: 3116) w sekcji Sprzęt AGD.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Filtr papierowy do ekspresów zaparzaczy przelewowych do kawy śr. 250 mm - hendi 208656",
+                "description": "Numer producenta: 208656 Filtr papierowy do zaparzaczy przelewowych - śr. 250 mm, wysokość 70 mm Cechy produktu: – Pasuje do większości zaparzaczy dostępnych na rynku, np. Hendi, Bravilor, Animo – Średnica filtra po rozłożeniu 250 mm – Średnica dna filtra 110 mm – Ilość w opakowaniu - 1000 szt. Parametry: – wymiary: średnica 250x(H)70mm W zestawie: – filtr papierowy do zaparzacza przelewowego 1000 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 3116,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 196.48,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/208656-filtr-papierowy-do-ekspresow-zaparzaczy-przelewowych-do-kawy-sr-250-mm-hendi-208656-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/208656-2.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1002630",
+        "Nazwa_Produktu": "Kosz do zmywarki na szklanki i szkło 9 elementów 50x50cm - Hendi 877050",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Szklanki i kufle",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do zmywarek",
+        "Finalne_ID_AI": 3124,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz przeznaczony do użytku w zmywarkach. Wybrana kategoria (Części i akcesoria do zmywarek) jest najbardziej precyzyjnym dopasowaniem funkcyjnym w dostępnym drzewie kategorii, niezależnie od profesjonalnego przeznaczenia produktu marki Hendi.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kosz do zmywarki na szklanki i szkło 9 elementów 50x50cm - hendi 877050",
+                "description": "Numer producenta: 877050 Kosz uniwersalny do zmywarek – Wykonany z polipropylenu – Do filiżanek, garnków, misek itp. – 9 elementów – Konstrukcja pozwala na optymalny przepływ wody między naczyniami we wszystkich płaszczyznach – Dno kratkowane Parametry: – szerokość: 500 mm – głębokość: 500 mm – wysokość: 104 mm W zestawie: – Kosz uniwersalny do zmywarek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 3124,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 89.82,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/877050-kosz-do-zmywarki-na-szklanki-i-szklo-9-elementow-50x50cm-hendi-877050-hurtownia-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
