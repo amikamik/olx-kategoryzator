@@ -6790,5 +6790,241 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004898",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 15szt. - czerwone 120L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to worki na śmieci, które są podstawowym elementem do utrzymania czystości i porządku. Kategoria 'Środki czyszczące' w ramach 'Supermarketu' najlepiej pasuje do tego typu artykułów higienicznych i do sprzątania.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 15szt. -",
+                "description": "Kod producenta: 1078-6 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 120 Rozmiary (mm) - 700 x 1100 Materiał: polietylen Grubość folii (m): 80 Kolor: czerwony Worki sprzedawane są w rolkach po 15szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-6-meva-worki-na-opdadki-smieci-grube-80-mikr-wytrzymale-rolka-15szt-czerwone-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-6-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1078-6-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004901",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - niebieskie 70L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to worki na śmieci, które są podstawowym artykułem gospodarstwa domowego i są ściśle związane z utrzymaniem czystości. Kategoria 'Dom i Ogród > Supermarket > Środki czyszczące' jest najbardziej precyzyjną i szczegółową kategorią-liściem dla tego typu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. -",
+                "description": "Kod producenta: 5030-1 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 70 Rozmiary (mm) - 550 x 1000 Materiał: polietylen Grubość folii (m): 50 Kolor: niebieski Worki sprzedawane są w rolkach po 25szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-1-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-niebieskie-70l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-1-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-1-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004902",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - zielone 70L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Pozostałe",
+        "Finalne_ID_AI": 4367,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to worki na śmieci, które są typowym artykułem gospodarstwa domowego. Najbardziej szczegółową kategorią-liściem, która pasuje do ogólnego przeznaczenia worków na śmieci w kontekście artykułów codziennego użytku, jest 'Pozostałe' w ramach 'Dom i Ogród > Supermarket'. Mimo wspomnienia przemysłowego producenta, specyfikacja (70L) i nazwa wskazują na szerokie zastosowanie, również w gospodarstwach domowych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. -",
+                "description": "Kod producenta: 5030-2 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 70 Rozmiary (mm) - 550 x 1000 Materiał: polietylen Grubość folii (m): 50 Kolor: zielony Worki sprzedawane są w rolkach po 25szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 4367,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-2-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-zielone-70l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-2-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-2-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1004904",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - żółte 70L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Pozostałe",
+        "Finalne_ID_AI": 4367,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to worki na śmieci, które są artykułem codziennego użytku i gospodarstwa domowego. Najlepiej pasuje do kategorii 'Dom i Ogród', a następnie do 'Supermarket' jako produkt konsumpcyjny. Ponieważ nie ma bardziej szczegółowej podkategorii dla worków na śmieci, 'Pozostałe' w ramach 'Supermarket' jest najbardziej odpowiednią kategorią-liściem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. -",
+                "description": "Kod producenta: 5030-4 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 70 Rozmiary (mm) - 550 x 1000 Materiał: polietylen Grubość folii (m): 50 Kolor: żółty Worki sprzedawane są w rolkach po 25szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 4367,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-4-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-zolte-70l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-4-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/5030-4-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]

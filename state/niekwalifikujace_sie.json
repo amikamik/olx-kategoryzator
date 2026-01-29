@@ -4388,5 +4388,95 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to wytrzymałe worki na śmieci, a opis wyraźnie wskazuje na zastosowanie w \"zakładach przemysłowych i warsztatach\", co idealnie pasuje do kategorii \"Firma i Przemysł\". Dalej, \"Sklepy i magazyny\" to odpowiednie miejsce dla tego typu materiałów eksploatacyjnych, a \"Pozostałe\" jest najbardziej szczegółową kategorią dla worków w tym kontekście."
+    },
+    {
+        "ID_Produktu": "1004903",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - czarne 70L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opis produktu wyraźnie wskazuje na zastosowanie worków w \"zakładach przemysłowych i warsztatach\" oraz wspomina o producencie \"MEVA\", liderze w produkcji urządzeń dla tych branż. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' najlepiej oddaje specyfikę produktu, który jest wytrzymałym workiem na odpady, przeznaczonym do użytku profesjonalnego."
+    },
+    {
+        "ID_Produktu": "1004905",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - czerwone 70L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Nazwa produktu 'Worki na odpadki śmieci' oraz opis wskazujący na 'zakładach przemysłowych i warsztatach' silnie sugerują przeznaczenie biznesowe/przemysłowe. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółową i adekwatną kategorią dla tego typu produktu, traktując worki jako materiały eksploatacyjne do biura/warsztatu."
+    },
+    {
+        "ID_Produktu": "1002586",
+        "Nazwa_Produktu": "Szczotka druciana do grilla dł. 290mm 2szt. - Hendi 525517",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szczotka przeznaczona do czyszczenia grilla. Grill jest często używany w ogrodzie, a kategoria 'Miotły i szczotki' jest najbardziej szczegółową dla tego typu narzędzia w kontekście narzędzi ogrodowych."
+    },
+    {
+        "ID_Produktu": "1002590",
+        "Nazwa_Produktu": "Pokrowiec ochronny z folii PEVA do grilla Hendi 154717 / 154878 - Hendi 144923",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec ochronny na grill. Grill jest sprzętem ogrodowym, więc najlepiej pasującą kategorią jest 'Dom i Ogród > Ogród'. Ponieważ nie ma podkategorii 'Akcesoria do grilla' ani bardziej szczegółowej kategorii dla pokrowców na grille w ramach 'Ogród', 'Pozostałe Ogród' jest najbardziej odpowiednią i szczegółową kategorią-liściem. Kategoria 'Wyposażenie wnętrz > Pokrowce' jest przeznaczona dla pokrowców do zastosowań wewnętrznych, a pokrowiec na grill to produkt zewnętrzny."
+    },
+    {
+        "ID_Produktu": "1003205",
+        "Nazwa_Produktu": "Ruszt stalowy do piekarnika pieca konwekcyjnego GN1/1 - Hendi 801918",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD do zabudowy > Piekarniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ruszt do piekarnika konwekcyjnego, co jest typowym elementem wyposażenia gastronomicznego. Marka Hendi i standard GN1/1 dodatkowo wskazują na zastosowanie profesjonalne/gastronomiczne. Brak bardziej szczegółowej kategorii dla akcesoriów gastronomicznych sprawia, że 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej odpowiednią i najgłębszą kategorią."
+    },
+    {
+        "ID_Produktu": "1003207",
+        "Nazwa_Produktu": "Ruszt stalowy do piekarnika pieca konwekcyjnego GN2/3 - Hendi 801932",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD do zabudowy > Piekarniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ruszt do piekarnika konwekcyjnego, co jest akcesorium lub częścią maszyny. Oznaczenie 'GN2/3' oraz marka 'Hendi' wskazują na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' najlepiej oddaje ten charakter i jest najbardziej szczegółowa."
+    },
+    {
+        "ID_Produktu": "1003209",
+        "Nazwa_Produktu": "Ruszt stalowy chromowany do piekarnika pieca konwekcyjnego GN2/1 - Hendi 801949",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Części do kotłów i pieców",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ruszt do piekarnika/pieca konwekcyjnego w standardzie GN2/1, firmy Hendi, co wskazuje na zastosowanie profesjonalne, gastronomiczne lub przemysłowe, a nie domowe. Najlepiej pasuje kategoria 'Części do maszyn i urządzeń' w ramach 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1003211",
+        "Nazwa_Produktu": "Ruszt stalowy chromowany poprzeczny do pieca piekarnika 600x400mm - Hendi 801963",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to ruszt do piekarnika marki Hendi, która jest znana z profesjonalnego sprzętu gastronomicznego. Najbardziej pasującą kategorią jest 'Firma i Przemysł > Gastronomia', a ponieważ brak jest specyficznej podkategorii dla rusztów, wybieram 'Pozostałe' w tej sekcji."
+    },
+    {
+        "ID_Produktu": "1003212",
+        "Nazwa_Produktu": "Ruszt stalowy nierdzewny poprzeczny do pieca piekarnika 600x400mm - Hendi 801994",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ruszt stalowy nierdzewny do pieca piekarnika firmy Hendi. Marka Hendi jest wiodącym dostawcą sprzętu gastronomicznego. Wymiary 600x400mm sugerują zastosowanie profesjonalne, a ruszt w tym kontekście może być traktowany jako pojemnik gastronomiczny lub element wyposażenia w tej kategorii. Kategoria 'Pojemniki gastronomiczne' (ID 5076) jest najbardziej szczegółową kategorią-liściem, która odzwierciedla profesjonalny charakter produktu."
     }
 ]
