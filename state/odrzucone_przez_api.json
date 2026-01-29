@@ -6050,5 +6050,363 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1001884",
+        "Nazwa_Produktu": "Łyżka do sałatek z tworzywa SAN do 80C czarna dł. 335 mm - Hendi 564455",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Części do maszyn rolniczych",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to łyżka do sałatek o znacznej długości (335 mm), co klasyfikuje ją jako przybór kuchenny służący do przygotowywania i nakładania potraw. Najbardziej trafną kategorią dla tego typu akcesoriów kuchennych w dostarczonym drzewie jest 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe' (ID: 2127).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Łyżka do sałatek z tworzywa san do 80c czarna dł. 335 mm - hendi 564455",
+                "description": "Numer producenta: 564455 Łyżka do sałatek - Wykonana z tworzywa SAN - Odporność na temperatury do 80deg;C Parametry: długość: 335 mm pojemność: 60 ml W zestawie: - łyżka do sałatek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 31.08,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/564455-lyzka-do-salatek-z-tworzywa-san-do-80c-czarna-dl-335-mm-hendi-564455-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/564103-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/564103-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001901",
+        "Nazwa_Produktu": "Stojak ekspozytor na 3 talerze o śr. 27 cm stalowy - Hendi 425473",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowy stojak ekspozycyjny na talerze marki Hendi. W strukturze OLX akcesoria do organizacji i serwowania w kuchni, które nie są typowymi suszarkami do naczyń ani elementami zastawy stołowej (jak np. patery), są przypisywane do kategorii 'Pozostałe' w obrębie przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stojak ekspozytor na 3 talerze o śr. 27 cm stalowy - hendi 425473",
+                "description": "Numer producenta: 425473 Stojak na talerze - Wykonany ze stali chromowej - Nie należy myć w zmywarkach - na 3 talerze o śr. 275 mm Parametry: długość: 290mm szerokość: 200mm wysokość: 440mm W zestawie: - stojak na talerze\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 154.38,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/425473-stojak-ekspozytor-na-3-talerze-o-sr-27-cm-stalowy-hendi-425473-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/425466-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001903",
+        "Nazwa_Produktu": "Patera piętrowa do ciastek i pralinek 3-stopniowa składana - Hendi 429914",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Patery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Patery",
+        "Finalne_ID_AI": 2156,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to patera piętrowa służąca do serwowania ciast i owoców, co idealnie odpowiada specyfikacji kategorii 'Patery' znajdującej się w sekcji 'Zastawa stołowa'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Patera piętrowa do ciastek i pralinek 3-stopniowa składana - hendi 429914",
+                "description": "Numer producenta: 429914 Na prezentowanej paterze świetnie będą się prezentować owoce, ciasta w trakcie różnego typu uroczystości. Cechy produktu: - wykonana ze stali nierdzewnej 18/0 - z 3 tacami - nie należy myć w zmywarkach Parametry: - średnica: 268 - 220 - 166mm - wysokość: 320mm W zestawie: - Patera piętrowa do ciastek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2156,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 186.65,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/429914-patera-pietrowa-do-ciastek-i-pralinek-3-stopniowa-skladana-hendi-429914-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001905",
+        "Nazwa_Produktu": "Patery półmiski ekspozycyjne stalowe z podstawą do owoców morza - Hendi 480519",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Patery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Patery",
+        "Finalne_ID_AI": 2156,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw pater/półmisków na podstawie, służący do serwowania i ekspozycji potraw. Idealnie pasuje do kategorii 'Patery' w sekcji zastawy stołowej, mimo profesjonalnego przeznaczenia (marka Hendi).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Patery półmiski ekspozycyjne stalowe z podstawą do owoców morza - hendi 480519",
+                "description": "Numer producenta: 480519 Patera z półmiskami ekspozycyjnymi idealnie sprawdzi się do serwowania owoców morza w barach samoobsługowych, hotelach oferujących śniadania serwowane jako szwedzki stół, czy restauracjach. Cechy produktu: - wykonana ze stali nierdzewnej 18/0 - wyposażona w dwie tace - można myć w zmywarkach Parametry: średnica: 300 - 400mm wysokość: 200mm W zestawie: - Patery półmiski ekspozycyjne\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2156,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 214.72,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/480519-patery-polmiski-ekspozycyjne-stalowe-z-podstawa-do-owocow-morza-hendi-480519-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/480502-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/480519-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001938",
+        "Nazwa_Produktu": "Podstawka pod przybory bufetowe do chochli lub łyżki Kitchen Line - Hendi 722107",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest podstawką pod przybory kuchenne (łyżkę lub chochlę). Najbardziej precyzyjną kategorią w drzewie jest 'Przybory kuchenne' (id 2113), a ze względu na brak specyficznej podkategorii dla podstawek, właściwym wyborem jest liść 'Pozostałe' (id 2127) w tej sekcji.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Podstawka pod przybory bufetowe do chochli lub łyżki kitchen line - hendi 722107",
+                "description": "Numer producenta: 722107 Podstawka pod przybory bufetowe - Wykonana ze stali nierdzewnej - Można myć w zmywarkach Parametry: średnica: 110mm długość: 264mm W zestawie: - Podstawka pod przybory bufetowe\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 54.83,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/722107-podstawka-pod-przybory-bufetowe-do-chochli-lub-lyzki-kitchen-line-hendi-722107-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/722107-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1001968",
+        "Nazwa_Produktu": "Szczypce do makaronu spaghetti ze stali nierdzewnej dł. 200 mm - Hendi 523216",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to szczypce do makaronu, które są przyborami kuchennymi. Najbardziej pasująca kategoria to Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe, ponieważ w drzewie nie ma specyficznej podkategorii dla szczypiec kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szczypce do makaronu spaghetti ze stali nierdzewnej dł. 200 mm - hendi 523216",
+                "description": "Numer producenta: 523216 Szczypce do makaronu - Wykonane ze stali nierdzewnej - Można myć w zmywarkach Parametry: długość: 200mm W zestawie: - Szczypce do makaronu\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/523216-szczypce-do-makaronu-spaghetti-ze-stali-nierdzewnej-dl-200-mm-hendi-523216-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt długa. Powinna mieć 70 lub mniej znaków.",
+                            "detail": "This value is too long. It should have 70 characters or less."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
