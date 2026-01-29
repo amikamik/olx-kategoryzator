@@ -7138,5 +7138,111 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1003662",
+        "Nazwa_Produktu": "Naczynie do zapiekania owalne z porcelany RUSTICA 220x125x40mm - Hendi 786321",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Akcesoria kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Naczynia żaroodporne",
+        "Finalne_ID_AI": 2126,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to naczynie do zapiekania z porcelany, przeznaczone do używania w piecach i kuchenkach mikrofalowych, co idealnie pasuje do kategorii 'Naczynia żaroodporne'. Chociaż wspomniano o branży HoReCa, jest to szczegółowy przybór kuchenny, który w drzewie kategorii OLX znajduje się w 'Dom i Ogród', a nie w ogólnej kategorii 'Firma i Przemysł > Gastronomia'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Naczynie do zapiekania owalne z porcelany rustica 220x125x40mm -",
+                "description": "Numer producenta: 786321 Naczynie do zapiekania RUSTICA to połączenie klasycznego naczynia do zapiekania, z najbardziej wytrzymałym typem porcelany na rynku. Jest kierowany do klientów branży HoReCa, jak również świetnie będzie się prezentował w domowym zaciszu, za sprawą prostego stylu opartego na perfekcji bieli. Cechy produktu: Biała błyszcząca, Wysoka odporność na oddziaływania fizyczne i niewielka waga, Można używać w kuchenkach mikrofalowych, Można używać w piecach, Można myć w zmywarkach Parametry: długość: 220mm szerokość: 130mm wysokość: 40mm W zestawie: naczynie do zapiekania\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2126,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 48.35,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/786321-naczynie-do-zapiekania-owalne-z-porcelany-rustica-220x125x40mm-hendi-786321-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/786321-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1003663",
+        "Nazwa_Produktu": "Naczynie do zapiekania owalne z porcelany RUSTICA 245x145x55mm - Hendi 786338",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Akcesoria kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Naczynia żaroodporne",
+        "Finalne_ID_AI": 2126,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to naczynie do zapiekania, które jest bezpośrednio klasyfikowane jako naczynie żaroodporne. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Naczynia żaroodporne' jest najbardziej precyzyjna i szczegółowa. Wskazówka systemowa 'Antyki i Kolekcje' jest nieprawidłowa, ponieważ produkt jest nowy, oznaczony numerem producenta i przeznaczony również do użytku w branży HoReCa.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Naczynie do zapiekania owalne z porcelany rustica 245x145x55mm -",
+                "description": "Numer producenta: 786338 Naczynie do zapiekania RUSTICA to połączenie klasycznego naczynia do zapiekania, z najbardziej wytrzymałym typem porcelany na rynku. Jest kierowany do klientów branży HoReCa, jak również świetnie będzie się prezentował w domowym zaciszu, za sprawą prostego stylu opartego na perfekcji bieli. Cechy produktu: Biała błyszcząca, Wysoka odporność na oddziaływania fizyczne i niewielka waga, Można używać w kuchenkach mikrofalowych, Można używać w piecach, Można myć w zmywarkach Parametry: długość: 245mm szerokość: 145mm wysokość: 55mm W zestawie: naczynie do zapiekania\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2126,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 62.39,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/786338-naczynie-do-zapiekania-owalne-z-porcelany-rustica-245x145x55mm-hendi-786338-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/786321-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]

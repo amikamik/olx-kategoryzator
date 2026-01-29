@@ -5168,5 +5168,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to grzałka (część zamienna) do bemaru, który jest urządzeniem gastronomicznym do podgrzewania potraw. Kategoria 'Firma i Przemysł > Gastronomia > Bemary' jest najbardziej szczegółowa i precyzyjnie opisuje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1002191",
+        "Nazwa_Produktu": "Cukiernica stalowa nierdzewna z pokrywką śr. 85mm 300ml - Hendi 452103",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara porcelana > Cukiernice",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to cukiernica ze stali nierdzewnej, a marka Hendi jest producentem wyposażenia gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje profesjonalne zastosowanie produktu."
+    },
+    {
+        "ID_Produktu": "1002192",
+        "Nazwa_Produktu": "Cukiernica stalowa nierdzewna śr. 85mm 300ml - Hendi 452202",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara porcelana > Cukiernice",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to cukiernica ze stali nierdzewnej, a marka 'Hendi' (wraz z 'Numerem producenta') silnie wskazuje na jego profesjonalne zastosowanie w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej odpowiednią i szczegółową kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1002364",
+        "Nazwa_Produktu": "Cukiernica ze szkła i stali nierdzewnej z łyżeczką śr. 130mm wys. 90mm - Hendi 465370",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara porcelana > Cukiernice",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to cukiernica/dyspenser marki Hendi, która jest powszechnie kojarzona ze sprzętem gastronomicznym i profesjonalnym. Opis \"dyspenser do parmezanu\" dodatkowo wskazuje na zastosowanie komercyjne. Kategoria `Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne` najlepiej oddaje przeznaczenie tego artykułu."
     }
 ]
