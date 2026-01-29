@@ -5078,5 +5078,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to stojak bufetowy, markowany przez Hendi, co wskazuje na profesjonalny sprzęt gastronomiczny. Najbardziej szczegółową kategorią-liściem pasującą do tego typu wyposażenia jest 'Pozostałe' w dziale 'Firma i Przemysł > Gastronomia', ponieważ nie ma bardziej precyzyjnej podkategorii dla stojaków bufetowych."
+    },
+    {
+        "ID_Produktu": "1005265",
+        "Nazwa_Produktu": "Taca ekspozycyjna bufetowa do potraw z melaminy GN1/1 wys. 20mm biała - Hendi 566008",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest tacą ekspozycyjną GN1/1 przeznaczoną do serwowania potraw w bufecie, co idealnie pasuje do kategorii 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł > Gastronomia'. Terminologia i przeznaczenie wskazują na profesjonalne zastosowanie, a nie domowe."
+    },
+    {
+        "ID_Produktu": "1005268",
+        "Nazwa_Produktu": "Taca ekspozycyjna bufetowa do potraw z melaminy GN1/3 wys. 20mm biała - Hendi 566022",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu, w tym użycie terminu 'bufetowa', 'stołach szwedzkich', marka Hendi (znana z profesjonalnego sprzętu gastronomicznego) oraz standard GN1/3, jednoznacznie wskazują na profesjonalne zastosowanie gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1005271",
+        "Nazwa_Produktu": "Taca ekspozycyjna bufetowa do potraw z melaminy GN2/4 wys. 20mm biała - Hendi 566053",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to taca ekspozycyjna bufetowa, co jednoznacznie wskazuje na zastosowanie profesjonalne w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1005272",
+        "Nazwa_Produktu": "Taca ekspozycyjna patera do potraw z gładkim rantem GN1/1 wys. 10mm - Hendi 807705",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Patery",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to taca ekspozycyjna GN1/1 marki Hendi, co wskazuje na zastosowanie w profesjonalnej gastronomii. Kategoria 'Pojemniki gastronomiczne' jest najdokładniejszym dopasowaniem dla tego typu sprzętu."
+    },
+    {
+        "ID_Produktu": "1005283",
+        "Nazwa_Produktu": "Ubijak tłuczek do ziemniaków puree profesjonalny ze stali nierdzewnej dł. 610mm - Hendi 693216",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ubijak do ziemniaków, opis wyraźnie wskazuje na zastosowanie w profesjonalnej kuchni z branży HoReCa. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia, a ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu ręcznego przyboru, wybrano 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1005284",
+        "Nazwa_Produktu": "Ubijak tłuczek do ziemniaków puree profesjonalny ze stali nierdzewnej dł. 810mm - Hendi 693223",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Ubijaczki do mas",
+        "Finalne_ID_AI": 5064,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny ubijak/tłuczek do ziemniaków, wyraźnie zaznaczony jako odpowiedni dla branży HoReCa (gastronomia). Kategoria 'Ubijaczki do mas' pod 'Gastronomią' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie i charakter produktu jako urządzenia do przetwarzania żywności w kontekście profesjonalnym. Długość 810mm potwierdza, że nie jest to sprzęt do użytku domowego."
     }
 ]

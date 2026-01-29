@@ -7026,5 +7026,117 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1005266",
+        "Nazwa_Produktu": "Taca ekspozycyjna bufetowa do potraw z melaminy GN1/2 wys. 20mm biała - Hendi 566015",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalne_ID_AI": 2135,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to taca do serwowania i eksponowania potraw w bufecie lub kuchni, co idealnie pasuje do kategorii 'Tace i stoliki' w dziale Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taca ekspozycyjna bufetowa do potraw z melaminy gn1/2 wys. 20mm",
+                "description": "Numer producenta: 566015 Taca ekspozycyjna marki HENDI świetnie sprawdzi się do eksponowania lub serwowania przystawek w bufecie, kuchni bądź na stołach szwedzkich. Cechy produktu: - wykonana została z melaminy, - bardzo lekka - przystosowana do mycia w zmywarce - odporna na uderzenia Parametry: - długość: 325mm - szerokość: 265mm - wysokość: 20mm W zestawie: - Taca GN 1/2\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2135,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 85.61,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/566015-taca-ekspozycyjna-bufetowa-do-potraw-z-melaminy-gn12-wys-20mm-biala-hendi-566015-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/566008-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/566008-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1005270",
+        "Nazwa_Produktu": "Taca ekspozycyjna bufetowa do potraw z melaminy GN1/4 wys. 20mm biała - Hendi 566046",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalne_ID_AI": 2135,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to taca ekspozycyjna do potraw, która idealnie pasuje do kategorii 'Przybory kuchenne', a następnie do podkategorii 'Tace i stoliki' ze względu na jej funkcję i przeznaczenie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taca ekspozycyjna bufetowa do potraw z melaminy gn1/4 wys. 20mm",
+                "description": "Numer producenta: 566046 Taca ekspozycyjna marki HENDI świetnie sprawdzi się do eksponowania lub serwowania przystawek w bufecie, kuchni bądź na stołach szwedzkich. Cechy produktu: - wykonana została z melaminy, - bardzo lekka - przystosowana do mycia w zmywarce - odporna na uderzenia Parametry: - długość: 265mm - szerokość: 152mm - wysokość: 20mm W zestawie: - Taca GN 1/4\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2135,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 50.51,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/566046-taca-ekspozycyjna-bufetowa-do-potraw-z-melaminy-gn14-wys-20mm-biala-hendi-566046-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/566008-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/566008-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
     }
 ]
