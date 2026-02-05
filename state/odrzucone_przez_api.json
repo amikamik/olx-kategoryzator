@@ -8569,5 +8569,471 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1008752",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 5szt. - przeźroczyste 240L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to worki na śmieci o dużej pojemności (240L), przeznaczone do segregacji odpadów. W drzewie kategorii OLX, kategoria 2122 (Kosze na śmieci i pojemniki do segregacji) jest najbardziej szczegółowym i najlepiej pasującym miejscem dla akcesoriów związanych z gospodarowaniem odpadami i ich segregacją w dziale Dom i Ogród.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 5szt. -",
+                "description": "Numer producenta: 1076-0 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 240 Rozmiary (mm) - 1000 x 1200 Materiał: polietylen Grubość folii (m): 80 Kolor: przeźroczyste Ilość w rolce (szt.): 5\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 33.14,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-0-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-przezroczyste-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008755",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej różowy o smaku malinowym 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to smakowy i barwiony cukier przeznaczony bezpośrednio do wytwarzania waty cukrowej, która jest traktowana jako słodycz. Kategoria 'Słodycze, przekąski, desery' w sekcji Supermarket jest najbardziej odpowiednim miejscem dla tego typu artykułów spożywczych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej różowy o smaku malinowym 1kg",
+                "description": "ID produktu: 1008755 Kolorowy cukier do waty cukrowej na patyku, różowy o smaku malinowym. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - Silny aromat - Intensywny kolor - Naturalny smak Opakowanie cukru - zalety: - Można piętrować - Polepsza prezentację - Ogranicza miejsce do przechowywania - Chroni cukier przed wilgocią - Ułatwia nabieranie cukru Skład: cukier, E-122, mieszanina substancji aromatycznych, glukoza, E440 pektyna, maltodekstryna, E414 guma arabska, zawiera cytral. Termin przydatności do spożycia 2 lata. Candyfloss cotton candy sugar pink raspberry. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients: sugar, flavouring, E-122, E-440, E414, pektin, maltodextrin, arabic gum, zitral. Zucker fr Zuckerwatte Pink Himbeere Geschmack. Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten: Zucker, Aroma, E-122, E-440, E414, Pektin, Maltodextrin, Gummi arabicum, Zitral. W zestawie: - Kolorowy cukier do waty cukrowej różowy o smaku malinowym 1 kg\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008755-rozowy-malinowy-cukier-do-waty-cukrowej-producent-hurtownia-sklep-cena.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008757-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008755-5902578450230-kolorowy-cukier-do-waty-cukrowej-candy-floss-sugar-producent-hurtownia.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008756",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej różowy o smaku truskawkowym 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to smakowy i barwiony cukier przeznaczony do wyrobu waty cukrowej. Najlepiej pasuje do kategorii 'Słodycze, przekąski, desery' (ID: 4361) w sekcji Supermarket, ponieważ wata cukrowa jest uznawana za deser/słodycz, a produkt jest gotowym półproduktem spożywczym do jej przygotowania.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej różowy o smaku truskawkowym 1kg",
+                "description": "ID produktu: 1008756 Kolorowy cukier do waty cukrowej różowy o smaku truskawkowym. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - Silny aromat - Intensywny kolor - Naturalny smak Opakowanie cukru - zalety: - Można piętrować - Polepsza prezentację - Ogranicza miejsce do przechowywania - Chroni cukier przed wilgocią - Ułatwia nabieranie cukru Skład : cukier, E-122, mieszanina substancji aromatycznych, glukoza, E440 pektyna, maltodekstryna, E414 guma arabska. Termin przydatności do spożycia 2 lata. Candyfloss cotton candy sugar pink strawberry. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, flavouring, E-122, E-440, E414, pektin, maltodextrin, arabic gum. Zucker fr Zuckerwatte Pink Erdbeer Geschmack. Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, Aroma, E-122, E-440, E414, Pektin, Maltodextrin, Gummi arabicum. W zestawie: - Kolorowy cukier do waty cukrowej różowy o smaku truskawkowym\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008756-rozowy-truskawkowy-cukier-do-waty-cukrowej-producent-hurtownia-sklep-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008757-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008756-5902578450247-kolorowy-cukier-do-waty-cukrowej-candy-floss-sugar-producent-hurtownia.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008757",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej różowy naturalny smak waty cukrowej 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Cukier i substancje słodzące",
+        "Finalne_ID_AI": 4355,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to aromatyzowany i barwiony cukier spożywczy (1kg), który idealnie wpisuje się w kategorię 'Cukier i substancje słodzące' w sekcji Supermarket.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej różowy naturalny smak waty cukrowej",
+                "description": "ID produktu: 1008757 Kolorowy cukier do waty cukrowej różowy naturalny smak waty cukrowej. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - silny aromat - intensywny kolor - naturalny smak Opakowanie cukru - zalety: - można piętrować - polepsza prezentację - ogranicza miejsce do przechowywania - chroni cukier przed wilgocią - ułatwia nabieranie cukru Skład : cukier, E-122. Trwałość od otwarcia 12 miesięcy Candyfloss cotton candy sugar pink plain. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, E-122. Zucker fr Zuckerwatte Pink Ohne Geschmack . Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, Aroma, E-122.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4355,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008757-kolorowy-cukier-do-waty-cukrowej-naturalny-smaczny-producent-hurtownia-cena-tanio-rozowy-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008757-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008757-5902578450254-kolorowy-cukier-do-waty-cukrowej-candy-floss-sugar-producent-hurtownia.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008758",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej żółty o smaku cytrynowym 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to barwiony i aromatyzowany cukier przeznaczony do wyrobu waty cukrowej. Ze względu na swój charakter (gotowy produkt cukierniczy o konkretnym smaku), najlepiej pasuje do kategorii słodyczy i deserów w sekcji Supermarket, zgodnie z konwencją platformy OLX.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej żółty o smaku cytrynowym 1kg",
+                "description": "ID produktu: 1008758 Kolorowy cukier do waty cukrowej na patyku, żółty o smaku cytrynowym. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - silny aromat - intensywny kolor - naturalny smak Opakowanie cukru - zalety: - można piętrować - polepsza prezentację - ogranicza miejsce do przechowywania - chroni cukier przed wilgocią - ułatwia nabieranie cukru Skład: cukier, E-102, mieszanina substancji aromatycznych, glukoza, E440 pektyna, maltodekstryna, E414 guma arabska, zawiera cytral. Termin przydatności do spożycia 2 lata. Candyfloss cotton candy sugar yellow lemon. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients: Ingredients: sugar, flavouring, E-102, E-440, E414, pektin, maltodextrin, arabic gum, zitral. Zucker fr Zuckerwatte Gelb Zitrone Geschmack. Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten: Zutaten: Zucker, Aroma, E-102, E-440, E414, Pektin, Maltodextrin, Gummi arabicum, Zitral.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008758-zolty-cytrynowy-cukier-do-waty-cukrowej-producent-hurtownia-sklep-cena.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008758-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008758-5902578450261-kolorowy-cukier-do-waty-cukrowej-candy-floss-sugar-producent-hurtownia.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008759",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej żółty o smaku waniliowym 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to cukier smakowy i kolorowy przeznaczony specjalnie do produkcji waty cukrowej. Choć technicznie jest to cukier, jego przeznaczenie jako bazy do słodkiej przekąski oraz dodatki aromatyzujące sprawiają, że najlepiej pasuje do kategorii Słodycze, przekąski, desery w sekcji Supermarket.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej żółty o smaku waniliowym 1kg",
+                "description": "ID produktu: 1008759 Kolorowy cukier do waty cukrowej na patyku, żółty o smaku waniliowym. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - silny aromat - intensywny kolor - naturalny smak Opakowanie cukru - zalety: - można piętrować - polepsza prezentację - ogranicza miejsce do przechowywania - chroni cukier przed wilgocią - ułatwia nabieranie cukru Skład: cukier, E-102, mieszanina substancji aromatycznych, glukoza, E440 pektyna, maltodekstryna, E414 guma arabska. Termin przydatności do spożycia 2 lata. Candyfloss cotton candy sugar yellow vanilla . Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, flavouring, E-102, E-440, E414, pektin, maltodextrin, arabic gum Zucker fr Zuckerwatte Gelb Vanille Geschmack . Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten: Zucker, Aroma, E-102, E-440, E414, Pektin, Maltodextrin, Gummi arabicum.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008759-zolty-waniliowy-cukier-do-waty-cukrowej-producent-hurtownia-sklep-o-smaku-waniliowym.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008758-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008759-5902578450278-kolorowy-cukier-do-waty-cukrowej-candy-floss-sugar-producent-hurtownia.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008761",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej żółty naturalny smak waty cukrowej 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to smakowy i kolorowy cukier przeznaczony do wyrobu waty cukrowej. Choć technicznie jest to cukier, jego specyficzne przeznaczenie cukiernicze oraz walory smakowe i zapachowe sprawiają, że najlepiej pasuje do kategorii słodyczy i deserów w sekcji Supermarket.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej żółty naturalny smak waty cukrowej",
+                "description": "ID produktu: 1008761 Kolorowy cukier do waty cukrowej żółty naturalny smak waty cukrowej. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - Silny aromat - Intensywny kolor - Naturalny smak Opakowanie cukru - zalety: - Można piętrować - Polepsza prezentację - Ogranicza miejsce do przechowywania - Chroni cukier przed wilgocią - Ułatwia nabieranie cukru Skład : cukier, E-102. Termin przydatności do spożycia 2 lata. Candyfloss cotton candy sugar yellow plain. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, E-102. Zucker fr Zuckerwatte Gelb Ohne Geschmack. Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, Aroma, E-102 W zestawie: - Kolorowy cukier do waty cukrowej żółty naturalny smak waty cukrowej 1 kg\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008761-zolty-cukier-do-waty-cukrowej-producent-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008758-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008761-5902578450292-kolorowy-cukier-do-waty-cukrowej-candy-floss-sugar-producent-hurtownia.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008762",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej niebieski o smaku gumy balonowej 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to smakowy i barwiony cukier przeznaczony do produkcji waty cukrowej. Choć technicznie jest to cukier, jego zastosowanie oraz charakter (smak gumy balonowej, intensywny kolor) klasyfikują go jako gotowy półprodukt w kategorii słodyczy i deserów, zgodnie z typową kategoryzacją na platformach sprzedażowych dla tego typu produktów.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej niebieski o smaku gumy balonowej 1kg",
+                "description": "ID produktu: 1008762 Kolorowy cukier do waty cukrowej niebieski o smaku gumy balonowej. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - Silny aromat - Intensywny kolor - Naturalny smak Opakowanie cukru - zalety: - Można piętrować - Polepsza prezentację - Ogranicza miejsce do przechowywania - Chroni cukier przed wilgocią - Ułatwia nabieranie cukru Skład : cukier, E-133, mieszanina substancji aromatycznych, glukoza, E440 pektyna, maltodekstryna, E414 guma arabska. Termin przydatności do spożycia 2 lata. Candyfloss cotton candy sugar blue bubble gum. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, flavouring, E-133, E-440, E414, pektin, maltodextrin, arabic gum Zucker fr Zuckerwatte Blau Bubble-Gum Geschmack . Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, Aroma, E-133, E-440, E414, Pektin, Maltodextrin, Gummi arabicum. W zestawie: - Kolorowy cukier do waty cukrowej niebieski o smaku bumy balonowej 1 kg\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008762-kolorowy-cukier-do-waty-cukrowej-smakowy-o-smaku-gumy-balonowej-niebieska-guma-balonowa-wata-sloik-cena-tanio-hurtownia.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008763-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008762-5902578450308-kolorowy-cukier-do-waty-cukrowej-candy-floss-sugar-producent-hurtownia.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]

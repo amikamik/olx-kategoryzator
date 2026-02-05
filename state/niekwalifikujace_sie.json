@@ -6638,5 +6638,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to specjalistyczne akcesoria (patyczki) dedykowane do produkcji waty cukrowej, posiadające atest PZH. W drzewie kategorii OLX najbardziej trafnym i specyficznym miejscem dla tego typu artykułów profesjonalnych/gastronomicznych jest kategoria 'Maszyny do waty cukrowej' w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1008751",
+        "Nazwa_Produktu": "Zasilacz do wagi SBS-PT-50/2 6V DC/ 1A Steinberg Systems",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Komputery > Podzespoły i części > Zasilacze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zasilacz/ładowarka sieciowa będąca częścią zamienną do wag przemysłowych/paczkowych marki Steinberg Systems. Ze względu na profesjonalny charakter urządzenia, do którego jest przeznaczony, najbardziej trafną kategorią jest 'Części do maszyn i urządzeń' w sekcji 'Firma i Przemysł'."
     }
 ]
