@@ -9716,5 +9716,694 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1009878",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS 6/205mm - białe 250szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słomki papierowe to typowe naczynia jednorazowego użytku (zastawa stołowa), stosowane w gospodarstwie domowym i gastronomii. Kategoria 'Naczynia jednorazowe' jest najbardziej specyficznym dopasowaniem dla tego rodzaju asortymentu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws 6/205mm - białe 250szt.",
+                "description": "Kod produktu: 1009878 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 6 mm - materiał: 100% celuloza PEFC - kolor: biały - waga: 340 g - opakowanie jednostkowe: kartonik 250 szt. - opakowaniu zbiorcze: karton 8 x 250 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009878-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009885",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS 6/205mm - biało-niebieskie 500szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słomki papierowe są klasyfikowane jako naczynia jednorazowe. Wybrana kategoria znajduje się w ścieżce: Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe, co najlepiej oddaje przeznaczenie i charakter produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws 6/205mm -",
+                "description": "Kod produktu: 1009885 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 6 mm - materiał: 100% celuloza PEFC - kolor: biało-niebieskie - waga: 610 g - opakowanie jednostkowe: worek foliowy 500 szt. - opakowaniu zbiorcze: karton 12 x 500 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 54.83,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009885-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009893",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS grube 8/205mm - brązowe 500szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słomki papierowe to typowy produkt jednorazowego użytku przeznaczony do kontaktu z żywnością (napojami). Najbardziej precyzyjną kategorią w drzewie dla tego typu asortymentu jest 'Naczynia jednorazowe', znajdująca się w sekcji zastawy stołowej.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws grube 8/205mm -",
+                "description": "Kod produktu: 1009893 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 8 mm - materiał: 100% celuloza PEFC - kolor: brąz - waga: 780 g - opakowanie jednostkowe: worek foliowy 500 szt. - opakowaniu zbiorcze: karton 12 x 500 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009893-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009898",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS grube 8/205mm - biało-niebieskie 160szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papierowe słomki do napojów, które są artykułami jednorazowego użytku. Najbardziej precyzyjną kategorią w drzewie dla tego typu asortymentu są 'Naczynia jednorazowe' w sekcji Wyposażenie wnętrz > Zastawa stołowa.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws grube 8/205mm -",
+                "description": "Kod produktu: 1009898 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 8 mm - materiał: 100% celuloza PEFC - kolor: biało-niebieskie - waga: 280 g - opakowanie jednostkowe: kartonik 160 szt. - opakowaniu zbiorcze: karton 8 x 160 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.68,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009898-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009899",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS grube 8/205mm - biało-niebieskie 500szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papierowe słomki do napojów, które klasyfikują się jako naczynia jednorazowe w sekcji zastawy stołowej.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws grube 8/205mm -",
+                "description": "Kod produktu: 1009899 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 8 mm - materiał: 100% celuloza PEFC - kolor: biało-niebieskie - waga: 780 g - opakowanie jednostkowe: worek foliowy 500 szt. - opakowaniu zbiorcze: karton 12 x 500 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 59.15,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009899-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009900",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS grube 8/205mm - biało-czerwone 160szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słomki papierowe to typowy produkt z kategorii naczyń jednorazowych, wykorzystywany przy zastawie stołowej podczas imprez lub do codziennego użytku domowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws grube 8/205mm -",
+                "description": "Kod produktu: 1009900 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 8 mm - materiał: 100% celuloza PEFC - kolor: biało-czerwone - waga: 280 g - opakowanie jednostkowe: kartonik 160 szt. - opakowaniu zbiorcze: karton 8 x 160 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 33.12,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009900-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009901",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS grube 8/205mm - biało-czerwone 500szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słomki papierowe są produktem jednorazowego użytku służącym do spożywania napojów. Najlepiej pasują do kategorii 'Naczynia jednorazowe' wewnątrz sekcji Zastawa stołowa, która obejmuje jednorazowe akcesoria kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws grube 8/205mm -",
+                "description": "Kod produktu: 1009901 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 8 mm - materiał: 100% celuloza PEFC - kolor: biało-czerwone - waga: 780 g - opakowanie jednostkowe: worek foliowy 500 szt. - opakowaniu zbiorcze: karton 12 x 500 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 59.15,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009901-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009902",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS grube 8/205mm - biało-żółte 160szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słomki papierowe to akcesoria kuchenne jednorazowego użytku, które najlepiej pasują do kategorii Naczynia jednorazowe w sekcji Wyposażenie wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws grube 8/205mm -",
+                "description": "Kod produktu: 1009902 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 8 mm - materiał: 100% celuloza PEFC - kolor: biało-żółte - waga: 280 g - opakowanie jednostkowe: kartonik 160 szt. - opakowaniu zbiorcze: karton 8 x 160 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.68,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009902-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009912",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS 6/205mm - mix 500szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słomki papierowe to typowy produkt jednorazowego użytku przeznaczony do kontaktu z żywnością, co klasyfikuje je w kategorii 'Naczynia jednorazowe' w sekcji 'Zastawa stołowa'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws 6/205mm - mix 500szt.",
+                "description": "Kod produktu: 1009912 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 6 mm - materiał: 100% celuloza PEFC - kolor: mix kolorów - waga: 610 g - opakowanie jednostkowe: worek foliowy 500 szt. - opakowaniu zbiorcze: karton 12 x 500 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 59.15,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009912-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009913",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS grube 8/205mm - czarne 500szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słomki papierowe (nazywane potocznie rurkami do napojów) to produkt jednorazowego użytku służący do serwowania i spożywania napojów. Najlepiej pasują do kategorii 'Naczynia jednorazowe' w sekcji Zastawa stołowa.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws grube 8/205mm - czarne",
+                "description": "Kod produktu: 1009913 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 8 mm - materiał: 100% celuloza PEFC - kolor: czarny - waga: 780 g - opakowanie jednostkowe: worek foliowy 500 szt. - opakowaniu zbiorcze: karton 12 x 500 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 65.62,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009913-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009914",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS 6/205mm - mix 250szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słomki papierowe to typowy produkt jednorazowego użytku służący do spożywania napojów, dlatego najlepiej pasują do kategorii 'Naczynia jednorazowe' znajdującej się w sekcji zastawy stołowej.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws 6/205mm - mix 250szt.",
+                "description": "Kod produktu: 1009914 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 6 mm - materiał: 100% celuloza PEFC - kolor: mix kolorów - waga: 340 g - opakowanie jednostkowe: kartonik 250 szt. - opakowaniu zbiorcze: karton 8 x 250 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 37.56,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009914-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009915",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS grube 8/205mm - czarne 160szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słomki papierowe to typowe akcesoria jednorazowego użytku związane z serwowaniem napojów, co kwalifikuje je do kategorii 'Naczynia jednorazowe' w sekcji wyposażenia wnętrz i zastawy stołowej.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws grube 8/205mm - czarne",
+                "description": "Kod produktu: 1009915 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 8 mm - materiał: 100% celuloza PEFC - kolor: czarne - waga: 280 g - opakowanie jednostkowe: kartonik 160 szt. - opakowaniu zbiorcze: karton 8 x 160 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.68,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009915-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009916",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS 6/205mm - czarne 250szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słomki papierowe to produkt jednorazowego użytku służący do spożywania napojów, dlatego najlepiej pasują do kategorii 'Naczynia jednorazowe' w sekcji zastawy stołowej.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws 6/205mm - czarne",
+                "description": "Kod produktu: 1009916 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 6 mm - materiał: 100% celuloza PEFC - kolor: czarny - waga: 340 g - opakowanie jednostkowe: kartonik 250 szt. - opakowaniu zbiorcze: karton 8 x 250 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009916-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]

@@ -6818,5 +6818,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to specjalistyczne patyczki dedykowane do produkcji waty cukrowej. Kategoria 'Maszyny do waty cukrowej' (5050) jest najbardziej specyficzną kategorią w całym drzewie powiązaną z tym niszowym produktem. W praktyce kategoryzacji na OLX, akcesoria i materiały eksploatacyjne do konkretnych maszyn (np. patyczki czy dedykowany cukier) są umieszczane w tej samej kategorii co same urządzenia ze względu na najwyższą trafność dla wyszukiwań użytkowników."
+    },
+    {
+        "ID_Produktu": "1009904",
+        "Nazwa_Produktu": "Czyściwo włókninowe przemysłowe bezpyłowe ProfiSauber BASIC 500",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Pozostałe",
+        "Finalne_ID_AI": 4275,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to czyściwo przemysłowe o specjalistycznych właściwościach (bezpyłowość, odporność na rozpuszczalniki, atest PZH), przeznaczone do profesjonalnych zastosowań w branżach takich jak farmacja, lakiernictwo, elektronika i poligrafia. Ze względu na swój charakter jako przemysłowy materiał eksploatacyjny (B2B), produkt najlepiej pasuje do głównego drzewa 'Firma i Przemysł' w kategorii 'Pozostałe', która jest standardowym miejscem dla tego typu artykułów profesjonalnych na OLX."
+    },
+    {
+        "ID_Produktu": "1009905",
+        "Nazwa_Produktu": "Czyściwo włókninowe przemysłowe ProfiSauber MAX 250",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne czyściwo włókninowe o przeznaczeniu przemysłowym (B2B). Zgodnie z zasadą wyboru najgłębszej kategorii, produkt najlepiej pasuje do sekcji 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe', ponieważ jest to specjalistyczny materiał eksploatacyjny wykorzystywany w profesjonalnym utrzymaniu czystości w zakładach przemysłowych, medycznych i branży HoReCa."
+    },
+    {
+        "ID_Produktu": "1009906",
+        "Nazwa_Produktu": "Czyściwo włókninowe przemysłowe chłonne ProfiSauber POWER 250",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Pozostałe",
+        "Finalne_ID_AI": 4275,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne czyściwo włókninowe o charakterze przemysłowym, przeznaczone dla zakładów farmaceutycznych, medycznych i lakierni. W drzewie kategorii OLX produkty eksploatacyjne o tak szerokim zastosowaniu profesjonalnym najlepiej pasują do kategorii 'Firma i Przemysł' (ID: 4269). Ze względu na brak dedykowanej podkategorii dla materiałów higienicznych w tej sekcji, właściwym wyborem jest kategoria 'Pozostałe' (ID: 4275)."
+    },
+    {
+        "ID_Produktu": "1009907",
+        "Nazwa_Produktu": "Czyściwo włókninowe przemysłowe bezpyłowe ProfiSauber BASIC 250",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Pozostałe",
+        "Finalne_ID_AI": 4275,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne czyściwo przemysłowe przeznaczone dla branż takich jak farmacja, medycyna czy lakiernictwo. Ze względu na jego wybitnie techniczny i biznesowy charakter, najlepiej pasuje do głównej kategorii 'Firma i Przemysł'. Ponieważ w tej sekcji nie ma dedykowanej kategorii na materiały eksploatacyjne, najbardziej odpowiednim liściem jest kategoria 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1009908",
+        "Nazwa_Produktu": "Czyściwo włókninowe przemysłowe bezpyłowe ProfiSauber BASIC PLUS 250",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Pozostałe",
+        "Finalne_ID_AI": 4275,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne czyściwo przemysłowe przeznaczone do użytku profesjonalnego w wielu branżach (farmacja, przemysł motoryzacyjny, elektronika). Ze względu na jego typowo techniczny i przemysłowy charakter, najlepiej pasuje do kategorii 'Firma i Przemysł'. Ponieważ w drzewie nie istnieje dedykowana kategoria dla przemysłowych materiałów eksploatacyjnych lub higienicznych, kategoria 'Pozostałe' w obrębie działu 'Firma i Przemysł' jest najbardziej adekwatnym wyborem dla tego typu asortymentu B2B."
+    },
+    {
+        "ID_Produktu": "1009909",
+        "Nazwa_Produktu": "Czyściwo włókninowe przemysłowe miękkie ProfiSauber SOFT 250",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to czyściwo włókninowe o charakterze przemysłowym, przeznaczone do użytku profesjonalnego (zakłady farmaceutyczne, medyczne, spożywcze). Ze względu na jego specjalistyczne i przemysłowe przeznaczenie, najlepiej pasuje do kategorii Firma i Przemysł, w sekcji sprzętu czyszczącego."
+    },
+    {
+        "ID_Produktu": "1009910",
+        "Nazwa_Produktu": "Czyściwo włókninowe przemysłowe wytrzymałe ProfiSauber STRONG 250",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Pozostałe",
+        "Finalne_ID_AI": 4275,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne czyściwo włókninowe o charakterze technicznym, dedykowane dla profesjonalnych zakładów przemysłowych, farmaceutycznych oraz lakierni. Ze względu na jego przemysłowe przeznaczenie (industrial wipes) i brak dedykowanej podkategorii dla materiałów eksploatacyjnych w dziale Firma i Przemysł, kategoria 'Pozostałe' w tym dziale jest najbardziej adekwatna."
     }
 ]
