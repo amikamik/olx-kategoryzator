@@ -6778,5 +6778,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to zblocze linowe o dużym udźwigu (10 ton), przeznaczone do współpracy z wyciągarkami elektrycznymi w warunkach przemysłowych, warsztatowych i magazynowych. Ze względu na specyfikację techniczną i profesjonalne zastosowanie, najlepiej pasuje do kategorii maszyn przemysłowych związanych z wciągarkami."
+    },
+    {
+        "ID_Produktu": "1009511",
+        "Nazwa_Produktu": "Patyczki do waty cukrowej bukowe 30cm/4mm z atestem PZH 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do waty cukrowej",
+        "Finalne_ID_AI": 5050,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne patyczki z atestem PZH przeznaczone wyłącznie do wytwarzania waty cukrowej. Kategoria 'Maszyny do waty cukrowej' jest najbardziej specyficzną i jedyną w drzewie bezpośrednio powiązaną z tym produktem, obejmującą zarówno urządzenia, jak i dedykowane do nich materiały eksploatacyjne."
+    },
+    {
+        "ID_Produktu": "1009713",
+        "Nazwa_Produktu": "Waga laboratoryjna precyzyjna z osłoną przeciwpodmuchową 500g / 0,01g",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga laboratoryjna o wysokiej precyzji (0,01g), co klasyfikuje ją jako urządzenie specjalistyczne. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Wagi' (ID: 4679) jest najbardziej odpowiednim miejscem dla profesjonalnych urządzeń ważących na OLX."
+    },
+    {
+        "ID_Produktu": "1009752",
+        "Nazwa_Produktu": "Podstawa do podnośnika samochodowego 2,5 T",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Wyposażenie warsztatów > Podnośniki samochodowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Podnośniki samochodowe",
+        "Finalne_ID_AI": 5170,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest specjalistycznym akcesorium do podnośników samochodowych, służącym zwiększeniu stabilności urządzenia. Najbardziej adekwatną i szczegółową kategorią jest ta dedykowana bezpośrednio podnośnikom samochodowym w sekcji wyposażenia warsztatów."
+    },
+    {
+        "ID_Produktu": "1009843",
+        "Nazwa_Produktu": "Patyczki do waty cukrowej bukowe 30cm/4mm z atestem PZH 200szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do waty cukrowej",
+        "Finalne_ID_AI": 5050,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne patyczki dedykowane do produkcji waty cukrowej. Kategoria 'Maszyny do waty cukrowej' (5050) jest najbardziej specyficzną kategorią w całym drzewie powiązaną z tym niszowym produktem. W praktyce kategoryzacji na OLX, akcesoria i materiały eksploatacyjne do konkretnych maszyn (np. patyczki czy dedykowany cukier) są umieszczane w tej samej kategorii co same urządzenia ze względu na najwyższą trafność dla wyszukiwań użytkowników."
     }
 ]

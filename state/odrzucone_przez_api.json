@@ -9604,5 +9604,117 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1009590",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. - brązowe 120L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to worki na śmieci przeznaczone do segregacji odpadów. W strukturze OLX akcesoria do gospodarowania odpadami, w tym worki i pojemniki, najlepiej pasują do kategorii 'Kosze na śmieci i pojemniki do segregacji', która znajduje się w sekcji Wyposażenie wnętrz/Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 50 mikr. wytrzymałe rolka 25szt. -",
+                "description": "Kod producenta: 1077-5 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wysokiej jakości, wytrzymałe worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 120 Rozmiary (mm) - 700 x 1100 Materiał: polietylen Grubość folii (m): 50 Kolor: brązowy Worki sprzedawane są w rolkach po 25szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-5-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-brazowe-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-5-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-5-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009876",
+        "Nazwa_Produktu": "Słomki papierowe BIO ekologiczne PAPER STRAWS 6/205mm - brązowe 500szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papierowe słomki do napojów, które ze względu na swój charakter najlepiej pasują do kategorii naczyń jednorazowych (Naczynia jednorazowe) w sekcji Zastawa stołowa.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Słomki papierowe bio ekologiczne paper straws 6/205mm - brązowe",
+                "description": "Kod produktu: 1009876 Najwyższej jakości słomki papierowe PAPER STRAWS produkowane w Europie z zachowaniem wszystkich standardów ekologicznych. Rurki papierowe do produkcji słomek wykonano z trzech warstw ekologicznego papieru spełniającego standardy PEFC. Cechy słomek papierowych PAPER STRAWS: - wykonane z najwyższej jakości ekologicznego papieru - w 100% biodegradowalne i kompostowalne - zanurzone w szklance nie wypływają na powierzchnię napoju - wytrzymują bez rozmiękania 120 minut - słomki przyjazne oceanom i zwierzętom morskim Parametry techniczne: - długość 205 mm - średnica rurki: 6 mm - materiał: 100% celuloza PEFC - kolor: brąz - waga: 610 g - opakowanie jednostkowe: worek foliowy 500 szt. - opakowaniu zbiorcze: karton 12 x 500 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 50.0,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1009876-slomki-papierowe-bio-ekologiczne-paper-straws-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/slomki-papierowe-rurki-do-drinkow-bio-eko-ekologiczne-hurtownia-zielona-gora-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]
