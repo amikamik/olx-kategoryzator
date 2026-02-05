@@ -10405,5 +10405,81 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1009922",
+        "Nazwa_Produktu": "Naczynia turystyczne ze sztućcami ZESTAW dla 2 osób.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Serwisy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Naczynia i sztućce turystyczne",
+        "Finalne_ID_AI": 3997,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw naczyń i sztućców turystycznych wykonanych z lekkiego aluminium, przeznaczony do campingu. Kategoria 'Naczynia i sztućce turystyczne' w sekcji Turystyka jest najbardziej specyficznym dopasowaniem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Naczynia turystyczne ze sztućcami zestaw dla 2 osób.",
+                "description": "Kod producenta: NA19001 Wysokiej jakości naczynia turystyczne czeskiego lidera w produkcji urządzeń i akcesorów turystycznych firmy MEVA istniejącej od 1898r. Bogaty zestaw turystyczny dla dwóch osób jest bardzo lekki ponieważ został wykonany z aluminium oraz posiada nieprzywierającą powłokę PTFE. Cechy: - bardzo lekki oraz małe kompaktowe rozmiary po złożeniu - nieprzywierająca powłoka PTFE - przeznaczony dla dwóch osób - miara pojemności w większym garnku - rączki posiadają silikonową powłokę chroniącą przed oparzeniem - garnki przeznaczone do kuchenek gazowych i elektrycznych Specyfikacja: - wymiary w stanie złożonym: średnica 195mm wysokość 125mm - waga całego zestawu: 570g - materiał naczyń: aluminium pokryte powłoką PTFE - sztućce wykonane z tworzywa odpornego na wysokie temperatury - sztućce mają długość 160mm - miska mniejsza: średnica wewnętrzna 175mm wysokość 55mm pojemność 0,85l - miska większa: średnica wewnętrzna 180mm wysokość 70mm pojemność 1,7l W zestawie: - garnek o pojemności 1,7 litra - garnek o pojemności 0,85 litra - 2 komplety nóż, widelec, łyżka - 2 szekle do połączenia sztućców - ściereczka - worek ochronny do transportu\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 3997,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 134.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/NA19001-zestaw-naczyn-garnkow-turystycznych-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/NA19001-4-akcesoria-turystyczne-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/NA19001-5-sprzet-turystyczny-meva-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/NA19001-6-naczynia-dla turysty-meva-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/NA19001-1-naczynia-garnki-turystyczne-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/NA19001-2-skladane-naczynia-garnki-turystyczne-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/NA19001-3-sztucce-turystyczne-niezbednik-turystyczny-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.3.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

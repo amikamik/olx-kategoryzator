@@ -6888,5 +6888,165 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to specjalistyczne czyściwo włókninowe o charakterze technicznym, dedykowane dla profesjonalnych zakładów przemysłowych, farmaceutycznych oraz lakierni. Ze względu na jego przemysłowe przeznaczenie (industrial wipes) i brak dedykowanej podkategorii dla materiałów eksploatacyjnych w dziale Firma i Przemysł, kategoria 'Pozostałe' w tym dziale jest najbardziej adekwatna."
+    },
+    {
+        "ID_Produktu": "1009941",
+        "Nazwa_Produktu": "Pokrywa głowicy maszyny do waty cukrowej Royal Catering",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do waty cukrowej",
+        "Finalne_ID_AI": 5050,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to część zamienna do profesjonalnej maszyny do waty cukrowej marki Royal Catering. Najbardziej precyzyjną kategorią w drzewie jest kategoria dedykowana tym konkretnym maszynom w sekcji Gastronomia (ID 5050), gdzie zgodnie z praktyką OLX umieszcza się również dedykowane akcesoria i części zamienne."
+    },
+    {
+        "ID_Produktu": "1009948",
+        "Nazwa_Produktu": "Papierowe patyczki do waty cukrowej 6/270mm - biało-czerwone 500szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do waty cukrowej",
+        "Finalne_ID_AI": 5050,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne patyczki do waty cukrowej, przeznaczone do użytku gastronomicznego (opakowanie 500 szt.). Najbardziej precyzyjną kategorią dla akcesoriów i materiałów eksploatacyjnych do waty cukrowej na OLX jest kategoria dedykowana tym maszynom w dziale Gastronomia."
+    },
+    {
+        "ID_Produktu": "1009972",
+        "Nazwa_Produktu": "Ociekacz ruszt stalowy do pojemników GN 1/1 Kitchen Line - HENDI 806197",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ociekacz/ruszt wykonany w profesjonalnym standardzie gastronomicznym GN (Gastro-Norm). Z opisu wynika, że jest przeznaczony do lokali i zakładów gastronomicznych, co klasyfikuje go w kategorii 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009973",
+        "Nazwa_Produktu": "Ociekacz ruszt stalowy do pojemników GN 2/3 Kitchen Line - HENDI 806296",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to ociekacz/ruszt do pojemników GN 2/3, które są standardowym wyposażeniem profesjonalnej gastronomii. Najlepiej pasuje do kategorii 'Pojemniki gastronomiczne' w sekcji 'Gastronomia' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009974",
+        "Nazwa_Produktu": "Ociekacz ruszt stalowy do pojemników GN 1/2 Kitchen Line - HENDI 806395",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to akcesorium (ruszt/ociekacz) do pojemników typu GN (Gastro Norm), które są standardem wykorzystywanym w profesjonalnej gastronomii. Kategoria 'Pojemniki gastronomiczne' w sekcji 'Gastronomia' pod 'Firma i Przemysł' jest najbardziej specyficznym i trafnym wyborem dla tego typu sprzętu przemysłowego."
+    },
+    {
+        "ID_Produktu": "1009976",
+        "Nazwa_Produktu": "Ociekacz ruszt stalowy do pojemników GN 1/4 Kitchen Line - HENDI 806593",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ruszt ociekowy do pojemników standardu GN (Gastro Norm), który jest wykorzystywany niemal wyłącznie w profesjonalnej gastronomii. Najdokładniejszą kategorią dla tego typu osprzętu jest 'Pojemniki gastronomiczne' w sekcji przemysłowej."
+    },
+    {
+        "ID_Produktu": "1009977",
+        "Nazwa_Produktu": "Ociekacz ruszt stalowy do pojemników GN 1/6 Kitchen Line - HENDI 806692",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ociekacz/ruszt dedykowany do pojemników standardu GN (Gastro Norm), które są podstawowym wyposażeniem w profesjonalnej gastronomii. Opis wyraźnie wskazuje na zastosowanie w lokalach gastronomicznych i urządzeniach typu bemar, co kwalifikuje go do kategorii 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009978",
+        "Nazwa_Produktu": "Pokrywka z uszczelką silikonową do pojemników GN 1/1 - HENDI 881804",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywka GN 1/1 marki Hendi, co jest standardowym wyposażeniem profesjonalnej gastronomii. Kategoria 'Pojemniki gastronomiczne' (5076) w sekcji 'Firma i Przemysł' jest bardziej adekwatna dla osprzętu typu Gastronorm niż ogólne pojemniki domowe."
+    },
+    {
+        "ID_Produktu": "1009979",
+        "Nazwa_Produktu": "Pokrywka z uszczelką silikonową do pojemników GN 1/2 - HENDI 881811",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna pokrywka do pojemników standardu Gastronorm (GN) marki Hendi, używanych głównie w branży gastronomicznej. W związku z tym kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1009980",
+        "Nazwa_Produktu": "Pokrywka z uszczelką silikonową do pojemników GN 1/3 - HENDI 881828",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna pokrywka w standardzie GN (Gastronorm), marki Hendi, przeznaczona do użytku w profesjonalnej gastronomii i cateringu, co czyni kategorię 'Pojemniki gastronomiczne' najbardziej precyzyjną."
+    },
+    {
+        "ID_Produktu": "1009981",
+        "Nazwa_Produktu": "Pokrywka do pojemników HACCP dla alergików GN 1/1 - fioletowa - HENDI 881705",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna pokrywka w standardzie gastronomicznym GN 1/1, przeznaczona do użytku w lokalach i zakładach gastronomicznych zgodnie z systemem HACCP. Najbardziej precyzyjną kategorią dla wyposażenia tego typu jest kategoria Pojemniki gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1009982",
+        "Nazwa_Produktu": "Pokrywka do pojemników HACCP dla alergików GN 1/2 - fioletowa - HENDI 881712",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna pokrywka w standardzie Gastronorm (GN 1/2) marki Hendi, przeznaczona do zastosowań przemysłowych w lokalach gastronomicznych i zakładach zbiorowego żywienia zgodnie z normami HACCP. Najbardziej precyzyjną kategorią jest 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009983",
+        "Nazwa_Produktu": "Pokrywka do pojemników HACCP dla alergików GN 1/3 - fioletowa - HENDI 881729",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne akcesorium kuchenne w standardzie GN (Gastro-Norm) z serii HACCP, przeznaczone do użytku w lokalach i zakładach gastronomicznych, co czyni kategorię 'Pojemniki gastronomiczne' najbardziej specyficzną i trafną."
+    },
+    {
+        "ID_Produktu": "1009984",
+        "Nazwa_Produktu": "Pokrywka do pojemników HACCP dla alergików GN 1/4 - fioletowa - HENDI 881736",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna pokrywka w standardzie GN (Gastro Norm) z serii HACCP, dedykowana dla lokali i zakładów gastronomicznych, co klasyfikuje ją bezpośrednio w kategorii wyposażenia profesjonalnej gastronomii."
+    },
+    {
+        "ID_Produktu": "1009985",
+        "Nazwa_Produktu": "Pokrywka do pojemników HACCP dla alergików GN 1/6 - fioletowa - HENDI 881743",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna pokrywka w standardzie GN (Gastro Norm) z oznaczeniem HACCP, przeznaczona do użytku w profesjonalnej gastronomii, co jednoznacznie wskazuje na kategorię Pojemniki gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1009986",
+        "Nazwa_Produktu": "Pokrywka do pojemników HACCP dla alergików GN 1/9 - fioletowa - HENDI 881750",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka w standardzie gastronomicznym GN (Gastro Norm) marki Hendi, przeznaczona do użytku profesjonalnego w lokalach gastronomicznych zgodnie z systemem HACCP, co jednoznacznie wskazuje na kategorię Pojemniki gastronomiczne w sekcji Firma i Przemysł."
     }
 ]
