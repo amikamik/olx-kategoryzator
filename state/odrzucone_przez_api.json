@@ -9380,5 +9380,229 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1008883",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej brązowy o smaku coca-coli 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to smakowy i kolorowy cukier do waty cukrowej, który ze względu na swoje specjalistyczne przeznaczenie cukiernicze oraz dodatki aromatyzujące i barwiące, jest klasyfikowany jako produkt z grupy słodyczy i deserów (4361), a nie jako podstawowy cukier kuchenny (4355).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej brązowy o smaku coca-coli 1kg",
+                "description": "ID produktu: 1008883 Kolorowy cukier do waty cukrowej brązowy o smaku coca-coli. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - silny aromat - intensywny kolor - naturalny smak Opakowanie cukru - zalety: - można piętrować - polepsza prezentację - ogranicza miejsce do przechowywania - chroni cukier przed wilgocią - ułatwia nabieranie cukru Skład: cukier, E110, E132, E124, mieszanina substancji aromatycznych, glukoza, E440 pektyna, maltodekstryna, E414 guma arabska. Trwałość od otwarcia 12 miesięcy Candyfloss cotton candy sugar brown coca-cola. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, flavouring, E124, E110, E132, E440, E414, pektin, maltodextrin, arabic gum. Zucker fr Zuckerwatte Braun Coca-Cola Geschmack. Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, Aroma, E124, E110, E132, E440, E414, Pektin, Maltodextrin, Gummi arabicum.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008883-kolorowy-cukier-do-waty-cukrowej-smakowy-o-smaku-coca-cola-coli-brazowa-wata-sloik-cena-tanio-hurtownia.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008883-kolorowy-smakowy-cukier-do-waty-cukrowej-brazowy-o-smaku-coca-coli-1kg-hurtownia-producent.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008886",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej niebieski o smaku czarnej porzeczki 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest aromatyzowanym cukrem spożywczym, który najlepiej pasuje do kategorii 'Słodycze, przekąski, desery' w dziale Supermarket.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej niebieski o smaku czarnej porzeczki",
+                "description": "ID produktu: 1008886 Kolorowy cukier do waty cukrowej niebieski o smaku czarnej porzeczki. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - silny aromat - intensywny kolor - naturalny smak Opakowanie cukru - zalety: - można piętrować - polepsza prezentację - ogranicza miejsce do przechowywania - chroni cukier przed wilgocią - ułatwia nabieranie cukru Skład: cukier, E133, mieszanina substancji aromatycznych, glukoza, E440 pektyna, maltodekstryna, E414 guma arabska. Trwałość od otwarcia 12 miesięcy Candyfloss cotton candy sugar blue blackcurrant. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, flavouring, E133, E440, E414, pektin, maltodextrin, arabic gum. Zucker fr Zuckerwatte Blau Schwarze Johannisbeere Geschmack. Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, Aroma, E133, E440, E414, Pektin, Maltodextrin, Gummi arabicum.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008886-smakowy-kolorowy-cukier-do-waty-cukrowej-niebieski-smerfowy-o-smaku-czarnej-porzeczki-1kg-hurtownia-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008886-smakowy-kolorowy-cukier-do-waty-cukrowej-niebieski-o-smaku-czarnej-porzeczki-1kg-hurtownia-producent.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008763-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008903",
+        "Nazwa_Produktu": "Pudełko kartonik na PopCorn 7x14.5x9cm ŚREDNI 0.75L 100szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania z tektury przeznaczone do serwowania żywności (popcornu). Kategoria 'Naczynia jednorazowe' (ID: 2154) jest najbardziej specyficznym i trafnym wyborem dla tego typu asortymentu, ponieważ produkt nie służy do długotrwałego przechowywania (jak sugerowałyby ogólne 'Pudełka' - ID: 2102), lecz do bezpośredniej konsumpcji i utylizacji.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pudełko kartonik na popcorn 7x14.5x9cm średni 0.75l 100szt.",
+                "description": "ID produktu: 1008903 Opakowanie na PopCorn wykonane ze sztywnej, litej bielonej tektury o gramaturze 230 G/m2. Posiada atest dopuszczający do kontaktu z żywnością. Pudełko na PopCorn wykonano w taki sposób aby po złożeniu było sztywne i wytrzymałe i zapewniało wysoką wygodę użytkowania. Białe wnętrze pudełka na PopCorn ma wysoką odporność na wchłanianie tłuszczu dzięki czemu na zewnątrz nie przedostają się plamy. Parametry pudełka: - Wysokość: 14,5 cm - Szerokość podstawy: 7 cm - Szerokość górnej krawędzi 9 cm - Pojemność: 0,75L - Materiał: lita, bielona tektura 230 G/m2 - Atest PZH: tak W zestawie: - 100 x pudełko na PopCorn o pojemności 0,75L\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 77.19,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008903-pudelko-kartonik-do-popcornu-srednie-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008903-pudelko-kartonik-do-popcornu-srednie-hurtownia-dystrybutor-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008900-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008904",
+        "Nazwa_Produktu": "Pudełko kartonik na PopCorn 7x11.5x9cm MAŁY 0.5L 100szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartonowe opakowania do popcornu, które są naczyniami jednorazowego użytku służącymi do serwowania żywności. Kategoria 'Naczynia jednorazowe' (ID: 2154) pod 'Zastawą stołową' jest najbardziej precyzyjnym wyborem dla tego typu asortymentu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pudełko kartonik na popcorn 7x11.5x9cm mały 0.5l 100szt.",
+                "description": "ID produktu: 1008904 Opakowanie na PopCorn wykonane ze sztywnej, litej bielonej tektury o gramaturze 230 G/m2. Posiada atest dopuszczający do kontaktu z żywnością. Pudełko na PopCorn wykonano w taki sposób aby po złożeniu było sztywne i wytrzymałe i zapewniało wysoką wygodę użytkowania. Białe wnętrze pudełka na PopCorn ma wysoką odporność na wchłanianie tłuszczu dzięki czemu na zewnątrz nie przedostają się plamy. Parametry pudełka: - Wysokość: 11.5 cm - Szerokość podstawy: 7 cm - Szerokość górnej krawędzi 9 cm - Pojemność: 0.5L - Materiał: lita, bielona tektura 230 G/m2 - Atest PZH: tak W zestawie: - 100 x pudełko na PopCorn o pojemności 0,5L\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2154,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 69.94,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008904-pudelko-kartonik-opakowanie-na-popcornu-male-hurtownia-dystrybutor-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008900-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]

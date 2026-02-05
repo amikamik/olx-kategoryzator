@@ -6688,5 +6688,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to listwa do bonowania (tab grabber) przeznaczona do użytku profesjonalnego w restauracjach i barach. Najbardziej precyzyjną kategorią dla wyposażenia zaplecza gastronomicznego, które nie jest konkretną maszyną, jest Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1008890",
+        "Nazwa_Produktu": "Przejściówka króciec 1/4'' L do podłączenia węża gazowego 8x15 mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest mosiężnym króćcem/złączką służącą do połączenia instalacji gazowej z urządzeniami. W drzewie kategorii OLX, tego typu elementy montażowe i przyłączeniowe najlepiej pasują do kategorii 'Rury, kształtki, złączki' w sekcji 'Instalacje > Hydraulika'."
+    },
+    {
+        "ID_Produktu": "1008902",
+        "Nazwa_Produktu": "Pudełko kartonik na PopCorn 7x22x10.5cm DUŻY 1.7L 100szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania do żywności sprzedawane w ilości hurtowej (100 szt.), co jednoznacznie klasyfikuje go jako asortyment dla branży gastronomicznej w kategorii Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1009052",
+        "Nazwa_Produktu": "Waga sklepowa handlowa cenowa czarna 30kg / 2g",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym urządzeniem pomiarowym przeznaczonym do użytku komercyjnego w placówkach handlowych (waga sklepowa/cenowa), co precyzyjnie odpowiada kategorii liścia 'Wagi' w sekcji 'Sklepy i magazyny' działu 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009053",
+        "Nazwa_Produktu": "Waga sklepowa handlowa cenowa biała 30kg / 2g",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga kalkulacyjna przeznaczona do użytku handlowego (sklepowego) i magazynowego, co bezpośrednio odpowiada kategorii 'Wagi' w sekcji 'Sklepy i magazyny' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009195",
+        "Nazwa_Produktu": "Bioalkohol bioetanol BIO paliwo do biokominka 5L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Kominki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Opał > Pozostałe",
+        "Finalne_ID_AI": 4551,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to bioetanol, który jest paliwem płynnym stosowanym w celach grzewczych i dekoracyjnych. W strukturze OLX materiały do spalania znajdują się w kategorii Dom i Ogród > Ogrzewanie > Opał. Ponieważ bioetanol nie jest drewnem, węglem, pelletem ani brykietem, najbardziej precyzyjną kategorią jest 'Pozostałe' w obrębie Opału."
+    },
+    {
+        "ID_Produktu": "1009194",
+        "Nazwa_Produktu": "Bioalkohol bioetanol BIO paliwo do biokominka 1L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Kominki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Opał > Pozostałe",
+        "Finalne_ID_AI": 4551,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to bioetanol, czyli paliwo płynne przeznaczone do spalania w biokominkach. Najbardziej dopasowaną kategorią dla materiałów opałowych jest 'Opał', a ze względu na brak dedykowanego liścia dla biopaliw płynnych, kategoria 'Pozostałe' w obrębie opału jest najdokładniejszym wyborem."
+    },
+    {
+        "ID_Produktu": "1009198",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej różowy naturalny smak waty cukrowej 400g",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to barwiony i aromatyzowany cukier przeznaczony do wyrobu waty cukrowej, co najlepiej pasuje do kategorii słodyczy i przekąsek w dziale Supermarket (Dom i Ogród)."
     }
 ]
