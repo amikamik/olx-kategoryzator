@@ -6018,5 +6018,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Ogranicznik parkingowy to produkt z grupy wyposażenia garażu i akcesoriów ułatwiających korzystanie z pojazdu. W drzewie kategorii najlepiej pasuje on do segmentu 'Wyposażenie i akcesoria samochodowe' (ID 4482), a ze względu na brak konkretnej podkategorii dla ograniczników, wybór pada na najbardziej specyficzny liść 'Pozostałe' (ID 4509) w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "1007649",
+        "Nazwa_Produktu": "Uchwyt ścienny do pojemnika na zużyte baterie leki i odpady medyczne KCA BOX 20L",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny, metalowy uchwyt ścienny przeznaczony do specjalistycznych pojemników (baterie, odpady medyczne). Ze względu na techniczny opis (numer producenta, materiał, waga) oraz przeznaczenie (odpady medyczne), produkt kwalifikuje się jako wyposażenie profesjonalne/przemysłowe. W drzewie kategorii OLX, sekcja 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej adekwatnym miejscem dla tego typu akcesoriów technicznych do organizacji przestrzeni magazynowej lub placówek medycznych."
+    },
+    {
+        "ID_Produktu": "1007656",
+        "Nazwa_Produktu": "Pompa membranowa do beczki do paliwa oleju 20L/min",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Zbiorniki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Kanistry, lejki i pompki do paliwa",
+        "Finalne_ID_AI": 4494,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczna pompa membranowa przeznaczona do przepompowywania paliw i olejów z beczek. Najbardziej precyzyjną kategorią w drzewie jest 4494 (Kanistry, lejki i pompki do paliwa), która bezpośrednio wymienia pompki do paliwa jako docelowy asortyment."
+    },
+    {
+        "ID_Produktu": "1007659",
+        "Nazwa_Produktu": "Słupek stalowy ocynkowany do kosza ulicznego na śmieci 60x1200mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to stalowy element konstrukcyjny przeznaczony do montażu w gruncie (zabetonowania). Ze względu na brak specyficznej kategorii dla infrastruktury miejskiej lub małej architektury, kategoria 'Dom i Ogród > Budowa > Pozostałe' jest najbardziej adekwatnym miejscem dla specjalistycznych materiałów budowlanych i montażowych."
+    },
+    {
+        "ID_Produktu": "1007666",
+        "Nazwa_Produktu": "Uchwyt ścienny na 1 butlę gazową mocowanie butli z gazem do ściany",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Pozostałe",
+        "Finalne_ID_AI": 5176,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Uchwyt ścienny na butle z gazami technicznymi to profesjonalny element wyposażenia miejsca pracy. Ze względu na materiały (blacha ocynkowana), specyfikację (gazy techniczne) oraz zastosowanie (bezpieczne przechowywanie w warsztatach), produkt ten najlepiej klasyfikuje się jako pozostałe wyposażenie warsztatów w kategorii Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1007667",
+        "Nazwa_Produktu": "Uchwyt ścienny na 2 butle gazowe mocowanie butli z gazem do ściany",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny uchwyt techniczny do bezpiecznego przechowywania butli z gazami (tzw. gazami technicznymi). Ze względu na profesjonalne przeznaczenie (magazyny, warsztaty) oraz formę (wieszak ścienny/stojak), produkt najlepiej pasuje do kategorii 'Stojaki i wieszaki' w dziale 'Sklepy i magazyny' w ramach sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1007668",
+        "Nazwa_Produktu": "Uchwyt ścienny na 3 butle gazowe mocowanie butli z gazem do ściany",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt ścienny przeznaczony do profesjonalnego przechowywania butli z gazami technicznymi. Najlepiej pasuje do kategorii 'Firma i Przemysł' w sekcji 'Sklepy i magazyny', a konkretnie do podkategorii 'Stojaki i wieszaki' (ID: 4678), ponieważ jest to element wyposażenia magazynowego/warsztatowego służący do organizacji i mocowania (wieszania/stawiania) ciężkich przedmiotów."
     }
 ]

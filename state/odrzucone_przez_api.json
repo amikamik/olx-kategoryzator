@@ -7977,5 +7977,114 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1007646",
+        "Nazwa_Produktu": "Pokrywa do pojemnika Rubbermaid SLIM JIM reg; czerwona",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywa do profesjonalnego pojemnika na odpady, który służy do segregacji (wskazano otwór na puszki/butelki). Najbardziej specyficzną kategorią opisującą ten przedmiot jest 'Kosze na śmieci i pojemniki do segregacji' (ID 2122), która mimo przypisania do przyborów kuchennych, jest standardowym miejscem kategoryzacji tego typu akcesoriów na OLX.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pokrywa do pojemnika rubbermaid slim jim reg; czerwona",
+                "description": "Numer producenta: 4829 Numer modelu: Rubbermaid FG269288 RED Rubbermaid to amerykańska firma , która od 1968 r. dostarcza najwyższej jakości rozwiązań w zakresie utylizacji odpadów . Firma produkuje wytrzymałe i funkcjonalne pojemniki do segregacji, kosze na śmieci oraz popielnice mające zastosowanie w wielu branżach. Pokrywka do pojemnika na śmieci SLIM JIM Rubbermaid - Kolorowe pokrywy umożliwiają łatwą segregację odpadów. - Kształt otworu pokrywy odpowiada charakterowi odpadu. - Pokrywy wykonane są w kolorach:niebieski,zielony,żółty. - Projekt tych pokrywek do pojemników zalecony do zastosowania w budynkach administracyjnych, handlowych,przemyśle lub gastronomi. Parametry: gł.wymiary (mm) - 520x290x70 kolor - czerwony kształt otworu w pokrywce odpowiedni do puszek/ butelek W zestawie: - Pokrywka do pojemnika na śmieci SLIM JIM Rubbermaid FG269288 RED\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Newell Europe Srl\nAdres: Chemin de Blandonnet 8, 1214, Vernier, Szwajcaria\nEmail: nan\nTelefon: +44(0)3444121192\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 110.87,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/4829-pokrywa-do-pojemnika-rubbermaid-slim-jim-czerwona.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/3051-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/logo-rubbermind.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1007647",
+        "Nazwa_Produktu": "Pokrywa do pojemnika Rubbermaid SLIM JIM reg; brązowa BIO",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywa do profesjonalnego pojemnika na odpady (BIO). Najbardziej odpowiednią kategorią są 'Kosze na śmieci i pojemniki do segregacji', która wprost opisuje przeznaczenie produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pokrywa do pojemnika rubbermaid slim jim reg; brązowa bio",
+                "description": "Numer producenta: 4830 Numer modelu: Rubbermaid FG268888 BRN Rubbermaid to amerykańska firma, która od 1968 r. dostarcza najwyższej jakości rozwiązań w zakresie utylizacji odpadów. Firma produkuje wytrzymałe i funkcjonalne pojemniki do segregacji, kosze na śmieci oraz popielnice mające zastosowanie w wielu branżach. Pokrywka do pojemnika na śmieci SLIM JIM Rubbermaid - Kolorowe pokrywy umożliwiają łatwą segregację odpadów. - Kształt otworu pokrywy odpowiada charakterowi odpadu. - Pokrywy wykonane są w różnych kolorach. - Projekt tych pokrywek do pojemników zalecony do zastosowania w budynkach administracyjnych, handlowych,przemyśle lub gastronomi. Parametry: gł.wymiary (mm) - 520x290x70 kolor - brązowa W zestawie: - Pokrywka do pojemnika na śmieci SLIM JIM Rubbermaid FG268888 BRN\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Newell Europe Srl\nAdres: Chemin de Blandonnet 8, 1214, Vernier, Szwajcaria\nEmail: nan\nTelefon: +44(0)3444121192\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 96.84,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/4830-pokrywa-do-pojemnika-rubbermaid-slim-jim-brazowa-bio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/logo-rubbermind.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]
