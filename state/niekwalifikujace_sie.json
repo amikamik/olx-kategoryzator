@@ -5978,5 +5978,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to techniczna część zamienna (uszczelka) do profesjonalnego urządzenia gastronomicznego (czekoladziarki) marki Royal Catering. Kategoria 'Części do maszyn i urządzeń' w dziale 'Firma i Przemysł' jest najbardziej trafnym wyborem dla specjalistycznych elementów serwisowych do maszyn profesjonalnych."
+    },
+    {
+        "ID_Produktu": "1007602",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 5szt. - czerwone 240L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Rolnictwo > Worki",
+        "Finalne_ID_AI": 4369,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to wytrzymałe worki na odpady o dużej pojemności (240L) i znacznej grubości (80 mikronów), przeznaczone do użytku w zakładach przemysłowych i warsztatach. W drzewie kategorii OLX, kategoria 'Rolnictwo > Worki' jest najbardziej specyficznym miejscem dla worków technicznych, gospodarczych i przemysłowych (innych niż torby modowe), co czyni ją najlepszym wyborem dla produktu o takim charakterze."
+    },
+    {
+        "ID_Produktu": "1007604",
+        "Nazwa_Produktu": "Zawór kran spustowy kranik do beczki otwór 2\" cale",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Instalacje > Hydraulika > Zawory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Zawory",
+        "Finalne_ID_AI": 3222,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zawór spustowy (kranik), który jest elementem instalacji hydraulicznej. Kategoria 'Zawory' w sekcji hydrauliki jest najbardziej precyzyjnym wyborem dla tego typu przedmiotu."
+    },
+    {
+        "ID_Produktu": "1007605",
+        "Nazwa_Produktu": "Zawór kran spustowy kranik do beczki otwór 3/4\" cala",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Instalacje > Hydraulika > Zawory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Zawory",
+        "Finalne_ID_AI": 3222,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zawór spustowy (kranik) o standardowym rozmiarze hydraulicznym 3/4 cala, co czyni kategorię 'Zawory' w sekcji 'Hydraulika' najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1007636",
+        "Nazwa_Produktu": "Ogranicznik separator parkingowy Car STOP żółty",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Ogranicznik parkingowy to produkt z grupy wyposażenia garażu i akcesoriów ułatwiających korzystanie z pojazdu. W drzewie kategorii najlepiej pasuje on do segmentu 'Wyposażenie i akcesoria samochodowe' (ID 4482), a ze względu na brak konkretnej podkategorii dla ograniczników, wybór pada na najbardziej specyficzny liść 'Pozostałe' (ID 4509) w tej gałęzi."
     }
 ]
