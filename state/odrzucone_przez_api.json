@@ -9035,5 +9035,350 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1008763",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej niebieski naturalny smak waty cukrowej 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Pozostałe dla dzieci",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Cukier i substancje słodzące",
+        "Finalne_ID_AI": 4355,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produktem jest barwiony i aromatyzowany cukier przeznaczony do automatów do waty cukrowej. Najbardziej precyzyjną kategorią dla tego typu artykułu spożywczego w drzewie kategorii OLX jest 'Cukier i substancje słodzące' (ID: 4355) w dziale Supermarket.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej niebieski naturalny smak waty",
+                "description": "ID produktu: 1008763 Kolorowy cukier do waty cukrowej niebieski naturalny smak waty cukrowej. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - silny aromat - intensywny kolor - naturalny smak Opakowanie cukru - zalety: - można piętrować - polepsza prezentację - ogranicza miejsce do przechowywania - chroni cukier przed wilgocią - ułatwia nabieranie cukru Skład : cukier, E-133. Termin przydatności do spożycia 2 lata. Candyfloss cotton candy sugar blue plain . Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, E-133. Zucker fr Zuckerwatte Blau Ohne Geschmack . Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, Aroma, E-133\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4355,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008763-kolorowy-niebieski-cukier-do-waty-cukrowej-1kg-tania-wata-cukrowa-hurtownia-producent-cena-naturalny.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008763-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008763-5902578450315-kolorowy-cukier-do-waty-cukrowej-candy-floss-sugar-producent-hurtownia.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008870",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej różowy o smaku arbuzowym 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to smakowy i barwiony cukier dedykowany do wyrobu waty cukrowej, co kwalifikuje go jako produkt z kategorii słodyczy i deserów, a nie jako standardowy cukier spożywczy lub słodzik.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej różowy o smaku arbuzowym 1kg",
+                "description": "ID produktu: 1008870 Kolorowy cukier do waty cukrowej różowy o smaku arbuzowym. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - Silny aromat - Intensywny kolor - Naturalny smak Opakowanie cukru - zalety: - Można piętrować - Polepsza prezentację - Ogranicza miejsce do przechowywania - Chroni cukier przed wilgocią - Ułatwia nabieranie cukru Skład: cukier, E122, mieszanina substancji aromatycznych, glukoza, E440 pektyna, maltodekstryna, E414 guma arabska. Trwałość od otwarcia 2 lata. Candyfloss cotton candy sugar pink watermelon. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, flavouring, E122, E440, E414, pektin, maltodextrin, arabic gum. Zucker fr Zuckerwatte Pink Wassermelone Geschmack. Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, Aroma, E122, E440, E414, Pektin, Maltodextrin, Gummi arabicum. W zestawie: - Kolorowy cukier do waty cukrowej różowy o smaku arbuzowym 1 kg\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008870-kolorowy-cukier-do-waty-cukrowej-smakowy-o-smaku-arbuzowym-rozowy-arbuz-sloik-cena-tanio-hurtownia.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008870-kolorowy-cukier-do-waty-cukrowej-rozowy-o-smaku-arbuzowym-1kg-hurtownia-producent.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008757-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008872",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej żółty o smaku gumy balonowej 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to aromatyzowany cukier przeznaczony do wyrobu waty cukrowej. Na platformie OLX takie produkty są klasyfikowane w kategorii 'Słodycze, przekąski, desery', ponieważ stanowią artykuły cukiernicze i półprodukty do przygotowania słodkich przekąsek.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej żółty o smaku gumy balonowej 1kg",
+                "description": "ID produktu: 1008872 Kolorowy cukier do waty cukrowej żółty o smaku gumy balonowej. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - silny aromat - intensywny kolor - naturalny smak Opakowanie cukru - zalety: - można piętrować - polepsza prezentację - ogranicza miejsce do przechowywania - chroni cukier przed wilgocią - ułatwia nabieranie cukru Skład: cukier, E102, mieszanina substancji aromatycznych, glukoza, E440 pektyna, maltodekstryna, E414 guma arabska. Trwałość od otwarcia 12 miesięcy Candyfloss cotton candy sugar yellow bubble gum. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, flavouring, E102, E440, E414, pektin, maltodextrin, arabic gum. Zucker fr Zuckerwatte Gelb Bubble-Gum Geschmack. Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, Aroma, E102, E440, E414, Pektin, Maltodextrin, Gummi arabicum.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008872-kolorowy-smakowy-cukier-do-waty-cukrowej-zolty-o-smaku-gumy-balonowej-1kg-hurtownia-producent-gsg24.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008872-kolorowy-cukier-do-waty-cukrowej-zolty-o-smaku-gumy-balonowej-1kg-hurtownia-producent.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008758-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008876",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej zielony naturalny smak waty cukrowej 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Pozostałe dla dzieci",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Cukier i substancje słodzące",
+        "Finalne_ID_AI": 4355,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to cukier spożywczy (barwiony i aromatyzowany) o masie 1kg. W drzewie kategorii OLX najbardziej precyzyjnym miejscem dla tego typu produktów spożywczych jest kategoria 'Cukier i substancje słodzące' znajdująca się w sekcji 'Supermarket'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej zielony naturalny smak waty",
+                "description": "ID produktu: 1008876 Kolorowy cukier do waty cukrowej zielony naturalny smak waty cukrowej. Barwiony cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - silny aromat - intensywny kolor - naturalny smak Opakowanie cukru - zalety: - można piętrować - polepsza prezentację - ogranicza miejsce do przechowywania - chroni cukier przed wilgocią - ułatwia nabieranie cukru Skład: cukier, E102, E133. Trwałość od otwarcia 12 miesięcy Candyfloss cotton candy sugar green plain. Coloured sugar. Ready to use in candy floss maker. Ingredients : sugar, E102, E133. Zucker fr Zuckerwatte Grn Ohne Geschmack. Der farbige Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, E102, E133.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4355,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008876-kolorowy-cukier-do-waty-cukrowej-zielony-natruralny-smak-1kg-hurtownia-producent-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008876-smakowy-kolorowy-cukier-do-waty-cukrowej-zielony-natruralny-smak-1kg-hurtownia-producent.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008878",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej zielony o smaku kiwi 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to aromatyzowany i barwiony cukier przeznaczony bezpośrednio do produkcji waty cukrowej, co kwalifikuje go do kategorii słodyczy i przekąsek w dziale Supermarket.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej zielony o smaku kiwi 1kg",
+                "description": "ID produktu: 1008878 Kolorowy cukier do waty cukrowej zielony o smaku kiwi. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - silny aromat - intensywny kolor - naturalny smak Opakowanie cukru - zalety: - można piętrować - polepsza prezentację - ogranicza miejsce do przechowywania - chroni cukier przed wilgocią - ułatwia nabieranie cukru Skład: cukier, E102, E133, mieszanina substancji aromatycznych, glukoza, E440 pektyna, maltodekstryna, E414 guma arabska. Termin przydatności do spożycia 2 lata. Candyfloss cotton candy sugar green kiwi. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, flavouring, E102, E133, E440, E414, pektin, maltodextrin, arabic gum. Zucker fr Zuckerwatte Grn Kiwi Geschmack. Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, Aroma, E102, E133, E440, E414, Pektin, Maltodextrin, Gummi arabicum.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008878-smakowy-kolorowy-cukier-do-waty-cukrowej-zielony-o-smaku-kiwi-1kg-hurtownia-producent.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008878-smakowy-kolorowy-cukier-do-waty-cukrowej-zielony-o-smaku-kiwiowym-1kg-hurtownia-producent.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008879",
+        "Nazwa_Produktu": "Kolorowy cukier do waty cukrowej zielony o smaku jabłkowym 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Słodycze, przekąski, desery",
+        "Finalne_ID_AI": 4361,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to smakowy i barwiony cukier przeznaczony do produkcji waty cukrowej, co kwalifikuje go do kategorii słodyczy i deserów w sekcji supermarketu. Jest to gotowy komponent cukierniczy o charakterze przekąskowym.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kolorowy cukier do waty cukrowej zielony o smaku jabłkowym 1kg",
+                "description": "ID produktu: 1008879 Kolorowy cukier do waty cukrowej zielony o smaku jabłkowym. Barwiony i aromatyzowany cukier. Gotowy do użycia w maszynach do wyrobu waty z cukru. Najwyższa jakość - 20 LAT DOŚWIADCZENIA w produkcji waty cukrowej oraz kolorowego cukru do waty. Cechy naszego cukru : - silny aromat - intensywny kolor - naturalny smak Opakowanie cukru - zalety: - można piętrować - polepsza prezentację - ogranicza miejsce do przechowywania - chroni cukier przed wilgocią - ułatwia nabieranie cukru Skład: cukier, E102, E133, mieszanina substancji aromatycznych, glukoza, E440 pektyna, maltodekstryna, E414 guma arabska. Termin przydatności do spożycia 2 lata. Candyfloss cotton candy sugar green apple. Coloured and flavoured sugar. Ready to use in candy floss maker. Ingredients : sugar, flavouring, E102, E133, E440, E414, pektin, maltodextrin, arabic gum. Zucker fr Zuckerwatte Grn Apfel Geschmack. Der farbige und aromatisierte Zucker fr produktion Zuckerwatte in alle Zuckerwattemaschinen. Zutaten : Zucker, Aroma, E102, E133, E440, E414, Pektin, Maltodextrin, Gummi arabicum.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 4361,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008879-smakowy-kolorowy-cukier-barwiony-do-waty-cukrowej-zielony-o-smaku-jablkowym-1kg-hurtownia-producent-cena.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008879-smakowy-kolorowy-cukier-do-waty-cukrowej-zielony-o-smaku-jablkowym-1kg-hurtownia-producent.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/kolorowy-cukier-do-waty-cukrowej-producent-hurtownia-zielona-gora.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]

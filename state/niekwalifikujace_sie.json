@@ -6648,5 +6648,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to zasilacz/ładowarka sieciowa będąca częścią zamienną do wag przemysłowych/paczkowych marki Steinberg Systems. Ze względu na profesjonalny charakter urządzenia, do którego jest przeznaczony, najbardziej trafną kategorią jest 'Części do maszyn i urządzeń' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1008767",
+        "Nazwa_Produktu": "Termobox pudełko termiczne termos do transportu żywności GN 1/1",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik termoizolacyjny (termobox) w standardzie GN 1/1, który w opisie jest wyraźnie dedykowany dla branży gastronomii i cateringu do transportu żywności. Dlatego kategoria w sekcji 'Firma i Przemysł' jest bardziej odpowiednia niż kategorie domowe."
+    },
+    {
+        "ID_Produktu": "1008785",
+        "Nazwa_Produktu": "Listwa do bonowania na zamówienia stalowa 50cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym elementem wyposażenia zaplecza kuchennego w gastronomii (listwa do bonowania), służącym do organizacji zamówień w restauracjach, barach i hotelach. Najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe, ponieważ jest to sprzęt specjalistyczny, a nie dekoracyjny element wyposażenia wnętrz."
+    },
+    {
+        "ID_Produktu": "1008786",
+        "Nazwa_Produktu": "Listwa do bonowania na zamówienia stalowa 80cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to listwa do bonowania, która jest profesjonalnym narzędziem wykorzystywanym w gastronomii (restauracjach, barach) do organizacji zamówień. Najbardziej adekwatną ścieżką w drzewie kategorii OLX jest 'Firma i Przemysł > Gastronomia'. Ze względu na brak specyficznej podkategorii dla akcesoriów organizacyjnych, wybór padł na kategorię-liść 'Pozostałe' w obrębie działu Gastronomia."
+    },
+    {
+        "ID_Produktu": "1008787",
+        "Nazwa_Produktu": "Listwa do bonowania na zamówienia stalowa 100cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to listwa do bonowania (tab grabber) przeznaczona do użytku profesjonalnego w restauracjach i barach. Najbardziej precyzyjną kategorią dla wyposażenia zaplecza gastronomicznego, które nie jest konkretną maszyną, jest Firma i Przemysł > Gastronomia > Pozostałe."
     }
 ]
