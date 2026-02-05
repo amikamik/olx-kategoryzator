@@ -5848,5 +5848,135 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to sitko do tzw. wilka, czyli profesjonalnej maszynki do mięsa stosowanej w gastronomii. Użycie terminologii 'wilk', podanie konkretnego numeru modelu producenta (Hendi/Top Line) oraz wzmianka o deklaracji CE niezbędnej dla Sanepidu jednoznacznie wskazują na profesjonalny sprzęt gastronomiczny, a nie standardowe AGD domowe. Najbardziej dopasowaną kategorią specjalistyczną jest 'Maszyny do mięsa' w dziale 'Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1006112",
+        "Nazwa_Produktu": "Tacka podstawka ociekowa do warników podgrzewaczy do wody i napojów",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to tacka ociekowa do warnika, który jest profesjonalnym urządzeniem stosowanym głównie w branży gastronomicznej (klasyfikowanym w ID 5067). Ponieważ produkt jest akcesorium/częścią zamienną do konkretnego urządzenia gastronomicznego, kategoria 'Pozostałe' w obrębie działu Gastronomia jest najbardziej adekwatna."
+    },
+    {
+        "ID_Produktu": "1006681",
+        "Nazwa_Produktu": "Grzałka do frytownicy Royal Catering RCEF 13E/D-EG",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to grzałka będąca częścią zamienną do profesjonalnej frytownicy marki Royal Catering. Ze względu na gastronomiczne i komercyjne przeznaczenie urządzenia (duża moc 3250W, zgodność z Sanepidem), produkt kwalifikuje się do kategorii 'Części do maszyn i urządzeń' w dziale 'Firma i Przemysł', a nie do domowego AGD."
+    },
+    {
+        "ID_Produktu": "1006790",
+        "Nazwa_Produktu": "Ring powiększający do termoboxu pudełka termicznego ze stryropianu 580x380x90mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym akcesorium do termoboxów (pojemników termoizolacyjnych) służących do transportu i przechowywania żywności, co potwierdza atest PZH oraz numer katalogowy producenta. Najbardziej precyzyjną kategorią dla wyposażenia cateringowego i transportu żywności są 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1006791",
+        "Nazwa_Produktu": "Termobox pudełko termiczne styropianowe z pokrywką atest PZH 580x380x285mm 32L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny termobox styropianowy z atestem PZH, przeznaczony do bezpiecznego transportu i magazynowania żywności w izolacji termicznej, co jednoznacznie klasyfikuje go jako pojemnik gastronomiczny."
+    },
+    {
+        "ID_Produktu": "1006796",
+        "Nazwa_Produktu": "Termobox pudełko termos pojemnik termiczny z pokrywką do żywności leków 600x400x166mm 23L GN1/1",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny termobox przeznaczony do transportu w gastronomii i cateringu, dostosowany do standardu wymiarowego GN1/1, co klasyfikuje go do kategorii specjalistycznych pojemników gastronomicznych."
+    },
+    {
+        "ID_Produktu": "1006797",
+        "Nazwa_Produktu": "Termobox pudełko termos pojemnik termiczny z pokrywką do żywności leków 600x400x296mm GN1/1 48L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny termobox o standardzie GN1/1, przeznaczony do transportu i przechowywania żywności w gastronomii i cateringu, co jednoznacznie klasyfikuje go jako specjalistyczny pojemnik gastronomiczny."
+    },
+    {
+        "ID_Produktu": "1006813",
+        "Nazwa_Produktu": "Aceton rozpuszczalnik zmywacz A-MAX 1L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to aceton techniczny opisany jako środek do rozcieńczania farb, lakierów oraz czyszczenia pędzli i narzędzi, co klasyfikuje go jako akcesorium malarskie w kategorii Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "1006814",
+        "Nazwa_Produktu": "Aceton rozpuszczalnik zmywacz A-MAX 5L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalne_ID_AI": 3252,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany głównie jako rozpuszczalnik i rozcieńczalnik do farb oraz lakierów, a także środek do czyszczenia pędzli i narzędzi malarskich. W drzewie kategorii najlepiej odpowiada to kategorii 'Akcesoria malarskie' w sekcji 'Wykończenie wnętrz > Malowanie'."
+    },
+    {
+        "ID_Produktu": "1006819",
+        "Nazwa_Produktu": "Ksylen rozpuszczalnik rozcieńczalnik organiczny do farb i lakierów K-MAX 5L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalne_ID_AI": 3252,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rozpuszczalnik organiczny przeznaczony do rozcieńczania farb i lakierów oraz czyszczenia narzędzi malarskich. W strukturze OLX takie preparaty chemiczne wspomagające proces malowania są klasyfikowane w kategorii 'Akcesoria malarskie' w sekcji wykończenia wnętrz."
+    },
+    {
+        "ID_Produktu": "1006827",
+        "Nazwa_Produktu": "Rozcieńczalnik rozpuszczalnik NITRO RC-01 N-MAX 1L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Instalacje > Elektryka > Zabezpieczenia i rozdzielnice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalne_ID_AI": 3252,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rozpuszczalnik nitro przeznaczony do rozcieńczania farb i lakierów oraz czyszczenia narzędzi malarskich, co czyni go akcesorium malarskim w kategorii Wykończenie wnętrz."
+    },
+    {
+        "ID_Produktu": "1007297",
+        "Nazwa_Produktu": "Stojak stelaż na walizki torby podróżne bagaż składany do 50kg 440x560x670mm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Walizki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny stojak bagażowy marki Royal Catering, przeznaczony do użytku komercyjnego w hotelach i pensjonatach. Ze względu na jego biznesowy charakter (B2B) oraz formę (składany stojak), kategoria 'Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki' jest najbardziej precyzyjnym dopasowaniem pod względem typu przedmiotu i profesjonalnego przeznaczenia."
+    },
+    {
+        "ID_Produktu": "1003360",
+        "Nazwa_Produktu": "Pojemnik GN 1/1 wys. 150 mm ze stali nierdzewnej - Hendi 800140",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik standardu Gastronorm (GN), przeznaczony do użytku komercyjnego w restauracjach, barach i bemarach, co sprawia, że kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej precyzyjna."
+    },
+    {
+        "ID_Produktu": "1007281",
+        "Nazwa_Produktu": "Uszczelka kranu czekoladziarki Royal Catering RCSS-10 średnica wew. 27mm zew. 37mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to techniczna część zamienna (uszczelka) do profesjonalnego urządzenia gastronomicznego (czekoladziarki) marki Royal Catering. Kategoria 'Części do maszyn i urządzeń' w dziale 'Firma i Przemysł' jest najbardziej trafnym wyborem dla specjalistycznych elementów serwisowych do maszyn profesjonalnych."
     }
 ]
