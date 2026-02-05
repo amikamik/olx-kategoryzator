@@ -7078,5 +7078,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt marki Hendi z systemem kodowania kolorami HACCP jest specjalistycznym przyborem używanym w profesjonalnych kuchniach komercyjnych w celu zachowania norm bezpieczeństwa żywności. Najbardziej trafną kategorią dla profesjonalnych akcesoriów kuchennych tego typu jest ścieżka: Firma i Przemysł > Gastronomia > Pozostałe (ID: 5071)."
+    },
+    {
+        "ID_Produktu": "1010016",
+        "Nazwa_Produktu": "Dyspenser butelka do zimnych sosów zestaw 3szt. - przeźroczysty 0.2L - HENDI 558058",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny zestaw dyspenserów do sosów marki Hendi, który w opisie jest wprost określany jako element wyposażenia punktów gastronomicznych (restauracji, pizzerii), co najlepiej odpowiada kategorii Pojemniki gastronomiczne."
+    },
+    {
+        "ID_Produktu": "1010019",
+        "Nazwa_Produktu": "Dyspenser butelka do zimnych sosów zestaw 3szt. - przeźroczysty 0.35L - HENDI 557853",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalny osprzęt przeznaczony dla branży gastronomicznej (restauracji, barów), co jednoznacznie wskazuje na kategorię Pojemniki gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1010038",
+        "Nazwa_Produktu": "Pokrywka do kuwety pojemnika do lodów okrągła śr. 190mm - HENDI 802076",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do profesjonalnej kuwety na lody marki Hendi. Ze względu na przeznaczenie produktu do użytku profesjonalnego w branży spożywczej, najlepiej pasuje kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1010039",
+        "Nazwa_Produktu": "Kuweta pojemnik do lodów stalowy okrągły śr. 190mm poj. 7.3L - HENDI 802083",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik (kuweta) do lodów marki Hendi, wykonany ze stali nierdzewnej. Jest to typowe wyposażenie profesjonalne, dlatego kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł' jest najbardziej precyzyjna."
     }
 ]
