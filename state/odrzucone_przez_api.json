@@ -7660,5 +7660,111 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1005873",
+        "Nazwa_Produktu": "Wiaderko miniaturowe z uchwytem do przekąsek ze stali nierdzewnej śr. 87mm - Hendi 426364",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Miski",
+        "Finalne_ID_AI": 2153,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to miniaturowe naczynie służące do serwowania jedzenia (przekąsek). W strukturze OLX najlepiej pasuje do kategorii 'Zastawa stołowa', a ze względu na swój kształt i funkcję otwartego naczynia na porcje żywności, kategoria 'Miski' jest najbardziej specyficznym wyborem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wiaderko miniaturowe z uchwytem do przekąsek ze stali nierdzewnej",
+                "description": "Numer producenta: 426364 Wiaderko do przekąsek - Wykonane ze stali nierdzewnej - Można myć w zmywarkach Parametry: - wymiary: śr. 87x(H)93mm W zestawie: - Wiaderko do przekąsek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2153,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.4,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/426364-wiaderko-miniaturowe-z-uchwytem-do-przekasek-ze-stali-nierdzewnej-sr-87mm-hendi-426364.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/426357-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1005874",
+        "Nazwa_Produktu": "Wiaderko miniaturowe z uchwytem do przekąsek ze stali nierdzewnej śr. 125mm - Hendi 426371",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne naczynie do serwowania przekąsek marki Hendi. Ze względu na nietypową formę (miniaturowe wiaderko), produkt najlepiej pasuje do kategorii 'Pozostałe' w obrębie przyborów kuchennych, co jest również zgodne z sugestią systemu OLX.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wiaderko miniaturowe z uchwytem do przekąsek ze stali nierdzewnej",
+                "description": "Numer producenta: 426371 Wiaderko do przekąsek - Wykonane ze stali nierdzewnej - Można myć w zmywarkach Parametry: - wymiary: śr. 125x(H)27mm W zestawie: - Wiaderko do przekąsek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2127,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 45.11,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/426371-wiaderko-miniaturowe-z-uchwytem-do-przekasek-ze-stali-nierdzewnej-sr-125mm-hendi-426371.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/426357-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]
