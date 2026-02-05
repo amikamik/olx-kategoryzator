@@ -6078,5 +6078,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to uchwyt ścienny przeznaczony do profesjonalnego przechowywania butli z gazami technicznymi. Najlepiej pasuje do kategorii 'Firma i Przemysł' w sekcji 'Sklepy i magazyny', a konkretnie do podkategorii 'Stojaki i wieszaki' (ID: 4678), ponieważ jest to element wyposażenia magazynowego/warsztatowego służący do organizacji i mocowania (wieszania/stawiania) ciężkich przedmiotów."
+    },
+    {
+        "ID_Produktu": "1007874",
+        "Nazwa_Produktu": "Kółko do krzesła siodłowego PHYSA Comfort i Relaxy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Krzesła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kółko będące częścią zamienną do krzesła siodłowego, co klasyfikuje go jako element składowy mebla w kategorii 'Akcesoria meblowe'."
+    },
+    {
+        "ID_Produktu": "1007950",
+        "Nazwa_Produktu": "Ręczna maszynka urządzenie do makaronu tagliatelle fettuccine do 140mm Hendi 224830",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wałkownice",
+        "Finalne_ID_AI": 5066,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczna maszynka do makaronu służąca do wałkowania i cięcia ciasta. Ponieważ jest to produkt marki Hendi (producenta wyposażenia dla profesjonalnej gastronomii), najbardziej specyficzną kategorią jest 'Wałkownice' w dziale 'Gastronomia'."
     }
 ]
