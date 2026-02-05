@@ -6388,5 +6388,105 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt marki Hendi jest profesjonalnym sprzętem przeznaczonym dla sektora horeca (restauracje, hotele), co kwalifikuje go do kategorii 'Firma i Przemysł'. Choć tytuł używa słowa 'miska', naczynie do paelli o średnicy 185 mm jest w rzeczywistości małą patelnią gastronomiczną służącą do przygotowywania i serwowania potraw."
+    },
+    {
+        "ID_Produktu": "1008393",
+        "Nazwa_Produktu": "Ekspozytor stojak do 7 kanapek hot dogów perforowany Hendi 808269",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny ekspozytor bufetowy marki Hendi, przeznaczony do komercyjnej prezentacji żywności. Ze względu na markę specjalizującą się w sprzęcie profesjonalnym oraz wymiary i funkcję produktu (ekspozycja w punktach sprzedaży), najlepiej pasuje on do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1008401",
+        "Nazwa_Produktu": "Tarcza do szatkownicy krajalnicy do frytek pasków 8mm TOP LINE 300 Hendi 234310",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza tnąca do profesjonalnej szatkownicy gastronomicznej marki Hendi (model Top Line 300). Ze względu na profesjonalne, przemysłowe przeznaczenie marki Hendi, najwłaściwszą kategorią jest 'Szatkownice' w dziale 'Gastronomia' wewnątrz kategorii 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1008426",
+        "Nazwa_Produktu": "Tarcza do szatkownicy krajalnicy TOP LINE 300 600 800 do plastrów karbowanych 6mm Hendi 234167",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza tnąca przeznaczona do profesjonalnej szatkownicy gastronomicznej marki Hendi. Ze względu na przeznaczenie produktu dla sektora B2B (gastronomia) oraz specyfikę marki, najbardziej odpowiednią kategorią jest Firma i Przemysł > Gastronomia > Szatkownice."
+    },
+    {
+        "ID_Produktu": "1008427",
+        "Nazwa_Produktu": "Tarcza do szatkownicy krajalnicy TOP LINE 300 600 800 do plastrów karbowanych 8mm Hendi 234174",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza do profesjonalnej szatkownicy gastronomicznej marki Hendi. Najbardziej precyzyjną kategorią dla urządzeń tego typu oraz ich dedykowanych akcesoriów w sekcji dla firm jest 'Firma i Przemysł > Gastronomia > Szatkownice' (ID: 5063)."
+    },
+    {
+        "ID_Produktu": "1008499",
+        "Nazwa_Produktu": "Taca aluminiowa GN 1/1 z formami okręgami 125mm 530x325mm Hendi 808740",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taca w standardzie gastronomicznym GN 1/1 marki Hendi. Oznaczenie GN (Gastro Norm) oraz marka producenta wskazują na przeznaczenie dla sektora B2B (gastronomia profesjonalna), dlatego kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej adekwatna."
+    },
+    {
+        "ID_Produktu": "1008522",
+        "Nazwa_Produktu": "Pojemnik na ciasto do pizzy 24L Hendi 880920",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi, o dużej pojemności (24L) i wymiarach standardowych dla gastronomii (600x400 mm), jest typowym wyposażeniem profesjonalnej kuchni. Najlepiej pasuje do kategorii Pojemniki gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1008523",
+        "Nazwa_Produktu": "Pokrywka do pojemników na ciasto do pizzy 600x400mm Hendi 880968",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi o profesjonalnych wymiarach (600x400mm) jest przeznaczony do użytku w gastronomii (pizzerie), dlatego kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest bardziej odpowiednia niż ogólne przechowywanie żywności w domu."
+    },
+    {
+        "ID_Produktu": "1008533",
+        "Nazwa_Produktu": "Końcówka do szczotki zapasowa do pieca do pizzy pionowa 170x55mm Lilly Codroipo Hendi 525654",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna część zamienna (końcówka szczotki) do czyszczenia pieców do pizzy marki Hendi, która specjalizuje się w wyposażeniu gastronomicznym. Najbardziej odpowiednią kategorią dla specjalistycznych akcesoriów i drobnych narzędzi profesjonalnych jest 'Firma i Przemysł > Gastronomia > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1008535",
+        "Nazwa_Produktu": "Końcówka do szczotki zapasowa do pieca do pizzy zaokrąglona 150x55mm Lilly Codroipo Hendi 525692",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zapasowa końcówka do specjalistycznej szczotki używanej do czyszczenia pieców do pizzy. Marka Hendi jest znanym producentem wyposażenia dla profesjonalnej gastronomii, dlatego produkt najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe, która grupuje drobne akcesoria i przybory gastronomiczne."
+    },
+    {
+        "ID_Produktu": "1008537",
+        "Nazwa_Produktu": "Zapasowa końcówka do szczotki do pieca do pizzy z naturalnym twardym włosiem 220x70mm Lilly Codroipo Hendi 525678",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne akcesorium gastronomiczne (zapasowa głowica szczotki do czyszczenia pieców do pizzy) marki Hendi. Ze względu na specjalistyczne zastosowanie w branży restauracyjnej i cateringowej, produkt najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
     }
 ]
