@@ -6488,5 +6488,155 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalne akcesorium gastronomiczne (zapasowa głowica szczotki do czyszczenia pieców do pizzy) marki Hendi. Ze względu na specjalistyczne zastosowanie w branży restauracyjnej i cateringowej, produkt najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1008563",
+        "Nazwa_Produktu": "Szczotka skrobak druciak do czyszczenia grilla Hendi 525418",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest specjalistycznym akcesorium do czyszczenia i konserwacji grilla. W strukturze kategorii OLX najbardziej odpowiednim i najgłębszym miejscem dla tego typu przedmiotów jest kategoria 'Grill' w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "1008564",
+        "Nazwa_Produktu": "Element chłodzący GN 1/1 do pojemnika termoizolacyjnego do -18C Hendi 707821",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym wkładem chłodzącym w standardzie gastronomicznym GN 1/1, dedykowanym do pojemników termoizolacyjnych. Ze względu na standard GN i przeznaczenie dla branży cateringowej, najlepiej pasuje do kategorii 'Pojemniki gastronomiczne' w sekcji 'Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1008565",
+        "Nazwa_Produktu": "Adapter do elementu chłodzącego GN 1/1 do pojemnika termoizolacyjnego Hendi 707814",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym akcesorium do pojemników termoizolacyjnych w standardzie GN (Gastro Norm) marki Hendi, co jednoznacznie wskazuje na kategorię wyposażenia profesjonalnej gastronomii w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1008593",
+        "Nazwa_Produktu": "Jednorazowe naklejki food safety na pojemniki Środa PL RU EN 2000 szt. Hendi 850022",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Karteczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne naklejki food safety (HACCP) marki Hendi, przeznaczone do profesjonalnego użytku w gastronomii (oznaczanie terminów przydatności). Ze względu na profesjonalny charakter marki i zastosowanie w higienie żywności, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1008598",
+        "Nazwa_Produktu": "Naklejki food safety na pojemniki wielokrotnego użytku Poniedziałek PL RU EN 1000 szt. Hendi 850077",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne naklejki bezpieczeństwa żywności (food safety) marki Hendi, przeznaczone dla branży gastronomicznej do znakowania żywności. Ponieważ produkt jest materiałem eksploatacyjnym dla profesjonalnych kuchni, a drzewo nie zawiera dedykowanej podkategorii dla etykiet, kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1008599",
+        "Nazwa_Produktu": "Naklejki food safety na pojemniki wielokrotnego użytku Wtorek PL RU EN 1000 szt. Hendi 850084",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne naklejki do oznaczania żywności marki Hendi, przeznaczone do użytku w profesjonalnej gastronomii w celu zachowania norm bezpieczeństwa, co najlepiej pasuje do kategorii Pozostałe w sekcji Gastronomia w dziale Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1008600",
+        "Nazwa_Produktu": "Naklejki food safety na pojemniki wielokrotnego użytku Środa PL RU EN 1000 szt. Hendi 850091",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia",
+        "Finalne_ID_AI": 5035,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne etykiety bezpieczeństwa żywności marki Hendi, używane w branży gastronomicznej do spełniania norm sanitarnych (HACCP), co kwalifikuje go do kategorii akcesoriów w sekcji Firma i Przemysł > Gastronomia."
+    },
+    {
+        "ID_Produktu": "1008601",
+        "Nazwa_Produktu": "Naklejki food safety na pojemniki wielokrotnego użytku Czwartek PL RU EN 1000 szt. Hendi 850107",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne naklejki bezpieczeństwa żywności marki Hendi, przeznaczone do oznaczania produktów w profesjonalnych kuchniach zgodnie z normami HACCP. Najlepiej pasuje do kategorii specjalistycznego wyposażenia gastronomicznego (Firma i Przemysł > Gastronomia > Pozostałe)."
+    },
+    {
+        "ID_Produktu": "1008602",
+        "Nazwa_Produktu": "Naklejki food safety na pojemniki wielokrotnego użytku Piątek PL RU EN 1000 szt. Hendi 850114",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Poradniki i albumy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne naklejki bezpieczeństwa żywności (HACCP) marki Hendi, przeznaczone do użytku profesjonalnego w branży gastronomicznej. Ze względu na brak dedykowanej kategorii dla oznaczeń i etykiet, najlepiej pasuje do kategorii 'Pozostałe' w obrębie działu 'Gastronomia' w kategorii 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1008603",
+        "Nazwa_Produktu": "Naklejki food safety na pojemniki wielokrotnego użytku Sobota PL RU EN 1000 szt. Hendi 850121",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne etykiety HACCP marki Hendi, stosowane w branży gastronomicznej do znakowania żywności. Ze względu na przeznaczenie przemysłowe i markę profesjonalną, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1008604",
+        "Nazwa_Produktu": "Naklejki food safety na pojemniki wielokrotnego użytku Niedziela PL RU EN 1000 szt. Hendi 850138",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne akcesoria oznaczeniowe (naklejki Food Safety/HACCP) marki Hendi, przeznaczone do użytku w branży gastronomicznej w celu zachowania norm bezpieczeństwa żywności, co najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1008605",
+        "Nazwa_Produktu": "Naklejki food safety spożyć w pierwszej kolejności PL RU EN 500 szt. Hendi 850152",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Poradniki i albumy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne akcesoria gastronomiczne marki Hendi służące do oznaczania żywności zgodnie z normami HACCP. Ze względu na przeznaczenie dla sektora B2B (gastronomia), produkt najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1008606",
+        "Nazwa_Produktu": "Naklejki food safety spożyć przed PL EN 500 szt. Hendi 850145",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Karteczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne naklejki do oznaczania żywności marki Hendi, przeznaczone do użytku profesjonalnego w branży gastronomicznej w celu zachowania norm bezpieczeństwa HACCP. Z tego względu kategoria Firma i Przemysł > Gastronomia > Pozostałe jest najbardziej adekwatna."
+    },
+    {
+        "ID_Produktu": "1008607",
+        "Nazwa_Produktu": "Naklejki food safety data przydatności PL EN 500 szt. Hendi 850206",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Karteczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne naklejki do oznaczania żywności (HACCP) marki Hendi, dedykowane dla branży gastronomicznej. Z uwagi na przemysłowy charakter, dużą ilość (500 szt.) oraz przeznaczenie do spełniania norm bezpieczeństwa żywności, najbardziej odpowiednią kategorią jest Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1008730",
+        "Nazwa_Produktu": "Patyczki do waty cukrowej bukowe 40cm/4mm z atestem PZH 200szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do waty cukrowej",
+        "Finalne_ID_AI": 5050,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne akcesoria (patyczki) dedykowane do produkcji waty cukrowej, posiadające atest PZH. W drzewie kategorii OLX najbardziej trafnym i specyficznym miejscem dla tego typu artykułów profesjonalnych/gastronomicznych jest kategoria 'Maszyny do waty cukrowej' w sekcji Firma i Przemysł."
     }
 ]

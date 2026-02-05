@@ -8401,5 +8401,173 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1008555",
+        "Nazwa_Produktu": "Blacha taca do pieczenia pizzy prostokątna 600x400x25 mm - Hendi 808276",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalne_ID_AI": 2116,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to prostokątna blacha przeznaczona do pieczenia pizzy i ciast, co wprost odpowiada kategorii 'Blachy i formy do pieczenia' w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Blacha taca do pieczenia pizzy prostokątna 600x400x25 mm - hendi",
+                "description": "Numer producenta: Hendi 808276 BLACHA DO PIZZY PROSTOKĄTNA - Wykonana z niebieskiej stali, - Idealna do równomiernego wypieku ciasta lub pizzy, - Nie nadaje się do mycia w zmywarkach. Parametry: - Wymiary - 600 x 400 x 25 mm Zakres dostawy: - Blacha do pizzy - Hendi 808276.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2116,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 123.5,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/808276-blacha-blaszka-do-pizzy-prostokatna-600x400xh25mm-hendi-808276-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008736",
+        "Nazwa_Produktu": "Stojak uchwyt cateringowy na worki 120L na śmieci odpadki ZIELONY",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Komputery > Akcesoria komputerowe > Podkładki i stojaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stojak na worki na śmieci przeznaczony do segregacji odpadów, co bezpośrednio odpowiada definicji kategorii 'Kosze na śmieci i pojemniki do segregacji' (ID: 2122).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Stojak uchwyt cateringowy na worki 120l na śmieci odpadki zielony",
+                "description": "ID produktu: 1008736 Stojak na worki na śmieci do segregacji Standardowa seria stojaków. Przystosowane do zbiórki odpadów segregowanych. Konstrukcja stojaków z ocynkowanych rurek. Pokrywa i ramka na worek z plastiku. Dostarczane w stanie rozłożonym (łatwy i szybki montaż). Odpowiednie do pomieszczeń wewnętrznych. Do stojaków polecamy worki na śmieci o pojemności 120L dostępne w naszej ofercie Parametry: Wymiary 350x360x740 mm Waga 2kg Kolor pokrywy zielony W zestawie: Stojak na zielone worki do segregacji śmieci\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Global Service Group\nAdres: Urszuli 17, 65-147, Zielona Góra, Polska\nEmail: biuro(at)gsg24.pl\nTelefon: +48683817000\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 57.95,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008736-stojak-uchwyt-na-worki-120l-hurtownia.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008736-stojak-uchwyt-na-worki-na-smieci-120l-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/stojak-uchwyt-na-worki-na-smieci-mocowanie-worka.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/14/1008736-solidny-mocny-stojak-uchwyt-na-worki-na-smieci-120l-hurtownia.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008738",
+        "Nazwa_Produktu": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 15szt. - zielone 120L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to grube worki na śmieci o pojemności 120L, przeznaczone do organizacji segregacji odpadów. W drzewie kategorii OLX kategoria 'Kosze na śmieci i pojemniki do segregacji' (ID: 2122) jest najbardziej dopasowana merytorycznie, gdyż obejmuje zarówno same pojemniki, jak i akcesoria do nich (worki), a jej nazwa bezpośrednio odpowiada funkcjonalności produktu opisanej przez producenta (segregacja).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Worki na odpadki śmieci grube 80 mikr. wytrzymałe rolka 15szt. -",
+                "description": "Kod producenta: 1078-2 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i stosowanych w zakładach przemysłowych i warsztatach firmy MEVA istniejącej od 1898r. Wytrzymałe , grube worki na śmieci umożliwiające zorganizowanie segregacji odpadów poprzez różne kolory. Worki na odpadki są łatwe do spalenia i nie wydzielają szkodliwych substancji. Specyfikacja Pojemność (L) - 120 Rozmiary (mm) - 700 x 1100 Materiał: polietylen Grubość folii (m): 80 Kolor: zielony Worki sprzedawane są w rolkach po 15szt. Cena dotyczy 1 rolki .\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-2-meva-worki-na-opdadki-smieci-grube-50-mikr-wytrzymale-rolka-25szt-zielone-120l-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-2-1.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1077-2-2.JPG"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1076.JPG"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]
