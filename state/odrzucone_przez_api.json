@@ -8298,5 +8298,108 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1008209",
+        "Nazwa_Produktu": "Karafka dzbanek szklany do wody wina napoju VIN 1L ARCOROC Hendi C0199 6 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Dzbanki, karafki i mleczniki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Dzbanki, karafki i mleczniki",
+        "Finalne_ID_AI": 2148,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to karafka/dzbanek szklany przeznaczony do serwowania wody, wina i napojów, co w 100% odpowiada specyfikacji kategorii 'Dzbanki, karafki i mleczniki' znajdującej się w sekcji Zastawy stołowej.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Karafka dzbanek szklany do wody wina napoju vin 1l arcoroc hendi",
+                "description": "Numer producenta: Hendi C0199 Karafka bez pokrywki Arcoroc Vin. Cechy produktu: - Karafka do serwowania napojów, - Atrakcyjny wygląd, - Pojemność 1000 ml Parametry: - Średnica w mm: 119 - Pojemność w l: 1 - Ilość sztuk w opakowaniu: 6 - Wysokość w mm: 203 Zakres dostawy: - Karafki 6 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2148,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 145.95,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/C0199-karafka-dzbanek-szklany-do-wody-wina-napoju-vin-1l-arcoroc-hendi-c0199-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1008210",
+        "Nazwa_Produktu": "Karafka dzbanek szklany do wody wina napoju VIN 500ml ARCOROC Hendi C0197 12 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Dzbanki, karafki i mleczniki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Dzbanki, karafki i mleczniki",
+        "Finalne_ID_AI": 2148,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to szklane karafki/dzbanki przeznaczone do serwowania wody, wina i innych napojów. Kategoria 'Dzbanki, karafki i mleczniki' (ID: 2148) wewnątrz 'Zastawy stołowej' jest najbardziej specyficznym i trafnym dopasowaniem dla tego typu asortymentu, mimo że produkt pochodzi od producenta wyposażenia profesjonalnego (Hendi).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Karafka dzbanek szklany do wody wina napoju vin 500ml arcoroc hendi",
+                "description": "Numer producenta: Hendi C0197 Karafka bez pokrywki Arcoroc z linii Princesa Cechy produktu: - Linia szkła hartowanego o trzykrotnie większej odporności na stłuczenia - Odporna na obicia i szok termiczny - Nowoczesna technologia wykończenia krawędzi szkła - Produkt sprzedawany w opakowaniach zbiorczych po 12 sztuk Parametry: - średnica w mm: 96 - pojemność w l: 500ml - ilość sztuk w opakowaniu: 12 - wysokość w mm: 164 Zakres dostawy: - Karafki 12 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2148,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 175.47,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/C0197-karafka-dzbanek-szklany-do-wody-wina-napoju-vin-500ml-arcoroc-hendi-c0197-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/C0198-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]
