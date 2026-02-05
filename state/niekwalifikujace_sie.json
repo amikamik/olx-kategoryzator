@@ -5678,5 +5678,125 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to tacka z klipsem na rachunki, wykonana ze stali nierdzewnej, co wskazuje na zastosowanie w gastronomii (restauracje, kawiarnie). Brak bardziej szczegółowej podkategorii w obrębie 'Gastronomia', dlatego 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1000766",
+        "Nazwa_Produktu": "Taca poliestrowa gładka 530x325mm GN 1/1 - Hendi 876619",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taca gastronomiczna wykonana w standardzie Gastronorm (GN 1/1), przeznaczona do użytku w obiektach zbiorowego żywienia (restauracje samoobsługowe). Marka Hendi oraz oznaczenie GN 1/1 jednoznacznie wskazują na wyposażenie profesjonalne, dlatego wybrano kategorię 'Pojemniki gastronomiczne' w sekcji Gastronomia."
+    },
+    {
+        "ID_Produktu": "1002844",
+        "Nazwa_Produktu": "Patelnia do paelli emaliowana śr. 10 cm - Hendi 622704",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi jest profesjonalnym sprzętem gastronomicznym przeznaczonym dla restauracji i hoteli, co wprost wynika z opisu. Najdokładniejszą kategorią dla patelni do paelli o takim przeznaczeniu jest kategoria patelni gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1003358",
+        "Nazwa_Produktu": "Pojemnik GN 1/1 wys. 65 mm ze stali nierdzewnej - Hendi 800126",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik gastronomiczny wykonany w standardzie GN (Gastronorm), dedykowany do użytku komercyjnego w restauracjach, barach i bemarach, co sprawia, że kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1003490",
+        "Nazwa_Produktu": "Pojemnik GN 1/1 stal nierdzewna Profi Line wys. 20 mm - Hendi 801253",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik standardu GN (Gastronorm) marki Hendi, wykonany ze stali nierdzewnej, przeznaczony do użytku w profesjonalnej gastronomii (bemary, piece konwekcyjne), co jednoznacznie klasyfikuje go do kategorii 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1003504",
+        "Nazwa_Produktu": "Pojemnik GN 1/3 stal nierdzewna Profi Line wys. 150 mm - Hendi 801512",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik standardu Gastronorm (GN) wykonany ze stali nierdzewnej, przeznaczony do użytku w profesjonalnej gastronomii (restauracje, hotele), co bezpośrednio odpowiada specyfice kategorii 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1004286",
+        "Nazwa_Produktu": "Szpatuła grillowa kątowa do steków 280 mm - Hendi 855508",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest określony w tytule jako 'szpatuła grillowa do steków', co bezpośrednio wskazuje na kategorię akcesoriów do grillowania. Kategoria 'Grill' (1633) w sekcji 'Ogród' jest najbardziej precyzyjnym wyborem dla tego typu narzędzia kulinarnego, mimo profesjonalnego charakteru marki Hendi."
+    },
+    {
+        "ID_Produktu": "1004765",
+        "Nazwa_Produktu": "Silnik krokowy do grilla rolkowego 230V 14W",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Pozostała elektronika",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest częścią zamienną (silnikiem) do grilla rolkowego marki Royal Catering, który jest profesjonalnym urządzeniem gastronomicznym. W drzewie kategorii OLX, najbardziej precyzyjnym miejscem dla specjalistycznych podzespołów maszyn gastronomicznych jest kategoria Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1003204",
+        "Nazwa_Produktu": "Ruszt stalowy do piekarnika pieca konwekcyjnego GN1/1 - Hendi 801901",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny ruszt w standardzie GN 1/1 (Gastronorm) marki Hendi, przeznaczony do pieców konwekcyjno-parowych. Ze względu na przemysłowy standard wymiarów oraz markę producenta, produkt należy do kategorii wyposażenia gastronomii (Firma i Przemysł), konkretnie do akcesoriów w systemie GN."
+    },
+    {
+        "ID_Produktu": "1002629",
+        "Nazwa_Produktu": "Kosz do zmywarki na szklanki i szkło 16 elementów 50x50cm - Hendi 877043",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny kosz do zmywarek gastronomicznych marki Hendi o standardowych wymiarach przemysłowych (50x50cm). Ze względu na markę i przeznaczenie do profesjonalnej gastronomii, najlepiej pasuje do kategorii 'Zmywarki' w sekcji 'Firma i Przemysł / Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1005597",
+        "Nazwa_Produktu": "Popielniczka stalowa nierdzewna śr. 80mm - Hendi 440872",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna popielniczka marki Hendi (producenta sprzętu dla sektora HoReCa). Wykorzystanie numeru producenta oraz cechy 'możliwość sztaplowania' jednoznacznie wskazują na przeznaczenie dla branży gastronomicznej, a nie na produkt czysto dekoracyjny czy kolekcjonerski."
+    },
+    {
+        "ID_Produktu": "1005598",
+        "Nazwa_Produktu": "Popielniczka stalowa nierdzewna śr. 100mm - Hendi 440865",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi, która jest renomowanym producentem wyposażenia dla profesjonalnej gastronomii. Parametry takie jak numer katalogowy producenta oraz informacja o możliwości sztaplowania wskazują na przeznaczenie produktu dla sektora HoReCa, co klasyfikuje go w kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1005699",
+        "Nazwa_Produktu": "Stojak informacyjny z klipsem na karteczkę lub MENU zestaw 2szt. - Hendi 595305",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Karteczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny stojak na menu/informacje marki Hendi, która specjalizuje się w wyposażeniu gastronomicznym. Ze względu na przeznaczenie (MENU) oraz producenta, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia. Ponieważ w drzewie nie ma specyficznej kategorii dla akcesoriów stołowych lub stojaków na menu, kategoria 'Pozostałe' w obrębie gastronomii jest najwłaściwszym wyborem."
     }
 ]

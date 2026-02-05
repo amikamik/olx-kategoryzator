@@ -7610,5 +7610,55 @@
                 "error_human_title": "Nieprawidłowy token."
             }
         }
+    },
+    {
+        "ID_Produktu": "1005754",
+        "Nazwa_Produktu": "Szklanka wysoka Arcoroc ISLANDE szkło hartowane 220ml zestaw 6szt. - Arcoroc N6642",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Szklanki i kufle",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Szklanki i kufle",
+        "Finalne_ID_AI": 2159,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw wysokich szklanek wykonanych ze szkła, co jednoznacznie klasyfikuje go do kategorii liścia 'Szklanki i kufle' wewnątrz ścieżki Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szklanka wysoka arcoroc islande szkło hartowane 220ml zestaw 6szt. -",
+                "description": "Numer producenta: N6642 Szklanka wysoka Arcoroc Islande - komplet 6 sztuk. Cechy produktu: wykonana z wysokiej jakości hartowanego szkła odporna na obicia i szok termiczny nowoczesna technologia wykończenia krawędzi szkła możliwość mycia w zmywarce Parametry: ilość szt. w opak.: 6 pojemność: 0,22l wymiary: śr.53x(H)152mm W zestawie: szklanki 6 szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2159,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 56.99,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/j3316-szklanka-wysoka-arcoroc-islande-szklo-hartowane-220ml-zestaw-6szt-arcoroc-j3316.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]

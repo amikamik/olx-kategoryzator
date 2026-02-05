@@ -1198,5 +1198,70 @@
         "api_error": {
             "error": "Błąd pobierania atrybutów z OLX API."
         }
+    },
+    {
+        "ID_Produktu": "1002178",
+        "Nazwa_Produktu": "Wałek do ciasta ze stali nierdzewnej śr. 65mm dł. 250/470mm - Hendi 515006",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Stolnice i wałki",
+        "Finalne_ID_AI": 2134,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wałek do ciasta, a kategoria 'Stolnice i wałki' (id: 2134) jest najbardziej specyficzną kategorią-liściem przeznaczoną dla tego rodzaju przyborów kuchennych w drzewie kategorii OLX.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1002624",
+        "Nazwa_Produktu": "Wkład pojemnik na sztućce do zmywarki niebieski - Hendi 871324",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do zmywarek",
+        "Finalne_ID_AI": 3124,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wkład (koszyk) na sztućce przeznaczony do zmywarki. Kategoria 'Części i akcesoria do zmywarek' jest najbardziej precyzyjną kategorią dla tego typu akcesorium wyposażenia AGD, mimo że marka Hendi sugeruje zastosowanie profesjonalne w gastronomii.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1005396",
+        "Nazwa_Produktu": "Spodek do filiżanki do kawy i herbaty Arcoroc TRIANON 220ml zestaw 6szt. - Hendi D6925",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Talerze",
+        "Finalne_ID_AI": 2161,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to spodki, które są rodzajem małych talerzy pod filiżanki. W drzewie kategorii zastawy stołowej 'Talerze' jest najbardziej odpowiednią i szczegółową kategorią dla tego typu asortymentu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1002227",
+        "Nazwa_Produktu": "Koszyk na owoce dekoracyjny ze stali chromowanej śr. 215mm wys. 205 - Hendi 426418",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalne_ID_AI": 2100,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dekoracyjny koszyk na owoce. W drzewie kategorii OLX, najbardziej precyzyjnym dopasowaniem dla tego typu przedmiotów domowych jest kategoria 'Koszyki' (ID: 2100) znajdująca się w sekcji 'Wyposażenie wnętrz'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1002231",
+        "Nazwa_Produktu": "Koszyk na pieczywo z polirattanu prostokątny 225x150x65mm - Hendi 426807",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalne_ID_AI": 2100,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to prostokątny koszyk wykonany z polirattanu. W drzewie kategorii OLX najbardziej precyzyjnym dopasowaniem dla tego przedmiotu jest kategoria 'Koszyki' w sekcji Wyposażenie wnętrz.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]
