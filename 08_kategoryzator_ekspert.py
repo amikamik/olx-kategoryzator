@@ -647,7 +647,7 @@ def process_single_product(product, path_map, config_obj):
     if use_gemini_cache:
         # Dla Gemini z cache - system prompt jest już w cache, wysyłamy tylko user message
         # User message zawiera pełne info o produkcie i instrukcje formatu odpowiedzi
-        user_message = f"""Skategoryzuj ten produkt wybierając DOKŁADNIE JEDNĄ kategorię-liść z drzewa kategorii:
+        user_message = f"""Skategoryzuj ten produkt i oceń czy wymaga VAT:
 
 Dane produktu:
 - Tytuł: "{product['name']}"
@@ -660,7 +660,8 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
 {{
   "kategoria_id": <ID wybranej kategorii jako integer>,
   "pewnosc": <Twoja pewność wyboru od 0 do 100>,
-  "uzasadnienie": "<Krótkie wyjaśnienie dlaczego wybrałeś tę kategorię>"
+  "wymaga_vat": <true jeśli produkt wymaga VAT zgodnie z art. 113 ust. 13, false jeśli nie wymaga>,
+  "uzasadnienie": "<Krótkie wyjaśnienie kategorii i decyzji VAT>"
 }}"""
         
         llm_response_str = call_llm_api(
@@ -675,15 +676,28 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
     else:
         # Dla innych providerów lub Gemini bez cache - pełny system message z drzewem
         system_message = f"""Jesteś ekspertem od kategoryzacji produktów na platformie OLX. 
-Twoim zadaniem jest przypisanie produktu do DOKŁADNIE JEDNEJ kategorii z poniższego drzewa kategorii.
+Twoim zadaniem jest:
+1. Przypisać produkt do DOKŁADNIE JEDNEJ kategorii z poniższego drzewa kategorii
+2. Ocenić czy produkt wymaga rejestracji VAT (zgodnie z art. 113 ust. 13 ustawy o VAT)
 
-WYMAGANIA:
+WYMAGANIA KATEGORYZACJI:
 - Używaj WYŁĄCZNIE kategorii z podanego JSON (nie wymyślaj własnych).
 - ZAWSZE wybierz kategorię-liść (`"is_leaf": true`).
 - Kategoria musi być semantycznie najlepiej dopasowana do tytułu i opisu produktu.
 - Patrz na CAŁĄ ścieżkę kategorii (od korzenia do liścia), nie tylko na pojedyncze słowa w nazwie.
 - Jeżeli istnieje bardziej szczegółowa, pasująca kategoria w tej samej gałęzi, wybierz ją zamiast ogólnej lub typu „Pozostałe" / „Inne".
 - Jeśli żadna kategoria nie pasuje idealnie, wybierz tę, która będzie najmniej myląca dla kupującego.
+
+ZASADY VAT (Art. 113 ust. 13 ustawy o VAT) - produkty WYMAGAJĄCE rejestracji VAT przy sprzedaży internetowej:
+- PKWiU 20.42.1: Preparaty kosmetyczne i toaletowe (perfumy, kremy, szampony, makijaż, dezodoranty)
+- PKWiU 26: Komputery, wyroby elektroniczne i optyczne (smartfony, tablety, laptopy, telewizory, aparaty, konsole, słuchawki elektroniczne, smartwatche)
+- PKWiU 27: Urządzenia elektryczne i oświetleniowe (pralki, lodówki, mikrofalówki, odkurzacze, żelazka, suszarki, lampy LED, przedłużacze)
+- PKWiU 28: Maszyny i urządzenia elektryczne (wiertarki, szlifierki, spawarki, piły elektryczne, kompresory)
+- PKWiU 45.3/45.4: Części do pojazdów samochodowych i motocykli (klocki hamulcowe, amortyzatory samochodowe, filtry samochodowe, świece zapłonowe)
+- Wyroby akcyzowe: Alkohol (wódka, wino, piwo), tytoń, papierosy, e-papierosy
+- Metale szlachetne i biżuteria: Złoto, srebro, platyna, pierścionki, naszyjniki, kolczyki z metali szlachetnych
+
+UWAGA: Sprzęt sportowy (hantle, piłki, rowery, bieżnie manualne), odzież, obuwie, książki, zabawki nieelektryczne, meble - NIE wymagają VAT.
 
 Drzewo kategorii OLX (jedyne źródło prawdy):
 ```json
@@ -694,7 +708,8 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
 {{
   "kategoria_id": <ID wybranej kategorii jako integer>,
   "pewnosc": <Twoja pewność wyboru od 0 do 100>,
-  "uzasadnienie": "<Krótkie wyjaśnienie dlaczego wybrałeś tę kategorię>"
+  "wymaga_vat": <true jeśli produkt wymaga VAT zgodnie z art. 113 ust. 13, false jeśli nie wymaga>,
+  "uzasadnienie": "<Krótkie wyjaśnienie kategorii i decyzji VAT>"
 }}"""
         
         # User message - ZMIENNY (konkretny produkt)
@@ -1297,21 +1312,34 @@ def main():
 
     # --- GEMINI EXPLICIT CACHING: Tworzenie cache dla drzewa kategorii ---
     if provider == "GEMINI":
-        # Budujemy pełny system prompt z drzewem kategorii
+        # Budujemy pełny system prompt z drzewem kategorii i informacjami o VAT
         system_prompt = f"""Jesteś ekspertem od kategoryzacji produktów na platformie OLX.pl.
 
 Twoim zadaniem jest dla każdego produktu:
 1. Przeanalizować nazwę i opis produktu
 2. Wybrać DOKŁADNIE JEDNĄ najlepiej pasującą kategorię z poniższego drzewa
-3. Zwrócić ID kategorii, pełną ścieżkę i poziom pewności (0-100%)
+3. Ocenić czy produkt wymaga rejestracji VAT (zgodnie z art. 113 ust. 13 ustawy o VAT)
+4. Zwrócić ID kategorii, poziom pewności (0-100%) i decyzję o VAT
 
 DRZEWO KATEGORII OLX (JSON):
 {category_tree_json_str}
 
-ZASADY:
+ZASADY KATEGORYZACJI:
 - Wybierz kategorię na NAJGŁĘBSZYM możliwym poziomie (najbardziej szczegółową)
 - Jeśli produkt pasuje do wielu kategorii, wybierz najbardziej specyficzną
 - Pewność powinna odzwierciedlać jak dobrze produkt pasuje do wybranej kategorii
+
+ZASADY VAT (Art. 113 ust. 13 ustawy o VAT) - produkty WYMAGAJĄCE rejestracji VAT przy sprzedaży internetowej:
+- PKWiU 20.42.1: Preparaty kosmetyczne i toaletowe (perfumy, kremy, szampony, makijaż, dezodoranty)
+- PKWiU 26: Komputery, wyroby elektroniczne i optyczne (smartfony, tablety, laptopy, telewizory, aparaty, konsole, słuchawki elektroniczne, smartwatche)
+- PKWiU 27: Urządzenia elektryczne i oświetleniowe (pralki, lodówki, mikrofalówki, odkurzacze, żelazka, suszarki, lampy LED, przedłużacze)
+- PKWiU 28: Maszyny i urządzenia elektryczne (wiertarki, szlifierki, spawarki, piły elektryczne, kompresory)
+- PKWiU 45.3/45.4: Części do pojazdów samochodowych i motocykli (klocki hamulcowe, amortyzatory samochodowe, filtry samochodowe, świece zapłonowe)
+- Wyroby akcyzowe: Alkohol (wódka, wino, piwo), tytoń, papierosy, e-papierosy
+- Metale szlachetne i biżuteria: Złoto, srebro, platyna, pierścionki, naszyjniki, kolczyki z metali szlachetnych
+
+UWAGA: Sprzęt sportowy (hantle, piłki, rowery, bieżnie manualne), odzież, obuwie, książki, zabawki nieelektryczne, meble - NIE wymagają VAT.
+
 - Odpowiedz TYLKO w formacie JSON bez żadnego dodatkowego tekstu"""
         
         print("\n" + "="*80)
@@ -1410,6 +1438,19 @@ ZASADY:
 
             pewnosc_int = int(llm_choice.get('pewnosc', 0))
             print(f"│  └─ Pewność: {pewnosc_int}%")
+            
+            # --- SPRAWDZENIE VAT (Art. 113 ust. 13) ---
+            wymaga_vat = llm_choice.get('wymaga_vat', False)
+            if wymaga_vat:
+                print(f"├─ ⚠ Produkt wymaga VAT (art. 113 ust. 13) - ODRZUCONY")
+                VAT_ODRZUCONE_PLIK = os.path.join(STATE_DIR, "odrzucone_vat.json")
+                report_line['odrzucony_vat'] = True
+                report_line['powod_vat'] = llm_choice.get('uzasadnienie', 'Brak uzasadnienia')
+                zapisz_do_pliku_json(report_line, VAT_ODRZUCONE_PLIK)
+                dodaj_do_przetworzonych(product['id'], PRZETWORZONE_PLIK)
+                print(f"└─ Status: WYMAGA VAT - ODRZUCONY\n")
+                continue
+            # --- KONIEC SPRAWDZENIA VAT ---
             
             if pewnosc_int < config.MINIMALNA_PEWNOSC:
                 print(f"├─ ⚠ Niska pewność - zapis do weryfikacji")
