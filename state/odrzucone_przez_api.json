@@ -1,1 +1,74 @@
-﻿[]
+[
+    {
+        "ID_Produktu": "15338",
+        "Nazwa_Produktu": "Poduszka do masażu MASTER",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Poduszki",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Poduszki",
+        "Finalne_ID_AI": 3705,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to poduszka sensomotoryczna (tzw. dysk korekcyjny), która służy do rehabilitacji, wzmacniania mięśni kręgosłupa oraz masażu. Najdokładniej pasuje do kategorii poduszek w dziale sprzętu rehabilitacyjnego i ortopedycznego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Poduszka do masażu master",
+                "description": "Poduszka sensomotoryczna do masażu MASTER - jest idealna po długim i wyczerpującym dniu. Powierzchnia poduszki składa się z wielu punkcików do masażu, które poprawiają krążenie krwi oraz rozluźniają mięśnie. Została wykonana z gumy o wysokiej wytrzymałości. Jest doskonałym narzędziem do rozwoju mięśni stabilizacyjnych kręgosłupa. Poduszki można używać w domu, biurze lub w podróży. Idealna dla wszystkich grup wiekowych. Specyfikacja: Wykonana z gumy o wysokiej wytrzymałości Powierzchni o delikatnej strukturze kołowej Wykonane z nieszkodliwych materiałów Odpowiednia dla wszystkich grup wiekowych Średnica: 33 cm Maksymalne obciążenie: 120 kg Materiał: PVC Pompa w cenie: nie Waga z opakowaniem: 0,5 kg Wymiary opakowania: 7 x 35 x 35 cm\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: MASTER\nAdres: Provozn 5560/1b, 72200, Ostrava, CZ\nEmail: info(at)mastersport.cz\nTelefon: +420596633216\n----------------------------------------",
+                "category_id": 3705,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 72.61,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pozostale/MAS4A110/MAS4A110.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pozostale/MAS4A110/MAS4A110b.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pozostale/MAS4A110/MAS4A110a.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pozostale/MAS4A110/MAS4A110inst paint.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.3.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+]
