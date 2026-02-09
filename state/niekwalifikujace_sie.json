@@ -638,5 +638,415 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to pompka przeznaczona do piłek (wyposażona w igłę), co jest kluczowym akcesorium w sportach drużynowych (piłka nożna, koszykówka, siatkówka). Kategoria 'Pozostałe sporty drużynowe' jest najbardziej szczegółowym liściem dla ogólnego sprzętu do piłek, który nie jest przypisany do jednej konkretnej dyscypliny."
+    },
+    {
+        "ID_Produktu": "16376",
+        "Nazwa_Produktu": "Gwizdek metalowy SPARTAN Acme Thunderer",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Akcesoria dla sędziów",
+        "Finalne_ID_AI": 4975,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Gwizdek jest podstawowym elementem wyposażenia sędziowskiego, a opis produktu wyraźnie wskazuje na jego przeznaczenie podczas meczów, zawodów i gier zespołowych w kontekście profesjonalnym."
+    },
+    {
+        "ID_Produktu": "16406",
+        "Nazwa_Produktu": "Zestaw Petanque Bule MASTER 6 Kul",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Klocki > Klocki plastikowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Zestaw do gry w Petanque (bule) to sprzęt sportowy do gry rekreacyjnej/towarzyskiej. Najbardziej precyzyjną kategorią w drzewie jest 'Pozostałe sporty towarzyskie' w sekcji 'Sport i Hobby'. Sugestia systemowa dotycząca klocków plastikowych jest błędna ze względu na charakter produktu (stalowe kule sportowe)."
+    },
+    {
+        "ID_Produktu": "16409",
+        "Nazwa_Produktu": "Zestaw Petanque Bule MASTER 8 Kul",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Klocki > Klocki plastikowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w bule (petanque), która jest klasyczną grą zręcznościową i sportem towarzyskim. Ze względu na wykonanie ze stali i oficjalną wagę, produkt najlepiej pasuje do kategorii Sporty towarzyskie > Pozostałe sporty towarzyskie, a nie do zabawek dla dzieci."
+    },
+    {
+        "ID_Produktu": "16475",
+        "Nazwa_Produktu": "Piłeczki do piłkarzyków SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Piłkarzyki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Piłkarzyki",
+        "Finalne_ID_AI": 4968,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to akcesoria (piłeczki) do gry w piłkarzyki. W drzewie kategorii OLX kategoria 'Piłkarzyki' (ID: 4968) jest najbardziej specyficznym liściem pasującym do tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "16505",
+        "Nazwa_Produktu": "Uchwyt do montażu trampoliny MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Trampoliny ogrodowe oraz ich części montażowe są na platformie OLX klasyfikowane w kategorii 'Huśtawki i place zabaw', która obejmuje wyposażenie przydomowych miejsc rekreacji dla dzieci."
+    },
+    {
+        "ID_Produktu": "16532",
+        "Nazwa_Produktu": "Drabinka do trampoliny MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Drabinka do trampoliny मास्टरJump jest akcesorium do ogrodowego sprzętu rekreacyjnego. Na OLX trampoliny oraz części do nich (siatki, drabinki, osłony) są standardowo kategoryzowane w dziale Ogród pod hasłem 'Huśtawki i place zabaw'."
+    },
+    {
+        "ID_Produktu": "16535",
+        "Nazwa_Produktu": "Siatka zabezpieczająca pod trampolinę 244 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium do trampoliny ogrodowej. Na platformie OLX trampoliny oraz ich części (siatki, osłony) są standardowo kategoryzowane w sekcji 'Huśtawki i place zabaw' w dziale ogrodowym."
+    },
+    {
+        "ID_Produktu": "16604",
+        "Nazwa_Produktu": "Pokrowiec na trampolinę 365 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Trampoliny ogrodowe o dużych średnicach (365 cm) oraz akcesoria do nich, takie jak pokrowce ochronne, są na platformie OLX klasyfikowane w kategorii Dom i Ogród > Ogród > Huśtawki i place zabaw."
+    },
+    {
+        "ID_Produktu": "16607",
+        "Nazwa_Produktu": "Siatka zabezpieczająca pod trampolinę 365 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Siatka zabezpieczająca do trampoliny jest akcesorium bezpośrednio związanym z trampolinami, które na platformie OLX są klasyfikowane w kategorii 'Huśtawki i place zabaw' w dziale ogrodowym."
+    },
+    {
+        "ID_Produktu": "16637",
+        "Nazwa_Produktu": "Pokrowiec na trampolinę 396 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Trampoliny ogrodowe oraz akcesoria do nich, takie jak pokrowce ochronne, są na OLX najczęściej kategoryzowane w sekcji 'Ogród > Huśtawki i place zabaw', ponieważ stanowią integralny element wyposażenia przydomowych placów zabaw."
+    },
+    {
+        "ID_Produktu": "16640",
+        "Nazwa_Produktu": "Siatka zabezpieczająca pod trampolinę 396 cm MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Trampoliny ogrodowe oraz ich akcesoria (takie jak siatki zabezpieczające) są standardowo kategoryzowane na platformie OLX w sekcji Ogród > Huśtawki i place zabaw."
+    },
+    {
+        "ID_Produktu": "16673",
+        "Nazwa_Produktu": "Siatka zabezpieczająca pod trampolinę 426 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Trampoliny oraz akcesoria do nich, takie jak siatki zabezpieczające, są standardowo kategoryzowane na platformie OLX w sekcji Ogród pod pozycją Huśtawki i place zabaw."
+    },
+    {
+        "ID_Produktu": "16709",
+        "Nazwa_Produktu": "Siatka zabezpieczająca pod trampolinę 457 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Siatka zabezpieczająca do trampoliny jest akcesorium do sprzętu rekreacyjnego montowanego w ogrodzie. Na platformie OLX trampoliny oraz ich części zamienne i zabezpieczające są standardowo przypisane do kategorii 'Huśtawki i place zabaw'."
+    },
+    {
+        "ID_Produktu": "16754",
+        "Nazwa_Produktu": "Obciążenia żeliwne 2 x 1,25 kg MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to żeliwne talerze (obciążenia) przeznaczone do treningu siłowego, co precyzyjnie odpowiada kategorii liściastej 'Obciążenia' w drzewie kategorii OLX."
+    },
+    {
+        "ID_Produktu": "16760",
+        "Nazwa_Produktu": "Obciążenie metalowe z powierzchnią gumowaną 1,25 kg MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to metalowy talerz obciążeniowy o masie 1,25 kg z otworem na gryf, co jednoznacznie klasyfikuje go do kategorii 'Obciążenia' w sekcji sprzętu siłowego."
+    },
+    {
+        "ID_Produktu": "16763",
+        "Nazwa_Produktu": "Obciążenie metalowe z powierzchnią gumowaną 2,5 kg MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to talerz treningowy (obciążenie) o wadze 2,5 kg, który idealnie pasuje do kategorii 'Obciążenia' w sekcji sprzętu siłowego."
+    },
+    {
+        "ID_Produktu": "16766",
+        "Nazwa_Produktu": "Obciążenie metalowe z powierzchnią gumowaną 5 kg MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to metalowy talerz z obciążeniem o wadze 5 kg, który jest klasycznym elementem sprzętu siłowego. Wybrana kategoria 'Obciążenia' jest najbardziej szczegółową kategorią-liściem pasującą do tego produktu."
+    },
+    {
+        "ID_Produktu": "16769",
+        "Nazwa_Produktu": "Obciążenia żeliwne 2 x 5 kg MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to żeliwne talerze obciążeniowe przeznaczone do treningu fitness i siłowego, co idealnie pasuje do kategorii 'Obciążenia' w sekcji sprzętu siłowego."
+    },
+    {
+        "ID_Produktu": "16817",
+        "Nazwa_Produktu": "Hantla zestaw 10 kg MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to regulowany zestaw hantli przeznaczony do treningu siłowego, co jednoznacznie klasyfikuje go do kategorii Hantle."
+    },
+    {
+        "ID_Produktu": "16835",
+        "Nazwa_Produktu": "Zaciski Nakrętki Chromowane Zabezpieczające MASTER",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Opony i Felgi > Pozostałe Opony i Felgi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to chromowane zaciski zabezpieczające przeznaczone do gryfów o średnicy 30 mm. Są to bezpośrednie akcesoria i elementy składowe gryfów używanych w treningu siłowym, co czyni kategorię 'Gryfy' najbardziej specyficzną."
+    },
+    {
+        "ID_Produktu": "16841",
+        "Nazwa_Produktu": "Gryf prosty krótki 355 mm MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gryf krótki przeznaczony do ćwiczeń siłowych, co idealnie pasuje do najbardziej szczegółowej kategorii 'Gryfy' (ID: 4336) w sekcji sprzętu siłowego."
+    },
+    {
+        "ID_Produktu": "16844",
+        "Nazwa_Produktu": "Gryf prosty 120 cm MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gryf prosty przeznaczony do ćwiczeń siłowych, co dokładnie odpowiada liściowi 'Gryfy' w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "16847",
+        "Nazwa_Produktu": "Gryf łamany 120 cm MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gryf łamany przeznaczony do ćwiczeń siłowych na siłowni, co odpowiada bezpośrednio kategorii liścia 'Gryfy' w sekcji 'Sprzęt siłowy'."
+    },
+    {
+        "ID_Produktu": "16856",
+        "Nazwa_Produktu": "Gryf prosty 152 cm MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gryf prosty do sztangi, który jest elementem sprzętu siłowego używanego w fitnessie. Kategoria 'Gryfy' o ID 4336 jest najbardziej szczegółową kategorią dla tego typu przedmiotu."
+    },
+    {
+        "ID_Produktu": "16937",
+        "Nazwa_Produktu": "Nadmuchiwany basen GIANT 262 x 175 x 50 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nadmuchiwany basen ogrodowy o znacznych wymiarach. Najbardziej dopasowaną kategorią w strukturze OLX dla tego typu produktów jest 'Dom i Ogród > Ogród > Baseny', ponieważ określa ona bezpośrednio przeznaczenie i charakter przedmiotu."
+    },
+    {
+        "ID_Produktu": "17129",
+        "Nazwa_Produktu": "Piasek do filtra piaskowego - 25 kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Budowa > Materiały sypkie > Piasek",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Materiały sypkie > Piasek",
+        "Finalne_ID_AI": 3175,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piasek kwarcowy o określonej granulacji przeznaczony do filtracji. W drzewie kategorii OLX najbardziej precyzyjnym liściem dla tego materiału jest kategoria 'Piasek' znajdująca się w sekcji 'Materiały sypkie', co jest również spójne ze wskazówką systemową."
+    },
+    {
+        "ID_Produktu": "17135",
+        "Nazwa_Produktu": "Wkład zapasowy do pomp filtrujących o wydajności 3600-5600 l / h",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Filtry do wody",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wkład do pompy o wydajności 3600-5600 l/h to typowy materiał eksploatacyjny do basenów ogrodowych. W podanym drzewie kategorii 'Baseny' (1630) jest najbardziej specyficznym miejscem dla akcesoriów i części do pomp basenowych."
+    },
+    {
+        "ID_Produktu": "17138",
+        "Nazwa_Produktu": "Wkład zapasowy do pomp filtrujących o wydajności 1249 l / h",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Filtry do wody",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Wkład o wydajności 1249 l/h oraz wymiarach 8 x 9 cm to standardowy filtr typu I stosowany w pompach do basenów ogrodowych (np. marek Bestway lub Intex). Najbardziej odpowiednią kategorią dla akcesoriów basenowych w tym drzewie kategorii jest 'Baseny' (ID: 1630) w sekcji Dom i Ogród > Ogród."
+    },
+    {
+        "ID_Produktu": "17162",
+        "Nazwa_Produktu": "Pokrowiec na basen 305 - 330 cm",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest pokrowcem przeznaczonym wyłącznie do basenów ogrodowych, co czyni kategorię 'Dom i Ogród > Ogród > Baseny' (ID: 1630) jedynym właściwym wyborem. Podpowiedź systemu dotycząca motoryzacji jest błędna, ponieważ odnosi się do pokrowców samochodowych."
+    },
+    {
+        "ID_Produktu": "17168",
+        "Nazwa_Produktu": "Mata pod basen 330 x 330 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata pod basen, która bezpośrednio służy do ochrony i użytkowania basenu ogrodowego. W podanym drzewie kategorii najbardziej szczegółową i pasującą kategorią-liściem dla basenów oraz ich akcesoriów jest kategoria 'Baseny' (ID: 1630) znajdująca się w sekcji Dom i Ogród > Ogród."
+    },
+    {
+        "ID_Produktu": "17171",
+        "Nazwa_Produktu": "Pokrowiec na basen 366 - 380 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to akcesorium do basenu ogrodowego. Najbardziej specyficzną kategorią dla basenów i ich osprzętu (takiego jak pokrowce, pompy czy filtry) jest kategoria 'Baseny' w sekcji 'Ogród'. Sugerowana kategoria 'Pokrowce' znajduje się w dziale 'Wyposażenie wnętrz', co wskazuje na pokrowce na meble domowe, a nie na architekturę ogrodową."
+    },
+    {
+        "ID_Produktu": "17177",
+        "Nazwa_Produktu": "Mata pod basen 390 x 390 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata pod basen ogrodowy, która jest bezpośrednim akcesorium basenowym. W strukturze kategorii OLX akcesoria basenowe, chemia oraz same baseny ogrodowe są umieszczane w kategorii 'Baseny' (ID 1630) w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "17228",
+        "Nazwa_Produktu": "Pompka  BESTWAY Air Hammer 19",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Pompki rowerowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pompka Bestway Air Hammer 19 to urządzenie tłokowe o dużej objętości (2x2000 cm3) przeznaczone do pompowania przedmiotów wielkogabarytowych, takich jak baseny, pontony i materace. Marka Bestway jest bezpośrednio kojarzona z basenami, a kategoria 'Baseny' (ID 1630) jest najbardziej właściwym miejscem dla tego typu akcesoriów na OLX. Sugestia systemu dotycząca pompek rowerowych jest błędna, ponieważ pompki rowerowe wymagają wysokiego ciśnienia, a nie dużej objętości powietrza przy niskim ciśnieniu."
+    },
+    {
+        "ID_Produktu": "17249",
+        "Nazwa_Produktu": "Plastikowy dozownik do chloru 13 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pływający dozownik chemii basenowej (chloru), który jest nieodłącznym akcesorium do pielęgnacji basenów ogrodowych. W drzewie kategorii OLX akcesoria basenowe znajdują się w kategorii Dom i Ogród > Ogród > Baseny."
+    },
+    {
+        "ID_Produktu": "17252",
+        "Nazwa_Produktu": "Plastikowy dozownik do chloru 17 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Dozownik chloru jest akcesorium służącym do pielęgnacji i utrzymania czystości wody basenowej, dlatego kategoria 'Baseny' (ID 1630) w sekcji 'Ogród' jest najbardziej adekwatnym i najgłębszym wyborem dla tego produktu."
+    },
+    {
+        "ID_Produktu": "17255",
+        "Nazwa_Produktu": "Pływająca lampa solarna BESTWAY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Oświetlenie ogrodowe",
+        "Finalne_ID_AI": 1638,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pływająca lampa solarna przeznaczona do oświetlania basenu, co najlepiej klasyfikuje ją jako oświetlenie ogrodowe w sekcji Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "17276",
+        "Nazwa_Produktu": "Prosta Huśtawka Drewniana MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka ogrodowa/domowa, która wprost pasuje do kategorii 'Huśtawki i place zabaw' znajdującej się w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "17285",
+        "Nazwa_Produktu": "Wielofunkcyjna Drewniana Huśtawka dla Dzieci MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to huśtawka dla dzieci przeznaczona do użytku wewnątrz i na zewnątrz, co bezpośrednio odpowiada specyfice kategorii 'Huśtawki i place zabaw' znajdującej się w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "17303",
+        "Nazwa_Produktu": "Huśtawka lina z węzłami dla dzieci MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka linowa oraz lina do wspinaczki dla dzieci, co w strukturze kategorii OLX najlepiej odpowiada kategorii 'Huśtawki i place zabaw' znajdującej się w dziale Ogród."
+    },
+    {
+        "ID_Produktu": "17306",
+        "Nazwa_Produktu": "Huśtawka Drabinka dla Dzieci MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka drabinka przeznaczona dla dzieci, co w strukturze OLX najlepiej odpowiada kategorii 'Huśtawki i place zabaw' znajdującej się w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "17312",
+        "Nazwa_Produktu": "Huśtawka Podwójna Drabinka dla Dzieci MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to drewniana huśtawka i drabinka dla dzieci, co bezpośrednio odpowiada definicji kategorii 'Huśtawki i place zabaw' znajdującej się w sekcji Ogród."
     }
 ]
