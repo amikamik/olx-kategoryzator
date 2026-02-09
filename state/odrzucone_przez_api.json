@@ -70,5 +70,63 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "15539",
+        "Nazwa_Produktu": "Pas piersiowy do pomiaru tętna",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas piersiowy do pomiaru tętna, który jest klasycznym akcesorium treningowym używanym w sporcie i fitnessie. Zgodnie z drzewem kategorii OLX, tego typu pulsometry sportowe najlepiej pasują do ścieżki: Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pas piersiowy do pomiaru tętna",
+                "description": "PAS PIERSIOWY DO POMIARU TĘTNA BEZPRZEWODOWO Przetwornik do pomiaru tętna bezprzewodowo Częstotliwość: 5,3 KHZ Kompatybilny z produktami POLAR o częstotliwości 5,35 kHz Kompatybilny z większością testerów sportowych i sprzętu fitness Dystans transmisji : 85 100 cm Zasilane baterią CR2032 Waga z opakowaniem: 0,20 kg Wymiary opakowania: 7 x 14 x 6 cm\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: MASTER\nAdres: Provozn 5560/1b, 72200, Ostrava, CZ\nEmail: info(at)mastersport.cz\nTelefon: +420596633216\n----------------------------------------",
+                "category_id": 4353,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 125.42,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pulsometry/MASJSTB03/MAS-JSTB-03.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pulsometry/MASJSTB03/MAS-JSTB-03-3d.gif"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Plik nie mógł być wgrany."
+                }
+            }
+        }
     }
 ]
