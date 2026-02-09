@@ -7598,5 +7598,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to żarnik, czyli element grzejny do grzejnika gazowego. Kategoria 'Grzejniki' (Dom i Ogród > Ogrzewanie > Grzejniki) jest najbardziej szczegółową i trafioną kategorią dla tego typu części, ponieważ odnosi się bezpośrednio do urządzenia, do którego jest przeznaczony żarnik."
+    },
+    {
+        "ID_Produktu": "1010496",
+        "Nazwa_Produktu": "Pojemnik stalowy do podgrzewacza do żywności GN1/1 - 2 KOMORY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to stalowy pojemnik do podgrzewacza żywności, przeznaczony do użytku w branży HoReCa (hotele, bary, restauracje). Najlepiej pasującą kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', która dokładnie odzwierciedla jego zastosowanie w profesjonalnej gastronomii. Kategoria z podpowiedzi systemowej 'Dom i Ogród' nie jest odpowiednia ze względu na charakterystykę produktu dla biznesu."
     }
 ]
