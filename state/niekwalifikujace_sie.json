@@ -2018,5 +2018,155 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego, co idealnie pasuje do najbardziej szczegółowej kategorii w drzewie: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy."
+    },
+    {
+        "ID_Produktu": "20628",
+        "Nazwa_Produktu": "Plastikowy Kosz do koszykówki dla dzieci MASTER Kid 135",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stojak z koszem do gry w koszykówkę. W drzewie kategorii najbardziej precyzyjnym dopasowaniem jest ścieżka Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria. Kategoria sugerowana przez podpowiedź (Zabawki plastyczne) jest błędna ze względu na charakter produktu."
+    },
+    {
+        "ID_Produktu": "20629",
+        "Nazwa_Produktu": "Piłka do kosza SPARTAN Florida 7",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do gry w koszykówkę. Zgodnie z drzewem kategorii, najbardziej trafnym wyborem jest kategoria 'Akcesoria' w sekcji 'Koszykówka', która należy do 'Sportów drużynowych'. Podpowiedź systemowa sugerująca piłki do ćwiczeń fitness jest błędna w tym kontekście."
+    },
+    {
+        "ID_Produktu": "21110",
+        "Nazwa_Produktu": "Rękawica baseballowa SPARTAN Junior Lewa",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Odzież i obuwie rowerowe > Rękawiczki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Baseball jest sportem drużynowym. Ponieważ w drzewie kategorii OLX pod 'Sporty drużynowe' nie ma dedykowanej sekcji dla baseballu (istnieją tylko dla piłki nożnej, siatkówki, koszykówki i piłki ręcznej), produkt powinien trafić do kategorii 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "21111",
+        "Nazwa_Produktu": "Rękawica Baseballowa BRETT Junior Prawa",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Dla dzieci",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rękawica do baseballu, który jest sportem drużynowym. W strukturze kategorii OLX baseball nie posiada własnej dedykowanej sekcji, dlatego najbardziej szczegółową i poprawną kategorią jest 'Pozostałe sporty drużynowe' w obrębie działu Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "21112",
+        "Nazwa_Produktu": "Rękawica baseballowa BRETT Senior Prawa",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Poradniki i albumy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sprzęt sportowy do baseballu. Ponieważ baseball jest sportem drużynowym i nie posiada dedykowanej sekcji w drzewie kategorii OLX, najlepiej pasuje do kategorii 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "21117",
+        "Nazwa_Produktu": "Deskorolka  MASTER 29 Czerwony",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczna deskorolka typu longboard, która idealnie pasuje do liścia 'Deskorolki' w sekcji 'Skating' w kategorii głównej 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "21121",
+        "Nazwa_Produktu": "Deskorolka Klasyczna Profilowana MASTER - Czaszka",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczna deskorolka, która jednoznacznie pasuje do liścia kategorii 'Deskorolki' znajdującego się w sekcji Sport i Hobby > Skating."
+    },
+    {
+        "ID_Produktu": "21122",
+        "Nazwa_Produktu": "Huśtawka Ogrodowa Podwieszana Dla Dzieci MASTER Niebieska",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest huśtawką ogrodową przeznaczoną dla dzieci. Wybrana kategoria 'Huśtawki i place zabaw' (ID: 1708) jest najbardziej precyzyjnym liściem w drzewie kategorii, idealnie dopasowanym do przeznaczenia i charakteru przedmiotu ogłoszenia."
+    },
+    {
+        "ID_Produktu": "21128",
+        "Nazwa_Produktu": "Rękawica baseballowa BRETT Senior Lewa",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Poradniki i albumy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rękawica do baseballa, który jest sportem drużynowym. W drzewie kategorii OLX baseball nie posiada własnej dedykowanej podkategorii, dlatego najbardziej właściwym i szczegółowym wyborem jest kategoria 'Pozostałe sporty drużynowe' w sekcji 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "21129",
+        "Nazwa_Produktu": "Plastikowa Huśtawka Dla Dzieci MASTER Niebieska",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to plastikowa huśtawka dziecięca, która w strukturze OLX jest klasyfikowana w kategorii 'Huśtawki i place zabaw' w sekcji Dom i Ogród > Ogród."
+    },
+    {
+        "ID_Produktu": "21130",
+        "Nazwa_Produktu": "Plastikowa Huśtawka Dla Dzieci MASTER Zielona",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plastikowa huśtawka przeznaczona dla dzieci do użytku zewnętrznego lub w ogrodzie, co precyzyjnie odpowiada kategorii 'Huśtawki i place zabaw' znajdującej się w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "21131",
+        "Nazwa_Produktu": "Plastikowa Huśtawka Dla Dzieci MASTER Pomarańczowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to plastikowa huśtawka dziecięca, która w drzewie kategorii OLX najlepiej pasuje do specyficznej kategorii liścia 'Huśtawki i place zabaw' znajdującej się w sekcji Dom i Ogród > Ogród."
+    },
+    {
+        "ID_Produktu": "21132",
+        "Nazwa_Produktu": "Plastikowa Huśtawka Dla Dzieci MASTER Fioletowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczna plastikowa huśtawka dziecięca przeznaczona do zawieszenia, co jednoznacznie klasyfikuje go do kategorii 'Huśtawki i place zabaw' znajdującej się w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "21133",
+        "Nazwa_Produktu": "Huśtawka Ogrodowa Podwieszana Dla Dzieci MASTER Zielona",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka ogrodowa podwieszana, która bezpośrednio odpowiada definicji kategorii 'Huśtawki i place zabaw' znajdującej się w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "21134",
+        "Nazwa_Produktu": "Huśtawka Ogrodowa Podwieszana Dla Dzieci MASTER Fioletowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest huśtawką przeznaczoną do użytku zewnętrznego (ogród, taras, działka). Kategoria 'Huśtawki i place zabaw' (ID: 1708) w sekcji 'Ogród' jest najbardziej specyficznym i trafnym dopasowaniem dla tego typu asortymentu."
     }
 ]
