@@ -194,5 +194,68 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "16367",
+        "Nazwa_Produktu": "Plastikowy pachołek treningowy SPARTAN 45 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pachołek treningowy jest uniwersalnym akcesorium do ćwiczeń zręcznościowych i szybkościowych. W drzewie kategorii OLX najlepiej pasuje do sekcji Fitness > Akcesoria treningowe > Pozostałe, ponieważ nie posiada dedykowanej podkategorii (takiej jak np. maty czy hantle).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Plastikowy pachołek treningowy spartan 45 cm",
+                "description": "Plastikowy pachołek treningowy SPARTAN 45 cm to idealny dodatek do gier sportowych. Może służyć do wyznaczenia obszaru gry, slalomu lub jako narzędzie treningowe. Posiada możliwość przymocowania go do podłoża za pomocą kołków, w celu zwiększenia stabilności. Pachołek doskonale sprawdzi się podczas treningów szybkości, ćwiczeń z piłką i zabaw dla dzieci. Specyfikacja: Odpowiedni do wyznaczania obszaru gry Może być stosowany jako narzędzie szkoleniowe podczas treningów i zabaw dla dzieci. Otwór umożliwia przytwierdzenie go do podłoża za pomocą kołków (zestaw nie obejmuje kołków) Wysokość: 45 cm Kolor: pomarańczowy Waga z opakowaniem: 0,40 kg Wymiary opakowania: 46 x 21 x 21 cm\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: SPARTAN GmbH\nAdres: Hermann-Gebauer-Strae 9, A-1220, Wien, AT\nEmail: info(at)spartan-sport.at\nTelefon: +43(1)2597116\n----------------------------------------",
+                "category_id": 4353,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 46.48,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/sportyletnie/pilkanozna/akcesoria/S4982/S4983_ab (1).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

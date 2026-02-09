@@ -578,5 +578,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Baseball jest sportem drużynowym, a ponieważ w drzewie kategorii 'Sporty drużynowe' nie ma dedykowanej sekcji dla baseballu, kategoria 'Pozostałe sporty drużynowe' jest najbardziej trafnym i szczegółowym wyborem."
+    },
+    {
+        "ID_Produktu": "16268",
+        "Nazwa_Produktu": "Zestaw komplet do gry w krokieta dla 4 osób",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara porcelana > Serwisy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Krokiet jest klasyczną grą rekreacyjną/towarzyską uprawianą na zewnątrz. Ze względu na brak dedykowanej podkategorii dla tej konkretnej dyscypliny, kategoria 'Sporty towarzyskie > Pozostałe sporty towarzyskie' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "16271",
+        "Nazwa_Produktu": "Zestaw komplet do gry w krokieta dla 6 osób",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara porcelana > Serwisy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do klasycznej gry ogrodowej - krokieta. W strukturze OLX gry tego typu najlepiej pasują do kategorii 'Sport i Hobby > Sporty towarzyskie', a ze względu na brak dedykowanej podkategorii dla krokieta, właściwym wyborem jest liść 'Pozostałe sporty towarzyskie'."
+    },
+    {
+        "ID_Produktu": "16349",
+        "Nazwa_Produktu": "Gwizdek metalowy MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Militaria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Akcesoria dla sędziów",
+        "Finalne_ID_AI": 4975,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Gwizdek jest opisany jako narzędzie niezbędne podczas meczów i gier zespołowych, co bezpośrednio kwalifikuje go jako akcesorium sędziowskie w kategorii sportów drużynowych."
+    },
+    {
+        "ID_Produktu": "16352",
+        "Nazwa_Produktu": "Gwizdek plastikowy SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Akcesoria dla sędziów",
+        "Finalne_ID_AI": 4975,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Gwizdek to podstawowy element wyposażenia sędziowskiego w sportach drużynowych oraz narzędzie pracy trenerów podczas aktywności fizycznych. Marka Spartan jest znanym producentem sprzętu sportowego, co czyni kategorię 'Akcesoria dla sędziów' najbardziej adekwatną."
+    },
+    {
+        "ID_Produktu": "16355",
+        "Nazwa_Produktu": "Gwizdek metalowy SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Akcesoria dla sędziów",
+        "Finalne_ID_AI": 4975,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Gwizdek jest opisany jako narzędzie niezbędne podczas meczów i gier zespołowych, co jednoznacznie klasyfikuje go jako akcesorium sędziowskie w kategorii sportów drużynowych."
+    },
+    {
+        "ID_Produktu": "16358",
+        "Nazwa_Produktu": "Pompka do piłek MASTER - 12",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Pompki rowerowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to pompka przeznaczona do piłek (wyposażona w igłę), co jest kluczowym akcesorium w sportach drużynowych (piłka nożna, koszykówka, siatkówka). Kategoria 'Pozostałe sporty drużynowe' jest najbardziej szczegółowym liściem dla ogólnego sprzętu do piłek, który nie jest przypisany do jednej konkretnej dyscypliny."
     }
 ]
