@@ -7608,5 +7608,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to stalowy pojemnik do podgrzewacza żywności, przeznaczony do użytku w branży HoReCa (hotele, bary, restauracje). Najlepiej pasującą kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', która dokładnie odzwierciedla jego zastosowanie w profesjonalnej gastronomii. Kategoria z podpowiedzi systemowej 'Dom i Ogród' nie jest odpowiednia ze względu na charakterystykę produktu dla biznesu."
+    },
+    {
+        "ID_Produktu": "1010502",
+        "Nazwa_Produktu": "Pokrywa pokrywka przezroczysta otwierana ROLLTOP do tacy GN 1/1",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywa typu ROLLTOP do tacy GN 1/1, przeznaczona do użytku w profesjonalnej gastronomii (barach samoobsługowych, hotelach, restauracjach). Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna dla tego typu akcesoriów."
     }
 ]
