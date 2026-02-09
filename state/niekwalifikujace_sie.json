@@ -2168,5 +2168,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt jest huśtawką przeznaczoną do użytku zewnętrznego (ogród, taras, działka). Kategoria 'Huśtawki i place zabaw' (ID: 1708) w sekcji 'Ogród' jest najbardziej specyficznym i trafnym dopasowaniem dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "21163",
+        "Nazwa_Produktu": "Deskorolka Pennyboard Fiszka MASTER - Niebieska",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to deskorolka typu pennyboard (fiszka), która idealnie pasuje do kategorii liścia 'Deskorolki' znajdującej się w ścieżce Sport i Hobby > Skating."
+    },
+    {
+        "ID_Produktu": "21164",
+        "Nazwa_Produktu": "Deskorolka Pennyboard Fiszka MASTER - Różowa",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to deskorolka typu pennyboard (fiszka), która bezpośrednio odpowiada kategorii liściowej 'Deskorolki' w sekcji 'Skating' w ramach 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "21165",
+        "Nazwa_Produktu": "Deskorolka MASTER 22'' z świecącymi kółkami - Niebieska",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to Penny board, czyli rodzaj deskorolki wykonanej z tworzywa sztucznego. Kategoria 'Deskorolki' w sekcji 'Skating' (Sport i Hobby) jest najbardziej precyzyjnym wyborem dla tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "21166",
+        "Nazwa_Produktu": "Plastikowa deska MASTER 22\" ze świecącym kółkami - różowa",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to Penny board, który jest rodzajem deskorolki. Najbardziej precyzyjną kategorią w drzewie jest 'Deskorolki' znajdująca się w sekcji 'Skating'."
     }
 ]
