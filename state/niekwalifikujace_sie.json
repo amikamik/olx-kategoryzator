@@ -7178,5 +7178,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to końcówka cukiernicza przeznaczona do użytku profesjonalnego w zakładach cukierniczych, piekarniczych, hotelach i restauracjach. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia dla tego typu zastosowań. Ponieważ nie ma bardziej szczegółowej kategorii dla akcesoriów cukierniczych w ramach 'Gastronomia', wybrana została kategoria 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1010053",
+        "Nazwa_Produktu": "Końcówka tylka prosta do rękawa worka cukierniczego śr. 2mm - HENDI 551325",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to końcówka cukiernicza, która jest akcesorium wykorzystywanym w profesjonalnych zakładach cukierniczych, piekarniczych, hotelach i restauracjach. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia dla tego typu produktów. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego konkretnego typu akcesoriów, 'Pozostałe' w ramach 'Gastronomia' jest najlepszym wyborem. Sugestia systemu OLX odnosi się do ogólnego 'osprzętu do narzędzi', ale nie uwzględnia specyficznego kontekstu gastronomicznego produktu."
+    },
+    {
+        "ID_Produktu": "1010054",
+        "Nazwa_Produktu": "Końcówka tylka prosta do rękawa worka cukierniczego śr. 3mm - HENDI 551295",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to końcówka cukiernicza, której opis wyraźnie wskazuje na zastosowanie profesjonalne w 'lokalach oraz zakładach cukierniczych i piekarniczych oraz w hotelach i restauracjach'. Kategoria 'Firma i Przemysł > Gastronomia' jest najlepszym wyborem. Ponieważ nie ma bardziej szczegółowej kategorii dla akcesoriów cukierniczych w ramach 'Gastronomia', wybrana została kategoria 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1010058",
+        "Nazwa_Produktu": "Końcówka tylka prosta do rękawa worka cukierniczego śr. 9mm - HENDI 551264",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to końcówka cukiernicza, która z opisu wynika, że jest przeznaczona do zastosowań profesjonalnych w zakładach cukierniczych, piekarniach, hotelach i restauracjach. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do tego typu zastosowań. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego konkretnego akcesorium cukierniczego, 'Pozostałe' w ramach 'Gastronomia' jest najgłębszym i najlepiej pasującym liściem."
     }
 ]
