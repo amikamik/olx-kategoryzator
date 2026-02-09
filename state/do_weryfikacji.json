@@ -8,5 +8,96 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "20590",
+        "Nazwa_Produktu": "Łyżwy saneczkowe dwupłozowe dla dzieci SPARTAN 24-31 - Czerwone",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty zimowe > Łyżwy",
+        "Finalne_ID_AI": 1925,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to łyżwy dziecięce (saneczkowe/dwupłozowe), które jednoznacznie pasują do kategorii 'Łyżwy' w sekcji sportów zimowych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "20609",
+        "Nazwa_Produktu": "Hokej stołowy MASTER Standard",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Gry dla dzieci",
+        "Finalne_ID_AI": 3071,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kompaktowy hokej stołowy (wymiary 53x30 cm), który ze względu na swoje parametry i wyraźne wskazanie wieku 'od 3 lat' kwalifikuje się jako zabawka zręcznościowa. Najbardziej precyzyjną kategorią dla tego typu gier mechanicznych przeznaczonych dla dzieci jest 'Gry dla dzieci' w sekcji 'Zabawki'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "20610",
+        "Nazwa_Produktu": "Magnezja kreda sportowa magnezowa MASTER - kostka 55 g",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to magnezja w kostce, która jest akcesorium wspomagającym chwyt podczas treningu (fitness, kulturystyka, gimnastyka). W drzewie kategorii najlepiej pasuje do sekcji Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe (id: 4353), ponieważ jest to drobny sprzęt uzupełniający trening, dla którego nie przewidziano oddzielnej, dedykowanej kategorii.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "20619",
+        "Nazwa_Produktu": "Maska do nurkowania MASTER Czarna L-XL",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Nurkowanie",
+        "Finalne_ID_AI": 1831,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pełnotwarzowa maska do nurkowania z fajką (snorkeling), która idealnie pasuje do najbardziej szczegółowej kategorii 'Nurkowanie' w sekcji sportów wodnych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "20620",
+        "Nazwa_Produktu": "Maska do nurkowania MASTER Czarna S-M",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Nurkowanie",
+        "Finalne_ID_AI": 1831,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to maska do nurkowania, a w drzewie kategorii OLX znajduje się dedykowana kategoria 'Nurkowanie' (ID 1831) w sekcji Sportów wodnych, która jest najbardziej precyzyjnym dopasowaniem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "20621",
+        "Nazwa_Produktu": "Kamizelka obciążeniowa MASTER X 5 kg",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalne_ID_AI": 4353,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kamizelka obciążeniowa MASTER to wearable gear przeznaczony do podniesienia intensywności treningu (biegowego, fitness). Najlepiej pasuje do sekcji 'Akcesoria treningowe', a ze względu na brak dedykowanej podkategorii dla kamizelek, poprawnym wyborem jest liść 'Pozostałe' w tej gałęzi.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "20624",
+        "Nazwa_Produktu": "Zestaw Ochraniaczy MASTER M Czarny",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Akcesoria skating",
+        "Finalne_ID_AI": 1679,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Zestaw ochraniaczy na nadgarstki, łokcie i kolana to standardowe wyposażenie ochronne stosowane w skatingu (rolki, deskorolki, hulajnogi). Wybrana kategoria 'Akcesoria skating' jest najbardziej specyficznym miejscem dla tego typu produktów w drzewie kategorii.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]
