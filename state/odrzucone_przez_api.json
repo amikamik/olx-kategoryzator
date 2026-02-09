@@ -128,5 +128,71 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "15578",
+        "Nazwa_Produktu": "Guma do ćwiczeń  1250 x 15 x 0.45 mm Czerwona",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to guma do ćwiczeń, która posiada dedykowaną kategorię liścia 'Taśmy i gumy do ćwiczeń' w ścieżce Sport i Hobby > Fitness > Akcesoria treningowe.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Guma do ćwiczeń  1250 x 15 x 0.45 mm czerwona",
+                "description": "Guma do ćwiczeń 1250 x 150 x 0.45 mm to praktyczne narzędzie do wykonywania ćwiczeń. Gwarantuje dużą rozciągliwość i wytrzymałość. Guma jest idealna zarówna dla początkujących jak i zaawansowanych użytkowników. Idealna do siłowni, klubu fitness czy do domu. Specyfikacja: Długość: 125 cm Szerokość: 15 cm Grubość: 0,45 mm Kolor: Czerwony Przeznaczona do ćwiczeń w domu i na siłowni Waga z opakowaniem: 0,08 kg Wymiary opakowania: 16 x 12 x 1 cm\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: MASTER\nAdres: Provozn 5560/1b, 72200, Ostrava, CZ\nEmail: info(at)mastersport.cz\nTelefon: +420596633216\n----------------------------------------",
+                "category_id": 4351,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 26.14,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pozostale/MAS4A139/MAS4A139_23.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pozostale/MAS4A139/MAS4A138-140 (1).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.1.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

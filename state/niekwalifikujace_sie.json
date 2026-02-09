@@ -168,5 +168,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to drabinka koordynacyjna służąca do poprawy sprawności fizycznej, co wprost odpowiada kategorii 'Drabinki treningowe' znajdującej się w sekcji Fitness."
+    },
+    {
+        "ID_Produktu": "15608",
+        "Nazwa_Produktu": "Twister magnetyczny MASTER Rotana",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to twister magnetyczny służący do ćwiczeń fitness, który posiada dedykowaną kategorię liścia 'Stepy, steppery i twistery' w drzewie kategorii OLX."
+    },
+    {
+        "ID_Produktu": "15611",
+        "Nazwa_Produktu": "Twister obrotowy z linkami MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest twisterem obrotowym przeznaczonym do ćwiczeń fitness, co wprost odpowiada nazwie kategorii 'Stepy, steppery i twistery'."
     }
 ]
