@@ -2208,5 +2208,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to Penny board, który jest rodzajem deskorolki. Najbardziej precyzyjną kategorią w drzewie jest 'Deskorolki' znajdująca się w sekcji 'Skating'."
+    },
+    {
+        "ID_Produktu": "21184",
+        "Nazwa_Produktu": "Sprężynowa obręcz 45cm do koszykówki MASTER + siatka",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna, stalowa obręcz do koszykówki z siatką o standardowej średnicy 45 cm. Jest to typowe akcesorium do gry w koszykówkę, dlatego najlepiej pasuje do ścieżki Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "21186",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego MASTER T30",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do tenisa stołowego (paletki i piłeczki), który idealnie pasuje do najbardziej szczegółowej kategorii 'Tenis stołowy' (liść) znajdującej się w sekcji Sportów towarzyskich."
     }
 ]
