@@ -2228,5 +2228,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to zestaw do tenisa stołowego (paletki i piłeczki), który idealnie pasuje do najbardziej szczegółowej kategorii 'Tenis stołowy' (liść) znajdującej się w sekcji Sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21193",
+        "Nazwa_Produktu": "Hulajnoga składana MASTER Chaos 145mm - kolor Zielony",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasyczną hulajnogą składaną, która idealnie pasuje do kategorii liścia 'Hulajnogi' znajdującej się w sekcji 'Skating' w dziale 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "21201",
+        "Nazwa_Produktu": "Hulajnoga składana MASTER Level Up 125 mm - kolor zielony",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pojazdy elektryczne > Hulajnogi elektryczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasyczną hulajnogą mechaniczną (nieelektryczną), o czym świadczy niska waga (2,2 kg) oraz brak wzmianki o silniku czy akumulatorze. Najbardziej odpowiednią kategorią jest zatem 'Hulajnogi' w sekcji 'Skating'."
+    },
+    {
+        "ID_Produktu": "21211",
+        "Nazwa_Produktu": "Deskorolka Klasyczna Profilowana SPARTAN Legend",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasyczną deskorolką wykonaną z drewna klonowego, przeznaczoną do skateboardingu, co idealnie pasuje do kategorii liścia 'Deskorolki' w sekcji 'Skating'."
+    },
+    {
+        "ID_Produktu": "21212",
+        "Nazwa_Produktu": "Deskorolka Klasyczna Profilowana SPARTAN Utop Board Skull City",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczna deskorolka wykonana z klonu kanadyjskiego, co kwalifikuje go bezpośrednio do kategorii liścia 'Deskorolki' w sekcji 'Skating' wewnątrz głównej kategorii 'Sport i Hobby'."
     }
 ]
