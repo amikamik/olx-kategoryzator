@@ -7618,5 +7618,155 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to pokrywa typu ROLLTOP do tacy GN 1/1, przeznaczona do użytku w profesjonalnej gastronomii (barach samoobsługowych, hotelach, restauracjach). Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna dla tego typu akcesoriów."
+    },
+    {
+        "ID_Produktu": "1010515",
+        "Nazwa_Produktu": "Lina sznur do słupków odgradzających niebieska ze srebrnymi karabińczykami dł. 1.5m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to lina do słupków odgradzających, służąca do zarządzania ruchem w miejscach publicznych takich jak hotele, restauracje, banki, muzea, kina czy biblioteki. Kategoria 'Firma i Przemysł' jest najbardziej odpowiednia dla produktów przeznaczonych do użytku komercyjnego. W jej ramach, 'Sklepy i magazyny' (ID 4668) obejmuje wyposażenie dla różnego rodzaju placówek handlowych i publicznych, gdzie takie systemy odgradzające są często stosowane. Ponieważ nie ma bardziej szczegółowej kategorii dla akcesoriów do słupków odgradzających, 'Pozostałe' (ID 4681) w ramach tej podkategorii jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1004512",
+        "Nazwa_Produktu": "Taca z polipropylenu Fast Food 30.5x41.5cm - szara",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'taca gastronomiczna' przeznaczona dla 'lokali serwujących dania typu Fast Food'. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje profesjonalne zastosowanie produktu, w przeciwieństwie do ogólnej kategorii 'Dom i Ogród', która sugerowałaby użytek domowy."
+    },
+    {
+        "ID_Produktu": "1004513",
+        "Nazwa_Produktu": "Taca z polipropylenu Fast Food 30.5x41.5cm - czerwona",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako 'taca gastronomiczna' przeznaczona do użytku w lokalach typu Fast Food. Kategoria 'Firma i Przemysł > Gastronomia' jest bardziej precyzyjna dla zastosowań komercyjnych niż ogólna kategoria 'Dom i Ogród'. W ramach kategorii 'Gastronomia', 'Pojemniki gastronomiczne' najlepiej oddają charakter tacy służącej do serwowania i przenoszenia jedzenia."
+    },
+    {
+        "ID_Produktu": "1004514",
+        "Nazwa_Produktu": "Taca z polipropylenu Fast Food 30.5x41.5cm - niebieska",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gastronomiczna taca przeznaczona do użytku w lokalach typu Fast Food. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do profesjonalnego przeznaczenia produktu. W tej gałęzi, 'Pojemniki gastronomiczne' jest najlepszym i najbardziej szczegółowym dopasowaniem, ponieważ taca służy do przenoszenia i serwowania żywności w kontekście komercyjnym."
+    },
+    {
+        "ID_Produktu": "1004515",
+        "Nazwa_Produktu": "Taca z polipropylenu Fast Food 30.5x41.5cm - zielona",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to \"taca gastronomiczna\" przeznaczona do użytku w \"barach mlecznych, budkach z hamburgerami, kebabami oraz w innych lokalach serwujących dania typu Fast Food\". Pasuje idealnie do kategorii \"Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne\", która jest bardziej specyficzna niż sugestia systemowa i odzwierciedla komercyjne przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1004516",
+        "Nazwa_Produktu": "Taca z polipropylenu Fast Food 30.5x41.5cm - brązowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taca gastronomiczna przeznaczona do użytku w lokalach typu Fast Food, co wyraźnie wskazuje na profesjonalne zastosowanie. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatną kategorią nadrzędną. W ramach tej gałęzi, taca, służąca do podawania i przenoszenia jedzenia, najlepiej pasuje do podkategorii 'Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1004517",
+        "Nazwa_Produktu": "Taca z polipropylenu Fast Food 30.5x41.5cm - czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'taca gastronomiczna' przeznaczona do 'barów mlecznych, budek z hamburgerami, kebabami'. To wyraźnie wskazuje na zastosowanie profesjonalne, komercyjne, najlepiej pasujące do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1004506",
+        "Nazwa_Produktu": "Taca z polipropylenu Fast Food 35x45cm - szara",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to taca gastronomiczna przeznaczona do użytku w lokalach typu Fast Food. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafnie oddaje komercyjny charakter produktu, lepiej niż kategoria z obszaru 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "1004508",
+        "Nazwa_Produktu": "Taca z polipropylenu Fast Food 35x45cm - niebieska",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taca gastronomiczna, przeznaczona do użytku w lokalach typu fast food. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do zastosowania komercyjnego. W ramach 'Gastronomii', 'Pojemniki gastronomiczne' najlepiej opisują tacę."
+    },
+    {
+        "ID_Produktu": "1004509",
+        "Nazwa_Produktu": "Taca z polipropylenu Fast Food 35x45cm - zielona",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to taca gastronomiczna przeznaczona do lokali typu Fast Food, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia'. 'Pojemniki gastronomiczne' jest najbardziej szczegółową kategorią dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "1004489",
+        "Nazwa_Produktu": "Taca kelnerska antypoślizgowa EN EURONORM 37x53cm - czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taca kelnerska, przeznaczona do profesjonalnych lokali gastronomicznych, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia'. 'Pojemniki gastronomiczne' jest najbardziej szczegółową kategorią-liściem, która obejmuje ten typ produktu."
+    },
+    {
+        "ID_Produktu": "1004497",
+        "Nazwa_Produktu": "Taca kelnerska antypoślizgowa okrągła śr. 28cm - czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taca kelnerska przeznaczona do użytku w hotelach i restauracjach, co jednoznacznie wskazuje na kategorię 'Firma i Przemysł'. Ponieważ nie ma bardziej szczegółowej podkategorii dla tac w ramach 'Gastronomia', wybrana została kategoria 'Pozostałe' w tym segmencie."
+    },
+    {
+        "ID_Produktu": "1004495",
+        "Nazwa_Produktu": "Taca kelnerska antypoślizgowa okrągła śr. 40cm - czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taca kelnerska, przeznaczona do użytku w hotelach i restauracjach. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do zastosowania, a 'Pozostałe' w tej gałęzi jest najgłębszą kategorią liścia dla tego typu akcesorium."
+    },
+    {
+        "ID_Produktu": "1004494",
+        "Nazwa_Produktu": "Taca kelnerska antypoślizgowa okrągła śr. 46cm - czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako 'taca kelnerska' przeznaczona dla 'profesjonalnych lokali gastronomicznych'. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednią nadrzędną kategorią. W ramach niej, 'Pojemniki gastronomiczne' najlepiej oddają funkcję tacy jako naczynia do przenoszenia żywności i napojów w środowisku gastronomicznym. Jest to bardziej szczegółowe i trafne niż ogólna kategoria 'Tace i stoliki' pod 'Dom i Ogród', która sugeruje użytek domowy."
+    },
+    {
+        "ID_Produktu": "1010518",
+        "Nazwa_Produktu": "Taca Fast Food owalna 26.5x19.5cm - czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to taca gastronomiczna przeznaczona do użytku w lokalach typu Fast Food, co wyraźnie wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. W ramach gastronomii 'Pojemniki gastronomiczne' jest najbardziej szczegółową kategorią dla tego typu przedmiotu."
     }
 ]
