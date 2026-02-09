@@ -1,4 +1,4 @@
-﻿name: 🏷️ Kategoryzacja OLX - Najtańszy Sport (Gemini)
+﻿name: 🏷️ Kategoryzacja OLX - Najtańszy Sport VAT (Gemini)
 
 on:
   workflow_dispatch:
@@ -35,7 +35,7 @@ permissions:
 
 jobs:
   kategoryzuj:
-    name: Kategoryzacja - Najtańszy Sport (Gemini)
+    name: Kategoryzacja - Najtańszy Sport VAT (Gemini)
     runs-on: ubuntu-latest
     timeout-minutes: 360
 
