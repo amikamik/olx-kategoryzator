@@ -257,5 +257,69 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "20468",
+        "Nazwa_Produktu": "Butelka KING CAMP Tritan 0,5 l - szara",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony",
+        "Finalne_ID_AI": 2117,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wielorazowa butelka wykonana z tritanu, przeznaczona do napojów. Kategoria 'Butelki i bidony' znajdująca się w sekcji przyborów kuchennych jest najbardziej precyzyjnym dopasowaniem w strukturze kategorii.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Butelka king camp tritan 0,5 l - szara",
+                "description": "Butelka KING CAMP Tritan 0,5 l - jest lekka, przezroczysta i bardzo odporna na uszkodzenia. Niewątpliwą zaletą jest szersza szyjka, dzięki której butelkę można łatwo dokładnie wyczyścić lub napełnić np. lodem. Nie trzeba dodawać, że można ją myć w zmywarce. Zakrętka jest mocno przymocowana do butelki za pomocą taśmy, dzięki czemu jej nie zgubisz, a także możesz wygodnie nosić pełną butelkę. Wszystko wykonane jest z trwałych i nieszkodliwych materiałów. Specyfikacja: Pojemność 500 ml Nadaje się zarówno do zimnych, jak i gorących napojów Materiał: Eastman Tritan - Bez BPA Materiał nasadki: PP klasy spożywczej + TPE + silikon, gumowy pierścień (wokół nasadki): PE Podziałka na ściance butelki Wymiar: 65 x 220 mm Średnica szyjki: 46 mm Zakres temperatur: -10-99 C Waga z opakowaniem: 0,10 kg Wymiary opakowania: 6 x 22 x 6 cm\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: MASTER SPORT s.r.o.\nAdres: Provozn 5560/1b, 72200, Ostrava, CZ\nEmail: info(at)mastersport.cz\nTelefon: +420596633216\n----------------------------------------",
+                "category_id": 2117,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 60.22,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/turystykaicamping/akcesoria/MASKA1112grey/mas-ka1112-grey.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/turystykaicamping/akcesoria/MASKA1112grey/ MAS-KA1112-greya.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/turystykaicamping/akcesoria/MASKA1112grey/mas-ka1112-greyc.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.1.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

@@ -1048,5 +1048,455 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to drewniana huśtawka i drabinka dla dzieci, co bezpośrednio odpowiada definicji kategorii 'Huśtawki i place zabaw' znajdującej się w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "17610",
+        "Nazwa_Produktu": "Pokrowiec na stół tenisowy PING PONG SPONETA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to akcesorium (pokrowiec ochronny) przeznaczone bezpośrednio do stołów do tenisa stołowego (ping-ponga). Kategoria 'Tenis stołowy' (ID 5027) jest najbardziej szczegółową i trafną kategorią w drzewie dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "17670",
+        "Nazwa_Produktu": "Piłki do tenisa MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalne_ID_AI": 5028,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłki do tenisa ziemnego, co jednoznacznie klasyfikuje go do kategorii liścia 'Tenis ziemny' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "17703",
+        "Nazwa_Produktu": "Piłka do siatki SPARTAN Beach Hawai",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do siatkówki plażowej. W drzewie kategorii OLX sprzęt sportowy do konkretnych dyscyplin drużynowych, takich jak piłki, znajduje się w sekcji Sporty drużynowe > [Dyscyplina] > Akcesoria."
+    },
+    {
+        "ID_Produktu": "17706",
+        "Nazwa_Produktu": "Piłka do siatkówki SPARTAN Competition",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to piłka do siatkówki plażowej, która stanowi podstawowy sprzęt (akcesorium) w dyscyplinie siatkówki. Najbardziej precyzyjną ścieżką jest Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "17766",
+        "Nazwa_Produktu": "Kompletny zestaw do siatkówki MASTER",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest kompletnym zestawem sprzętu do gry w siatkówkę (siatka, słupki, piłka), co klasyfikuje go bezpośrednio w kategorii Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "19758",
+        "Nazwa_Produktu": "Badminton Rakieta SPARTAN Jive",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Padel",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta do badmintona. W drzewie kategorii znajduje się precyzyjna kategoria liść o nazwie 'Badminton' (id: 5029), która jest częścią ścieżki Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "19812",
+        "Nazwa_Produktu": "Drabinka treningowa koordynacyjna MASTER Heg 6 m x 42 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Drabinki treningowe",
+        "Finalne_ID_AI": 4329,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest drabinką treningową przeznaczoną do ćwiczeń koordynacyjnych, co wprost odpowiada nazwie kategorii 'Drabinki treningowe' w sekcji sprzętu fitness."
+    },
+    {
+        "ID_Produktu": "19829",
+        "Nazwa_Produktu": "Zaciski na gryf olimpijski 50mm PARA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zaciski sprężynowe do gryfów olimpijskich o średnicy 50 mm. Ponieważ są one bezpośrednim elementem składowym sztangi używanej w treningu siłowym, najlepiej pasują do kategorii 'Sprzęt siłowy'. Ze względu na brak konkretnej podkategorii dla samych zacisków w tej sekcji, produkt zostaje zaklasyfikowany do kategorii liścia 'Pozostałe' (4342) w obrębie działu sprzętu siłowego."
+    },
+    {
+        "ID_Produktu": "19850",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego PING-PONGA SPONETA 12 sztuk",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki przeznaczone do tenisa stołowego (ping-ponga). Kategoria 'Tenis stołowy' (ID 5027) jest najbardziej precyzyjnym liściem w drzewie kategorii OLX dla tego typu artykułów sportowych."
+    },
+    {
+        "ID_Produktu": "19862",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Waldner 400",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, a kategoria 'Tenis stołowy' (ID: 5027) jest najbardziej precyzyjną kategorią liściem w drzewie dla tego typu sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "19865",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Waldner 500",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, która idealnie pasuje do najbardziej szczegółowej kategorii 'Tenis stołowy' (ID: 5027) w drzewie kategorii Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "19868",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Waldner 700",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co wprost odpowiada kategorii liściowej 'Tenis stołowy' (ID: 5027) w drzewie kategorii Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "19871",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Waldner 800",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co jednoznacznie i precyzyjnie przypisuje go do liścia 'Tenis stołowy' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "19874",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Ovtcharov 300",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co precyzyjnie odpowiada kategorii liścia 'Tenis stołowy' (ID: 5027) w sekcji Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "20077",
+        "Nazwa_Produktu": "Zestaw Hantli DUMBELL MASTER 2 x 1 KG",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw metalowych hantli (dumbbells). Tytuł oraz opis bezpośrednio używają terminu 'hantle', co czyni kategorię 'Hantle' (ID 4337) w sekcji sprzętu siłowego najbardziej trafnym i specyficznym wyborem."
+    },
+    {
+        "ID_Produktu": "20080",
+        "Nazwa_Produktu": "Zestaw Hantli DUMBELL MASTER 2 x 2 KG",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw hantli metalowych przeznaczonych do treningu siłowego i fitnessu, co idealnie pasuje do najbardziej szczegółowej kategorii 'Hantle' w sekcji sprzętu siłowego."
+    },
+    {
+        "ID_Produktu": "20116",
+        "Nazwa_Produktu": "Zestaw bramek do piłki nożnej MASTER 2w1 z piłką",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw bramek do piłki nożnej wraz z akcesoriami (piłki, pompka), co jednoznacznie klasyfikuje go w kategorii Akcesoria w sekcji Piłka nożna, wewnątrz Sportów drużynowych."
+    },
+    {
+        "ID_Produktu": "20192",
+        "Nazwa_Produktu": "Huśtawka Podwieszana Dla Dzieci - Czerwona",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka ogrodowa przeznaczona do użytku zewnętrznego na placach zabaw lub w ogrodach, co bezpośrednio odpowiada kategorii 'Huśtawki i place zabaw' w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "20195",
+        "Nazwa_Produktu": "Huśtawka Podwieszana Dla Dzieci - Żółta",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka podwieszana przeznaczona dla dzieci, która na platformie OLX jest standardowo klasyfikowana w kategorii 'Huśtawki i place zabaw' (ID: 1708) wewnątrz sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "20198",
+        "Nazwa_Produktu": "Huśtawka Podwieszana Dla Dzieci - Zielona",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka dla dzieci, która w strukturze OLX znajduje się w dedykowanej kategorii 'Huśtawki i place zabaw' w sekcji ogrodowej."
+    },
+    {
+        "ID_Produktu": "20201",
+        "Nazwa_Produktu": "Huśtawka Podwieszana Dla Dzieci Niebieska",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest huśtawką dziecięcą, która w drzewie kategorii OLX jest przypisana do kategorii Huśtawki i place zabaw (ID 1708) w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "20254",
+        "Nazwa_Produktu": "Kij baseballowy drewniany 75cm Lucio Londero",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Baseball jest sportem drużynowym. Ponieważ drzewo kategorii nie posiada dedykowanej sekcji dla baseballu, produkt najlepiej pasuje do kategorii 'Pozostałe sporty drużynowe' w obrębie kategorii 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "20303",
+        "Nazwa_Produktu": "Siatka metalowa łańcuchowa do Kosza MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do koszykówki (akcesorium), która należy do kategorii sportów drużynowych, a konkretnie do koszykówki."
+    },
+    {
+        "ID_Produktu": "20313",
+        "Nazwa_Produktu": "Rakieta Do Badmintona TALBOT TORRO Attacker",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest rakietą do badmintona, co bezpośrednio odpowiada kategorii liściowej 'Badminton' w sekcji sportów towarzyskich i pokrewnych tenisowi."
+    },
+    {
+        "ID_Produktu": "20314",
+        "Nazwa_Produktu": "Rakieta Do Badmintona TALBOT TORRO Fighter",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Padel",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta do badmintona. W drzewie kategorii znajduje się dedykowana kategoria liść o nazwie 'Badminton' (ID: 5029), która jest częścią ścieżki Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "20315",
+        "Nazwa_Produktu": "Rakieta Do Badmintona TALBOT TORRO ELI Junior",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Padel",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest rakietą do badmintona, a w drzewie kategorii znajduje się precyzyjna kategoria dla tego sportu: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton."
+    },
+    {
+        "ID_Produktu": "20316",
+        "Nazwa_Produktu": "Rakieta Do Badmintona TALBOT TORRO Fighter Plus",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Padel",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta przeznaczona do badmintona, co jednoznacznie wynika z tytułu i opisu. W drzewie kategorii znajduje się precyzyjna kategoria dla tego sportu pod ścieżką Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton."
+    },
+    {
+        "ID_Produktu": "20323",
+        "Nazwa_Produktu": "Siatka Do Tenisa Stołowego DONIC Easy Clip",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do tenisa stołowego, która idealnie pasuje do najbardziej szczegółowej kategorii 'Tenis stołowy' (ID: 5027) znajdującej się w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "20325",
+        "Nazwa_Produktu": "Rakieta Do Tenisa Stołowego DONIC Waldner 600",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co jednoznacznie odpowiada liściowi 'Tenis stołowy' w drzewie kategorii 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'."
+    },
+    {
+        "ID_Produktu": "20326",
+        "Nazwa_Produktu": "Rakietka Do Tenisa Stołowego SPARTAN Cobra",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co bezpośrednio odpowiada najbardziej szczegółowej kategorii (liściowi) 'Tenis stołowy' w drzewie kategorii OLX."
+    },
+    {
+        "ID_Produktu": "20327",
+        "Nazwa_Produktu": "Rakietka Do Tenisa Stołowego SPARTAN Easy",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, która idealnie pasuje do najbardziej szczegółowej kategorii (liścia) 'Tenis stołowy' znajdującej się w drzewie Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "20328",
+        "Nazwa_Produktu": "Rakieta Do Tenisa Stołowego SPONETA Action",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta do tenisa stołowego, która bezpośrednio odpowiada kategorii liścia 'Tenis stołowy' (ID: 5027) znajdującej się w ścieżce Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "20330",
+        "Nazwa_Produktu": "Rakieta Do Tenisa Stołowego SPARTAN Power",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta do tenisa stołowego, co jednoznacznie wskazuje na kategorię liścia 'Tenis stołowy' w sekcji sportów towarzyskich i pokrewnych tenisowi."
+    },
+    {
+        "ID_Produktu": "20332",
+        "Nazwa_Produktu": "Zestaw do Tenisa Stołowego SPONETA Record",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do tenisa stołowego zawierający rakietki i piłeczki, co idealnie pasuje do najbardziej szczegółowej kategorii 'Tenis stołowy' (ID 5027) w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "20333",
+        "Nazwa_Produktu": "Rakieta Do Tenisa Stołowego SPONETA Outdoor",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta do tenisa stołowego, co precyzyjnie pasuje do kategorii liścia 'Tenis stołowy' (ID: 5027) znajdującej się w ścieżce Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "20335",
+        "Nazwa_Produktu": "Rakieta Do Tenisa Stołowego SPONETA Power",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, która posiada dedykowaną kategorię liścia 'Tenis stołowy' (ID: 5027) w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "20338",
+        "Nazwa_Produktu": "Płyn do Pielęgnacji Okładziny Paletki DONIC Bio Cleaner - 250 ml",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny środek czyszczący i pielęgnujący do gumowych okładzin rakietek do tenisa stołowego. Najbardziej precyzyjną kategorią w drzewie jest 'Tenis stołowy' (id: 5027), znajdująca się w sekcji 'Sporty towarzyskie'."
+    },
+    {
+        "ID_Produktu": "20339",
+        "Nazwa_Produktu": "Środek do Czyszczenia Gumy/Okładziny Paletek do Tenisa Stołowego Donic 100ml",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to środek czyszczący przeznaczony do okładzin paletek do tenisa stołowego, co bezpośrednio kwalifikuje go do kategorii 'Tenis stołowy' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "20340",
+        "Nazwa_Produktu": "Gąbka do pielęgnacji/czyszczenia paletek do tenisa stołowego DONIC",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla psów > Pielęgnacja",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gąbka przeznaczona do czyszczenia okładzin paletek do tenisa stołowego. Najdokładniejszą kategorią dla akcesoriów związanych z tym sportem jest 'Tenis stołowy' (Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy)."
+    },
+    {
+        "ID_Produktu": "20344",
+        "Nazwa_Produktu": "Zestaw Dwóch Mini Bramek z Piłką MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w piłkę nożną (mini bramki i piłka). Najbardziej dopasowaną kategorią w drzewie jest Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria."
+    },
+    {
+        "ID_Produktu": "20362",
+        "Nazwa_Produktu": "Lotki Do Badmintona SCHILDKROT Aero Space 5 sztuk",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lotki do badmintona, co bezpośrednio odpowiada dedykowanej kategorii liściastej Badminton w sekcji Sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "20363",
+        "Nazwa_Produktu": "Siatka Do Badmintona TALBOT TORRO Telescopic",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Torby i plecaki treningowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do badmintona. W strukturze kategorii OLX kategoria 'Badminton' (ID: 5029) znajduje się w gałęzi Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne, co stanowi najbardziej precyzyjne dopasowanie dla tego sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "20368",
+        "Nazwa_Produktu": "Pokrowiec na Rakietę do Badmintona TALBOT TORRO 3/4",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Squash",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to akcesorium (pokrowiec) przeznaczone konkretnie do rakiety do badmintona. W drzewie kategorii pod 'Sporty towarzyskie' i 'Tenis i pokrewne' znajduje się dedykowana kategoria 'Badminton' (ID 5029), która jest najbardziej precyzyjnym wyborem dla tego produktu."
+    },
+    {
+        "ID_Produktu": "20369",
+        "Nazwa_Produktu": "Pokrowiec na rakietę do badmintona TALBOT TORRO Isoforce",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Squash",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec na rakietę do badmintona. W drzewie kategorii znajduje się dedykowana kategoria liść dla tego sportu: Badminton (ID: 5029)."
+    },
+    {
+        "ID_Produktu": "20381",
+        "Nazwa_Produktu": "Nadmuchiwany Basen Giant 200 x 150 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to nadmuchiwany basen ogrodowy o dużych wymiarach (200x150 cm), który idealnie pasuje do kategorii Baseny w sekcji Ogród."
     }
 ]
