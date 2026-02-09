@@ -1358,5 +1358,83 @@
         "api_error": {
             "error": "Błąd pobierania atrybutów z OLX API."
         }
+    },
+    {
+        "ID_Produktu": "1010794",
+        "Nazwa_Produktu": "Taśmy pasy treningowe do ćwiczeń crossfit 164 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Taśmy i gumy do ćwiczeń",
+        "Finalne_ID_AI": 4351,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują na taśmy treningowe/pasy oporowe, które idealnie pasują do kategorii 'Taśmy i gumy do ćwiczeń' w drzewie 'Sport i Hobby > Fitness > Akcesoria treningowe'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1010831",
+        "Nazwa_Produktu": "Monokular turystyczny Luneta 10-30x",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Pozostałe",
+        "Finalne_ID_AI": 4009,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to monokular turystyczny, idealny do obserwacji przyrody, krajobrazów, zwierząt, co bezpośrednio wpisuje się w kategorię 'Turystyka'. Ponieważ nie ma bardziej szczegółowej kategorii dla 'monokularów' lub 'lunet' w gałęzi 'Osprzęt turystyczny', kategoria 'Pozostałe' w tej ścieżce jest najbardziej odpowiednia i szczegółowa.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1010837",
+        "Nazwa_Produktu": "Oczyszczacz powietrza Uniprodo 16 m2 130 m3/godz",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD drobne > Oczyszczacze powietrza",
+        "Finalne_ID_AI": 2238,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to oczyszczacz powietrza, a kategoria \"Oczyszczacze powietrza\" (ID: 2238) jest bezpośrednim, szczegółowym dopasowaniem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1010839",
+        "Nazwa_Produktu": "Oczyszczacz powietrza Uniprodo 10 m2 80 m3/godz",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD drobne > Oczyszczacze powietrza",
+        "Finalne_ID_AI": 2238,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu 'Oczyszczacz powietrza' idealnie pasuje do kategorii 'Elektronika -> Sprzęt AGD -> AGD drobne -> Oczyszczacze powietrza'. Opis produktu dodatkowo potwierdza funkcje typowe dla tej kategorii.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1011300",
+        "Nazwa_Produktu": "Ściereczki do nasączania POWER ProfiSauber WET REF 100 - WKŁAD",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria",
+        "Finalne_ID_AI": 2906,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne ściereczki (czyściwo przemysłowe, bezpyłowe), dedykowane do czyszczenia urządzeń elektronicznych, optycznych i monitorów LCD. Najbardziej szczegółowa i trafna kategoria znajduje się w drzewie Elektronika, pod Akcesoriami komputerowymi, ponieważ produkt służy do konserwacji sprzętu elektronicznego.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1011301",
+        "Nazwa_Produktu": "POWER CLEANER IPA zestaw do czyszczenia elektroniki optyki i monitorów PRO-LINE",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Pozostała elektronika",
+        "Finalne_ID_AI": 451,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny zestaw do czyszczenia szerokiej gamy urządzeń elektronicznych, optycznych i monitorów LCD. Kategoria 'Pozostała elektronika' jest najbardziej odpowiednią kategorią-liściem, ponieważ obejmuje ogólne akcesoria i produkty związane z elektroniką, które nie pasują do bardziej specyficznych podkategorii (np. Komputery, Telefony, Fotografia), a ten zestaw jest uniwersalny.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]

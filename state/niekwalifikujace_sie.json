@@ -7838,5 +7838,235 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to palnik gazowy dekarski/budowlany, używany do izolacji papy, smoły oraz do zgrzewania. Jego główna funkcja to aplikowanie ciepła w celu łączenia lub topienia materiałów, co jest bardzo zbliżone do zastosowań spawarek i lutownic, które również służą do łączenia materiałów za pomocą ciepła. Kategoria 'Spawarki i lutownice' jest najbardziej szczegółową i najlepiej pasującą opcją pod względem funkcjonalnym, pomimo że palnik jest gazowy, a nie elektryczny, co jest akceptowalne w tej szerokiej kategorii narzędzi grzewczych do łączenia."
+    },
+    {
+        "ID_Produktu": "1010658",
+        "Nazwa_Produktu": "Palnik gazowy do lutowania rur gaz LPG ZESTAW 3 dysze 2 kW",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu wyraźnie wskazują, że jest to palnik gazowy przeznaczony do lutowania rur (na twardo i miękko). Kategoria 'Spawarki i lutownice' jest najbardziej szczegółową i trafioną kategorią dla tego typu narzędzia."
+    },
+    {
+        "ID_Produktu": "1011023",
+        "Nazwa_Produktu": "Kasetka stalowa na pieniądze z tacką na monety bilon",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kasetka na pieniądze, która jest akcesorium biurowym/handlowym, używanym do przechowywania bilonu i banknotów. Opis wyraźnie wskazuje na zastosowanie w punktach usługowych (salon kosmetyczny, gabinet lekarski, warsztat, sklep, bar, hotel), co idealnie pasuje do kategorii 'Firma i Przemysł' a następnie 'Biuro' i 'Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "1011050",
+        "Nazwa_Produktu": "Uchwyt piankowy podstawka do jacuzzi na 2 napoje",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to uchwyt na napoje do jacuzzi/basenu. Kategoria 'Baseny' (1630) jest najbardziej szczegółową i bezpośrednio pasującą kategorią-liściem dla akcesoriów związanych z basenami i jacuzzi, znajdującą się w nadrzędnej kategorii 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "1011205",
+        "Nazwa_Produktu": "Automatyczny bęben ścienny z wężem ogrodowym 15m + 1.5m 1/2''",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to automatyczny bęben z wężem ogrodowym, który jest bezpośrednio związany z nawadnianiem ogrodu. Kategoria 'Nawadnianie' jest najbardziej szczegółowa i precyzyjna dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "1011209",
+        "Nazwa_Produktu": "Siedzenie fotel do siedziska krzesła ogrodowego na kółkach 48 x 42 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Krzesła",
+        "Finalne_ID_AI": 2889,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to siedzenie przeznaczone do krzesła ogrodowego. Kategoria 'Dom i Ogród > Ogród > Meble ogrodowe > Krzesła' jest najbardziej szczegółowa i najlepiej pasująca do opisu produktu."
+    },
+    {
+        "ID_Produktu": "1011299",
+        "Nazwa_Produktu": "Ściereczki w wiaderku do nasączania z dozownikiem ProfiSauber WET SET 100",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne ściereczki do nasączania środkiem myjącym lub odkażającym, wykonane z włókniny przemysłowej, przeznaczone do czyszczenia urządzeń elektronicznych i optycznych. Tytuł i opis silnie wskazują na zastosowanie profesjonalne/przemysłowe w kontekście czyszczenia, co najlepiej pasuje do kategorii 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1011505",
+        "Nazwa_Produktu": "Tabliczka informacyjna na stół ze stali nierdzewnej DISINFECTED / DESINFIZIERT 5 szt.",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tabliczka informacyjna przeznaczona do użytku w branży gastronomicznej i hotelowej. Kategoria 'Firma i Przemysł' jest nadrzędną dla produktów profesjonalnych, a 'Gastronomia' jest najbardziej specyficznym dopasowaniem. Ponieważ nie ma podkategorii dla tabliczek informacyjnych, 'Pozostałe' w kategorii 'Gastronomia' jest najdokładniejszym wyborem."
+    },
+    {
+        "ID_Produktu": "1011515",
+        "Nazwa_Produktu": "Podnóżek kosmetyczny do pedicure regulowana wysokość do 75 cm do 80 kg - czarny",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Pozostałe",
+        "Finalne_ID_AI": 5110,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podnóżek kosmetyczny, przeznaczony do użytku w salonach kosmetycznych, pedicure. Pasuje najlepiej do kategorii 'Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne'. Ponieważ nie ma bardziej szczegółowej kategorii dla podnóżków, 'Pozostałe' w ramach 'Meble kosmetyczne' jest najbardziej adekwatnym wyborem na najgłębszym poziomie."
+    },
+    {
+        "ID_Produktu": "1011516",
+        "Nazwa_Produktu": "Podnóżek kosmetyczny do pedicure regulowana wysokość do 75 cm do 80 kg - biały",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Pozostałe",
+        "Finalne_ID_AI": 5110,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny podnóżek przeznaczony do użytku w salonach kosmetycznych, manicure i pedicure. Jest to rodzaj mebla/wyposażenia do salonu, a kategoria 'Pozostałe' pod 'Meble kosmetyczne' jest najbardziej szczegółowym i odpowiednim miejscem dla tego typu przedmiotu, ponieważ nie jest to pełny fotel, biurko czy łóżko, ale wciąż mebel."
+    },
+    {
+        "ID_Produktu": "1011538",
+        "Nazwa_Produktu": "Pompa elektryczna do spuszczania paliwa oleju napędowego samozasysająca IP55 12 V 155 W 40 l/min",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Kanistry, lejki i pompki do paliwa",
+        "Finalne_ID_AI": 4494,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pompa do paliwa, oleju napędowego i nafty, służąca do tankowania pojazdów i maszyn. Kategoria 'Kanistry, lejki i pompki do paliwa' w sekcji 'Wyposażenie i akcesoria samochodowe' jest najbardziej szczegółowa i precyzyjnie opisuje przeznaczenie produktu, mimo że jest używana również dla maszyn rolniczych."
+    },
+    {
+        "ID_Produktu": "1011543",
+        "Nazwa_Produktu": "Pistolet nalewak do tankowania paliwa z sytemem blokady FlowLock 18-60 l/min",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pistolet do tankowania paliwa, przeznaczony do użytku na stacjach benzynowych, w firmach transportowych i serwisach samochodowych. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie urządzenia jako narzędzia do profesjonalnego zastosowania w warsztacie lub punkcie usług motoryzacyjnych. Wskazówka systemowa ('Dom i Ogród > Narzędzia > Narzędzia ręczne') jest nieadekwatna ze względu na przemysłowy charakter produktu."
+    },
+    {
+        "ID_Produktu": "1011625",
+        "Nazwa_Produktu": "Zestaw naprawczy PDR do usuwania wgnieceń w karoserii 3 pręty",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny zestaw do usuwania wgnieceń, używany przez blacharzy i miłośników motoryzacji do naprawy karoserii. Kategoria 'Narzędzia warsztatowe' w 'Firma i Przemysł' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu, w porównaniu do ogólnych 'Narzędzi ręcznych' z sekcji 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "1011795",
+        "Nazwa_Produktu": "Pokrowiec osłona na parasol ogrodowy wodoodporny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Parasole ogrodowe",
+        "Finalne_ID_AI": 2892,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec na parasol ogrodowy, a kategoria 'Parasole ogrodowe' jest najbardziej szczegółową i adekwatną kategorią-liściem, bezpośrednio związaną z typem produktu, do którego odnosi się pokrowiec, i znajduje się w odpowiedniej gałęzi 'Dom i Ogród > Ogród > Meble ogrodowe'."
+    },
+    {
+        "ID_Produktu": "1011303",
+        "Nazwa_Produktu": "Beczka stalowa OH 60L zdejmowane wieko korki 2 i 3/4 wnętrze lakierowane - niebieska",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Sofy i kanapy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu podkreślają, że jest to 'idealny pojemnik na deszczówkę', co bezpośrednio wskazuje na zastosowanie w systemach nawadniania w ogrodzie. Kategoria 'Dom i Ogród > Ogród > Nawadnianie' jest najbardziej szczegółowa i trafna dla tego przeznaczenia. Wzmianka o 'beczkach warsztatowych' i 'wnętrzu lakierowanym farbą chemoodporną' świadczy o trwałości i wszechstronności, ale nie zmienia głównego, promowanego zastosowania."
+    },
+    {
+        "ID_Produktu": "1011866",
+        "Nazwa_Produktu": "Zlewka laboratoryjna plastikowa z podziałką 50 ml - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Pozostałe",
+        "Finalne_ID_AI": 4667,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest zlewką laboratoryjną, używaną w przemyśle i szkolnictwie do badań naukowych. Kategoria 'Firma i Przemysł' jest najbardziej odpowiednia dla sprzętu tego typu. Ponieważ w drzewie nie ma bardziej szczegółowej kategorii dla 'sprzętu laboratoryjnego', 'Maszyny i urządzenia > Pozostałe' jest najbardziej adekwatną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1011868",
+        "Nazwa_Produktu": "Zlewka laboratoryjna plastikowa z podziałką 500 ml - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Ryneczek > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł > Pozostałe",
+        "Finalne_ID_AI": 4867,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zlewka laboratoryjna, która jest używana w przemyśle i szkolnictwie do badań i doświadczeń naukowych. Kategoria główna \"Firma i Przemysł\" jest najbardziej adekwatna, a w jej ramach \"Maszyny i urządzenia > Przemysł > Pozostałe\" to najbardziej szczegółowa kategoria-liść dla ogólnego sprzętu laboratoryjnego, który nie pasuje do bardziej specyficznych typów maszyn przemysłowych."
+    },
+    {
+        "ID_Produktu": "1011869",
+        "Nazwa_Produktu": "Zlewka laboratoryjna plastikowa z podziałką 1000 ml - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Ryneczek > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł > Pozostałe",
+        "Finalne_ID_AI": 4867,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zlewka laboratoryjna, która jest wykorzystywana w przemyśle i szkolnictwie do badań naukowych. Najbardziej pasującą kategorią, z braku bardziej szczegółowej kategorii 'Sprzęt laboratoryjny' lub 'Sprzęt naukowy', jest 'Firma i Przemysł > Maszyny i urządzenia > Przemysł > Pozostałe', ponieważ jest to sprzęt do użytku przemysłowego/naukowego, a nie pasuje do żadnej innej wyspecjalizowanej podkategorii w obrębie 'Przemysłu'."
+    },
+    {
+        "ID_Produktu": "1012114",
+        "Nazwa_Produktu": "Pokrywka z poliwęglanu do pojemników GN 2/1 - Hendi 864098",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemników GN, wyraźnie przeznaczona do użytku w profesjonalnych kuchniach, restauracjach, hotelach i food truckach, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1012115",
+        "Nazwa_Produktu": "Pokrywka z poliwęglanu z wycięciem na Sous-Vide do pojemników GN 1/1 - Hendi 864203",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemników GN, przeznaczona do profesjonalnego użytku w gastronomii (restauracje, hotele, food trucki) i posiadająca wycięcie na cyrkulator Sous-Vide. Najbardziej szczegółowa i pasująca kategoria to 'Pojemniki gastronomiczne' pod 'Firma i Przemysł > Gastronomia', co doskonale oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1012116",
+        "Nazwa_Produktu": "Pokrywka z poliwęglanu z wycięciem na Sous-Vide do pojemników GN 1/2 - Hendi 864210",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemników GN, przeznaczona do użytku w profesjonalnej gastronomii (restauracje, hotele, food trucki). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1012117",
+        "Nazwa_Produktu": "Pokrywka z poliwęglanu z wycięciem na Sous-Vide do pojemników GN 1/1 - Hendi 864227",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika GN z wycięciem na Sous-Vide, przeznaczona do profesjonalnej kuchni, restauracji, hoteli itp. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje zastosowanie produktu."
+    },
+    {
+        "ID_Produktu": "1012118",
+        "Nazwa_Produktu": "Pokrywka z poliwęglanu z wycięciem na Sous-Vide do pojemników GN 1/2 - Hendi 864234",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemników GN, przeznaczona dla profesjonalnej gastronomii (kuchnie, restauracje, hotele, food trucki). Kategoria 'Pojemniki gastronomiczne' w drzewie 'Firma i Przemysł > Gastronomia' jest najbardziej precyzyjna i szczegółowo oddaje przeznaczenie produktu, w przeciwieństwie do bardziej ogólnej kategorii 'Pojemniki i przechowywanie żywności' z gałęzi 'Dom i Ogród', która sugerowałaby użytek domowy."
+    },
+    {
+        "ID_Produktu": "1012120",
+        "Nazwa_Produktu": "Pokrywka z uszczelką silikonową do pojemników GN 1/4 - Hendi 881835",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemników GN, wyraźnie przeznaczona do użytku w profesjonalnej gastronomii (restauracje, hotele, food trucki). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjnie oddaje przeznaczenie produktu."
     }
 ]
