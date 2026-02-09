@@ -7828,5 +7828,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to profesjonalne ściereczki do nasączania, przeznaczone do użytku przemysłowego (farmacja, medycyna, elektronika, motoryzacja, poligrafia). Kategoria nadrzędna 'Firma i Przemysł' jest najbardziej odpowiednia. Ponieważ nie ma bardziej szczegółowej podkategorii dla przemysłowych środków czyszczących lub materiałów eksploatacyjnych, 'Pozostałe' w ramach tej gałęzi jest najlepiej pasującą kategorią liściową."
+    },
+    {
+        "ID_Produktu": "1010663",
+        "Nazwa_Produktu": "Palnik gazowy dekarski budowlany do izolacji papy smoły gaz LPG 35 kW + PIEZO ZAPALNIK",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to palnik gazowy dekarski/budowlany, używany do izolacji papy, smoły oraz do zgrzewania. Jego główna funkcja to aplikowanie ciepła w celu łączenia lub topienia materiałów, co jest bardzo zbliżone do zastosowań spawarek i lutownic, które również służą do łączenia materiałów za pomocą ciepła. Kategoria 'Spawarki i lutownice' jest najbardziej szczegółową i najlepiej pasującą opcją pod względem funkcjonalnym, pomimo że palnik jest gazowy, a nie elektryczny, co jest akceptowalne w tej szerokiej kategorii narzędzi grzewczych do łączenia."
     }
 ]
