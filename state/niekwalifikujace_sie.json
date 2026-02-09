@@ -7238,5 +7238,85 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest pędzelkiem cukierniczym, a opis wyraźnie wskazuje na jego zastosowanie w 'profesjonalnych lokalach i zakładach gastronomicznych', co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1010029",
+        "Nazwa_Produktu": "Zrębki wióry wędzarnicze z drewna klonu 250g - HENDI 199732",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Komory wędzarnicze",
+        "Finalne_ID_AI": 5075,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zrębki wędzarnicze z drewna klonu, przeznaczone do pistoletów wędzarniczych, co bezpośrednio wskazuje na zastosowanie w wędzeniu żywności. Kategoria 'Firma i Przemysł > Gastronomia > Komory wędzarnicze' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1010032",
+        "Nazwa_Produktu": "Zrębki wióry wędzarnicze z drewna bukowego i olchowego SPECIAL 250g - HENDI 199763",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Opał > Drewno",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Opał > Drewno",
+        "Finalne_ID_AI": 4548,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zrębki drewna (bukowego i olchowego) przeznaczone do wędzenia. Pasuje do kategorii 'Drewno', która jest podkategorią 'Opał', jako materiał opałowy do wędzarni."
+    },
+    {
+        "ID_Produktu": "1009830",
+        "Nazwa_Produktu": "Kopułka szklana do wędzenia potraw na talerzu - HENDI 199978",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Poradniki i albumy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczna kopułka szklana do wędzenia potraw, przeznaczona do użytku z pistoletem wędzarniczym. Marka Hendi jest znana z wyposażenia gastronomicznego. Ponieważ nie ma bardziej szczegółowej kategorii dla tego typu sprzętu, 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1010139",
+        "Nazwa_Produktu": "Worki do gotowania Sous vide i do pakowarek prózniowych komorowych 150x200mm 100szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to worki do gotowania metodą sous-vide i pakowania próżniowego, przeznaczone dla gastronomii (restauracje, hotele). Worki te pełnią funkcję pojemników do żywności w profesjonalnych zastosowaniach gastronomicznych, co idealnie pasuje do kategorii 'Pojemniki gastronomiczne' pod 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1010140",
+        "Nazwa_Produktu": "Worki do gotowania Sous vide i do pakowarek prózniowych komorowych 150x250mm 100szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to worki do gotowania sous vide i pakowania próżniowego, wyraźnie przeznaczone dla restauracji i hoteli. Najbardziej szczegółową i pasującą kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ worki pełnią funkcję pojemników w kontekście gastronomicznym."
+    },
+    {
+        "ID_Produktu": "1010141",
+        "Nazwa_Produktu": "Worki do gotowania Sous vide i do pakowarek prózniowych komorowych 200x300mm 100szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to worki do gotowania sous vide i pakowarek próżniowych, przeznaczone dla restauracji i hoteli. Najbardziej szczegółową i trafną kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ worki są formą opakowania/pojemnika używanego w gastronomii. Kategoria podana we wskazówce systemowej jest nieprawidłowa, gdyż worki nie są osprzętem do narzędzi."
+    },
+    {
+        "ID_Produktu": "1010142",
+        "Nazwa_Produktu": "Worki do gotowania Sous vide i do pakowarek prózniowych komorowych 250x350mm 100szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to worki do gotowania metodą sous-vide i pakowania próżniowego, przeznaczone dla restauracji i hoteli. Najbardziej szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ worki pełnią funkcję pojemników do przechowywania i obróbki żywności w kontekście gastronomicznym. Wskazówka systemowa jest nieprawidłowa."
+    },
+    {
+        "ID_Produktu": "1010143",
+        "Nazwa_Produktu": "Worki do gotowania Sous vide i do pakowarek prózniowych komorowych 300x400mm 100szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to worki do gotowania sous vide i pakowania próżniowego, przeznaczone dla restauracji i hoteli. Najbardziej pasującą i szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ worki są formą pojemników używanych w gastronomii."
     }
 ]
