@@ -1498,5 +1498,85 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to nadmuchiwany basen ogrodowy o dużych wymiarach (200x150 cm), który idealnie pasuje do kategorii Baseny w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "20475",
+        "Nazwa_Produktu": "Haki do mocowania huśtawki MASTER 2 szt",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw haków przeznaczonych bezpośrednio do montażu huśtawki. Najbardziej precyzyjną kategorią dla tego typu akcesoriów ogrodowych/zabawowych jest 'Huśtawki i place zabaw' w dziale Ogród."
+    },
+    {
+        "ID_Produktu": "20476",
+        "Nazwa_Produktu": "Lotki Do Badmintona SCHILDKROT Aero Fly 3 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lotki przeznaczone do gry w badmintona, które posiadają dedykowaną kategorię liścia w drzewie kategorii: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton."
+    },
+    {
+        "ID_Produktu": "20479",
+        "Nazwa_Produktu": "Kółka do Hulajnogi SPARTAN 100 mm Zielone",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kółka zapasowe przeznaczone konkretnie do hulajnogi. W strukturze OLX, w sekcji Skating, części i akcesoria dedykowane do konkretnego typu sprzętu (jak hulajnogi) są zazwyczaj umieszczane bezpośrednio w kategorii tego sprzętu (ID 1676), szczególnie gdy nie ma wydzielonej podkategorii 'Części'."
+    },
+    {
+        "ID_Produktu": "20486",
+        "Nazwa_Produktu": "Deskorolka MASTER Explosion Board - Biała",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasyczną deskorolką o standardowych parametrach technicznych, co odpowiada kategorii liściowej 'Deskorolki' w sekcji 'Skating'."
+    },
+    {
+        "ID_Produktu": "20489",
+        "Nazwa_Produktu": "Tablica do koszykówki MASTER 45 x 30 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tablica do koszykówki wraz z osprzętem (obręcz, siatka, piłka), co stanowi sprzęt sportowy. Najlepiej pasującą kategorią w drzewie jest ścieżka: Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "20490",
+        "Nazwa_Produktu": "Tablica do koszykówki MASTER 80 x 58 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tablica do koszykówki z obręczą i siatką, co stanowi podstawowy sprzęt i akcesorium do uprawiania tej dyscypliny sportu. W drzewie kategorii najlepiej pasuje do liścia 'Akcesoria' w sekcji 'Koszykówka'."
+    },
+    {
+        "ID_Produktu": "20491",
+        "Nazwa_Produktu": "Zestaw bramek MASTER 2 bramki 61 x 45 x 30 cm z piłką",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw sprzętu sportowego (bramki, piłka, pompa) przeznaczony do gry w piłkę nożną. Najbardziej precyzyjną kategorią dla tego typu wyposażenia sportowego jest sekcja akcesoriów wewnątrz kategorii Piłka nożna."
+    },
+    {
+        "ID_Produktu": "20493",
+        "Nazwa_Produktu": "Stożki treningowe piłkarskie MASTER - 12 sztuk",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Odzież piłkarska",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stożki treningowe używane do gry w piłkę nożną. Kategoria 'Akcesoria' w podgrupie 'Piłka nożna' jest najbardziej precyzyjnym liściem dla sprzętu treningowego o takim przeznaczeniu."
     }
 ]
