@@ -7458,5 +7458,145 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pokrywa do dużego (120L) pojemnika na odpadki kuchenne. Taka pojemność sugeruje zastosowanie gastronomiczne lub przemysłowe, a kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu w kontekście tak dużej pojemności, niż ogólne 'Pojemniki i przechowywanie żywności' przeznaczone raczej do użytku domowego."
+    },
+    {
+        "ID_Produktu": "1010324",
+        "Nazwa_Produktu": "Pojemnik do lodu na lód biały z czarną pokrywką 5L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako przeznaczony dla barów, pubów, restauracji i hoteli, co wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej specyficznym i trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "1010325",
+        "Nazwa_Produktu": "Pojemnik do lodu na lód biały z czarną pokrywką 10L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Opis produktu jasno wskazuje, że pojemnik jest przeznaczony dla profesjonalnej gastronomii (bary, puby, restauracje, hotele), co idealnie pasuje do kategorii \"Pojemniki gastronomiczne\" w gałęzi \"Firma i Przemysł > Gastronomia\"."
+    },
+    {
+        "ID_Produktu": "1010326",
+        "Nazwa_Produktu": "Kostkarka foremka do kostek lodu silikonowa 6 x DIAMENT",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Kostkarki do lodu",
+        "Finalne_ID_AI": 5045,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to foremka do kostek lodu (kostkarka), a kategoria 'Kostkarki do lodu' jest najbardziej szczegółowa i bezpośrednio odpowiada nazwie produktu oraz jego zastosowaniu w gastronomii (barach, restauracjach, hotelach) wymienionemu w opisie. Poprawka do sugestii systemu: nie jest to forma do pieczenia."
+    },
+    {
+        "ID_Produktu": "1010327",
+        "Nazwa_Produktu": "Kostkarka foremka do kostek lodu silikonowa 15 x KOSTKI MINI",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Kostkarki do lodu",
+        "Finalne_ID_AI": 5045,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest silikonową foremką do robienia kostek lodu, określoną jako 'kostkarka'. Opis wskazuje na zastosowanie w profesjonalnej gastronomii (barach, restauracjach, hotelach). Kategoria 'Firma i Przemysł > Gastronomia > Kostkarki do lodu' jest najbardziej szczegółowa i trafna, pomimo że produkt to foremka, a nie maszyna, odzwierciedla jego funkcję w kontekście profesjonalnym."
+    },
+    {
+        "ID_Produktu": "1010339",
+        "Nazwa_Produktu": "Tamper ubijak do kawy z regulacją wysokości śr. 58mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Ekspresy do kawy",
+        "Finalne_ID_AI": 5041,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ubijak do kawy, który jest niezbędnym akcesorium do ekspresów do kawy. W opisie zaznaczono jego przeznaczenie do użytku w kawiarniach, restauracjach i hotelach, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia'. Kategoria 'Ekspresy do kawy' jest najbardziej szczegółową kategorią-liściem dla tego typu produktu w drzewie."
+    },
+    {
+        "ID_Produktu": "1010340",
+        "Nazwa_Produktu": "Tamper ubijak do kawy sprężynowy dynamometryczny śr. 58mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest ubijakiem do kawy, przeznaczonym do profesjonalnego użytku w kawiarniach, restauracjach i hotelach, co wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej podkategorii dla akcesoriów do ekspresów do kawy, wybrana została kategoria-liść 'Pozostałe' w obrębie 'Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1010341",
+        "Nazwa_Produktu": "Mata podkładka na blat pod tamper ubijak do kawy - pojedyncza",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Ekspresy do kawy",
+        "Finalne_ID_AI": 5041,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest matą pod tamper do kawy, przeznaczoną dla profesjonalnego baristy, co wskazuje na zastosowanie gastronomiczne. W drzewie kategorii OLX, najbardziej szczegółową kategorią dla profesjonalnego sprzętu do przygotowywania kawy jest 'Ekspresy do kawy' w dziale 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1010342",
+        "Nazwa_Produktu": "Mata podkładka na blat pod tamper ubijak do kawy - podwójna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczna mata pod tamper do kawy, przeznaczona dla 'profesjonalnego baristy'. Wskazuje to na zastosowanie w gastronomii. Najbardziej szczegółową kategorią-liściem jest 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ nie ma bardziej specyficznej podkategorii dla akcesoriów do kawy w gastronomii."
+    },
+    {
+        "ID_Produktu": "1010343",
+        "Nazwa_Produktu": "Baza stacja tampingowa do tampera ubijaka do kawy",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Ekspresy do kawy",
+        "Finalne_ID_AI": 5041,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stacja tampingowa, która jest kluczowym akcesorium dla baristów, używanym do przygotowywania kawy, ściśle związanym z ekspresami do kawy w gastronomii. Kategoria 'Ekspresy do kawy' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1010345",
+        "Nazwa_Produktu": "Odbijak pojemnik do fusów kawy GN 1/6",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik na fusy kawy przeznaczony do profesjonalnych kawiarni, restauracji i hoteli, o czym świadczy opis i standard GN 1/6. Kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia' jest najdokładniejszym i najbardziej szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1010346",
+        "Nazwa_Produktu": "Odbijak pojemnik do fusów kawy GN 1/4",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to odbijak do fusów kawy o standardzie GN 1/4, przeznaczony dla profesjonalnych kawiarni, restauracji i hoteli. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i idealnie oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1010347",
+        "Nazwa_Produktu": "Odbijak pojemnik do fusów kawy GN 1/4 w drewnianej obudowie",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to odbijak/pojemnik na fusy kawy, wyraźnie przeznaczony do użytku profesjonalnego w kawiarniach, restauracjach i hotelach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjnie oddaje charakter oraz przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1010348",
+        "Nazwa_Produktu": "Odbijak pojemnik do fusów kawy okrągły stalowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowy pojemnik na fusy kawy, przeznaczony do użytku w kawiarniach, restauracjach i hotelach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje jego przeznaczenie i charakter."
+    },
+    {
+        "ID_Produktu": "1010352",
+        "Nazwa_Produktu": "Żarnik do grzejnika promiennika gazowego ARDENT",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Grzejniki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Grzejniki",
+        "Finalne_ID_AI": 1682,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to żarnik, czyli element grzejny do grzejnika gazowego. Kategoria 'Grzejniki' (Dom i Ogród > Ogrzewanie > Grzejniki) jest najbardziej szczegółową i trafioną kategorią dla tego typu części, ponieważ odnosi się bezpośrednio do urządzenia, do którego jest przeznaczony żarnik."
     }
 ]
