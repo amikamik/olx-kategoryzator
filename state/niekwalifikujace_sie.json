@@ -7318,5 +7318,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to worki do gotowania sous vide i pakowania próżniowego, przeznaczone dla restauracji i hoteli. Najbardziej pasującą i szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ worki są formą pojemników używanych w gastronomii."
+    },
+    {
+        "ID_Produktu": "1010158",
+        "Nazwa_Produktu": "Żarówka na podczerwień do lampy do podgrzewania potraw E27 250W biała",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Urządzenia medyczne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to żarówka na podczerwień przeznaczona do lampy do podgrzewania potraw, co wskazuje na zastosowanie gastronomiczne. Marka Hendi jest również znana z profesjonalnego sprzętu gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia' jest najlepiej dopasowana, a 'Pozostałe' jest najbardziej szczegółową kategorią-liściem dla tego typu akcesoriów."
+    },
+    {
+        "ID_Produktu": "1010159",
+        "Nazwa_Produktu": "Żarówka na podczerwień do lampy do podgrzewania potraw E27 250W czerwona",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Urządzenia medyczne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to część zamienna (żarówka na podczerwień) do lampy służącej do podgrzewania potraw, a marka Hendi jest często kojarzona ze sprzętem gastronomicznym/profesjonalnym. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej precyzyjna, ponieważ produkt jest częścią urządzenia używanego w kontekście biznesowym (gastronomii)."
+    },
+    {
+        "ID_Produktu": "1010192",
+        "Nazwa_Produktu": "Pojemnik termoizolacyjny termiczny do pizzy 3 x pizza śr. 40cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik termoizolacyjny przeznaczony dla firm cateringowych i pizzerii, co idealnie pasuje do kategorii \"Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne\"."
+    },
+    {
+        "ID_Produktu": "1010193",
+        "Nazwa_Produktu": "Pojemnik termoizolacyjny termiczny do pizzy 3 x pizza śr. 50cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik termoizolacyjny do pizzy, przeznaczony do użytku w firmach cateringowych, pizzeriach i cukierniach, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'. Jest to bardziej szczegółowa i trafna kategoria niż sugerowana 'Dom i Ogród' dla zastosowań profesjonalnych."
     }
 ]
