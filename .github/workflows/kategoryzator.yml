@@ -1,4 +1,4 @@
-﻿name: 🏷️ Kategoryzacja i Publikacja OLX (Gemini)
+﻿name: 🏷️ Kategoryzacja OLX - Najtańszy Sport (Gemini)
 
 on:
   workflow_dispatch:
@@ -27,7 +27,7 @@ on:
       refresh_feed:
         description: 'Pobierz feed na nowo przed przetwarzaniem?'
         required: false
-        default: false
+        default: true
         type: boolean
 
 permissions:
@@ -35,7 +35,7 @@ permissions:
 
 jobs:
   kategoryzuj:
-    name: Kategoryzacja i publikacja (Gemini)
+    name: Kategoryzacja - Najtańszy Sport (Gemini)
     runs-on: ubuntu-latest
     timeout-minutes: 360
 

@@ -20,10 +20,11 @@ import os # Dodajemy import os do obsługi ścieżek
 
 # --- Konfiguracja (teraz większość jest w config.py) ---
 # Budowanie ścieżek absolutnych - nowa struktura folderów
-XML_FILE = os.path.join(SCRIPT_DIR, "input", "feed_hurtowniaprzemyslowa.xml")
+XML_FILE = os.path.join(SCRIPT_DIR, "input", "feed_najtanszy_sport.xml")
+FEED_URL = "https://najtanszy-sport.pl/export/export.xml"
 CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "input", "kategorie_olx.json")
 RAPORT_PLIK_CSV = os.path.join(SCRIPT_DIR, "output", "raport_kategoryzacji.csv")
-SAMPLE_SIZE = 150 # Test na większej próbie
+SAMPLE_SIZE = 0  # 0 = wszystkie produkty
 
 # --- Inicjalizacja klienta OpenAI (zawsze inicjalizujemy, bo używamy do rozmiarów/atrybutów) ---
 OPENAI_CLIENT = None
@@ -470,8 +471,85 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
 # ======================== GPSR - PRODUCENCI ODPOWIEDZIALNI ====================
 # ==============================================================================
 
-# Globalny słownik producentów (wypełniany przy starcie)
+# Globalny słownik producentów (wypełniany przy starcie) - NIE UŻYWANE dla najtanszy-sport
+# Bo dane GPSR są bezpośrednio w każdym produkcie
 RESPONSIBLE_PRODUCERS = {}
+
+def get_gpsr_text_from_product(product):
+    """
+    Generuje tekst GPSR z danych bezpośrednio z produktu (feed najtanszy-sport).
+    Dane GPSR są wbudowane w każdy produkt, nie w osobnej sekcji.
+    """
+    gpsr_data = product.get('gpsr_data')
+    if not gpsr_data:
+        return None
+    
+    # OLX nie akceptuje emoji ani znaków specjalnych - używamy zwykłego tekstu
+    gpsr_lines = [
+        "",
+        "-" * 40,
+        "INFORMACJE O PRODUCENCIE (GPSR)",
+        "-" * 40,
+    ]
+    
+    # Producent
+    prod_name = gpsr_data.get('producent_nazwa')
+    if prod_name:
+        gpsr_lines.append(f"Producent: {prod_name}")
+        
+        # Adres producenta
+        addr_parts = []
+        if gpsr_data.get('producent_ulica'):
+            addr_parts.append(gpsr_data['producent_ulica'])
+        if gpsr_data.get('producent_kod_pocztowy'):
+            addr_parts.append(gpsr_data['producent_kod_pocztowy'])
+        if gpsr_data.get('producent_miasto'):
+            addr_parts.append(gpsr_data['producent_miasto'])
+        if gpsr_data.get('producent_kraj'):
+            addr_parts.append(gpsr_data['producent_kraj'])
+        if addr_parts:
+            gpsr_lines.append(f"Adres: {', '.join(addr_parts)}")
+        
+        # Email producenta
+        if gpsr_data.get('producent_email'):
+            email_safe = gpsr_data['producent_email'].replace('@', '(at)')
+            gpsr_lines.append(f"Email: {email_safe}")
+        
+        # Telefon producenta
+        if gpsr_data.get('producent_telefon'):
+            gpsr_lines.append(f"Telefon: {gpsr_data['producent_telefon']}")
+    
+    # Importer (jeśli jest)
+    imp_name = gpsr_data.get('importer_nazwa')
+    if imp_name and imp_name.strip():
+        gpsr_lines.append("")
+        gpsr_lines.append(f"Importer: {imp_name}")
+        
+        # Adres importera
+        addr_parts = []
+        if gpsr_data.get('importer_ulica'):
+            addr_parts.append(gpsr_data['importer_ulica'])
+        if gpsr_data.get('importer_kod_pocztowy'):
+            addr_parts.append(gpsr_data['importer_kod_pocztowy'])
+        if gpsr_data.get('importer_miasto'):
+            addr_parts.append(gpsr_data['importer_miasto'])
+        if gpsr_data.get('importer_kraj'):
+            addr_parts.append(gpsr_data['importer_kraj'])
+        if addr_parts:
+            gpsr_lines.append(f"Adres: {', '.join(addr_parts)}")
+        
+        # Email importera
+        if gpsr_data.get('importer_email'):
+            email_safe = gpsr_data['importer_email'].replace('@', '(at)')
+            gpsr_lines.append(f"Email: {email_safe}")
+        
+        # Telefon importera
+        if gpsr_data.get('importer_telefon'):
+            gpsr_lines.append(f"Telefon: {gpsr_data['importer_telefon']}")
+    
+    gpsr_lines.append("-" * 40)
+    
+    return "\n".join(gpsr_lines)
 
 def parse_responsible_producers(file_path):
     """
@@ -577,45 +655,100 @@ def get_gpsr_text(producer_id):
     return "\n".join(gpsr_lines)
 
 def parse_product_feed(file_path, limit):
-    """Parsuje plik XML i zwraca listę produktów, obsługując błędy."""
+    """
+    Parsuje plik XML z najtanszy-sport.pl i zwraca listę produktów.
+    Format: <Produkty><Produkt>...</Produkt></Produkty>
+    """
     products = []
-    print(f"Parsowanie pliku XML: {file_path}")
+    print(f"Parsowanie pliku XML (najtanszy-sport): {file_path}")
     try:
         context = ET.iterparse(file_path, events=('end',))
         for _, elem in context:
-            if elem.tag == 'o':
+            if elem.tag == 'Produkt':
                 # Pobieranie URL-i zdjęć
                 image_urls = []
-                imgs_tag = elem.find('imgs')
-                if imgs_tag is not None:
-                    main_img = imgs_tag.find('main')
-                    if main_img is not None and main_img.get('url'):
-                        image_urls.append(main_img.get('url'))
-                    for img in imgs_tag.findall('i'):
-                        if img.get('url'):
-                            image_urls.append(img.get('url'))
-
-                # Pobieranie atrybutów (w tym producent odpowiedzialny)
-                attrs_dict = {}
-                attrs_tag = elem.find('attrs')
-                if attrs_tag is not None:
-                    for attr in attrs_tag.findall('a'):
-                        attr_name = attr.get('name')
-                        attr_value = attr.text
-                        if attr_name and attr_value:
-                            attrs_dict[attr_name] = attr_value.strip()
-
+                
+                # Zdjęcie główne
+                zdjecie_glowne = elem.find('Zdjecie_glowne')
+                if zdjecie_glowne is not None and zdjecie_glowne.text:
+                    image_urls.append(zdjecie_glowne.text.strip())
+                
+                # Zdjęcia dodatkowe
+                zdjecia_dodatkowe = elem.find('Zdjecia_dodatkowe')
+                if zdjecia_dodatkowe is not None:
+                    for zdjecie in zdjecia_dodatkowe.findall('Zdjecie'):
+                        link = zdjecie.find('Zdjecie_link')
+                        if link is not None and link.text:
+                            image_urls.append(link.text.strip())
+                
+                # Dane GPSR (wbudowane w produkt)
+                gpsr_data = None
+                dane_gpsr = elem.find('Dane_GPSR')
+                if dane_gpsr is not None:
+                    gpsr_data = {
+                        'producent_nazwa': (dane_gpsr.find('Producent_nazwa').text or '').strip() if dane_gpsr.find('Producent_nazwa') is not None else '',
+                        'producent_ulica': (dane_gpsr.find('Producent_ulica').text or '').strip() if dane_gpsr.find('Producent_ulica') is not None else '',
+                        'producent_kod_pocztowy': (dane_gpsr.find('Producent_kod_pocztowy').text or '').strip() if dane_gpsr.find('Producent_kod_pocztowy') is not None else '',
+                        'producent_miasto': (dane_gpsr.find('Producent_miasto').text or '').strip() if dane_gpsr.find('Producent_miasto') is not None else '',
+                        'producent_kraj': (dane_gpsr.find('Producent_kraj').text or '').strip() if dane_gpsr.find('Producent_kraj') is not None else '',
+                        'producent_email': (dane_gpsr.find('Producent_email').text or '').strip() if dane_gpsr.find('Producent_email') is not None else '',
+                        'producent_telefon': (dane_gpsr.find('Producent_telefon').text or '').strip() if dane_gpsr.find('Producent_telefon') is not None else '',
+                        'importer_nazwa': (dane_gpsr.find('Importer_nazwa').text or '').strip() if dane_gpsr.find('Importer_nazwa') is not None else '',
+                        'importer_ulica': (dane_gpsr.find('Importer_ulica').text or '').strip() if dane_gpsr.find('Importer_ulica') is not None else '',
+                        'importer_kod_pocztowy': (dane_gpsr.find('Importer_kod_pocztowy').text or '').strip() if dane_gpsr.find('Importer_kod_pocztowy') is not None else '',
+                        'importer_miasto': (dane_gpsr.find('Importer_miasto').text or '').strip() if dane_gpsr.find('Importer_miasto') is not None else '',
+                        'importer_kraj': (dane_gpsr.find('Importer_kraj').text or '').strip() if dane_gpsr.find('Importer_kraj') is not None else '',
+                        'importer_email': (dane_gpsr.find('Importer_email').text or '').strip() if dane_gpsr.find('Importer_email') is not None else '',
+                        'importer_telefon': (dane_gpsr.find('Importer_telefon').text or '').strip() if dane_gpsr.find('Importer_telefon') is not None else '',
+                    }
+                
+                # Pobieranie ceny
+                cena = elem.find('Cena_brutto')
+                cena_value = cena.text.strip() if cena is not None and cena.text else '0'
+                
+                # Pobieranie nazwy
+                nazwa = elem.find('Nazwa_produktu')
+                nazwa_value = nazwa.text.strip() if nazwa is not None and nazwa.text else ''
+                
+                # Pobieranie opisu
+                opis = elem.find('Opis')
+                opis_value = opis.text.strip() if opis is not None and opis.text else ''
+                
+                # Pobieranie ID
+                id_elem = elem.find('Id_produktu')
+                id_value = id_elem.text.strip() if id_elem is not None and id_elem.text else ''
+                
+                # Pobieranie kategorii źródłowej
+                kategoria = elem.find('Kategoria')
+                kategoria_value = kategoria.text.strip() if kategoria is not None and kategoria.text else ''
+                
+                # Pobieranie producenta
+                producent = elem.find('Producent')
+                producent_value = producent.text.strip() if producent is not None and producent.text else ''
+                
+                # Pobieranie stanu magazynowego
+                ilosc = elem.find('Ilosc_produktow')
+                ilosc_value = float(ilosc.text.strip()) if ilosc is not None and ilosc.text else 0
+                
+                # Pomijamy produkty niedostępne (ilość = 0)
+                if ilosc_value <= 0:
+                    elem.clear()
+                    continue
+                
                 product_data = {
-                    'id': elem.get('id'),
-                    'price': elem.get('price'),
-                    'name': (elem.find('name').text or '').strip(),
-                    'description': (elem.find('desc').text or '').strip(),
+                    'id': id_value,
+                    'price': cena_value,
+                    'name': nazwa_value,
+                    'description': opis_value,
                     'images': image_urls,
-                    'attrs': attrs_dict,
-                    'producer_id': attrs_dict.get('Producent odpowiedzialny') or attrs_dict.get('Podmiot odpowiedzialny')
+                    'attrs': {},  # Brak dodatkowych atrybutów w tym formacie
+                    'producer_id': None,  # Nie używamy mapowania - GPSR jest w gpsr_data
+                    'gpsr_data': gpsr_data,  # Dane GPSR bezpośrednio z produktu
+                    'source_category': kategoria_value,
+                    'producer_name': producent_value,
                 }
                 products.append(product_data)
-                elem.clear() # Optymalizacja pamięci
+                elem.clear()  # Optymalizacja pamięci
                 if limit > 0 and len(products) >= limit:
                     break
     except ET.ParseError as e:
@@ -624,7 +757,7 @@ def parse_product_feed(file_path, limit):
         print(f"KRYTYCZNY BŁĄD: Nie można otworzyć pliku XML: {e}")
     
     if products:
-        print(f"Znaleziono {len(products)} produktów.")
+        print(f"Znaleziono {len(products)} produktów (dostępnych w magazynie).")
     return products
 
 # ==============================================================================
@@ -971,16 +1104,15 @@ def opublikuj_ogloszenie_na_olx(produkt, kategoria_id, wybrane_atrybuty, wybrane
     base_description = clean_html(produkt.get('description', "Brak opisu"))
     
     # Dodanie informacji GPSR na końcu opisu
-    gpsr_text = get_gpsr_text(produkt.get('producer_id'))
+    # Dla najtanszy-sport: dane GPSR są bezpośrednio w produkcie
+    gpsr_text = get_gpsr_text_from_product(produkt)
     if gpsr_text:
         full_description = base_description + gpsr_text
-        print(f"    │  ├─ ✅ Dodano dane GPSR do opisu (producent ID: {produkt.get('producer_id')})")
+        producer_name = produkt.get('gpsr_data', {}).get('producent_nazwa', 'nieznany')
+        print(f"    │  ├─ ✅ Dodano dane GPSR do opisu (producent: {producer_name})")
     else:
         full_description = base_description
-        if produkt.get('producer_id'):
-            print(f"    │  ├─ ⚠️ Nie znaleziono danych GPSR dla producenta ID: {produkt.get('producer_id')}")
-        else:
-            print(f"    │  ├─ ⚠️ Produkt nie ma przypisanego producenta odpowiedzialnego")
+        print(f"    │  ├─ ⚠️ Produkt nie ma danych GPSR")
     
     # Przygotowanie tytułu (max 69 znaków dla OLX API)
     tytul_oryginalny = produkt.get('name', "Brak tytułu").capitalize()
@@ -1219,23 +1351,23 @@ def main():
     # --- Parsowanie argumentów wiersza poleceń ---
     parser = argparse.ArgumentParser(description='Kategoryzacja produktów OLX')
     parser.add_argument('--refresh-feed', action='store_true',
-                        help='Pobierz feed na nowo i wzbogać o dane GPSR przed przetwarzaniem')
+                        help='Pobierz feed na nowo przed przetwarzaniem')
     args = parser.parse_args()
     
     # --- Opcjonalne odświeżenie feedu ---
     if args.refresh_feed:
         print("#" * 80)
         print("##### ODŚWIEŻANIE FEEDU (--refresh-feed) #####")
+        print(f"Pobieranie z: {FEED_URL}")
         print("#" * 80)
         try:
-            from aktualizuj_feed_gpsr import main as refresh_feed_main
-            refresh_feed_main()
-            print("\n✅ Feed został pomyślnie odświeżony i wzbogacony o dane GPSR\n")
-        except ImportError as e:
-            print(f"❌ BŁĄD: Nie można zaimportować skryptu aktualizuj_feed_gpsr.py: {e}")
-            return
+            response = requests.get(FEED_URL, timeout=120)
+            response.raise_for_status()
+            with open(XML_FILE, 'wb') as f:
+                f.write(response.content)
+            print(f"\n✅ Feed został pomyślnie pobrany ({len(response.content) / 1024 / 1024:.2f} MB)\n")
         except Exception as e:
-            print(f"❌ BŁĄD podczas odświeżania feedu: {e}")
+            print(f"❌ BŁĄD podczas pobierania feedu: {e}")
             return
     
     print("#" * 80)
@@ -1322,10 +1454,7 @@ ZASADY:
             print("⚠️ Cache nie został utworzony - używam standardowego trybu (bez cache)")
             print("="*80 + "\n")
 
-    # --- Wczytywanie producentów odpowiedzialnych (GPSR) ---
-    global RESPONSIBLE_PRODUCERS
-    RESPONSIBLE_PRODUCERS = parse_responsible_producers(XML_FILE)
-    
+    # --- Parsowanie feedu (najtanszy-sport - GPSR jest w każdym produkcie) ---
     wszystkie_produkty = parse_product_feed(XML_FILE, 0)
     if not wszystkie_produkty:
         print("Nie znaleziono żadnych produktów w pliku XML. Sprawdź plik i ścieżkę.")
