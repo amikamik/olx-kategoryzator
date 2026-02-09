@@ -188,5 +188,395 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt jest twisterem obrotowym przeznaczonym do ćwiczeń fitness, co wprost odpowiada nazwie kategorii 'Stepy, steppery i twistery'."
+    },
+    {
+        "ID_Produktu": "15926",
+        "Nazwa_Produktu": "Kosz Tablica na ścianę MASTER 67 x 45 cm + obręcz i siatka",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do gry w koszykówkę (tablica, obręcz i siatka). Najbardziej odpowiednią i szczegółową kategorią dla tego typu sprzętu sportowego jest Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "15929",
+        "Nazwa_Produktu": "Siatka do kosza 45 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka",
+        "Finalne_ID_AI": 4971,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do obręczy koszykarskiej, co jednoznacznie klasyfikuje go jako akcesorium w kategorii Koszykówka, będącej częścią sekcji Sporty drużynowe."
+    },
+    {
+        "ID_Produktu": "15932",
+        "Nazwa_Produktu": "Kolorowa siatka do kosza o średnicy 45 cm MASTER",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to siatka do kosza do koszykówki, która jest akcesorium sportowym dedykowanym do konkretnej dyscypliny sportu drużynowego (koszykówka)."
+    },
+    {
+        "ID_Produktu": "15935",
+        "Nazwa_Produktu": "Pierścień, obręcz do koszykówki SPARTAN 16 mm z siatką",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to obręcz do koszykówki z siatką, co jednoznacznie klasyfikuje go jako akcesorium do gry w koszykówkę w sekcji sportów drużynowych."
+    },
+    {
+        "ID_Produktu": "15938",
+        "Nazwa_Produktu": "Obręcz do koszykówki SPARTAN 10 mm z siatką",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest sprzętem do koszykówki (obręcz z siatką), który najlepiej pasuje do podkategorii Akcesoria w sekcji Koszykówka pod Sportami drużynowymi."
+    },
+    {
+        "ID_Produktu": "15944",
+        "Nazwa_Produktu": "Obręcz do koszykówki z siatką MASTER",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to obręcz do koszykówki z siatką, co jest klasycznym akcesorium do uprawiania tej dyscypliny sportu. Najbardziej szczegółową kategorią dla tego sprzętu w drzewie OLX jest Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "15950",
+        "Nazwa_Produktu": "Przenośny kosz dla dzieci MASTER Nipper",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w koszykówkę dla dzieci (kosz, piłka, pompka). Kategoria 'Koszykówka > Akcesoria' najlepiej odpowiada przeznaczeniu przedmiotu jako sprzętu sportowego, nawet w wersji dla najmłodszych."
+    },
+    {
+        "ID_Produktu": "15965",
+        "Nazwa_Produktu": "Piłka do kosza SPARTAN Game Master 7",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki w rozmiarze 7. Najbardziej szczegółową kategorią dla tego typu sprzętu sportowego w obrębie koszykówki jest kategoria 'Akcesoria'."
+    },
+    {
+        "ID_Produktu": "15968",
+        "Nazwa_Produktu": "Piłka nożna SPARTAN Brasil",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to klasyczna piłka do gry w piłkę nożną. Zgodnie z drzewem kategorii OLX, najbardziej precyzyjną kategorią-liściem dla sprzętu sportowego do gry w piłkę (który nie jest obuwiem ani odzieżą) jest kategoria 'Akcesoria' wewnątrz sekcji 'Piłka nożna' w 'Sportach drużynowych'."
+    },
+    {
+        "ID_Produktu": "15971",
+        "Nazwa_Produktu": "Piłka nożna SPARTAN Club Junior 3",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka nożna w rozmiarze 3, co idealnie pasuje do kategorii 'Akcesoria' w podgrupie 'Piłka nożna' w sekcji sportów drużynowych."
+    },
+    {
+        "ID_Produktu": "15974",
+        "Nazwa_Produktu": "Piłka nożna SPARTAN Club Junior 4",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do gry w piłkę nożną w rozmiarze 4. W strukturze kategorii OLX, sprzęt do gry taki jak piłki, ochraniacze czy rękawice bramkarskie znajduje się w kategorii liściu 'Akcesoria' wewnątrz sekcji 'Piłka nożna'."
+    },
+    {
+        "ID_Produktu": "15977",
+        "Nazwa_Produktu": "Piłka nożna SPARTAN Corner",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka do gry w piłkę nożną, która w drzewie kategorii OLX najlepiej pasuje do podkategorii Akcesoria w obrębie dyscypliny Piłka nożna."
+    },
+    {
+        "ID_Produktu": "15980",
+        "Nazwa_Produktu": "Piłka nożna SPARTAN Exclusive",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka meczowa w rozmiarze 5, co klasyfikuje go jako sprzęt/akcesorium w kategorii Sporty drużynowe > Piłka nożna > Akcesoria."
+    },
+    {
+        "ID_Produktu": "15986",
+        "Nazwa_Produktu": "Piłka nożna SPARTAN Trophy 5",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do gry w piłkę nożną, która na platformie OLX jest klasyfikowana w kategorii Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria."
+    },
+    {
+        "ID_Produktu": "15995",
+        "Nazwa_Produktu": "Zestaw bramek SPARTAN mini - 91 x 61 x 45 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw bramek do piłki nożnej. Najbardziej dopasowaną i szczegółową kategorią dla sprzętu do tej dyscypliny sportu jest kategoria Akcesoria w sekcji Piłka nożna, wewnątrz Sportów drużynowych."
+    },
+    {
+        "ID_Produktu": "15998",
+        "Nazwa_Produktu": "Bramka do piłki nożnej 160 x 80 x 80 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bramka do piłki nożnej, która stanowi sprzęt treningowy. Zgodnie z drzewem kategorii, najbardziej specyficznym liściem dla sprzętu piłkarskiego innego niż odzież i obuwie jest kategoria 'Akcesoria' wewnątrz sekcji 'Piłka nożna'."
+    },
+    {
+        "ID_Produktu": "16001",
+        "Nazwa_Produktu": "Zestaw 2 bramek 85x60x42CM + piłka + pompka",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw bramek do gry w piłkę nożną wraz z akcesoriami (piłka, pompka). Najbardziej precyzyjną kategorią dla tego typu sprzętu sportowego jest Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria."
+    },
+    {
+        "ID_Produktu": "16004",
+        "Nazwa_Produktu": "Bramka do piłki nożnej 182 x 122 x 61 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bramka do piłki nożnej, będąca sprzętem treningowym. Najbardziej precyzyjna ścieżka kategoryzacji w dostarczonym drzewie to Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria (id: 4989), która jest kategorią końcową (liściem)."
+    },
+    {
+        "ID_Produktu": "16028",
+        "Nazwa_Produktu": "Rakietka do badmintona SPARTAN Calypso",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do badmintona, która posiada dedykowaną kategorię liść (Badminton) w sekcji Tenis i pokrewne wewnątrz kategorii Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "16031",
+        "Nazwa_Produktu": "Rakietka SPARTAN Swing",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do badmintona, co jednoznacznie wynika z tytułu i opisu. W drzewie kategorii OLX kategoria 'Badminton' (ID 5029) znajduje się w sekcji Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "16034",
+        "Nazwa_Produktu": "Rakietka do badmintona SPARTAN Tango",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do badmintona, która idealnie pasuje do najbardziej szczegółowej kategorii w ścieżce: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton."
+    },
+    {
+        "ID_Produktu": "16043",
+        "Nazwa_Produktu": "Lotki do badmintona SPARTAN 4 szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lotki do badmintona, które stanowią bezpośredni element wyposażenia dla tej dyscypliny. Kategoria 'Badminton' (ID: 5029) jest najbardziej szczegółową kategorią liściem pasującą do tego produktu."
+    },
+    {
+        "ID_Produktu": "16046",
+        "Nazwa_Produktu": "Lotki do badmintona SPARTAN Tournament",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lotki do badmintona, które znajdują się w dedykowanej kategorii 'Badminton' (ścieżka: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton)."
+    },
+    {
+        "ID_Produktu": "16052",
+        "Nazwa_Produktu": "Lotki do badmintona SPARTAN Feder",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lotki do badmintona, co precyzyjnie odpowiada kategorii liściowej 'Badminton' w sekcji sportów towarzyskich i rakietowych."
+    },
+    {
+        "ID_Produktu": "16055",
+        "Nazwa_Produktu": "Lotki do badmintona z piór SPARTAN Natur Feder",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lotki przeznaczone do gry w badmintona. W drzewie kategorii OLX najbardziej precyzyjnym liściem dla tego typu artykułów sportowych jest kategoria 'Badminton' (ID: 5029)."
+    },
+    {
+        "ID_Produktu": "16058",
+        "Nazwa_Produktu": "Lotki do badmintona SPARTAN Champion",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lotki do badmintona, które idealnie pasują do dedykowanej kategorii 'Badminton' (ID: 5029) znajdującej się w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "16061",
+        "Nazwa_Produktu": "Siatka do badmintona SPARTAN 600 x 60 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do badmintona. W drzewie kategorii OLX istnieje dedykowana kategoria 'Badminton' (ID: 5029) znajdująca się w ścieżce: Sport i Hobby -> Sporty towarzyskie -> Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "16067",
+        "Nazwa_Produktu": "Zestaw do badmintona MASTER Fly 2",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w badmintona (rakiety i lotki), który posiada dedykowaną kategorię na najniższym szczeblu drzewa w sekcji Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "16070",
+        "Nazwa_Produktu": "Zestaw do badmintona  MASTER Fun 4",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do gry w badmintona (rakiety, lotki, siatka), co bezpośrednio odpowiada dedykowanej kategorii Badminton w drzewie kategorii OLX."
+    },
+    {
+        "ID_Produktu": "16073",
+        "Nazwa_Produktu": "Zestaw do badmintona Garden Deluxe SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest kompletnym zestawem do gry w badmintona, a w drzewie kategorii istnieje dedykowana kategoria 'Badminton' znajdująca się w ścieżce: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton."
+    },
+    {
+        "ID_Produktu": "16076",
+        "Nazwa_Produktu": "Zestaw do badmintona MASTER Favorit",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest zestawem do gry w badmintona (rakietki i lotka). W drzewie kategorii istnieje precyzyjna kategoria liścia 'Badminton' znajdująca się w ścieżce Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton."
+    },
+    {
+        "ID_Produktu": "16106",
+        "Nazwa_Produktu": "Piłka do gry w baseball BRETT miękka",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka do baseballu, który jest sportem drużynowym. Ponieważ w drzewie kategorii 'Sporty drużynowe' (4970) nie ma dedykowanej podkategorii dla baseballu (jak w przypadku piłki nożnej czy siatkówki), najbardziej precyzyjną kategorią-liściem jest 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "16118",
+        "Nazwa_Produktu": "Drewniany kij baseballowy - senior 80 cm BRETT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Osprzęt",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kij baseballowy służy do uprawiania baseballu, który jest sportem drużynowym. W drzewie kategorii pod sekcją 'Sporty drużynowe' nie występuje dedykowana kategoria dla baseballu, dlatego produkt najlepiej pasuje do kategorii liścia 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "16121",
+        "Nazwa_Produktu": "Drewniany kij baseballowy MASTER Junior 26\" - 65 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Baseball jest sportem drużynowym. Ponieważ w drzewie kategorii nie występuje dedykowana sekcja dla tej dyscypliny, produkt należy przypisać do najbardziej specyficznej kategorii nadrzędnej, czyli 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "16124",
+        "Nazwa_Produktu": "Drewniany kij baseballowy MASTER Junior 30\"\" 76 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kij baseballowy jest elementem wyposażenia do baseballu, który jest klasyfikowany jako sport drużynowy. Ponieważ drzewo kategorii nie posiada dedykowanej sekcji dla baseballu, kategoria 'Pozostałe sporty drużynowe' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "16127",
+        "Nazwa_Produktu": "Drewniany kij baseballowy -  junior 65 cm BRETT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Baseball jest sportem drużynowym. W dostarczonym drzewie kategorii brakuje dedykowanej sekcji dla tej dyscypliny (takiej jak Piłka nożna czy Siatkówka), dlatego produkt najlepiej pasuje do najbardziej specyficznej kategorii-liścia: Pozostałe sporty drużynowe."
+    },
+    {
+        "ID_Produktu": "16136",
+        "Nazwa_Produktu": "Kij baseballowy SPARTAN  70 cm  (28\"\" cali) czerwony",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kij baseballowy. Baseball jest klasyfikowany jako sport drużynowy, a w strukturze kategorii OLX sporty drużynowe niemające własnej dedykowanej podkategorii (jak piłka nożna czy siatkówka) należą do sekcji 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "16148",
+        "Nazwa_Produktu": "Zestaw baseballowy BRETT Junior kij + piłka",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Zestaw do baseballu (kij i piłka) należy do kategorii sportów drużynowych. Ponieważ baseball nie posiada dedykowanej podkategorii (jak piłka nożna czy siatkówka), najbardziej precyzyjnym liściem w strukturze drzewa jest kategoria 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "16151",
+        "Nazwa_Produktu": "Kij baseballowy z piłką senior BRETT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Baseball jest sportem drużynowym, a ponieważ w drzewie kategorii 'Sporty drużynowe' nie ma dedykowanej sekcji dla baseballu, kategoria 'Pozostałe sporty drużynowe' jest najbardziej trafnym i szczegółowym wyborem."
     }
 ]
