@@ -7208,5 +7208,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to końcówka cukiernicza, która z opisu wynika, że jest przeznaczona do zastosowań profesjonalnych w zakładach cukierniczych, piekarniach, hotelach i restauracjach. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do tego typu zastosowań. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego konkretnego akcesorium cukierniczego, 'Pozostałe' w ramach 'Gastronomia' jest najgłębszym i najlepiej pasującym liściem."
+    },
+    {
+        "ID_Produktu": "1010097",
+        "Nazwa_Produktu": "Pędzelek kuchenny do smarowania włosie druciane nierdzewne wąski 25x200mm - HENDI 515389",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest pędzelkiem kuchennym przeznaczonym do użytku w profesjonalnych zakładach gastronomicznych, co bezpośrednio wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej kategorii dla tak specyficznego akcesorium, 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1010098",
+        "Nazwa_Produktu": "Pędzelek kuchenny do smarowania włosie z drutu nierdzewnego szeroki 50x220mm - HENDI 515396",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pędzelek kuchenny przeznaczony do profesjonalnych zastosowań gastronomicznych. Najbardziej szczegółową kategorią-liściem pasującą do tego opisu jest 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ nie ma bardziej specyficznej podkategorii dla tego typu akcesoriów gastronomicznych."
+    },
+    {
+        "ID_Produktu": "1010099",
+        "Nazwa_Produktu": "Pędzelek cukierniczy do smarowanai płaski 20x210mm ZESTAW 2szt. - HENDI 515228",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest pędzelkiem cukierniczym, a opis wyraźnie wskazuje na jego zastosowanie w 'profesjonalnych lokalach i zakładach gastronomicznych', co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pozostałe'."
     }
 ]

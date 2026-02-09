@@ -1293,5 +1293,70 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "1010093",
+        "Nazwa_Produktu": "Skrobka cukiernicza trójkątna ząbkowana GRZEBIEŃ WĄSKI ROZSTAW - ZESTAW 6szt.  - HENDI 554210",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skrobka cukiernicza przeznaczona do kształtowania i ozdabiania wypieków. Najbardziej szczegółową i precyzyjną kategorią jest 'Dom i Ogród -> Wyposażenie wnętrz -> Przybory kuchenne -> Akcesoria cukiernicze', która idealnie pasuje do nazwy i opisu produktu. Jest to kategoria-liść i oferuje najwyższy poziom szczegółowości.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1010094",
+        "Nazwa_Produktu": "Skrobka cukiernicza trójkątna ZĄBKOWANA ze stali nierdzewnej 110x110mm - HENDI 554227",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skrobka cukiernicza, która jest akcesorium wykorzystywanym w cukiernictwie. Kategoria 'Akcesoria cukiernicze' jest najbardziej szczegółową i idealnie pasującą kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1010095",
+        "Nazwa_Produktu": "Skrobka cukiernicza prostokątna ZĄBKOWANA ze stali nierdzewnej 102x69mm - HENDI 554234",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to skrobka cukiernicza, która jest akcesorium kuchennym służącym do kształtowania i ozdabiania wypieków. Kategoria 'Akcesoria cukiernicze' jest najbardziej szczegółowa i precyzyjnie opisuje ten rodzaj produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1010100",
+        "Nazwa_Produktu": "Pędzelek cukierniczy do smarowanai płaski 40x210mm ZESTAW 2szt. - HENDI 515327",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pędzelek cukierniczy, który idealnie pasuje do kategorii \"Akcesoria cukiernicze\" znajdującej się w drzewie kategorii \"Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne\". Jest to najbardziej szczegółowa i trafna kategoria.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1010101",
+        "Nazwa_Produktu": "Rolka dziurkująca wałek do nakłuwania ciasta Profi Line 85x210mm - HENDI 515099",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wałek do nakłuwania ciasta, który jest akcesorium cukierniczym. Kategoria 'Akcesoria cukiernicze' jest najbardziej szczegółowa i najlepiej pasuje do opisu produktu, obejmując zarówno zastosowania profesjonalne, jak i domowe.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]
