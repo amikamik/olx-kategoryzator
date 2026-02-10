@@ -3388,5 +3388,165 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to siatka przeznaczona bezpośrednio do tenisa stołowego, co zostało wyraźnie wskazane w tytule i opisie. Kategoria 'Tenis stołowy' (ID: 5027) jest najbardziej specyficznym liściem pasującym do tego sportu."
+    },
+    {
+        "ID_Produktu": "25566",
+        "Nazwa_Produktu": "Siatka do tenisa stołowego JOOLA Snapper",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do tenisa stołowego, która idealnie pasuje do kategorii liścia 'Tenis stołowy' znajdującej się w sekcji Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "25603",
+        "Nazwa_Produktu": "SLACKERS Uchwyty do wspinaczki Ninja Balls",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to akcesorium wspinaczkowe i przeszkoda (Ninja Balls), która według opisu jest dodatkiem do dziecięcych huśtawek, drabinek i tyrolek. Idealnie pasuje do kategorii 'Huśtawki i place zabaw', w której kategoryzowane są elementy wyposażenia przydomowych placów zabaw i ścianek wspinaczkowych dla dzieci."
+    },
+    {
+        "ID_Produktu": "25609",
+        "Nazwa_Produktu": "Linie do gry w speed badmintona TALBOT TORRO",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Torby i plecaki treningowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw linii do wyznaczania kortu do speed badmintona. Zgodnie z drzewem kategorii, najbardziej precyzyjną kategorią dla tego sportu jest Badminton w sekcji Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "25627",
+        "Nazwa_Produktu": "Siatka do tenisa stołowego JOOLA Easy",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest siatką do tenisa stołowego, co w pełni odpowiada najbardziej szczegółowej kategorii liścia 'Tenis stołowy' (ID: 5027) znajdującej się w ścieżce Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "25660",
+        "Nazwa_Produktu": "Rakieta tenisowa SPARTAN Alu - 58cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalne_ID_AI": 5028,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta do tenisa ziemnego, a kategoria 'Tenis ziemny' (id: 5028) jest najbardziej szczegółowym liściem w drzewie kategorii OLX przeznaczonym dla tego typu sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "25673",
+        "Nazwa_Produktu": "Drążek do siatki zabezpieczającej 365-457  cm - część górna",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Zabezpieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to część zamienna (słupek) do trampoliny ogrodowej o dużym rozmiarze (365-457 cm). Na platformie OLX trampoliny oraz ich dedykowane akcesoria i części serwisowe (siatki, osłony, słupki) są standardowo kategoryzowane w sekcji 'Dom i Ogród > Ogród > Huśtawki i place zabaw'. Podpowiedź systemowa dotycząca zabezpieczeń dla niemowląt jest błędna, ponieważ ta kategoria dotyczy blokad szafek czy bramek schodowych, a nie osprzętu sportowo-rekreacyjnego."
+    },
+    {
+        "ID_Produktu": "25705",
+        "Nazwa_Produktu": "Zapasowe piłkarzyki SPARTAN - 3 szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Piłkarzyki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Piłkarzyki",
+        "Finalne_ID_AI": 4968,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to figurki zamienne do gry w piłkarzyki stołowe, co precyzyjnie odpowiada liściowi 'Piłkarzyki' w sekcji 'Sporty towarzyskie'."
+    },
+    {
+        "ID_Produktu": "25785",
+        "Nazwa_Produktu": "Plastikowe sanki z hamulcami Speed Bob Różowe",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Sanki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty zimowe > Sanki",
+        "Finalne_ID_AI": 1932,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sanki (Speed Bob), które znajdują się w dedykowanej kategorii liściastej 'Sanki' wewnątrz sekcji sportów zimowych."
+    },
+    {
+        "ID_Produktu": "25787",
+        "Nazwa_Produktu": "Bramka MASTER 94 x 61 x 48 cm z akcesoriami - piłką i kijami hokejowymi",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw sportowy, którego głównym elementem jest bramka do piłki nożnej i hokeja. Na OLX bramki (nawet te o charakterze rekreacyjnym dla dzieci) są najdokładniej kategoryzowane w sekcji Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria."
+    },
+    {
+        "ID_Produktu": "25788",
+        "Nazwa_Produktu": "Zestaw do unihokeja MASTER Junior 2 kije - 2 piłki",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Osprzęt",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Zestaw do unihokeja (kije i piłki) to klasyczny sprzęt do sportu drużynowego. W strukturze kategorii OLX unihokej, nie mając własnej dedykowanej sekcji, najlepiej pasuje do kategorii 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "25793",
+        "Nazwa_Produktu": "Deskorolka Klasyczna Profilowana MASTER - Orzeł",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczna deskorolka, co bezpośrednio odpowiada kategorii 'Deskorolki' w sekcji 'Skating' wewnątrz działu 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "25797",
+        "Nazwa_Produktu": "Przykrycie do basenów BESTWAY - 396 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest przykryciem basenowym, a w strukturze kategorii OLX akcesoria i osprzęt do basenów umieszcza się bezpośrednio w kategorii 'Baseny' (ID: 1630), która jest liściem w tym drzewie."
+    },
+    {
+        "ID_Produktu": "25798",
+        "Nazwa_Produktu": "Pływający termometr basenowy BESTWAY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium basenowym przeznaczonym do monitorowania temperatury wody. W drzewie kategorii OLX akcesoria basenowe klasyfikowane są bezpośrednio w kategorii liściastej 'Baseny' (ID: 1630) w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "25800",
+        "Nazwa_Produktu": "Przykrycie do basenów BESTWAY - 427 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to przykrycie basenowe, które w strukturze OLX klasyfikowane jest w kategorii 'Baseny' (ID: 1630). Jest to kategoria-liść najbardziej odpowiadająca osprzętowi basenowemu."
+    },
+    {
+        "ID_Produktu": "25805",
+        "Nazwa_Produktu": "Przykrycie do basenów BESTWAY - 305 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to przykrycie (akcesorium) do basenu ogrodowego. W dostarczonym drzewie kategorii najbardziej precyzyjną kategorią dla basenów oraz ich osprzętu jest kategoria 'Baseny' (ID: 1630) znajdująca się w ścieżce Dom i Ogród > Ogród."
+    },
+    {
+        "ID_Produktu": "25806",
+        "Nazwa_Produktu": "Przykrycie solarne do basenu BESTWAY 462 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest przykryciem solarnym do basenu, co kwalifikuje go bezpośrednio do kategorii 'Baseny' (ID 1630). W udostępnionym drzewie kategorii jest to najbardziej szczegółowa kategoria (liść) dla artykułów związanych z basenami ogrodowymi i ich eksploatacją."
     }
 ]
