@@ -3868,5 +3868,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Mimo dołączonych piłek i funkcji zabawowej, produkt to konstrukcyjnie klasyczny nadmuchiwany basen z PVC o wymiarach 120x30 cm, wyposażony w korek spustowy. Takie parametry (materiał odporny na UV, odpływ wody) definiują go przede wszystkim jako brodzik ogrodowy, który na platformie OLX najlepiej pasuje do kategorii Dom i Ogród > Ogród > Baseny."
+    },
+    {
+        "ID_Produktu": "26794",
+        "Nazwa_Produktu": "Środek czyszczący DONIC Clean 500 ml",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Preparat jest specjalistycznym środkiem do konserwacji sprzętu sportowego, konkretnie stołów do tenisa stołowego, dlatego kategoria dedykowana tej dyscyplinie sportu jest najbardziej odpowiednia, mimo że funkcjonalnie jest to środek czyszczący."
+    },
+    {
+        "ID_Produktu": "26805",
+        "Nazwa_Produktu": "Pokrowiec na rakietkę do tenisa stołowego DONIC Trendline - niebieski",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec na rakietkę do tenisa stołowego, który idealnie pasuje do najbardziej szczegółowej kategorii liścia 'Tenis stołowy' w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "26806",
+        "Nazwa_Produktu": "Pokrowiec na rakietkę do tenisa stołowego DONIC Trendline - zielony",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to akcesorium (pokrowiec) przeznaczone do tenisa stołowego, co bezpośrednio odpowiada kategorii liścia 'Tenis stołowy' w sekcji 'Sporty towarzyskie'."
+    },
+    {
+        "ID_Produktu": "26807",
+        "Nazwa_Produktu": "Pokrowiec na rakietkę do tenisa stołowego DONIC Trendline - czerwony",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec na rakietkę do tenisa stołowego, co bezpośrednio odpowiada najbardziej szczegółowej kategorii dla tej dyscypliny sportowej."
+    },
+    {
+        "ID_Produktu": "26992",
+        "Nazwa_Produktu": "Kij baseballowy MASTER - junior 27\" aluminiowy z piłką",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Baseball jest sportem drużynowym, a ponieważ w strukturze nie ma dedykowanej kategorii dla tej dyscypliny, produkt najlepiej pasuje do 'Pozostałe sporty drużynowe' w obrębie sekcji 'Sport i Hobby'."
     }
 ]
