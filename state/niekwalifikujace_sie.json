@@ -9488,5 +9488,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to dozownik do sosów, który zgodnie z opisem przeznaczony jest do użytku w bufetach, barach i restauracjach. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do profesjonalnego zastosowania, a 'Pojemniki gastronomiczne' precyzyjnie opisuje charakter produktu."
+    },
+    {
+        "ID_Produktu": "1015864",
+        "Nazwa_Produktu": "Koszyk do pieczywa owalny brązowy 6 szt. - Hendi 426296",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt, mimo nazwy 'koszyk do pieczywa', jest wyraźnie opisany jako przeznaczony do użytku w 'restauracji typu fast food' do serwowania posiłków i sztućców. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu do zastosowań komercyjnych w gastronomii."
+    },
+    {
+        "ID_Produktu": "1015865",
+        "Nazwa_Produktu": "Koszyk do pieczywa owalny czerwony 6 szt. - Hendi 426319",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koszyk do pieczywa/przekąsek przeznaczony do restauracji fast food, co wskazuje na zastosowanie profesjonalne/gastronomiczne. Hendi to marka sprzętu gastronomicznego. Kategoria 'Pojemniki gastronomiczne' jest najbardziej specyficzna dla tego typu zastosowań i produktu."
+    },
+    {
+        "ID_Produktu": "1015866",
+        "Nazwa_Produktu": "Koszyk do pieczywa owalny czarny 6 szt. - Hendi 426890",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koszyk do pieczywa/przekąsek przeznaczony dla restauracji typu fast food, co wskazuje na zastosowanie gastronomiczne i komercyjne. Kategoria 'Pojemniki gastronomiczne' pod 'Firma i Przemysł > Gastronomia' jest najbardziej szczegółowa i trafna dla tego rodzaju produktu."
+    },
+    {
+        "ID_Produktu": "1015868",
+        "Nazwa_Produktu": "Kufel miedziany z uchwytem 0.4 l - Hendi 596982",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Birofilistyka > Kufle i pokale",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nowy kufel przeznaczony do użytku w barach, pubach i restauracjach. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł' jest najbardziej odpowiednia, ponieważ dokładnie opisuje przeznaczenie i typ produktu jako naczynia gastronomicznego."
+    },
+    {
+        "ID_Produktu": "1015870",
+        "Nazwa_Produktu": "Listwa do bonowania na zamówienia aluminiowa 455 mm - Hendi 513736",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to aluminiowa listwa do bonowania przeznaczona do profesjonalnych kuchni w barach, kawiarniach i restauracjach, służąca do organizacji pracy. Najbardziej szczegółową kategorią dla tego typu akcesorium w środowisku gastronomicznym jest 'Firma i Przemysł > Gastronomia > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1015871",
+        "Nazwa_Produktu": "Listwa do bonowania na zamówienia aluminiowa 1015 mm - Hendi 513743",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to listwa do bonowania, przeznaczona do profesjonalnych kuchni w barach, kawiarniach i restauracjach, co bezpośrednio wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego konkretnego typu akcesorium, 'Pozostałe' w ramach gastronomii jest najbardziej odpowiednie. Sugerowana kategoria 'Dom i Ogród' jest nieprawidłowa, gdyż produkt ma zastosowanie komercyjne."
+    },
+    {
+        "ID_Produktu": "1015872",
+        "Nazwa_Produktu": "Listwa do bonowania na zamówienia aluminiowa 1220 mm - Hendi 513750",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to listwa do bonowania, przeznaczona do profesjonalnych kuchni, barów, kawiarni i restauracji, co jednoznacznie wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ nie jest to żaden z konkretnych typów urządzeń gastronomicznych, 'Pozostałe' jest najbardziej szczegółową i adekwatną podkategorią."
     }
 ]
