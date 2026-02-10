@@ -10682,5 +10682,202 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1015593",
+        "Nazwa_Produktu": "Łącznik do maty wycieraczki gumowej 10050276",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pióra wycieraczek",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Dywany i dywaniki > Wycieraczki",
+        "Finalne_ID_AI": 2096,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to łącznik do gumowych mat wycieraczek. Kategoria 'Wycieraczki' znajduje się w drzewie 'Dom i Ogród > Wyposażenie wnętrz > Dywany i dywaniki', co jest idealnie pasującą, najbardziej szczegółową kategorią dla tego typu akcesorium do mat podłogowych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Łącznik do maty wycieraczki gumowej 10050276",
+                "description": "Kod producenta: 10050281 Łącznik marki Ulsonix pozwala połączyć gumowe maty o numerze 10050276 w jedną dużą matę. W tym celu należy wcisnąć element w otwory narożne mat, które mają być ze sobą połączone. Łącznik wykonany został z kauczuku naturalnego (NR), nitrylowego (NBR) i pochodzącego z recyklingu. Cechy produktu: - Łącznik do gumowych mat ażurowych o numerze 10050276, - Szybkie w układaniu i łatwe w czyszczeniu i konserwacji, - Łączą maty tworząc większe powierzchnie, - Odporne na warunki atmosferyczne, - Wykonane z kauczuku naturalnego, nitrylowego i gumy z recyclingu. Parametry techniczne: - Model - ULX-RM-08 - Nr katalogowy - 10050281 - Stan artykułu - Nowy - Kolor - Czarny - Rozmiar [mm] - 35 x 35 - Materiał - Kauczuk naturalny (NR) / kauczuk nitrylowy (NBR) / kauczuk (z recyklingu) - Grubość materiału [mm] - 5 - Wymiary (DxSxW) [cm] - 3,5 x 3,5 x 0,5 - Waga [kg] - 0,05 - Wymiary wysyłki (DxSxW) [cm] - 9,1 x 9,1 x 3 - Waga wysyłki [kg] - 0,3 W zestawie: - Łącznik - Instrukcja obsługi\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: EXPONDO POLSKA SP. Z O.O. SP. K.\nAdres: Dekoracyjna 3, 65-155, Zielona Góra, Polska\nEmail: info(at)expondo.pl\nTelefon: +48688881008\n----------------------------------------",
+                "category_id": 2096,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.25,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/105/10050281-lacznik-do-maty-wycieraczki-gumowej-10050276-100-szt-ean-4062859047939-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/105/10050281-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/105/10050281-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/105/10050281-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/105/10050281-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/105/10050281-5.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Wpisałeś frazę: 1005027, która nie jest dozwolona w tym polu. Twój numer telefonu możesz podać w innych miejscach formularza",
+                            "detail": "Wpisałeś frazę: 1005027, która nie jest dozwolona w tym polu. Twój numer telefonu możesz podać w innych miejscach formularza"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1015594",
+        "Nazwa_Produktu": "Zakończenie do maty gumowej 10050276 czarne 95 x 6 x 1 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Dywany i dywaniki > Wycieraczki",
+        "Finalne_ID_AI": 2096,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zakończenie do maty gumowej, której główną funkcją jest zapewnienie bezpieczeństwa i zapobieganie potknięciom w miejscach takich jak urzędy, przedszkola czy szkoły. Maty gumowe pełniące taką rolę są często klasyfikowane jako wycieraczki lub maty podłogowe. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Dywany i dywaniki > Wycieraczki' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu, mimo że jest to akcesorium do maty, a nie sama mata. Funkcja akcesorium jest integralna z funkcją wycieraczki.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zakończenie do maty gumowej 10050276 czarne 95 x 6 x 1 cm",
+                "description": "Kod producenta: 10050284 Zakończenie marki Ulsonix do maty gumowej o numerze 10050276 pozwala zapewnić perfekcyjną krawędź w urzędach, przedszkolach czy szkołach. Zakończenie ma elegancką, czarną powierzchnię, która zapewnia bezpieczeństwo i wygodę. Wysoka jakość produktu zapobiega zaginaniu się narożników nie grożąc potknięciem. Zakończenie Wykonano z połączenia kauczuku naturalnego (NR), kauczuku nitrylowego (NBR) i kauczuku pochodzącego z recyklingu. Produkt odznacza się wytrzymałością oraz odpornością na czynniki atmosferyczne i zewnętrzne. Cechy produktu: - Przeznaczone do maty gumowej 10050276, - Wyprofilowana krawędź zmniejsza ryzyko potknięcia się i zapobiega ślizganiu się maty, - Odporność na rozdarcie, warunki atmosferyczne i wpływ innych czynników zewnętrznych, - Wykonane z wysokiej jakości gumy, - Szybkie czyszczenie. Parametry techniczne: - Model - ULX-RM-11 - Nr katalogowy - 10050284 - Stan artykułu - Nowy - Kolor - Czarny - Materiał - Kauczuk naturalny (NR) / kauczuk nitrylowy (NBR) / kauczuk (z recyklingu) - Grubość materiału [mm] - 9 - Wymiary (DxSxW) [cm] - 95 x 6 x 1 - Waga [kg] - 0,55 - Wymiary wysyłki (DxSxW) [cm] - 95 x 6 x 1 - Waga wysyłki [kg] - 0,56 W zestawie: - Zakończenie do maty - Instrukcja obsługi\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: EXPONDO POLSKA SP. Z O.O. SP. K.\nAdres: Dekoracyjna 3, 65-155, Zielona Góra, Polska\nEmail: info(at)expondo.pl\nTelefon: +48688881008\n----------------------------------------",
+                "category_id": 2096,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.25,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/105/10050284-zakonczenie-do-maty-gumowej-10050276-czarne-95-x-6-x-1-cm-145-szt-ean-4062859047960-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/105/10050284-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/105/10050284-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/105/10050284-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/105/10050284-4.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Wpisałeś frazę: 1005027, która nie jest dozwolona w tym polu. Twój numer telefonu możesz podać w innych miejscach formularza",
+                            "detail": "Wpisałeś frazę: 1005027, która nie jest dozwolona w tym polu. Twój numer telefonu możesz podać w innych miejscach formularza"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1015851",
+        "Nazwa_Produktu": "Dzbanek do spieniania mleka do kawy latte cappuccino 0.7 l czarny - Hendi 451045",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Ekspresy do kawy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne",
+        "Finalne_ID_AI": 2113,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dzbanek do spieniania mleka, który jest nieelektrycznym narzędziem kuchennym. Najbardziej precyzyjną i adekwatną kategorią, uwzględniającą fizyczny charakter przedmiotu i jego zastosowanie w kuchni, jest 'Przybory kuchenne'. Jest to kategoria liść, idealnie pasująca do tego typu artykułu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dzbanek do spieniania mleka do kawy latte cappuccino 0.7 l czarny -",
+                "description": "Kod producenta: 451045 Dzbanek marki Hendi wykonany został ze stali nierdzewnej . Jego kształt umożliwia doskonałe spienianie mleka. Ścianki o grubości 1 mm utrzymują temperaturę płynu, Dziubek w kształcie litery V pozwala na precyzyjne nalewanie. Nie nadaje się do mycia w zmywarce . Cechy produktu: - Wykonany ze stali nierdzewnej, - Ścianki o grubości 1 mm, - Dziubek do precyzyjnego nalewania, - Nie myć w zmywarce. Parametry techniczne: - Nr katalogowy - 451045 - Stan artykułu - Nowy - Nieodpowiedni do - Zmywarka do naczyń - Odpowiedni do - Kontakt z żywnością - Możliwość piętrowania - Nie - Materiały - Stal nierdzewna 18/10 - Grubość ścianki - 1 mm - Waga netto - 0,34 kg - Objętość użytkowa - 0,7 l - Wymiary - śr. 84 (H) x 130 mm W zestawie: - Dzbanek do spieniania mleka\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2113,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 136.4,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/131/451045-dzbanek-do-spieniania-mleka-do-kawy-latte-cappuccino-0-7-l-czarny-hendi-451045-ean-8711369451045-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

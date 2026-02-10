@@ -9348,5 +9348,145 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na \"Zestaw bitów nasadek końcówek do wkrętarki\", co idealnie pasuje do kategorii \"Zestawy narzędzi\" w drzewie \"Dom i Ogród > Narzędzia\"."
+    },
+    {
+        "ID_Produktu": "1015503",
+        "Nazwa_Produktu": "Kamienie grzewcze do pieca sauny 20 kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Architektura ogrodowa > Sauny i balie ogrodowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa > Sauny i balie ogrodowe",
+        "Finalne_ID_AI": 3051,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Kamienie grzewcze do pieca sauny', a kategoria 'Sauny i balie ogrodowe' jest najbardziej szczegółową i adekwatną kategorią-liściem dla akcesoriów związanych z saunami. Akcesoria do pieców grzewczych saun stanowią integralną część oferty saun."
+    },
+    {
+        "ID_Produktu": "1015595",
+        "Nazwa_Produktu": "Zakończenie do maty gumowej 10050276 czarne 95 x 6 x 1 cm - 90 szt.",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Podłogi > Listwy przypodłogowe",
+        "Finalne_ID_AI": 3258,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'zakończenie do maty gumowej', które służy do wykończenia krawędzi maty, zapewniając bezpieczeństwo i estetykę. Funkcjonalnie przypomina listwę przypodłogową lub krawędziową dla nawierzchni. Pasuje do kategorii 'Dom i Ogród > Wykończenie wnętrz > Podłogi > Listwy przypodłogowe', ponieważ maty gumowe, zwłaszcza w kontekście użycia w urzędach czy szkołach, pełnią rolę nawierzchni, a zakończenie jest elementem wykończeniowym podłogi. Wskazówka systemowa dotycząca 'Akcesoria treningowe' jest zbyt ogólna i nieoddaje funkcji produktu, który nie jest stricte sportowy, a bardziej elementem wykończenia powierzchni."
+    },
+    {
+        "ID_Produktu": "1015624",
+        "Nazwa_Produktu": "Kaseta z taśmą odgradzającą ostrzegawczą nakładka na słupek pachołek 2 m czarna",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Pozostałe",
+        "Finalne_ID_AI": 4795,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kaseta z taśmą odgradzającą, przeznaczoną do montażu na pachołkach. Jest to typowe wyposażenie używane do oznaczania stref, w tym często na placach budowy, w przemyśle czy magazynach. Najlepiej pasuje do kategorii 'Firma i Przemysł', a następnie 'Maszyny i urządzenia', gdzie 'Budownictwo' jest najbardziej odpowiednim podkategorią ze względu na zastosowanie w blokowaniu przejść i sygnalizacji ostrzegawczej. Ponieważ nie ma bardziej szczegółowej kategorii dla tego typu sprzętu bezpieczeństwa, 'Pozostałe' w ramach 'Budownictwo' jest najlepszym wyborem. Sugestia systemu 'Motoryzacja > Części samochodowe > Osobowe' jest błędna, ponieważ produkt nie jest częścią samochodową."
+    },
+    {
+        "ID_Produktu": "1015625",
+        "Nazwa_Produktu": "Kaseta z taśmą odgradzającą ostrzegawczą nakładka na słupek pachołek 3 m czarna",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Pozostałe",
+        "Finalne_ID_AI": 4275,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kaseta z taśmą odgradzającą ostrzegawczą, służąca do blokowania przejść i oznaczania stref zastrzeżonych, typowa dla zastosowań w środowisku biznesowym i przemysłowym (np. budowy, magazyny, obszary publiczne wymagające ostrzeżenia). Nie pasuje do bardziej szczegółowych kategorii maszyn, odzieży roboczej czy wyposażenia konkretnego typu działalności, dlatego kategoria ogólna 'Pozostałe' pod 'Firma i Przemysł' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1015685",
+        "Nazwa_Produktu": "Koła kółka do kubła na popiół i odpadki MEVA 110L",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Koła i obręcze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Pozostałe",
+        "Finalne_ID_AI": 293,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to koła do kubła na popiół i odpadki, co kwalifikuje go jako akcesorium związane z gospodarstwem domowym lub ogrodem. Brak bardziej szczegółowej kategorii dla akcesoriów do pojemników na odpady w ramach drzewa 'Dom i Ogród', dlatego 'Dom i Ogród > Pozostałe' jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "1015743",
+        "Nazwa_Produktu": "Zestaw do urwanych świec żarowych i naprawy gwintów - 16 el.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny zestaw narzędzi do naprawy świec żarowych i gwintów, przeznaczony do użytku w warsztacie samochodowym, co idealnie pasuje do kategorii 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe'."
+    },
+    {
+        "ID_Produktu": "1015838",
+        "Nazwa_Produktu": "Drewienka wędzarnicze do wędzenia brzoskwiniowe 3 kg - Hendi 199503",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to drewienka wędzarnicze, które są bezpośrednio przeznaczone do użytku na grillu i w piecach zewnętrznych, co idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Grill'."
+    },
+    {
+        "ID_Produktu": "1015840",
+        "Nazwa_Produktu": "Drewienka wędzarnicze do wędzenia cytrusowe 3 kg - Hendi 199480",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to drewienka wędzarnicze przeznaczone do wędzenia, idealne do stosowania w piecach zewnętrznych oraz na grillu, co bezpośrednio wskazuje na kategorię 'Grill' w drzewie 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "1015841",
+        "Nazwa_Produktu": "Drewienka wędzarnicze do wędzenia czerwone wino 3 kg - Hendi 199510",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to drewienka wędzarnicze, które są bezpośrednio związane z procesem wędzenia na grillu lub w piecach zewnętrznych, co idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Grill'."
+    },
+    {
+        "ID_Produktu": "1015842",
+        "Nazwa_Produktu": "Drewienka wędzarnicze do wędzenia dębowe 3 kg - Hendi 199466",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to drewienka wędzarnicze, które są akcesorium do wędzenia/grillowania na grillu, co bezpośrednio pasuje do kategorii 'Grill' w drzewie 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "1015843",
+        "Nazwa_Produktu": "Drewienka wędzarnicze do wędzenia drzewo oliwne 3 kg - Hendi 199473",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to drewienka wędzarnicze przeznaczone do wędzenia na grillu oraz w piecach zewnętrznych, co idealnie pasuje do kategorii 'Grill' w drzewie 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "1015844",
+        "Nazwa_Produktu": "Drewienka wędzarnicze do wędzenia koniak 3 kg - Hendi 199534",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to drewienka wędzarnicze, które są przeznaczone do stosowania na grillu i w piecach zewnętrznych, w celu nadania smaku potrawom. Kategoria 'Grill' jest najbardziej szczegółową i trafioną opcją, idealnie pasującą do przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "1015845",
+        "Nazwa_Produktu": "Drewienka wędzarnicze do wędzenia migdałowe 3 kg - Hendi 199497",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to drewienka wędzarnicze przeznaczone do wędzenia na grillu i w piecach zewnętrznych, co bezpośrednio wskazuje na kategorię 'Dom i Ogród > Ogród > Grill' jako najbardziej szczegółową i trafną."
+    },
+    {
+        "ID_Produktu": "1015847",
+        "Nazwa_Produktu": "Dyspenser dozownik do sosów niekapiący 0.23 l - Hendi 558096",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dozownik do sosów, który zgodnie z opisem przeznaczony jest do użytku w bufetach, barach i restauracjach. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do profesjonalnego zastosowania, a 'Pojemniki gastronomiczne' precyzyjnie opisuje charakter produktu."
     }
 ]
