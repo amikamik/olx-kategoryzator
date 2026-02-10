@@ -9998,5 +9998,105 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to ręcznik przeznaczony przede wszystkim do osuszania samochodu (\"Baseus Easy Life Car Washing Towel\"), z cechami specjalnie dopasowanymi do pielęgnacji lakieru samochodowego. Mimo wspomnienia o uniwersalności, jego główna funkcja i branding są motoryzacyjne. Ponieważ w kategorii 'Wyposażenie i akcesoria samochodowe' nie ma bardziej szczegółowej podkategorii dla ręczników, 'Pozostałe' jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "1016933",
+        "Nazwa_Produktu": "Organizer samochodowy na fotel siedzenie + półka stolik do auta brązowy",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Torby, plecaki, organizery",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki",
+        "Finalne_ID_AI": 4506,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to organizer samochodowy przeznaczony na fotel siedzenie. Jego główną funkcją jest przechowywanie i utrzymywanie akcesoriów w określonym miejscu. Posiada liczne kieszenie i specjalny uchwyt na tablet, co bezpośrednio odpowiada definicji 'uchwytów'. Chociaż zawiera słowo 'organizer' w nazwie, kategoria 'Organizery i siatki do bagażnika' jest zbyt specyficzna pod względem umiejscowienia, podczas gdy 'Uchwyty, wieszaki' lepiej oddaje funkcjonalność tego przedmiotu w kontekście samochodowym."
+    },
+    {
+        "ID_Produktu": "1016934",
+        "Nazwa_Produktu": "Organizer samochodowy na fotel siedzenie + półka stolik do auta beżowy",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Torby, plecaki, organizery",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika",
+        "Finalne_ID_AI": 4498,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to organizer samochodowy. Najbardziej szczegółowa kategoria w drzewie to 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika'. Mimo że w nazwie kategorii jest 'bagażnika', a w produkcie 'fotel siedzenie', to jest to najbardziej specyficzny typ organizera do samochodu. Kategoria dotycząca akcesoriów dla niemowląt jest nieadekwatna, ponieważ produkt jest ogólnym organizerem samochodowym, a nie specjalistycznym akcesorium dla niemowląt, mimo posiadania uchwytu na tablet, który może być używany przez dzieci."
+    },
+    {
+        "ID_Produktu": "1016935",
+        "Nazwa_Produktu": "Organizer samochodowy na fotel siedzenie osłona fotela czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika",
+        "Finalne_ID_AI": 4498,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Organizer samochodowy', a jego główną funkcją jest przechowywanie akcesoriów. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika' jest najbardziej szczegółową i trafiającą w główną funkcję produktu, pomimo, że organizer jest na fotel, a nie do bagażnika. Słowo 'Organizer' jest kluczowe i najlepiej pasuje do tej kategorii."
+    },
+    {
+        "ID_Produktu": "1016937",
+        "Nazwa_Produktu": "Organizer samochodowy na oparcie tylnego siedzenia do bagażnika czarny",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika",
+        "Finalne_ID_AI": 4498,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to 'Organizer samochodowy na oparcie tylnego siedzenia do bagażnika'. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika' (ID: 4498) jest idealnie dopasowana i stanowi najbardziej szczegółowy liść w drzewie kategorii, odpowiadający temu produktowi. Zgodne ze wskazówką systemową."
+    },
+    {
+        "ID_Produktu": "1016941",
+        "Nazwa_Produktu": "Zestaw akcesoriów do bezprzewodowej maszyny polerskiej CRDLQ-B01 3 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów (nakładek polerskich) do maszyny polerskiej. Maszyna polerska jest narzędziem, a zestaw stanowi jej uzupełnienie. Kategoria 'Zestawy narzędzi' jest odpowiednia, szczególnie z uwagi na podpowiedź systemu OLX oraz uniwersalne zastosowanie (do samochodu i do podłogi w domu), co sprawia, że kategoria ogólna 'Narzędzia' jest trafniejsza niż wyłącznie motoryzacyjna."
+    },
+    {
+        "ID_Produktu": "1016950",
+        "Nazwa_Produktu": "Zestaw akcesoriów do kamery sportowej GoPro DJI Insta360 SJCam Eken Chest Strap",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Kamery > Kamery sportowe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Akcesoria i części",
+        "Finalne_ID_AI": 1985,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów do kamer sportowych, a najbardziej szczegółowa i pasująca kategoria to 'Akcesoria i części' w dziale 'Sprzęt video' w 'Elektronice', ponieważ nie ma bardziej specyficznej kategorii dla akcesoriów do kamer sportowych."
+    },
+    {
+        "ID_Produktu": "1016951",
+        "Nazwa_Produktu": "Zestaw akcesoriów montażowych na kask do kamery sportowej GoPro DJI Insta360 SJCam Eken",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Kamery > Kamery sportowe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Akcesoria i części",
+        "Finalne_ID_AI": 1985,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów montażowych do kamer sportowych. Najbardziej szczegółowa kategoria to 'Akcesoria i części' znajdująca się pod 'Sprzęt video', co jest zgodne z przeznaczeniem produktu jako wyposażenia dodatkowego do sprzętu wideo."
+    },
+    {
+        "ID_Produktu": "1016953",
+        "Nazwa_Produktu": "Zestaw akcesoriów mocowania do kamery sportowej GoPro DJI Insta360 SJCam Eken  67w1",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Kamery > Kamery sportowe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Akcesoria i części",
+        "Finalne_ID_AI": 1985,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów mocowania dedykowany do kamer sportowych, które są klasyfikowane jako sprzęt wideo. Kategoria 'Akcesoria i części' w gałęzi 'Elektronika > Sprzęt video' jest najbardziej szczegółową i adekwatną kategorią-liściem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "1016956",
+        "Nazwa_Produktu": "Bazy montażowe do kamery sportowej GoPro DJI Osmo Action EKEN SJCam Insta360 z taśmami 3M - 4szt",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Kamery > Kamery sportowe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Akcesoria i części",
+        "Finalne_ID_AI": 1985,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bazy montażowe, które są akcesoriami do kamer sportowych. Kamery sportowe to sprzęt video. Najbardziej szczegółową i pasującą kategorią jest 'Elektronika > Sprzęt video > Akcesoria i części'."
+    },
+    {
+        "ID_Produktu": "1016963",
+        "Nazwa_Produktu": "Uchwyt na telefon do samochodu na zagłówek podwójny czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki",
+        "Finalne_ID_AI": 4506,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt samochodowy mocowany do zagłówka, przeznaczony do różnorodnych urządzeń mobilnych (telefon, tablet, e-book, konsola). Kategoria \"Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki\" najlepiej oddaje jego główne przeznaczenie jako akcesorium do pojazdu, niezależnie od typu urządzenia elektronicznego, które będzie trzymać."
     }
 ]
