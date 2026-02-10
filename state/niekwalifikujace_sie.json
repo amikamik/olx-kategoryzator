@@ -9658,5 +9658,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to dozownik do sosów przeznaczony do użytku profesjonalnego w gastronomii (bary, bufety, restauracje, catering). Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, odzwierciedlając zarówno funkcję pojemnika, jak i jego komercyjne przeznaczenie."
+    },
+    {
+        "ID_Produktu": "1015921",
+        "Nazwa_Produktu": "Sitko barmańskie stożkowe stalowe śr. 75 mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sitko barmańskie, które jest narzędziem używanym w barach, pubach, restauracjach i cukierniach. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu akcesoriów, 'Pozostałe' w ramach gastronomii jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1015928",
+        "Nazwa_Produktu": "Sznurek nici wędliniarskie z bawełny i poliestru 42 m - Hendi 559246",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Rękodzieło > Szycie i filcowanie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sznurek wędliniarski marki Hendi, która specjalizuje się w sprzęcie gastronomicznym. Jest przeznaczony do profesjonalnego użytku przy przygotowywaniu wędlin i mięs, co najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1015934",
+        "Nazwa_Produktu": "Taca antypoślizgowa do serwowania okrągła z nadrukiem śr. 380 mm - Hendi 507971",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie przeznaczony do użytku w gastronomii, co jest podkreślone w opisie (\"sprawdzi się w gastronomii do serwowania dań\") oraz przez markę Hendi, znaną z wyposażenia gastronomicznego. Taca, służąca do serwowania, funkcjonalnie działa jako pojemnik na potrawy/naczynia w kontekście gastronomicznym. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej specyficzna dla tego zastosowania."
+    },
+    {
+        "ID_Produktu": "1015937",
+        "Nazwa_Produktu": "Taca antypoślizgowa do serwowania tasty fish chips 330 x 430 mm - Hendi 508022",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to taca antypoślizgowa przeznaczona do serwowania dań w gastronomii, co jest wyraźnie zaznaczone w opisie. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna dla tego typu profesjonalnego wyposażenia."
+    },
+    {
+        "ID_Produktu": "1015938",
+        "Nazwa_Produktu": "Taca ekspozycyjna bufetowa okrągła z pokrywą śr. 300 mm - Hendi 203569",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'taca ekspozycyjna bufetowa' marki Hendi, która jest dostawcą profesjonalnego sprzętu gastronomicznego. Słowo 'bufetowa' oraz opis wskazujący na 'ekspozycję przekąsek' i 'zapobieganie wysychaniu produktów' doskonale pasują do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
     }
 ]
