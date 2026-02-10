@@ -9898,5 +9898,105 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to specjalistyczne czyściwo przeznaczone do zastosowań przemysłowych (optyka, lakiernictwo, elektronika), co kwalifikuje go do kategorii \"Firma i Przemysł\". Spośród podkategorii, \"Sprzęt czyszczący\" najlepiej oddaje funkcję produktu, a \"Pozostałe\" jest odpowiednie dla materiałów eksploatacyjnych do czyszczenia, które nie są maszynami."
+    },
+    {
+        "ID_Produktu": "1016833",
+        "Nazwa_Produktu": "Boja wypornościowa uchwyt do kamery sportowej GoPro SJCAM",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Kamery > Kamery sportowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Akcesoria i części",
+        "Finalne_ID_AI": 5000,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt do kamery sportowej, pełniący również funkcję boi wypornościowej, co jest kluczową cechą dla zastosowań w sportach wodnych. Kategoria 'Sport i Hobby > Sporty wodne > Akcesoria i części' najlepiej oddaje jego specyficzne przeznaczenie i funkcjonalność, która wykracza poza ogólne akcesorium elektroniczne."
+    },
+    {
+        "ID_Produktu": "1016834",
+        "Nazwa_Produktu": "Uchwyt do kamery sportowej GoPro do statywu",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Kamery > Kamery sportowe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Akcesoria i części",
+        "Finalne_ID_AI": 1985,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest uchwytem, czyli akcesorium przeznaczonym do kamer sportowych GoPro, które należą do kategorii 'Sprzęt video'. Kategoria 'Elektronika > Sprzęt video > Akcesoria i części' jest najbardziej szczegółowym i precyzyjnym miejscem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "1016835",
+        "Nazwa_Produktu": "Akcesoria do kamery sportowej GoPro SJCAM - ZESTAW 9w1",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Kamery > Kamery sportowe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Akcesoria i części",
+        "Finalne_ID_AI": 1985,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów do kamer sportowych. Kategoria 'Akcesoria i części' pod 'Sprzęt video' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1016839",
+        "Nazwa_Produktu": "Walizka etui na akcesoria i kamerę sportową GoPro SJCAM - rozmiar M",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Kamery > Kamery sportowe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Akcesoria i części",
+        "Finalne_ID_AI": 1985,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to walizka/etui na kamerę sportową i akcesoria, co klasyfikuje go jako akcesorium do sprzętu wideo. Kategoria 'Akcesoria i części' w gałęzi 'Elektronika > Sprzęt video' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1016841",
+        "Nazwa_Produktu": "Szelki na klatkę piersiową do kamery sportowej GoPro SJCAM Chest Mount",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Kamery > Kamery sportowe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Akcesoria i części",
+        "Finalne_ID_AI": 1985,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szelki (uchwyt) do kamery sportowej, co kwalifikuje go jako akcesorium. Kamera sportowa jest sprzętem wideo, więc najbardziej szczegółową kategorią-liściem dla akcesoriów do sprzętu wideo jest 'Elektronika > Sprzęt video > Akcesoria i części'."
+    },
+    {
+        "ID_Produktu": "1016844",
+        "Nazwa_Produktu": "Lusterko samochodowe boczne wypukłe martwe pole Full-view Blind-spot Mirror 2szt.",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalne_ID_AI": 1399,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to lusterko samochodowe, które jest częścią pojazdu przeznaczoną dla samochodów osobowych. Kategoria 'Motoryzacja > Części samochodowe > Osobowe' jest najbardziej szczegółowa i precyzyjnie opisuje charakter produktu."
+    },
+    {
+        "ID_Produktu": "1016848",
+        "Nazwa_Produktu": "Mini kosz na śmieci z pokrywką do auta samochodu czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Mini kosz na śmieci do auta', co jednoznacznie wskazuje na jego przeznaczenie samochodowe. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe' jest najbardziej odpowiednią nadrzędną kategorią. Ponieważ nie ma bardziej szczegółowej podkategorii dla 'kosza na śmieci' w tej gałęzi, 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1016860",
+        "Nazwa_Produktu": "Uchwyt klips samochodowy na okulary czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki",
+        "Finalne_ID_AI": 4506,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uchwyt samochodowy na okulary i drobiazgi. Kategoria \"Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki\" jest najbardziej precyzyjna i szczegółowo opisuje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1016861",
+        "Nazwa_Produktu": "Uchwyt klips samochodowy na okulary srebrny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki",
+        "Finalne_ID_AI": 4506,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to uchwyt samochodowy na okulary, a kategoria 'Uchwyty, wieszaki' jest najbardziej szczegółowa i bezpośrednio odpowiada jego funkcji w ramach 'Wyposażenia i akcesoriów samochodowych'."
+    },
+    {
+        "ID_Produktu": "1016863",
+        "Nazwa_Produktu": "Ręcznik z mikrofibry do osuszania samochodu mikrofibra 40x40cm szary - ZESTAW 2 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ręczniki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to ręcznik przeznaczony przede wszystkim do osuszania samochodu (\"Baseus Easy Life Car Washing Towel\"), z cechami specjalnie dopasowanymi do pielęgnacji lakieru samochodowego. Mimo wspomnienia o uniwersalności, jego główna funkcja i branding są motoryzacyjne. Ponieważ w kategorii 'Wyposażenie i akcesoria samochodowe' nie ma bardziej szczegółowej podkategorii dla ręczników, 'Pozostałe' jest najbardziej odpowiednim wyborem."
     }
 ]
