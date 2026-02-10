@@ -384,5 +384,160 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "25132",
+        "Nazwa_Produktu": "Strój kąpielowy Syrena MASTER - 120 cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > Stroje kąpielowe",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Ubranka dla dziewczynek > Stroje kąpielowe",
+        "Finalne_ID_AI": 2426,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to strój kąpielowy przeznaczony dla dziewczynek o wzroście 120 cm. Kategoria 'Stroje kąpielowe' w sekcji 'Ubranka dla dziewczynek' (Dla Dzieci) jest najbardziej dopasowana do grupy docelowej i typu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Strój kąpielowy syrena master - 120 cm",
+                "description": "Strój kąpielowy Syrena MASTER 120 cm - został zaprojektowany tak, aby dobrze przylegał do ciała podczas pływania. Jakość użytego materiału w połączeniu z nowo zaprojektowanym realistycznym designem nadaje kostiumowi wygląd prawdziwych, błyszczących łusek. Kostium składa się z klasycznej górnej i dolnej części kostiumu oraz imitacji ogona syreny. Może być również wykorzystywany do fotografii tematycznych. Ze względów bezpieczeństwa używaj kostiumu tylko w obecności osoby dorosłej. Chodząc po ziemi, podnieś dół kostiumu nad kostki. Kostium można zdjąć w wodzie, zsuwając. Specyfikacja: Materiał: elastyczny nylon Rozmiar: 120 cm Zawiera: górną i dolną część stroju kąpielowego, ogon syrenki Przeznaczony: dla dziewczynek z minimalnym wzrostem 120cm Uważaj na schody w basenach i nie skacz w kostiumie. Długotrwałe przebywanie na słońcu, morzu i chlorowanej wodzie może powodować przebarwienia lub zmniejszoną elastyczność tkaniny, gumek itp. Unikaj kontaktu z szorstkimi powierzchniami.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: MASTER\nAdres: Provozn 5560/1b, 72200, Ostrava, CZ\nEmail: info(at)mastersport.cz\nTelefon: +420596633216\n----------------------------------------",
+                "category_id": 2426,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 85.67,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/sportywodne/strojekapielowe/MAS-B641c_1589440298.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/sportywodne/strojekapielowe/MAS-B641a_1589440298.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/sportywodne/strojekapielowe/MAS-B641b_1589440298.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/sportywodne/strojekapielowe/MAS-B641d_1589440298.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/sportywodne/strojekapielowe/MAS-B641_1588668439.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    },
+                    {
+                        "code": "size",
+                        "value": "120"
+                    },
+                    {
+                        "code": "type",
+                        "value": "twopart"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "params.size",
+                            "title": "niepoprawna wartość",
+                            "detail": "niepoprawna wartość"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "25136",
+        "Nazwa_Produktu": "Kostium i strój kąpielowy syreny MASTER Diana - 120 cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > Stroje kąpielowe",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Ubranka dla dziewczynek > Stroje kąpielowe",
+        "Finalne_ID_AI": 2426,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest strojem kąpielowym przeznaczonym dla dzieci (dziewczynek) o rozmiarze 120 cm, co jednoznacznie wskazuje na kategorię Dla Dzieci > Ubranka dla dziewczynek > Stroje kąpielowe.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kostium i strój kąpielowy syreny master diana - 120 cm",
+                "description": "Strój kąpielowy Syrena MASTER Diana 120 cm - został zaprojektowany tak, aby dobrze przylegał do ciała podczas pływania. Jakość użytego materiału w połączeniu z nowo zaprojektowanym realistycznym designem nadaje kostiumowi wygląd prawdziwych, błyszczących łusek. Kostium składa się z klasycznej górnej i dolnej części kostiumu oraz imitacji ogona syreny. Może być również wykorzystywany do fotografii tematycznych. Ze względów bezpieczeństwa używaj kostiumu tylko w obecności osoby dorosłej. Chodząc po ziemi, podnieś dół kostiumu nad kostki. Kostium można zdjąć w wodzie, zsuwając. Specyfikacja: Materiał: elastyczny nylon Rozmiar: 120 cm Zawiera: górną i dolną część stroju kąpielowego, ogon syrenki Przeznaczony: dla dziewczynek z minimalnym wzrostem 120cm Uważaj na schody w basenach i nie skacz w kostiumie. Długotrwałe przebywanie na słońcu, morzu i chlorowanej wodzie może powodować przebarwienia lub zmniejszoną elastyczność tkaniny, gumek itp. Unikaj kontaktu z szorstkimi powierzchniami.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: MASTER\nAdres: Provozn 5560/1b, 72200, Ostrava, CZ\nEmail: info(at)mastersport.cz\nTelefon: +420596633216\n----------------------------------------",
+                "category_id": 2426,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 100.44,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/sportywodne/strojekapielowe/MASB643150/MAS-B643_21a_1618493543.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/sportywodne/strojekapielowe/MASB643150/MAS-B643_21b_1618493632.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    },
+                    {
+                        "code": "size",
+                        "value": "120"
+                    },
+                    {
+                        "code": "type",
+                        "value": "twopart"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "params.size",
+                            "title": "niepoprawna wartość",
+                            "detail": "niepoprawna wartość"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

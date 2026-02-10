@@ -3058,5 +3058,135 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to śruba napędowa (część zamienna) do silnika elektrycznego (jednostka ciągu 66 Lbs), stosowanego w łodziach i pontonach. Najbardziej dopasowana kategoria to 'Do silników' w sekcji 'Akcesoria i części' wewnątrz 'Sportów wodnych'."
+    },
+    {
+        "ID_Produktu": "21814",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego Ping Ponga SPONETA * 6 pcs",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego (ping-ponga), które idealnie pasują do najbardziej szczegółowej kategorii 'Tenis stołowy' (liść) w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21816",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego Ping Ponga SPONETA *** 6 pcs",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego (ping ponga), co bezpośrednio odpowiada kategorii liściowej 'Tenis stołowy' (id: 5027) w sekcji Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "25281",
+        "Nazwa_Produktu": "Neoprenowe Uchwyty do wiosła 2x 15 cm MASTER - pomarańczowy",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Akcesoria i części > Do kajaków, pontonów i rowerów wodnych",
+        "Finalne_ID_AI": 5022,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to neoprenowe uchwyty przeznaczone specjalnie do wiosła, co klasyfikuje go jako akcesorium do sprzętu wodnego takiego jak kajaki czy pontony. Kategoria 5022 (Akcesoria i części > Do kajaków, pontonów i rowerów wodnych) jest najbardziej precyzyjnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "25285",
+        "Nazwa_Produktu": "Pokrowiec ochronny - plecak na SUP Paddleboard MASTER",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Deski",
+        "Finalne_ID_AI": 5014,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec/plecak dedykowany do deski SUP, co klasyfikuje go jako akcesorium do tej konkretnej dyscypliny sportu wodnego."
+    },
+    {
+        "ID_Produktu": "25300",
+        "Nazwa_Produktu": "3-częściowe Wiosło Teleskopowe z Włókna Szklanego MASTER Fiber",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wiosło przeznaczone bezpośrednio do deski SUP (Stand-Up Paddleboarding), co zostało wyraźnie zaznaczone w tytule i opisie. Najbardziej precyzyjną kategorią-liściem jest Sport i Hobby > Sporty wodne > SUP > Akcesoria."
+    },
+    {
+        "ID_Produktu": "25301",
+        "Nazwa_Produktu": "Obręcz do koszykówki MASTER 19 mm + siatka - czarna",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to obręcz do koszykówki z siatką, co kwalifikuje go jako sprzęt/akcesorium sportowe. W drzewie kategorii najbardziej precyzyjną lokalizacją jest ścieżka: Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "25336",
+        "Nazwa_Produktu": "Pompa elektryczna DC 12 V - kompresor MASTER do Paddleboard SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Elektronarzędzia > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest pompką elektryczną zasilaną z gniazda samochodowego, zaprojektowaną specjalnie do pompowania desek SUP (Stand Up Paddleboard). W drzewie kategorii OLX znajduje się dedykowana sekcja dla SUP w ramach sportów wodnych, a pompa stanowi kluczowe akcesorium dla tego sprzętu."
+    },
+    {
+        "ID_Produktu": "25337",
+        "Nazwa_Produktu": "Pływak Neoprenowy na Wiosło MASTER Floater Paddle Grip 36 cm - czerwony",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Akcesoria i części > Do kajaków, pontonów i rowerów wodnych",
+        "Finalne_ID_AI": 5022,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest neoprenowym pływakiem przeznaczonym do wiosła, co stanowi bezpośrednie akcesorium do kajakarstwa lub innych sportów wodnych wykorzystujących wiosła. Kategoria 'Do kajaków, pontonów i rowerów wodnych' jest najbardziej precyzyjnym dopasowaniem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "25338",
+        "Nazwa_Produktu": "Pływak Neoprenowy na Wiosło MASTER Floater Paddle Grip 36 cm - pomarańczowy",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Akcesoria i części > Do kajaków, pontonów i rowerów wodnych",
+        "Finalne_ID_AI": 5022,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium do wiosła (pływak neoprenowy), stosowanym w kajakarstwie, na pontonach lub deskach SUP. Zgodnie z drzewem kategorii, najbardziej odpowiednim miejscem dla akcesoriów do sprzętu wiosłowego i małych jednostek pływających jest ścieżka Sport i Hobby > Sporty wodne > Akcesoria i części > Do kajaków, pontonów i rowerów wodnych."
+    },
+    {
+        "ID_Produktu": "25351",
+        "Nazwa_Produktu": "Siedzisko z oparciem kajakowe / fotel MASTER do desek SUP Paddleboardów",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Fotele",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest wybitnie specjalistycznym akcesorium do desek SUP (Stand Up Paddleboard), służącym do przekształcenia ich w formę przypominającą kajak. Kategoria Sport i Hobby > Sporty wodne > SUP > Akcesoria jest najbardziej precyzyjna dla tego typu osprzętu."
+    },
+    {
+        "ID_Produktu": "25456",
+        "Nazwa_Produktu": "Składana bramka do piłki nożnej SCHILDKROT - 90 x 60 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bramka do gry w piłkę nożną, która stanowi element wyposażenia treningowego. Najbardziej specyficzną kategorią końcową (liściem) dla tego typu sprzętu jest 'Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria'."
+    },
+    {
+        "ID_Produktu": "25462",
+        "Nazwa_Produktu": "Rakieta tenisowa SPARTAN Alu - 68cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalne_ID_AI": 5028,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta przeznaczona do tenisa ziemnego (field tennis), co jest bezpośrednio wskazane w tytule oraz opisie. Kategoria 'Tenis ziemny' (ID: 5028) jest najbardziej szczegółowym liściem w drzewie kategorii dla tego typu sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "25464",
+        "Nazwa_Produktu": "Ochraniacze do siatkówki SPARTAN 139 - senior",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ochraniacze (nakolanniki) dedykowane do siatkówki. Najbardziej precyzyjną kategorią końcową (liściem) jest Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria."
     }
 ]
