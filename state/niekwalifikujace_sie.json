@@ -9558,5 +9558,105 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to listwa do bonowania, przeznaczona do profesjonalnych kuchni, barów, kawiarni i restauracji, co jednoznacznie wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ nie jest to żaden z konkretnych typów urządzeń gastronomicznych, 'Pozostałe' jest najbardziej szczegółową i adekwatną podkategorią."
+    },
+    {
+        "ID_Produktu": "1015890",
+        "Nazwa_Produktu": "Otwieracz do butelek kapsli naścienny - Hendi 596883",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Akcesoria do alkoholi > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nowy otwieracz do butelek marki Hendi, przeznaczony do użytku w barach i pubach (gastronomia). Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej szczegółowa i trafna dla tego typu profesjonalnego sprzętu gastronomicznego, który nie pasuje do innych, bardziej specyficznych kategorii w ramach 'Gastronomii'. Sugestia 'Antyki i Kolekcje' jest nieodpowiednia, gdyż produkt jest nowy i przeznaczony do użytku, nie do kolekcjonowania."
+    },
+    {
+        "ID_Produktu": "1015891",
+        "Nazwa_Produktu": "Pęseta szczypce do usuwania ości profilowane  100 mm - Hendi 680148",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest pęsetą przeznaczoną do profesjonalnej gastronomii, co jest kluczowe w opisie. Kategoria 'Firma i Przemysł > Gastronomia' jest najlepiej dopasowana, a ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu narzędzi w gastronomii, 'Pozostałe' jest najbardziej odpowiednim liściem."
+    },
+    {
+        "ID_Produktu": "1015892",
+        "Nazwa_Produktu": "Pęseta punktowa gastronomiczna 155 mm - Hendi 680155",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pęseta gastronomiczna, przeznaczona do profesjonalnej gastronomii. Najbardziej pasującą kategorią główną jest 'Firma i Przemysł', a następnie 'Gastronomia'. Ponieważ w kategorii 'Gastronomia' nie ma bardziej szczegółowej podkategorii dla małych narzędzi, takich jak pęsety, wybrana została kategoria 'Pozostałe' w obrębie 'Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1015895",
+        "Nazwa_Produktu": "Pęseta kuchenna z cylindrycznymi końcówkami 170 mm - Hendi 680179",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pęseta kuchenna przeznaczona do użytku w profesjonalnej gastronomii, co jest wyraźnie zaznaczone w opisie. Najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia', a ponieważ jest to małe narzędzie, które nie ma bardziej szczegółowej podkategorii, 'Pozostałe' w tej gałęzi jest najbardziej trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "1015896",
+        "Nazwa_Produktu": "Pęseta kuchenna z kwadratowymi końcówkami i otworami 145 mm - Hendi 680162",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wykończenie wnętrz > Kuchnia > Baterie kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pęseta kuchenna, która zgodnie z opisem jest przeznaczona do użytku w profesjonalnej gastronomii. Najlepszą kategorią jest 'Firma i Przemysł > Gastronomia', a ponieważ brak jest bardziej szczegółowej podkategorii dla tego typu narzędzia, wybrano 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "1015897",
+        "Nazwa_Produktu": "Pęseta kuchenna z okrągłymi końcówkami powlekana 305 mm - czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pęseta kuchenna przeznaczona do profesjonalnej gastronomii i baru, co wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ brak jest bardziej szczegółowej podkategorii dla tego typu narzędzia w tej gałęzi, 'Pozostałe' jest najbardziej odpowiednią kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1015899",
+        "Nazwa_Produktu": "Pęseta kuchenna zakrzywiona profilowana 240 mm - Hendi 680186",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pęseta kuchenna przeznaczona do użytku w profesjonalnej gastronomii i barze, co wyraźnie wskazuje na kategorię 'Firma i Przemysł'. W ramach tej kategorii 'Gastronomia' jest najbardziej adekwatnym podkatalogiem. Ponieważ pęseta nie pasuje do bardziej szczegółowych maszyn czy urządzeń gastronomicznych, 'Pozostałe' jest najwłaściwszą kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1015901",
+        "Nazwa_Produktu": "Dyspenser dozownik do sosów majonezu z pompką 2.5 l biały - Hendi 203545",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dozownik do sosów, przeznaczony do użytku profesjonalnego w barach, bufetach, restauracjach i cateringu, co idealnie pasuje do kategorii \"Firma i Przemysł > Gastronomia\". Wśród podkategorii \"Gastronomii\", \"Pojemniki gastronomiczne\" (ID 5076) jest najbardziej szczegółową i trafioną opcją dla dozownika/dyspensera sosów, który jest rodzajem pojemnika używanego w gastronomii. Wskazówka od systemu sugeruje kategorię \"Dom i Ogród\", która jest mniej adekwatna do profesjonalnego przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "1015902",
+        "Nazwa_Produktu": "Dyspenser dozownik do sosów keczupu z pompką 2.5 l czerwony - Hendi 203521",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest dyspenserem do sosów, przeznaczonym do użytku w profesjonalnej gastronomii (barach, bufetach, restauracjach, cateringu). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' idealnie odzwierciedla zarówno rodzaj produktu (pojemnik/dyspenser), jak i jego przeznaczenie komercyjne."
+    },
+    {
+        "ID_Produktu": "1015903",
+        "Nazwa_Produktu": "Dyspenser dozownik do sosów musztardy z pompką 2.5 l żółty - Hendi 203538",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dozownik do sosów przeznaczony do użytku profesjonalnego w gastronomii (bary, bufety, restauracje, catering). Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, odzwierciedlając zarówno funkcję pojemnika, jak i jego komercyjne przeznaczenie."
     }
 ]
