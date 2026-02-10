@@ -10962,5 +10962,72 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1016885",
+        "Nazwa_Produktu": "Baza naścienna do pilota RF 433 MHz biały RM433-BASE",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt audio > Akcesoria > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest bazą naścienną do pilota, przekształcającą go w sterownik naścienny do inteligentnego domu. Najlepiej pasuje do kategorii związanej z instalacjami elektrycznymi i osprzętem w ramach domu, a nie do ogólnej elektroniki czy akcesoriów audio. Kategoria 'Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny' jest najbardziej precyzyjna.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Baza naścienna do pilota rf 433 mhz biały rm433-base",
+                "description": "Kod produktu: 1016885 Sonoff RM433-BASE to baza dla pilota bezprzewodowego Sonoff RM433 , którą można zamontować na ścianie. Ma dwie opcje montażu, tradycyjną na śruby oraz szybką na taśmę klejącą 3M. Dzięki niemu przekształcisz pilota Sonoff RM433 w sterownik naścienny do sterowania inteligentnym domem. Specyfikacja Materiał: PC V0 Wymiary miejsca na pilot: 86 mm x 45 mm x 12,5 mm Wymiary bazy magnetycznej: 86 mm x 86 mm x 15,8 mm Oferta dotyczy tylko bazy naściennej do pilota RM433 Zawartość zestawu 1 x baza naścienna 2 x taśma montażowa 2 x śruba montażowa BRAK PILOTA - trzeba dokupić osobno\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: SONOFF TECHNOLOGY Deutschland GmbH\nAdres: Breite Str. 22, 40213, Dsseldorf, Niemcy\nEmail: eurep(at)itead.cc\nTelefon: nan\n----------------------------------------",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 20.61,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016885-1-baza-nascienna-do-pilota-rf-433-mhz-bial-sonoff-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016885-2-baza-nascienna-do-pilota-rf-433-mhz-bial-sonoff-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016885-3-baza-nascienna-do-pilota-rf-433-mhz-bial-sonoff-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016885-4-baza-nascienna-do-pilota-rf-433-mhz-bial-sonoff-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016885-5-baza-nascienna-do-pilota-rf-433-mhz-bial-sonoff-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016885-6-baza-nascienna-do-pilota-rf-433-mhz-bial-sonoff-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
