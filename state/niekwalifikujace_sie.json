@@ -2568,5 +2568,215 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to wiosło przeznaczone do desek SUP (Stand Up Paddleboard). W drzewie kategorii istnieje dedykowana ścieżka dla tego sportu: Sport i Hobby > Sporty wodne > SUP. Kategoria 'Akcesoria' wewnątrz sekcji SUP jest najbardziej szczegółowym i trafnym wyborem dla tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "21347",
+        "Nazwa_Produktu": "Uniwersalna płetwa FIN statecznik MASTER do desek SUP Paddleboard",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to płetwa (statecznik) przeznaczony konkretnie do desek SUP (Paddleboard), co idealnie pasuje do najbardziej szczegółowej kategorii: Sport i Hobby > Sporty wodne > SUP > Akcesoria."
+    },
+    {
+        "ID_Produktu": "21348",
+        "Nazwa_Produktu": "Pompa Pompka elektryczna - kompresor MASTER do Paddleboard SUP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Pompki rowerowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczna pompa elektryczna przeznaczona głównie do desek SUP (Stand Up Paddleboard), dlatego kategoria Akcesoria wewnątrz sekcji SUP (Sporty wodne) jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "21349",
+        "Nazwa_Produktu": "Drabinka wspinaczkowa dla dzieci Poczwórna Piramida MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Drabinka wspinaczkowa Master Piramida to typowy element wyposażenia placu zabaw. Najbardziej precyzyjną kategorią dla tego typu produktów, zgodnie z strukturą OLX, jest kategoria 'Huśtawki i place zabaw' znajdująca się w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "21350",
+        "Nazwa_Produktu": "Deskorolka MASTER 22 z świecącymi kółkami - Czerwona",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to deskorolka typu penny board przeznaczona do rekreacji, która bezpośrednio odpowiada kategorii 'Deskorolki' znajdującej się w sekcji 'Skating' w dziale 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "21356",
+        "Nazwa_Produktu": "Szachy szwedzkie MASTER Kubb - Król 30 cm",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Poradniki i albumy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Szachy szwedzkie (Kubb) to zręcznościowa gra plenerowa przeznaczona do użytku towarzyskiego i rekreacyjnego w ogrodzie. W drzewie kategorii najlepiej pasuje do sekcji 'Sporty towarzyskie', a konkretnie do podkategorii 'Pozostałe sporty towarzyskie', ponieważ nie posiada dedykowanej kategorii dla gier ogrodowych."
+    },
+    {
+        "ID_Produktu": "21364",
+        "Nazwa_Produktu": "Deskorolka MASTER Extreme Board - Emotikon",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczna deskorolka przeznaczona do rekreacji i sportu, co idealnie pasuje do kategorii liścia 'Deskorolki' znajdującej się w sekcji 'Skating'."
+    },
+    {
+        "ID_Produktu": "21368",
+        "Nazwa_Produktu": "Deskorolka Klasyczna MASTER Experience Board - Drewno Biała",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczna deskorolka przeznaczona do użytku sportowego, co bezpośrednio odpowiada najbardziej szczegółowej kategorii 'Deskorolki' (ID: 1675) znajdującej się w ścieżce Sport i Hobby > Skating."
+    },
+    {
+        "ID_Produktu": "21378",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Legends 300 FSC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, która wprost odpowiada najbardziej szczegółowej (liściastej) kategorii 'Tenis stołowy' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21379",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Legends 400 FSC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co jednoznacznie wskazuje na kategorię liścia 'Tenis stołowy' (ID: 5027) w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "21380",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Legends 500 FSC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest rakietką przeznaczoną do gry w tenisa stołowego, co wprost odpowiada kategorii liścia 'Tenis stołowy' (ID: 5027) znajdującej się w gałęzi Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "21387",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Top Team 500",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co jednoznacznie wskazuje na kategorię 'Tenis stołowy'. Jest to najbardziej szczegółowy poziom (liść) w ścieżce Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "21389",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Top Team 800",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka przeznaczona do gry w tenisa stołowego, co jednoznacznie wskazuje na kategorię liścia 'Tenis stołowy' w sekcji 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "21410",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego DONIC Fetzner 400 set FSC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rakietek i piłeczek do tenisa stołowego, który posiada dedykowaną kategorię w drzewie pod ścieżką Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy."
+    },
+    {
+        "ID_Produktu": "21417",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Legends 600 FSC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, która idealnie pasuje do liścia kategorii 'Tenis stołowy' (ID: 5027) znajdującego się w ścieżce Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "21419",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Legends 700 FSC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co w drzewie kategorii OLX odpowiada bezpośrednio liściowi 'Tenis stołowy' (ID 5027) w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "21420",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Legends 700 FSC - zestaw upominkowy",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego wraz z piłeczkami i pokrowcem. Kategoria 'Tenis stołowy' (ID: 5027) jest najbardziej precyzyjnym liściem w drzewie, pasującym idealnie do specyfikacji przedmiotu."
+    },
+    {
+        "ID_Produktu": "21440",
+        "Nazwa_Produktu": "Zestaw rodzinny do tenisa stołowego JOOLA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do gry w tenisa stołowego (rakietki i piłeczki), co jednoznacznie wskazuje na kategorię 'Tenis stołowy' w drzewie Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "21448",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego JOOLA Team Junior",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka przeznaczona do gry w tenisa stołowego, co jednoznacznie wskazuje na kategorię liściową 'Tenis stołowy' w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "21453",
+        "Nazwa_Produktu": "Piłka do tenisa stołowego SCHILDKROT Jade Poly 40+ 12szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw piłeczek do tenisa stołowego. W strukturze kategorii znajduje się precyzyjna kategoria-liść 'Tenis stołowy' (ID: 5027) wewnątrz sekcji 'Tenis i pokrewne'."
+    },
+    {
+        "ID_Produktu": "21459",
+        "Nazwa_Produktu": "Zestaw rzutek do tarcz elektronicznych 18g MASTER Black Plated Brass 12szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Hamulce i przerzutki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rzutki (darty) przeznaczone do gry w darta na tarczach elektronicznych. W drzewie kategorii OLX znajduje się dedykowana kategoria dla tej dyscypliny: Sport i Hobby > Sporty towarzyskie > Dart."
+    },
+    {
+        "ID_Produktu": "21463",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego SCHILDKROT Hobby",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do tenisa stołowego (paletki i piłeczki), a w drzewie kategorii znajduje się dedykowana kategoria liść dla tego sportu: Tenis stołowy (id: 5027)."
     }
 ]
