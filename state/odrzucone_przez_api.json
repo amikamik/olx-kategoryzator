@@ -10615,5 +10615,72 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1013843",
+        "Nazwa_Produktu": "Kartusz wkład nabój gazowy PB zawór gwint 7/16 - 330g",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Instalacje > Hydraulika > Zawory",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Kartusze",
+        "Finalne_ID_AI": 3991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Kartusz wkład nabój gazowy'. Kategoria 'Kartusze' (3991) jest bezpośrednim dopasowaniem, a jej ścieżka 'Sport i Hobby > Turystyka > Kuchnie i meble turystyczne' idealnie odzwierciedla zastosowanie produktu do zasilania kuchenek, lamp turystycznych i palników.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kartusz wkład nabój gazowy pb zawór gwint 7/16 - 330g",
+                "description": "Kod producenta: UKP02009 Wysokiej jakości kartusz gazowy czeskiego lidera w produkcji urządzeń i akcesorów gazowych firmy MEVA istniejącej od 1898r. Nabój gazowy może zasilać wszystkie rodzaje urządzeń turystycznych oraz użytkowych takich jak: - kuchenki gazowe - lampki oświetleniowe - palniki gazowe i lutownice - promienniki ciepła i grzejniki turystyczne Zasobnik gazu - kartusz firmy MEVA jako jeden z niewielu na rynku wypala się do końca! Specyfikacja Waga całkowita - 470 g Waga gazu - 330 g Średnica - 70 mm Wysokość - 255 mm Gaz - propan-butan Rodzaj zaworu - gwint 7/16'' Zgodny z normami - EN417 / EN 521\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 3991,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 36.36,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/UKP02009-kartusz-wklad-naboj gazowy-pb-zawor-gwint-7-16-hurtownia-sklep-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/UKP02009-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/UKP02009-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/UKP02009-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

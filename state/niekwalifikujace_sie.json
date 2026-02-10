@@ -9068,5 +9068,285 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to szczotka do czyszczenia grilla. Biorąc pod uwagę markę Hendi, która jest znana z profesjonalnego sprzętu gastronomicznego, kategoria `Firma i Przemysł > Gastronomia > Pozostałe` jest najbardziej precyzyjna, mimo że produkt może być używany również w domu."
+    },
+    {
+        "ID_Produktu": "1013857",
+        "Nazwa_Produktu": "Palnik gazowy na kartusze PB z zaworem 7/16'' WORKER 1,8kW",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Części do kotłów i pieców",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to palnik gazowy, którego główna część opisu skupia się na zastosowaniach rzemieślniczych (lutowanie, podgrzewanie, wypalanie farby, prace izolacyjne). Nazwa 'WORKER' oraz 'firma i przemysł' wskazują na jego przeznaczenie jako narzędzia do pracy. 'Narzędzia warsztatowe' to najgłębsza i najbardziej precyzyjna kategoria dla tego typu zastosowań, lepiej pasująca niż ogólne 'Narzędzia ręczne' lub specyficzne zastosowania kuchenne."
+    },
+    {
+        "ID_Produktu": "1013439",
+        "Nazwa_Produktu": "Uchwyt ścienny na 1 butlę gazową maks. śr. butli 250 mm PRO-LINE",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt ścienny na butlę gazową, służący do bezpiecznego przechowywania w pozycji pionowej. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki' jest najbardziej szczegółowa i najlepiej oddaje funkcję przedmiotu jako elementu do organizacji i przechowywania w kontekście profesjonalnym (marka PRO-LINE). Uchwyt ścienny jest formą wieszaka/stojaka."
+    },
+    {
+        "ID_Produktu": "1013440",
+        "Nazwa_Produktu": "Uchwyt ścienny na 2 butle gazowe maks. śr. butli 250 mm PRO-LINE",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt ścienny przeznaczony do bezpiecznego składowania butli gazowych. Terminologia 'PRO-LINE' sugeruje zastosowanie profesjonalne/przemysłowe. Najbardziej odpowiednią i szczegółową kategorią jest 'Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki', ponieważ uchwyt pełni funkcję elementu do przechowywania (stojaka/wieszaka) w kontekście magazynowym lub sklepowym, co jest zgodne z przeznaczeniem produktu."
+    },
+    {
+        "ID_Produktu": "1013441",
+        "Nazwa_Produktu": "Uchwyt ścienny na 3 butle gazowe maks. śr. butli 250 mm PRO-LINE",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Pozostałe",
+        "Finalne_ID_AI": 5176,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt ścienny na butle gazowe, przeznaczony do bezpiecznego składowania w pozycji pionowej. Tego typu wyposażenie jest kluczowe w warsztatach i w przemyśle, co najlepiej pasuje do kategorii 'Firma i Przemysł > Wyposażenie warsztatów'. Ponieważ nie ma bardziej szczegółowej podkategorii, 'Pozostałe' w tej sekcji jest najbardziej odpowiednim wyborem. Kategoria 'Dom i Ogród > Narzędzia > Osprzęt do narzędzi' jest zbyt ogólna i zazwyczaj odnosi się do akcesoriów bezpośrednio związanych z funkcją narzędzi, a nie do systemów przechowywania w środowisku profesjonalnym."
+    },
+    {
+        "ID_Produktu": "1014006",
+        "Nazwa_Produktu": "Podnóżek kosmetyczny do pedicure regulowana wysokość do 67 cm do 80 kg - czarny",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Fotele i łóżka kosmetyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Pozostałe",
+        "Finalne_ID_AI": 5110,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podnóżek kosmetyczny do pedicure. Pasuje do kategorii 'Firma i Przemysł' jako wyposażenie salonów. Jest to mebel kosmetyczny, a ponieważ nie ma bardziej specyficznej podkategorii dla 'podnóżków' (ani nie jest fotelem, łóżkiem, biurkiem, stolikiem czy taboretem), najodpowiedniejszą kategorią liścia jest 'Pozostałe' w ramach 'Meble kosmetyczne'."
+    },
+    {
+        "ID_Produktu": "1014007",
+        "Nazwa_Produktu": "Podnóżek kosmetyczny do pedicure regulowana wysokość do 67 cm do 80 kg - biały",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Fotele i łóżka kosmetyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Fotele i łóżka kosmetyczne",
+        "Finalne_ID_AI": 5105,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podnóżek do pedicure, przeznaczony do użytku w salonach kosmetycznych. Najlepiej pasuje do kategorii \"Fotele i łóżka kosmetyczne\", która jest najbardziej szczegółową kategorią-liściem obejmującą meble i akcesoria do zabiegów kosmetycznych w kontekście wyposażenia salonów."
+    },
+    {
+        "ID_Produktu": "1014026",
+        "Nazwa_Produktu": "Czujnik miernik wilgotności gleby do systemu nawadniania wyłącznik",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Akcesoria i osprzęt > Czujniki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to czujnik wilgotności gleby przeznaczony do automatycznych systemów nawadniania. Kategoria 'Nawadnianie' (Dom i Ogród > Ogród > Nawadnianie) jest najbardziej szczegółowa i trafna dla tego typu urządzenia, bezpośrednio odpowiadając jego funkcji i przeznaczeniu."
+    },
+    {
+        "ID_Produktu": "1014407",
+        "Nazwa_Produktu": "Próg podrzutowy zwalniający gumowy skrajny szer. 180x395x60mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Kostki budowlane > Pozostałe",
+        "Finalne_ID_AI": 3165,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gumowy próg zwalniający, będący elementem infrastruktury drogowej. Najbardziej pasującą i szczegółową kategorią jest 'Dom i Ogród > Budowa > Kostki budowlane > Pozostałe', ponieważ progi zwalniające, podobnie jak kostki brukowe, krawężniki czy płyty chodnikowe, są elementami do budowy nawierzchni i ich otoczenia. Kategoria 'Pozostałe' w tym drzewie jest odpowiednia dla specjalistycznych 'kostek' budowlanych."
+    },
+    {
+        "ID_Produktu": "1014406",
+        "Nazwa_Produktu": "Próg podrzutowy zwalniający gumowy środkowy szer. 480x395x60mm",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Części do maszyn rolniczych",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Kostki budowlane > Pozostałe",
+        "Finalne_ID_AI": 3165,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to próg zwalniający, który jest elementem infrastruktury drogowej służącym do spowalniania ruchu samochodowego. Pasuje on do ogólnej kategorii 'Dom i Ogród > Budowa', a w jej ramach najlepiej do podkategorii 'Kostki budowlane', która obejmuje różne elementy do budowy nawierzchni i granic (takie jak kostka brukowa, krawężniki, płyty chodnikowe). Ponieważ nie ma dedykowanej podkategorii dla progów zwalniających, 'Pozostałe' w ramach 'Kostki budowlane' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1014405",
+        "Nazwa_Produktu": "Ośka oś do kół kubła kontenera na odpady 240L dł. 552mm",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to ośka (część) do kół kubła/kontenera na odpady o pojemności 240L. Taka pojemność oraz marka PRO-LINE sugerują zastosowanie przemysłowe lub firmowe. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej szczegółowa i najlepiej pasuje, ponieważ ośka jest częścią wyposażenia."
+    },
+    {
+        "ID_Produktu": "1014404",
+        "Nazwa_Produktu": "Ośka oś do kół kubła kontenera na odpady 120L dł. 460mm",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'ośka' (oś) do kół 'kubła kontenera na odpady'. Jest to część zamienna do wyposażenia. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najlepiej pasującą, szczegółową kategorią dla części do ogólnych urządzeń, do których można zaliczyć kontenery na odpady, często wykorzystywane również w sektorze biznesowym i przemysłowym."
+    },
+    {
+        "ID_Produktu": "1014403",
+        "Nazwa_Produktu": "Koło kółko do kubła kontenera na odpady gumowe śr. 300mm",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koło do kontenera na odpady. Kontenery na odpady są elementem wyposażenia związanego z utrzymaniem czystości w kontekście biznesowym/przemysłowym. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' jest najbardziej adekwatna i szczegółowa, traktując koło jako część składową sprzętu do czyszczenia/gospodarki odpadami."
+    },
+    {
+        "ID_Produktu": "1014402",
+        "Nazwa_Produktu": "Koło kółko do kubła kontenera na odpady gumowe śr. 250mm",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koło do kontenera na odpady marki PRO-LINE, co sugeruje zastosowanie przemysłowe lub komercyjne. Koło jest częścią urządzenia, co idealnie pasuje do kategorii 'Firma i Przemysł > Części do maszyn i urządzeń'."
+    },
+    {
+        "ID_Produktu": "1014401",
+        "Nazwa_Produktu": "Koło kółko do kubła kontenera na odpady gumowe przelotowe śr. 200mm",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koło do kubła/kontenera na odpady, wykonane z materiałów z recyklingu, charakteryzujące się wytrzymałością. Najlepiej pasuje do kategorii 'Firma i Przemysł', jako część do maszyn i urządzeń, biorąc pod uwagę charakter produktu (solidne koło do kontenera na odpady, często używane w kontekście przemysłowym/profesjonalnym)."
+    },
+    {
+        "ID_Produktu": "1014400",
+        "Nazwa_Produktu": "Koło kółko do kubła kontenera na odpady gumowe śr. 200mm",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'koło do kubła kontenera na odpady'. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej specyficzna, ponieważ koło jest częścią, a kontener na odpady (szczególnie o średnicy 200mm koła) może być traktowany jako urządzenie/wyposażenie używane w sektorze firmy i przemysłu (np. magazyny, hale). Sugerowana kategoria przez system OLX ('Motoryzacja') jest nieodpowiednia, gdyż produkt nie jest przeznaczony do pojazdów."
+    },
+    {
+        "ID_Produktu": "1014493",
+        "Nazwa_Produktu": "Sztuczna trawa na taras balkon miękka 30 mm 20/10 cm 100 x 100 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Sztuczne kwiaty i owoce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Podłoża ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 4535,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sztuczna trawa, która służy jako pokrycie terenu (podłoże) na tarasach, balkonach czy w ogrodach. Kategoria 'Podłoża ogrodowe' jest najbardziej odpowiednia, ponieważ produkt pełni funkcję nawierzchni. Ponieważ nie ma bardziej szczegółowej kategorii dla 'sztucznej trawy' w tym drzewie, 'Pozostałe' w ramach 'Podłoża ogrodowe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1014512",
+        "Nazwa_Produktu": "Wąż linia kroplująca do nawadniania podlewania roślin ZESTAW 50 m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to linia kroplująca przeznaczona do nawadniania i podlewania roślin, co idealnie pasuje do kategorii 'Nawadnianie' pod 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "1014513",
+        "Nazwa_Produktu": "Wąż linia kroplująca do nawadniania podlewania roślin ZESTAW 30 m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do nawadniania kropelkowego, który idealnie pasuje do kategorii 'Nawadnianie' w dziale 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "1014581",
+        "Nazwa_Produktu": "Lampa oprawa LED wodoodporna hermetyczna do magazynu kurnika IP65 4400 lm 120 cm 40 W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oprawy oświetleniowe",
+        "Finalne_ID_AI": 3850,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to oprawa oświetleniowa LED, wodoodporna i hermetyczna, przeznaczona do magazynów, kurników, warsztatów itp. Kategoria 'Oprawy oświetleniowe' jest najbardziej szczegółową i adekwatną kategorią dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "1014582",
+        "Nazwa_Produktu": "Lampa oprawa LED wodoodporna hermetyczna do magazynu hali IP65 3300 lm 60 cm 30 W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalne_ID_AI": 3848,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wodoodporna oprawa LED o wysokiej mocy świetlnej (3300 lm) i szerokim kącie rozsyłu (120 stopni), przeznaczona do oświetlania dużych przestrzeni, takich jak magazyny, hale, fabryki czy warsztaty. Te cechy oraz zastosowania idealnie pasują do kategorii 'Halogeny i naświetlacze', która obejmuje mocne, często przemysłowe źródła światła."
+    },
+    {
+        "ID_Produktu": "1014583",
+        "Nazwa_Produktu": "Lampa oprawa LED wodoodporna hermetyczna do magazynu warsztatu IP65 2200 lm 60 cm 20 W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oprawy oświetleniowe",
+        "Finalne_ID_AI": 3850,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na \"oprawę LED\", która doskonale pasuje do kategorii \"Dom i Ogród > Oświetlenie > Oprawy oświetleniowe\". Jest to najbardziej szczegółowa i precyzyjna kategoria dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "1014824",
+        "Nazwa_Produktu": "Palisada obrzeże do trawnika imitacja kamienia STONE 2.5m - szara",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Architektura ogrodowa > Altany i wiaty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa > Pozostałe",
+        "Finalne_ID_AI": 3055,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to palisada/obrzeże trawnika, które służy do oddzielania przestrzeni w ogrodzie i tworzenia klombów. Jest to element kształtujący przestrzeń ogrodu, pasujący do kategorii 'Architektura ogrodowa'. Ponieważ nie jest to żaden ze ściśle wymienionych typów architektury ogrodowej (jak altany, domki czy szklarnie), najwłaściwszą i najbardziej szczegółową kategorią-liściem jest 'Pozostałe' w ramach 'Architektura ogrodowa'."
+    },
+    {
+        "ID_Produktu": "1014825",
+        "Nazwa_Produktu": "Palisada obrzeże do trawnika imitacja kamienia STONE 2.5m - zielona",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Opał > Drewno",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to obrzeże do trawnika imitujące kamień, służące do oddzielania trawników od rabat, tworzenia klombów itp. Najlepiej pasuje do kategorii 'Dekoracje ogrodowe' w ramach 'Dom i Ogród > Ogród', ponieważ jest to element ozdobny i funkcyjny do aranżacji ogrodu. Kategoria 'Siatki i panele ogrodzeniowe' jest zbyt ogólna i dotyczy innych typów ogrodzeń."
+    },
+    {
+        "ID_Produktu": "1015083",
+        "Nazwa_Produktu": "Klipsy aluminiowe do klipsownicy ręcznej Royal Catering 13 x 11,5 - 4000 szt.",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Kolczyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do mięsa",
+        "Finalne_ID_AI": 5048,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to klipsy aluminiowe do klipsownicy ręcznej marki Royal Catering, która jest powszechnie używana w gastronomii, w szczególności do zamykania osłonek, siatek czy torebek, co często ma zastosowanie w przetwórstwie mięsnym. Kategoria 'Maszyny do mięsa' w dziale 'Firma i Przemysł > Gastronomia' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1015084",
+        "Nazwa_Produktu": "Klipsy aluminiowe do klipsownicy ręcznej Royal Catering 11 x 11,5 - 4000 szt.",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Kolczyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to aluminiowe klipsy do klipsownicy, z marką 'Royal Catering' oraz zastosowaniem do zaciskania osłonek, siatek czy torebek, co wyraźnie wskazuje na branżę gastronomiczną. Najbardziej szczegółową kategorią-liściem jest 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ klipsy są akcesorium do maszyn gastronomicznych, które nie mają bardziej specyficznej podkategorii."
+    },
+    {
+        "ID_Produktu": "1015131",
+        "Nazwa_Produktu": "Zakończenie pasek boczny do maty antyzmęczeniowej 10030772 975 x 54 mm",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Części do maszyn rolniczych",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zakończenie/pasek boczny do maty antyzmęczeniowej. Maty antyzmęczeniowe są często używane w środowiskach przemysłowych, warsztatach lub biurach, gdzie praca wymaga długotrwałego stania. Marka Steinberg Systems również wskazuje na zastosowanie profesjonalne/przemysłowe. Zatem najbardziej pasującą kategorią jest 'Firma i Przemysł'. Ponieważ jest to element (część) do maty, najgłębszą i najbardziej szczegółową kategorią jest 'Części do maszyn i urządzeń' w ramach 'Firma i Przemysł'. Wskazówka systemowa jest błędna, ponieważ produkt nie ma związku z rolnictwem."
+    },
+    {
+        "ID_Produktu": "1015132",
+        "Nazwa_Produktu": "Zakończenie pasek boczny do maty antyzmęczeniowej 10030772 975 x 72 mm",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Części do maszyn rolniczych",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Pozostałe",
+        "Finalne_ID_AI": 5176,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zakończenie do maty antyzmęczeniowej, która jest elementem wyposażenia stosowanym w środowiskach pracy, takich jak warsztaty czy linie produkcyjne, aby zwiększyć komfort pracowników. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Pozostałe' jest najbardziej adekwatna, ponieważ mata i jej akcesoria to wyposażenie warsztatowe, ale nie pasują do żadnej z bardziej szczegółowych podkategorii maszyn czy narzędzi."
+    },
+    {
+        "ID_Produktu": "1015153",
+        "Nazwa_Produktu": "Zestaw bitów nasadek końcówek do wkrętarki - 34 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na \"Zestaw bitów nasadek końcówek do wkrętarki\", co idealnie pasuje do kategorii \"Zestawy narzędzi\" w drzewie \"Dom i Ogród > Narzędzia\"."
     }
 ]
