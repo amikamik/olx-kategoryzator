@@ -8708,5 +8708,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to przemysłowy dozownik na ręczniki papierowe, przeznaczony do stanowisk pracy. Najlepiej pasuje do kategorii 'Firma i Przemysł' jako wyposażenie sklepów i magazynów. W tej gałęzi, 'Stojaki i wieszaki' jest najbardziej szczegółową i adekwatną kategorią dla tego typu ściennego dyspensera/wieszaka."
+    },
+    {
+        "ID_Produktu": "1012978",
+        "Nazwa_Produktu": "Pokrywa zamknięcie do kontenera kosza okrągłego Amer Box śr. 50 cm - Hendi 691410",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywa do okrągłego pojemnika na odpadki kuchenne o pojemności 80 litrów. Marka Hendi jest znana z dostarczania wyposażenia dla gastronomii i przemysłu. Biorąc pod uwagę dużą pojemność i markę, kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1012980",
+        "Nazwa_Produktu": "Pokrywa zamknięcie z otworem do kontenera kosza okrągłego Amer Box śr. 50 cm - Hendi 691427",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrywa do dużego pojemnika na odpady kuchenne o pojemności 80 litrów, marki Hendi, która jest znana z wyposażenia gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje profesjonalne zastosowanie produktu."
+    },
+    {
+        "ID_Produktu": "1012981",
+        "Nazwa_Produktu": "Pokrywa zamknięcie uchylne do kontenera kosza okrągłego Amer Box śr. 50 cm - Hendi 691434",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywa do pojemnika na odpadki kuchenne, a marka Hendi jest dostawcą profesjonalnego sprzętu gastronomicznego. Kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia' jest najbardziej szczegółowa i najlepiej odpowiada przeznaczeniu produktu."
+    },
+    {
+        "ID_Produktu": "1012982",
+        "Nazwa_Produktu": "Wózek podstawa na kółkach do kontenera pojemnika na śmieci okrągłego śr. 50 cm - Hendi 691441",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wózek/podstawa na kółkach do kontenera na odpadki kuchenne, a marka Hendi jest znana z wyposażenia gastronomicznego. Kategoria 'Wózki gastronomiczne' jest najbardziej precyzyjna i szczegółowa."
+    },
+    {
+        "ID_Produktu": "1013110",
+        "Nazwa_Produktu": "Palnik gazowy dekarski budowlany do izolacji papy gaz LPG 35 kW + WĄŻ GAZOWY 5m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Pozostałe",
+        "Finalne_ID_AI": 4795,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wysokiej mocy palnik gazowy (35 kW) przeznaczony do profesjonalnych prac dekarskich, budowlanych, izolacyjnych i zgrzewania, co kwalifikuje go jako specjalistyczne urządzenie w branży budowlanej. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Budownictwo' najlepiej oddaje profesjonalny charakter i zastosowanie produktu, a 'Pozostałe' jest najbardziej szczegółowym liściem, ponieważ palnik nie pasuje do żadnej innej, bardziej specyficznej podkategorii maszyn budowlanych. Sugestia 'Narzędzia ręczne' jest zbyt ogólna i nieadekwatna do mocy i specjalizacji tego palnika."
+    },
+    {
+        "ID_Produktu": "1013111",
+        "Nazwa_Produktu": "Wąż do podłączenia butli gazowej złącza 2 x G3/8\"L - 2m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Węże",
+        "Finalne_ID_AI": 3221,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wąż do podłączenia butli gazowej. Najbardziej szczegółowa i pasująca kategoria to 'Węże', która znajduje się w drzewie 'Dom i Ogród > Instalacje > Hydraulika'. Chociaż gaz nie jest płynem hydraulicznym, w kontekście OLX 'Hydraulika' często obejmuje szeroki zakres elementów instalacyjnych, w tym węży do różnych mediów, w przypadku braku dedykowanej kategorii dla instalacji gazowych."
     }
 ]
