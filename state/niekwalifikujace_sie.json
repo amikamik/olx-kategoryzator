@@ -3978,5 +3978,165 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to rakieta przeznaczona do tenisa stołowego, co bezpośrednio odpowiada kategorii liścia o ID 5027 (Tenis stołowy) w drzewie kategorii OLX."
+    },
+    {
+        "ID_Produktu": "40914",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego JOOLA Spinball 12 szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego, co wprost odpowiada najbardziej szczegółowej kategorii przeznaczonej dla tej dyscypliny sportu (Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy)."
+    },
+    {
+        "ID_Produktu": "40915",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego JOOLA Outdoor ball 6 szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego, co bezpośrednio odpowiada kategorii liścia 'Tenis stołowy' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "40917",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego JOOLA Rossi *** 6 szt. - pomarańczowe",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego, które w drzewie kategorii OLX znajdują się w najbardziej szczegółowej kategorii (liściu) o ID 5027: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy."
+    },
+    {
+        "ID_Produktu": "40918",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego JOOLA Advanced Training *** 12 + 3 szt.",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego, co bezpośrednio odpowiada najbardziej szczegółowej kategorii (liściowi) 'Tenis stołowy' w ścieżce Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "40919",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego JOOLA Ballset Sports BL 12 szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki przeznaczone do tenisa stołowego, co bezpośrednio odpowiada najbardziej szczegółowej kategorii 'Tenis stołowy' w ścieżce Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "40920",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego JOOLA Flash *** 6 szt. - białe",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego, co bezpośrednio odpowiada najbardziej szczegółowej kategorii 'Tenis stołowy' (liść) wewnątrz sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "40921",
+        "Nazwa_Produktu": "Wymienna siatka do tenisa stołowego JOOLA Outdoor - Klick - Snapper",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest siatką do tenisa stołowego, co bezpośrednio przypisuje go do najbardziej szczegółowej kategorii 'Tenis stołowy' w drzewie Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "40924",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego JOOLA Quatro",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do tenisa stołowego (rakietki i piłeczki), co bezpośrednio odpowiada kategorii liściastej 'Tenis stołowy' (ID 5027) w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "40925",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego JOOLA Rossi",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do tenisa stołowego (rakietki i piłeczki), który idealnie pasuje do najbardziej szczegółowej kategorii 'Tenis stołowy' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "40926",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego JOOLA Team School",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rakietek i piłeczek przeznaczonych do gry w tenisa stołowego, co bezpośrednio odpowiada kategorii liściastej 'Tenis stołowy' w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "40927",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego JOOLA Vivid Outdoor",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rakietek i piłeczek do tenisa stołowego, co jednoznacznie wskazuje na kategorię liścia 'Tenis stołowy' w sekcji sportów towarzyskich i pokrewnych tenisowi."
+    },
+    {
+        "ID_Produktu": "40928",
+        "Nazwa_Produktu": "Pokrowiec na rakietkę do tenisa stołowego JOOLA czarno-czerwony",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec na rakietkę do tenisa stołowego, który jest akcesorium bezpośrednio przypisanym do dyscypliny sportowej 'Tenis stołowy'. Kategoria ID 5027 jest najbardziej szczegółową kategorią dla tego typu sprzętu."
+    },
+    {
+        "ID_Produktu": "40929",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego JOOLA Carbon Control",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, która precyzyjnie odpowiada kategorii liścia 'Tenis stołowy' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "40934",
+        "Nazwa_Produktu": "Gąbka do pielęgnacji/czyszczenia paletek do tenisa stołowego JOOLA chamois",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla psów > Pielęgnacja",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gąbka do czyszczenia rakietek do tenisa stołowego marki JOOLA. Najbardziej dopasowaną kategorią w drzewie jest 'Tenis stołowy', która znajduje się w sekcji 'Sporty towarzyskie' > 'Tenis i pokrewne'."
+    },
+    {
+        "ID_Produktu": "40935",
+        "Nazwa_Produktu": "Płyn do Pielęgnacji Okładziny Paletki JOOLA Turbo Cleaner 250 ml",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny środek do czyszczenia i pielęgnacji okładzin rakietek do tenisa stołowego. Najlepiej pasuje do kategorii dedykowanej temu konkretnemu sportowi (Tenis stołowy), ponieważ jest to akcesorium sprzętowe, a nie ogólny środek czystości."
+    },
+    {
+        "ID_Produktu": "40937",
+        "Nazwa_Produktu": "Pokrowiec na rakietkę do tenisa stołowego JOOLA Double - czarny",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to akcesorium (pokrowiec) przeznaczone konkretnie do rakietek do tenisa stołowego. Kategoria 'Tenis stołowy' (ID: 5027) jest najbardziej szczegółowym i precyzyjnym liściem w drzewie kategorii pasującym do tego przedmiotu."
     }
 ]
