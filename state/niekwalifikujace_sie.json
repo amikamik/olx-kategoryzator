@@ -3188,5 +3188,205 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to ochraniacze (nakolanniki) dedykowane do siatkówki. Najbardziej precyzyjną kategorią końcową (liściem) jest Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "25466",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego SCHILDKROT Spin Tropical",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest kompletnym zestawem akcesoriów do tenisa stołowego (rakietki, piłki, siatka), co bezpośrednio odpowiada najbardziej szczegółowej kategorii 'Tenis stołowy' w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "25467",
+        "Nazwa_Produktu": "Kij baseballowy LUCIO LONDERO 770 jasny-ciemny buk + piłka",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Baseball jest sportem drużynowym, a oferowany kij i piłka to sprzęt do uprawiania tej dyscypliny. Ponieważ w drzewie kategorii pod sekcją 'Sporty drużynowe' nie ma dedykowanej podkategorii dla baseballu, 'Pozostałe sporty drużynowe' są najbardziej precyzyjnym i najgłębszym możliwym wyborem."
+    },
+    {
+        "ID_Produktu": "25479",
+        "Nazwa_Produktu": "Plastikowa Deska Snowboard Dla Dzieci - Niebieska",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Snowboard",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty zimowe > Snowboard",
+        "Finalne_ID_AI": 1933,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest określony jako deska snowboardowa, co przypisuje go bezpośrednio do kategorii sprzętu do uprawiania snowboardu w sekcji sportów zimowych. Wybrana kategoria (ID: 1933) jest najbardziej specyficznym liściem w drzewie dla tego typu przedmiotu."
+    },
+    {
+        "ID_Produktu": "25481",
+        "Nazwa_Produktu": "Plastikowa Deska Snowboard Dla Dzieci - Różowa",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Snowboard",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty zimowe > Snowboard",
+        "Finalne_ID_AI": 1933,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plastikowa deska snowboardowa dla dzieci. W drzewie kategorii OLX znajduje się dedykowana kategoria liść 'Snowboard' (ID: 1933) wewnątrz sekcji 'Sporty zimowe', która najlepiej odpowiada przeznaczeniu tego sprzętu."
+    },
+    {
+        "ID_Produktu": "25486",
+        "Nazwa_Produktu": "Rurka do siatki zabezpieczającej 305 cm - część górna",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Części do maszyn rolniczych",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to część zamienna (słupek/rurka) do trampoliny ogrodowej. Na platformie OLX trampoliny oraz ich akcesoria i części są standardowo przypisywane do kategorii 'Huśtawki i place zabaw' w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "25488",
+        "Nazwa_Produktu": "Mata pod basen BESTWAY 58003 - 488 x 488 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Mata pod basen jest bezpośrednim akcesorium basenowym. W strukturze OLX akcesoria do basenów ogrodowych kategoryzowane są pod adresem: Dom i Ogród > Ogród > Baseny (ID: 1630)."
+    },
+    {
+        "ID_Produktu": "25493",
+        "Nazwa_Produktu": "Przykrycie do basenu - 240cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to akcesorium do basenu (przykrycie ochronne). W drzewie kategorii OLX, najbardziej szczegółową i adekwatną kategorią dla basenów oraz ich akcesoriów jest 'Dom i Ogród > Ogród > Baseny' (ID 1630)."
+    },
+    {
+        "ID_Produktu": "25499",
+        "Nazwa_Produktu": "Zestaw do pielęgnacji basenu 205 cm",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Twarz > Pielęgnacja > Zestawy kosmetyków",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów (skimmer, aluminiowy trzonek) służący do utrzymania czystości w basenie. Najbardziej precyzyjną kategorią dla tego typu produktów w sekcji Ogród jest 'Baseny'. Sugestia systemu dotycząca zestawów kosmetyków jest błędna, ponieważ wynika z powiązania słowa 'pielęgnacja' z kategorią uroda, ignorując kontekst 'basenu'."
+    },
+    {
+        "ID_Produktu": "25502",
+        "Nazwa_Produktu": "Wkłady do Jacuzzi z hydromasażem Avenli Spa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Architektura ogrodowa > Sauny i balie ogrodowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa > Sauny i balie ogrodowe",
+        "Finalne_ID_AI": 3051,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wkład filtrujący dedykowany do jacuzzi (spa ogrodowego). W drzewie kategorii OLX jacuzzi oraz balie z hydromasażem (Avenli Spa) są przypisane do kategorii 'Sauny i balie ogrodowe', która jest najbardziej specyficznym wyborem dla tego typu akcesoriów."
+    },
+    {
+        "ID_Produktu": "25516",
+        "Nazwa_Produktu": "Komplet łańcuchów do trójnogu 150 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Kasety, łańcuchy, wolnobiegi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw łańcuchów do trójnogu używanego przy grillowaniu i paleniskach ogrodowych, co bezpośrednio wpisuje się w kategorię Dom i Ogród > Ogród > Grill."
+    },
+    {
+        "ID_Produktu": "25536",
+        "Nazwa_Produktu": "Wkład filtrujący Fiber Ball 400g",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Filtry do wody",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wkład filtrujący typu Fiber Ball jest nowoczesną alternatywą dla piasku w filtrach basenowych. Ponieważ opis produktu wyraźnie wskazuje na zastosowanie w filtrach piaskowych (charakterystycznych dla basenów), kategoria 'Baseny' w sekcji Ogród jest najbardziej odpowiednim miejscem dla tego typu akcesoriów."
+    },
+    {
+        "ID_Produktu": "25541",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego DONIC Appelgren 400 set",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do tenisa stołowego (ping-ponga) zawierający rakietki i piłeczki, co idealnie pasuje do najbardziej szczegółowej kategorii 'Tenis stołowy' (ID: 5027) w drzewie kategorii OLX."
+    },
+    {
+        "ID_Produktu": "25542",
+        "Nazwa_Produktu": "Zestaw do badmintona SCHILDKROT Junior",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w badmintona (rakietki i lotki). W drzewie kategorii znajduje się dedykowana kategoria liść dla badmintona (ID 5029) w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "25543",
+        "Nazwa_Produktu": "Rakieta tenisowa SPARTAN Alu - 53cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalne_ID_AI": 5028,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta przeznaczona do gry w tenisa ziemnego, co odpowiada najbardziej szczegółowej kategorii liściowi 'Tenis ziemny' w drzewie kategorii Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "25544",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego JOOLA Duo Set",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów (rakietki i piłeczki) do gry w tenisa stołowego, co bezpośrednio odpowiada kategorii liściastej 'Tenis stołowy' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "25547",
+        "Nazwa_Produktu": "Rakieta tenisowa SPARTAN Alu - 64cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalne_ID_AI": 5028,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta tenisowa o długości 64 cm (rozmiar junior 25\"), co jednoznacznie wskazuje na kategorię Tenis ziemny w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "25550",
+        "Nazwa_Produktu": "Zestaw do badmintona TALBOT TORRO 2 Fighter",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do gry w badmintona (rakiety, lotki, pokrowiec), co jednoznacznie wskazuje na kategorię Badminton w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "25551",
+        "Nazwa_Produktu": "Zestaw do badmintona TALBOT TORRO Attacker Junior",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do gry w badmintona (rakietki i lotki). W drzewie kategorii OLX znajduje się dedykowana kategoria dla tego sportu pod ścieżką: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton."
+    },
+    {
+        "ID_Produktu": "25552",
+        "Nazwa_Produktu": "Zestaw do koszykówki SPARTAN 60 x 44 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do gry w koszykówkę (tablica, obręcz, siatka), który jest klasyfikowany jako sprzęt sportowy. Najbardziej szczegółową i pasującą kategorią w drzewie jest sekcja 'Akcesoria' pod kategorią 'Koszykówka' w dziale 'Sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "25559",
+        "Nazwa_Produktu": "Siatka do tenisa stołowego JOOLA Klick",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka przeznaczona bezpośrednio do tenisa stołowego, co zostało wyraźnie wskazane w tytule i opisie. Kategoria 'Tenis stołowy' (ID: 5027) jest najbardziej specyficznym liściem pasującym do tego sportu."
     }
 ]

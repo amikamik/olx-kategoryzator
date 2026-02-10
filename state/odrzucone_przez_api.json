@@ -539,5 +539,76 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "25482",
+        "Nazwa_Produktu": "Olej do Goleni Amortyzatorów Rowerowy 100ml",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Amortyzatory",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Rowery > Akcesoria rowerowe > Narzędzia i smary",
+        "Finalne_ID_AI": 4231,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to płyn eksploatacyjny przeznaczony do smarowania i konserwacji części rowerowych (amortyzatorów), co kwalifikuje go do kategorii 'Narzędzia i smary' w obrębie akcesoriów rowerowych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Olej do goleni amortyzatorów rowerowy 100ml",
+                "description": "Specjalny olej do amortyzatorów zapewniający optymalne tłumienie . Odporny na działanie wody. Nie zawiera niebezpiecznych substancji dla środowiska. Przedłuża żywotność, poprawia pracę, konserwuję amortyzator oraz pozostawia cienką warstwę ochronną przed korozją. Specyfikacja: Poprawia pracę amortyzatora (zmniejsza tarcie i zwiększa płynność pracy) Konserwuje Wydłuża żywotność amortyzatora Doskonałe właściwości antykorozyjne Pozostawia cienką warstwę ochronną Zapobiega osadzaniu się brudu\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: NS\n----------------------------------------",
+                "category_id": 4231,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 32.84,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/Rower/Akcesoria/NS006/do goleni-01.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/Rower/Akcesoria/NS006/do goleni-02.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        },
+                        {
+                            "field": "images.1.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
