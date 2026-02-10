@@ -3778,5 +3778,75 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to akcesorium służące do czyszczenia i pielęgnacji basenów. W udostępnionym drzewie kategorii najbardziej specyficzną kategorią końcową (liściem) obejmującą baseny oraz ich akcesoria jest kategoria 'Baseny' w sekcji 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "26449",
+        "Nazwa_Produktu": "Wkład filtracyjny BESTWAY Lay-Z-Spa Whirlpool",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Filtry do wody",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wkład filtracyjny do basenów i wanien z hydromasażem typu SPA (Bestway Lay-Z-Spa). Takie akcesoria basenowe na OLX są kategoryzowane w sekcji Dom i Ogród > Ogród > Baseny. Podpowiedź o filtrach do wody w kategorii AGD drobne jest błędna, gdyż dotyczy ona filtrów kuchennych do wody pitnej."
+    },
+    {
+        "ID_Produktu": "26453",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Varsity TF150 Euroleague - 5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki, która w strukturze kategorii OLX najlepiej pasuje do liścia 'Akcesoria' wewnątrz sekcji 'Koszykówka', zgodnie z przyjętymi standardami kategoryzacji sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "26717",
+        "Nazwa_Produktu": "Zestaw do hokeja ulicznego SCHILDKROT Fun",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Zestaw do hokeja ulicznego (unihokeja) to sprzęt do uprawiania sportu drużynowego. W drzewie kategorii OLX, w sekcji 'Sporty drużynowe', brak jest dedykowanej kategorii dla hokeja, dlatego najbardziej precyzyjnym wyborem jest podkategoria 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "26722",
+        "Nazwa_Produktu": "Zestaw treningowy do baseballa LUCIO LONDERO 2x kij + piłka",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Baseball i krykiet to dyscypliny zaliczane do sportów drużynowych. Ponieważ w drzewie kategorii OLX nie występują oddzielne kategorie dla tych konkretnych sportów (jak np. dla piłki nożnej czy siatkówki), produkt należy umieścić w najbardziej dopasowanej kategorii podrzędnej: Sporty drużynowe > Pozostałe sporty drużynowe."
+    },
+    {
+        "ID_Produktu": "26723",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Silver Series - 5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki marki Spalding. W drzewie kategorii OLX, sprzęt taki jak piłki do konkretnej dyscypliny sportowej (koszykówki) kategoryzowany jest jako 'Akcesoria' wewnątrz sekcji dedykowanej temu sportowi (Sporty drużynowe > Koszykówka)."
+    },
+    {
+        "ID_Produktu": "26725",
+        "Nazwa_Produktu": "Zestaw do badmintona TALBOT TORRO 2 Attacker",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do gry w badmintona (rakiety i lotki). W drzewie kategorii znajduje się dedykowana kategoria liść 'Badminton' (ID: 5029) w sekcji Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "26726",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Slam Dunk Pomarańczowa - 6",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do gry w koszykówkę. W strukturze kategorii OLX dla koszykówki (ID 4971), sprzęt sportowy taki jak piłki jest klasyfikowany jako 'Akcesoria' (ID 4988)."
     }
 ]
