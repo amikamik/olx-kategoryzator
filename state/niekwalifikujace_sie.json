@@ -2888,5 +2888,175 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest częścią zamienną do trampoliny ogrodowej, która na platformie OLX jest klasyfikowana w kategorii 'Huśtawki i place zabaw' w dziale Ogród. Sugestia systemu dotycząca części samochodowych jest błędna i wynika prawdopodobnie z dwuznaczności słowa 'słupek'."
+    },
+    {
+        "ID_Produktu": "21570",
+        "Nazwa_Produktu": "Wiosło do SUP paddleboard Kajak MASTER Dual Dwustronne",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wiosło przeznaczone głównie do desek SUP (paddleboard), co jest wyraźnie wskazane w tytule i opisie. W drzewie kategorii OLX najbardziej precyzyjnym liściem dla tego typu sprzętu jest kategoria akcesoriów wewnątrz sekcji SUP."
+    },
+    {
+        "ID_Produktu": "21587",
+        "Nazwa_Produktu": "Zestaw ochraniaczy SPARTAN 6 sztuk rozmiar S",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to klasyczny zestaw 6 ochraniaczy (kolana, łokcie, nadgarstki/dłonie), który jest standardowym wyposażeniem ochronnym w kategorii Skating (rolki, hulajnogi, deskorolki). Marka Spartan specjalizuje się w tego typu akcesoriach sportowych."
+    },
+    {
+        "ID_Produktu": "21590",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego JOOLA Match",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego renomowanej marki JOOLA, co precyzyjnie odpowiada kategorii liścia 'Tenis stołowy' (ID 5027) w sekcji Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "21594",
+        "Nazwa_Produktu": "Plandeka płachta zabezpieczająca Basen 300 x 207 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest plandeką (pokrowcem) ochronnym dedykowanym konkretnie do basenów ogrodowych, co czyni kategorię Baseny najbardziej specyficzną i właściwą lokalizacją dla tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "21616",
+        "Nazwa_Produktu": "Piłka do koszykówki SPARTAN Florida",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki, która w strukturze drzewa kategorii OLX jest klasyfikowana jako Akcesoria w ramach dyscypliny Sporty drużynowe > Koszykówka."
+    },
+    {
+        "ID_Produktu": "21618",
+        "Nazwa_Produktu": "Deskorolka Plastikowa Pennyboard SPARTAN - Niebieska",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to deskorolka typu pennyboard, która idealnie pasuje do kategorii liścia 'Deskorolki' w ścieżce Sport i Hobby > Skating."
+    },
+    {
+        "ID_Produktu": "21620",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego JOOLA Rosskopf Attack",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co jest jednoznacznie przypisane do kategorii liścia 'Tenis stołowy' (ID: 5027) w drzewie kategorii OLX."
+    },
+    {
+        "ID_Produktu": "21622",
+        "Nazwa_Produktu": "Plandeka pod basen 335 x 335 cm BESTWAY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Plandeka pod basen jest bezpośrednim akcesorium basenowym. W strukturze kategorii OLX, baseny ogrodowe oraz ich wyposażenie (maty, pompy, drabinki) najlepiej pasują do kategorii 'Baseny' w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "21623",
+        "Nazwa_Produktu": "Plandeka pod basen 396 x 396 cm BESTWAY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plandeka ochronna przeznaczona pod basen. W udostępnionym drzewie kategorii OLX, kategoria 'Baseny' (ID 1630) jest najbardziej precyzyjnym miejscem dla basenów ogrodowych oraz ich bezpośrednich akcesoriów ochronnych."
+    },
+    {
+        "ID_Produktu": "21624",
+        "Nazwa_Produktu": "Pokrywa do basenów BESTWAY - 244 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywa basenowa, która jest bezpośrednim akcesorium do basenów. W drzewie kategorii OLX kategoria 'Baseny' (ID: 1630) jest kategorią końcową (liściem) i obejmuje zarówno same baseny, jak i dedykowany osprzęt oraz akcesoria takie jak przykrycia."
+    },
+    {
+        "ID_Produktu": "21628",
+        "Nazwa_Produktu": "Adaptery do węży BESTWAY 38 - 32 mm",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Adaptery i przejściówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to adapter do węży basenowych marki Bestway, przeznaczony do łączenia elementów systemów filtracji basenowej. Najbardziej trafną kategorią jest kategoria 'Baseny' w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "21629",
+        "Nazwa_Produktu": "Przykrycie solarne do basenu 244 cm BESTWAY",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przykrycie solarne przeznaczone do basenów ogrodowych. Zgodnie z drzewem kategorii OLX, akcesoria basenowe oraz same baseny znajdują się w kategorii Dom i Ogród > Ogród > Baseny (ID: 1630)."
+    },
+    {
+        "ID_Produktu": "21630",
+        "Nazwa_Produktu": "Przykrycie solarne do basenu 305 cm BESTWAY",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to przykrycie solarne do basenu ogrodowego. Najbardziej szczegółową i pasującą kategorią w dostarczonym drzewie jest kategoria 'Baseny' znajdująca się w sekcji 'Ogród'. Sugestia systemowa dotycząca zabawek edukacyjnych jest błędna."
+    },
+    {
+        "ID_Produktu": "21631",
+        "Nazwa_Produktu": "Przykrycie solarne do basenu 366 cm BESTWAY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to przykrycie solarne, będące akcesorium do basenu. W strukturze OLX akcesoria basenowe, takie jak pompy, drabinki czy właśnie pokrycia, znajdują się w kategorii 'Baseny' (ID: 1630), która jest kategorią-liściem podrzędną do 'Ogród'."
+    },
+    {
+        "ID_Produktu": "21632",
+        "Nazwa_Produktu": "Przykrycie solarne do basenu 457 cm BESTWAY",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to akcesorium do basenu ogrodowego (przykrycie solarne). W strukturze kategorii OLX, baseny oraz wszelkie dedykowane im akcesoria, takie jak pompy, drabinki czy właśnie pokrywy, znajdują się w kategorii Dom i Ogród > Ogród > Baseny."
+    },
+    {
+        "ID_Produktu": "21646",
+        "Nazwa_Produktu": "Śruba napędowa do silnika MASTER 58 LBs",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Akcesoria i części > Do silników",
+        "Finalne_ID_AI": 5012,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest śrubą napędową do silnika elektrycznego o uciągu 58 LBs, który jest typowym silnikiem zaburtowym stosowanym w łodziach i pontonach. Zgodnie z drzewem kategorii, części do takich silników najlepiej pasują do kategorii Sporty wodne > Akcesoria i części > Do silników."
+    },
+    {
+        "ID_Produktu": "21647",
+        "Nazwa_Produktu": "Śruba napędowa do silnika MASTER 66 LBs",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Akcesoria i części > Do silników",
+        "Finalne_ID_AI": 5012,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to śruba napędowa (część zamienna) do silnika elektrycznego (jednostka ciągu 66 Lbs), stosowanego w łodziach i pontonach. Najbardziej dopasowana kategoria to 'Do silników' w sekcji 'Akcesoria i części' wewnątrz 'Sportów wodnych'."
     }
 ]

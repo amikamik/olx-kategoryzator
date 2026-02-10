@@ -321,5 +321,68 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "21602",
+        "Nazwa_Produktu": "Piłka gimnastyczna SPARTAN średnica 75 cm - czerwona",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalne_ID_AI": 4347,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka gimnastyczna o średnicy 75 cm przeznaczona do fitnessu, rehabilitacji i ćwiczeń wzmacniających, co bezpośrednio odpowiada kategorii 'Piłki do ćwiczeń' w sekcji Fitness.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Piłka gimnastyczna spartan średnica 75 cm - czerwona",
+                "description": "Piłka gimnastyczna SPARTAN średnica 75 cm - umożliwia wykonywanie wszechstronnych czynności wzmacniających zdrowie i poprawiających ogólne poczucie stabilności, równowagi oraz kontroli ciała. Ćwiczenia z tą piłką zmniejszają napięcie ciała, wzmacniają mięśnie brzucha, pleców a także aktywizują stawy oraz pomagają łagodzić bóle pleców i krzyża. Specyfikacja: Średnica: 75 cm Idealnie nadaje się do ćwiczeń rozciągających Pomaga w rozciąganiu górnej i dolnej części ciała Nadaje się do treningu siłowego i interwałowego Kolor: Czerwony Maksymalne obciążenie: 120 kg Waga z opakowaniem: 1 kg Wymiary opakowania: 5 x 12 x 18 cm\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: SPARTAN GmbH\nAdres: Hermann-Gebauer-Strae 9, A-1220, Wien, AT\nEmail: info(at)spartan-sport.at\nTelefon: +43(1)2597116\n----------------------------------------",
+                "category_id": 4347,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 81.1,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/PikiGimnastyczne/S56/Pilka-gimnastyczna-SPARTAN-75-cm_[37562]_1200.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
