@@ -3848,5 +3848,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to piłka do gry w koszykówkę. W strukturze kategorii OLX dla koszykówki (ID 4971), sprzęt sportowy taki jak piłki jest klasyfikowany jako 'Akcesoria' (ID 4988)."
+    },
+    {
+        "ID_Produktu": "26728",
+        "Nazwa_Produktu": "Bramka MASTER 122 x 61 x 61 cm z akcesoriami treningowymi",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do treningu piłki nożnej, składający się z bramki, piłki i pachołków. Najlepiej pasuje do kategorii Akcesoria w sekcji Piłka nożna, wewnątrz sportów drużynowych."
+    },
+    {
+        "ID_Produktu": "26783",
+        "Nazwa_Produktu": "Basen zabaw dla dzieci MASTER 120 x 30 cm z piłkami",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Maty edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Mimo dołączonych piłek i funkcji zabawowej, produkt to konstrukcyjnie klasyczny nadmuchiwany basen z PVC o wymiarach 120x30 cm, wyposażony w korek spustowy. Takie parametry (materiał odporny na UV, odpływ wody) definiują go przede wszystkim jako brodzik ogrodowy, który na platformie OLX najlepiej pasuje do kategorii Dom i Ogród > Ogród > Baseny."
     }
 ]
