@@ -2268,5 +2268,305 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to klasyczna deskorolka wykonana z klonu kanadyjskiego, co kwalifikuje go bezpośrednio do kategorii liścia 'Deskorolki' w sekcji 'Skating' wewnątrz głównej kategorii 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "21220",
+        "Nazwa_Produktu": "Siatka do Tenisa Stołowego MASTER Uni Automatic super",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest siatką przeznaczoną do gry w tenisa stołowego (ping-ponga), co jednoznacznie wskazuje na kategorię 'Tenis stołowy', która jest najbardziej szczegółowym liściem w tym drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "21224",
+        "Nazwa_Produktu": "Kettlebell Hantla THEWAY 8kg",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kettlebell o wadze 8kg, który jest rodzajem wolnego ciężaru przeznaczonego do treningu siłowego. W drzewie kategorii OLX tego typu sprzęt klasyfikowany jest w sekcji 'Hantle' pod kategorią 'Sprzęt siłowy'."
+    },
+    {
+        "ID_Produktu": "21234",
+        "Nazwa_Produktu": "Końcówki Groty do Rzutek Lotek MASTER Keypoint soft 2BA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Bilard",
+        "Finalne_ID_AI": 4964,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to groty (końcówki) przeznaczone do rzutek/lotek, co jednoznacznie klasyfikuje go jako akcesorium do gry w darta. Wybrana kategoria jest najbardziej specyficznym liściem w drzewie dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "21235",
+        "Nazwa_Produktu": "Zestaw rzutek MASTER Plated Brass 100 szt. - stal 16g",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Hamulce i przerzutki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rzutek (darts), które są bezpośrednio przypisane do dedykowanej kategorii 'Dart' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21236",
+        "Nazwa_Produktu": "Zestaw rzutek do tarcz elektronicznych 16g MASTER Black Plated Brass 12szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Hamulce i przerzutki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rzutki do gry w darta (lotki), które idealnie pasują do dedykowanej kategorii 'Dart' znajdującej się w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21238",
+        "Nazwa_Produktu": "Rzutki MASTER Wizard Black Brass 3 sztuki - softip 18g",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rzutek do darta (softip, 18g), co wprost odpowiada dedykowanej kategorii liścia 'Dart' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21239",
+        "Nazwa_Produktu": "Profesjonalna osłona pierścień ochronny do tarcz sizalowych MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pierścień ochronny (surround) do tarczy do gry w rzutki (dart), co jednoznacznie klasyfikuje go do kategorii Dart w sekcji Sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21240",
+        "Nazwa_Produktu": "Tarcza do darta SIZALOWA MASTER Grande Brazil 45 cm + 6 rzutek",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna tarcza sizalowa do gry w darta wraz z zestawem rzutek, co jednoznacznie klasyfikuje go do kategorii liścia 'Dart' w sekcji 'Sporty towarzyskie'."
+    },
+    {
+        "ID_Produktu": "21241",
+        "Nazwa_Produktu": "Tarcza do darta SIZALOWA MASTER Grande 45 cm + 6 rzutek",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tarcza sizalowa do gry w darta wraz z rzutkami, co wprost odpowiada kategorii liścia 'Dart' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21242",
+        "Nazwa_Produktu": "Tarcza do darta MASTER Flocking 45 cm - dwustronna",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tarcza do gry w darta wraz z rzutkami, co precyzyjnie odpowiada kategorii liściastej Dart w sekcji Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "21243",
+        "Nazwa_Produktu": "Tarcza do darta papierowa MASTER Flocking 37 cm - dwustronna",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tarcza do gry w darta wraz z zestawem rzutek, co bezpośrednio odpowiada kategorii 'Dart' znajdującej się w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21244",
+        "Nazwa_Produktu": "Tarcza elektroniczna do darta MASTER Elect 65  + 6 rzutek",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tarcza elektroniczna wraz z rzutkami do darta, co idealnie pasuje do dedykowanej kategorii liścia 'Dart' znajdującej się w sekcji Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "21251",
+        "Nazwa_Produktu": "Rzutki do darta MASTER Plated Brass 3 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rzutki przeznaczone do gry w darta, co idealnie pasuje do najbardziej szczegółowej kategorii 'Dart' (ID: 4967) znajdującej się w sekcji Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "21252",
+        "Nazwa_Produktu": "Zestaw rzutek MASTER Plated Brass do tarcz sizalowych i papierowych 3 szt. - stal 18g",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rzutek (dartów) do tarcz sizalowych i papierowych. W drzewie kategorii OLX znajduje się precyzyjna kategoria 'Dart' (ID: 4967), która jest liściem w sekcji 'Sporty towarzyskie'."
+    },
+    {
+        "ID_Produktu": "21253",
+        "Nazwa_Produktu": "Rzutki do Darta MASTER Plated Brass - 6 szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rzutek do gry w darta, co idealnie pasuje do specjalistycznej kategorii Dart w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21255",
+        "Nazwa_Produktu": "Rzutki MASTER Virgin Brass 3 sztuki - softip 18g",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Hamulce i przerzutki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rzutki (darts) z miękką końcówką typu softip, przeznaczone do gry na tarczach elektronicznych. Kategoria 'Dart' wewnątrz 'Sportów towarzyskich' jest najbardziej precyzyjnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "21256",
+        "Nazwa_Produktu": "Rzutki MASTER Wizard Black Brass 3 sztuki - softip 16g",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rzutek (softip) do darta, przeznaczonych do gry na tarczach elektronicznych, co jednoznacznie wskazuje na kategorię Dart."
+    },
+    {
+        "ID_Produktu": "21264",
+        "Nazwa_Produktu": "Zestaw do petanque MASTER Start 8 kuli",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w petanque (bule), która jest klasycznym przykładem sportu towarzyskiego/rekreacyjnego. Najlepiej pasuje do kategorii Sporty towarzyskie > Pozostałe sporty towarzyskie, ponieważ petanque nie posiada dedykowanej podkategorii w strukturze OLX."
+    },
+    {
+        "ID_Produktu": "21265",
+        "Nazwa_Produktu": "Zestaw do badmintona MASTER Fight 2 Alu",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do gry w badmintona (rakiety, lotki, pokrowiec), który idealnie pasuje do najbardziej szczegółowej kategorii w drzewie: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton."
+    },
+    {
+        "ID_Produktu": "21266",
+        "Nazwa_Produktu": "Siatka do badmintona MASTER Kalk 600 x 60 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do badmintona. W drzewie kategorii najbardziej precyzyjną kategorią-liściem dla tego przedmiotu jest 'Badminton' (ID: 5029), znajdujący się w ścieżce: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton."
+    },
+    {
+        "ID_Produktu": "21267",
+        "Nazwa_Produktu": "Siatka do badmintona MASTER Koplat 1000 x 90 cm ze Stelażem",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do badmintona ze stelażem. Drzewo kategorii OLX zawiera dedykowaną podkategorię dla badmintona pod ścieżką: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton."
+    },
+    {
+        "ID_Produktu": "21269",
+        "Nazwa_Produktu": "Zestaw Trenażer do Piłki Nożnej MASTER Copa",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Trenażery eliptyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest trenażerem służącym do doskonalenia techniki gry w piłkę nożną. Najdokładniejszą kategorią jest Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria. Podpowiedź systemu o trenażerze eliptycznym (fitness) jest błędna, ponieważ wynika jedynie z nazewnictwa, ignorując przeznaczenie sportowe produktu."
+    },
+    {
+        "ID_Produktu": "21270",
+        "Nazwa_Produktu": "Pas Trenażer do Piłki Nożnej dla Dzieci MASTER Coach",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest trenażerem dedykowanym wyłącznie do treningu piłki nożnej (poprawa kontroli nad piłką i podań), dlatego kategoria Akcesoria w sekcji Piłka nożna jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "21278",
+        "Nazwa_Produktu": "Zestaw naprawczy MASTER do paddleboards",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do paddleboardów (SUP). Najbardziej precyzyjną kategorią w drzewie jest Sport i Hobby > Sporty wodne > SUP > Akcesoria."
+    },
+    {
+        "ID_Produktu": "21283",
+        "Nazwa_Produktu": "Smycz SUP Leash 7 mm MASTER",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla psów > Smycze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium (leash) do deski SUP (Stand Up Paddleboard), służącym do bezpieczeństwa w sportach wodnych. Wybrana ścieżka to Sport i Hobby > Sporty wodne > SUP > Akcesoria. Sugestia systemu OLX dotycząca akcesoriów dla psów jest błędna, ponieważ wynika z wieloznaczności słowa 'smycz' w języku polskim."
+    },
+    {
+        "ID_Produktu": "21285",
+        "Nazwa_Produktu": "Pompka MASTER do paddleboard, airtrack",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Pompki rowerowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pompka przeznaczona bezpośrednio do paddleboardów (SUP) i airtracków. Najbardziej precyzyjną kategorią w drzewie jest kategoria Akcesoria wewnątrz sekcji SUP, która z kolei znajduje się w Sportach wodnych."
+    },
+    {
+        "ID_Produktu": "21299",
+        "Nazwa_Produktu": "Drążek do podciąganie na ścianę MASTER - LCR1365",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stalowy drążek do podciągania montowany na ścianę, co bezpośrednio odpowiada kategorii 'Drążki i poręcze' znajdującej się w sekcji Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "21316",
+        "Nazwa_Produktu": "Wkład filtracyjny BESTWAY Flowclear Polysphere 500g",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Filtry do wody",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wkład filtracyjny Polysphere firmy Bestway jest przeznaczony do pomp piaskowych w basenach ogrodowych. Choć system OLX sugeruje filtry do wody w AGD, w realiach tej platformy akcesoria basenowe i materiały eksploatacyjne do nich (jak złoża filtracyjne) najlepiej pasują do kategorii Baseny w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "21317",
+        "Nazwa_Produktu": "Wkład zapasowy do pomp filtrujących o wydajności 5678 l/h",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Filtry do wody",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wkładem do pompy filtrującej, a opis wyraźnie wskazuje, że służy on do zachowania czystej wody w basenie. W drzewie kategorii OLX akcesoria basenowe i filtry do basenów znajdują się w kategorii Dom i Ogród > Ogród > Baseny."
+    },
+    {
+        "ID_Produktu": "21339",
+        "Nazwa_Produktu": "Wiosło do SUP paddleboard MASTER Standard",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wiosło przeznaczone do desek SUP (Stand Up Paddleboard). W drzewie kategorii istnieje dedykowana ścieżka dla tego sportu: Sport i Hobby > Sporty wodne > SUP. Kategoria 'Akcesoria' wewnątrz sekcji SUP jest najbardziej szczegółowym i trafnym wyborem dla tego przedmiotu."
     }
 ]

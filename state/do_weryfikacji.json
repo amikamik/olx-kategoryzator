@@ -99,5 +99,15 @@
         "api_error": {
             "error": "Błąd pobierania atrybutów z OLX API."
         }
+    },
+    {
+        "ID_Produktu": "21254",
+        "Nazwa_Produktu": "Rzutki MASTER Virgin Brass 3 sztuki - softip 16g",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Hamulce i przerzutki",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
     }
 ]
