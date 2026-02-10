@@ -10098,5 +10098,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to uchwyt samochodowy mocowany do zagłówka, przeznaczony do różnorodnych urządzeń mobilnych (telefon, tablet, e-book, konsola). Kategoria \"Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki\" najlepiej oddaje jego główne przeznaczenie jako akcesorium do pojazdu, niezależnie od typu urządzenia elektronicznego, które będzie trzymać."
+    },
+    {
+        "ID_Produktu": "1003433",
+        "Nazwa_Produktu": "Pojemnik GN 1/1 stalowy Kitchen Line wys. 65 mm - Hendi 806128",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik gastronomiczny, który idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1002609",
+        "Nazwa_Produktu": "Potykacz informacyjny tablica Uwaga Śliska Podłoga - Hendi 663950",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to potykacz informacyjny, czyli rodzaj stojaka z tablicą ostrzegawczą. Najbardziej pasującą i szczegółową kategorią jest 'Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki', ponieważ potykacze są wykorzystywane w tego typu przestrzeniach do celów informacyjnych i ostrzegawczych. Sugerowana kategoria 'Mocowania ścienne' jest nieprawidłowa, ponieważ produkt jest wolnostojący."
+    },
+    {
+        "ID_Produktu": "1005203",
+        "Nazwa_Produktu": "Stojak bufetowy dekoracyjny do misek do prezentacji trójkąty wys. 100mm - Hendi 561966",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stojak bufetowy, który jest elementem wyposażenia do prezentacji potraw, często używanym w gastronomii. Marka Hendi jest znana z profesjonalnego sprzętu gastronomicznego, co sugeruje przeznaczenie dla firm. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej adekwatna do funkcji i kontekstu produktu."
+    },
+    {
+        "ID_Produktu": "1005779",
+        "Nazwa_Produktu": "Tabliczka informacyjna ZAKAZ PALENIA stal nierdzewna - Hendi 663660",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tabliczka informacyjna marki Hendi, która jest dobrze znana z wyposażenia dla gastronomii. Chociaż nie ma specjalnej podkategorii dla tabliczek informacyjnych, to 'Pozostałe' w kategorii Gastronomia jest najbardziej odpowiednim wyborem dla tego typu funkcjonalnego elementu wyposażenia biznesowego."
     }
 ]
