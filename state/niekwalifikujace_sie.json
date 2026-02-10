@@ -3598,5 +3598,135 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to sportowy zestaw do gry w speed badmintona (crossmintona), zawierający rakiety i lotki. Najbardziej dopasowaną kategorią w drzewie jest 'Badminton' (ścieżka: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton)."
+    },
+    {
+        "ID_Produktu": "26091",
+        "Nazwa_Produktu": "Lampka basenowa LED BESTWAY",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest dedykowanym oświetleniem do basenu marki Bestway. W strukturze OLX akcesoria basenowe i elementy wyposażenia basenów ogrodowych najlepiej pasują do kategorii 'Dom i Ogród > Ogród > Baseny'."
+    },
+    {
+        "ID_Produktu": "26124",
+        "Nazwa_Produktu": "Wąż filtracyjny BESTWAY - 3 metry",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wąż filtracyjny marki Bestway, przeznaczony do basenów i ich osprzętu (pomp, filtrów). Najbardziej precyzyjną kategorią dla akcesoriów basenowych w drzewie kategorii OLX jest 'Baseny' (ID: 1630)."
+    },
+    {
+        "ID_Produktu": "26161",
+        "Nazwa_Produktu": "Podłoże dekoracyjne pod basen BESTWAY 150 x 200 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne podłoże (maty ochronne) dedykowane pod baseny ogrodowe marki Bestway. W strukturze kategorii OLX, akcesoria basenowe takie jak maty, pompy czy chemia basenowa są umieszczane bezpośrednio w kategorii 'Baseny'."
+    },
+    {
+        "ID_Produktu": "26170",
+        "Nazwa_Produktu": "Dziecięca zjeżdżalnia BESTWAY H2Ogo! Singiel Tsunami",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ogrodowa ślizgawka wodna dla dzieci. Najbardziej trafną i specyficzną kategorią dla zewnętrznego sprzętu rekreacyjnego tego typu jest 'Huśtawki i place zabaw' w dziale 'Ogród'."
+    },
+    {
+        "ID_Produktu": "26171",
+        "Nazwa_Produktu": "Dziecięca zjeżdżalnia BESTWAY H2Ogo! Singiel",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ogrodowa ślizgawka wodna o długości blisko 5 metrów, przeznaczona do użytku na zewnątrz. Najbardziej adekwatną kategorią dla tego typu ogrodowego wyposażenia rekreacyjnego dla dzieci jest 'Huśtawki i place zabaw' w sekcji Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "26172",
+        "Nazwa_Produktu": "Dziecięca zjeżdżalnia BESTWAY H2Ogo! Double",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zjeżdżalnia ogrodowa (wodna) o znacznych wymiarach, przeznaczona do zabawy na zewnątrz. W strukturze kategorii OLX zjeżdżalnie oraz elementy wyposażenia przydomowych placów zabaw są klasyfikowane w kategorii 'Huśtawki i place zabaw' w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "26176",
+        "Nazwa_Produktu": "Rakieta do tenisa stołowego JOOLA Team Master",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta przeznaczona do gry w tenisa stołowego, co jednoznacznie wskazuje na kategorię liścia 'Tenis stołowy' (ID: 5027) znajdującą się w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "26191",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Layup TF50 - 6",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki, która w strukturze kategorii OLX dla sportów drużynowych (Koszykówka) jest klasyfikowana jako element wyposażenia w podkategorii Akcesoria."
+    },
+    {
+        "ID_Produktu": "26192",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Layup TF50 - 5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki. W strukturze kategorii OLX dla sportów drużynowych, piłki oraz drobny sprzęt sportowy przypisywane są do kategorii 'Akcesoria' w obrębie konkretnej dyscypliny (Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria)."
+    },
+    {
+        "ID_Produktu": "26193",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Layup TF50 - 7",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki, która zgodnie z drzewem kategorii OLX najlepiej pasuje do sekcji Akcesoria wewnątrz podkategorii Koszykówka."
+    },
+    {
+        "ID_Produktu": "26195",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Slam Dunk Pomarańczowa - 5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki, która w strukturze OLX jest klasyfikowana jako akcesorium w dedykowanej sekcji sportu drużynowego: Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "26196",
+        "Nazwa_Produktu": "Tablica z obręczą do koszykówki SPALDING Sketch MicroMini",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest zestawem do gry w koszykówkę (tablica, obręcz i piłka) renomowanej marki sportowej Spalding. Mimo niewielkich rozmiarów (MicroMini) i przeznaczenia rekreacyjnego, najbardziej precyzyjną kategorią jest sekcja akcesoriów do koszykówki w dziale sportowym."
+    },
+    {
+        "ID_Produktu": "26240",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Varsity TF150 - 7",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest piłką do koszykówki, co kwalifikuje go do kategorii Sport i Hobby > Sporty drużynowe > Koszykówka. W obrębie tej sekcji kategoria Akcesoria (ID 4988) jest najbardziej odpowiednim i szczegółowym liściem dla sprzętu sportowego takiego jak piłki."
     }
 ]
