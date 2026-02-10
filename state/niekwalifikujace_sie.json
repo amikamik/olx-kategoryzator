@@ -10258,5 +10258,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to mini dyspenser do sosów, a marka HENDI jest silnie kojarzona ze sprzętem gastronomicznym. Kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia' jest najbardziej szczegółowa i trafnie odzwierciedla przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1017154",
+        "Nazwa_Produktu": "Pojemnik barmański organizer na dodatki do drinków koktajli - 6 wkładów",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik barmański na dodatki do drinków, przeznaczony do użytku w barach, pubach i restauracjach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjnie oddaje komercyjne zastosowanie oraz charakter produktu jako akcesorium do przechowywania żywności w gastronomii."
     }
 ]
