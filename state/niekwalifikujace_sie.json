@@ -3728,5 +3728,55 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt jest piłką do koszykówki, co kwalifikuje go do kategorii Sport i Hobby > Sporty drużynowe > Koszykówka. W obrębie tej sekcji kategoria Akcesoria (ID 4988) jest najbardziej odpowiednim i szczegółowym liściem dla sprzętu sportowego takiego jak piłki."
+    },
+    {
+        "ID_Produktu": "26324",
+        "Nazwa_Produktu": "Piłka do kosza MASTER Detroit - 7",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki, która bezpośrednio pasuje do kategorii Akcesoria w sekcji Koszykówka (Sporty drużynowe). Wskazówka systemowa była błędna, sugerując piłkę do ćwiczeń fitness."
+    },
+    {
+        "ID_Produktu": "26325",
+        "Nazwa_Produktu": "Piłka do kosza MASTER Detroit - 5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki w rozmiarze 5. Najbardziej trafną i szczegółową kategorią dla sprzętu do uprawiania tej dyscypliny sportu (piłki, obręcze, siatki) jest ścieżka Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "26436",
+        "Nazwa_Produktu": "Nadmuchiwany basen Mozaika 145 x 145 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to nadmuchiwany basen ogrodowy, który idealnie pasuje do dedykowanej kategorii 'Baseny' w sekcji 'Ogród' wewnątrz działu 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "26439",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Silver Series - 6",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki, która w strukturze kategorii OLX dla sportów drużynowych przypisana jest do kategorii 'Koszykówka' pod liściem 'Akcesoria'."
+    },
+    {
+        "ID_Produktu": "26441",
+        "Nazwa_Produktu": "Teleskopowy kij basenowy 244 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to akcesorium służące do czyszczenia i pielęgnacji basenów. W udostępnionym drzewie kategorii najbardziej specyficzną kategorią końcową (liściem) obejmującą baseny oraz ich akcesoria jest kategoria 'Baseny' w sekcji 'Dom i Ogród > Ogród'."
     }
 ]
