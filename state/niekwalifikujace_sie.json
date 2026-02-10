@@ -10328,5 +10328,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to szczypce do serwowania potraw, wyraźnie wskazane jako przeznaczone do 'profesjonalnej gastronomii' i zgodne z normami HACCP. Najbardziej szczegółowa kategoria w drzewie to 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej kategorii dla narzędzi do serwowania potraw w ramach 'Gastronomia', wybrana została kategoria-liść 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1017258",
+        "Nazwa_Produktu": "Taca antypoślizgowa do serwowania z polipropylenu 355 x 457 mm - brązowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taca przeznaczona do lokali gastronomicznych (barów, stołówek), co jasno wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej podkategorii dla tac do serwowania, 'Pozostałe' w ramach 'Gastronomia' jest najbardziej odpowiednią kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1017273",
+        "Nazwa_Produktu": "Torba termiczna do transportu pizzy na 4 pudełka 45 x 45 cm Kitchen Line - Hendi 709870",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to torba termiczna przeznaczona do transportu pizzy dla firm gastronomicznych. Najbardziej szczegółowa kategoria to 'Pojemniki gastronomiczne' w drzewie 'Firma i Przemysł > Gastronomia', ponieważ torba pełni funkcję specjalistycznego pojemnika w profesjonalnej gastronomii. Kategoria 'Torby na zakupy' jest zbyt ogólna i nie oddaje specyfiki przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "1017278",
+        "Nazwa_Produktu": "Witrynka ekspozycyjna bufetowa z pokrywą roolltop podwójna 380 x 260 x 355 mm - Hendi 871768",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Biblioteczki i witryny",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Lady i witryny chłodnicze",
+        "Finalne_ID_AI": 5070,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to witrynka ekspozycyjna bufetowa służąca do prezentacji i zachowania świeżości potraw na ladach sklepów i w kawiarniach. Kategoria 'Lady i witryny chłodnicze' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu w środowisku gastronomicznym, pomimo braku wyraźnej informacji o chłodzeniu, co jest często cechą tego typu witryn."
+    },
+    {
+        "ID_Produktu": "1017279",
+        "Nazwa_Produktu": "Zestaw etykiet jednorazowych food safety na każdy dzień tygodnia z podajnikiem - Hendi 850299",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Karteczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw etykiet do oznaczania żywności w kontekście gastronomicznym (food safety), co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia'. Brak bardziej szczegółowej kategorii dla etykiet w ramach gastronomii, dlatego wybrano 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1017280",
+        "Nazwa_Produktu": "Zestaw etykiet wielorazowych food safety na każdy dzień tygodnia z podajnikiem - Hendi 850305",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Karteczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw etykiet wielorazowych do oznaczania żywności, z wyraźnym odniesieniem do 'Food Safety' i 'gastronomicznych norm bezpieczeństwa', a także marki Hendi, co jednoznacznie wskazuje na zastosowanie w branży gastronomicznej. Najbardziej szczegółowa pasująca kategoria to 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ etykiety są akcesoriami do gastronomii, a nie konkretnym urządzeniem czy pojemnikiem."
     }
 ]
