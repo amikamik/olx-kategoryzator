@@ -10148,5 +10148,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to etui antykradzieżowe na klucze samochodowe, które blokuje fale radiowe, chroniąc przed kradzieżą typu 'na walizkę'. Jego główną funkcją jest zabezpieczenie samochodu, co doskonale pasuje do kategorii 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia'."
+    },
+    {
+        "ID_Produktu": "1017038",
+        "Nazwa_Produktu": "Tabliczka parkingowa na numer telefonu na deskę rozdzielczą szara",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Gadżety motoryzacyjne",
+        "Finalne_ID_AI": 4492,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to tabliczka na numer telefonu umieszczana w samochodzie, co klasyfikuje go jako akcesorium samochodowe. Spośród podkategorii, 'Gadżety motoryzacyjne' jest najbardziej szczegółową i trafioną kategorią dla tego typu przedmiotu, który służy jako praktyczny dodatek do pojazdu."
     }
 ]
