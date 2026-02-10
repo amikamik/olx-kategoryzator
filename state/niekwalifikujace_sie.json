@@ -8798,5 +8798,85 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to miniaturowy koszyk Hendi przeznaczony do podawania smażonych przekąsek. Marka Hendi i specyfika zastosowania (gastronomia) wskazują na kategorię 'Firma i Przemysł'. 'Pojemniki gastronomiczne' to najbardziej szczegółowa i pasująca kategoria dla tego typu naczynia do serwowania żywności w profesjonalnych warunkach."
+    },
+    {
+        "ID_Produktu": "1013332",
+        "Nazwa_Produktu": "Miseczka ramekin naczynie do sosów dipów ze stali nierdzewnej śr. 73 mm 12 szt. 115 ml - Hendi 400036",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Miski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miseczka ramekin, sprzedawana w zestawie 12 sztuk, marki Hendi, która jest znana z wyposażenia gastronomicznego. Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu w kontekście branżowym (Firma i Przemysł > Gastronomia)."
+    },
+    {
+        "ID_Produktu": "1013344",
+        "Nazwa_Produktu": "Koszyk na pieczywo owalny polipropylenowy szary 320x230x70 mm - Hendi 426647",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to koszyk na pieczywo marki Hendi, która jest znana z wyposażenia gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu w kontekście profesjonalnym."
+    },
+    {
+        "ID_Produktu": "1013345",
+        "Nazwa_Produktu": "Koszyk na pieczywo owalny polipropylenowy szary 250x190x65 mm - Hendi 426616",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koszyk na pieczywo marki Hendi, która specjalizuje się w wyposażeniu gastronomicznym. Mimo że jest to 'koszyk', jego przeznaczenie (marka, charakterystyka) wskazuje na zastosowanie w profesjonalnej gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna dla tego typu produktu w kontekście jego producenta i sugerowanego zastosowania."
+    },
+    {
+        "ID_Produktu": "1013354",
+        "Nazwa_Produktu": "Stojak ekspozytor bufetowy na kosz na owoce pieczywo śr. 250x180 mm - Hendi 426814",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to bufetowy stojak ekspozycyjny, przeznaczony do profesjonalnego użytku w gastronomii (marka Hendi). Najbardziej odpowiednią kategorią jest 'Firma i Przemysł > Gastronomia', a ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu stojaka, wybrano 'Pozostałe' w ramach tej kategorii."
+    },
+    {
+        "ID_Produktu": "1013355",
+        "Nazwa_Produktu": "Stojak ekspozytor bufetowy na kosze na owoce pieczywo śr. 250x265 mm - Hendi 426821",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stojak ekspozytor bufetowy marki Hendi, co wyraźnie wskazuje na zastosowanie profesjonalne w gastronomii, a nie domowe. Ponieważ nie ma bardziej szczegółowej kategorii dla stojaków ekspozycyjnych pod 'Gastronomia', kategoria 'Pozostałe' w tej gałęzi jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1013357",
+        "Nazwa_Produktu": "Kosz tacka na pieczywo z ramą ze stali nierdzewnej czarny 400x300x50 mm - Hendi 426555",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz/tacka na pieczywo, a marka Hendi jest znana z wyposażenia gastronomicznego. Najbardziej szczegółową i trafną kategorią jest 'Pojemniki gastronomiczne' w ramach 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1013358",
+        "Nazwa_Produktu": "Kosz ekspozycyjny na pieczywo chleb skośny prostokątny czarny 400x300x120 mm - Hendi 426661",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz ekspozycyjny na pieczywo, przeznaczony do użytku w piekarniach, restauracjach lub sklepach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje jego komercyjny charakter oraz przeznaczenie jako pojemnik na żywność w branży gastronomicznej/handlowej."
+    },
+    {
+        "ID_Produktu": "1013359",
+        "Nazwa_Produktu": "Kosz ekspozycyjny na pieczywo chleb skośny prostokątny szary 400x300x120 mm - Hendi 426661",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz ekspozycyjny na pieczywo, przeznaczony do użytku w piekarni, restauracji lub sklepie. Najlepiej pasującą kategorią jest 'Pojemniki gastronomiczne' w ramach działu 'Firma i Przemysł > Gastronomia', która precyzyjnie oddaje komercyjny charakter i zastosowanie produktu. Kategoria 'Koszyki' (Dom i Ogród) jest zbyt ogólna i sugeruje zastosowanie domowe."
     }
 ]
