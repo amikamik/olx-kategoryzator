@@ -3558,5 +3558,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Uchwyty do pompek, znane również jako paraletki, są formą niskich poręczy do ćwiczeń siłowych i kalisteniki. Wybrana kategoria 'Drążki i poręcze' jest najbardziej specyficznym dopasowaniem dla tego produktu w sekcji sprzętu fitness."
+    },
+    {
+        "ID_Produktu": "26021",
+        "Nazwa_Produktu": "Nadmuchiwany stepper SCHILDKROT",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to nadmuchiwany stepper służący do ćwiczeń równowagi i fitnessu, co idealnie dopasowuje go do kategorii 'Stepy, steppery i twistery' w sekcji sprzętu fitness."
+    },
+    {
+        "ID_Produktu": "26025",
+        "Nazwa_Produktu": "Zestaw do badmintona SCHILDKROT dla 4 osób",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara porcelana > Serwisy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w badmintona składający się z rakiet i lotek, co jednoznacznie wskazuje na kategorię liścia 'Badminton' (ID 5029) w sekcji Tenis i pokrewne."
     }
 ]
