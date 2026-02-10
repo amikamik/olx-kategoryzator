@@ -9868,5 +9868,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zaślepka do węża strażackiego, która jest specjalistyczną częścią do maszyn i urządzeń przemysłowych. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' najlepiej oddaje charakter produktu, będąc bardziej precyzyjną niż ogólny 'Osprzęt do narzędzi' w kontekście profesjonalnego zastosowania strażackiego."
+    },
+    {
+        "ID_Produktu": "1016431",
+        "Nazwa_Produktu": "Blokada zabezpieczenie antykradzieżowe na koło uniwersalne okrągłe",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Zabezpieczenia",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uniwersalna blokada antykradzieżowa na koło, przeznaczona do zabezpieczania samochodów osobowych, SUV-ów, autobusów, ciężarówek i przyczep. Najbardziej szczegółową kategorią-liściem, która idealnie odzwierciedla przeznaczenie produktu, jest 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia'. Podpowiedź systemowa 'Dla Dzieci > Akcesoria dla niemowląt > Zabezpieczenia' jest błędna, gdyż produkt nie jest przeznaczony dla dzieci ani do zabezpieczania niemowląt, a dla pojazdów."
+    },
+    {
+        "ID_Produktu": "1016460",
+        "Nazwa_Produktu": "Wodoodporna torba na kierownicę hulajnogi torba na hulajnogę 4l czarna",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Sprzęt bagażowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Pojazdy elektryczne > Akcesoria do pojazdów elektrycznych",
+        "Finalne_ID_AI": 4707,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wodoodporna torba na kierownicę hulajnogi, a wymienione marki (Xiaomi, Segway, Motus, Razor) są wiodącymi producentami hulajnóg elektrycznych. Kategoria 'Akcesoria do pojazdów elektrycznych' jest najbardziej szczegółowa i trafna dla tego typu akcesoriów."
     }
 ]
