@@ -10540,5 +10540,80 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1013838",
+        "Nazwa_Produktu": "Podłączenie redukcja do butli gazowej turystycznej G 3/8\" L - 7/16\" wąż 1,5m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Osprzęt turystyczny",
+        "Finalne_ID_AI": 3976,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to redukcja i wąż do butli gazowej, opisany jako przeznaczony do podłączania urządzeń turystycznych, takich jak kuchenki turystyczne. Kategoria 'Osprzęt turystyczny' jest najbardziej szczegółowa i najlepiej odzwierciedla główną funkcję produktu, pomimo jego szerszych zastosowań.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Podłączenie redukcja do butli gazowej turystycznej g 3/8\" l - 7/16\"",
+                "description": "Kod producenta: U4754-B Wysokiej jakości redukcja do butli gazowej turystycznej propan-butan LPG z gwintem 3/8\" L do podłączenia urządzeń zasilanych gazem z kartuszy gazowych z zaworem 7/16\". Przejściówka umożliwia zasilanie gazem z butli zamiast z kartusza gazowego urządzeń takich jak piecyki i grzejniki gazowe, palniki, kuchenki turystyczne itp.. Cechy produktu: - wysoka, precyzyjna jakość wykonania - złączki odporne na czynniki zewnętrzne - wąż wytrzymuje bardzo wysokie ciśnienie - umożliwia zasilanie gazem urządzeń przeznaczonych do kartuszy gazowych z zaworem 7/16\" - zastosowanie w gospodarstwach domowych, turystyce, rzemiośle, przemyśle itp.. - wyprodukowany w Europie spełnia wszystkie wymogi UE Parametry techniczne: - źródło gazu - butle gazowe propan-butan LPG / CNG z zaworem 3/8\" - zasilanie w gaz - urządzenia przystosowane do kartuszy gazowych z zaworem 7/16\" - gwint wejściowy, wewnętrzny - G3/8\"L (lewy gwint) uszczelnienie stożkowe - gwint wyjściowy zewnętrzny - 7/16\" - przewód gazowy długość - 1,5 m - wąż gazowy - 4x11 mm / 20 bar / -30C / ISO 3821 (EN 559) - konstrukcja - dwuczęściowa W zestawie: - zestaw - wąż 1,5m i przejściówka z butli gazowej 3/8\" L na urządzenia z zaworem 7/16\" - BRAK BUTLI GAZOWEJ WIDOCZNEJ NA ZDJĘCIU - BRAK PIECYKA OLYMP NA KARTUSZE GAZOWE WIDOCZNEGO NA ZDJĘCIU\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 3976,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 152.97,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013838-podlaczenie-redukcja-butli-turystycznejg-g38l-kartusz-716.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013838-1-meva-u4754-b-podlaczenie-redukcja-butli-3-8-kartusz-7-16.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013838-2-przejsciowka-z-butli-gazowej-g38l-kartusz-gazowy-716.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013838-3-redukcja-z-butli-gazowej-turystycznej-g38l-716-cala.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013838-4-podlaczenie-butli-gazowej-g38l-grzejnik-kartusz-716.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013838-5-reduckja-z-butli-gazowej-3-8-calal-7-16-zamiast-kartusza.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013838-6-redukcja-g-1-4lh-7-16-cala-kartusz-gazowy.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
