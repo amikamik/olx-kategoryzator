@@ -610,5 +610,76 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "25813",
+        "Nazwa_Produktu": "Okularki pływackie BESTWAY Hydro Swim - turkusowe",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Pływanie",
+        "Finalne_ID_AI": 1830,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to okulary pływackie przeznaczone dla dorosłych. Najbardziej dopasowaną i szczegółową kategorią w drzewie jest 'Sport i Hobby > Sporty wodne > Pływanie' (ID: 1830), która jest oznaczona jako liść.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Okularki pływackie bestway hydro swim - turkusowe",
+                "description": "Okularki pływackie BESTWAY Hydro Swim - Turkusowe są przeznaczone dla dorosłych pływaków. Turkusowe okulary pływackie dostosowane są do treningu jak i pływania rekreacyjnego. Są one przystosowane do każdych warunków. Bardzo łatwe w użyciu i oferują doskonały komfort noszenia. Sprawdzą się na basenach jak i na wodach otwartych. Okulary pływackie posiadają regulowany silikonowy pasek, dzięki któremu łatwiej będzie dostosować je do rozmiaru głowy. Specyfikacja: Szkła z poliwęglanu z filtrem UV Łatwo regulowany pasek silikonowy Powierzchnia Anti Fog Boczne plastikowe klamry do regulacji rozmiaru paska Wygodne silikonowe ramki Materiały nie zawierające ftalanów Przeznaczone dla dorosłych pływaków Kolor: turkusowy Waga z opakowaniem: 0,03 kg Wymiary opakowania: 15 x 19 x 5 cm\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: TV PRODUCTS CZ s.r.o\nAdres: Rybn 669/4, 11000, Praha, CZ\nEmail: objednavky(at)tvproducts.cz\nTelefon: +420380405402\n----------------------------------------",
+                "category_id": 1830,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 32.84,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/sportywodne/plywanie/okulary/BW21077blue/6941607330890.PT04 JPG.jpg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/sportywodne/plywanie/okulary/BW21077blue/1619214-bestway-21077 JPG.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        },
+                        {
+                            "field": "images.1.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

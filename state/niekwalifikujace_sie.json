@@ -3548,5 +3548,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt jest przykryciem solarnym do basenu, co kwalifikuje go bezpośrednio do kategorii 'Baseny' (ID 1630). W udostępnionym drzewie kategorii jest to najbardziej szczegółowa kategoria (liść) dla artykułów związanych z basenami ogrodowymi i ich eksploatacją."
+    },
+    {
+        "ID_Produktu": "25828",
+        "Nazwa_Produktu": "Uchwyty do pompek paraletki Push Up Bar MASTER - 30 x 13 x 10,5 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Uchwyty do pompek, znane również jako paraletki, są formą niskich poręczy do ćwiczeń siłowych i kalisteniki. Wybrana kategoria 'Drążki i poręcze' jest najbardziej specyficznym dopasowaniem dla tego produktu w sekcji sprzętu fitness."
     }
 ]
