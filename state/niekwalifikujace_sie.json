@@ -8768,5 +8768,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to wąż do podłączenia butli gazowej. Najbardziej szczegółowa i pasująca kategoria to 'Węże', która znajduje się w drzewie 'Dom i Ogród > Instalacje > Hydraulika'. Chociaż gaz nie jest płynem hydraulicznym, w kontekście OLX 'Hydraulika' często obejmuje szeroki zakres elementów instalacyjnych, w tym węży do różnych mediów, w przypadku braku dedykowanej kategorii dla instalacji gazowych."
+    },
+    {
+        "ID_Produktu": "1013312",
+        "Nazwa_Produktu": "Papier pergaminowy do przekąsek frytek nadruk KUCHNIA 500 szt. 258x425 mm - Hendi 678206",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Poradniki i albumy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papier pergaminowy do przekąsek, sprzedawany w dużym opakowaniu (500 sztuk) i pochodzi od marki Hendi, która specjalizuje się w wyposażeniu gastronomicznym. Najbardziej pasującą i szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ papier w tym kontekście pełni funkcję jednorazowego opakowania lub wyściółki dla jedzenia."
+    },
+    {
+        "ID_Produktu": "1013317",
+        "Nazwa_Produktu": "Papier pergaminowy do przekąsek frytek nadruk KRATKA 500 szt. 306x305 mm - Hendi 678176",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to papier pergaminowy z nadrukiem przeznaczony do przekąsek, takich jak frytki. Marka Hendi wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia' jest odpowiednia dla produktów gastronomicznych, a 'Pojemniki gastronomiczne' (5076) jest najbardziej szczegółową kategorią-liściem, która obejmuje artykuły służące do serwowania i przechowywania żywności w gastronomii, do czego ten papier jest przeznaczony jako wyściółka lub opakowanie."
+    },
+    {
+        "ID_Produktu": "1013323",
+        "Nazwa_Produktu": "Koszyk do podawania smażonych przekąsek miniaturowy z uchwytem 130x115x80 mm - Hendi 425688",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miniaturowy koszyk Hendi przeznaczony do podawania smażonych przekąsek. Marka Hendi i specyfika zastosowania (gastronomia) wskazują na kategorię 'Firma i Przemysł'. 'Pojemniki gastronomiczne' to najbardziej szczegółowa i pasująca kategoria dla tego typu naczynia do serwowania żywności w profesjonalnych warunkach."
     }
 ]
