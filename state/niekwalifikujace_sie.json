@@ -10268,5 +10268,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to pojemnik barmański na dodatki do drinków, przeznaczony do użytku w barach, pubach i restauracjach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjnie oddaje komercyjne zastosowanie oraz charakter produktu jako akcesorium do przechowywania żywności w gastronomii."
+    },
+    {
+        "ID_Produktu": "1017199",
+        "Nazwa_Produktu": "Siatka wędliniarska do wędzenia mięsa szer. 125 mm 32 oczka 50 m - Hendi 559260",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Ryneczek > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to siatka wędliniarska, służąca do przygotowania wyrobów mięsnych. Marka Hendi jest znana z wyposażenia dla gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej adekwatna, ponieważ jest to akcesorium do profesjonalnej obróbki żywności, które nie pasuje do żadnej z bardziej szczegółowych podkategorii w gastronomii."
+    },
+    {
+        "ID_Produktu": "1017200",
+        "Nazwa_Produktu": "Siatka wędliniarska do wędzenia mięsa szer. 125 mm 48 oczek 50 m - Hendi 559277",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Ryneczek > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to siatka wędliniarska, służąca do przygotowywania wyrobów mięsnych, co kwalifikuje go do kategorii 'Gastronomia'. Ponieważ nie jest to konkretne urządzenie wymienione w podkategoriach 'Gastronomia', najlepiej pasuje do 'Pozostałe' w tej sekcji. Marka Hendi, długość 50m oraz zastosowanie sugerują profesjonalne lub półprofesjonalne użycie, co idealnie wpasowuje się w 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1017201",
+        "Nazwa_Produktu": "Siatka wędliniarska do wędzenia mięsa szer. 160 mm 32 oczka 50 m - Hendi 559284",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Ryneczek > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to siatka wędliniarska służąca do przygotowania mięs. Jest to akcesorium ściśle związane z przetwórstwem spożywczym/gastronomią. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia, a ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu akcesoriów, 'Pozostałe' w ramach gastronomii jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1017206",
+        "Nazwa_Produktu": "Stojak na wafle do lodów szalka do wagi 2 otwory 45 mm 65 mm - Hendi 755754",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stojak na wafle do lodów marki Hendi, co wskazuje na zastosowanie w profesjonalnej gastronomii. Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółową i trafnie opisującą ten rodzaj akcesorium do przechowywania/prezentacji wafelków w ramach głównej kategorii 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1017243",
+        "Nazwa_Produktu": "Szczypce do serwowania potraw HACCP 250 mm - brązowe - Hendi 171929",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szczypce do serwowania potraw, z wyraźnym wskazaniem na \"profesjonalną gastronomię\" i zgodność z normami HACCP. Najbardziej pasującą kategorią jest \"Firma i Przemysł > Gastronomia\", a ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu narzędzi, użyto kategorii \"Pozostałe\" w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "1017244",
+        "Nazwa_Produktu": "Szczypce do serwowania potraw HACCP 300 mm - brązowe - Hendi 171936",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szczypce do serwowania potraw, wyraźnie wskazane jako przeznaczone do 'profesjonalnej gastronomii' i zgodne z normami HACCP. Najbardziej szczegółowa kategoria w drzewie to 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej kategorii dla narzędzi do serwowania potraw w ramach 'Gastronomia', wybrana została kategoria-liść 'Pozostałe'."
     }
 ]
