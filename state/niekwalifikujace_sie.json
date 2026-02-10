@@ -8218,5 +8218,195 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to kuweta/pojemnik do lodów marki Hendi, znanej z wyposażenia gastronomicznego. Pojemność 6,7 l oraz materiał (stal nierdzewna) sugerują zastosowanie profesjonalne, idealnie pasując do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1012346",
+        "Nazwa_Produktu": "Palnik gazowy gastronomiczny szefa kuchni design by Robert Bronwasser - Hendi 198247",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalne_ID_AI": 5047,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to palnik gazowy gastronomiczny przeznaczony do użytku profesjonalnego w kuchni. Kategoria 'Kuchnie gastronomiczne' jest najbardziej szczegółową i idealnie pasującą opcją dla tego typu sprzętu."
+    },
+    {
+        "ID_Produktu": "1012347",
+        "Nazwa_Produktu": "Palnik gazowy gastronomiczny szefa kuchni design by Robert Bronwasser z wkładem - Hendi 198254",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalne_ID_AI": 5047,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to palnik gazowy przeznaczony do użytku gastronomicznego przez szefów kuchni. Kategoria 'Kuchnie gastronomiczne' znajduje się w drzewie 'Firma i Przemysł > Gastronomia' i jest najbardziej szczegółową kategorią-liściem, która obejmuje sprzęt i urządzenia używane w profesjonalnych kuchniach, co jest zgodne z przeznaczeniem produktu i wskazówką systemową."
+    },
+    {
+        "ID_Produktu": "1012444",
+        "Nazwa_Produktu": "Klipsy do klipsownicy do osłonek siatek do kiełbas zestaw 2000 szt. - Hendi 265123",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne klipsy do klipsownicy używanej w zakładach gastronomicznych i przemyśle spożywczym (do kiełbas, osłonek, siatek). Najbardziej szczegółową i trafną kategorią jest 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ bezpośrednio odnosi się do przeznaczenia produktu w branży gastronomicznej, a brak jest bardziej precyzyjnej podkategorii dla akcesoriów do maszyn gastronomicznych."
+    },
+    {
+        "ID_Produktu": "1012532",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki CAS CDS-01 na dwie tacki pojemniki 178x113 mm - Hendi 805350",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Maszyny i urządzenia > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to \"matryca\" (forma) do zgrzewarki, czyli wymienna część maszyny. Kategoria \"Części do maszyn i urządzeń\" jest najbardziej szczegółowa i trafna dla tego typu produktu w kontekście kategorii \"Firma i Przemysł\"."
+    },
+    {
+        "ID_Produktu": "1012533",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki Duni DF10 na dwie tacki pojemniki 178x113 mm - Hendi 805794",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to matryca do zgrzewarki tac, co wskazuje na zastosowanie w profesjonalnej gastronomii. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej trafnym obszarem. Ponieważ nie ma bardziej szczegółowej podkategorii dla części do urządzeń gastronomicznych, 'Pozostałe' w ramach Gastronomii jest najlepszym wyborem na najgłębszym poziomie."
+    },
+    {
+        "ID_Produktu": "1012536",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarek MCS na dwie tacki pojemniki 178x113 mm - Hendi 805459",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca do zgrzewarki, co czyni ją częścią lub akcesorium do maszyny lub urządzenia. Marka Hendi często kojarzona jest ze sprzętem gastronomicznym/przemysłowym. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej precyzyjnym wyborem, gdyż nie ma bardziej szczegółowej kategorii dotyczącej części zamiennych do zgrzewarek gastronomicznych. Sugestia OLX dotycząca 'Pojemników i przechowywania żywności' odnosi się do przedmiotu zgrzewanego, a nie do oferowanej matrycy."
+    },
+    {
+        "ID_Produktu": "1012537",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki CAS CDS-01 na tackę dwudzielną 227x178 mm - Hendi 805398",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Maszyny i urządzenia > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to matryca do zgrzewarki, która jest elementem wyposażenia gastronomicznego, często używanym do pakowania żywności w tacach. Marka Hendi jest również znana z dostarczania sprzętu dla gastronomii. Najbardziej szczegółowa kategoria to 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ nie ma dedykowanej podkategorii dla zgrzewarek ani ich części."
+    },
+    {
+        "ID_Produktu": "1012541",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarek MCS na tackę dwudzielną 227x178 mm - Hendi 805466",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca do zgrzewarki, która jest maszyną lub urządzeniem. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej szczegółowa i precyzyjna."
+    },
+    {
+        "ID_Produktu": "1012542",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki CAS CDS-01 na pojemnik na zupę śr. 165 mm - Hendi 805411",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Maszyny i urządzenia > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'matryca' (forma/część wymienna) do zgrzewarki, która jest maszyną gastronomiczną. Najbardziej szczegółowa i trafna kategoria-liść to 'Firma i Przemysł > Części do maszyn i urządzeń'."
+    },
+    {
+        "ID_Produktu": "1012543",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki Duni DF10 na pojemnik na zupę śr. 165 mm - Hendi 805817",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca do zgrzewarki Duni DF10, przeznaczona do pojemników na zupę. Marka Hendi jest kojarzona ze sprzętem gastronomicznym. Najbardziej pasującą kategorią jest 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ jest to akcesorium do profesjonalnej maszyny gastronomicznej. Kategoria wskazana w podpowiedzi systemowej ('Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności') jest zbyt ogólna i nie oddaje profesjonalnego charakteru produktu, który nie jest samym pojemnikiem, a częścią maszyny do ich zgrzewania."
+    },
+    {
+        "ID_Produktu": "1012544",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki MANUPACK 190 na pojemnik na zupę śr. 165 mm - Hendi 805718",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to matryca/forma do profesjonalnej zgrzewarki, wykorzystywanej w gastronomii (marka Hendi, pojemnik na zupę). Najbardziej szczegółowa i trafna kategoria-liść to 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ jest to akcesorium do sprzętu gastronomicznego, które nie ma bardziej dedykowanej podkategorii."
+    },
+    {
+        "ID_Produktu": "1012545",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarek BOKAMA na pojemnik na zupę śr. 165 mm - Hendi 805909",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca (forma) do zgrzewarki, która jest maszyną/urządzeniem. Kategoria 'Części do maszyn i urządzeń' najlepiej odzwierciedla naturę produktu jako komponentu."
+    },
+    {
+        "ID_Produktu": "1012546",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarek MCS na pojemnik na zupę śr. 165 mm - Hendi 805473",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca (forma) do zgrzewarki, która służy do pakowania pojemników na zupę. Jest to część maszyny wykorzystywanej w przemyśle gastronomicznym. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej precyzyjna, ponieważ produkt jest częścią urządzenia do użytku komercyjnego."
+    },
+    {
+        "ID_Produktu": "1012551",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarek MCS na tackę trójdzielną 227x178 mm - Hendi 805480",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca do zgrzewarki, która jest częścią maszyny. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej szczegółowa i trafna dla tego typu produktu, który służy jako element zamienny do profesjonalnego urządzenia."
+    },
+    {
+        "ID_Produktu": "1012557",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki CAS CDS-01 na tackę dwudzielną COLT 227x178 mm - Hendi 805381",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Maszyny i urządzenia > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca (forma), która jest częścią do zgrzewarki. Kategoria \"Części do maszyn i urządzeń\" jest najbardziej precyzyjnym i najgłębszym dopasowaniem dla tego typu produktu w drzewie kategorii, lepiej pasuje niż ogólne \"Pozostałe\" pod maszynach czy gastronomii."
+    },
+    {
+        "ID_Produktu": "1012559",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki MANUPACK 190 na tackę dwudzielną COLT 227x178 mm - Hendi 805749",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca do zgrzewarki, która jest częścią maszyny/urządzenia. Najbardziej precyzyjna kategoria to 'Firma i Przemysł > Części do maszyn i urządzeń'."
+    },
+    {
+        "ID_Produktu": "1012561",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarek MCS na tackę dwudzielną COLT 227x178 mm - Hendi 805510",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca/forma do zgrzewarki, czyli część do specjalistycznego urządzenia. Kategoria 'Części do maszyn i urządzeń' pod 'Firma i Przemysł' jest najbardziej szczegółowa i trafna. Marka Hendi również często jest związana z wyposażeniem gastronomicznym/przemysłowym."
+    },
+    {
+        "ID_Produktu": "1012565",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarek BOKAMA na tackę dwudzielną colt 227 x 178 mm- Hendi 805947",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to matryca do zgrzewarek, czyli element wyposażenia gastronomicznego służący do pakowania żywności w tacki. Marka Hendi również wskazuje na zastosowanie profesjonalne. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Gastronomia', a ponieważ brak jest bardziej szczegółowej podkategorii dla zgrzewarek i ich części, wybieram 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1012572",
+        "Nazwa_Produktu": "Folia do zgrzewania tacek pojemników obiadowych PET/CPP PEEL szer. 18.5 cm dł. 250 m - Hendi 970720",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to folia do zgrzewania tacek obiadowych, przeznaczona do użytku gastronomicznego na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu jako akcesorium do profesjonalnych pojemników na żywność."
     }
 ]
