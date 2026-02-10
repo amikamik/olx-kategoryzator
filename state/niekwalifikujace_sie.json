@@ -8878,5 +8878,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to kosz ekspozycyjny na pieczywo, przeznaczony do użytku w piekarni, restauracji lub sklepie. Najlepiej pasującą kategorią jest 'Pojemniki gastronomiczne' w ramach działu 'Firma i Przemysł > Gastronomia', która precyzyjnie oddaje komercyjny charakter i zastosowanie produktu. Kategoria 'Koszyki' (Dom i Ogród) jest zbyt ogólna i sugeruje zastosowanie domowe."
+    },
+    {
+        "ID_Produktu": "1013371",
+        "Nazwa_Produktu": "Koszyk do serwowania smażonych przekąsek szary melanżowy śr. 130x110 mm - Hendi 426043",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koszyk do serwowania smażonych przekąsek, a marka Hendi jest silnie związana z profesjonalnym sprzętem gastronomicznym. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej adekwatna dla tego typu akcesoriów gastronomicznych, których nie ma w bardziej szczegółowych podkategoriach."
+    },
+    {
+        "ID_Produktu": "1013383",
+        "Nazwa_Produktu": "Koszyk tacka na pieczywo chleb owoce wzmocniona GN1/4 - Hendi 426722",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Ryneczek > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to koszyk (tacka) marki Hendi o standardzie Gastronorm (GN 1/4), przeznaczony na pieczywo i owoce, z możliwością piętrowania. Marka Hendi oraz standard GN jasno wskazują na zastosowanie w profesjonalnej gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjnie pasuje do charakteru produktu jako pojemnika używanego w branży gastronomicznej."
+    },
+    {
+        "ID_Produktu": "1013384",
+        "Nazwa_Produktu": "Koszyk tacka na pieczywo chleb owoce wzmocniona GN1/6 - Hendi 426746",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Ryneczek > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to koszyk/tacka o standardzie GN1/6, przeznaczony do pieczywa lub owoców, co wskazuje na zastosowanie w profesjonalnej gastronomii. Kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia' jest najbardziej precyzyjnym i szczegółowym dopasowaniem."
     }
 ]
