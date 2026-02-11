@@ -10498,5 +10498,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to wielofunkcyjny organizer przeznaczony do bagażnika samochodowego, co idealnie pasuje do kategorii 'Organizery i siatki do bagażnika' w drzewie 'Motoryzacja > Wyposażenie i akcesoria samochodowe'."
+    },
+    {
+        "ID_Produktu": "1017689",
+        "Nazwa_Produktu": "Samochodowy uchwyt na telefon z teleskopowym ramieniem na deskę rozdzielczą i szybę czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki",
+        "Finalne_ID_AI": 4506,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to uchwyt samochodowy na telefon, co oznacza, że jego głównym przeznaczeniem jest użytkowanie w pojeździe. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki' jest najbardziej szczegółowa i precyzyjnie oddaje charakter produktu, łącząc zarówno funkcję (uchwyt) jak i środowisko zastosowania (samochód)."
+    },
+    {
+        "ID_Produktu": "1017711",
+        "Nazwa_Produktu": "Organizer do auta na oparcie fotela siedzenia osłona fotela beżowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika",
+        "Finalne_ID_AI": 4498,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to organizer samochodowy, a kategoria 'Organizery i siatki do bagażnika' jest najbardziej szczegółowa i trafna w drzewie 'Motoryzacja > Wyposażenie i akcesoria samochodowe'."
     }
 ]
