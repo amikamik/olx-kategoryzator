@@ -10408,5 +10408,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to naklejka przeznaczona do oznaczania pojemników na zużyte baterie. Tego typu produkty (oznaczenia, materiały organizacyjne) są typowe dla kategorii związanych z biurem i przemysłem, w szczególności jako akcesoria i materiały biurowe służące do organizacji przestrzeni i segregacji odpadów."
+    },
+    {
+        "ID_Produktu": "1017603",
+        "Nazwa_Produktu": "Akcesoria do kamer sportowych GoPro SJCAM Zestaw 50w1",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Kamery > Kamery sportowe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Akcesoria i części",
+        "Finalne_ID_AI": 1985,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów do kamer sportowych GoPro/SJCAM, które służą do nagrywania filmów i robienia zdjęć. Najbardziej szczegółową kategorią-liściem, która obejmuje akcesoria do sprzętu wideo (do którego zaliczają się kamery sportowe), jest 'Elektronika > Sprzęt video > Akcesoria i części'."
+    },
+    {
+        "ID_Produktu": "1017625",
+        "Nazwa_Produktu": "Samochodowy uchwyt grawitacyjny na nawiew kratkę wentylacyjną szary",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki",
+        "Finalne_ID_AI": 4506,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to uchwyt grawitacyjny przeznaczony do montażu w samochodzie (na kratce wentylacyjnej), co jednoznacznie kwalifikuje go jako element wyposażenia i akcesoriów samochodowych. Kategoria 'Uchwyty, wieszaki' jest najbardziej szczegółowa i precyzyjna."
     }
 ]
