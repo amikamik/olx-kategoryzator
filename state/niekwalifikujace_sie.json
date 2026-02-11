@@ -10378,5 +10378,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zestaw etykiet wielorazowych do oznaczania żywności, z wyraźnym odniesieniem do 'Food Safety' i 'gastronomicznych norm bezpieczeństwa', a także marki Hendi, co jednoznacznie wskazuje na zastosowanie w branży gastronomicznej. Najbardziej szczegółowa pasująca kategoria to 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ etykiety są akcesoriami do gastronomii, a nie konkretnym urządzeniem czy pojemnikiem."
+    },
+    {
+        "ID_Produktu": "1017474",
+        "Nazwa_Produktu": "Grill węglowy składany z rusztem 43 x 25 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to grill węglowy, który idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Grill'. Opis podkreśla jego przeznaczenie do użytku na świeżym powietrzu."
+    },
+    {
+        "ID_Produktu": "1017573",
+        "Nazwa_Produktu": "Zamek łańcuszkowy zamknięcie do kubła kontenera na śmieci 80L - 1100L",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Kontenery > Pozostałe",
+        "Finalne_ID_AI": 4741,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zamek łańcuszkowy przeznaczony do ochrony kubłów na odpady i kontenerów o pojemnościach od 80L do 1100L. Duże pojemności (600L, 1100L) wskazują na zastosowanie przemysłowe lub biznesowe. Kategoria 'Firma i Przemysł > Kontenery > Pozostałe' jest najbardziej szczegółowa, ponieważ produkt jest akcesorium do kontenerów, a nie samym kontenerem typu mieszkalnego/biurowego czy morskiego/magazynowego."
+    },
+    {
+        "ID_Produktu": "1017588",
+        "Nazwa_Produktu": "Naklejka na pojemnik na zużyte BATERIE 16x12cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to naklejka przeznaczona do oznaczania pojemników na zużyte baterie. Tego typu produkty (oznaczenia, materiały organizacyjne) są typowe dla kategorii związanych z biurem i przemysłem, w szczególności jako akcesoria i materiały biurowe służące do organizacji przestrzeni i segregacji odpadów."
     }
 ]
