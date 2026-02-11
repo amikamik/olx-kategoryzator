@@ -4468,5 +4468,135 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co wprost odpowiada liściowi w drzewie kategorii: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy."
+    },
+    {
+        "ID_Produktu": "41722",
+        "Nazwa_Produktu": "Siatka do bramki MASTER 120 x 90 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to siatka do bramki przeznaczona do unihokeja. Unihokej jest sportem drużynowym, a ponieważ w drzewie kategorii OLX nie posiada on dedykowanej podkategorii (takiej jak piłka nożna czy siatkówka), najbardziej odpowiednią kategorią-liściem jest 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "41729",
+        "Nazwa_Produktu": "Zestaw rzutek w pudełku MASTER 3 szt. - czarno i srebrne",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Gry dla dzieci",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny zestaw rzutek (dart) ze stalowymi korpusami i wymiennymi końcówkami. W drzewie kategorii OLX znajduje się dedykowana kategoria 'Dart' (ID: 4967) w sekcji Sport i Hobby > Sporty towarzyskie, która idealnie pasuje do tego typu sprzętu."
+    },
+    {
+        "ID_Produktu": "41736",
+        "Nazwa_Produktu": "Sanki Ślizg Shell Muszla - Różowe",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Sanki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty zimowe > Sanki",
+        "Finalne_ID_AI": 1932,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sanki/ślizg przeznaczone do zabawy na śniegu, co bezpośrednio odpowiada najbardziej szczegółowej kategorii 'Sanki' w sekcji 'Sporty zimowe'."
+    },
+    {
+        "ID_Produktu": "41786",
+        "Nazwa_Produktu": "Pokrowiec na rakietkę i piłeczki do tenisa stołowego JOOLA Alu",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec na rakietkę i piłeczki do tenisa stołowego, który jest częścią wyposażenia do uprawiania tej konkretnej dyscypliny sportowej. Wybrana kategoria 'Tenis stołowy' (ID: 5027) jest najbardziej szczegółowym i precyzyjnym liściem w drzewie kategorii pasującym do tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "41793",
+        "Nazwa_Produktu": "Piłka nożna SPARTAN Match Professional 5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest piłką do piłki nożnej, która według drzewa kategorii OLX najlepiej pasuje do podkategorii Akcesoria wewnątrz sekcji Sporty drużynowe > Piłka nożna."
+    },
+    {
+        "ID_Produktu": "41806",
+        "Nazwa_Produktu": "Piłka nożna FC BARCELONA Lewandowski 22/23 R.5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to piłka do gry w piłkę nożną. W strukturze kategorii OLX dla sportów drużynowych, sprzęt taki jak piłki jest klasyfikowany jako 'Akcesoria' w ramach konkretnej dyscypliny (Piłka nożna)."
+    },
+    {
+        "ID_Produktu": "41807",
+        "Nazwa_Produktu": "Piłka nożna FC BARCELONA r. 5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do gry w piłkę nożną. W strukturze kategorii OLX dla sportów drużynowych, konkretnie dla piłki nożnej, piłki jako sprzęt sportowy klasyfikowane są w podkategorii 'Akcesoria' (ID 4989)."
+    },
+    {
+        "ID_Produktu": "41809",
+        "Nazwa_Produktu": "Piłka siatkowa ENERO SOFTTOUCH - zielona r. 5",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest piłką do siatkówki, co kwalifikuje go do kategorii 'Siatkówka' w sekcji sportów drużynowych. Najbardziej szczegółową kategorią dla sprzętu takiego jak piłka jest podkategoria 'Akcesoria'."
+    },
+    {
+        "ID_Produktu": "41810",
+        "Nazwa_Produktu": "Piłka siatkowa ENERO SOFTTOUCH - żółta r. 5",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka siatkowa o standardowym rozmiarze 5, przeznaczona do gry rekreacyjnej i plażowej, co czyni ją akcesorium sportowym w podkategorii Siatkówka."
+    },
+    {
+        "ID_Produktu": "41813",
+        "Nazwa_Produktu": "Piłka do tenisa ziemnego ENERO 1 szt - żółta",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalne_ID_AI": 5028,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest piłką przeznaczoną konkretnie do gry w tenisa ziemnego, dlatego najlepiej pasuje do najbardziej szczegółowej kategorii w drzewie: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny."
+    },
+    {
+        "ID_Produktu": "41814",
+        "Nazwa_Produktu": "Piłka do tenisa ziemnego ENERO 1 szt - zielona",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalne_ID_AI": 5028,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest piłką przeznaczoną do gry w tenisa ziemnego, co bezpośrednio odpowiada najbardziej szczegółowej kategorii 'Tenis ziemny' w sekcji sportowej."
+    },
+    {
+        "ID_Produktu": "41815",
+        "Nazwa_Produktu": "Piłka do tenisa ziemnego ENERO 1 szt - fioletowa",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalne_ID_AI": 5028,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka przeznaczona specjalnie do tenisa ziemnego, co idealnie pasuje do najbardziej szczegółowej kategorii 'Tenis ziemny' (ID: 5028) w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "41817",
+        "Nazwa_Produktu": "Piłka do tenisa ziemnego ENERO 1 szt - niebieska",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalne_ID_AI": 5028,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do tenisa ziemnego przeznaczona do treningów i turniejów, dlatego najlepiej pasuje do najbardziej szczegółowej kategorii 'Tenis ziemny' w sekcji Sport i Hobby."
     }
 ]
