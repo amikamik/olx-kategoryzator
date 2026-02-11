@@ -5058,5 +5058,155 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt jest basenem dmuchanym, a kategoria 'Baseny' (ID: 1630) w sekcji 'Ogród' jest najbardziej precyzyjnym i najgłębszym poziomem kategoryzacji dla tego typu artykułów, niezależnie od ich rozmiaru czy grupy wiekowej użytkowników."
+    },
+    {
+        "ID_Produktu": "42343",
+        "Nazwa_Produktu": "FILTR DO POMPY 80X90MM 29P481",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Części do maszyn rolniczych",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest filtrem przeznaczonym do pomp basenowych, co jednoznacznie klasyfikuje go do kategorii 'Baseny' w sekcji 'Ogród'. Opis produktu wyraźnie wskazuje na utrzymanie czystości w basenie jako jego główne przeznaczenie."
+    },
+    {
+        "ID_Produktu": "42344",
+        "Nazwa_Produktu": "Filtr do pompy 106X136MM 530/800GAL TYP 2 290588",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest filtrem wymiennym do pompy basenowej. W strukturze kategorii OLX, baseny oraz wszelkie akcesoria z nimi związane (w tym filtry, chemia basenowa i pompy basenowe) znajdują się w kategorii 'Baseny'."
+    },
+    {
+        "ID_Produktu": "42346",
+        "Nazwa_Produktu": "Filtr do pompy anty bakteria 300GAL 80X90mm 29P483",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do odkurzaczy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to filtr do pompy basenowej, niezbędny do utrzymania czystości wody. W strukturze OLX akcesoria basenowe, pompy i filtry do nich przeznaczone są kategoryzowane bezpośrednio w sekcji Dom i Ogród > Ogród > Baseny."
+    },
+    {
+        "ID_Produktu": "42347",
+        "Nazwa_Produktu": "Filtr do pompy anty bakteria 106X136mm 530/800GAL TYP 2 290725",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do odkurzaczy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to filtr przeznaczony do pomp basenowych, co wyraźnie wynika z opisu wskazującego na zastosowanie w basenach w celu filtrowania wody. W drzewie kategorii OLX, kategoria 'Baseny' (ID 1630) obejmuje zarówno same baseny, jak i akcesoria do nich, takie jak pompy i filtry."
+    },
+    {
+        "ID_Produktu": "42348",
+        "Nazwa_Produktu": "Filtr do pompy anty bakteria 106X203mm 1000GAL TYP 3 290726",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to filtr typu III (Type 3) przeznaczony do pomp basenowych o wydajności 1000 GAL. Wymiary oraz specyfikacja jednoznacznie wskazują na akcesorium do basenów ogrodowych, dlatego kategoria 'Baseny' w sekcji 'Ogród' jest najbardziej precyzyjna."
+    },
+    {
+        "ID_Produktu": "42349",
+        "Nazwa_Produktu": "Wąż rura do pompy basenowej 5m x 32mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wąż dedykowany do pomp basenowych i basenów ogrodowych. W strukturze OLX akcesoria basenowe, filtry oraz osprzęt do utrzymania czystości wody w basenach są klasyfikowane w kategorii 'Baseny' (ID: 1630), która znajduje się w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "42350",
+        "Nazwa_Produktu": "Termometr z dozownikiem chemii basenowej 12 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Dozowniki do mydła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium do basenów ogrodowych (dozownik chemii i termometr). Najbardziej dopasowaną kategorią w drzewie jest kategoria 'Baseny' znajdująca się w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "42355",
+        "Nazwa_Produktu": "Zapasowa siatka SPONETA Club",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka zamienna do tenisa stołowego marki Sponeta. Podane wymiary (długość 180 cm i wysokość 15,2 cm) są standardowe dla siatek do ping-ponga, co kwalifikuje przedmiot do kategorii Tenis stołowy w sekcji Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "42390",
+        "Nazwa_Produktu": "Zestaw petanque MASTER 8 kul w kolorze matowego złota + nylonowy pokrowiec",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Petanque (gra w kule) jest sportem towarzyskim/rekreacyjnym. Ze względu na brak dedykowanej kategorii dla petanque lub bocce, produkt najlepiej pasuje do kategorii 'Pozostałe sporty towarzyskie'. Stalowe kule o oficjalnej wadze (720g) świadczą o tym, że jest to sprzęt sportowy, a nie zabawka dla dzieci."
+    },
+    {
+        "ID_Produktu": "42392",
+        "Nazwa_Produktu": "Zestaw petanque MASTER 6 chromowanych kul + nylonowy pokrowiec",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Petanque (gra w bule) to klasyczny sport towarzyski i rekreacyjny. Ze względu na brak dedykowanej podkategorii dla buli, kategoria 'Pozostałe sporty towarzyskie' w sekcji 'Sporty towarzyskie' jest najbardziej odpowiednia, szczególnie że produkt posiada oficjalną wagę sportową, a nie jest plastikową zabawką."
+    },
+    {
+        "ID_Produktu": "42393",
+        "Nazwa_Produktu": "Zapasowe kulki do gry w petanque Master 3x - Jack",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zapasowe kulki (świnki) do gry w petanque (bule). Gra ta zalicza się do kategorii sportów towarzyskich, a ponieważ nie posiada własnej dedykowanej podkategorii, właściwym wyborem jest kategoria 'Pozostałe sporty towarzyskie'."
+    },
+    {
+        "ID_Produktu": "42394",
+        "Nazwa_Produktu": "Magnes na sznurku do podnoszenia kul Petanque MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne akcesorium do gry w Petanque (bule), która jest grą towarzyską i rekreacyjną. Najdokładniejszym dopasowaniem w drzewie kategorii jest 'Pozostałe sporty towarzyskie', gdyż produkt jest ściśle powiązany z tą dyscypliną sportu, a nie jest ogólnym narzędziem warsztatowym."
+    },
+    {
+        "ID_Produktu": "42433",
+        "Nazwa_Produktu": "Osłona do tarczy sizalowej MASTER King - nadruk 3D - czarna",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to osłona (surround) do tarczy do darta, chroniąca ścianę przed rzutkami. W strukturze kategorii OLX najbardziej dopasowaną kategorią dla tego typu akcesoriów jest kategoria-liść 'Dart' w sekcji Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "42434",
+        "Nazwa_Produktu": "Rzutki do darta MASTER Cyclone Brass 3 szt. - stalowe końcówki 21g",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny zestaw rzutek (lotek) do darta, co wprost odpowiada dedykowanej kategorii liścia o nazwie 'Dart' (ID: 4967) w sekcji Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "42435",
+        "Nazwa_Produktu": "Rzutki do darta MASTER Cyclone Brass 3 szt. - stalowe końcówki 24g",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw lotek (rzutek) przeznaczonych do gry w darta, co jednoznacznie wskazuje na kategorię liścia 'Dart' w sekcji sportów towarzyskich."
     }
 ]
