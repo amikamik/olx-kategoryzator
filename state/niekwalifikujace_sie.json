@@ -10538,5 +10538,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to smartwatch marki Joyroom. Kategoria 'Elektronika > Smartwatche i opaski > Smartwatche' jest najbardziej pasująca. Ponieważ marka 'Joyroom' nie posiada dedykowanej podkategorii, wybieram 'Pozostałe' w kategorii 'Smartwatche'."
+    },
+    {
+        "ID_Produktu": "1017880",
+        "Nazwa_Produktu": "Smartwatch FC1 Classic Series z funkcją odbierania połączeń IP68 szary",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Smartwatche i opaski > Smartwatche > Pozostałe",
+        "Finalna_Sciezka_AI": "Elektronika > Smartwatche i opaski > Smartwatche > Pozostałe",
+        "Finalne_ID_AI": 4931,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to smartwatch. W drzewie kategorii znajduje się ścieżka 'Elektronika > Smartwatche i opaski > Smartwatche'. Marka Joyroom nie jest wymieniona jako osobna podkategoria, więc 'Pozostałe' jest najbardziej szczegółową kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1017890",
+        "Nazwa_Produktu": "Smartwatch JR-FT6 zegarek sportowy IP68 z funkcją odbierania połączeń",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Smartwatche i opaski > Smartwatche > Pozostałe",
+        "Finalna_Sciezka_AI": "Elektronika > Smartwatche i opaski > Smartwatche > Pozostałe",
+        "Finalne_ID_AI": 4931,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to smartwatch, a marka Joyroom nie jest wymieniona jako konkretna podkategoria. Najbardziej szczegółową kategorią jest 'Pozostałe' w gałęzi 'Elektronika > Smartwatche i opaski > Smartwatche'."
+    },
+    {
+        "ID_Produktu": "1017991",
+        "Nazwa_Produktu": "Palenisko ogrodowe składane przenośne 40 x 30 x 26 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to palenisko ogrodowe, które służy głównie do tworzenia ogniska w celach rekreacyjnych (ciepło, atmosfera), z możliwością drobnego pieczenia (chleb na patyku, pianki). Choć ma funkcje zbliżone do grilla, jego charakter jako 'paleniska' i przenośnej konstrukcji bardziej pasuje do kategorii 'Dekoracje ogrodowe' w ramach 'Dom i Ogród', ze względu na estetyczną i użytkową funkcję upiększania przestrzeni zewnętrznej. Kategoria 'Dekoracje ogrodowe' jest kategorią liściową."
+    },
+    {
+        "ID_Produktu": "1018008",
+        "Nazwa_Produktu": "Czyściwo włókninowe przemysłowe szorstkie szare ProfiSauber GRAY 500",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przemysłowe czyściwo włókninowe, przeznaczone do zbierania oleju, tłuszczu i brudu przemysłowego, stosowane w zakładach produkcyjnych, warsztatach i lakierniach. Kategoria 'Narzędzia warsztatowe' w ramach 'Firma i Przemysł > Wyposażenie warsztatów' jest najbardziej adekwatna dla tego typu specjalistycznego materiału eksploatacyjnego używanego w środowisku warsztatowym i przemysłowym."
     }
 ]
