@@ -4138,5 +4138,335 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to akcesorium (pokrowiec) przeznaczone konkretnie do rakietek do tenisa stołowego. Kategoria 'Tenis stołowy' (ID: 5027) jest najbardziej szczegółowym i precyzyjnym liściem w drzewie kategorii pasującym do tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "40941",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego SPARTAN TT-Ball 60 szt.",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego, które idealnie pasują do najbardziej szczegółowej kategorii w drzewie: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy."
+    },
+    {
+        "ID_Produktu": "41205",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego JOOLA Match Pro",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co jednoznacznie wskazuje na kategorię liściową 'Tenis stołowy' (ID: 5027) w drzewie kategorii Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "41206",
+        "Nazwa_Produktu": "Bramka do piłki nożnej SPARTAN Quick Set Up 200 x 100 x 100 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bramka do piłki nożnej, która jest podstawowym wyposażeniem i akcesorium sportowym w dyscyplinie piłki nożnej, należącej do sportów drużynowych."
+    },
+    {
+        "ID_Produktu": "41367",
+        "Nazwa_Produktu": "Piłka piłeczka do unihokeja TRIX IFF - pistacjowa",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do unihokeja. Unihokej jest sportem drużynowym, a ponieważ w drzewie kategorii nie ma dedykowanej sekcji dla tej dyscypliny (jak w przypadku piłki nożnej czy koszykówki), najbardziej odpowiednią i szczegółową kategorią-liściem jest 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "41368",
+        "Nazwa_Produktu": "Piłka piłeczka do unihokeja TRIX IFF - miedziana",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to certyfikowana piłka do unihokeja (floorball). W drzewie kategorii pod gałęzią 'Sporty drużynowe' znajdują się dedykowane sekcje dla piłki nożnej, siatkówki czy koszykówki, jednak brakuje osobnej kategorii dla unihokeja. W związku z tym, najbardziej precyzyjną kategorią jest 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "41370",
+        "Nazwa_Produktu": "Piłka piłeczka do unihokeja TRIX IFF - biała",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka do unihokeja. Ponieważ unihokej jest sportem drużynowym, a drzewo kategorii nie posiada dedykowanej podkategorii dla hokeja/unihokeja, najbardziej odpowiednią i szczegółową kategorią jest 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "41372",
+        "Nazwa_Produktu": "Piłka piłeczka do unihokeja TRIX IFF - błękitna",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do unihokeja. Unihokej jest sportem drużynowym, a ponieważ w drzewie kategorii nie ma dedykowanej podkategorii dla tej dyscypliny (takiej jak piłka nożna czy siatkówka), kategoria 'Pozostałe sporty drużynowe' jest najbardziej odpowiednim i precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "41373",
+        "Nazwa_Produktu": "Piłka piłeczka do unihokeja TRIX IFF - truskawkowa",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna piłka do unihokeja posiadająca certyfikat IFF. Unihokej jest sportem drużynowym, a w strukturze kategorii nie posiada własnej dedykowanej sekcji (jak np. siatkówka), dlatego kategoria 'Pozostałe sporty drużynowe' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "41374",
+        "Nazwa_Produktu": "Piłka piłeczka do unihokeja TRIX IFF - pomarańczowa",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do unihokeja. Ponieważ unihokej jest sportem drużynowym, a drzewo kategorii nie posiada dla niego dedykowanej sekcji (jak w przypadku piłki nożnej czy siatkówki), kategoria 'Pozostałe sporty drużynowe' jest najbardziej precyzyjnym i właściwym wyborem."
+    },
+    {
+        "ID_Produktu": "41462",
+        "Nazwa_Produktu": "Siatka do bramki do unihokeja MASTER 160 x 115 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Zabezpieczenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sprzęt sportowy (siatka do bramki) przeznaczony do unihokeja. Unihokej jest sportem drużynowym, a ponieważ nie posiada on dedykowanej podkategorii (jak piłka nożna czy koszykówka), najbardziej precyzyjnym wyborem w drzewie kategorii OLX jest 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "41463",
+        "Nazwa_Produktu": "Zasłona do bramki MASTER - 160 x 115 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Zabezpieczenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to akcesorium do bramki do unihokeja (floorball). Unihokej jest sportem drużynowym, który nie posiada dedykowanej podkategorii (jak np. piłka nożna czy siatkówka), dlatego najbardziej odpowiednią kategorią-liściem jest 'Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "41464",
+        "Nazwa_Produktu": "Zapasowa siatka SPONETA Perfect II",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Trafika > Zapalniczki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest zapasową siatką do tenisa stołowego (ping-ponga) marki Sponeta. Kategoria 'Tenis stołowy' (ID 5027) w sekcji 'Sporty towarzyskie' jest najbardziej precyzyjnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "41467",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego DONIC Persson 500 Cork",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do tenisa stołowego (rakietki, piłeczki, pokrowiec), który idealnie pasuje do najbardziej szczegółowej kategorii 'Tenis stołowy' w gałęzi Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "41468",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego DONIC Top Team 500",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do tenisa stołowego (rakietka, piłeczki, pokrowiec), a w strukturze kategorii znajduje się precyzyjna kategoria-liść dedykowana tej dyscyplinie sportu: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy."
+    },
+    {
+        "ID_Produktu": "41471",
+        "Nazwa_Produktu": "Obręcz do koszykówki z tablicą SPALDING Camo MicroMini",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Koła i obręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obręcz i tablica do koszykówki marki Spalding. Najlepiej pasuje do kategorii 'Akcesoria' w podkategorii 'Koszykówka' w sekcji sportów drużynowych. Sugestia systemu OLX dotycząca części rowerowych jest błędna ze względu na homonim słowa 'obręcz'."
+    },
+    {
+        "ID_Produktu": "41481",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego DONIC Young Champs 400 FSC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rakietek i piłeczek do tenisa stołowego, który posiada dedykowaną kategorię liścia 'Tenis stołowy' w drzewie kategorii OLX."
+    },
+    {
+        "ID_Produktu": "41482",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego DONIC Persson 600 Cork",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do tenisa stołowego (rakietka, pokrowiec i piłeczki), co jednoznacznie klasyfikuje go do najbardziej szczegółowej kategorii 'Tenis stołowy'."
+    },
+    {
+        "ID_Produktu": "41483",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego DONIC Top Team 400",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do tenisa stołowego (ping-ponga), zawierający rakietki, piłeczki oraz pokrowiec. Kategoria 'Tenis stołowy' (ID 5027) jest najbardziej precyzyjną kategorią-liściem dla tego typu sprzętu sportowego."
+    },
+    {
+        "ID_Produktu": "41485",
+        "Nazwa_Produktu": "Rakieta do tenisa stołowego DONIC Protection Line S500",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego (ping-ponga), co jednoznacznie wskazuje na kategorię Tenis stołowy (ID: 5027). Sugestia systemu OLX wskazująca na tenis ziemny jest błędna."
+    },
+    {
+        "ID_Produktu": "41486",
+        "Nazwa_Produktu": "Rakieta do tenisa stołowego DONIC Protection Line S400",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka przeznaczona do tenisa stołowego (ping-ponga), co jednoznacznie wskazuje na kategorię 'Tenis stołowy' (ID: 5027) w gałęzi 'Sporty towarzyskie > Tenis i pokrewne'. Wskazówka systemowa błędnie sugerowała tenis ziemny."
+    },
+    {
+        "ID_Produktu": "41488",
+        "Nazwa_Produktu": "Pokrowiec na rakietki i piłeczki do tenisa stołowego JOOLA Alu",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium (pokrowcem) przeznaczonym do sprzętu do tenisa stołowego. Kategoria 'Tenis stołowy' jest najbardziej precyzyjnym liściem w drzewie kategorii pasującym do tego sportu."
+    },
+    {
+        "ID_Produktu": "41686",
+        "Nazwa_Produktu": "PIŁKA SIATKOWA PLAŻOWA ENERO FUN R.5",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka do siatkówki plażowej, co jednoznacznie klasyfikuje go w drzewie kategorii: Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "41687",
+        "Nazwa_Produktu": "Piłka nożna MASTER Soft - 21 cm - żółta",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka do gry w piłkę nożną. W strukturze kategorii OLX dla sportów drużynowych, piłki oraz sprzęt treningowy są klasyfikowane jako 'Akcesoria' w obrębie danej dyscypliny (ID 4989)."
+    },
+    {
+        "ID_Produktu": "41688",
+        "Nazwa_Produktu": "Piłka nożna MASTER Soft - 21 cm - pomarańczowa",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miękka piłka do piłki nożnej przeznaczona do użytku sportowego (lekcje WF). Zgodnie z hierarchią kategorii, najbardziej odpowiednim miejscem dla sprzętu sportowego takiego jak piłki jest kategoria Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria."
+    },
+    {
+        "ID_Produktu": "41689",
+        "Nazwa_Produktu": "Piłka do koszykówki MASTER Soft - 18 cm - czerwona",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki. W strukturze kategorii OLX dla sportów drużynowych, piłki oraz pozostały sprzęt do gry są klasyfikowane jako 'Akcesoria' w obrębie danej dyscypliny (Koszykówka)."
+    },
+    {
+        "ID_Produktu": "41690",
+        "Nazwa_Produktu": "Piłka do koszykówki MASTER Soft - 18 cm - żółta",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest piłką do koszykówki (nawet jeśli wykonaną z pianki dla dzieci), co w strukturze OLX klasyfikuje go do kategorii Sporty drużynowe > Koszykówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "41691",
+        "Nazwa_Produktu": "Huśtawka dziecięca MASTER prostokątna 42 x 21 cm - drewniana",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka ogrodowa przeznaczona dla dzieci, co w strukturze kategorii OLX odpowiada liściowi 'Huśtawki i place zabaw' (ID: 1708) znajdującemu się w kategorii 'Ogród'."
+    },
+    {
+        "ID_Produktu": "41694",
+        "Nazwa_Produktu": "Regulowany uchwyt silnika do pontonów MASTER",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Akcesoria i części > Do kajaków, pontonów i rowerów wodnych",
+        "Finalne_ID_AI": 5022,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uchwyt montażowy do silnika przeznaczony specjalnie do pontonów, co czyni go akcesorium dla tej grupy jednostek pływających. Wybrana kategoria 'Do kajaków, pontonów i rowerów wodnych' jest najbardziej specyficznym liściem w drzewie kategorii pasującym do tego opisu."
+    },
+    {
+        "ID_Produktu": "41696",
+        "Nazwa_Produktu": "Osłona słupka siatki do trampolin SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to część zamienna do trampoliny ogrodowej. W strukturze kategorii OLX trampoliny oraz ich akcesoria (siatki, osłony, słupki) są klasyfikowane w dziale Ogród pod kategorią 'Huśtawki i place zabaw', która jest kategorią końcową (liściem) dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "41703",
+        "Nazwa_Produktu": "Obręcz do koszykówki z tablicą SPALDING Marble Series MicroMini",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Koła i obręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miniaturowy zestaw do gry w koszykówkę (obręcz z tablicą). Najbardziej odpowiednią kategorią jest Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria. Podpowiedź systemowa o obręczach rowerowych jest błędna, ponieważ opiera się na homonimie słowa 'obręcz'."
+    },
+    {
+        "ID_Produktu": "41708",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Sensation 700",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co jednoznacznie wskazuje na kategorię liścia 'Tenis stołowy' (ID: 5027) znajdującą się w sekcji Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "41709",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Sensation 500",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co jest dokładnie opisane w tytule i specyfikacji. Kategoria 'Tenis stołowy' (ID: 5027) jest najbardziej szczegółową i idealnie pasującą kategorią końcową (liściem) w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "41710",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Sensation 600",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co wprost odpowiada liściowi w drzewie kategorii: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy."
     }
 ]
