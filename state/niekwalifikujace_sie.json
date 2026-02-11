@@ -10708,5 +10708,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to \"lampka biurkowa\", która idealnie pasuje do kategorii \"Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe\". Nazwa i opis produktu są w pełni zgodne z tą kategorią."
+    },
+    {
+        "ID_Produktu": "1019014",
+        "Nazwa_Produktu": "Pochłaniacz wilgoci i zapachów do samochodu auta 500g - czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Odświeżacze powietrza",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest pochłaniaczem wilgoci i zapachów, wyraźnie przeznaczonym do użytku w samochodzie. Najbardziej szczegółowa i pasująca kategoria to 'Motoryzacja > Wyposażenie i akcesoria samochodowe', a ponieważ nie ma bardziej precyzyjnej podkategorii dla tego typu produktu, 'Pozostałe' w ramach tej gałęzi jest najwłaściwszym wyborem. Kategoria 'Dom i Ogród > Supermarket > Odświeżacze powietrza' jest zbyt ogólna i nie odzwierciedla specyficznego zastosowania samochodowego i funkcji pochłaniania wilgoci."
     }
 ]
