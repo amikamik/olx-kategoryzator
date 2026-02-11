@@ -10578,5 +10578,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to przemysłowe czyściwo włókninowe, przeznaczone do zbierania oleju, tłuszczu i brudu przemysłowego, stosowane w zakładach produkcyjnych, warsztatach i lakierniach. Kategoria 'Narzędzia warsztatowe' w ramach 'Firma i Przemysł > Wyposażenie warsztatów' jest najbardziej adekwatna dla tego typu specjalistycznego materiału eksploatacyjnego używanego w środowisku warsztatowym i przemysłowym."
+    },
+    {
+        "ID_Produktu": "1018324",
+        "Nazwa_Produktu": "Kabel przewód HDMI 2.1 8K 60 Hz 48 Gbps 4K 120 Hz 2K 144 Hz 1 m srebrny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Kable",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Akcesoria i części",
+        "Finalne_ID_AI": 1985,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kabel HDMI, który służy do przesyłania wysokiej jakości obrazu i dźwięku między różnymi urządzeniami elektronicznymi, takimi jak telewizory, odtwarzacze Blu-ray, projektory oraz konsole do gier. Kategoria 'Sprzęt video > Akcesoria i części' jest najbardziej ogólna i jednocześnie szczegółowa, obejmując akcesoria do szerokiej gamy sprzętu wideo, w tym urządzeń wymienionych w opisie produktu. Jest to bardziej odpowiednie niż kategorie specyficzne dla komputerów, audio czy tylko telewizorów, ponieważ kabel HDMI ma zastosowanie multimedialne."
     }
 ]
