@@ -10428,5 +10428,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to uchwyt grawitacyjny przeznaczony do montażu w samochodzie (na kratce wentylacyjnej), co jednoznacznie kwalifikuje go jako element wyposażenia i akcesoriów samochodowych. Kategoria 'Uchwyty, wieszaki' jest najbardziej szczegółowa i precyzyjna."
+    },
+    {
+        "ID_Produktu": "1017644",
+        "Nazwa_Produktu": "Uchwyt samochodowy do telefonu klamra na deskę rozdzielczą czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki",
+        "Finalne_ID_AI": 4506,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uchwyt samochodowy do telefonu, który jest akcesorium samochodowym. Najbardziej szczegółowa kategoria to 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki'."
+    },
+    {
+        "ID_Produktu": "1017649",
+        "Nazwa_Produktu": "Ręcznik z mikrofibry do osuszania samochodu mikrofibra 40x80cm szary",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ręczniki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręcznik przeznaczony do osuszania samochodu, co wyraźnie wskazuje na kategorię związaną z motoryzacją. W drzewie kategorii najbardziej szczegółową i pasującą gałęzią jest 'Motoryzacja > Wyposażenie i akcesoria samochodowe'. Ponieważ nie ma podkategorii dokładnie odpowiadającej 'ręcznikom do samochodu' (takiej jak np. 'akcesoria do czyszczenia samochodu'), najtrafniejszą kategorią liściową jest 'Pozostałe' w obrębie 'Wyposażenie i akcesoria samochodowe'. Jest to bardziej szczegółowe niż ogólna kategoria 'Ręczniki' w 'Dom i Ogród', ponieważ produkt ma specyficzne przeznaczenie motoryzacyjne."
+    },
+    {
+        "ID_Produktu": "1017653",
+        "Nazwa_Produktu": "Mini lampka lampa LED do czytania ekranu z klipsem szary",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to mini lampka LED z klipsem, przeznaczona do czytania, doświetlania nut i pracy przy biurku. Może stać lub być przypięta, co idealnie pasuje do definicji 'Lampki biurkowe'."
+    },
+    {
+        "ID_Produktu": "1017655",
+        "Nazwa_Produktu": "Samochodowy uchwyt grawitacyjny na telefon czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki",
+        "Finalne_ID_AI": 4506,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt samochodowy na telefon. Najbardziej szczegółowa kategoria obejmująca ten typ produktu to 'Uchwyty, wieszaki' znajdująca się w sekcji 'Wyposażenie i akcesoria samochodowe' w kategorii głównej 'Motoryzacja'. Mimo że jest to akcesorium do telefonu, jego przeznaczenie i montaż są ściśle związane z samochodem, co sprawia, że kategoria motoryzacyjna jest bardziej specyficzna dla tego konkretnego produktu niż ogólne 'Uchwyty' pod 'Telefonami'."
+    },
+    {
+        "ID_Produktu": "1017664",
+        "Nazwa_Produktu": "Etui antykradzieżowe na klucze samochodowe klatka Faradaya 14x10cm czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to etui antykradzieżowe na klucze samochodowe, które blokuje fale radiowe, co jest formą zabezpieczenia. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' jest najbardziej precyzyjna i szczegółowa."
+    },
+    {
+        "ID_Produktu": "1017665",
+        "Nazwa_Produktu": "Etui antykradzieżowe na klucze samochodowe klatka Faradaya 20x11cm czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to etui antykradzieżowe na klucze samochodowe, którego główną funkcją jest blokowanie sygnałów radiowych w celu ochrony przed kradzieżą. Najlepiej pasuje do kategorii 'Zabezpieczenia' w ramach 'Wyposażenie i akcesoria samochodowe', ponieważ jego kluczowa cecha to funkcja ochronna/bezpieczeństwa."
+    },
+    {
+        "ID_Produktu": "1017668",
+        "Nazwa_Produktu": "Wielofunkcyjny organizer samochodowy skrzynka do bagażnika czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika",
+        "Finalne_ID_AI": 4498,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjny organizer przeznaczony do bagażnika samochodowego, co idealnie pasuje do kategorii 'Organizery i siatki do bagażnika' w drzewie 'Motoryzacja > Wyposażenie i akcesoria samochodowe'."
     }
 ]
