@@ -5238,5 +5238,165 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to drążek do podciągania służący do ćwiczeń fitness i treningu siłowego, co bezpośrednio odpowiada kategorii 'Drążki i poręcze' w drzewie kategorii OLX."
+    },
+    {
+        "ID_Produktu": "15110",
+        "Nazwa_Produktu": "Mini stepper SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na 'mini stepper' przeznaczony do ćwiczeń fitness, co idealnie pasuje do kategorii 'Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery'."
+    },
+    {
+        "ID_Produktu": "15533",
+        "Nazwa_Produktu": "Worek do ćwiczeń powerbags 15 kg",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'worek do ćwiczeń powerbags 15 kg', który jest używany do treningu siłowego i funkcjonalnego, dostarczając obciążenia. Kategoria 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia' najlepiej oddaje funkcję produktu jako rodzaj ciężaru/obciążenia wykorzystywanego w treningu siłowym. Jest to bardziej szczegółowe niż ogólna kategoria 'Akcesoria treningowe > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "15719",
+        "Nazwa_Produktu": "Hulajnoga składana SPARTAN Girl",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu 'Hulajnoga składana SPARTAN Girl' oraz opis w pełni odpowiadają kategorii 'Hulajnogi' w drzewie 'Sport i Hobby > Skating'."
+    },
+    {
+        "ID_Produktu": "15731",
+        "Nazwa_Produktu": "Hulajnoga składana SPARTAN Racer X - 125",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pojazdy elektryczne > Hulajnogi elektryczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to klasyczna hulajnoga, jak jasno wskazuje opis ('klasyczna hulajnoga', 'wykonana ze aluminium', brak wzmianki o napędzie elektrycznym). Najbardziej szczegółową i precyzyjną kategorią jest 'Sport i Hobby > Skating > Hulajnogi'."
+    },
+    {
+        "ID_Produktu": "15779",
+        "Nazwa_Produktu": "Hulajnoga Wyczynowa Freestyle Stunt ABEC7 100kg - niebieska",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga wyczynowa, przeznaczona do jazdy freestyle i w skate parku. Kategoria 'Hulajnogi' w dziale 'Sport i Hobby > Skating' jest najbardziej precyzyjna i oddaje charakter produktu jako sprzętu sportowego, a nie zabawki. Opis wskazuje na użytkowanie również przez młodzież i dorosłych."
+    },
+    {
+        "ID_Produktu": "15782",
+        "Nazwa_Produktu": "Hulajnoga Wyczynowa Freestyle Stunt ABEC7 100kg  - zielona",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga wyczynowa przeznaczona do jazdy freestyle i w skateparku. Kategoria 'Hulajnogi' w drzewie 'Sport i Hobby > Skating' jest najbardziej precyzyjnym dopasowaniem, ponieważ deskorolki i hulajnogi są integralną częścią kultury skatingu, a produkt nie jest elektryczny ani typową zabawką dla małych dzieci, mimo że może być używany przez dzieci powyżej 8 lat."
+    },
+    {
+        "ID_Produktu": "15866",
+        "Nazwa_Produktu": "Deskorolka Klasyczna Profilowana SPARTAN Top Board ABEC-7",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na deskorolkę, z uwzględnieniem szczegółowych komponentów i przeznaczenia do jazdy ekstremalnej, co idealnie pasuje do kategorii 'Sport i Hobby > Skating > Deskorolki'."
+    },
+    {
+        "ID_Produktu": "15911",
+        "Nazwa_Produktu": "Tablica 80 x 56 cm cm z koszem 45 cm SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tablica do koszykówki z koszem, co jest akcesorium do sportów drużynowych, a konkretnie koszykówki. Wybrana kategoria jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "15917",
+        "Nazwa_Produktu": "Zestaw tablica do koszykówki z obręcza i siatką MASTER 90 x 60 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tablica do koszykówki z obręczą i siatką. Jest to element wyposażenia do gry w koszykówkę. W drzewie kategorii, najbardziej szczegółową kategorią dla tego typu sprzętu sportowego jest 'Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria', ponieważ nie ma bardziej specyficznej podkategorii dla sprzętu do koszykówki, a jest to bardziej precyzyjne niż ogólne 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "15956",
+        "Nazwa_Produktu": "Kosz ze stojakiem do koszykówki ulicznej MASTER Across 165",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kosz ze stojakiem do koszykówki, który jest jednoznacznie akcesorium do tego sportu. Kategoria 'Akcesoria' w ramach 'Sport i Hobby > Sporty drużynowe > Koszykówka' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "16010",
+        "Nazwa_Produktu": "Bramka do piłki nożnej 215 x 152 x 76 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bramka do piłki nożnej, która jest akcesorium do tego konkretnego sportu drużynowego. Kategoria 'Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria' jest najbardziej szczegółowa i precyzyjnie opisuje produkt."
+    },
+    {
+        "ID_Produktu": "16013",
+        "Nazwa_Produktu": "Zestaw dwóch bramek do unihokeja MASTER 81 x 54 x 31 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do unihokeja (bramki, kije, piłka), który jest sportem drużynowym. Najbardziej szczegółową kategorią dla tego typu sprzętu jest 'Pozostałe sporty drużynowe' w gałęzi 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "16139",
+        "Nazwa_Produktu": "Kij baseballowy SPARTAN Alu 34\"\" - 85 cm  Niebieski",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kij baseballowy, który jest sprzętem sportowym używanym w sporcie drużynowym. Brak jest bardziej szczegółowej kategorii dla baseballu, więc 'Pozostałe sporty drużynowe' jest najlepiej dopasowaną kategorią na najgłębszym poziomie."
+    },
+    {
+        "ID_Produktu": "16142",
+        "Nazwa_Produktu": "Zestaw Baseballowy BRETT Junior Kij + Piłka + Rękawica",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do baseballa, który jest sportem drużynowym. Brak dedykowanej kategorii dla baseballa pod 'Sporty drużynowe', więc 'Pozostałe sporty drużynowe' jest najbardziej szczegółowym i trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "16145",
+        "Nazwa_Produktu": "Zestaw baseballowy BRETT Senior Kij + Piłka + Rękawica",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w baseball, który jest sportem drużynowym. Najbardziej szczegółowa pasująca kategoria to 'Pozostałe sporty drużynowe' w obrębie 'Sport i Hobby', ponieważ nie ma dedykowanej kategorii dla baseballu."
+    },
+    {
+        "ID_Produktu": "16154",
+        "Nazwa_Produktu": "Stół bilardowy mini SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Bilard",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Bilard",
+        "Finalne_ID_AI": 4964,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "99%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na stół bilardowy, co idealnie pasuje do kategorii 'Sport i Hobby > Sporty towarzyskie > Bilard'."
     }
 ]
