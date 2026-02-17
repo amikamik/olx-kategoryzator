@@ -6448,5 +6448,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje na 'Piłeczki do tenisa stołowego', a kategoria 'Tenis stołowy' (ID: 5027) jest najbardziej szczegółową i precyzyjną, jaką można znaleźć w drzewie kategorii OLX.pl, będąc jednocześnie kategorią-liściem. Opis produktu potwierdza to dopasowanie."
+    },
+    {
+        "ID_Produktu": "41727",
+        "Nazwa_Produktu": "Mata-Dywanik do Rzutek MASTER z Dystansami - Czarno-Biały",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Dywaniki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata do gry w rzutki (dart), a kategoria \"Dart\" w drzewie \"Sport i Hobby > Sporty towarzyskie\" jest najbardziej szczegółową i precyzyjną kategorią liściową."
+    },
+    {
+        "ID_Produktu": "41803",
+        "Nazwa_Produktu": "Siatka do tenisa stołowego JOOLA WM ITTF",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka przeznaczona specjalnie do tenisa stołowego, co idealnie pasuje do kategorii 'Tenis stołowy' jako najbardziej szczegółowej i precyzyjnej."
+    },
+    {
+        "ID_Produktu": "41804",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego JOOLA Mega Carbon",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest rakietką przeznaczoną do tenisa stołowego, co w pełni odpowiada kategorii 'Tenis stołowy' w drzewie 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'."
+    },
+    {
+        "ID_Produktu": "41833",
+        "Nazwa_Produktu": "Sanki plastikowe Snow Star z oparciem - niebieskie",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Sanki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty zimowe > Sanki",
+        "Finalne_ID_AI": 1932,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na sanki. Kategoria 'Sanki' (ID: 1932) jest najbardziej szczegółową i idealnie pasującą kategorią-liściem w drzewie."
+    },
+    {
+        "ID_Produktu": "41834",
+        "Nazwa_Produktu": "Sanki plastikowe Snow Star z oparciem - różowe",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Sanki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty zimowe > Sanki",
+        "Finalne_ID_AI": 1932,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to \"Sanki\", które idealnie pasują do kategorii \"Sport i Hobby > Sporty zimowe > Sanki\". Opis potwierdza, że są to sanki do zabawy na śniegu."
+    },
+    {
+        "ID_Produktu": "41986",
+        "Nazwa_Produktu": "Plandeka ochronna na stół do tenisa stołowego JOOLA Cover",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to plandeka ochronna przeznaczona specjalnie na stół do tenisa stołowego. Kategoria 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy' jest najbardziej precyzyjną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "42085",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego JOOLA Magic ABS 72 szt. - pomarańczowe",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "99%",
+        "Uzasadnienie_AI": "Produkt to piłeczki przeznaczone do tenisa stołowego. Kategoria 'Tenis stołowy' jest najbardziej szczegółowa i trafna."
     }
 ]
