@@ -5228,5 +5228,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "15368",
+        "Nazwa_Produktu": "Drążek do podciągania SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to drążek do podciągania służący do ćwiczeń fitness i treningu siłowego, co bezpośrednio odpowiada kategorii 'Drążki i poręcze' w drzewie kategorii OLX."
     }
 ]
