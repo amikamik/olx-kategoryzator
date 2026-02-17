@@ -11508,5 +11508,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to przenośny promiennik gazowy montowany na butlę, przeznaczony do punktowego ogrzewania pomieszczeń roboczych, co idealnie wpisuje się w definicję kategorii 'Ogrzewanie przenośne'."
+    },
+    {
+        "ID_Produktu": "1003084",
+        "Nazwa_Produktu": "Wałek ślimakowy ślimak do wilka Profi Line HENDI 12 - Hendi 931257",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Maszyny rolnicze > Pozostałe maszyny rolnicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do mięsa",
+        "Finalne_ID_AI": 5048,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to część zamienna (wałek ślimakowy) do profesjonalnej maszynki do mięsa, określanej w branży jako 'wilk'. Marka Hendi jest czołowym dostawcą wyposażenia dla sektora HoReCa (gastronomii). Wybrana kategoria 'Maszyny do mięsa' w obrębie działu 'Gastronomia' jest najbardziej specyficznym miejscem dla urządzeń i komponentów służących do obróbki mięsa w warunkach profesjonalnych."
+    },
+    {
+        "ID_Produktu": "1003130",
+        "Nazwa_Produktu": "Pakowarka próżniowa do żywności listwowa Budget Line 310mm 110W - Hendi 975350",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Urządzenie marki Hendi, będącej profesjonalnym dostawcą wyposażenia dla gastronomii, zostało w opisie jednoznacznie określone jako sprzęt do użytku w małej gastronomii. Z tego względu kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej odpowiednia dla sprzętu o charakterze komercyjnym/półprofesjonalnym."
+    },
+    {
+        "ID_Produktu": "1004839",
+        "Nazwa_Produktu": "Kubeł kosz na odpady metalowy z blachy ocynkowanej odporny na wysokie temperatury na popiół 110L",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Zbiorniki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to metalowy kubeł na odpady (kosz na śmieci). Wybrana kategoria jest jedyną w drzewie kategorii OLX, która w nazwie wprost odnosi się do koszy na śmieci i pojemników na odpady w sekcji Dom i Ogród, co czyni ją najbardziej trafnym wyborem funkcjonalnym, mimo że jej nadrzędną kategorią są przybory kuchenne."
     }
 ]
