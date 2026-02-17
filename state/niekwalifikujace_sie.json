@@ -10928,5 +10928,115 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest profesjonalnym regałem magazynowym przeznaczonym do lokali gastronomicznych i magazynów, co najlepiej odpowiada kategorii Regały w sekcji Sklepy i magazyny w dziale Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1000958",
+        "Nazwa_Produktu": "Półka wisząca przestawna pojedyncza 80cm - Hendi 811719",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna półka gastronomiczna marki Hendi, wykonana ze stali nierdzewnej AISI 430. Ze względu na wyraźne przeznaczenie do profesjonalnych kuchni i specyfikację techniczną (stal przemysłowa, marka gastronomiczna), produkt należy umieścić w kategorii Firma i Przemysł > Gastronomia. Ponieważ w tej sekcji brak dedykowanej podkategorii dla mebli wiszących lub regałów, kategoria 'Pozostałe' w obrębie Gastronomii jest najbardziej precyzyjnym wyborem dla sprzętu o tym charakterze."
+    },
+    {
+        "ID_Produktu": "1000959",
+        "Nazwa_Produktu": "Półka wisząca przestawna pojedyncza 100cm - Hendi 811788",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Półki",
+        "Finalne_ID_AI": 4676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna półka ze stali nierdzewnej marki Hendi, przeznaczona do użytku komercyjnego w gastronomii. Wybrano kategorię 'Półki' w sekcji 'Firma i Przemysł' (wyposażenie sklepów i magazynów), ponieważ najlepiej oddaje ona charakter produktu jako profesjonalnego elementu składowania, w odróżnieniu od półek domowych."
+    },
+    {
+        "ID_Produktu": "1000960",
+        "Nazwa_Produktu": "Półka wisząca przestawna pojedyncza 120cm - Hendi 811795",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne wyposażenie ze stali nierdzewnej przeznaczone do profesjonalnych kuchni, a marka Hendi jest wiodącym producentem sprzętu dla branży HoReCa. Ze względu na przeznaczenie produktu (gastronomia) oraz profesjonalny charakter, kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej odpowiednia, przewyższając kategorię domową zaproponowaną w podpowiedzi."
+    },
+    {
+        "ID_Produktu": "1000990",
+        "Nazwa_Produktu": "Patelnia elektryczna do smażenia i pieczenia 40cm 1400W - Hendi 239506",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to multipatelnia elektryczna marki Hendi, która jest profesjonalnym producentem sprzętu dla gastronomii. Chociaż opis dopuszcza użytek domowy, produkt jest dedykowany profesjonalistom, co wskazuje na kategorię 'Patelnie gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1001032",
+        "Nazwa_Produktu": "Elektryczna kruszarka do lodu 12kg/h - Hendi 271520",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wybrana kategoria (Firma i Przemysł > Gastronomia > Pozostałe) jest najbardziej odpowiednia, ponieważ produkt marki Hendi to profesjonalne urządzenie gastronomiczne przeznaczone głównie do użytku w barach i restauracjach. Chociaż opis wspomina o możliwości użytku domowego, parametry wydajnościowe i marka jednoznacznie wskazują na sprzęt profesjonalny."
+    },
+    {
+        "ID_Produktu": "1001790",
+        "Nazwa_Produktu": "Półka ścienna stalowa wisząca podwójna z regulacją 80cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna półka ścienna wykonana ze stali nierdzewnej, przeznaczona do użytku w gastronomii, laboratoriach i magazynach (atest Sanepid, marka Royal Catering), co jednoznacznie wskazuje na kategorię wyposażenia sklepów i magazynów w dziale Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1001799",
+        "Nazwa_Produktu": "Półka ścienna wisząca stalowa nierdzewna pojedyncza 90cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Półki",
+        "Finalne_ID_AI": 4676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna półka ze stali nierdzewnej marki Royal Catering, dedykowana do zastosowań w gastronomii, laboratoriach i warsztatach. Ze względu na materiał wykonania oraz profesjonalne przeznaczenie, najlepiej pasuje do kategorii Firma i Przemysł > Sklepy i magazyny > Półki, która obejmuje wyposażenie profesjonalne i magazynowe."
+    },
+    {
+        "ID_Produktu": "1001800",
+        "Nazwa_Produktu": "Półka ścienna wisząca stalowa nierdzewna pojedyncza 120 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna półka ze stali nierdzewnej marki Royal Catering, przeznaczona do użytku w gastronomii, laboratoriach i magazynach. Wybrana kategoria w sekcji 'Firma i Przemysł' najlepiej odpowiada specyfikacji technicznej i przeznaczeniu przedmiotu jako wyposażenia profesjonalnego."
+    },
+    {
+        "ID_Produktu": "1001801",
+        "Nazwa_Produktu": "Półka ścienna wisząca stalowa nierdzewna pojedyncza 150cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Półki",
+        "Finalne_ID_AI": 4676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna półka ze stali nierdzewnej marki Royal Catering, przeznaczona do użytku komercyjnego (gastronomia, laboratoria, warsztaty). Z tego względu najlepiej pasuje do działu Firma i Przemysł, a konkretnie do kategorii Półki w sekcji Sklepy i magazyny, która jest bardziej specyficzna dla wyposażenia profesjonalnego niż ogólna kategoria mebli domowych."
+    },
+    {
+        "ID_Produktu": "1001803",
+        "Nazwa_Produktu": "Stołek taboret okrągły ze stali nierdzewnej do kuchni",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalne_ID_AI": 1947,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to klasyczny taboret (stołek), a wybrana kategoria 1947 (Taborety i hokery) jest najbardziej specyficznym dopasowaniem w strukturze meblowej dla tego typu siedziska, mimo jego profesjonalnego charakteru gastronomicznego."
+    },
+    {
+        "ID_Produktu": "1001805",
+        "Nazwa_Produktu": "Domowa wydajna maszyna do waty cukrowej 420W - 60 sek.",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do waty cukrowej",
+        "Finalne_ID_AI": 5050,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wybrana kategoria jest najbardziej precyzyjnym dopasowaniem (liść: Maszyny do waty cukrowej). Mimo że produkt jest opisany jako 'domowy', drzewo kategorii OLX oferuje dedykowaną podkategorię dla tego konkretnego typu urządzenia w sekcji Gastronomia, co czyni ją bardziej specyficzną niż ogólne 'Roboty kuchenne'."
     }
 ]
