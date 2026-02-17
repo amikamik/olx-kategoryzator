@@ -11328,5 +11328,55 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002088",
+        "Nazwa_Produktu": "Gałkownica do nakładania lodów STÖCKEL 1/16 śr. 59mm stalowa - STOCKEL 755044",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gałkownica do lodów, która jest przyborem kuchennym służącym do porcjowania i serwowania deserów, co najlepiej klasyfikuje ją w podkategorii akcesoriów cukierniczych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gałkownica do nakładania lodów stöckel 1/16 śr. 59mm stalowa -",
+                "description": "Numer producenta: 755044 Gałkownica do nakładania lodów STCKEL wykonana została z wysokiej jakości stali nierdzewnej. Akcesorium można myć w zmywarce bez obaw o uszkodzenie. Produkt dopuszczony do kontaktu z żywnością. Parametry: - średnica: 59 mm - pojemność: 1/16 l W zestawie: - gałkownica do nakładania lodów\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 268.75,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/755044-galkownica-do-nakladania-lodow-stockel-1-16-sr-59mm-stalowa-stockel-755044-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]
