@@ -5208,5 +5208,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to zestaw lotek (rzutek) przeznaczonych do gry w darta, co jednoznacznie wskazuje na kategorię liścia 'Dart' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "14930",
+        "Nazwa_Produktu": "Ławka Skośna do brzuszków Treningowa",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalne_ID_AI": 4338,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest ławką treningową przeznaczoną do ćwiczeń siłowych (brzuszków). Najbardziej precyzyjną kategorią jest 'Ławki' w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy', co bezpośrednio odpowiada nazwie i opisowi produktu."
+    },
+    {
+        "ID_Produktu": "15305",
+        "Nazwa_Produktu": "Hantla MASTER 18 kg Kettlebell",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
