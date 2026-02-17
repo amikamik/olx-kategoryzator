@@ -12066,5 +12066,73 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1009966",
+        "Nazwa_Produktu": "Pojemnik kubeł kosz na odpady i śmieci Europlast Austria - brązowy 120L BIO + RUSZT",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalne_ID_AI": 2122,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny pojemnik na odpady komunalne (BIO). Kategoria 'Kosze na śmieci i pojemniki do segregacji' (ID 2122) jest najbardziej dopasowaną i szczegółową kategorią dla wszelkiego rodzaju pojemników na odpady w udostępnionym drzewie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pojemnik kubeł kosz na odpady i śmieci europlast austria - brązowy",
+                "description": "Kod producenta: 0004-5BIO/RM Atestowany pojemnik, kubeł na odpady komunalne wyprodukowany przez europejskiego lidera, austriacką firmę EUROPLAST . Kosz na śmieci wykonany został z wysokiej jakości ekologicznych materiałów . Spełni swoje zadania w najtrudniejszych warunkach podczas codziennej intensywnej eksploatacji. Poprzez intensywną wentylację znacznie zmniejsza się masa i objętość odpadów . Jednocześnie podczas tego procesu zmienia się wartość PH, co gwarantuje wyraźne zmniejszenie zapachu . Kubeł na odpady pochodzenia spożywczego posiada perforację ścian bocznych dzięki czemu biomasa bardzo szybko wysycha. Na dnie pojemnika jest zainstalowany otwierany ruszt z tworzywa , który umożliwia oddzielenie płynnej i stałej frakcji odpadów . Ten typ rusztu umożliwia łatwe czyszczenie pojemnika pod rusztem. Najważniejsze zalety: - odporny na działanie promieni UV - odporny na działanie niskich i wysokich temperatur (nie jest przeznaczony do składowania gorącego popiołu) - gładka powierzchnia uniemożliwia klejenie się odpadów. - odporny na warunki atmosferyczne. - wytwarzany z materiałów nadających się do ponownego przerobu - nie zawiera kadmu - wersja BIO posiada wentylację ściany bocznej pojemnika po obu stronach, miejsce na zamontowanie chip-a oraz ruszt na dnie do oddzielenia płynnej i stałej frakcji - estetyczny wygląd - koła z pełnej gumowej opony, osadzonej na stalowej osi Specyfikacja Waga (kg) - 12 Pojemność (L) - 120 Rozmiary (mm) - 480 x 540 x 950 Kolor - brązowy Miejsce na zamontowanie chip-a transpondera Zaczep / obrzeże umożliwia swoją konstrukcją opróżnianie przy użyciu grzebieniowego, obrotowego, bramowego lub hakowego mechanizmu załadowczego pojazdów przeznaczonych do odbioru odpadów Model rekomendowany przez GOAP (Gospodarka Odpadami Aglomeracji Poznańskiej) Atesty: - DIN EN 840-1, EN 840-5, EN 840-6 - RAL-GZ 951/1 - atest PZH W zestawie: - kubeł na odpady BIO 120L brązowy - gumowe koła na stalowej osi\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Europlast GmbH\nAdres: Schmelz 83, 9772, Dellach im Drautal, Austria\nEmail: verkauf(at)europlast.at\nTelefon: +43(0)47148228\n----------------------------------------",
+                "category_id": 2122,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 259.63,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-5-bio-r-meva-pojemnik-kubel-na-odpady-i-smieci-atesty-europlast-austria-brazowy-120l-bio-ruszt-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/kubel-na-bio-odpady-i-smieci-spozywcze-atesty-europlast-austria-brazowy-naklejka.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-2-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-1-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-5BIO-RM-5.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-5BIO-RM-6.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/0004-certyfikaty-atesty-do-pojemnikow-kubelow-na-odpady-i-smieci-europlast-austria-iso-PZH.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]

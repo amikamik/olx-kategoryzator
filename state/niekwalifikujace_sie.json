@@ -12248,5 +12248,255 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to detektor metalu i przewodów elektrycznych, który w kontekście kategoryzacji OLX najlepiej pasuje do przyrządów mierniczych w sekcji Narzędzia (Dom i Ogród)."
+    },
+    {
+        "ID_Produktu": "1009674",
+        "Nazwa_Produktu": "Regał magazynowy druciany ażurowy kolor szary 150x55x35cm do 150kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Regały",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalne_ID_AI": 4677,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako regał magazynowy, a marka Royal Catering specjalizuje się w wyposażeniu profesjonalnym. Choć nośność jest relatywnie niska, nazewnictwo i przeznaczenie do 'składowania towarów' jednoznacznie wskazują na kategorię Regały w sekcji Sklepy i magazyny."
+    },
+    {
+        "ID_Produktu": "1009693",
+        "Nazwa_Produktu": "Waga platformowa magazynowa licząca 30x40cm zasilacz + akumulator 100kg / 10g",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to waga platformowa magazynowa o udźwigu 100 kg, przeznaczona do użytku profesjonalnego w sklepach i magazynach, co idealnie odpowiada ścieżce Firma i Przemysł > Sklepy i magazyny > Wagi."
+    },
+    {
+        "ID_Produktu": "1009695",
+        "Nazwa_Produktu": "Waga platformowa magazynowa licząca 40x50cm zasilacz + akumulator 300kg / 50g",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga platformowa o zastosowaniu przemysłowym i magazynowym, co jednoznacznie wskazuje na kategorię Firma i Przemysł > Sklepy i magazyny > Wagi."
+    },
+    {
+        "ID_Produktu": "1009696",
+        "Nazwa_Produktu": "Waga platformowa magazynowa licząca składana 30x40cm zasilacz + akumulator 100kg / 10g",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga platformowa o dużym udźwigu (100 kg), z funkcjami liczenia sztuk i zapamiętywania cen, co klasyfikuje ją jako wyposażenie magazynowe i sklepowe w kategorii Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1009703",
+        "Nazwa_Produktu": "Waga platformowa magazynowa licząca składana 40x50cm zasilacz + akumulator 300kg / 50g",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga platformowa o dużym udźwigu (300 kg) przeznaczona do użytku w logistyce, magazynach i handlu, co precyzyjnie odpowiada kategorii Firma i Przemysł > Sklepy i magazyny > Wagi."
+    },
+    {
+        "ID_Produktu": "1009719",
+        "Nazwa_Produktu": "Waga sklepowa licząca sztuki 336x238mm zasilacz + akumulator 40kg / 2g - biała",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Pozostała elektronika",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga sklepowa z funkcją obliczania ceny i liczenia sztuk, co klasyfikuje ją jako wyposażenie dla firm. Wybrana kategoria 'Wagi' w sekcji 'Sklepy i magazyny' jest najbardziej precyzyjnym miejscem dla tego typu urządzeń."
+    },
+    {
+        "ID_Produktu": "1009722",
+        "Nazwa_Produktu": "Wciągarka wyciągarka łańcuchowa wciągnik łańcuchowy 2T / 3m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Wciągarki",
+        "Finalne_ID_AI": 4792,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny wciągnik łańcuchowy o udźwigu 2 ton. Najbardziej precyzyjną kategorią odpowiadającą typowi urządzenia (wciągarka) oraz jego przemysłowemu i budowlanemu zastosowaniu jest kategoria 'Wciągarki' w sekcji 'Firma i Przemysł > Maszyny i urządzenia > Budownictwo'."
+    },
+    {
+        "ID_Produktu": "1009723",
+        "Nazwa_Produktu": "Wciągarka wyciągarka łańcuchowa wciągnik łańcuchowy 1T / 3m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Wciągarki",
+        "Finalne_ID_AI": 4792,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna wciągarka łańcuchowa o udźwigu 1 tony (1T), co kwalifikuje ją jako specjalistyczny sprzęt dźwigowy. Najbardziej trafną i szczegółową kategorią dla tego typu urządzenia jest 'Wciągarki' w sekcji 'Budownictwo' wewnątrz działu 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009726",
+        "Nazwa_Produktu": "Wciągarka wyciągarka łańcuchowa wciągnik łańcuchowy 1,5 T / 2 m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Wciągarki",
+        "Finalne_ID_AI": 4792,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna wciągarka łańcuchowa (wciągnik) o udźwigu 1,5 tony, przeznaczona do prac przemysłowych, magazynowych i budowlanych. Najbardziej precyzyjną kategorią jest 'Wciągarki' w dziale 'Maszyny i urządzenia' (sekcja Budownictwo) w kategorii 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009728",
+        "Nazwa_Produktu": "Wciągarka wyciągarka łańcuchowa wciągnik łańcuchowy 750kg / 2m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł > Wciągarki",
+        "Finalne_ID_AI": 4865,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna wciągarka łańcuchowa o udźwigu 750 kg, przeznaczona do zastosowań przemysłowych, warsztatowych i magazynowych. Zgodnie z drzewem kategorii OLX, najbardziej precyzyjnym wyborem dla tego typu urządzenia dźwigowego jest kategoria 'Wciągarki' (ID: 4865) znajdująca się w sekcji 'Firma i Przemysł > Maszyny i urządzenia > Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009735",
+        "Nazwa_Produktu": "Zestaw naprawczy PDR do usuwania wyciągania wgnieceń w karoserii PROFI - 70 elementów",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym zestawem narzędzi PDR przeznaczonym do specjalistycznych napraw blacharskich. Opis wyraźnie wskazuje na zastosowanie w warsztatach mechanicznych i blacharskich, co czyni kategorię 'Narzędzia warsztatowe' w sekcji 'Firma i Przemysł' najbardziej odpowiednią."
+    },
+    {
+        "ID_Produktu": "1009736",
+        "Nazwa_Produktu": "Zestaw naprawczy PDR do usuwania wyciągania wgnieceń w karoserii PROFI - 33 elementów",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny zestaw narzędzi PDR służący do napraw blacharskich. Opis wprost wskazuje, że jest to podstawowy element wyposażenia warsztatów blacharskich, co najlepiej kwalifikuje go do kategorii 'Narzędzia warsztatowe' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009737",
+        "Nazwa_Produktu": "Zestaw naprawczy PDR do usuwania wyciągania wgnieceń w karoserii PROFI - 90 elementów",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny zestaw narzędzi do usuwania wgnieceń (PDR), który w opisie wprost określany jest jako wyposażenie warsztatów blacharskich i mechanicznych. Kategoria 'Narzędzia warsztatowe' (Firma i Przemysł > Wyposażenie warsztatów) jest najbardziej precyzyjnym dopasowaniem dla tego typu specjalistycznego sprzętu naprawczego."
+    },
+    {
+        "ID_Produktu": "1009743",
+        "Nazwa_Produktu": "Stojak rolkowy podstawa rolkowa do dłużyc szer. 40 cm do 80 kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów",
+        "Finalne_ID_AI": 5164,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Stojak rolkowy to typowy element wyposażenia warsztatowego służący do podawania i podtrzymywania długich materiałów. Marka MSW oraz opis wskazują na zastosowanie profesjonalne/przemysłowe, co najlepiej kwalifikuje produkt do kategorii Firma i Przemysł > Wyposażenie warsztatów."
+    },
+    {
+        "ID_Produktu": "1009748",
+        "Nazwa_Produktu": "Wózek rolki do przemieszczania pojazdów samochodów - ZESTAW 2 szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Samochody i pojazdy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne rolki transportowe (wózki) do przemieszczania samochodów, przeznaczone głównie do użytku w warsztatach, serwisach oraz pomocach drogowych, co jednoznacznie klasyfikuje go jako narzędzie warsztatowe w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1009754",
+        "Nazwa_Produktu": "Belka do wyciągania podwieszania silnika do 500 kg ZESTAW",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne narzędzie mechaniczne (belka do podwieszania silnika) przeznaczone do profesjonalnego użytku w warsztatach i serwisach samochodowych, co kwalifikuje go do kategorii 'Narzędzia warsztatowe' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009601",
+        "Nazwa_Produktu": "Patelnia emaliowana go grilla gazowego PELVIS / RASCAL 58x46x5cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna patelnia o wymiarach przemysłowych (58x46cm) marki MEVA, przeznaczona do użytku w gastronomii oraz na dedykowanych grillach gazowych. Ze względu na gabaryty, wagę (ponad 7 kg) oraz specyfikację producenta (model GD15001), najlepiej pasuje do kategorii 'Patelnie gastronomiczne' w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1009602",
+        "Nazwa_Produktu": "Ruszt do grilla gazowego PELVIS / RASCAL ZESTAW 3 - częściowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów (ruszt, tacka, pokrywa) do grilla gazowego. Najbardziej specyficzną i właściwą kategorią dla urządzeń do grillowania oraz ich części zamiennych i wyposażenia w strukturze OLX jest kategoria 'Grill' w dziale 'Ogród'."
+    },
+    {
+        "ID_Produktu": "1009823",
+        "Nazwa_Produktu": "Grzałka do naleśnikarki śr 40 cm Royal Catering 3000W 230V",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to grzałka elektryczna będąca częścią zamienną do profesjonalnej maszyny gastronomicznej marki Royal Catering. Marka ta produkuje sprzęt przemysłowy, a nie domowy, dlatego kategoria 'Części do maszyn i urządzeń' w sekcji 'Firma i Przemysł' jest najbardziej trafnym wyborem dla technicznego komponentu urządzenia profesjonalnego."
+    },
+    {
+        "ID_Produktu": "1009953",
+        "Nazwa_Produktu": "Taboret gazowy przemysłowy 3 - palnikowy TRIGLAV 9kW",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalne_ID_AI": 5047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest taboretem gazowym przeznaczonym do użytku przemysłowego w gastronomii, co bezpośrednio odpowiada kategorii Kuchnie gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1010154",
+        "Nazwa_Produktu": "Lampa do podgrzewania potraw - wisząca stożkowa srebrna 250W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Podgrzewacze",
+        "Finalne_ID_AI": 5059,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne urządzenie marki Hendi służące do podgrzewania żywności przy użyciu podczerwieni, zaprojektowane dla branży HoReCa. Najlepiej pasuje do kategorii 'Podgrzewacze' w sekcji 'Gastronomia', podlegającej pod 'Firma i Przemysł', ponieważ jego funkcją jest utrzymywanie temperatury potraw w gastronomii, a nie oświetlenie domowe."
+    },
+    {
+        "ID_Produktu": "1010155",
+        "Nazwa_Produktu": "Lampa do podgrzewania potraw - wisząca stożkowa miedziana 250W",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Podgrzewacze",
+        "Finalne_ID_AI": 5059,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym urządzeniem marki Hendi przeznaczonym dla branży HoReCa (gastronomia). Jego główną funkcją nie jest oświetlenie, lecz podtrzymywanie temperatury potraw za pomocą promiennika podczerwieni, dlatego kategoria 'Podgrzewacze' w sekcji 'Gastronomia' (Firma i Przemysł) jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1010156",
+        "Nazwa_Produktu": "Lampa do podgrzewania potraw - wisząca cylindryczna stożkowa srebrna 250W",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia",
+        "Finalne_ID_AI": 5035,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne urządzenie marki Hendi dedykowane branży HoReCa (gastronomia). Służy do utrzymywania temperatury potraw, co klasyfikuje je jako podgrzewacz gastronomiczny. Wybrana kategoria znajduje się w sekcji Firma i Przemysł > Gastronomia."
+    },
+    {
+        "ID_Produktu": "1010157",
+        "Nazwa_Produktu": "Lampa do podgrzewania potraw - wisząca cylindryczna stożkowa miedziana 250W",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Podgrzewacze",
+        "Finalne_ID_AI": 5059,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalne urządzenie dla branży HoReCa, służące do utrzymywania temperatury jedzenia, co klasyfikuje go do kategorii Firma i Przemysł > Gastronomia > Podgrzewacze."
+    },
+    {
+        "ID_Produktu": "1010209",
+        "Nazwa_Produktu": "Prysznic do mycia komory pieca konwekcyjnego uniwersalny",
+        "Poczatkowa_Sciezka_OLX": "Moda > Bielizna damska > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym akcesorium do czyszczenia urządzeń gastronomicznych (prysznic gastronomiczny) marki Hendi. Ze względu na swoje przeznaczenie do użytku w profesjonalnych kuchniach, piecach konwekcyjnych oraz przy stołach roboczych, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
     }
 ]
