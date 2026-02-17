@@ -12498,5 +12498,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest profesjonalnym akcesorium do czyszczenia urządzeń gastronomicznych (prysznic gastronomiczny) marki Hendi. Ze względu na swoje przeznaczenie do użytku w profesjonalnych kuchniach, piecach konwekcyjnych oraz przy stołach roboczych, najlepiej pasuje do kategorii Firma i Przemysł > Gastronomia > Pozostałe."
+    },
+    {
+        "ID_Produktu": "1010301",
+        "Nazwa_Produktu": "Wózek podstawa na kółkach do kontenera pojemnika na odpadki kuchenne okrągłego 120L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Szafki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna podstawa jezdna (wózek) przeznaczona do dużych 120-litrowych pojemników na odpady marki Amer Box, typowa dla wyposażenia profesjonalnych kuchni. Najdokładniejszą kategorią dla tego typu osprzętu mobilnego w kontekście gastronomicznym jest 'Wózki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1010351",
+        "Nazwa_Produktu": "Grzejnik piecyk promiennik gazowy ARDENT na butlę gazową PB LPG",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Ogrzewanie przenośne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Ogrzewanie przenośne",
+        "Finalne_ID_AI": 1685,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to promiennik gazowy (tzw. słoneczko) montowany bezpośrednio na butlę gazową, co jednoznacznie klasyfikuje go jako urządzenie do ogrzewania przenośnego."
+    },
+    {
+        "ID_Produktu": "1010506",
+        "Nazwa_Produktu": "Taca do serwowania z uchwytami stalowa piętrowalna GN 1/1",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym naczyniem w standardzie Gastronorm (GN 1/1) marki Hendi, przeznaczonym do użytku w branży HoReCa (hotele, restauracje). Specyfikacja techniczna GN 1/1 oraz przeznaczenie komercyjne jednoznacznie wskazują na kategorię profesjonalnych pojemników gastronomicznych w sekcji Firma i Przemysł."
     }
 ]
