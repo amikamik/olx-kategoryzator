@@ -11378,5 +11378,512 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1003228",
+        "Nazwa_Produktu": "Blacha piekarnicza cukiernicza wypiekowa GN1/1 teflonowa 4 ranty - Hendi 808429",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalne_ID_AI": 2116,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to blacha wypiekowa, co bezpośrednio odpowiada nazwie kategorii 'Blachy i formy do pieczenia'. Wybrana kategoria (ID: 2116) jest kategorią-liściem na czwartym poziomie głębokości drzewa, co czyni ją bardziej szczegółową niż alternatywy w dziale gastronomii.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Blacha piekarnicza cukiernicza wypiekowa gn1/1 teflonowa 4 ranty -",
+                "description": "Numer producenta: Hendi 808429 Blacha wypiekowa gastronomiczna gładka wyposażona w 4 ranty wykonana z aluminium, z pokryciem teflonowym można używać w piekarnikach Parametry: wymiary zewnętrzne: 530x325x(H)10mm W zestawie: blacha\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2116,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 232.97,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/808429-blacha-cukiernicza-wypiekowa-piekarnicza-teflonowa-4-ranty-gn-1-1.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1003301",
+        "Nazwa_Produktu": "Deska z uchwytem do serwowania pizzy śr. 660mm - Hendi 506387",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Deski do krojenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Deski do krojenia",
+        "Finalne_ID_AI": 2119,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to deska do serwowania pizzy, a w drzewie kategorii OLX deski kuchenne (zarówno do krojenia, jak i serwowania wykonane z drewna lub laminatów) są przypisane do kategorii 'Deski do krojenia' w sekcji 'Przybory kuchenne'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Deska z uchwytem do serwowania pizzy śr. 660mm - hendi 506387",
+                "description": "Numer producenta: 506387 Deska do serwowania pizzy z uchwytem wykonana została ze specjalnego, opatentowanego laminatu drewnianego, zapewniając jej odporność termiczną do 350deg;C. Ciemnienie produktu w trakcie użytkowania jest naturalnym procesem. Parametry: średnica: 660 mm wysokość: 785 mm W zestawie: deska drewniana\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2119,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 266.65,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/506387-deska-z-uchwytem-do-serwowania-pizzy-sr-660mm-hendi-506387-hurtownia-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/506318-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/506318-2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1005817",
+        "Nazwa_Produktu": "Talerz głęboki do zupy OPTIMA biała porcelana śr. 220mm zestaw 12szt. - Hendi 770863",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Talerze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Talerze",
+        "Finalne_ID_AI": 2161,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw 12 sztuk głębokich talerzy porcelanowych, co wprost odpowiada kategorii 'Talerze' (ID: 2161), która jest liściem w ścieżce: Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Talerz głęboki do zupy optima biała porcelana śr. 220mm zestaw",
+                "description": "Numer producenta: 770863 Talerz głęboki z linii Optima o średnicy 220 mm marki Hendi wyróżnia ponadczasowa biel, która w połączeniu z minimalizmem, jaki prezentuje to naczynie, idealnie wpasuje się do każdej aranżacji. Cechy produktu: Wysokogatunkowa, biała porcelana hotelowa Wzmocnione brzegi, solidna jakość szkliwa Najwyższa odporność na zadrapania, obtłuczenia i szok termiczny Parametry: średnica: śr.220mm W zestawie: talerze głębokie 12szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2161,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 259.63,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770863-talerz-gleboki-do-zupy-optima-biala-porcelana-sr-220mm-zestaw-12szt-hendi-770863.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770863-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770849-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1005827",
+        "Nazwa_Produktu": "Talerz płytki OPTIMA biała porcelana śr. 210mm zestaw 12szt. - Hendi 770856",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Talerze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Talerze",
+        "Finalne_ID_AI": 2161,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw talerzy obiadowych (płytkich) wykonanych z porcelany, co jednoznacznie odpowiada kategorii liściowi 'Talerze' w drzewie kategorii OLX.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Talerz płytki optima biała porcelana śr. 210mm zestaw 12szt. - hendi",
+                "description": "Numer producenta: 770856 Talerz płytki z linii Optima o średnicy 210 mm marki Hendi wyróżnia ponadczasowa biel, która w połączeniu z minimalizmem, jaki prezentuje to naczynie, idealnie wpasuje się do każdej aranżacji. Cechy produktu: Wysokogatunkowa, biała porcelana hotelowa Wzmocnione brzegi, solidna jakość szkliwa Najwyższa odporność na zadrapania, obtłuczenia i szok termiczny Parametry: średnica: 210mm W zestawie: talerze płytkie 12szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2161,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 259.63,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770856-talerz-plytki-optima-biala-porcelana-sr-210mm-zestaw-12szt-hendi-770856.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770863-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770849-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1005828",
+        "Nazwa_Produktu": "Talerz płytki OPTIMA biała porcelana śr. 240mm zestaw 12szt. - Hendi 770870",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Talerze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Talerze",
+        "Finalne_ID_AI": 2161,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest zestawem talerzy płytkich wykonanych z porcelany. Najbardziej precyzyjną kategorią w drzewie OLX dla tego typu artykułów jest kategoria 'Talerze' (ID: 2161), znajdująca się w ścieżce Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Talerz płytki optima biała porcelana śr. 240mm zestaw 12szt. - hendi",
+                "description": "Numer producenta: 770870 Talerz płytki z linii Optima o średnicy 240 mm marki Hendi wyróżnia ponadczasowa biel, która w połączeniu z minimalizmem, jaki prezentuje to naczynie, idealnie wpasuje się do każdej aranżacji. Sprawdzi się szczególnie w hotelach, restauracjach czy na stołówkach. Cechy produktu: - Wysokogatunkowa, biała porcelana hotelowa - Wzmocnione brzegi, solidna jakość szkliwa - Najwyższa odporność na zadrapania, obtłuczenia i szok termiczny Parametry: - Seria: Optima - Średnica: śr. 240mm W zestawie: - Talerze płytkie 12szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2161,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 291.91,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770870-talerz-plytki-optima-biala-porcelana-sr-240mm-zestaw-12szt-hendi-770870.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770863-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770849-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1005829",
+        "Nazwa_Produktu": "Talerz płytki OPTIMA biała porcelana śr. 270mm zestaw 12szt. - Hendi 770887",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Talerze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Talerze",
+        "Finalne_ID_AI": 2161,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw 12 sztuk talerzy płytkich wykonanych z białej porcelany, co idealnie odpowiada kategorii liściastej 'Talerze' w sekcji 'Zastawa stołowa'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Talerz płytki optima biała porcelana śr. 270mm zestaw 12szt. - hendi",
+                "description": "Numer producenta: 770887 Talerz płytki z linii Optima o średnicy 270 mm marki Hendi wyróżnia ponadczasowa biel, która w połączeniu z minimalizmem, jaki prezentuje to naczynie, idealnie wpasuje się do każdej aranżacji. Cechy produktu: Wysokogatunkowa, biała porcelana hotelowa Wzmocnione brzegi, solidna jakość szkliwa Najwyższa odporność na zadrapania, obtłuczenia i szok termiczny Parametry: średnica: śr. 270mm W zestawie: talerze płytkie 12szt.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2161,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 356.47,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770887-talerz-plytki-optima-biala-porcelana-sr-270mm-zestaw-12szt-hendi-770887.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770863-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/770849-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1005860",
+        "Nazwa_Produktu": "Ekskluzywny termos dzbanek termiczny stalowy do kawy i herbaty 0.6L - Hendi 445815",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalne_ID_AI": 2137,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dzbanek termiczny (termos) przeznaczony do serwowania napojów w domu, biurze lub gastronomii. Kategoria 'Termosy i kubki termiczne' w sekcji przyborów kuchennych jest najbardziej precyzyjnym dopasowaniem dla tego przedmiotu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Ekskluzywny termos dzbanek termiczny stalowy do kawy i herbaty 0.6l",
+                "description": "Numer producenta: 445815 Ekskluzywny termos doskonale sprawdzi się na konferencjach, w punktach gastronomicznych, a nawet w domowym zaciszu. Wykonany został z najwyżej jakości materiałów, co sprawia, że wyróżnia się spośród innych termosów. Cechy produktu: - Podwójne ścianki wykonane ze stali nierdzewnej - Jednolita struktura próżni - Pokrywa, przycisk, dzióbek i uchwyt z metalu chromowanego - Doskonałe właściwości izolacyjne - Wykonany ze stali nierdzewnej - Można myć w zmywarkach Parametry: - średnica: 120mm - wysokość: 168mm - pojemność: 0,6l W zestawie: - Termos\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2137,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 241.39,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445815-ekskluzywny-termos-dzbanek-termiczny-stalowy-do-kawy-i-herbaty-06l-hendi-445815.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445808-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445808-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445808-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1005861",
+        "Nazwa_Produktu": "Ekskluzywny termos dzbanek termiczny stalowy do kawy i herbaty 1L - Hendi 445822",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalne_ID_AI": 2137,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest dzbankiem termicznym (termosem), co idealnie odpowiada specyfikacji kategorii 'Termosy i kubki termiczne' w sekcji wyposażenia wnętrz i przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Ekskluzywny termos dzbanek termiczny stalowy do kawy i herbaty 1l -",
+                "description": "Numer producenta: 445822 Ekskluzywny termos doskonale sprawdzi się na konferencjach, w punktach gastronomicznych, a nawet w domowym zaciszu. Wykonany został z najwyżej jakości materiałów, co sprawia, że wyróżnia się spośród innych termosów. Cechy produktu: - Podwójne ścianki wykonane ze stali nierdzewnej - Jednolita struktura próżni - Pokrywa, przycisk, dzióbek i uchwyt z metalu chromowanego - Doskonałe właściwości izolacyjne - Wykonany ze stali nierdzewnej - Można myć w zmywarkach Parametry: - średnica: 136mm - wysokość: 188mm - pojemność: 1l W zestawie: - Termos\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2137,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 268.75,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445822-ekskluzywny-termos-dzbanek-termiczny-stalowy-do-kawy-i-herbaty-1l-hendi-445822.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445808-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445808-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445808-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image, Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1005862",
+        "Nazwa_Produktu": "Ekskluzywny termos dzbanek termiczny stalowy do kawy i herbaty 1.5L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalne_ID_AI": 2137,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest dzbankiem termicznym (termosem), a kategoria 'Termosy i kubki termiczne' w sekcji 'Dom i Ogród' jest najbardziej precyzyjną kategorią-liściem dla tego typu przedmiotów.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Ekskluzywny termos dzbanek termiczny stalowy do kawy i herbaty 1.5l",
+                "description": "Kod producenta: 445839 Ekskluzywny termos marki Fine Dine doskonale sprawdzi się na konferencjach, w punktach gastronomicznych, a nawet w domowym zaciszu. Wykonany został z najwyżej jakości materiałów, co sprawia, że wyróżnia się spośród innych termosów. Cechy produktu: - Podwójne ścianki ze stali nierdzewnej, - Jednolita struktura próżni, - Pokrywa, przycisk, dzióbek i uchwyt z metalu chromowanego, - Doskonałe właściwości izolacyjne, - Można myć w zmywarkach. Parametry techniczne: - Nr katalogowy - 445839 - Stan artykułu - Nowy - Marka - Fine Dine - Materiały - Stal nierdzewna 18/10 - Maksymalna objętość (L) - 1.5 - Średnica (mm) - 136 - Wysokość (mm) - 258 - Waga (kg) - 0.9 W zestawie: - Termos\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2137,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 282.09,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445839-ekskluzywny-termos-dzbanek-termiczny-stalowy-do-kawy-i-herbaty-15l-hendi-445839.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445808-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445808-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/445808-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image, Could not fetch image"
+                }
+            }
+        }
     }
 ]
