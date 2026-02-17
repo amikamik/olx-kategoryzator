@@ -11998,5 +11998,255 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to profesjonalny wózek cateringowy wykonany ze stali nierdzewnej, przeznaczony dla branży HoReCa (restauracje, hotele), co czyni kategorię 'Wózki gastronomiczne' w sekcji 'Firma i Przemysł' najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1007433",
+        "Nazwa_Produktu": "Podgrzewacz do potraw na 3 pojemniki elektryczny 400W Royal Catering",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Podgrzewacze",
+        "Finalne_ID_AI": 5059,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny elektryczny podgrzewacz do potraw (bemar/chafing dish) marki Royal Catering, przeznaczony do użytku komercyjnego w barach, bufetach i cateringu, co klasyfikuje go bezpośrednio w kategorii Firma i Przemysł > Gastronomia > Podgrzewacze."
+    },
+    {
+        "ID_Produktu": "1007455",
+        "Nazwa_Produktu": "Taboret stołek hoker kosmetyczny obrotowy na kółkach Physa AVERSA czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Taborety kosmetyczne",
+        "Finalne_ID_AI": 5109,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie zdefiniowany jako profesjonalny taboret kosmetyczny marki Physa, przeznaczony do branży wellness i salonów urody. Najbardziej precyzyjną kategorią dla wyposażenia profesjonalnego tego typu jest Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Taborety kosmetyczne."
+    },
+    {
+        "ID_Produktu": "1007640",
+        "Nazwa_Produktu": "Stołek taboret obrotowy roboczy do pracy na stabilnej podstawie bez kółek",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalne_ID_AI": 1947,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest klasyfikowany jako taboret (stołek obrotowy). W strukturze kategorii OLX najbardziej precyzyjnym dopasowaniem dla tego rodzaju mebla, nawet o charakterze roboczym czy warsztatowym, jest kategoria 'Taborety i hokery' w sekcji Meble."
+    },
+    {
+        "ID_Produktu": "1007641",
+        "Nazwa_Produktu": "Stołek taboret obrotowy warsztatowy na stabilnej podstawie bez kółek",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalne_ID_AI": 1947,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stołek/taboret obrotowy. Najbardziej precyzyjną kategorią opisującą typ tego przedmiotu w drzewie kategorii jest 'Taborety i hokery' w sekcji Meble, niezależnie od jego technicznego przeznaczenia warsztatowego."
+    },
+    {
+        "ID_Produktu": "1007676",
+        "Nazwa_Produktu": "Tuba rura szklana do lampy gazowej grzejnika PIRAMIDA",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Grzejniki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Pozostałe Ogrzewanie",
+        "Finalne_ID_AI": 1689,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest częścią zamienną (szklaną tubą) do gazowego promiennika tarasowego (lampy grzewczej). Ponieważ w dziale 'Ogrzewanie' nie ma specyficznej kategorii dla części zamiennych do grzejników przenośnych lub tarasowych, kategoria 'Pozostałe Ogrzewanie' jest najbardziej odpowiednia dla tego typu komponentu."
+    },
+    {
+        "ID_Produktu": "1007838",
+        "Nazwa_Produktu": "Beczka stalowa metalowa TH 216,5L niebieska korki 3/4'' i 2'' w wieku",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Rolnictwo > Zbiorniki",
+        "Finalne_ID_AI": 4370,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Beczka stalowa o pojemności 216,5L to typowy przemysłowy lub rolniczy zbiornik na płyny. W drzewie kategorii OLX najbardziej precyzyjnym dopasowaniem dla tego typu kontenerów i beczek jest kategoria 'Rolnictwo > Zbiorniki', która obejmuje zbiorniki metalowe, plastikowe oraz kontenery typu IBC (Mauser)."
+    },
+    {
+        "ID_Produktu": "1007929",
+        "Nazwa_Produktu": "Głowica do filtra do wody do pieca piekarnika PURITY C Brita by-pass 0% 3/8 Hendi 1002949",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Filtry do wody",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny element systemu uzdatniania wody marki Brita Professional (PURITY C), dystrybuowany przez markę Hendi. Opis wyraźnie wskazuje na przeznaczenie do specjalistycznych urządzeń gastronomicznych, takich jak piece konwekcyjno-parowe i kostkarki do lodu, co czyni kategorię 'Firma i Przemysł > Gastronomia > Pozostałe' najbardziej trafnym wyborem dla sprzętu o charakterze B2B."
+    },
+    {
+        "ID_Produktu": "1008400",
+        "Nazwa_Produktu": "Tarcza do szatkownicy krajalnicy do frytek pasków 6mm TOP LINE 300 Hendi 234303",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza tnąca do profesjonalnej szatkownicy do warzyw marki Hendi (model Top Line 300). Ze względu na profesjonalny charakter marki i urządzenia, produkt najlepiej pasuje do kategorii 'Szatkownice' w dziale 'Gastronomia' w ramach kategorii głównej 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1008428",
+        "Nazwa_Produktu": "Tarcza do szatkownicy krajalnicy TOP LINE 300 600 800 do plastrów karbowanych 10mm Hendi 234181",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza tnąca (część zamienna) do profesjonalnej szatkownicy gastronomicznej marki Hendi. Najbardziej trafną kategorią jest 'Szatkownice' w dziale 'Gastronomia', przeznaczonym dla urządzeń i akcesoriów stosowanych w profesjonalnej kuchni."
+    },
+    {
+        "ID_Produktu": "1008456",
+        "Nazwa_Produktu": "Wydajny mikser blender ręczny z regulacją prędkości 250W Hendi 222157",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Blendery ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Miksery",
+        "Finalne_ID_AI": 5052,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt marki Hendi to profesjonalny sprzęt gastronomiczny (mikser zanurzeniowy) przeznaczony dla szefów kuchni. Choć funkcjonalnie jest to blender ręczny, na platformie OLX urządzenia tej marki, ze względu na ich komercyjne przeznaczenie, najlepiej pasują do kategorii Firma i Przemysł > Gastronomia > Miksery."
+    },
+    {
+        "ID_Produktu": "1008498",
+        "Nazwa_Produktu": "Taca aluminiowa GN 1/1 z formami okręgami 125mm z powłoką nieprzywierającą 530x325mm Hendi 808757",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym naczyniem wykonanym w standardzie gastronomicznym GN 1/1 marki Hendi, co klasyfikuje go do kategorii pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1008530",
+        "Nazwa_Produktu": "Łopata do pieca do pizzy Venezia śr. 260mm dł. 1350mm Lilly Codroipo Hendi 617793",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne akcesorium gastronomiczne marki Hendi. Ze względu na bardzo długi uchwyt (1350 mm), narzędzie jest przeznaczone do głębokich pieców przemysłowych stosowanych w pizzeriach, co kwalifikuje je do kategorii wyposażenia dla gastronomii w dziale Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1008534",
+        "Nazwa_Produktu": "Szczotka do pieca do pizzy z mosiężnym miękkim włosiem zaokrąglona 150x55x(H)1700mm Lilly Codroipo Hendi 525685",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Piece do pizzy",
+        "Finalne_ID_AI": 5057,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny osprzęt do pieca do pizzy marki Hendi (producenta sprzętu gastronomicznego). Ze względu na specjalistyczne zastosowanie w pizzeriach oraz parametry (długość 1700 mm), najlepiej pasuje do kategorii 'Piece do pizzy' w dziale Gastronomia, która skupia sprzęt i akcesoria do wypieku pizzy."
+    },
+    {
+        "ID_Produktu": "1008809",
+        "Nazwa_Produktu": "Wózek kelnerski cateringowy 2-półkowy do 160 kg Stal nierdzewna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny sprzęt przeznaczony dla branży HoReCa (gastronomii), co sprawia, że kategoria 'Wózki gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1008858",
+        "Nazwa_Produktu": "Inkubator wylęgarka klujnik do wylęgu 48 jaj + owoskop 100W",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla ptaków > Pozostałe",
+        "Finalna_Sciezka_AI": "Rolnictwo > Maszyny rolnicze > Maszyny dla hodowli zwierząt",
+        "Finalne_ID_AI": 3592,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny inkubator do jaj drobiu (kur, gęsi, kaczek, przepiórek), który najlepiej pasuje do kategorii maszyn służących do hodowli zwierząt w dziale Rolnictwo."
+    },
+    {
+        "ID_Produktu": "1008862",
+        "Nazwa_Produktu": "Beczka stalowa metalowa ocynkowana 200L otwory 3/4'' i 2'' w wieku",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Zbiorniki",
+        "Finalna_Sciezka_AI": "Rolnictwo > Zbiorniki",
+        "Finalne_ID_AI": 4370,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Beczka stalowa o pojemności 200L, przeznaczona do transportu i składowania płynów (zgodnie z certyfikatami ADR/RID), jest rodzajem zbiornika przemysłowego/gospodarczego. Kategoria 'Rolnictwo > Zbiorniki' jest najbardziej specyficznym i odpowiednim miejscem na platformie OLX dla tego typu przedmiotów."
+    },
+    {
+        "ID_Produktu": "1008863",
+        "Nazwa_Produktu": "Beczka stalowa metalowa ocynkowana 200L otwór 2'' w pobocznicy",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Zbiorniki",
+        "Finalna_Sciezka_AI": "Rolnictwo > Zbiorniki",
+        "Finalne_ID_AI": 4370,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Beczka stalowa o pojemności 200L służąca do składowania i transportu płynów najlepiej pasuje do kategorii 'Zbiorniki' w dziale 'Rolnictwo', co jest standardowym miejscem kategoryzacji tego typu pojemników przemysłowych i gospodarczych na OLX."
+    },
+    {
+        "ID_Produktu": "1008864",
+        "Nazwa_Produktu": "Beczka stalowa metalowa ocynkowana 200L zdejmowane wieko",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Zbiorniki",
+        "Finalna_Sciezka_AI": "Rolnictwo > Zbiorniki",
+        "Finalne_ID_AI": 4370,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to beczka stalowa o pojemności 200L, przeznaczona do transportu i składowania cieczy. W strukturze kategorii OLX, kategoria 'Zbiorniki' w dziale 'Rolnictwo' jest najbardziej trafnym i najczęściej wybieranym miejscem dla tego typu kontenerów i pojemników przemysłowo-użytkowych."
+    },
+    {
+        "ID_Produktu": "1009034",
+        "Nazwa_Produktu": "Wózek spawalniczy warsztatowy stalowy z 3 półkami nośność do 75kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Wózki narzędziowe",
+        "Finalne_ID_AI": 5174,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Analizowany produkt to stalowy wózek warsztatowy z półkami i kółkami, przeznaczony do transportu spawarki oraz butli gazowej. Najdokładniejszą kategorią dla tego typu mebla warsztatowego jest 'Wózki narzędziowe' znajdująca się w sekcji 'Wyposażenie warsztatów' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1009083",
+        "Nazwa_Produktu": "Zwijacz bęben naścienny z wężem ogrodowym przyłącze 3/4#8221; dł. 22m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to automatyczny bęben z wężem ogrodowym, którego podstawową funkcją jest ułatwienie podlewania roślin. W drzewie kategorii OLX, sekcja 'Dom i Ogród > Ogród > Nawadnianie' jest najbardziej specyficznym i trafnym miejscem dla akcesoriów takich jak węże i zwijacze."
+    },
+    {
+        "ID_Produktu": "1009125",
+        "Nazwa_Produktu": "Pompa zanurzeniowa zatapialna ogrodowa stalowa nierdzewna 400W 7000l/h do 8m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalne_ID_AI": 1698,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektryczna pompa zanurzeniowa przeznaczona do wypompowywania wody. Najbardziej precyzyjną kategorią w drzewie jest 'Pompy wodne', która znajduje się w sekcji 'Dom i Ogród > Narzędzia'."
+    },
+    {
+        "ID_Produktu": "1009129",
+        "Nazwa_Produktu": "Pompa zanurzeniowa zatapialna 1100W 16000l/h do 9.5m HT-ROBSON-SP1100DWE",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalne_ID_AI": 1698,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektryczna pompa zanurzeniowa przeznaczona do użytku domowego i ogrodowego (studnie, baseny, osuszanie piwnic), co idealnie pasuje do kategorii 'Pompy wodne' w sekcji 'Narzędzia' działu 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "1009293",
+        "Nazwa_Produktu": "Garnek gastronomiczny z pokrywką stalowy nierdzewny do kuchenki indukcyjnej 25 L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny sprzęt gastronomiczny o dużej pojemności (25L) marki Royal Catering, przeznaczony do profesjonalnego użytku komercyjnego. Zgodnie z hierarchią OLX, profesjonalne akcesoria kuchenne, które nie posiadają dedykowanej podkategorii (jak garnki gastronomiczne), powinny trafić do działu Firma i Przemysł > Gastronomia > Pozostałe, zamiast do ogólnej kategorii domowej."
+    },
+    {
+        "ID_Produktu": "1009313",
+        "Nazwa_Produktu": "Ekspozytor stojak na pojemniki gastronomiczne 4 x GN1/6 + 4 x Pojemniki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny osprzęt marki Royal Catering wykorzystujący standard Gastro-Norm (GN 1/6), przeznaczony do użytku profesjonalnego w branży gastronomicznej. Kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej precyzyjna dla tego typu wyposażenia."
+    },
+    {
+        "ID_Produktu": "1009321",
+        "Nazwa_Produktu": "Wykrywacz detektor metalu kieszonkowy zasięg 10 cm + Kabura SBS-MD-4",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Przyrządy miernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to detektor metalu i przewodów elektrycznych, który w kontekście kategoryzacji OLX najlepiej pasuje do przyrządów mierniczych w sekcji Narzędzia (Dom i Ogród)."
     }
 ]

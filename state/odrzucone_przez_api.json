@@ -11952,5 +11952,119 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1008507",
+        "Nazwa_Produktu": "Blacha aluminiowa z powłoką nieprzywierającą 600x400x(H)30mm Hendi 808801",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalne_ID_AI": 2115,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to blacha do pieczenia marki Hendi, która idealnie pasuje do najbardziej szczegółowej kategorii 'Blachy i formy do pieczenia' w sekcji przyborów kuchennych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Blacha aluminiowa z powłoką nieprzywierającą 600x400x(h)30mm hendi",
+                "description": "Numer producenta: 808801 BLACHA ALUMINIOWA Z POWŁOKĄ NIEPRZYWIERAJĄCĄ Parametry: wymiary: 600x400x(H)30mm Zakres dostawy: blacha aluminiowa\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2115,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 360.68,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/808801-blacha-aluminiowa-z-powloka-nieprzywierajaca-600x400xh30mm-hendi-808801-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1009087",
+        "Nazwa_Produktu": "Zwijacz automatyczny bęben naścienny kablowy z przedłużaczem gniazdo AC230V / 10A / 50Hz dł. 21.5m",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Przedłużacze i rozgałęźniki",
+        "Finalne_ID_AI": 3208,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to automatyczny bęben kablowy z gniazdem zasilającym, który pełni funkcję zwijanego przedłużacza. Najbardziej precyzyjną kategorią dla tego typu osprzętu elektrycznego jest 'Przedłużacze i rozgałęźniki' w sekcji Instalacje/Elektryka.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zwijacz automatyczny bęben naścienny kablowy z przedłużaczem gniazdo",
+                "description": "Numer producenta: 10060680 Automatyczny bęben kablowy niemieckiej marki MSW, przeznaczony jest do zwiększania zasięgu przewodzenia energii elektrycznej. Jego kompaktowe rozmiary i niewielka waga pozwalają na wygodne użytkowanie w domowym zaciszu. Świetnie sprawdzi się również w małych garażach czy warsztatach. Tym bardziej że dołączone do zestawu kołki rozporowe oraz konstrukcja wspornika umożliwiają szybkie zamontowanie bębna na ścianie (zalecana wysokość 80 cm) lub suficie. Sprężynowy mechanizm z zatrzaskiem ułatwia rozwijanie 20-metrowego kabla przewodzącego prąd o napięciu 230 V i częstotliwości 50 Hz. Pozycje blokujące są rozmieszczone z częstotliwością od 2 do 3 na każdy metr, a napędzany sprężynowo wąż zwija się bardzo szybko i bez ryzyka poplątania. Szczelna obudowa chroni zarówno kable przed uszkodzeniami zewnętrznymi, jak i również użytkownika przed porażeniem prądem. Dodatkowo konstrukcja wspornika umożliwia obrót bębna na lewą lub prawą stronę. Cechy produktu: - Wygoda - kabel zwiększa zasięg przewodzenia energii elektrycznej o 20 metrów (21,5 z kablem zasilającym), - Prostota - łatwy montaż na ścianie lub suficie, - Ergonomia - automatyczny mechanizm zwijania i 2-3 pozycje blokujące na metr, - Bezpieczeństwo - szczelna obudowa chroni przed uszkodzeniami zewnętrznymi, - Uniwersalność - może pracować z każdym sprzętem elektrycznym 230 V / 50 Hz. Parametry techniczne: - Model - PRO-E 20 MSW - Nr katalogowy - 10060680 - Stan - Nowy - Materiał obudowy - PP - Gniazdo elektryczne - AC230V / 10A / 50Hz - Typ kabla - H05W-F 3G1.5mm2 - Maksymalna obciążalność (zwinięty) - 1000 W - Maksymalna obciążalność (rozwinięty) - 2300 W - Długość węża - 20 m - Długość kabla zasilającego - 1,5 m - Zakres temperatury otoczenia - -5deg;C 55deg;C - Wymiary (DxSxW) - 36 x 15 x 27,5 cm - Waga - 5,35 kg - Wymiary wysyłki (DxSxW) - 32 x 17 x 31 cm - Waga wysyłki - 5,9 kg W zestawie: - Automatyczny bęben kablowy 20 + 1,5, - Kołki rozporowe (L = 50 mm 10 / 6mm) 3 szt., - Instrukcja obsługi.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: EXPONDO POLSKA SP. Z O.O. SP. K.\nAdres: Dekoracyjna 3, 65-155, Zielona Góra, Polska\nEmail: info(at)expondo.pl\nTelefon: +48688881008\n----------------------------------------",
+                "category_id": 3208,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 380.6,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/10060680-zwijacz-automatyczny-beben-nascienny-kablowy-z-przedluzaczem-gniazdo-ac230v-16a-50hz-dl-215m-hurtownia-sklep-cena-allegro.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/10060680-zwijacz-automatyczny-beben-nascienny-kablowy-z-przedluzaczem-gniazdo-ac230v-16a-50hz-dl-215m-hurtownia-sklep-cena.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/10060680-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/10060680-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/10060680-4.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
