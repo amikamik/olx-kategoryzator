@@ -6518,5 +6518,135 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "99%",
         "Uzasadnienie_AI": "Produkt to piłeczki przeznaczone do tenisa stołowego. Kategoria 'Tenis stołowy' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "42391",
+        "Nazwa_Produktu": "Zestaw petanque MASTER 8 chromowanych kul F.I.P.J.P. + aluminiowy pokrowiec",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Opony i Felgi > Felgi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w petanque, która jest klasyfikowana jako sport towarzyski. Kategoria 'Pozostałe sporty towarzyskie' jest najbardziej szczegółowa i odpowiednia dla tego typu produktu, biorąc pod uwagę, że nie ma dedykowanej podkategorii dla petanque. Informacja o federacji F.I.P.J.P. dodatkowo potwierdza sportowy charakter produktu."
+    },
+    {
+        "ID_Produktu": "42436",
+        "Nazwa_Produktu": "Rzutki do darta MASTER Shark Nikiel-Mosiądz 3 szt. - stalowe końcówki 21g",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rzutki do darta, a kategoria 'Dart' jest najbardziej szczegółową i idealnie pasującą opcją w drzewie kategorii, zgodną z nazwą i opisem produktu oraz podpowiedzią systemową."
+    },
+    {
+        "ID_Produktu": "42437",
+        "Nazwa_Produktu": "Rzutki do darta MASTER Shark Nikiel-Mosiądz 3 szt. - stalowe końcówki 23g",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że są to rzutki przeznaczone do gry w darta, idealnie pasując do najbardziej szczegółowej kategorii \"Dart\"."
+    },
+    {
+        "ID_Produktu": "42438",
+        "Nazwa_Produktu": "Rzutki do darta MASTER Sniper 90% wolframu 3 szt. - stalowe końcówki 21g",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na rzutki do gry w darta. Kategoria 'Dart' jest najbardziej szczegółową i idealnie pasującą opcją."
+    },
+    {
+        "ID_Produktu": "42439",
+        "Nazwa_Produktu": "Rzutki do darta MASTER Sniper 90% wolframu 3 szt. - stalowe końcówki 23g",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że są to rzutki przeznaczone do gry w darta. Kategoria 'Dart' jest najbardziej szczegółową i idealnie pasującą opcją."
+    },
+    {
+        "ID_Produktu": "42440",
+        "Nazwa_Produktu": "Końcówki Groty do Rzutek Lotek MASTER Dimple soft 2ba",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to końcówki/groty do rzutek (lotek), które są akcesoriami do gry w Darta. Kategoria 'Dart' jest najbardziej szczegółową i idealnie pasującą kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "42447",
+        "Nazwa_Produktu": "Drążek baletowy MASTER na ścianę 120 cm - drewniany",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to drążek baletowy przeznaczony do ćwiczeń fitness (balet, joga, pilates). Najbardziej szczegółową i pasującą kategorią jest 'Drążki i poręcze' w ramach 'Sport i Hobby > Fitness > Sprzęt siłowy', ponieważ przedmiotem jest fizycznie drążek używany do ćwiczeń, mimo że niekoniecznie typowo 'siłowych'."
+    },
+    {
+        "ID_Produktu": "42449",
+        "Nazwa_Produktu": "Zestaw rzutek MASTER Plated Brass do tarcz sizalowych i papierowych 3 szt. - stal 21g",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw rzutek do tarcz, co idealnie pasuje do kategorii 'Sport i Hobby > Sporty towarzyskie > Dart'."
+    },
+    {
+        "ID_Produktu": "42467",
+        "Nazwa_Produktu": "Zestaw bramek do piłki nożnej SPARTAN Flex Pop Up 125 x 76 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw bramek do piłki nożnej, przeznaczony do uprawiania sportu. Najbardziej szczegółowa kategoria to 'Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria', ponieważ bramki są akcesoriami do piłki nożnej."
+    },
+    {
+        "ID_Produktu": "42468",
+        "Nazwa_Produktu": "Siatka do tenisa stołowego JOOLA Libre",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na siatkę do tenisa stołowego, co idealnie pasuje do kategorii 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy'."
+    },
+    {
+        "ID_Produktu": "42469",
+        "Nazwa_Produktu": "Rakieta do Tenisa Stołowego SPONETA SPONETA Fight",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to rakieta do tenisa stołowego. Kategoria 'Tenis stołowy' (ID 5027) jest najbardziej szczegółową i idealnie pasującą kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "42470",
+        "Nazwa_Produktu": "Narty Dla Dzieci z Kijkami 90 cm - Różowe",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Narty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty zimowe > Narty",
+        "Finalne_ID_AI": 1926,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Narty' jako główny produkt, a system OLX również podpowiada tę kategorię. Jest to najbardziej szczegółowa i trafna kategoria-liść."
+    },
+    {
+        "ID_Produktu": "42507",
+        "Nazwa_Produktu": "Pokrowiec na Stół do Tenisa Stołowego Ping Ponga SPONETA",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na pokrowiec do stołu do tenisa stołowego. Kategoria 'Tenis stołowy' jest najbardziej szczegółową i idealnie pasującą kategorią-liściem."
     }
 ]

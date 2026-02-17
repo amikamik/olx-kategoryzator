@@ -805,5 +805,69 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "42465",
+        "Nazwa_Produktu": "Skoczek POGO dla dzieci SCHILDKROT Fun Jumper",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalne_ID_AI": 3093,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to skoczek POGO, który jest zabawką przeznaczoną dla dzieci, rozwijającą koordynację i równowagę. Pasuje do ogólnej kategorii 'Dla Dzieci > Zabawki'. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu zabawki (np. zabawki sportowe, zabawki aktywne), 'Pozostałe' jest najbardziej odpowiednim wyborem na najgłębszym poziomie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Skoczek pogo dla dzieci schildkrot fun jumper",
+                "description": "Skoczek POGO dla dzieci SCHILDKROT Fun Jumper - jest odpowiedni dla dzieci od 3. roku życia. Skoczek to nie tylko świetna zabawa, ale także rozwija równowagę, koordynację i wytrzymałość dzieci. Specyfikacja: miękka, piankowa podstawa wydaje radosne dźwięki przy każdym odbiciu wyściełany uchwyt na dwóch gumowych linach dla większej stabilności zalecany wiek: 3+ maksymalne obciążenie: 50 kg szerokość podstawy: 24 cm szerokość uchwytu: 26 cm długość gumowej liny: 40 cm\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: Schildkrot\nAdres: MTS Sportartikel Vertriebs GmbH Hans-Urmiller-Ring, D-82515, Wolfratshausen, DE\nEmail: info(at)mts-sport.de\nTelefon: +49(0)817143180\n----------------------------------------",
+                "category_id": 3093,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 147.58,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pozostale/MTS970306/MTS970306.jpeg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pozostale/MTS970306/MTS970306a.jpeg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pozostale/MTS970306/MTS970306b.jpeg"
+                    },
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/fitness/akcesoria/pozostale/MTS970306/MTS970306c.jpeg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Rozmiar pliku jest zbyt duży. Maksymalny rozmiar to 5 MB"
+                }
+            }
+        }
     }
 ]
