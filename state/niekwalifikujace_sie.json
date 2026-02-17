@@ -5398,5 +5398,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "99%",
         "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na stół bilardowy, co idealnie pasuje do kategorii 'Sport i Hobby > Sporty towarzyskie > Bilard'."
+    },
+    {
+        "ID_Produktu": "16316",
+        "Nazwa_Produktu": "Tarcza Elektroniczna do Gry w Dart ECHOWELL DC 88",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to elektroniczna tarcza do gry w dart. Kategoria 'Sport i Hobby > Sporty towarzyskie > Dart' jest najbardziej szczegółowa i idealnie pasuje do produktu."
+    },
+    {
+        "ID_Produktu": "16481",
+        "Nazwa_Produktu": "Piłkarzyki mini stół dla dzieci SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Piłkarzyki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Piłkarzyki",
+        "Finalne_ID_AI": 4968,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mini stół do piłkarzyków, który idealnie pasuje do kategorii 'Sport i Hobby > Sporty towarzyskie > Piłkarzyki'. Jest to najbardziej szczegółowa i trafna kategoria-liść."
+    },
+    {
+        "ID_Produktu": "16538",
+        "Nazwa_Produktu": "Siatka ochronna do trampoliny SPARTAN 244 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Siatka ochronna do trampoliny jest akcesorium do sprzętu zabawowego przeznaczonego do ogrodu. Kategoria 'Huśtawki i place zabaw' jest najbardziej szczegółową i adekwatną kategorią dla tego typu produktu w drzewie 'Dom i Ogród'."
     }
 ]
