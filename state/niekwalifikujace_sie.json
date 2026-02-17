@@ -5788,5 +5788,115 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to zestaw do badmintona, a kategoria 'Badminton' jest najbardziej szczegółową i precyzyjną kategorią w drzewie, znajdującą się pod 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'."
+    },
+    {
+        "ID_Produktu": "21344",
+        "Nazwa_Produktu": "Zestaw kół kółka do hulajnogi wyczynowej freestyle SCHILDKROT 100mm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw kół do hulajnogi wyczynowej. Kategoria 'Hulajnogi' (ID: 1676) znajduje się na najbardziej szczegółowym poziomie drzewa kategorii i bezpośrednio odnosi się do rodzaju pojazdu, dla którego przeznaczone są koła."
+    },
+    {
+        "ID_Produktu": "21354",
+        "Nazwa_Produktu": "Dziecięca huśtawka ogrodowa MASTER A1",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to \"huśtawka ogrodowa dla dzieci\", co idealnie pasuje do kategorii \"Dom i Ogród > Ogród > Huśtawki i place zabaw\"."
+    },
+    {
+        "ID_Produktu": "21361",
+        "Nazwa_Produktu": "Rakieta do Badmintona TALBOT TORRO Arrowspeed 399.8",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Squash",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe",
+        "Finalne_ID_AI": 5032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rakieta do badmintona. Badminton jest sportem rakietowym, podobnym do tenisa i squasha, które znajdują się w kategorii 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'. Ponieważ nie ma konkretnej podkategorii dla badmintona, 'Pozostałe' w 'Tenis i pokrewne' jest najbardziej odpowiednią i szczegółową kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "21372",
+        "Nazwa_Produktu": "Hulajnoga składana MASTER Cabbar - 200 mm - khaki",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pojazdy elektryczne > Hulajnogi elektryczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują, że jest to hulajnoga (nieelektryczna). Kategoria 'Sport i Hobby > Skating > Hulajnogi' jest najbardziej szczegółowa i idealnie pasuje do tego typu produktu. Wskazówka o hulajnodze elektrycznej jest błędna, ponieważ opis nie zawiera żadnych cech pojazdu elektrycznego, a niska waga (4,6 kg) wyklucza taką możliwość."
+    },
+    {
+        "ID_Produktu": "21373",
+        "Nazwa_Produktu": "Hulajnoga wyczynowa freestyle MASTER Stunt SLOTTER - różowa",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga wyczynowa freestyle, co idealnie pasuje do kategorii 'Sport i Hobby > Skating > Hulajnogi'. Opis podkreśla jej przeznaczenie do jazdy i wykonywania trików w skateparku, co jest zgodne z charakterem kategorii 'Skating'. Mimo, że jest przeznaczona dla dzieci, jej specyfikacja i zastosowanie kwalifikują ją jako sprzęt sportowy, a nie ogólną zabawkę. Kategoria 'Hulajnogi' jest najbardziej szczegółowa i precyzyjna."
+    },
+    {
+        "ID_Produktu": "21374",
+        "Nazwa_Produktu": "Hulajnoga wyczynowa freestyle MASTER Stunt SLOTTER - żółty",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje na 'hulajnogę wyczynową' (stunt scooter), a opis dodatkowo precyzuje jej przeznaczenie do trików w skateparku. Kategoria 'Sport i Hobby > Skating > Hulajnogi' (ID: 1676) jest najbardziej szczegółowa i idealnie pasuje do tego typu produktu."
+    },
+    {
+        "ID_Produktu": "21423",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Legends 1000 FSC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują, że jest to rakietka do tenisa stołowego, a kategoria 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy' jest najbardziej szczegółową i precyzyjną kategorią-liściem dla tego produktu."
+    },
+    {
+        "ID_Produktu": "21438",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Legends 800 FSC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, a kategoria 'Tenis stołowy' jest najbardziej szczegółową i bezpośrednio pasującą kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "21574",
+        "Nazwa_Produktu": "Huśtawka ogrodowa SPARTAN Fun Ring 95 cm - niebieska",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to huśtawka ogrodowa, a kategoria 'Huśtawki i place zabaw' w obrębie 'Dom i Ogród > Ogród' jest najbardziej szczegółowa i precyzyjnie opisuje tego typu przedmiot, który jest przeznaczony do ogrodu i zabawy. Choć jest przeznaczona dla dzieci, kategoria 'Zabawki > Pozostałe' jest zbyt ogólna dla tak specyficznego sprzętu ogrodowego."
+    },
+    {
+        "ID_Produktu": "21575",
+        "Nazwa_Produktu": "Huśtawka ogrodowa SPARTAN Fun Ring 95 cm - zielona",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'huśtawka ogrodowa', która idealnie pasuje do kategorii 'Dom i Ogród' > 'Ogród' > 'Huśtawki i place zabaw'. Jest to kategoria najbardziej szczegółowa i precyzyjnie opisująca przedmiot."
+    },
+    {
+        "ID_Produktu": "21576",
+        "Nazwa_Produktu": "Zestaw do Speed Badmintona SCHILDKROT",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do Speed Badmintona, który jest wariantem badmintona. Kategoria 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton' jest najbardziej szczegółową i idealnie pasującą kategorią-liściem dla tego produktu."
     }
 ]
