@@ -5428,5 +5428,165 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Siatka ochronna do trampoliny jest akcesorium do sprzętu zabawowego przeznaczonego do ogrodu. Kategoria 'Huśtawki i place zabaw' jest najbardziej szczegółową i adekwatną kategorią dla tego typu produktu w drzewie 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "16577",
+        "Nazwa_Produktu": "Osłona na sprężyny do trampoliny 305 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Pozostałe",
+        "Finalne_ID_AI": 4333,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to osłona na sprężyny do trampoliny. Trampolina, choć używana rekreacyjnie, często jest klasyfikowana jako sprzęt do aktywności fizycznej/fitnessu. Kategoria 'Sport i Hobby > Fitness > Sprzęt fitness' jest najbardziej odpowiednia. Ponieważ nie ma podkategorii dedykowanej trampolinom ani ich częściom, 'Pozostałe' w ramach 'Sprzęt fitness' jest najdokładniejszym wyborem na najgłębszym poziomie."
+    },
+    {
+        "ID_Produktu": "16679",
+        "Nazwa_Produktu": "Siatka ochronna do trampoliny 426 cm SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to siatka ochronna do trampoliny. Trampolina jest elementem wyposażenia placów zabaw, a kategoria 'Huśtawki i place zabaw' jest najbardziej szczegółową i adekwatną kategorią-liściem w drzewie."
+    },
+    {
+        "ID_Produktu": "16772",
+        "Nazwa_Produktu": "Obciążenie metalowe z powierzchnią gumowaną 10 kg MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to obciążenie do ćwiczeń siłowych, co idealnie pasuje do kategorii 'Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia'. Tytuł i opis bezpośrednio wskazują na przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "16775",
+        "Nazwa_Produktu": "Obciążenia żeliwne 2 x 10 kg MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Obciążenia żeliwne', co idealnie pasuje do kategorii-liścia 'Obciążenia' znajdującej się w ścieżce 'Sport i Hobby > Fitness > Sprzęt siłowy'."
+    },
+    {
+        "ID_Produktu": "16796",
+        "Nazwa_Produktu": "Hantla zestaw 15 kg MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hantla, która idealnie pasuje do kategorii 'Sport i Hobby > Fitness > Sprzęt siłowy > Hantle' na najbardziej szczegółowym poziomie."
+    },
+    {
+        "ID_Produktu": "16811",
+        "Nazwa_Produktu": "Zestaw hantli MASTER w walizce AB 2 x 10 kg",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw hantli przeznaczony do treningu siłowego, co doskonale pasuje do kategorii 'Sport i Hobby > Fitness > Sprzęt siłowy > Hantle'."
+    },
+    {
+        "ID_Produktu": "16820",
+        "Nazwa_Produktu": "Hantla de luxe 10 kg SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Hantla' jako przedmiot, a kategoria 'Hantle' (ID 4337) jest najbardziej szczegółową i idealnie pasującą kategorią-liściem w drzewie."
+    },
+    {
+        "ID_Produktu": "16853",
+        "Nazwa_Produktu": "Gryf mocno łamany 120 cm MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy",
+        "Finalne_ID_AI": 4316,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Gryf', który jest bezpośrednio dostępny jako kategoria-liść w 'Sport i Hobby > Fitness > Sprzęt siłowy'. Opis produktu wyraźnie wskazuje na jego przeznaczenie do ćwiczeń siłowych."
+    },
+    {
+        "ID_Produktu": "16862",
+        "Nazwa_Produktu": "Gryf prosty 165 cm MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu 'Gryf prosty' bezpośrednio wskazuje na kategorię 'Gryfy' w dziale 'Sport i Hobby > Fitness > Sprzęt siłowy', która jest kategorią-liściem. Opis produktu potwierdza cechy gryfu do ćwiczeń siłowych."
+    },
+    {
+        "ID_Produktu": "16865",
+        "Nazwa_Produktu": "Gryf prosty 180 cm / 30mm MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Gryf', który jest elementem 'Sprzętu siłowego' używanego w 'Fitness'. Kategoria 'Gryfy' (ID: 4336) jest najbardziej szczegółowa i idealnie pasuje do produktu."
+    },
+    {
+        "ID_Produktu": "17192",
+        "Nazwa_Produktu": "Zestaw konserwacyjny BESTWAY Deluxe",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do konserwacji basenu, w tym odkurzacz i siatka do zbierania zanieczyszczeń. Kategoria 'Baseny' (ID 1630) jest najbardziej szczegółową i najlepiej pasującą kategorią-liściem dla tego typu produktu, znajdującą się w ścieżce Dom i Ogród > Ogród. Wskazówka systemowa była błędna."
+    },
+    {
+        "ID_Produktu": "17691",
+        "Nazwa_Produktu": "Zestaw mini tenisa MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalne_ID_AI": 5028,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw do mini tenisa, który jest odmianą tenisa ziemnego. Kategoria 'Tenis ziemny' jest najbardziej szczegółową i najlepiej pasującą kategorią w drzewie."
+    },
+    {
+        "ID_Produktu": "19767",
+        "Nazwa_Produktu": "Rower Treningowy Biegowy dla Dzieci MASTER Poke - Zielony",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Rowery dziecięce",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Rowery > Rowery dziecięce",
+        "Finalne_ID_AI": 1681,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'rowerek biegowy dla dzieci', co idealnie pasuje do kategorii 'Sport i Hobby > Rowery > Rowery dziecięce', która jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "19806",
+        "Nazwa_Produktu": "Rower Treningowy Biegowy dla Dzieci MASTER Power - różowy",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Rowery treningowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Rowery > Rowery dziecięce",
+        "Finalne_ID_AI": 1681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'rowerek biegowy/balansowy' dla dzieci, który służy do nauki jazdy na rowerze na świeżym powietrzu. Jest to konkretny typ roweru dla dzieci, co idealnie pasuje do kategorii 'Sport i Hobby > Rowery > Rowery dziecięce'. Chociaż w tytule pojawia się 'Rower Treningowy', kontekst opisu jednoznacznie wskazuje na rower do nauki, a nie stacjonarny rower do ćwiczeń fitness."
+    },
+    {
+        "ID_Produktu": "19815",
+        "Nazwa_Produktu": "Uniwersalny Drążek do Ściany MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uniwersalny drążek do podciągania, który idealnie pasuje do kategorii 'Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze'. Jest to najbardziej szczegółowa i trafna kategoria dla tego typu sprzętu treningowego."
+    },
+    {
+        "ID_Produktu": "19859",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Waldner 900",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na rakietkę do tenisa stołowego. Kategoria 'Tenis stołowy' jest najbardziej szczegółową i idealnie pasującą kategorią-liściem z drzewa."
     }
 ]
