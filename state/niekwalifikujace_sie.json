@@ -10718,5 +10718,215 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest pochłaniaczem wilgoci i zapachów, wyraźnie przeznaczonym do użytku w samochodzie. Najbardziej szczegółowa i pasująca kategoria to 'Motoryzacja > Wyposażenie i akcesoria samochodowe', a ponieważ nie ma bardziej precyzyjnej podkategorii dla tego typu produktu, 'Pozostałe' w ramach tej gałęzi jest najwłaściwszym wyborem. Kategoria 'Dom i Ogród > Supermarket > Odświeżacze powietrza' jest zbyt ogólna i nie odzwierciedla specyficznego zastosowania samochodowego i funkcji pochłaniania wilgoci."
+    },
+    {
+        "ID_Produktu": "1000150",
+        "Nazwa_Produktu": "Frytownica elektryczna pojedyncza 5L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Ogrzewanie przenośne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Frytownice",
+        "Finalne_ID_AI": 5042,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako profesjonalne urządzenie przeznaczone do małej i dużej gastronomii, o parametrach (3200W, stal nierdzewna, zimna strefa) typowych dla wyposażenia komercyjnego, dlatego kategoria Frytownice w sekcji Gastronomia (Firma i Przemysł) jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1000296",
+        "Nazwa_Produktu": "Waga kontrolna zliczająca sztuki SBS-ZW-3001H LCD do 30kg",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga kontrolna z funkcją zliczania sztuk, przeznaczona do użytku w magazynach, hurtowniach i przemyśle, co precyzyjnie odpowiada kategorii Wagi w sekcji Sklepy i magazyny."
+    },
+    {
+        "ID_Produktu": "1000311",
+        "Nazwa_Produktu": "Waga sklepowa platformowa SBS-PW-60 LCD do 60kg",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga sklepowa i platformowa przeznaczona do użytku w handlu oraz magazynach, co precyzyjnie odpowiada kategorii 'Wagi' w sekcji 'Sklepy i magazyny'."
+    },
+    {
+        "ID_Produktu": "1000315",
+        "Nazwa_Produktu": "Waga hakowa łowiecka dla myśliwych handlowa SBS-KW-300/100-O LCD do 300kg",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczna waga hakowa przeznaczona do zastosowań handlowych, przemysłowych i rolniczych. Kategoria 'Wagi' w sekcji 'Sklepy i magazyny' wewnątrz działu 'Firma i Przemysł' najlepiej odpowiada jej profesjonalnemu przeznaczeniu."
+    },
+    {
+        "ID_Produktu": "1000433",
+        "Nazwa_Produktu": "Pedał nożny do sterowania spawarkami S-ALU 225PH i S-ALU 333PH",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pedał nożny będący dedykowanym osprzętem do spawarek. Kategoria 'Spawarki i lutownice' jest najbardziej precyzyjnym miejscem w drzewie kategorii dla urządzeń i akcesoriów spawalniczych, a wybór ten jest zgodny z sugestią systemu OLX."
+    },
+    {
+        "ID_Produktu": "1000434",
+        "Nazwa_Produktu": "Przewód masowy do spawarek Welbach ALPHA i ENTRIX dł. 4m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium spawalniczym (przewód masowy z zaciskiem). Najlepiej pasuje do kategorii Spawarki i lutownice, która obejmuje zarówno same urządzenia, jak i dedykowany do nich osprzęt."
+    },
+    {
+        "ID_Produktu": "1000440",
+        "Nazwa_Produktu": "Palnik ręczny CUT 50 do cięcia plazmą z przewodem dł. 4m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to palnik do cięcia plazmowego, który jest procesem technologicznie i rynkowo traktowanym jako pokrewny spawaniu. Na platformie OLX urządzenia do cięcia plazmą oraz dedykowany im osprzęt (palniki, dysze, przewody) są standardowo kategoryzowane w sekcji 'Spawarki i lutownice'."
+    },
+    {
+        "ID_Produktu": "1000442",
+        "Nazwa_Produktu": "Pedał włącznik nożny do spawarek S-DIGITAC 200P i S-DIGITAC 315P",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pedał sterujący (akcesorium) dedykowany do konkretnych modeli spawarek TIG. W strukturze OLX, ze względu na brak osobnej kategorii na akcesoria spawalnicze, najbardziej precyzyjnym wyborem jest kategoria dedykowana danemu typowi urządzeń: 'Spawarki i lutownice'."
+    },
+    {
+        "ID_Produktu": "1000443",
+        "Nazwa_Produktu": "Palnik uchwyt spawalniczy MIG/MAG z przewodem dł. 4m i wtykiem EURO",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt (palnik) spawalniczy MIG/MAG, który jest bezpośrednim osprzętem do spawarki. W strukturze kategorii OLX przedmioty ściśle związane z techniką spawania, w tym same urządzenia jak i ich kluczowe akcesoria, są klasyfikowane w kategorii 'Spawarki i lutownice' (ID: 1700)."
+    },
+    {
+        "ID_Produktu": "1000447",
+        "Nazwa_Produktu": "Uchwyt spawalniczy MMA z przewodem dł. 8m końcówka DKJ 35-50",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt spawalniczy przeznaczony do spawarki MMA. Choć technicznie jest to osprzęt, kategoria 'Spawarki i lutownice' (1700) jest najbardziej specyficzna dla produktów związanych z techniką spawalniczą i stanowi główny węzeł dla tego typu asortymentu na platformie OLX."
+    },
+    {
+        "ID_Produktu": "1000450",
+        "Nazwa_Produktu": "Przewód masowy z zaciskiem do spawarek 250A",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przewód masowy z zaciskiem, który jest dedykowanym akcesorium spawalniczym. Najbardziej precyzyjną kategorią dla urządzeń spawalniczych oraz ich bezpośredniego osprzętu w podanym drzewie jest 'Spawarki i lutownice' (ID: 1700)."
+    },
+    {
+        "ID_Produktu": "1000451",
+        "Nazwa_Produktu": "Uchwyt spawalniczy MMA z przewodem dł. 4m 250A",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt spawalniczy z przewodem, który stanowi bezpośrednie wyposażenie/osprzęt spawarki. Kategoria 'Spawarki i lutownice' (ID: 1700) jest najbardziej specyficzną kategorią dla urządzeń i akcesoriów związanych z procesem spawania."
+    },
+    {
+        "ID_Produktu": "1000452",
+        "Nazwa_Produktu": "Uchwyt palnik TIG z przewodem dł. 4m z akcesoriami 250A",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt (palnik) spawalniczy TIG wraz z akcesoriami. Najbardziej trafną i specyficzną kategorią dla osprzętu i narzędzi spawalniczych w strukturze OLX jest kategoria 'Spawarki i lutownice' w dziale narzędzi."
+    },
+    {
+        "ID_Produktu": "1000453",
+        "Nazwa_Produktu": "Uchwyt palnik TIG z przewodami dł. 4m i akcesoriami 315A",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to palnik TIG wraz z przewodami i akcesoriami, będący częścią osprzętu spawalniczego. W strukturze kategorii OLX kategoria 'Spawarki i lutownice' (ID: 1700) w sekcji 'Narzędzia' jest najbardziej specyficznym i właściwym miejscem dla sprzętu i oprzyrządowania spawalniczego."
+    },
+    {
+        "ID_Produktu": "1000454",
+        "Nazwa_Produktu": "Uchwyt spawalniczy palnik TIG z przewodem dł. 4m i akcesoriai 350A",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest osprzętem spawalniczym (palnik TIG). W drzewie kategorii OLX, akcesoria i urządzenia spawalnicze najlepiej pasują do kategorii 'Spawarki i lutownice', która znajduje się w sekcji 'Dom i Ogród > Narzędzia'."
+    },
+    {
+        "ID_Produktu": "1000456",
+        "Nazwa_Produktu": "Przewód masowy z zaciskiem do przecinarek plazmowych i spawarek 200A",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przewód masowy z zaciskiem, który jest bezpośrednim osprzętem do spawarek i przecinarek plazmowych. Kategoria 'Spawarki i lutownice' (1700) jest najbardziej precyzyjną kategorią dla tego typu sprzętu i akcesoriów spawalniczych."
+    },
+    {
+        "ID_Produktu": "1000460",
+        "Nazwa_Produktu": "Uchwyt do elektrod MMA z przewodem dł. 3,5m DKJ16-25 200A",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt spawalniczy (akcesorium spawalnicze MMA), który jest bezpośrednim osprzętem do spawarki. Na platformie OLX takie przedmioty klasyfikowane są w kategorii 'Spawarki i lutownice', która jest najbardziej specyficzna dla tego rodzaju urządzeń i ich części."
+    },
+    {
+        "ID_Produktu": "1000558",
+        "Nazwa_Produktu": "Nóż stalowy do krajalnicy tarcza 220mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Krajalnice",
+        "Finalne_ID_AI": 5046,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienny element (nóż tnący) do profesjonalnej krajalnicy gastronomicznej. Ze względu na markę (Royal Catering), atesty dla Sanepidu oraz przeznaczenie przemysłowe, najlepiej pasuje do kategorii Gastronomia > Krajalnice w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1000717",
+        "Nazwa_Produktu": "Podgrzewacz do potraw HoReCa na pastę GN 1/1 - Hendi 471005",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Podgrzewacze wody",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Podgrzewacze",
+        "Finalne_ID_AI": 5059,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny podgrzewacz cateringowy (chafing dish) marki Hendi, przeznaczony do bufetów i samoobsługi (HoReCa). Najbardziej precyzyjną kategorią jest 'Podgrzewacze' w sekcji 'Gastronomia' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1000719",
+        "Nazwa_Produktu": "Pasta do podgrzewaczy potraw - etanol puszka 48 x 200g - Hendi 194546",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to paliwo (bioetanol) w formie pasty, przeznaczone do profesjonalnych podgrzewaczy potraw. Ze względu na markę (Hendi), zastosowanie (HoReCa) oraz ilość hurtową (48 sztuk), produkt kwalifikuje się do kategorii Firma i Przemysł > Gastronomia. Ponieważ w tej sekcji nie ma dedykowanej podkategorii na paliwa lub akcesoria eksploatacyjne, najbardziej odpowiednia jest kategoria 'Pozostałe' w obrębie gastronomii."
+    },
+    {
+        "ID_Produktu": "1000765",
+        "Nazwa_Produktu": "Regał magazynowy składany regulowane półki z drutu - 5 półkowy - Hendi 812204",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalne_ID_AI": 4677,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym regałem magazynowym przeznaczonym do lokali gastronomicznych i magazynów, co najlepiej odpowiada kategorii Regały w sekcji Sklepy i magazyny w dziale Firma i Przemysł."
     }
 ]
