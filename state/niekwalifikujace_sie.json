@@ -6648,5 +6648,175 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na pokrowiec do stołu do tenisa stołowego. Kategoria 'Tenis stołowy' jest najbardziej szczegółową i idealnie pasującą kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "42510",
+        "Nazwa_Produktu": "Siatka do czyszczenia basenu AVENLI",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do czyszczenia basenu, która idealnie pasuje do kategorii 'Baseny' w 'Dom i Oród > Ogród'."
+    },
+    {
+        "ID_Produktu": "42881",
+        "Nazwa_Produktu": "PIŁKA NOŻNA FC BARCELONA HOME 2025/2026 R.5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka nożna, która jest akcesorium do piłki nożnej. Kategoria 'Akcesoria' pod 'Sporty drużynowe > Piłka nożna' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "42882",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego SCHILDKROT Exclusive 3-gwiazdkowe Poly 40+ 6 szt.",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na piłeczki przeznaczone do tenisa stołowego. Kategoria 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy' jest najbardziej szczegółową i idealnie pasującą opcją."
+    },
+    {
+        "ID_Produktu": "42883",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego SCHILDKROT świecące w ciemności Poly 40+ 6 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego, a kategoria 'Tenis stołowy' jest najbardziej szczegółową i idealnie pasującą opcją w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "42884",
+        "Nazwa_Produktu": "Rakieta do badmintona TALBOT TORRO Arrowspeed 199",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Squash",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta do badmintona, a kategoria 'Badminton' (ID: 5029) jest bezpośrednio dostępna i pasuje idealnie, będąc najbardziej szczegółową kategorią dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "42885",
+        "Nazwa_Produktu": "Piłka do siatkówki SCHILDKROT Volleyball - 5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do siatkówki, która idealnie pasuje do kategorii 'Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria'."
+    },
+    {
+        "ID_Produktu": "42887",
+        "Nazwa_Produktu": "Zestaw do pickleballa SCHILDKROT",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Twarz > Pielęgnacja > Zestawy kosmetyków",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe",
+        "Finalne_ID_AI": 5032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw do pickleballa, który w opisie jest wyraźnie zdefiniowany jako sport łączący elementy badmintona, tenisa i tenisa stołowego. Kategoria 'Tenis i pokrewne' jest najbardziej pasującą ogólną grupą dla tego typu aktywności, a 'Pozostałe' w jej obrębie idealnie oddaje specyfikę pickleballa, który nie jest dokładnie tenisem, badmintonem czy tenisem stołowym."
+    },
+    {
+        "ID_Produktu": "42888",
+        "Nazwa_Produktu": "Siatka do tenisa stołowego DONIC Ralley",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do tenisa stołowego, co idealnie pasuje do kategorii 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy'. Jest to najbardziej szczegółowa i trafna kategoria."
+    },
+    {
+        "ID_Produktu": "42889",
+        "Nazwa_Produktu": "Rakieta do badmintona TALBOT TORRO Arrowspeed 299",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Squash",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakieta do badmintona, a kategoria 'Badminton' (ID: 5029) jest najbardziej szczegółową i idealnie pasującą kategorią-liściem w drzewie kategorii, znajdującą się w ścieżce Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "42890",
+        "Nazwa_Produktu": "Siatka do tenisa stołowego DONIC Clipmatic",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to siatka przeznaczona do tenisa stołowego. Kategoria 'Tenis stołowy' jest najbardziej szczegółowa i precyzyjna w drzewie dla tego produktu."
+    },
+    {
+        "ID_Produktu": "42892",
+        "Nazwa_Produktu": "PIŁKA NOŻNA FC BARCELONA 2025/2026 R.5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka nożna, która jest akcesorium do gry w piłkę nożną. Kategoria 'Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria' jest najbardziej szczegółowa i precyzyjna."
+    },
+    {
+        "ID_Produktu": "42897",
+        "Nazwa_Produktu": "Drabinka do trampoliny MASTER",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to drabinka do trampoliny. Trampoliny są elementem wyposażenia placów zabaw lub ogrodowych stref rekreacyjnych. Kategoria 'Huśtawki i place zabaw' jest najbardziej szczegółową i adekwatną kategorią dla tego typu akcesorium."
+    },
+    {
+        "ID_Produktu": "42899",
+        "Nazwa_Produktu": "Pokrowiec na rakietkę do tenisa stołowego DONIC Trendline - szary",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'tenis stołowy' (rakietka do tenisa stołowego) i kategoria 'Tenis stołowy' jest najbardziej szczegółową i bezpośrednio pasującą kategorią w drzewie."
+    },
+    {
+        "ID_Produktu": "42900",
+        "Nazwa_Produktu": "Sprężyna do trampoliny MASTER Super - 21 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Pozostałe",
+        "Finalne_ID_AI": 4333,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sprężyna zapasowa do trampoliny. Trampolina to sprzęt fitness. Brak bardziej szczegółowej kategorii dla części do trampolin, więc 'Sprzęt fitness > Pozostałe' jest najbardziej odpowiednią kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "42906",
+        "Nazwa_Produktu": "PIŁKA NOŻNA FC BARCELONA ARROWS CARBON R.5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka nożna, która jest akcesorium do sportów drużynowych, a konkretnie do piłki nożnej. Kategoria 'Akcesoria' jest najbardziej szczegółową i trafioną podkategorią w drzewie dla tego produktu."
+    },
+    {
+        "ID_Produktu": "42907",
+        "Nazwa_Produktu": "PIŁKA NOŻNA BORUSSIA DORTMUND R.5",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka nożna, która jest akcesorium do dyscypliny sportowej \"Piłka nożna\". Kategoria \"Akcesoria\" pod \"Piłka nożna\" jest najbardziej szczegółowa i precyzyjna."
+    },
+    {
+        "ID_Produktu": "42917",
+        "Nazwa_Produktu": "Kółka do hulajnogi MASTER 145 mm - czarne",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Kółka do hulajnogi', a kategoria 'Hulajnogi' jest najbardziej szczegółową kategorią-liściem bezpośrednio odnoszącą się do hulajnóg, pomimo że są to akcesoria/części, a nie kompletna hulajnoga. W przypadku braku dedykowanej podkategorii 'Akcesoria do hulajnóg' pod kategorią 'Hulajnogi', umieszczenie kółek bezpośrednio w kategorii 'Hulajnogi' jest najlepszym i najbardziej specyficznym wyborem. Kategoria 'Akcesoria skating' byłaby zbyt ogólna, ponieważ produkt jest specyficzny dla hulajnóg."
     }
 ]
