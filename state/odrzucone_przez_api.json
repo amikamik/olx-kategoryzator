@@ -11885,5 +11885,72 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1007315",
+        "Nazwa_Produktu": "Ramię nasadka miksująca do blendera miksera napędu ręcznego Royal Catering RCMA-400 400mm",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalne_ID_AI": 3126,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest częścią zamienną (ramieniem/nasadką) do blendera ręcznego. Kategoria 'Części i akcesoria AGD do kuchni' (3126) jest najbardziej specyficzną kategorią dla komponentów urządzeń miksujących w dostarczonym drzewie, obejmującą akcesoria i części do sprzętu kuchennego bez względu na jego domowe lub profesjonalne (Royal Catering) przeznaczenie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Ramię nasadka miksująca do blendera miksera napędu ręcznego royal",
+                "description": "Nazwa producenta: RCMA-400 Końcówka do blendera Royal Catering umożliwia szybkie i komfortowe przygotowanie owocowych i warzywnych koktajli, smoothies, pure ziemniaczanego, zup, sosów, sałatek, kremów i ciast. Model sprawdzi się m.in. w restauracjach, barach, pubach, kawiarniach, lodziarniach oraz fabrykach żywności. Jest to część zamienna do blenderów tej samej marki. Cechy i funkcje: - Uniwersalność - do zup, kremów, sosów, koktajli, smoothies itd. - 40 cm długości - miksowanie żywności w głębokich pojemnikach - Łatwy montaż - szybkie zakładanie i zdejmowanie końcówki z blendera - Odporność na korozję i proste zachowanie w czystości - stal nierdzewna Parametry techniczne: - Model - RCMA-400 - Nr katalogowy - 10010664 - Stan artykułu - Nowy - Materiał ostrzy i końcówki - Stal nierdzewna - Długość końcówki - 40 cm - Średnica produktu spożywczego - 8,4 cm - Wymiary (DxSxW) - 8,00 x 8,00 x 40,50 cm - Waga - 1,30 kg - Wymiary wysyłki (DxSxW) - 8,30 x 8,30 x 50,50 cm - Waga wysyłki - 1,40 kg W zestawie: - Końcówka do blendera\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: EXPONDO POLSKA SP. Z O.O. SP. K.\nAdres: Dekoracyjna 3, 65-155, Zielona Góra, Polska\nEmail: info(at)expondo.pl\nTelefon: +48688881008\n----------------------------------------",
+                "category_id": 3126,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 428.44,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/10010664-ramie-nasadka-miksujaca-do-blendera-miksera-napedu-recznego-royal-catering-rcma-400-mm.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/10010664-ramie-nasadka-miksujaca-do-blendera-miksera-napedu-recznego-royal-catering-rcma-400-400mm.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/10010664-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/10010665-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/10/10010665-3.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]
