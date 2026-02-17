@@ -29,6 +29,11 @@ on:
         required: false
         default: true
         type: boolean
+      max_price:
+        description: 'Do jakiej ceny (zł) przetwarzać produkty z feedu?'
+        required: false
+        default: '150'
+        type: string
 
 permissions:
   contents: write
@@ -128,7 +133,7 @@ jobs:
           COMMISSION_PERCENT = 0.12
           MINIMUM_PROFIT_PLN = 15.0
           CENA_MIN = 1.0
-          CENA_MAX = 150.0
+          CENA_MAX = float(${{ inputs.max_price }})
 
           # --- Parametry kategoryzacji ---
           MINIMALNA_PEWNOSC = 80
@@ -149,6 +154,7 @@ jobs:
           echo "KATEGORYZACJA OLX - GEMINI"
           echo "Model: ${{ inputs.gemini_model }}"
           echo "Sample size: ${{ inputs.sample_size }}"
+          echo "Max price: ${{ inputs.max_price }} zł"
           echo "Refresh feed: ${{ inputs.refresh_feed }}"
           echo "=================================="
           echo ""
@@ -198,7 +204,7 @@ jobs:
               -H "Authorization: Bearer ${{ secrets.GH_PAT }}" \
               -H "Accept: application/vnd.github.v3+json" \
               https://api.github.com/repos/${{ github.repository }}/actions/workflows/kategoryzator.yml/dispatches \
-              -d "{\"ref\":\"${{ github.ref_name }}\",\"inputs\":{\"gemini_model\":\"${{ inputs.gemini_model }}\",\"sample_size\":\"${{ inputs.sample_size }}\",\"reset_state\":\"false\"}}"
+              -d "{\"ref\":\"${{ github.ref_name }}\",\"inputs\":{\"gemini_model\":\"${{ inputs.gemini_model }}\",\"sample_size\":\"${{ inputs.sample_size }}\",\"reset_state\":\"false\",\"max_price\":\"${{ inputs.max_price }}\"}}"
 
             echo "✅ Workflow został ponownie uruchomiony"
           else
