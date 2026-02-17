@@ -11538,5 +11538,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to metalowy kubeł na odpady (kosz na śmieci). Wybrana kategoria jest jedyną w drzewie kategorii OLX, która w nazwie wprost odnosi się do koszy na śmieci i pojemników na odpady w sekcji Dom i Ogród, co czyni ją najbardziej trafnym wyborem funkcjonalnym, mimo że jej nadrzędną kategorią są przybory kuchenne."
+    },
+    {
+        "ID_Produktu": "1002583",
+        "Nazwa_Produktu": "Patelnia do grilla gazowego Master emaliowana 650x540cm - Hendi 154656",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wielkoformatowa (65cm) patelnia emaliowana marki Hendi, która jest profesjonalnym dostawcą sprzętu gastronomicznego. Produkt jest przeznaczony do konkretnych modeli przemysłowych grilli gazowych (Master Quattro/Maxi), co jednoznacznie klasyfikuje go jako wyposażenie dla branży gastronomicznej w kategorii patelni specjalistycznych."
+    },
+    {
+        "ID_Produktu": "1003216",
+        "Nazwa_Produktu": "Taca blacha do piekarnika pieca nieprzywierająca GN1/1 wys. 65mm - Hendi 805534",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik w standardzie gastronomicznym GN 1/1 marki Hendi. Oznaczenie GN (Gastronorm) oraz marka producenta wskazują na profesjonalne wyposażenie kuchni, które na OLX kategoryzuje się w dziale Firma i Przemysł pod konkretną pozycją dla pojemników gastronomicznych."
+    },
+    {
+        "ID_Produktu": "1003217",
+        "Nazwa_Produktu": "Taca blacha do piekarnika pieca nieprzywierająca GN1/1 wys. 40mm - Hendi 805541",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt został jednoznacznie zidentyfikowany jako pojemnik w standardzie GN 1/1 (Gastronorm), który jest profesjonalnym standardem wymiarowym stosowanym w gastronomii. Marka Hendi jest czołowym dostawcą wyposażenia dla branży HoReCa, co sprawia, że kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "1003218",
+        "Nazwa_Produktu": "Taca blacha do piekarnika pieca nieprzywierająca GN1/1 wys. 20mm - Hendi 805558",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik standardu gastronomicznego (GN 1/1) marki Hendi. Ze względu na specyficzny wymiar przemysłowy (530x325mm) oraz markę dedykowaną dla HoReCa, najlepiej pasuje do kategorii pojemników gastronomicznych w sekcji Firma i Przemysł."
     }
 ]
