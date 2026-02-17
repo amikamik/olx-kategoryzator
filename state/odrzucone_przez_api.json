@@ -11278,5 +11278,55 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1004158",
+        "Nazwa_Produktu": "Profesjonalny nóż do wędlin i łososia ze szlifem kulkowym kuty Profi Line 300 mm - Hendi 844328",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalne_ID_AI": 2128,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym nożem kuchennym. Najdokładniejszą kategorią liściastą dla tego typu przedmiotu w drzewie kategorii OLX jest 'Noże i nożyce kuchenne' (ID: 2128) w sekcji Przybory kuchenne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Profesjonalny nóż do wędlin i łososia ze szlifem kulkowym kuty profi",
+                "description": "Numer producenta: HENDI 844328 Nóż do szynki i łososia - szlif kulkowy z serii Profi Line marki Hendi. Cechy produktu: - wykonany z wysokiej jakości niemieckiej stali węglowej - specjalny stop stali chirurgicznej chromowo - molibdenowo - wanadowej X50CrMoV15 gwarantuje: doskonałe właściwości tnące, bardzo ostre i trwałe ostrze, łatwe ostrzenie, odporność na zabrudzenia - higieniczna zgodna z HACCP konstrukcja rękojeści uniemożliwia gromadzenie się resztek w miejscach łączeń - proces produkcyjny noży składa się z 50 etapów - nóż posiada idealną krawędź tnącą - kuty na gorąco z jednego kawałka stali - każdy nóż jest w osobnym estetycznym blistrze - można myć w zmywarkach - rączka z tworzywa POM Parametry: - długość ostrza: 300mm - długość noża: 430mm - grubość: 2,6mm W zestawie: - nóż do szynki i łososia - instrukcja PL\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2128,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 224.55,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/844328-hendi-profesjonalny-noz-do-wedlin-i-lososia-ze-szlifem-kulkowym-kuty-profi-line-300-mm-hurtownia-sklep-cena-tanio.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
     }
 ]
