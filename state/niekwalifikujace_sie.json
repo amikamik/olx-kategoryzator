@@ -6188,5 +6188,265 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zjeżdżalnia basenowa, przeznaczona do użytku z basenem. Kategoria 'Baseny' w 'Dom i Ogród' jest najbardziej specyficznym miejscem dla tego typu akcesoriów, nawet jeśli są to zabawki dla dzieci. Jest to bardziej szczegółowe niż ogólna kategoria 'Zabawki > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "26186",
+        "Nazwa_Produktu": "Piłka do siatkówki SPALDING Extreme Pro biała",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do siatkówki. Najbardziej szczegółowa i precyzyjna kategoria to 'Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria', ponieważ piłka jest akcesorium dedykowanym do konkretnego sportu drużynowego - siatkówki. Jest to lepsze dopasowanie niż ogólna kategoria 'Piłki do ćwiczeń' w 'Fitness'."
+    },
+    {
+        "ID_Produktu": "26188",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Silver Series - 7",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki, która jest akcesorium do gry w koszykówkę. Kategoria 'Akcesoria' pod 'Sport i Hobby > Sporty drużynowe > Koszykówka' jest idealnie dopasowana."
+    },
+    {
+        "ID_Produktu": "26311",
+        "Nazwa_Produktu": "Lina wspinaczkowa MASTER 6 m",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Pozostałe",
+        "Finalne_ID_AI": 4333,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to sprzęt do ćwiczeń fizycznych (wspinaczka po linie), wzmacniający mięśnie. Kategoria 'Pozostałe' pod 'Sprzęt fitness' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu jako wyposażenie do aktywności fizycznej/treningu, która nie mieści się w bardziej szczegółowych podkategoriach sprzętu fitness."
+    },
+    {
+        "ID_Produktu": "26718",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Rainbow Graffiti - 7",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to piłka do koszykówki, która jest akcesorium do tego konkretnego sportu drużynowego. Kategoria 'Akcesoria' w podkategorii 'Koszykówka' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "26720",
+        "Nazwa_Produktu": "Zestaw do krokieta LUCIO LONDERO dla 4 graczy",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Dla dzieci",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gra ogrodowa dla kilku graczy, co idealnie pasuje do ogólnej kategorii 'Sport i Hobby', a dokładniej do 'Sporty towarzyskie'. Ponieważ krokiet nie ma swojej dedykowanej podkategorii, 'Pozostałe sporty towarzyskie' jest najbardziej szczegółowym i odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "26791",
+        "Nazwa_Produktu": "Bramka do piłki nożnej SPARTAN Brasil 183 x 122 x 92 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bramka do piłki nożnej, która jest akcesorium do gry w piłkę nożną, będącą sportem drużynowym. Kategoria 'Akcesoria' w podkategorii 'Piłka nożna' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "26793",
+        "Nazwa_Produktu": "Tablica wyników DONIC Scorer",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tablica wyników przeznaczona do tenisa stołowego, co idealnie pasuje do kategorii 'Tenis stołowy' w drzewie 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'."
+    },
+    {
+        "ID_Produktu": "26796",
+        "Nazwa_Produktu": "Zestaw bramek do piłki nożnej SPARTAN Pop Up - 125 x 80 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw bramek do piłki nożnej, przeznaczony dla juniorów, co klasyfikuje go jako sprzęt sportowy. Najbardziej precyzyjna kategoria to 'Akcesoria' w ramach 'Piłka nożna', która jest podkategorią 'Sporty drużynowe' w gałęzi 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "26808",
+        "Nazwa_Produktu": "Hulajnoga SPARTAN Harry Potter - 145 mm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga, która jest dokładnie zdefiniowana w kategorii 'Sport i Hobby > Skating > Hulajnogi'. Opis podkreśla, że jest to środek transportu i aktywności fizycznej dla osób w każdym wieku, z maksymalnym obciążeniem do 100 kg, co idealnie pasuje do kategorii sportowej, a nie ogólnej zabawki, pomimo motywu Harry'ego Pottera."
+    },
+    {
+        "ID_Produktu": "26811",
+        "Nazwa_Produktu": "Plastikowy snowboard dziecięcy - 130 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Snowboard",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty zimowe > Snowboard",
+        "Finalne_ID_AI": 1933,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'Snowboard dziecięcy', co idealnie pasuje do kategorii-liścia 'Snowboard' w drzewie 'Sport i Hobby > Sporty zimowe'."
+    },
+    {
+        "ID_Produktu": "26937",
+        "Nazwa_Produktu": "Wanna Lodowa Basen Beczka Balia do Morsowania MASTER 80 x 75 cm - składana",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Architektura ogrodowa > Sauny i balie ogrodowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa > Sauny i balie ogrodowe",
+        "Finalne_ID_AI": 3051,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to składana beczka/balia przeznaczona do morsowania w ogrodzie lub na balkonie. Kategoria 'Sauny i balie ogrodowe' jest najbardziej szczegółowa i trafna, ponieważ odnosi się do basenów i wanien/bali wykorzystywanych na zewnątrz, mimo że ta konkretna służy do zimnej wody, a nie gorącej czy sauny. Bezpośrednie tłumaczenie 'balia' jest w nazwie produktu i kategorii."
+    },
+    {
+        "ID_Produktu": "40922",
+        "Nazwa_Produktu": "Pokrowiec ochronny na stół do tenisa stołowego JOOLA - zewnętrzny",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec ochronny przeznaczony specjalnie do stołu do tenisa stołowego. Kategoria 'Tenis stołowy' jest najbardziej precyzyjną kategorią-liściem dla tego typu akcesorium."
+    },
+    {
+        "ID_Produktu": "40923",
+        "Nazwa_Produktu": "Siatka do tenisa stołowego JOOLA Pro Tour",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje, że jest to 'Siatka do tenisa stołowego'. W drzewie kategorii istnieje bardzo szczegółowa kategoria 'Tenis stołowy', która idealnie pasuje do tego produktu."
+    },
+    {
+        "ID_Produktu": "40930",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego JOOLA Carbon Speed + pokrowiec i piłeczki",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Tenis stołowy' (raketka do tenisa stołowego, piłeczki, pokrycie ITTF). Kategoria jest liściem i jest bardzo precyzyjna."
+    },
+    {
+        "ID_Produktu": "40932",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego JOOLA Duo Pro",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na zestaw do tenisa stołowego, a kategoria 'Tenis stołowy' jest najbardziej szczegółową i precyzyjną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "41200",
+        "Nazwa_Produktu": "Siatka do tenisa stołowego JOOLA Aluminum WX",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do tenisa stołowego, co idealnie pasuje do kategorii 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy'."
+    },
+    {
+        "ID_Produktu": "41201",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego JOOLA Training 144 szt. - białe",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Piłeczki do tenisa stołowego', co idealnie pasuje do kategorii 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy', która jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "41203",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego JOOLA Carbon Pro",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na rakietkę do tenisa stołowego, co idealnie pasuje do kategorii 'Tenis stołowy' będącej liściem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "41207",
+        "Nazwa_Produktu": "Bramka do piłki nożnej SPARTAN Quick Set Up 270 x 150 x 100 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to bramka do piłki nożnej, przeznaczona do użytku rekreacyjnego dla fanów piłki nożnej. Kategoria 'Sport i Hobby > Sporty drużynowe > Piłka nożna' jest najbardziej precyzyjna. W ramach tej kategorii, 'Akcesoria' jest najlepszym wyborem dla sprzętu takiego jak bramka, ponieważ nie jest to odzież ani obuwie, a brakuje bardziej szczegółowej kategorii 'Sprzęt' lub 'Wyposażenie'. Rozmiar bramki (270 x 150 x 100 cm) sugeruje, że nie jest to typowa zabawka dla dzieci, co wyklucza kategorię 'Dla Dzieci > Zabawki'."
+    },
+    {
+        "ID_Produktu": "41460",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego JOOLA Rosskopf Classic",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na rakietkę przeznaczoną do tenisa stołowego. Kategoria 'Tenis stołowy' jest najbardziej precyzyjną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "41472",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego SCHILDKROT *białe 120 szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że są to piłeczki do tenisa stołowego. Kategoria 'Tenis stołowy' jest najbardziej szczegółową i idealnie pasującą kategorią liściową w drzewie."
+    },
+    {
+        "ID_Produktu": "41478",
+        "Nazwa_Produktu": "Nadmuchiwana sofa rozkładana 198 x 138 x 62 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Sofy i kanapy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Sofy i kanapy",
+        "Finalne_ID_AI": 722,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to nadmuchiwana sofa, która może być również używana jako materac. Kategoria 'Sofy i kanapy' jest najbardziej szczegółową i najlepiej pasującą opcją, ponieważ 'sofa' jest głównym desygnatorem produktu, a jej nadmuchiwany charakter nie wymaga bardziej specyficznej podkategorii w dostępnym drzewie."
+    },
+    {
+        "ID_Produktu": "41699",
+        "Nazwa_Produktu": "Siatka do tenisa stołowego DONIC Stress",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do tenisa stołowego, co idealnie pasuje do kategorii 'Tenis stołowy' w drzewie kategorii 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'."
+    },
+    {
+        "ID_Produktu": "41700",
+        "Nazwa_Produktu": "Siatka do tenisa stołowego DONIC Clip Pro",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do tenisa stołowego, co idealnie pasuje do kategorii \"Tenis stołowy\", która jest najbardziej szczegółową dostępną opcją dla tego produktu."
+    },
+    {
+        "ID_Produktu": "41704",
+        "Nazwa_Produktu": "Pompka elektryczna - kompresor MASTER do paddleboardów i airtracków 12 V - 16 PSI",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Pompki rowerowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pompka elektryczna przeznaczona głównie do paddleboardów (SUP) oraz airtracków, czyli dużych dmuchanych obiektów. Kategoria 'Sport i Hobby > Sporty wodne > SUP > Akcesoria' jest najbardziej szczegółowa i trafna, ponieważ pompka jest akcesorium do SUP."
+    },
+    {
+        "ID_Produktu": "41707",
+        "Nazwa_Produktu": "Piłeczki do tenisa stołowego JOOLA Magic ABS 72 szt. - białe",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje na 'Piłeczki do tenisa stołowego', a kategoria 'Tenis stołowy' (ID: 5027) jest najbardziej szczegółową i precyzyjną, jaką można znaleźć w drzewie kategorii OLX.pl, będąc jednocześnie kategorią-liściem. Opis produktu potwierdza to dopasowanie."
     }
 ]
