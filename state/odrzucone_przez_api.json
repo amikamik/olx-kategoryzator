@@ -681,5 +681,67 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "25638",
+        "Nazwa_Produktu": "Rękawice bokserskie SPARTAN - 10",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Odzież i obuwie rowerowe > Rękawiczki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Rękawice bokserskie są akcesorium przeznaczonym do treningów sportowych, co idealnie pasuje do kategorii 'Sport i Hobby > Fitness > Akcesoria treningowe'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rękawice bokserskie spartan - 10",
+                "description": "Rękawice bokserskie SPARTAN to idealny wybór dla osób zaczynających swoją przygodę z boksem jak i osób, które mają już doświadczenie. Rękawice są wykonane z materiału skórzanego oraz posiadają zapięcie na rzep. Specyfikacja: Rękawice bokserskie Materiał skórzany Zapięcie na rzep Rozmiar: 10 Waga z opakowaniem: 0,50 kg Wymiary opakowania: 36 x 15 x 13 cm\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: SPARTAN GmbH\nAdres: Hermann-Gebauer-Strae 9, A-1220, Wien, AT\nEmail: info(at)spartan-sport.at\nTelefon: +43(1)2597116\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 295.45,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/sportywalki/boks/rekawice/S8103/S810.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

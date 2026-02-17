@@ -5978,5 +5978,115 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to wiosło teleskopowe przeznaczone do paddleboardingu (SUP), co bezpośrednio wskazuje na kategorię 'Sporty wodne'. W ramach tej kategorii, 'SUP' jest najbardziej precyzyjną podkategorią, a 'Akcesoria' jest idealnym dopasowaniem dla wiosła."
+    },
+    {
+        "ID_Produktu": "25453",
+        "Nazwa_Produktu": "Zestaw bramek do piłki nożnej SCHILDKROT Pop-Up Bramki - 125 x 80 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw bramek do piłki nożnej, które są akcesoriami do uprawiania tego sportu. Kategoria 'Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria' idealnie odpowiada charakterystyce produktu."
+    },
+    {
+        "ID_Produktu": "25457",
+        "Nazwa_Produktu": "Bramka do piłki nożnej SCHILDKROT XL - 200 x 100 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to bramka do piłki nożnej, co idealnie pasuje do kategorii 'Akcesoria' w ramach 'Piłki nożnej', która z kolei jest podkategorią 'Sportów drużynowych' w 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "25458",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC CarboTec 900",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na rakietkę do tenisa stołowego, co idealnie pasuje do kategorii 'Tenis stołowy' w drzewie."
+    },
+    {
+        "ID_Produktu": "25491",
+        "Nazwa_Produktu": "Zagłówki do jacuzzi z hydromasażem BESTWAY  - 2 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zagłówki do jacuzzi z hydromasażem. Jacuzzi jest rodzajem basenu/SPA, więc kategoria 'Baseny' jest najbardziej odpowiednia i szczegółowa z dostępnych opcji, mimo że jest to akcesorium."
+    },
+    {
+        "ID_Produktu": "25503",
+        "Nazwa_Produktu": "Drabinka do basenu 84 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to drabinka do basenu, idealnie pasuje do kategorii 'Baseny' w drzewie 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "25519",
+        "Nazwa_Produktu": "Hulajnoga freestyle SPARTAN Stunt Alu - pomarańczowa",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje na 'Hulajnoga', a opis 'freestyle' i 'Stunt Alu' oraz dane techniczne potwierdzają, że jest to hulajnoga sportowa. Kategoria 'Sport i Hobby > Skating > Hulajnogi' jest najbardziej szczegółowa i precyzyjna."
+    },
+    {
+        "ID_Produktu": "25533",
+        "Nazwa_Produktu": "Huśtawka Bocianie Gniazdo SPARTAN 95 cm - pomarańczowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka, która idealnie pasuje do kategorii 'Huśtawki i place zabaw' w obrębie 'Dom i Ogród > Ogród'. Opis wyraźnie wskazuje na jej przeznaczenie dla dzieci do zabawy na zewnątrz, co jest zgodne z tą kategorią."
+    },
+    {
+        "ID_Produktu": "25535",
+        "Nazwa_Produktu": "Zestaw do pielęgnacji basenu BESTWAY Aquacrawl",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do pielęgnacji basenu, który idealnie pasuje do kategorii 'Baseny' znajdującej się w drzewie 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "25601",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego SCHILDKROT Mini",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na zestaw do tenisa stołowego. Najbardziej szczegółową kategorią jest 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy'."
+    },
+    {
+        "ID_Produktu": "25605",
+        "Nazwa_Produktu": "Zestaw do speed badmintona TALBOT TORRO Speed ​​5500",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Badminton",
+        "Finalne_ID_AI": 5029,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do speed badmintona, a w drzewie kategorii istnieje dokładna kategoria 'Badminton' (ID: 5029), która jest najbardziej szczegółowa i precyzyjna."
+    },
+    {
+        "ID_Produktu": "25610",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Top Team 900",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co idealnie pasuje do kategorii 'Tenis stołowy' z pełną ścieżką 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy'. Jest to najbardziej szczegółowa i trafna kategoria dla tego typu produktu."
     }
 ]
