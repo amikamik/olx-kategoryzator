@@ -743,5 +743,67 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "25654",
+        "Nazwa_Produktu": "Zapasowa siatka zabezpieczająca - zewnętrzna SPARTAN 305 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe",
+        "Finalne_ID_AI": 4317,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to siatka zabezpieczająca przeznaczona na trampolinę, która jest sprzętem sportowym/fitness. Kategoria 'Akcesoria treningowe' najlepiej pasuje do tego typu dodatku do sprzętu sportowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zapasowa siatka zabezpieczająca - zewnętrzna spartan 305 cm",
+                "description": "Zapasowa siatka zabezpieczająca - zewnętrzna SPARTAN 305 cm Specyfikacja: siatka ochronna przeznaczona jest do użytku na zewnątrz mocna i wytrzymała siatka ochronna odporna na promieniowanie UV wysokość ok. 2m otwór wejściowy zabezpieczony jest zamkiem błyskawicznym tylko osobna sieć bez krat przeznaczony na trampolinę z trzema nogami - 6 drążków waga opakowania: 1,00 kg\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: SPARTAN GmbH\nAdres: Hermann-Gebauer-Strae 9, A-1220, Wien, AT\nEmail: info(at)spartan-sport.at\nTelefon: +43(1)2597116\n----------------------------------------",
+                "category_id": 4317,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 250.99,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/trampoliny/akcesoria/S1077/spartaneta.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

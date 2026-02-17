@@ -6088,5 +6088,105 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co idealnie pasuje do kategorii 'Tenis stołowy' z pełną ścieżką 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy'. Jest to najbardziej szczegółowa i trafna kategoria dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "25652",
+        "Nazwa_Produktu": "Zapasowa siatka zabezpieczająca - zewnętrzna SPARTAN 305 cm - 4 nogi",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zapasowa siatka zabezpieczająca do trampoliny, która jest elementem wyposażenia placów zabaw lub ogrodu. Kategoria 'Huśtawki i place zabaw' jest najbardziej szczegółową i adekwatną dla tego typu akcesoriów outdoorowych dla dzieci."
+    },
+    {
+        "ID_Produktu": "25657",
+        "Nazwa_Produktu": "Zapasowa Siatka Ochronna do Trampoliny MASTER 300 x 210 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to siatka ochronna do trampoliny. Trampolina to element wyposażenia ogrodu, często klasyfikowany jako część huśtawek i placów zabaw. Wybrana kategoria jest liściem i doskonale pasuje do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "25736",
+        "Nazwa_Produktu": "Deskorolka SPARTAN Cruiser Board 28",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Deskorolki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Deskorolki",
+        "Finalne_ID_AI": 1675,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest deskorolką, a opis wyraźnie wskazuje na jej przeznaczenie do jazdy po mieście i w skateparku. Idealnie pasuje do kategorii 'Sport i Hobby > Skating > Deskorolki'."
+    },
+    {
+        "ID_Produktu": "25783",
+        "Nazwa_Produktu": "Obręcz do koszykówki MASTER Arcade",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obręcz do koszykówki dla dzieci wraz z akcesoriami (piłka, pompka). Mimo przeznaczenia dla dzieci, jest to akcesorium sportowe do konkretnej dyscypliny, co sprawia, że kategoria 'Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria' jest najbardziej precyzyjna i szczegółowa."
+    },
+    {
+        "ID_Produktu": "25786",
+        "Nazwa_Produktu": "Trenażer odbijający Rebounder MASTER Chicnet 100 x 100 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Trenażery eliptyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to trenażer odbijający (rebounder), który jest typowym sprzętem treningowym do ćwiczenia odbijania i podawania piłki, najczęściej wykorzystywanym w piłce nożnej. Kategoria 'Piłka nożna > Akcesoria' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie tego typu urządzenia."
+    },
+    {
+        "ID_Produktu": "25810",
+        "Nazwa_Produktu": "Przykrycie solarne do basenu 527 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to przykrycie solarne przeznaczone bezpośrednio do basenów, co idealnie pasuje do kategorii 'Baseny' w drzewie 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "25836",
+        "Nazwa_Produktu": "Wanna Lodowa Basen Beczka Balia do Morsowania MASTER 75 x 75 cm - składana",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Architektura ogrodowa > Sauny i balie ogrodowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa > Sauny i balie ogrodowe",
+        "Finalne_ID_AI": 3051,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Wanna Lodowa Basen Beczka Balia do Morsowania'. Kategoria 'Sauny i balie ogrodowe' jest najbardziej szczegółowa i zawiera 'balie', co jest bezpośrednim określeniem dla tego typu produktu do użytku w ogrodzie lub na balkonie, choć nie jest to sauna, to jest to balia ogrodowa do terapii wodnej."
+    },
+    {
+        "ID_Produktu": "26125",
+        "Nazwa_Produktu": "Gra ogrodowa Zestaw SCHILDKROT Roundnet",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gra drużynowa o charakterze sportowym, niepasująca do żadnej z wyszczególnionych kategorii sportów drużynowych. Dlatego najlepiej pasuje do 'Sporty drużynowe > Pozostałe sporty drużynowe'."
+    },
+    {
+        "ID_Produktu": "26159",
+        "Nazwa_Produktu": "Lina wspinaczkowa MASTER 3 m - średnica 38 mm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lina wspinaczkowa, która służy do wzmacniania i modelowania górnej części ciała. Kategoria 'Drążki i poręcze' w ramach 'Sprzęt siłowy' najlepiej oddaje funkcję tego produktu, ponieważ jest to sprzęt do ćwiczeń siłowych z wykorzystaniem własnej masy ciała, podobnie jak drążki i poręcze. Jest to najbardziej szczegółowa i trafna kategoria dostępna w drzewie."
+    },
+    {
+        "ID_Produktu": "26169",
+        "Nazwa_Produktu": "Zjeżdżalnia Basenowa BESTWAY Giant Slide",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zjeżdżalnia basenowa, przeznaczona do użytku z basenem. Kategoria 'Baseny' w 'Dom i Ogród' jest najbardziej specyficznym miejscem dla tego typu akcesoriów, nawet jeśli są to zabawki dla dzieci. Jest to bardziej szczegółowe niż ogólna kategoria 'Zabawki > Pozostałe'."
     }
 ]
