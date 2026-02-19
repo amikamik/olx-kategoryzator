@@ -12788,5 +12788,625 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to wózek na pranie przeznaczony do użytku w branży HoReCa (Hotele, Restauracje, Catering). Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia, ponieważ hotele, które są kluczową częścią branży HoReCa, używają takich wózków. 'Wózki gastronomiczne' w tym kontekście obejmują szeroki zakres wózków użytkowych dla sektora HoReCa."
+    },
+    {
+        "ID_Produktu": "1002811",
+        "Nazwa_Produktu": "Garnek Budget Line z pokrywką 25 l śr. 345 x 350 h - Hendi 834206",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to garnek o pojemności 25 litrów, przeznaczony do użytku w małych i średnich lokalach gastronomicznych, co jest wyraźnie zaznaczone w opisie. Marka Hendi jest również znana z dostarczania sprzętu gastronomicznego. Mimo braku dedykowanej podkategorii 'Garnki gastronomiczne', kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej odpowiednia ze względu na profesjonalne przeznaczenie produktu, co jest kluczowe w kategoryzacji na OLX, i jest kategorią liściową."
+    },
+    {
+        "ID_Produktu": "1002859",
+        "Nazwa_Produktu": "Patelnia Profi Line śr. 400 mm - Hendi 629390",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna patelnia przeznaczona do użytku w gastronomii (restauracje, hotele, lokale gastronomiczne), co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Patelnie gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1003485",
+        "Nazwa_Produktu": "Pojemnik GN 1/1 stal nierdzewna Profi Line wys. 200 mm - Hendi 801208",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN przeznaczony do profesjonalnego użytku w gastronomii (restauracje, hotele, bary mleczne). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i idealnie pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "1004351",
+        "Nazwa_Produktu": "Profesjonalna wirówka do odsączania sałaty 12 l - Hendi 222553",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna wirówka do sałaty o dużej pojemności (12l), co sugeruje zastosowanie w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej adekwatna do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "1001850",
+        "Nazwa_Produktu": "Dyspenser dozownik do soków i napojów chłodzony lodem 8L - Hendi 425299",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dozownik do soków przeznaczony do użytku w restauracjach i firmach cateringowych. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia dla sprzętu gastronomicznego. Ponieważ nie ma bardziej szczegółowej kategorii dla dozowników do soków, 'Pozostałe' w ramach Gastronomii jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1001852",
+        "Nazwa_Produktu": "Dyspenser dozownik do muesli i płatków śniadaniowych 4L - Hendi 557402",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dozownik do płatków śniadaniowych i muesli, marki Hendi, który zgodnie z opisem idealnie sprawdzi się w bufetach. Marka Hendi jest kojarzona ze sprzętem gastronomicznym, a zastosowanie w bufetach wskazuje na kategorię gastronomiczną. Najbardziej szczegółową kategorią jest 'Pojemniki gastronomiczne' w ramach 'Firma i Przemysł > Gastronomia', co jest bardziej precyzyjne niż ogólne 'Pojemniki i przechowywanie żywności' w Dom i Ogród, biorąc pod uwagę profesjonalne zastosowanie."
+    },
+    {
+        "ID_Produktu": "1001906",
+        "Nazwa_Produktu": "Podgrzewacz bemar elektryczny stołowy GN1/1 65mm Kitchen Line 900W - Hendi 204825",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Bemary",
+        "Finalne_ID_AI": 5039,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektryczny podgrzewacz stołowy typu bemar, przeznaczony do użytku gastronomicznego z pojemnikami GN. Kategoria 'Bemary' jest najbardziej precyzyjnym i szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1002017",
+        "Nazwa_Produktu": "Taca z wkładem chłodzącym GN1/1 i pokrywą RollTop - Hendi 424186",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to taca z wkładem chłodzącym w standardzie GN1/1, co jednoznacznie wskazuje na zastosowanie profesjonalne, gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu, w porównaniu do ogólnej kategorii 'Tace i stoliki' z 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "1002021",
+        "Nazwa_Produktu": "Witrynka do ekspozycji potraw chłodzona wkładami 48x35x48cm - UNIQ Hendi 871812",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Lady i witryny chłodnicze",
+        "Finalne_ID_AI": 5070,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to chłodzona witrynka do ekspozycji potraw, przeznaczona dla restauracji, kawiarni i barów. Kategoria 'Firma i Przemysł > Gastronomia > Lady i witryny chłodnicze' jest idealnie dopasowana do tego typu komercyjnego sprzętu do prezentacji i chłodzenia żywności."
+    },
+    {
+        "ID_Produktu": "1002394",
+        "Nazwa_Produktu": "Pojemnik do lodu stalowy termiczny podwójne ścianki 5L - Hendi 594704",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to termiczny pojemnik do lodu ze stali nierdzewnej, a marka Hendi jest znana z profesjonalnego sprzętu gastronomicznego, co sugeruje zastosowanie w sektorze Firma i Przemysł. Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej odpowiada specyfice produktu."
+    },
+    {
+        "ID_Produktu": "1003089",
+        "Nazwa_Produktu": "Wałek ślimakowy ślimak do wilka HENDI Profi Line 22 - Hendi 933367",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'ślimak do wilka' (część maszynki do mięsa), a 'Hendi Profi Line' sugeruje zastosowanie profesjonalne/przemysłowe. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej precyzyjna i znajduje się na głębokim poziomie, idealnie pasując do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "1004379",
+        "Nazwa_Produktu": "Warnik podgrzewacz do wody stalowy 2200W 9L - Hendi 209882",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Warniki",
+        "Finalne_ID_AI": 5067,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to warnik, który jest urządzeniem gastronomicznym, idealnie pasującym do kategorii 'Firma i Przemysł > Gastronomia > Warniki'."
+    },
+    {
+        "ID_Produktu": "1004382",
+        "Nazwa_Produktu": "Warnik podgrzewacz do grzańca grzanego wina piwa 28L - Hendi 240601",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Warniki",
+        "Finalne_ID_AI": 5067,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to warnik, czyli urządzenie do podgrzewania płynów, przeznaczone do użytku w gastronomii (pubach, restauracjach, kawiarniach). Kategoria 'Firma i Przemysł > Gastronomia > Warniki' jest najbardziej szczegółowa i precyzyjnie opisuje ten produkt."
+    },
+    {
+        "ID_Produktu": "1002611",
+        "Nazwa_Produktu": "Bateria umywalkowa sztorcowa stojąca gastronomiczna - Hendi 970508",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczna bateria umywalkowa przeznaczona do zastosowań gastronomicznych, co jasno wskazuje na kategorię 'Firma i Przemysł' -> 'Gastronomia'. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu sprzętu w gastronomii, wybrana została kategoria-liść 'Pozostałe' w ramach gałęzi 'Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1002613",
+        "Nazwa_Produktu": "Bateria umywalkowa bezdotykowa łokciowa stojąca - Hendi 970522",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Baterie łazienkowe",
+        "Finalne_ID_AI": 3229,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bateria umywalkowa, która idealnie pasuje do kategorii 'Baterie łazienkowe' będącej liściem w drzewie kategorii 'Dom i Ogród > Instalacje > Hydraulika' lub 'Dom i Ogród > Wykończenie wnętrz > Łazienka'."
+    },
+    {
+        "ID_Produktu": "1002634",
+        "Nazwa_Produktu": "Wózek do transportu koszy do zmywarek 7 koszy 50x50cm - Hendi 877173",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to wózek przeznaczony do transportu koszy do zmywarek, co jest specjalistycznym wyposażeniem gastronomicznym. Marka Hendi również wskazuje na zastosowanie profesjonalne. Kategoria 'Wózki gastronomiczne' jest najbardziej szczegółowa i precyzyjna."
+    },
+    {
+        "ID_Produktu": "1002659",
+        "Nazwa_Produktu": "Popielniczka stalowa zintegrowana z koszem na śmieci 33L - Hendi 691397",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowa popielniczka zintegrowana z koszem na śmieci o pojemności 33L, marki Hendi. Marka Hendi specjalizuje się w wyposażeniu gastronomicznym, a produkt tego typu (duży kosz z popielniczką) jest typowy dla obiektów gastronomicznych, hoteli czy biur. Najbardziej szczegółową i pasującą kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ kosz jest rodzajem pojemnika, a jego zastosowanie i marka wskazują na sektor gastronomiczny/komercyjny."
+    },
+    {
+        "ID_Produktu": "1002694",
+        "Nazwa_Produktu": "Zmiękczacz odkamieniacz do wody kuchenny gastronomiczny 8L - Hendi 231210",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest zmiękczaczem wody o przeznaczeniu gastronomicznym, do użytku w barach i restauracjach, z zastosowaniem w ekspresach do kawy, piecach konwekcyjno-parowych, zmywarkach i kostkarkach do lodu. Najbardziej szczegółowa i trafna kategoria-liść to 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ nie ma bardziej specyficznej kategorii dla tego typu urządzenia pomocniczego w gastronomii."
+    },
+    {
+        "ID_Produktu": "1002785",
+        "Nazwa_Produktu": "Wózek kelnerski 2-półkowy ze stali nierdzewnej do 100Kg - Hendi 810002",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Wózek kelnerski' / 'Wózek cateringowy' przeznaczony do gastronomii, hoteli itp. Najbardziej szczegółowa kategoria to 'Firma i Przemysł > Gastronomia > Wózki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1004754",
+        "Nazwa_Produktu": "Dozownik płynu myjącego z regulacją do zmywarki gastronomicznej - Hendi 231142",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do zmywarek",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektroniczny dozownik płynu myjącego przeznaczony do zmywarki gastronomicznej. Najbardziej szczegółowa i najlepiej pasująca kategoria to 'Firma i Przemysł > Gastronomia > Zmywarki', ponieważ określenie 'gastronomicznej' jednoznacznie wskazuje na zastosowanie profesjonalne, a 'Zmywarki' to konkretny typ urządzenia w tej branży. Kategoria 'Sprzęt AGD' byłaby nieodpowiednia, gdyż dotyczy sprzętu domowego."
+    },
+    {
+        "ID_Produktu": "1005139",
+        "Nazwa_Produktu": "Pojemnik GN z chowanymi uchwytami stal nierdzewna GN1/2 325x265mm wys. 200mm - Hendi 803400",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN, który jest standardem w gastronomii i jego opis wyraźnie wskazuje na zastosowanie w restauracjach, hotelach i innych lokalach gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjna, lepiej oddając przeznaczenie produktu niż ogólne 'Pojemniki i przechowywanie żywności' z kategorii 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "1005777",
+        "Nazwa_Produktu": "Tablica informacyjna reklamowa MENU wolnostojąca do restauracji 700x1100mm - Hendi 664100",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wolnostojąca tablica reklamowa/menu przeznaczona specjalnie dla restauracji. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do przeznaczenia produktu, a 'Pozostałe' jest najdokładniejszą kategorią-liściem w tym drzewie dla tego typu wyposażenia."
+    },
+    {
+        "ID_Produktu": "1005865",
+        "Nazwa_Produktu": "Termos cateringowy stalowy z pompką do napojów gorącyh poj. 3L - Hendi 445877",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'termos cateringowy', wyraźnie przeznaczony do użytku profesjonalnego w gastronomii ('na konferencjach, w punktach gastronomicznych, czy hotelach'). Dlatego najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', która jest bardziej specyficzna niż ogólna kategoria domowa zasugerowana przez system."
+    },
+    {
+        "ID_Produktu": "1005921",
+        "Nazwa_Produktu": "Bemar elektryczny podgrzewacz do zupy 150W 230V 3.8L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Podgrzewacze wody",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Bemary",
+        "Finalne_ID_AI": 5039,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektryczny bemar/podgrzewacz do zupy przeznaczony do użytku w branży HoReCa (bufety, hotele, restauracje). Kategoria 'Bemary' jest idealnie dopasowana i znajduje się na najgłębszym możliwym poziomie w drzewie 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1005945",
+        "Nazwa_Produktu": "Wózek fryzjerski mobilny na kółkach z szufladami PHYSA 5 szuflad",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble fryzjerskie > Pomocniki fryzjerskie",
+        "Finalne_ID_AI": 5099,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'wózek fryzjerski mobilny', określany w opisie jako 'pomocnik fryzjerski'. Kategoria 'Firma i Przemysł > Wyposażenie salonów > Meble fryzjerskie > Pomocniki fryzjerskie' jest najbardziej szczegółowa i idealnie pasuje do charakteru produktu. Wskazówka systemowa była błędna."
+    },
+    {
+        "ID_Produktu": "1006256",
+        "Nazwa_Produktu": "Popielniczka miejska zewnętrzna na stabilnej podstawie poj. 15L śr. 42cm wys. 98cm szara",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wolnostojąca popielniczka zewnętrzna o dużej pojemności, zaprojektowana z myślą o bezpieczeństwie pożarowym w zakładach przemysłowych i warsztatach. Idealnie pasuje do kategorii 'Firma i Przemysł' jako wyposażenie do użytku w otoczeniu komercyjnym i magazynowym, najlepiej jako 'Pozostałe' w 'Sklepy i magazyny', ponieważ nie jest to ani maszyna, ani typowe narzędzie, a raczej element wyposażenia przestrzeni."
+    },
+    {
+        "ID_Produktu": "1006257",
+        "Nazwa_Produktu": "Popielniczka miejska zewnętrzna na stabilnej podstawie poj. 15L śr. 42cm wys. 98cm czarna",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Pozostałe",
+        "Finalne_ID_AI": 5176,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to popielnica wolnostojąca przeznaczona dla zakładów przemysłowych i warsztatów, co wskazuje na zastosowanie w kategorii 'Firma i Przemysł'. W ramach tej kategorii 'Wyposażenie warsztatów' jest najbardziej odpowiednią podkategorią, a sama popielnica, niebędąca wyspecjalizowanym narzędziem, pasuje do ogólnej kategorii 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1006273",
+        "Nazwa_Produktu": "Kuchenka gazowa przemysłowa taboret MEGA ZEUS 7kW 40x40cm z płomiennikiem i piezo zapalnikiem",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalne_ID_AI": 5047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to przemysłowa kuchenka gazowa (taboret grzewczy) przeznaczona do użytku w gastronomii i przemyśle. Kategoria 'Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne' idealnie odzwierciedla przeznaczenie i charakter produktu, będąc znacznie bardziej szczegółową niż ogólne 'AGD wolnostojące' (Artykuły Gospodarstwa Domowego)."
+    },
+    {
+        "ID_Produktu": "1007314",
+        "Nazwa_Produktu": "Ramię nasadka miksująca do blendera miksera napędu ręcznego Royal Catering RCMA-300 300mm",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nasadka miksująca do blendera, opisana jako część zamienna, a producent (Royal Catering) i miejsca zastosowania (restauracje, bary, fabryki żywności) wskazują na przeznaczenie gastronomiczne/przemysłowe. Najbardziej szczegółową kategorią-liściem jest 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ nie ma bardziej specyficznej podkategorii dla części zamiennych do mikserów gastronomicznych."
+    },
+    {
+        "ID_Produktu": "1007435",
+        "Nazwa_Produktu": "Maszyna urządzenie polerka do czyszczenia butów Bredeco",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to maszyna do czyszczenia butów, przeznaczona do użytku w hotelach, pensjonatach, zakładach pracy i gospodarstwach domowych. Chociaż może być używana w domu, charakter produktu jako 'maszyny' i podkreślenie zastosowań komercyjnych (hotele, miejsca pracy) sprawia, że kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' jest bardziej precyzyjna niż ogólna kategoria 'AGD drobne' pod 'Elektroniką'."
+    },
+    {
+        "ID_Produktu": "1007574",
+        "Nazwa_Produktu": "Kosz pojemnik kubeł GASTRO ze szczelną pokrywą na śmieci odpady bio spożywcze - brązowy 240L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest koszem/pojemnikiem na odpady, ale z wyraźnym przeznaczeniem do zastosowań gastronomicznych (GASTRO, restauracje, kuchnie), co czyni kategorię 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najbardziej specyficzną i pasującą."
+    },
+    {
+        "ID_Produktu": "1007749",
+        "Nazwa_Produktu": "Wózek kelnerski cateringowy 3 półkowy do 150kg ze stali nierdzewnej Royal Catering RCSW 3A",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to \"Wózek kelnerski cateringowy\", a jego opis jasno wskazuje na przeznaczenie do intensywnego użytku w gastronomii (restauracje, hotele, catering). Kategoria \"Wózki gastronomiczne\" jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1007754",
+        "Nazwa_Produktu": "Wózek transportowy magazynowy platformowy ze składaną rączką do 400kg RCFT-1.1",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Koszyki i wózki",
+        "Finalne_ID_AI": 4673,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wózek transportowy platformowy, wyraźnie przeznaczony do użytku w magazynach, sklepach i hurtowniach. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Koszyki i wózki' jest idealnie dopasowana do tego typu produktu."
+    },
+    {
+        "ID_Produktu": "1007890",
+        "Nazwa_Produktu": "Waga przemysłowa paczkowa pocztowa 300kg / 50g LED Steinberg Systems SBS-PT-300C",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to waga przemysłowa przeznaczona do użytku w magazynach, urzędach pocztowych i firmach kurierskich, co idealnie pasuje do kategorii 'Firma i Przemysł > Sklepy i magazyny > Wagi'."
+    },
+    {
+        "ID_Produktu": "1007930",
+        "Nazwa_Produktu": "Wkład do filtra do wody Brita PURITY C 50 Hendi 1002730",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Filtry do wody",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wkład do filtra wody, czyli część zamienna. Marka Hendi oraz wymienione zastosowania (ekspresy do kawy, urządzenia vendingowe, urządzenia do gotowania na parze, piece) wskazują na przeznaczenie profesjonalne/przemysłowe. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej precyzyjnym i ogólnym miejscem dla części do różnorodnych maszyn przemysłowych, w przeciwieństwie do 'AGD drobne', które sugeruje użytek domowy."
+    },
+    {
+        "ID_Produktu": "1008385",
+        "Nazwa_Produktu": "Warnik do napojów o podwójnych ściankach oszczędny 10L Hendi 211168",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Warniki",
+        "Finalne_ID_AI": 5067,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to warnik/zaparzacz do kawy przeznaczony do użytku komercyjnego w branży HoReCa, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Warniki'."
+    },
+    {
+        "ID_Produktu": "1008528",
+        "Nazwa_Produktu": "Łopata do obracania pizzy z ruchomym uchwytem śr.200(H)1700mm Lilly Codroipo Hendi 617779",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Kuchnie dla dzieci",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna łopata do obracania pizzy, o czym świadczy specjalistyczny opis funkcji i brand (Hendi często kojarzone z gastronomią). Najbardziej szczegółową i adekwatną kategorią jest 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ jest to narzędzie gastronomiczne, a nie domowy przyrząd kuchenny."
+    },
+    {
+        "ID_Produktu": "1008532",
+        "Nazwa_Produktu": "Szczotka do pieca do pizzy z mosiężnym miękkim włosiem pionowa 170x55x(H)1700mm Lilly Codroipo Hendi 525647",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to szczotka do pieca do pizzy, co wskazuje na zastosowanie profesjonalne, gastronomiczne (marka Hendi również to potwierdza). Najbardziej szczegółowa kategoria w tym kontekście to 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ nie ma bardziej specyficznej kategorii dla akcesoriów do pieców do pizzy w ramach gałęzi gastronomii."
+    },
+    {
+        "ID_Produktu": "1008536",
+        "Nazwa_Produktu": "Szczotka do pieca do pizzy z naturalnym twardym włosiem 220x70x(H)1700mm Lilly Codroipo Hendi 525661",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wyspecjalizowana szczotka do czyszczenia pieca do pizzy, prawdopodobnie przeznaczona do użytku profesjonalnego (marka Hendi). Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna, a 'Pozostałe' w tej gałęzi obejmuje akcesoria niepasujące do konkretnych maszyn gastronomicznych."
+    },
+    {
+        "ID_Produktu": "1008688",
+        "Nazwa_Produktu": "MINI opiekacz grill do kebaba gyrosa warzyw pionowy 3w1 1500W Royal Catering RCGV-1400",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Urządzenia do kebabu",
+        "Finalne_ID_AI": 5065,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny grill pionowy, wyraźnie przeznaczony do przygotowywania kebaba i gyrosa, co idealnie pasuje do kategorii 'Urządzenia do kebabu' w dziale 'Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1008801",
+        "Nazwa_Produktu": "Wózek kelnerski 3-półkowy do 150 kg Stal nierdzewna RCSW-6.2",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wózek kelnerski, przeznaczony do przewożenia potraw i naczyń w branży HoReCa. Kategoria 'Firma i Przemysł > Gastronomia > Wózki gastronomiczne' jest najbardziej szczegółowa i idealnie pasuje do opisu i przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "1008805",
+        "Nazwa_Produktu": "Ekspozytor stojak na pojemniki 6x GN 1/6 + pojemniki z pokrywkami",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ekspozytor ze specjalistycznymi pojemnikami GN 1/6, które są standardem w gastronomii. Całość jest przeznaczona do usprawnienia pracy i ekspozycji produktów spożywczych w kuchni, co silnie wskazuje na zastosowanie profesjonalne/komercyjne, a nie domowe. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna."
+    },
+    {
+        "ID_Produktu": "1008817",
+        "Nazwa_Produktu": "Stół blat gastronomiczny stalowy nierdzewny centralny z półką 120x70cm",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Stoły gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Stoły gastronomiczne",
+        "Finalne_ID_AI": 5062,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu wyraźnie wskazują na 'Stół gastronomiczny', który idealnie pasuje do kategorii-liścia 'Firma i Przemysł > Gastronomia > Stoły gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1008818",
+        "Nazwa_Produktu": "Stół blat roboczy do kuchni centralny z półką Stal nierdzewna 100 x 60cm",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Stoły gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Stoły gastronomiczne",
+        "Finalne_ID_AI": 5062,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to 'stół gastronomiczny' przeznaczony do pracy w kuchni. Kategoria 'Firma i Przemysł > Gastronomia > Stoły gastronomiczne' jest najbardziej precyzyjnym i szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1008819",
+        "Nazwa_Produktu": "Stół blat roboczy gastronomiczny stalowy nierdzewny z półką 100x70cm",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Stoły gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Stoły gastronomiczne",
+        "Finalne_ID_AI": 5062,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest jednoznacznie opisany jako 'stół gastronomiczny' przeznaczony do pracy w kuchniach profesjonalnych. Kategoria 'Firma i Przemysł > Gastronomia > Stoły gastronomiczne' idealnie odpowiada temu opisowi i jest najbardziej szczegółową dostępną opcją."
+    },
+    {
+        "ID_Produktu": "1008824",
+        "Nazwa_Produktu": "Mieszadło mechaniczne laboratoryjne timer 3400 obr./min",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Przyrządy miernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Pozostałe",
+        "Finalne_ID_AI": 4667,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mieszadło mechaniczne laboratoryjne, które jest specjalistycznym urządzeniem wykorzystywanym w przemyśle lub badaniach. Najbardziej pasującą kategorią główną jest 'Firma i Przemysł', a następnie 'Maszyny i urządzenia'. Ponieważ nie ma bardziej szczegółowej kategorii dla sprzętu laboratoryjnego, 'Pozostałe' w ramach 'Maszyny i urządzenia' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1009190",
+        "Nazwa_Produktu": "Beczka stalowa metalowa OH 212L z rowkami zdejmowane wieko niebieska wnętrze surowe",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Kontenery > Kontenery morskie/magazynowe",
+        "Finalne_ID_AI": 4738,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowa beczka o dużej pojemności (212L), opisana jako 'warsztatowa', co wskazuje na zastosowanie przemysłowe/magazynowe. Kategoria 'Firma i Przemysł > Kontenery > Kontenery morskie/magazynowe' najlepiej oddaje funkcję i przeznaczenie tego typu pojemnika, który służy do przechowywania i transportu, typowego dla magazynów i zastosowań przemysłowych."
+    },
+    {
+        "ID_Produktu": "1009289",
+        "Nazwa_Produktu": "Garnek gastronomiczny z pokrywką stalowy nierdzewny do kuchenki indukcyjnej 50 L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'garnek gastronomiczny' o dużej pojemności (50 L), przeznaczony do 'profesjonalnych zakładów gastronomicznych'. Choć istnieje kategoria 'Garnki i patelnie' w 'Dom i Ogród', kontekst gastronomiczny wskazuje na kategorię 'Firma i Przemysł'. W ramach 'Firma i Przemysł' najbardziej pasującą gałęzią jest 'Gastronomia'. Ponieważ nie ma bardziej szczegółowej kategorii-liścia dla samych garnków w ramach 'Gastronomia', wybrana została kategoria 'Pozostałe' w tej gałęzi, jako najbardziej specyficzna dla charakteru produktu."
+    },
+    {
+        "ID_Produktu": "1009304",
+        "Nazwa_Produktu": "Frytownica nastawna gastronomiczna elektryczna 230 V 3200W 8 L",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Frytownice",
+        "Finalne_ID_AI": 5042,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektryczna frytownica gastronomiczna. Najbardziej pasującą i szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Frytownice', która bezpośrednio odpowiada nazwie i zastosowaniu produktu."
+    },
+    {
+        "ID_Produktu": "1009309",
+        "Nazwa_Produktu": "Frytownica nastawna gastronomiczna elektryczna TIMER 230 V 3200W 10 L",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Frytownice",
+        "Finalne_ID_AI": 5042,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to frytownica gastronomiczna, przeznaczona do użytku w restauracjach, barach itp. Kategoria 'Firma i Przemysł > Gastronomia > Frytownice' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1009314",
+        "Nazwa_Produktu": "Ekspozytor stojak na pojemniki gastronomiczne 5 x GN1/6 + 5 x Pojemniki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ekspozytor z pojemnikami gastronomicznymi. Kategoria \"Pojemniki gastronomiczne\" w dziale \"Firma i Przemysł > Gastronomia\" jest najbardziej precyzyjna i bezpośrednio odpowiada opisowi produktu, w tym markom profesjonalnym jak Royal Catering."
+    },
+    {
+        "ID_Produktu": "1009720",
+        "Nazwa_Produktu": "Wciągarka wyciągarka łańcuchowa wciągnik łańcuchowy 3 T / 3 m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Wciągarki",
+        "Finalne_ID_AI": 4792,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wciągarka łańcuchowa, która jest maszyną wykorzystywaną w budownictwie do podnoszenia ciężkich przedmiotów. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Wciągarki' jest idealnym i najbardziej szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1009727",
+        "Nazwa_Produktu": "Wciągarka wyciągarka łańcuchowa wciągnik łańcuchowy 3T / 3m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Wciągarki",
+        "Finalne_ID_AI": 4792,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu to \"Wciągarka wyciągarka łańcuchowa wciągnik łańcuchowy\", a kategoria \"Wciągarki\" jest idealnym i najbardziej szczegółowym dopasowaniem. Opis produktu dodatkowo wskazuje na zastosowanie w firmach produkcyjnych, zakładach mechaniki, magazynach i na placach budowy, co potwierdza przynależność do głównej kategorii \"Firma i Przemysł\" oraz podkategorii \"Maszyny i urządzenia\" i \"Budownictwo\"."
+    },
+    {
+        "ID_Produktu": "1009603",
+        "Nazwa_Produktu": "Podstawa z półką do grilla gazowego PELVIS / RASCAL",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to stojak z półką do grilla gazowego, który jest bezpośrednio związany z kategorią 'Grill' w drzewie 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "1009975",
+        "Nazwa_Produktu": "Ociekacz ruszt stalowy do pojemników GN 1/3 Kitchen Line - HENDI 806494",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ociekacze i suszarki do naczyń",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ociekacz przeznaczony specjalnie do profesjonalnych pojemników GN, używanych w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1010262",
+        "Nazwa_Produktu": "Regał magazynowy do spiżarni składany ażurowy 4 półki x 125kg",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalne_ID_AI": 4677,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'regał magazynowy', którego opis jasno wskazuje na przeznaczenie do użytku w 'lokalach i zakładach gastronomicznych', 'firmach wysyłkowych, sklepach, magazynach'. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Regały' idealnie pasuje do tych zastosowań i typu produktu."
+    },
+    {
+        "ID_Produktu": "1010300",
+        "Nazwa_Produktu": "Kontener pojemnik na odpadki kuchenne okrągły 120L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Kosze na śmieci i pojemniki do segregacji",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kontener na odpadki kuchenne o dużej pojemności (120L), wyraźnie przeznaczony dla profesjonalnych lokali i zakładów gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjnie oddaje komercyjne zastosowanie produktu."
+    },
+    {
+        "ID_Produktu": "1010485",
+        "Nazwa_Produktu": "Popielnica popielniczka ścienna stalowa nierdzewna śr. 75mm wys. 460mm",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to popielnica ścienna ze stali nierdzewnej, produkowana przez firmę Hendi, która specjalizuje się w wyposażeniu gastronomicznym. Taka popielnica jest typowym elementem wyposażenia lokali gastronomicznych lub innych miejsc użyteczności publicznej, a nie przedmiotem kolekcjonerskim. Najbardziej szczegółową i adekwatną kategorią jest 'Firma i Przemysł > Gastronomia', a ponieważ brak jest bardziej specyficznej podkategorii dla popielniczek, wybrano 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "1010494",
+        "Nazwa_Produktu": "Podgrzewacz do potraw na pastę świeczki stal polerowana GN 1/2",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Świece i świeczniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Podgrzewacze",
+        "Finalne_ID_AI": 5059,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to podgrzewacz do potraw, który jest wyraźnie przeznaczony dla firm cateringowych, hoteli i restauracji. Kategoria 'Firma i Przemysł > Gastronomia > Podgrzewacze' jest idealnym i najbardziej szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1010504",
+        "Nazwa_Produktu": "Dyspenser dozownik do soków napojów chłodzony 3L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest dozownikiem do napojów chłodzonym, przeznaczonym do użytku w firmach cateringowych, hotelach, restauracjach i punktach fast food. Najbardziej pasującą kategorią jest 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej kategorii dla dozowników chłodzonych w gastronomii, wybieram kategorię 'Pozostałe' w ramach tej gałęzi."
+    },
+    {
+        "ID_Produktu": "1004511",
+        "Nazwa_Produktu": "Taca z polipropylenu Fast Food 35x45cm - czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako 'taca gastronomiczna' przeznaczona do użytku w lokalach typu Fast Food, co kwalifikuje go do kategorii związanej z firmą i przemysłem, a konkretnie z gastronomią. W tej podkategorii 'Pojemniki gastronomiczne' jest najbardziej pasującym liściem, ponieważ taca służy do przenoszenia i serwowania, czyli w pewnym sensie 'pojemnikowania' posiłków."
+    },
+    {
+        "ID_Produktu": "1004491",
+        "Nazwa_Produktu": "Taca kelnerska antypoślizgowa owalna 16x23cm - czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taca kelnerska przeznaczona do użytku w profesjonalnych lokalach gastronomicznych, co bezpośrednio wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ brak jest bardziej szczegółowej kategorii dla tac w ramach 'Gastronomii', 'Pozostałe' jest najbardziej odpowiednim wyborem."
     }
 ]
