@@ -7568,5 +7568,105 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to specjalistyczny zestaw do konserwacji i czyszczenia sprzętu do tenisa stołowego. Najbardziej precyzyjną kategorią w drzewie jest 'Tenis stołowy' (Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy)."
+    },
+    {
+        "ID_Produktu": "42950",
+        "Nazwa_Produktu": "Rakietka do pickleballa JOOLA Astro 12",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe",
+        "Finalne_ID_AI": 5032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pickleball jest sportem rakietowym zaliczanym do kategorii sportów towarzyskich i pokrewnych tenisowi. Ze względu na brak dedykowanej podkategorii dla pickleballa, kategoria 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "42953",
+        "Nazwa_Produktu": "Rakietka do pickleballa JOOLA Agassi Champion 12",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe",
+        "Finalne_ID_AI": 5032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pickleball to sport rakietowy łączący cechy tenisa, badmintona i tenisa stołowego. W drzewie kategorii OLX produkt ten należy do grupy 'Tenis i pokrewne'. Ze względu na brak dedykowanej podkategorii dla pickleballa, kategoria 'Pozostałe' w tej sekcji jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "42954",
+        "Nazwa_Produktu": "PIŁKA NOŻNA FC BARCELONA STAR GOLD R.2",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłka nożna (rozmiar 2), która jest podstawowym akcesorium do uprawiania tej dyscypliny sportowej. W strukturze OLX piłki znajdują się w kategorii Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria."
+    },
+    {
+        "ID_Produktu": "42955",
+        "Nazwa_Produktu": "Rakietka do pickleballa JOOLA Graf Champion 12",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe",
+        "Finalne_ID_AI": 5032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pickleball to sport rakietowy bardzo zbliżony do tenisa, padla i badmintona. W strukturze OLX najbardziej trafną i specyficzną podkategorią dla tego typu sportów jest 'Tenis i pokrewne > Pozostałe' (ID: 5032)."
+    },
+    {
+        "ID_Produktu": "42958",
+        "Nazwa_Produktu": "PIŁKA SIATKOWA MIKASA V360W",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Piłki do ćwiczeń",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna piłka siatkowa. Najbardziej dopasowaną kategorią w drzewie jest Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria, która obejmuje sprzęt do tej dyscypliny."
+    },
+    {
+        "ID_Produktu": "42961",
+        "Nazwa_Produktu": "PIŁKA SIATKOWA MIKASA VS170W KIDS 160-180 g niebieska",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria",
+        "Finalne_ID_AI": 4991,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalną piłką do siatkówki marki Mikasa z certyfikatem FIVB. Najbardziej dopasowaną kategorią dla sprzętu sportowego do siatkówki (piłki) jest Sport i Hobby > Sporty drużynowe > Siatkówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "42962",
+        "Nazwa_Produktu": "Zestaw do pickleballa SCHILDKROT 2+",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Twarz > Pielęgnacja > Zestawy kosmetyków",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe",
+        "Finalne_ID_AI": 5032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pickleball to sport rakietowy łączący cechy tenisa, badmintona i tenisa stołowego. W drzewie kategorii najlepiej pasuje do sekcji 'Sporty towarzyskie > Tenis i pokrewne', a ponieważ nie posiada dedykowanej podkategorii (jak Padel czy Badminton), kategoria 'Pozostałe' w obrębie sportów tenisowych jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "42970",
+        "Nazwa_Produktu": "Piłeczki do pickleballa JOOLA Primo Ball - 4 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe",
+        "Finalne_ID_AI": 5032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pickleball to sport rakietowy łączący elementy tenisa, badmintona i tenisa stołowego. W strukturze OLX najbardziej trafną i najgłębszą kategorią dla tego typu sprzętu jest 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "42971",
+        "Nazwa_Produktu": "Piłeczki do pickleballa JOOLA Primo Ball - 20 sztuk",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe",
+        "Finalne_ID_AI": 5032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pickleball jest sportem rakietowym blisko spokrewnionym z tenisem, padlem i badmintonem. Kategoria 'Tenis i pokrewne > Pozostałe' jest najbardziej precyzyjnym miejscem dla akcesoriów do sportów rakietowych, które nie mają własnej dedykowanej podkategorii."
+    },
+    {
+        "ID_Produktu": "42972",
+        "Nazwa_Produktu": "Piłeczki do pickleballa JOOLA HC-40 - 3 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe",
+        "Finalne_ID_AI": 5032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pickleball jest sportem rakietowym pokrewnym tenisowi, badmintonowi i padowi. Najbardziej precyzyjną kategorią jest 'Pozostałe' w obrębie sekcji 'Tenis i pokrewne'."
     }
 ]
