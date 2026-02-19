@@ -12528,5 +12528,265 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest profesjonalnym naczyniem w standardzie Gastronorm (GN 1/1) marki Hendi, przeznaczonym do użytku w branży HoReCa (hotele, restauracje). Specyfikacja techniczna GN 1/1 oraz przeznaczenie komercyjne jednoznacznie wskazują na kategorię profesjonalnych pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1000020",
+        "Nazwa_Produktu": "Wózek kelnerski 3 półkowy ze stali nierdzewnej",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Półki łazienkowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Wózek kelnerski' używany w 'gastronomii, hotelach, gabinetach'. Najbardziej szczegółową i idealnie pasującą kategorią jest 'Firma i Przemysł > Gastronomia > Wózki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1000029",
+        "Nazwa_Produktu": "Wózek kelnerski 2 półkowy za stali nierdzewnej",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to \"Wózek kelnerski\", a kategoria \"Wózki gastronomiczne\" jest idealnym i najbardziej szczegółowym dopasowaniem, biorąc pod uwagę przeznaczenie w gastronomii (restauracje, hotele) oraz cechy użytkowe (transport posiłków, zbieranie naczyń)."
+    },
+    {
+        "ID_Produktu": "1000030",
+        "Nazwa_Produktu": "Wózek stalowy kelnerski 2 półkowy z głębokimi półkami",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Półki łazienkowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł \"Wózek stalowy kelnerski\" oraz opis, który wyraźnie wskazuje na zastosowanie w \"gastronomii, hotelach, gabinetach\", idealnie pasują do kategorii \"Firma i Przemysł > Gastronomia > Wózki gastronomiczne\". Jest to najbardziej szczegółowa i trafna kategoria dla tego produktu."
+    },
+    {
+        "ID_Produktu": "1000032",
+        "Nazwa_Produktu": "Pokrywa ochronna / osłona klosz do maszyny do waty cukrowej 52cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Maszyny do waty cukrowej",
+        "Finalne_ID_AI": 5050,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest pokrywą ochronną do maszyny do waty cukrowej. Kategoria 'Maszyny do waty cukrowej' w drzewie 'Firma i Przemysł > Gastronomia' jest najbardziej specyficznym i trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "1000132",
+        "Nazwa_Produktu": "Ręczna krajalnica szatkownica do ziemniaków na frytki",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Krajalnice",
+        "Finalne_ID_AI": 5046,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna, ręczna krajalnica do ziemniaków, przeznaczona do użytku w profesjonalnej kuchni. Kategoria 'Firma i Przemysł > Gastronomia > Krajalnice' idealnie pasuje do opisu i zastosowania produktu, uwzględniając jego profesjonalny charakter i funkcję."
+    },
+    {
+        "ID_Produktu": "1000177",
+        "Nazwa_Produktu": "Wózek platformowy składany stalowy HoReCa platforma 70x52cm",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wózki paletowe i paleciaki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wózek platformowy, który zgodnie z opisem ma zastosowanie w gastronomii i hotelach (HoReCa). Kategoria 'Firma i Przemysł > Gastronomia > Wózki gastronomiczne' jest najbardziej szczegółowa i najlepiej pasuje do przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "1000301",
+        "Nazwa_Produktu": "Waga platformowa składana SBS-PF-100A8 LED do 100kg",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna waga platformowa, przeznaczona do ważenia ciężkich przedmiotów w magazynach, handlu i przemyśle, co idealnie pasuje do kategorii 'Firma i Przemysł > Sklepy i magazyny > Wagi'."
+    },
+    {
+        "ID_Produktu": "1000448",
+        "Nazwa_Produktu": "Palnik ręczny do przecinarki plazmowej CUT 120 z prowadnicą",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł > Piły i przecinarki",
+        "Finalne_ID_AI": 4882,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to palnik do przecinarki plazmowej. Przecinarka plazmowa to maszyna przemysłowa służąca do cięcia metalu, najlepiej pasująca do kategorii 'Firma i Przemysł > Maszyny i urządzenia > Przemysł > Piły i przecinarki'."
+    },
+    {
+        "ID_Produktu": "1000468",
+        "Nazwa_Produktu": "Frytownica elektryczna pojedyncza z termostatem EGO 4L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Ogrzewanie przenośne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Frytownice",
+        "Finalne_ID_AI": 5042,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna frytownica przeznaczona dla gastronomii, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Frytownice'."
+    },
+    {
+        "ID_Produktu": "1000742",
+        "Nazwa_Produktu": "Syfon do bitej śmietany Profi Line 1l - Hendi 588024",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest syfonem do bitej śmietany z linii profesjonalnej, wyraźnie wskazanym do użytku w kawiarniach, barach i restauracjach. Najbardziej odpowiednią kategorią jest 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ syfon jest urządzeniem gastronomicznym, ale nie ma dla niego bardziej szczegółowej podkategorii w drzewie."
+    },
+    {
+        "ID_Produktu": "1000874",
+        "Nazwa_Produktu": "Podgrzewacz potraw elektryczny Kitchen Line okrągły - Hendi 204832",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Bemary",
+        "Finalne_ID_AI": 5039,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektryczny podgrzewacz do potraw (bain-marie) przeznaczony dla branży gastronomicznej i hotelarskiej, co idealnie pasuje do kategorii \"Bemary\" pod \"Firma i Przemysł > Gastronomia\"."
+    },
+    {
+        "ID_Produktu": "1000929",
+        "Nazwa_Produktu": "Kuchenka indukcyjna Economic 1800W - Hendi 239209",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki przenośne",
+        "Finalne_ID_AI": 2210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kuchenka indukcyjna o niewielkich wymiarach (315 x 345 x 70 mm), określana jako 'Economic' i polecana do 'małej gastronomii' oraz 'domowych warunków', co wskazuje na jej przenośny charakter. Kategoria 'Kuchenki przenośne' jest najbardziej precyzyjnym liściem w drzewie kategorii, lepiej pasującym niż ogólne 'Kuchenki wolnostojące'."
+    },
+    {
+        "ID_Produktu": "1000931",
+        "Nazwa_Produktu": "Kuchenka płyta indukcyjna 2000W - Hendi 239230",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD do zabudowy > Płyty grzewcze",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki przenośne",
+        "Finalne_ID_AI": 2210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przenośna kuchenka indukcyjna, która pasuje do kategorii 'Kuchenki przenośne' pod 'AGD wolnostojące' ze względu na jej opis jako samodzielne urządzenie do małej gastronomii i użytku domowego, co jest bardziej precyzyjne niż 'Płyty grzewcze' (zazwyczaj do zabudowy)."
+    },
+    {
+        "ID_Produktu": "1000936",
+        "Nazwa_Produktu": "Tarcza do plastrów 1mm 3 noże na tarczy - Hendi 280096",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza (część zamienna) do szatkownicy, a marka Hendi jest znana z profesjonalnego sprzętu gastronomicznego, co idealnie pasuje do kategorii 'Firma i Przemysł > Części do maszyn i urządzeń'."
+    },
+    {
+        "ID_Produktu": "1000937",
+        "Nazwa_Produktu": "Tarcza do plastrów 2mm 3 noże na tarczy - Hendi 280102",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to tarcza (część zamienna) do szatkownicy marki Hendi, która jest profesjonalnym sprzętem gastronomicznym. Kategoria 'Części do maszyn i urządzeń' w dziale 'Firma i Przemysł' jest najbardziej szczegółowa i trafna dla tego typu produktu. Wskazówka systemowa odnosi się do wyposażenia wnętrz domowych, co nie pasuje do profesjonalnego charakteru marki Hendi i samego produktu (części do maszyny)."
+    },
+    {
+        "ID_Produktu": "1000938",
+        "Nazwa_Produktu": "Tarcza do plastrów 4mm 2 noże na tarczy - Hendi 280126",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'tarcza do plastrów' przeznaczona do 'szatkownicy', co jest częścią lub osprzętem do maszyny. Marka Hendi wskazuje na profesjonalne zastosowanie, co idealnie pasuje do kategorii 'Firma i Przemysł'. W tej gałęzi, 'Części do maszyn i urządzeń' jest najbardziej precyzyjną kategorią-liściem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "1000939",
+        "Nazwa_Produktu": "Tarcza do plastrów 6mm 2 noże na tarczy - Hendi 280201",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza do szatkownicy, a marka Hendi jest silnie związana ze sprzętem gastronomicznym i przemysłowym. Kategoria 'Części do maszyn i urządzeń' pod 'Firma i Przemysł' najlepiej odzwierciedla przeznaczenie tego typu produktu."
+    },
+    {
+        "ID_Produktu": "1000940",
+        "Nazwa_Produktu": "Tarcza do plastrów 8mm 1 nóż na tarczy - Hendi 280218",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza (część) do szatkownicy marki Hendi, która jest sprzętem gastronomicznym. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej szczegółową i adekwatną kategorią dla części do profesjonalnych maszyn, takich jak szatkownice używane w gastronomii."
+    },
+    {
+        "ID_Produktu": "1000949",
+        "Nazwa_Produktu": "Tarcza do wiórków 5mm - Hendi 280416",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza do szatkownicy, a marka Hendi jest znana z profesjonalnego sprzętu gastronomicznego. Najlepszą kategorią jest 'Firma i Przemysł > Części do maszyn i urządzeń', ponieważ jest to część zamienna do maszyny przemysłowej, a nie AGD domowego."
+    },
+    {
+        "ID_Produktu": "1000961",
+        "Nazwa_Produktu": "Półka wisząca przestawna pojedyncza 140cm - Hendi 811801",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Półki",
+        "Finalne_ID_AI": 4676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to półka przeznaczona do 'profesjonalnych kuchni gastronomicznych', co wskazuje na zastosowanie komercyjne/przemysłowe. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Półki' jest najbardziej szczegółowa i najlepiej odpowiada temu przeznaczeniu, w przeciwieństwie do ogólnych 'Półek' z kategorii 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "1000983",
+        "Nazwa_Produktu": "Płyta żeliwna do grilla gazowego \"Green Fire\" GN1/1 - Hendi 932001",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to płyta/patelnia żeliwna przeznaczona do grilla gazowego, co idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Grill'."
+    },
+    {
+        "ID_Produktu": "1000984",
+        "Nazwa_Produktu": "Ruszt żeliwny do grilla gazowego \"Green Fire\" GN1/1 - Hendi 932018",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ruszt żeliwny przeznaczony do grilla gazowego. Kategoria 'Grill' jest najbardziej szczegółową i bezpośrednio pasującą, znajdującą się w ścieżce 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "1001102",
+        "Nazwa_Produktu": "Patelnia WOK ze stali walcowanej śr. 700mm - Hendi 626504",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Patelnie gastronomiczne",
+        "Finalne_ID_AI": 5056,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Patelnia WOK o średnicy 700mm, przeznaczona do użytku na grillach gazowych i taboretach gazowych, co wyraźnie wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Patelnie gastronomiczne' jest najbardziej szczegółowa i najlepiej odpowiada specyfice produktu."
+    },
+    {
+        "ID_Produktu": "1001791",
+        "Nazwa_Produktu": "Półka ścienna stalowa wisząca podwójna z regulacją 120cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Półki",
+        "Finalne_ID_AI": 1936,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to półka ścienna. Mimo iż opis wskazuje na zastosowanie w gastronomii czy warsztatach, jego podstawowa natura to mebel do przechowywania. Kategoria 'Dom i Ogród > Meble > Półki' jest najbardziej szczegółową i adekwatną kategorią liściową dla tego typu produktu w dostępnym drzewie."
+    },
+    {
+        "ID_Produktu": "1001829",
+        "Nazwa_Produktu": "Ręczny podnośnik chwytak magnetyczny do blach i profili do 100kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczny podnośnik magnetyczny do blach i profili, przeznaczony do użytku w przemyśle maszynowym, metalurgicznym, stoczniowym, a także w warsztatach samochodowych i firmach budowlanych. Jest to specjalistyczne narzędzie warsztatowe, więc kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1001844",
+        "Nazwa_Produktu": "Wózek na brudne pranie składany nierdzewny 200L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wózek na pranie przeznaczony do użytku w branży HoReCa (Hotele, Restauracje, Catering). Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia, ponieważ hotele, które są kluczową częścią branży HoReCa, używają takich wózków. 'Wózki gastronomiczne' w tym kontekście obejmują szeroki zakres wózków użytkowych dla sektora HoReCa."
     }
 ]
