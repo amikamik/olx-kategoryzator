@@ -6818,5 +6818,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to 'Kółka do hulajnogi', a kategoria 'Hulajnogi' jest najbardziej szczegółową kategorią-liściem bezpośrednio odnoszącą się do hulajnóg, pomimo że są to akcesoria/części, a nie kompletna hulajnoga. W przypadku braku dedykowanej podkategorii 'Akcesoria do hulajnóg' pod kategorią 'Hulajnogi', umieszczenie kółek bezpośrednio w kategorii 'Hulajnogi' jest najlepszym i najbardziej specyficznym wyborem. Kategoria 'Akcesoria skating' byłaby zbyt ogólna, ponieważ produkt jest specyficzny dla hulajnóg."
+    },
+    {
+        "ID_Produktu": "15725",
+        "Nazwa_Produktu": "Hulajnoga składana SPARTAN Jumbo  205 mm czarno- czerwona",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasyczną hulajnogą rekreacyjną (składaną), co bezpośrednio odpowiada kategorii liściowej 'Hulajnogi' znajdującej się w sekcji 'Skating' w dziale 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "16313",
+        "Nazwa_Produktu": "Elektroniczna Tarcza do gry w rzutki DARTA DC 100",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest elektroniczną tarczą do gry w darta (rzutki), co bezpośrednio odpowiada kategorii liścia 'Dart' znajdującej się w sekcji Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "16493",
+        "Nazwa_Produktu": "Siatka zabezpieczająca do trampoliny 182 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to siatka zabezpieczająca do trampoliny ogrodowej. Na platformie OLX trampoliny oraz akcesoria do nich (takie jak siatki, maty czy osłony sprężyn) są tradycyjnie umieszczane w kategorii Dom i Ogród > Ogród > Huśtawki i place zabaw."
     }
 ]
