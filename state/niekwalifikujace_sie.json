@@ -14158,5 +14158,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to 'Podgrzewacz do potraw', a kategoria 'Firma i Przemysł > Gastronomia > Podgrzewacze' jest idealnym i najbardziej szczegółowym dopasowaniem. Opis jasno wskazuje na przeznaczenie w branży gastronomicznej i hotelarskiej."
+    },
+    {
+        "ID_Produktu": "1012979",
+        "Nazwa_Produktu": "Kosz pojemnik kontener na śmieci odpadki okrągły stojący Amer Box śr. 50 cm 80 l - Hendi 691403",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kontener na odpadki kuchenne, przeznaczony do profesjonalnych lokali gastronomicznych. Kategoria 'Pojemniki gastronomiczne' w ramach 'Firma i Przemysł > Gastronomia' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1013066",
+        "Nazwa_Produktu": "Inflator zbiornik ciśnieniowy do pompowania kół opon z manometrem 8 bar 19.5 l",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Montażownice do opon",
+        "Finalne_ID_AI": 5168,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny inflator ciśnieniowy przeznaczony do uderzeniowego montażu opon bezdętkowych na felgach, używany w warsztatach. Kategoria 'Montażownice do opon' w 'Wyposażenie warsztatów' (pod 'Firma i Przemysł') jest najbardziej precyzyjna, ponieważ urządzenie służy bezpośrednio do czynności związanych z montażem opon. Jest to bardziej szczegółowa kategoria niż ogólne 'Narzędzia warsztatowe' i znacznie bardziej trafna niż 'Narzędzia ręczne' sugerowane przez wskazówkę."
+    },
+    {
+        "ID_Produktu": "1013067",
+        "Nazwa_Produktu": "Inflator zbiornik ciśnieniowy do pompowania kół opon z manometrem 6-8 bar 38.5 l",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Montażownice do opon",
+        "Finalne_ID_AI": 5168,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny inflator ciśnieniowy przeznaczony do montażu opon bezdętkowych na felgach. Najdokładniej pasującą kategorią, odzwierciedlającą specjalistyczny charakter i zastosowanie urządzenia, jest 'Montażownice do opon', znajdująca się w sekcji 'Firma i Przemysł > Wyposażenie warsztatów'."
     }
 ]
