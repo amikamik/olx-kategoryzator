@@ -13648,5 +13648,155 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to specjalistyczny ściągacz do sworzni kulistych, przeznaczony do profesjonalnego użytku w warsztatach mechaniki pojazdowej i serwisach samochodowych. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółowa i trafna dla tego typu narzędzi."
+    },
+    {
+        "ID_Produktu": "1011740",
+        "Nazwa_Produktu": "Parasol ogrodowy boczny na wysięgniku kwadratowy 250 x 250 cm czerwony",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Parasole ogrodowe",
+        "Finalne_ID_AI": 2892,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Parasol ogrodowy', a kategoria 'Parasole ogrodowe' jest precyzyjnym liściem w drzewie kategorii 'Dom i Ogród > Ogród > Meble ogrodowe'."
+    },
+    {
+        "ID_Produktu": "1011811",
+        "Nazwa_Produktu": "Hoker taboret stołek barowy industrialny 714-188 mm do 150 kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalne_ID_AI": 1947,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu zawiera słowa kluczowe 'Hoker', 'taboret' i 'stołek barowy', które idealnie pasują do kategorii 'Taborety i hokery' w drzewie 'Dom i Ogród > Meble'. Opis potwierdza, że jest to mebel (stołek barowy) z regulacją wysokości i stalową konstrukcją, co jest zgodne z przeznaczeniem kategorii."
+    },
+    {
+        "ID_Produktu": "1011836",
+        "Nazwa_Produktu": "Dyspenser dozownik podwójny do sosów z pompką ze stali nierdzewnej 2 x 2 l",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dozownik do sosów marki Royal Catering o pojemności 2x2 litry, co wskazuje na zastosowanie profesjonalne, gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej odpowiada przeznaczeniu produktu."
+    },
+    {
+        "ID_Produktu": "1011921",
+        "Nazwa_Produktu": "Nożyce szczypce zapadkowe do kabli przewodów z uchwytem teleskopowym 400-500 mm2",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne nożyce zapadkowe do kabli, przeznaczone do użytku w warsztatach, fabrykach i na budowach, co kwalifikuje go jako narzędzie warsztatowe. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółowa i najlepiej oddaje profesjonalne zastosowanie produktu, w przeciwieństwie do ogólniejszych 'Narzędzia ręczne' pod 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "1011932",
+        "Nazwa_Produktu": "Rura wąż odciągowy do wentylatora dmuchawy przemysłowej śr. 400 mm dł. 10 m",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Klimatyzacja i wentylacja",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to wąż odciągowy przeznaczony do wentylatora przemysłowego, co kwalifikuje go jako część do maszyn i urządzeń. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej specyficzna i trafna, odzwierciedlając przemysłowe zastosowanie produktu, w przeciwieństwie do kategorii AGD."
+    },
+    {
+        "ID_Produktu": "1011939",
+        "Nazwa_Produktu": "Pompa głębinowa do studni głębinowej ze stali nierdzewnej 3000 l/godz. do 80 m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalne_ID_AI": 1698,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'pompa głębinowa', która jest bezpośrednio odzwierciedlona w kategorii 'Dom i Ogród > Narzędzia > Pompy wodne'. Nazwa i opis produktu idealnie pasują do tej szczegółowej kategorii."
+    },
+    {
+        "ID_Produktu": "1012009",
+        "Nazwa_Produktu": "Siedzisko na kółkach do prac ogrodowych zbioru truskawek z półką do 150 kg zielony",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Krzesła",
+        "Finalne_ID_AI": 2889,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mobilne siedzisko przeznaczone głównie do prac ogrodowych, co plasuje go w kategorii 'Dom i Ogród'. Jako element do siedzenia w ogrodzie, najlepiej pasuje do podkategorii 'Ogród' -> 'Meble ogrodowe'. Spośród liści 'Meble ogrodowe', 'Krzesła' (2889) jest najbardziej odpowiednią kategorią dla tego typu siedziska."
+    },
+    {
+        "ID_Produktu": "1012035",
+        "Nazwa_Produktu": "Tablica kosz do koszykówki z obręczą do montażu na ścianę 61x91 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Pozostałe",
+        "Finalne_ID_AI": 4993,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny kosz do koszykówki z tablicą i obręczą, który jest podstawowym sprzętem do gry. Najbardziej szczegółowa kategoria to 'Sporty drużynowe > Koszykówka', a ponieważ nie jest to odzież, obuwie ani drobne akcesorium, 'Pozostałe' w ramach tej podkategorii jest idealnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1012094",
+        "Nazwa_Produktu": "Pojemnik GN 2/1 stal nierdzewna Profi Line wys. 200 mm - Hendi 801109",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik gastronomiczny (GN), wyraźnie przeznaczony do użytku w restauracjach, hotelach i food truckach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' idealnie odzwierciedla jego przeznaczenie i charakter."
+    },
+    {
+        "ID_Produktu": "1012095",
+        "Nazwa_Produktu": "Pojemnik GN 2/1 stal nierdzewna Profi Line wys. 40 mm - Hendi 801147",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik GN do gastronomii, wyraźnie opisany jako przeznaczony do użytku w profesjonalnych kuchniach, restauracjach, hotelach i food truckach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1012096",
+        "Nazwa_Produktu": "Pojemnik GN 2/1 stal nierdzewna Profi Line wys. 150 mm - Hendi 801116",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN przeznaczony do profesjonalnej kuchni, restauracji, hoteli i barów. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, ponieważ odnosi się bezpośrednio do profesjonalnego zastosowania w gastronomii, w przeciwieństwie do kategorii domowej."
+    },
+    {
+        "ID_Produktu": "1012097",
+        "Nazwa_Produktu": "Pojemnik GN 2/1 stal nierdzewna Profi Line wys. 100 mm - Hendi 801123",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN ze stali nierdzewnej, przeznaczony do profesjonalnej kuchni, restauracji, hoteli i barów mlecznych. Kategoria 'Pojemniki gastronomiczne' w gałęzi 'Firma i Przemysł > Gastronomia' jest idealnie dopasowana."
+    },
+    {
+        "ID_Produktu": "1012098",
+        "Nazwa_Produktu": "Pojemnik GN 2/1 stal nierdzewna Profi Line wys. 65 mm - Hendi 801130",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN, który jest specjalistycznym naczyniem przeznaczonym do profesjonalnych kuchni, restauracji, hoteli i food trucków, co wyraźnie wskazują słowa kluczowe w opisie. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i odzwierciedla przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1012099",
+        "Nazwa_Produktu": "Pojemnik GN 2/1 stal nierdzewna Profi Line wys. 20 mm - Hendi 801154",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN, który w opisie jest wyraźnie przeznaczony do profesjonalnej gastronomii (restauracje, hotele, food trucki). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1012119",
+        "Nazwa_Produktu": "Pojemnik GN półprzeźroczysty z poliwęglanu GN 2/1 wys. 200 mm - Hendi 861196",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik GN przeznaczony do profesjonalnych kuchni, restauracji i hoteli, co wskazuje na zastosowanie w sektorze Firma i Przemysł. Najbardziej szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
     }
 ]
