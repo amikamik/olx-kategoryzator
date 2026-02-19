@@ -6848,5 +6848,725 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to siatka zabezpieczająca do trampoliny ogrodowej. Na platformie OLX trampoliny oraz akcesoria do nich (takie jak siatki, maty czy osłony sprężyn) są tradycyjnie umieszczane w kategorii Dom i Ogród > Ogród > Huśtawki i place zabaw."
+    },
+    {
+        "ID_Produktu": "14912",
+        "Nazwa_Produktu": "Regulowana ławka skośna Master",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalne_ID_AI": 4338,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to regulowana ławka przeznaczona do ćwiczeń siłowych z obciążeniem oraz mięśni brzucha, co bezpośrednio odpowiada kategorii 'Ławki' w sekcji 'Sprzęt siłowy'."
+    },
+    {
+        "ID_Produktu": "14915",
+        "Nazwa_Produktu": "Ławka skośna do ćwiczeń treningowa Master",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalne_ID_AI": 4338,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ławka treningowa przeznaczona do ćwiczeń siłowych, co idealnie pasuje do najbardziej szczegółowej kategorii 'Ławki' wewnątrz sekcji fitness i sprzętu siłowego."
+    },
+    {
+        "ID_Produktu": "14918",
+        "Nazwa_Produktu": "Ławka Treningowa do Ćwiczeń prosta Master",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalne_ID_AI": 4338,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ławka treningowa przeznaczona do ćwiczeń siłowych z wolnymi ciężarami, co dokładnie odpowiada kategorii 'Ławki' znajdującej się w sekcji Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "14939",
+        "Nazwa_Produktu": "Ławeczka do treningu mięśni brzucha i grzbietu MASTER Hyperextenze Bench 45°",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalne_ID_AI": 4338,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ławka rzymska/treningowa do ćwiczeń mięśni brzucha i grzbietu, co w strukturze OLX odpowiada kategorii Sport i Hobby > Fitness > Sprzęt siłowy > Ławki."
+    },
+    {
+        "ID_Produktu": "15095",
+        "Nazwa_Produktu": "Stepper Skrętny z Linkami MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Stepy, steppery i twistery",
+        "Finalne_ID_AI": 4332,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stepper skrętny przeznaczony do domowych ćwiczeń fitness, co bezpośrednio odpowiada kategorii liścia 'Stepy, steppery i twistery' w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "15650",
+        "Nazwa_Produktu": "Hulajnoga wyczynowa Freestyle SPARTAN Extreme Stunt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga wyczynowa (stunt scooter), która idealnie pasuje do najbardziej szczegółowej kategorii 'Hulajnogi' w sekcji 'Skating' w dziale 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "15710",
+        "Nazwa_Produktu": "Hulajnoga freestyle SPARTAN Stunt Profi",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to manualna hulajnoga wyczynowa (freestyle/stunt), która idealnie pasuje do kategorii 'Hulajnogi' w sekcji 'Skating' wewnątrz działu 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "16022",
+        "Nazwa_Produktu": "Bramka do piłki nożnej MASTER 300 x 205 x 120 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bramka piłkarska, która stanowi sprzęt treningowy do gry w piłkę nożną. Zgodnie z hierarchią kategorii, najbardziej precyzyjnym liściem jest kategoria 'Akcesoria' wewnątrz sekcji 'Piłka nożna'."
+    },
+    {
+        "ID_Produktu": "16547",
+        "Nazwa_Produktu": "Mata do trampoliny 244 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest zamienną matą do trampoliny ogrodowej. Trampoliny oraz ich elementy składowe (siatki, maty, sprężyny) na platformie OLX są klasyfikowane w kategorii wyposażenia ogrodowych placów zabaw (Dom i Ogród > Ogród > Huśtawki i place zabaw)."
+    },
+    {
+        "ID_Produktu": "16580",
+        "Nazwa_Produktu": "Mata do trampoliny 305 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Trampoliny ogrodowe oraz ich części zamienne, takie jak maty (batuty), są na platformie OLX tradycyjnie umieszczane w kategorii 'Huśtawki i place zabaw' w sekcji Ogród, ponieważ stanowią element rekreacyjnego wyposażenia przydomowych stref zabaw."
+    },
+    {
+        "ID_Produktu": "16736",
+        "Nazwa_Produktu": "Osłona na sprężyny do trampoliny MASTER 300 x 210 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Osłona na sprężyny do trampoliny o wymiarach 300 x 210 cm to element wyposażenia trampoliny ogrodowej. Na platformie OLX trampoliny ogrodowe oraz ich części zamienne (siatki, maty, osłony) są standardowo klasyfikowane w kategorii Dom i Ogród > Ogród > Huśtawki i place zabaw."
+    },
+    {
+        "ID_Produktu": "16781",
+        "Nazwa_Produktu": "Obciążenia żeliwne 2 x 15 kg MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to żeliwne talerze do ćwiczeń o wadze 15 kg, które idealnie pasują do kategorii liścia 'Obciążenia' znajdującej się w sekcji Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "16784",
+        "Nazwa_Produktu": "Obciążenie metalowe z powierzchnią gumowaną 20 kg",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to metalowy talerz obciążeniowy o wadze 20 kg przeznaczony do treningu siłowego, co precyzyjnie odpowiada liściowi 'Obciążenia' w sekcji 'Sprzęt siłowy'."
+    },
+    {
+        "ID_Produktu": "16904",
+        "Nazwa_Produktu": "Zestaw hantli MASTER 12 KG",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw hantli przeznaczonych do ćwiczeń siłowych i fitness, co idealnie pasuje do specyficznej kategorii liściowej 'Hantle' (ID: 4337) znajdującej się w sekcji Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "17141",
+        "Nazwa_Produktu": "Wkład zapasowy do pomp filtrujących o wydajności 2,006 i 3,028 L",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Filtry do wody",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wkład zapasowy do pompy basenowej. Zgodnie z opisem przeznaczony jest do basenów i spa, dlatego najlepiej pasuje do kategorii 'Baseny' (ID 1630) w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "17147",
+        "Nazwa_Produktu": "Wąż do filtrowania BESTWAY 3 metry + przyłącze",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to wąż do pomp filtracyjnych i filtrów piaskowych marki Bestway, która specjalizuje się w basenach ogrodowych. W strukturze OLX akcesoria i części zamienne do basenów kategoryzowane są bezpośrednio w sekcji 'Baseny' (ID 1630) w dziale Ogród."
+    },
+    {
+        "ID_Produktu": "17198",
+        "Nazwa_Produktu": "Drabinka do Basenu Dwustronna 107 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to drabinka basenowa, będąca integralnym akcesorium do basenów ogrodowych. W strukturze kategorii OLX, kategoria 'Baseny' (1630) jest najbardziej precyzyjną kategorią-liściem dla tego typu produktów."
+    },
+    {
+        "ID_Produktu": "17288",
+        "Nazwa_Produktu": "Huśtawka dla dzieci bociane gniazdo MASTER 80 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka typu bocianie gniazdo przeznaczona do użytku w ogrodzie, na tarasie lub w domu, co bezpośrednio odpowiada definicji kategorii 'Huśtawki i place zabaw' w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "17634",
+        "Nazwa_Produktu": "Ponton Fishman 350 set 305 x 136 cm  340 kg",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Wędkarstwo > Pozostałe wędkarstwo",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Kajaki, pontony i rowery wodne > Pontony",
+        "Finalne_ID_AI": 5010,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany pontonem w tytule i opisie, a w drzewie kategorii OLX istnieje dedykowana kategoria liść o nazwie 'Pontony' w sekcji sportów wodnych."
+    },
+    {
+        "ID_Produktu": "17751",
+        "Nazwa_Produktu": "Ponton Fishman 200 set 218 x 110cm 190kg",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty wodne > Kajaki, pontony i rowery wodne > Pontony",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Kajaki, pontony i rowery wodne > Pontony",
+        "Finalne_ID_AI": 5010,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to nadmuchiwany ponton przeznaczony do rekreacji wodnej i wędkarstwa, co jednoznacznie klasyfikuje go do kategorii 'Pontony' w sekcji sportów wodnych."
+    },
+    {
+        "ID_Produktu": "18705",
+        "Nazwa_Produktu": "Stacjonarne Poręcze do Pompek Dipów MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stacjonarne poręcze przeznaczone do ćwiczeń siłowych (dipów, pompek), co idealnie pasuje do kategorii liścia 'Drążki i poręcze' w sekcji sprzętu siłowego."
+    },
+    {
+        "ID_Produktu": "20092",
+        "Nazwa_Produktu": "Zestaw Hantli DUMBELL MASTER 2 x 5 KG",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Hantle",
+        "Finalne_ID_AI": 4337,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw hantli o wadze 2 x 5 kg, co bezpośrednio odpowiada kategorii liścia 'Hantle' znajdującej się w sekcji Sport i Hobby > Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "20119",
+        "Nazwa_Produktu": "Ponton Fishman 300 wędkarski rybacki 252 x 125cm 265kg",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Wędkarstwo > Pozostałe wędkarstwo",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Kajaki, pontony i rowery wodne > Pontony",
+        "Finalne_ID_AI": 5010,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to nadmuchiwany ponton, który ma swoją dedykowaną kategorię liścia w drzewie kategorii: Sport i Hobby > Sporty wodne > Kajaki, pontony i rowery wodne > Pontony. Choć opis zawiera informację o przeznaczeniu wędkarskim, kategoria opisująca typ przedmiotu (ponton) jest bardziej precyzyjna niż sugerowana ogólna kategoria wędkarstwa."
+    },
+    {
+        "ID_Produktu": "20227",
+        "Nazwa_Produktu": "Zestaw do gry w krokieta dla 6 osób Lucio Londero",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara porcelana > Serwisy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w krokieta, która jest klasycznym sportem towarzyskim i rekreacyjnym uprawianym na zewnątrz. W drzewie kategorii OLX najbardziej precyzyjną ścieżką dla gier tego typu jest Sport i Hobby > Sporty towarzyskie. Ponieważ krokiet nie posiada dedykowanej podkategorii (jak golf czy bilard), produkt trafia do kategorii liścia 'Pozostałe sporty towarzyskie'."
+    },
+    {
+        "ID_Produktu": "20230",
+        "Nazwa_Produktu": "Zestaw do gry w krokieta dla 6 osób Pro Lucio Londero 80",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Gry planszowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Krokiet jest klasyczną grą plenerową o charakterze rekreacyjnym i towarzyskim. W strukturze OLX najlepiej pasuje do ścieżki Sport i Hobby > Sporty towarzyskie, a ze względu na brak specyficznej kategorii dla krokieta (jak np. bilard czy rzutki), kategoria 'Pozostałe sporty towarzyskie' jest najbardziej trafnym wyborem liścia."
+    },
+    {
+        "ID_Produktu": "20293",
+        "Nazwa_Produktu": "Bramka do piłki nożnej MASTER 290 x 165 x 90 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Bramka do piłki nożnej jest sprzętem sportowym klasyfikowanym jako akcesorium do uprawiania konkretnej dyscypliny drużynowej, jaką jest piłka nożna."
+    },
+    {
+        "ID_Produktu": "20324",
+        "Nazwa_Produktu": "Siatka Do Tenisa Stołowego SPONETA Club",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka do tenisa stołowego, która idealnie pasuje do najbardziej szczegółowej kategorii dedykowanej temu sportowi: Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy."
+    },
+    {
+        "ID_Produktu": "20371",
+        "Nazwa_Produktu": "Kij baseballowy SPARTAN Alu 32\"\" Srebny",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kij baseballowy jest sprzętem do gry drużynowej. W strukturze kategorii OLX, baseball nie posiada dedykowanej sekcji, dlatego najbardziej precyzyjnym wyborem jest liść 'Pozostałe sporty drużynowe', który znajduje się głębiej w hierarchii niż ogólne 'Pozostały sport i hobby'."
+    },
+    {
+        "ID_Produktu": "20487",
+        "Nazwa_Produktu": "Przenośny Stojak do Koszykówki MASTER Against 210",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to przenośny zestaw do koszykówki zawierający stojak, tablicę i obręcz. W strukturze OLX sprzęt do gry taki jak kosze, piłki i siatki klasyfikowany jest w kategorii Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria."
+    },
+    {
+        "ID_Produktu": "20597",
+        "Nazwa_Produktu": "Tarcza elektroniczna CARROMCO Striker 401",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Analizowany produkt to elektroniczna tarcza do gry w rzutki (darta). W drzewie kategorii OLX najbardziej precyzyjnym liściem dla tego produktu jest kategoria 'Dart' (ID: 4967), znajdująca się w sekcji 'Sport i Hobby > Sporty towarzyskie'."
+    },
+    {
+        "ID_Produktu": "21070",
+        "Nazwa_Produktu": "Tarcza Elektroniczna do Gry w Dart ECHOWELL AC 100",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektroniczna tarcza do gry w dart wraz z akcesoriami, co idealnie pasuje do dedykowanej kategorii 'Dart' znajdującej się w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21202",
+        "Nazwa_Produktu": "Hulajnoga składana z paskiem transportowym  MASTER Cruiser 200 mm Czerwona",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Samochody i pojazdy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga rekreacyjna o parametrach technicznych (koła 200mm, obciążenie do 100kg, łożyska ABEC 5) przeznaczona do transportu miejskiego, co najlepiej odpowiada kategorii Hulajnogi w sekcji Skating w dziale Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "21219",
+        "Nazwa_Produktu": "Mini Stół do Ping-Pong'a MASTER Midi Table Fun",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stół do tenisa stołowego (ping-ponga), wraz z osprzętem. Najbardziej szczegółową i pasującą kategorią w drzewie jest 'Tenis stołowy' w sekcji sportów towarzyskich, mimo że rozmiar 'midi' sugeruje przeznaczenie dla dzieci lub do użytku domowego."
+    },
+    {
+        "ID_Produktu": "21310",
+        "Nazwa_Produktu": "Drabinka do Basenu Dwustronna 122cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to drabinka basenowa, która jest podstawowym akcesorium do basenów ogrodowych. W drzewie kategorii OLX, kategoria 'Baseny' (ID: 1630) w sekcji 'Ogród' jest właściwym i najbardziej specyficznym miejscem dla kompletnych basenów oraz ich bezpośredniego wyposażenia i osprzętu."
+    },
+    {
+        "ID_Produktu": "21358",
+        "Nazwa_Produktu": "Huśtawka dziecięca - bujane gniazdo MASTER prostokąt 110 x 55 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka typu bocianie gniazdo, która w strukturze OLX jest bezpośrednio przypisana do kategorii Huśtawki i place zabaw w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "21409",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC Waldner 5000",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest rakietką przeznaczoną do tenisa stołowego, co wprost odpowiada najbardziej szczegółowej kategorii (liściowi) o nazwie 'Tenis stołowy' w sekcji sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "21579",
+        "Nazwa_Produktu": "Hulajnoga Freestyle SPARTAN Stunt Medium Level",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga wyczynowa (stunt/freestyle), która jest klasyfikowana w sekcji Skating. Najdokładniejszą kategorią liściem dla tego produktu jest 'Hulajnogi' (id: 1676) wewnątrz ścieżki Sport i Hobby > Skating."
+    },
+    {
+        "ID_Produktu": "21581",
+        "Nazwa_Produktu": "Hulajnoga Składana SPARTAN Tahiti - 205 mm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mechaniczna hulajnoga składana przeznaczona dla dorosłych i nastolatków, co bezpośrednio odpowiada kategorii 'Hulajnogi' w sekcji 'Skating' wewnątrz głównego działu 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "21582",
+        "Nazwa_Produktu": "Hulajnoga freestyle SPARTAN Stunt - zielona",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga wyczynowa (stunt/freestyle), która jest klasycznym sprzętem skatingowym. Najbardziej precyzyjną kategorią w drzewie jest Sport i Hobby > Skating > Hulajnogi (ID: 1676)."
+    },
+    {
+        "ID_Produktu": "21597",
+        "Nazwa_Produktu": "Rowerek biegowy MASTER Porsh - biały",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Rowery dziecięce",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Rowery > Rowery dziecięce",
+        "Finalne_ID_AI": 1681,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rowerek biegowy, który jest specjalistycznym typem roweru dla najmłodszych dzieci (3-5 lat). Ze względu na specyfikację techniczną (magnezowa rama, koła 12 cali, aluminiowe felgi), produkt najlepiej pasuje do kategorii 'Rowery dziecięce' w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "21627",
+        "Nazwa_Produktu": "Paski testowe BESTWAY Flowclear Pool",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Urządzenia medyczne > Glukometry",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to paski testowe przeznaczone wyłącznie do pomiaru parametrów wody w basenach ogrodowych. W podanym drzewie kategorii najbardziej precyzyjnym miejscem dla akcesoriów basenowych jest kategoria 'Baseny' (ID 1630) w sekcji 'Dom i Ogród > Ogród'. Wskazówka o glukometrach jest błędna, ponieważ dotyczy wyrobów medycznych do badania krwi, krwi a nie chemii basenowej."
+    },
+    {
+        "ID_Produktu": "22379",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC CarboTec 3000 concave",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co jednoznacznie odpowiada najbardziej szczegółowej kategorii 'Tenis stołowy' (ID: 5027) w drzewie kategorii Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "22387",
+        "Nazwa_Produktu": "Statyw Trójnóg do Ogniska Grilla VIKING",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Fotografia > Statywy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium do gotowania na otwartym ogniu (statyw do grilla/kociołka). Najbardziej odpowiednią kategorią dla wyposażenia tego typu jest Dom i Ogród > Ogród > Grill, a nie kategoria sugerowana przez system dotycząca statywów fotograficznych."
+    },
+    {
+        "ID_Produktu": "25468",
+        "Nazwa_Produktu": "Drabinka basenowa 109 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to akcesorium basenowe (drabinka), które w strukturze OLX przypisane jest bezpośrednio do kategorii Baseny w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "25485",
+        "Nazwa_Produktu": "Siatka zabezpieczająca do trampoliny MASTER Fun 305 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Trampoliny oraz ich elementy zamienne, takie jak siatki zabezpieczające, są na OLX standardowo kategoryzowane w sekcji 'Huśtawki i place zabaw' w ramach kategorii 'Ogród', ponieważ stanowią wyposażenie ogrodowych miejsc zabaw."
+    },
+    {
+        "ID_Produktu": "25532",
+        "Nazwa_Produktu": "Hulajnoga freestyle SPARTAN Stunt - czarna",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga freestyle (wyczynowa), która należy do sprzętu skatingowego. Wybrana kategoria 'Hulajnogi' (ID 1676) w sekcji 'Skating' jest najbardziej precyzyjnym dopasowaniem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "25556",
+        "Nazwa_Produktu": "Skośna ławeczka treningowa SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Ławki",
+        "Finalne_ID_AI": 4338,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasyczną ławeczką treningową do ćwiczeń fitness i siłowych, co idealnie pasuje do kategorii liścia 'Ławki' znajdującej się w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "25633",
+        "Nazwa_Produktu": "Pokrywa z wcięciami do palenisk okrągłych",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium (pokrywą) do paleniska ogrodowego. W strukturze kategorii OLX paleniska zewnętrzne oraz wszelkie akcesoria do nich (ruszty, pokrywy) są przypisywane do kategorii Grill w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "25637",
+        "Nazwa_Produktu": "Huśtawka ogrodowa SPARTAN Boat 140 x 70 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to huśtawka ogrodowa o konstrukcji przeznaczonej do użytku na zewnątrz, co idealnie pasuje do kategorii 'Huśtawki i place zabaw' znajdującej się w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "25801",
+        "Nazwa_Produktu": "Przykrycie na basen BESTWAY - 410 x 226 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to przykrycie przeznaczone bezpośrednio do basenu ogrodowego. W strukturze OLX akcesoria basenowe, takie jak plandeki i pokrywy, klasyfikowane są w kategorii Dom i Ogród > Ogród > Baseny (ID: 1630), która jest kategorią liściem."
+    },
+    {
+        "ID_Produktu": "25834",
+        "Nazwa_Produktu": "Stojak na hantle MASTER Spin",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Pozostałe",
+        "Finalne_ID_AI": 4342,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stalowy stojak na hantle ze zmiennym obciążeniem. Hantle oraz powiązany z nimi osprzęt do treningu siłowego należą do kategorii 'Sprzęt siłowy' (ID 4316). Ponieważ w tej sekcji nie ma dedykowanej podkategorii na stojaki, najbardziej odpowiednim wyborem jest kategoria-liść 'Pozostałe' w obrębie sprzętu siłowego."
+    },
+    {
+        "ID_Produktu": "26241",
+        "Nazwa_Produktu": "Przykrycie solarne BESTWAY 380 x 180 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przykrycie solarne przeznaczone do basenów ogrodowych. Najbardziej odpowiednią kategorią dla akcesoriów basenowych w drzewie kategorii OLX jest kategoria 'Baseny' w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "26440",
+        "Nazwa_Produktu": "Piłka do koszykówki SPALDING Excel TF500 Euroleague - 7",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest piłką do koszykówki, co stanowi podstawowy sprzęt (akcesorium) w dyscyplinie koszykówka. Wybrana kategoria 'Akcesoria' wewnątrz 'Koszykówki' jest najbardziej precyzyjnym liściem w strukturze drzewa."
+    },
+    {
+        "ID_Produktu": "26448",
+        "Nazwa_Produktu": "Drążek z kółkami gimnastycznymi dla dzieci MASTER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest drążkiem gimnastycznym (z dodatkowymi kółkami) do użytku domowego. Najbardziej precyzyjną kategorią w drzewie jest ID 4335 (Drążki i poręcze), która znajduje się w sekcji Sprzęt siłowy w kategorii Fitness."
+    },
+    {
+        "ID_Produktu": "41461",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego JOOLA Carbon X Pro",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka do tenisa stołowego, co bezpośrednio odpowiada kategorii liściastej 'Tenis stołowy' (ID 5027) w drzewie kategorii Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "41469",
+        "Nazwa_Produktu": "Rakieta do tenisa stołowego DONIC Protection Line S300",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rakietka przeznaczona do tenisa stołowego (ping-ponga), a kategoria o ID 5027 (Tenis stołowy) jest najbardziej szczegółowym i trafnym liściem w drzewie kategorii Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "41495",
+        "Nazwa_Produktu": "Bramka do piłki nożnej 213 x 152 x 76 cm z plandeką treningową",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bramka do piłki nożnej z akcesoriami treningowymi, co jednoznacznie klasyfikuje go w kategorii akcesoriów do piłki nożnej w sekcji sportów drużynowych."
+    },
+    {
+        "ID_Produktu": "41728",
+        "Nazwa_Produktu": "Aluminiowa Szafka z Tarczą MASTER i Rzutkami",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Szafki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Dart",
+        "Finalne_ID_AI": 4967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw do gry w darta (lotki), obejmujący profesjonalną tarczę sizalową, rzutki oraz szafkę pełniącą funkcję tablicy wyników i obudowy. Najbardziej dopasowaną kategorią liściem w drzewie jest 'Dart' (id: 4967) w sekcji 'Sporty towarzyskie'."
+    },
+    {
+        "ID_Produktu": "41859",
+        "Nazwa_Produktu": "Kosz do koszykówki MASTER Azazm 210 ze stojakiem",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka",
+        "Finalne_ID_AI": 4971,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest kompletnym zestawem do gry w koszykówkę (kosz, tablica, stojak), co jednoznacznie klasyfikuje go jako akcesorium w kategorii Sporty drużynowe > Koszykówka."
+    },
+    {
+        "ID_Produktu": "42087",
+        "Nazwa_Produktu": "Statyw trójnóg KING CAMP z kompletnym wyposażeniem",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Fotografia > Statywy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Mimo nazwy 'statyw', opis produktu jednoznacznie wskazuje na przeznaczenie do grillowania i gotowania na otwartym ogniu, zawierając w zestawie ruszt i palenisko. Najbardziej precyzyjną kategorią dla tego typu produktów w sekcji Dom i Ogród jest kategoria Grill."
+    },
+    {
+        "ID_Produktu": "42920",
+        "Nazwa_Produktu": "Bramka do piłki nożnej MASTER 120 x 90 x 90 cm - składana",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Zabezpieczenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest bramką piłkarską przeznaczoną do gry w piłkę nożną. Najbardziej precyzyjną kategorią dla tego typu sprzętu sportowego jest kategoria Akcesoria w sekcji Piłka nożna."
+    },
+    {
+        "ID_Produktu": "42921",
+        "Nazwa_Produktu": "Bramka do piłki nożnej MASTER Quick Set XL 200 x 90 x 90 cm - składana",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest bramką do piłki nożnej przeznaczoną do treningu i rekreacji. Najbardziej specyficzną kategorią w drzewie jest Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria."
+    },
+    {
+        "ID_Produktu": "42922",
+        "Nazwa_Produktu": "Zestaw Bramek do piłki nożnej MASTER Quick Set 120 x 90 x 90 cm - składany",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to bramki do piłki nożnej, które stanowią wyposażenie/akcesoria do uprawiania tej konkretnej dyscypliny sportowej. Najbardziej precyzyjną kategorią w drzewie jest Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria."
+    },
+    {
+        "ID_Produktu": "42923",
+        "Nazwa_Produktu": "Bramka do piłki nożnej MASTER Pop-Up 118 x 80 x 80 cm z otworami treningowymi",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przenośna bramka do piłki nożnej, która jest podstawowym wyposażeniem i akcesorium do uprawiania tej konkretnej dyscypliny sportu. Kategoria 'Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria' jest najbardziej precyzyjnym dopasowaniem w dostępnym drzewie."
+    },
+    {
+        "ID_Produktu": "42929",
+        "Nazwa_Produktu": "Piłeczko do Tenisa Stołowego JOOLA Prime 72 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw piłeczek do tenisa stołowego, co bezpośrednio odpowiada kategorii 'Tenis stołowy' (ID: 5027), która znajduje się w ścieżce Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "42931",
+        "Nazwa_Produktu": "Piłeczko do Tenisa Stołowego JOOLA Flip 72 Sztuki",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki do tenisa stołowego, które w drzewie kategorii OLX mają dedykowaną podkategorię o ID 5027 (Tenis stołowy) w sekcji Sportów towarzyskich."
+    },
+    {
+        "ID_Produktu": "42932",
+        "Nazwa_Produktu": "Piłeczko do Tenisa Stołowego JOOLA Magic ABS 144 Sztuki",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to piłeczki treningowe do tenisa stołowego, co bezpośrednio odpowiada kategorii liścia 'Tenis stołowy' (ID: 5027) znajdującej się w sekcji Sporty towarzyskie > Tenis i pokrewne."
+    },
+    {
+        "ID_Produktu": "42933",
+        "Nazwa_Produktu": "Zestaw do tenisa stołowego JOOLA Hit Bag - 14 rakietek + 30 piłek",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kompletny zestaw rakietek i piłek do tenisa stołowego, co idealnie odpowiada najbardziej szczegółowej kategorii 'Tenis stołowy' w drzewie kategorii OLX."
+    },
+    {
+        "ID_Produktu": "42934",
+        "Nazwa_Produktu": "Pokrowiec na rakietkę do tenisa stołowego JOOLA Hard Case Cover - niebieski",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec na rakietki do tenisa stołowego. Najbardziej specyficzną kategorią dla tego sprzętu w drzewie OLX jest Tenis stołowy (id: 5027) w sekcji Sporty towarzyskie."
+    },
+    {
+        "ID_Produktu": "42935",
+        "Nazwa_Produktu": "Pokrowiec na rakietkę do tenisa stołowego JOOLA Hard Case Cover - czarny",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec na rakietkę do tenisa stołowego, co bezpośrednio odpowiada kategorii liściowi 'Tenis stołowy' (ID 5027) w sekcji Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "42936",
+        "Nazwa_Produktu": "Zestaw do czyszczenia rakietek JOOLA Pro Cleaner - spray 125 ml + gąbka",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw do czyszczenia rakietek do tenisa stołowego. Najbardziej precyzyjną kategorią w drzewie jest 'Tenis stołowy' (5027), znajdująca się w sekcji 'Sporty towarzyskie > Tenis i pokrewne'."
+    },
+    {
+        "ID_Produktu": "42937",
+        "Nazwa_Produktu": "Zestaw do czyszczenia rakietek JOOLA Clipper Foam Set - pianka 100 ml + gąbka",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny zestaw do konserwacji i czyszczenia sprzętu do tenisa stołowego. Najbardziej precyzyjną kategorią w drzewie jest 'Tenis stołowy' (Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy)."
     }
 ]
