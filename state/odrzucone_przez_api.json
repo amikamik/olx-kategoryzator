@@ -12563,5 +12563,76 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1012404",
+        "Nazwa_Produktu": "Tarcza do tarcia wiórków do szatkownicy SH-1 1 mm - Sammic 1010318",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalne_ID_AI": 3126,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to tarcza do szatkownicy elektrycznej, która jest urządzeniem AGD kuchennym. Najbardziej szczegółową i trafną kategorią jest 'Części i akcesoria AGD do kuchni' znajdująca się w drzewie 'Elektronika > Sprzęt AGD > Części i akcesoria do AGD'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Tarcza do tarcia wiórków do szatkownicy sh-1 1 mm - sammic 1010318",
+                "description": "Kod producenta: 1010318 Tarcza do tarcia wiórków SH-1 1 mm do szatkownicy elektrycznej marki Sammic. Idealna do ucierania chleba, twardego sera, czekolady itp. Pasuje do modeli CA-301/301VV/401/401VV/601, CK-301/302/401/402 oraz CA-31/41/62/3V/4V, CK-35V/38V/45V/48V Cechy produktu: - Tarcza do wiórków, - Do ucierania chleba, twardego sera, czekolady itp. Parametry techniczne: - Nr katalogowy - 1010318 - Stan - Nowy - Marka - Sammic - Model - SH-1 W zestawie: - Tarcza do szatkownicy\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 3126,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 488.39,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/131/1010318-tarcza-do-tarcia-wiorkow-do-szatkownicy-sh-1-1-mm-sammic-1010318-ean-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/131/1010318-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/131/1010318-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/131/1010318-3.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Wpisałeś frazę: 1010318, która nie jest dozwolona w tym polu. Twój numer telefonu możesz podać w innych miejscach formularza",
+                            "detail": "Wpisałeś frazę: 1010318, która nie jest dozwolona w tym polu. Twój numer telefonu możesz podać w innych miejscach formularza"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

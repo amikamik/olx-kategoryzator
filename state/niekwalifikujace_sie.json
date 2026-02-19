@@ -13798,5 +13798,355 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to pojemnik GN przeznaczony do profesjonalnych kuchni, restauracji i hoteli, co wskazuje na zastosowanie w sektorze Firma i Przemysł. Najbardziej szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "1012309",
+        "Nazwa_Produktu": "Płuczka myjka do gałkownic porcjonerów do lodów Kitchen Line 270 x 111 x 115 mm - Hendi 802007",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Zmywarki",
+        "Finalne_ID_AI": 5069,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to płuczka myjka do gałkownic, czyli urządzenie służące do mycia, dedykowane dla branży gastronomicznej. Kategoria 'Zmywarki' w dziale 'Gastronomia' jest najbardziej szczegółowym i trafnym odzwierciedleniem funkcji i przeznaczenia produktu, pomimo że jest to specjalistyczna wersja zmywarki."
+    },
+    {
+        "ID_Produktu": "1012405",
+        "Nazwa_Produktu": "Tarcza do tarcia wiórków do szatkownicy SH-2 2 mm - Sammic 1010320",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tarcza do szatkownicy, która jest urządzeniem gastronomicznym. Kategoria 'Szatkownice' znajduje się bezpośrednio w 'Gastronomia', co jest najbardziej szczegółowym i precyzyjnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1012406",
+        "Nazwa_Produktu": "Tarcza do tarcia wiórków do szatkownicy SH-3 3 mm - Sammic 1010315",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza do szatkownicy elektrycznej marki Sammic. Sammic jest producentem profesjonalnego sprzętu gastronomicznego, co w połączeniu z przeznaczeniem tarczy (tarcie warzyw, sera do pizzy, orzechów) wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu części, 'Pozostałe' w ramach 'Gastronomia' jest najbardziej odpowiednie."
+    },
+    {
+        "ID_Produktu": "1012407",
+        "Nazwa_Produktu": "Tarcza do tarcia wiórków do szatkownicy SH-4 4 mm - Sammic 1010322",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Szatkownice",
+        "Finalne_ID_AI": 5063,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tarcza do profesjonalnej szatkownicy elektrycznej marki Sammic, przeznaczonej do tarcia warzyw, sera itp. Kategoria 'Szatkownice' (ID 5063) jest idealnie dopasowana, znajduje się w gałęzi 'Firma i Przemysł > Gastronomia', co doskonale odzwierciedla przeznaczenie produktu do użytku komercyjnego/profesjonalnego, a nie domowego. Jest to najbardziej szczegółowa i specyficzna kategoria-liść."
+    },
+    {
+        "ID_Produktu": "1012408",
+        "Nazwa_Produktu": "Tarcza do tarcia wiórków do szatkownicy SH-6 6 mm - Sammic 1010324",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza do szatkownicy elektrycznej marki Sammic, która jest powszechnie stosowana w profesjonalnej gastronomii do tarcia warzyw, sera do pizzy itp. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' najlepiej oddaje profesjonalny charakter produktu i jego funkcję jako części zamiennej/osprzętu do maszyny."
+    },
+    {
+        "ID_Produktu": "1012409",
+        "Nazwa_Produktu": "Tarcza do tarcia wiórków do szatkownicy SH-7 7 mm - Sammic 1010326",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza do szatkownicy elektrycznej, która jest częścią maszyny. Marka Sammic sugeruje zastosowanie profesjonalne/przemysłowe (gastronomia). Kategoria 'Części do maszyn i urządzeń' jest najbardziej precyzyjna i znajduje się pod 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1012410",
+        "Nazwa_Produktu": "Tarcza do tarcia wiórków do szatkownicy SH-8 8 mm - Sammic 1010328",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tarcza do szatkownicy elektrycznej, która jest częścią maszyny gastronomicznej (marka Sammic sugeruje zastosowanie profesjonalne/przemysłowe). Najlepiej pasującą kategorią jest 'Firma i Przemysł > Części do maszyn i urządzeń'."
+    },
+    {
+        "ID_Produktu": "1012462",
+        "Nazwa_Produktu": "Boczny element ścierny do obieraczki do ziemniaków PI-10 - Sammic 2009422",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Noże i nożyce kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to boczny element ścierny do obieraczki do ziemniaków, która jest maszyną gastronomiczną używaną w firmach. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej precyzyjna, ponieważ produkt jest częścią maszyny, a nie samym urządzeniem ani produktem spożywczym."
+    },
+    {
+        "ID_Produktu": "1012517",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki Hendi na tackę pojemnik bez podziału 227x178 mm - Hendi 805572",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca do zgrzewarki marki Hendi, która jest powszechnie używana w gastronomii do profesjonalnego pakowania żywności. Ponieważ nie ma bardziej szczegółowej kategorii dla części i akcesoriów do zgrzewarek gastronomicznych, 'Pozostałe' w kategorii 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "1012519",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki Hendi na dwie tacki pojemniki 178x113 mm - Hendi 805589",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'matryca forma' (wymienna część) do zgrzewarki, która jest maszyną. Kategoria 'Części do maszyn i urządzeń' jest najbardziej precyzyjna i znajduje się na odpowiednim poziomie szczegółowości, jako kategoria-liść pod 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1012520",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki Hendi na tackę dwudzielną 227x178 mm - Hendi 805596",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca do profesjonalnej zgrzewarki Hendi, która jest urządzeniem gastronomicznym. Kategoria 'Części do maszyn i urządzeń' w dziale 'Firma i Przemysł' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu jako części zamiennej do specjalistycznego sprzętu."
+    },
+    {
+        "ID_Produktu": "1012521",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki Hendi na pojemnik na zupę śr. 165 mm - Hendi 805619",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca do zgrzewarki, która jest specyficznym elementem urządzenia gastronomicznego (marka Hendi, przeznaczenie na pojemniki do zupy). Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej szczegółową i adekwatną kategorią-liściem, uwzględniającą przeznaczenie produktu w branży gastronomicznej, jednocześnie będąc odpowiednim miejscem dla akcesoriów, które nie pasują do bardzo specyficznych maszyn gastronomicznych."
+    },
+    {
+        "ID_Produktu": "1012522",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki Hendi na tackę trójdzielną 227x178 mm - Hendi 805626",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca, czyli część zamienna do zgrzewarki marki Hendi, która jest powszechnie używana w branży gastronomicznej i przemysłowej. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej precyzyjna, ponieważ produkt jest wyraźnie określoną częścią do maszyny, a nie gotowym urządzeniem ani drobnym przyborem kuchennym do użytku domowego."
+    },
+    {
+        "ID_Produktu": "1012523",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki Hendi na dwa pojemniki na zupę śr. 115 mm - Hendi 805633",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczna matryca do zgrzewarki, przeznaczona do pojemników na zupę. Marka Hendi wskazuje na zastosowanie profesjonalne/gastronomiczne. Najlepszą kategorią jest 'Firma i Przemysł > Gastronomia', a ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu części, 'Pozostałe' jest najbardziej odpowiednią kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1012524",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki Hendi na tackę dwudzielną COLT 227x178 mm - Hendi 805640",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to matryca do zgrzewarki marki Hendi, używanej do zamykania tacek dwudzielnych. Marka Hendi jest powszechnie kojarzona ze sprzętem gastronomicznym, co jednoznacznie wskazuje na kategorię 'Gastronomia'. Ponieważ nie ma bardziej szczegółowej podkategorii dla części lub akcesoriów do zgrzewarek w obrębie 'Gastronomii', najlepiej pasuje 'Pozostałe' w tej sekcji, będące kategorią liściową na najgłębszym możliwym poziomie."
+    },
+    {
+        "ID_Produktu": "1012525",
+        "Nazwa_Produktu": "Matryca do zgrzewarki Hendi na tackę bez podziału 178x113 mm + pojemnik śr. 115 mm - Hendi 805657",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienna matryca do zgrzewarki Hendi, która jest urządzeniem gastronomicznym. Zgodnie z zasadą wyboru najgłębszej i najbardziej specyficznej kategorii, 'Części do maszyn i urządzeń' w ramach 'Firma i Przemysł' jest najbardziej adekwatna, ponieważ produkt jest częścią maszyny używanej w przemyśle gastronomicznym. Kategoria 'Gastronomia' pod 'Firma i Przemysł' nie posiada podkategorii dla części, a ogólna 'Pozostałe' byłaby mniej precyzyjna niż 'Części do maszyn i urządzeń'."
+    },
+    {
+        "ID_Produktu": "1012526",
+        "Nazwa_Produktu": "Matryca forma do zgrzewarki Hendi na tackę bez podziału 187x137 mm - Hendi 805664",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wymienny element (matryca) do zgrzewarki Hendi. Marka Hendi specjalizuje się w wyposażeniu gastronomicznym, a zgrzewarki do tacek są typowym sprzętem używanym w gastronomii do pakowania żywności. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej szczegółową kategorią-liściem, która odzwierciedla przeznaczenie produktu w branży gastronomicznej, mimo że jest to część maszyny, a nie cała maszyna."
+    },
+    {
+        "ID_Produktu": "1012574",
+        "Nazwa_Produktu": "Pakowarka próżniowa listwowa z podajnikiem na rolkę Budget Line 310 mm 100 W - Hendi 201626",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Maszyny i urządzenia > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pakowarka próżniowa, która jest często używana w branży gastronomicznej do pakowania żywności. Opis produktu wyraźnie wskazuje na zastosowanie do 'produktów spożywczych' oraz 'wielu branż i domowych kuchniach'. Marka Hendi jest również kojarzona ze sprzętem gastronomicznym. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1012641",
+        "Nazwa_Produktu": "Waga techniczna kontrolna edukacyjna dokładna na baterie COMPASS CX 620g / 0.1g - OHAUS CX621",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na wagę techniczną kontrolną, co idealnie pasuje do kategorii 'Wagi' w dziale 'Firma i Przemysł > Sklepy i magazyny'."
+    },
+    {
+        "ID_Produktu": "1012642",
+        "Nazwa_Produktu": "Waga techniczna kontrolna edukacyjna precyzyjna na baterie COMPASS CX 1200g / 0.1g - OHAUS CX1201",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje, że jest to waga techniczna kontrolna, a opis potwierdza jej zastosowanie. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Wagi' jest najbardziej szczegółowa i idealnie pasuje do charakteru produktu. Podpowiedź OLX również wskazuje na tę kategorię."
+    },
+    {
+        "ID_Produktu": "1012643",
+        "Nazwa_Produktu": "Waga techniczna kontrolna edukacyjna energooszczędna COMPASS CX 5200g / 1g - OHAUS CX5200",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na wagę techniczną/kontrolną, co idealnie pasuje do kategorii 'Firma i Przemysł > Sklepy i magazyny > Wagi'."
+    },
+    {
+        "ID_Produktu": "1012644",
+        "Nazwa_Produktu": "Waga techniczna laboratoryjna precyzyjna kompaktowa COMPASS CR 220g / 0.1g - OHAUS CR221",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Wagi łazienkowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to waga techniczna, laboratoryjna, precyzyjna, przeznaczona m.in. do użytku w gastronomii. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Wagi' jest najbardziej adekwatna do zastosowań profesjonalnych i technicznych, znacznie lepiej niż ogólne 'AGD drobne > Wagi łazienkowe' czy nawet nieistniejące 'Wagi kuchenne'."
+    },
+    {
+        "ID_Produktu": "1012645",
+        "Nazwa_Produktu": "Waga techniczna laboratoryjna dokładna podręczna COMPASS CR 620g / 0.1g - OHAUS CR621",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to waga techniczna/laboratoryjna, która jest przeznaczona do użytku w gastronomii. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Wagi' jest najbardziej szczegółową i najlepiej pasującą opcją dla tego typu produktu, co potwierdza również podpowiedź OLX."
+    },
+    {
+        "ID_Produktu": "1012646",
+        "Nazwa_Produktu": "Waga laboratoryjna techniczna uniwersalna na baterie COMPASS CR 2200g / 1g - OHAUS CR2200",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Latarki i lampy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to waga laboratoryjna/techniczna, z opisem użycia w gastronomii. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Wagi' jest najbardziej specyficzna i najlepiej oddaje profesjonalny/biznesowy charakter produktu, w przeciwieństwie do domowych wag kuchennych."
+    },
+    {
+        "ID_Produktu": "1012647",
+        "Nazwa_Produktu": "Waga laboratoryjna techniczna uniwersalna na baterie COMPASS CR 5200g / 1g - OHAUS CR5200",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Latarki i lampy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to waga laboratoryjna/techniczna, przeznaczona do użytku w kuchni i gastronomii. Podkreślony jest jej profesjonalny charakter ('techniczna', 'kontrolna'), co kieruje ją do kategorii 'Firma i Przemysł'. W podkategorii 'Gastronomia', mimo braku dedykowanej gałęzi dla wag, 'Pozostałe' jest najlepszym wyborem, ponieważ odzwierciedla zastosowanie w profesjonalnej kuchni/gastronomii, a nie jako zwykły sprzęt domowy."
+    },
+    {
+        "ID_Produktu": "1012648",
+        "Nazwa_Produktu": "Waga kieszonkowa jubilerska precyzyjna na baterie YA 100g / 0.01g - OHAUS YA102",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Pozostała elektronika",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to waga kieszonkowa, a w drzewie kategorii istnieje bardzo szczegółowa kategoria 'Wagi' (ID: 4679) znajdująca się w ścieżce 'Firma i Przemysł > Sklepy i magazyny'. Jest to najbardziej precyzyjne dopasowanie dla tego typu produktu, biorąc pod uwagę jego funkcję i kontekst 'jubilerska precyzyjna', co sugeruje zastosowania profesjonalne lub handlowe."
+    },
+    {
+        "ID_Produktu": "1012302",
+        "Nazwa_Produktu": "Pojemnik termiczny GB-300 do transportu wypieków piekarniczy cukierniczy 60x40cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik termiczny przeznaczony do transportu i magazynowania wypieków w gastronomii i cateringu. Kategoria 'Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje profesjonalne zastosowanie produktu."
+    },
+    {
+        "ID_Produktu": "1012679",
+        "Nazwa_Produktu": "Lampa do podgrzewania potraw - wisząca stożkowa czarna śr. 275mm 250 W - Hendi 273845",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Podgrzewacze",
+        "Finalne_ID_AI": 5059,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lampa przeznaczona specjalnie do podgrzewania potraw w branży HoReCa. Kategoria 'Firma i Przemysł > Gastronomia > Podgrzewacze' jest najbardziej szczegółowa i najlepiej oddaje zastosowanie produktu w kontekście profesjonalnym, a nie ogólnego oświetlenia domowego."
+    },
+    {
+        "ID_Produktu": "1012680",
+        "Nazwa_Produktu": "Lampa do podgrzewania potraw - wisząca cylindryczna stożkowa czarna śr. 175mm 250W - Hendi 273852",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Podgrzewacze",
+        "Finalne_ID_AI": 5059,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lampa do podgrzewania potraw, przeznaczona dla branży HoReCa (hotele, restauracje). Kategoria 'Firma i Przemysł > Gastronomia > Podgrzewacze' jest najbardziej szczegółowa i precyzyjnie opisuje ten rodzaj sprzętu."
+    },
+    {
+        "ID_Produktu": "1012682",
+        "Nazwa_Produktu": "Kuchenka indukcyjna przenośna z panelem dotykowym 1 pole grzewcze Black Line śr. 22 cm 2000 W - Hendi 239391",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD do zabudowy > Płyty grzewcze",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki przenośne",
+        "Finalne_ID_AI": 2210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to przenośna kuchenka indukcyjna. Kategoria 'Kuchenki przenośne' (id: 2210) jest najbardziej szczegółową i precyzyjną kategorią typu 'AGD wolnostojące', pasującą do opisu 'przenośna' i zastosowania w kuchniach domowych oraz na campingach."
+    },
+    {
+        "ID_Produktu": "1012741",
+        "Nazwa_Produktu": "Łopata taca do wyciągania pizzy z pieca kwadratowa aluminiowa 405 x 1320 mm - Hendi 617120",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest łopatą do pizzy przeznaczoną do użytku w lokalach gastronomicznych, co jest wyraźnie wskazane w opisie. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna, a ponieważ brakuje bardziej szczegółowej podkategorii dla narzędzi do pizzy, 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1012742",
+        "Nazwa_Produktu": "Łopata taca do wyciągania pizzy z pieca kwadratowa aluminiowa perforowana 305 x 1320 mm - Hendi 617137",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Piece do pizzy",
+        "Finalne_ID_AI": 5057,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to łopata do pizzy, przeznaczona do użytku w lokalach gastronomicznych, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Piece do pizzy'."
+    },
+    {
+        "ID_Produktu": "1012744",
+        "Nazwa_Produktu": "Łopata do pizzy z otworami i uchwytem suwakowym aluminiowa okrągła śr. 230 mm dł. 1200 mm - Hendi 617168",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to aluminiowa łopata do pizzy przeznaczona do użytku w lokalach gastronomicznych, co jasno wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. W ramach tej podkategorii, brak jest bardziej szczegółowej kategorii dla 'łopata do pizzy' lub ogólnych narzędzi/akcesoriów do pizzy, stąd 'Pozostałe' jest najbardziej odpowiednią i szczegółową kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1012745",
+        "Nazwa_Produktu": "Łopata taca do wyciągania pizzy z pieca kwadratowa aluminiowa perforowana 405 x 1320 mm - Hendi 617144",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to łopata do pizzy, przeznaczona do użytku w lokalach gastronomicznych, co wyraźnie wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu narzędzi w gałęzi gastronomii, 'Pozostałe' jest najbardziej odpowiednim wyborem na najgłębszym poziomie."
+    },
+    {
+        "ID_Produktu": "1012768",
+        "Nazwa_Produktu": "Plecak torba termiczna dostawcza do transportu 10 pizza-boxów wodoodporna 72 l - Hendi 709801",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny plecak termiczny przeznaczony do transportu posiłków, w szczególności pizzy, dla firm gastronomicznych lub dostawców. Najlepiej pasuje do ogólnej kategorii 'Firma i Przemysł', a następnie do podkategorii 'Gastronomia'. Ponieważ nie ma bardziej szczegółowej kategorii dla 'plecaków dostawczych' ani 'toreb termicznych dostawczych' w ramach Gastronomii, wybrana została kategoria 'Pozostałe' w tej sekcji."
     }
 ]
