@@ -13478,5 +13478,175 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to wózek suwnicowy, element systemu służącego do przemieszczania ciężkich ładunków w przemyśle. Kategoria 'Wciągarki' pod 'Firma i Przemysł > Maszyny i urządzenia > Przemysł' jest najbardziej szczegółową i funkcjonalnie odpowiednią kategorią dla tego typu urządzenia, będącego częścią maszyn do podnoszenia i przesuwania."
+    },
+    {
+        "ID_Produktu": "1010963",
+        "Nazwa_Produktu": "Waga hakowa wisząca magazynowa z pilotem duży wyświetlacz LCD 500 / 0.1 kg",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Pozostała elektronika",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to waga hakowa magazynowa, idealnie pasuje do kategorii 'Firma i Przemysł > Sklepy i magazyny > Wagi', która jest najbardziej szczegółową i adekwatną kategorią-liściem dla tego typu urządzenia o zastosowaniu przemysłowym/magazynowym."
+    },
+    {
+        "ID_Produktu": "1011075",
+        "Nazwa_Produktu": "Otwieracz do puszek profesjonalny mocowany do blatu do 34 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny otwieracz do puszek przeznaczony do użytku w restauracjach, kuchniach hotelowych i firmach cateringowych, co jednoznacznie kwalifikuje go do kategorii 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej podkategorii dla otwieraczy do puszek, 'Pozostałe' jest najbardziej odpowiednie."
+    },
+    {
+        "ID_Produktu": "1011098",
+        "Nazwa_Produktu": "Regał druciany na ubrania do garderoby szatni 2 półki 2 wieszaki 120 x 45 x 180 cm do 200 kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to druciany regał na ubrania z półkami i wieszakami, przeznaczony do przechowywania odzieży. Kategoria 'Dom i Ogród > Meble > Wieszaki' jest najbardziej szczegółowa i trafna, biorąc pod uwagę główną funkcjonalność produktu jako miejsca do wieszania ubrań, mimo że zawiera również półki. Bezpośrednie użycie słowa 'wieszaki' w opisie dodatkowo wzmacnia to dopasowanie."
+    },
+    {
+        "ID_Produktu": "1011099",
+        "Nazwa_Produktu": "Regał druciany na ubrania do garderoby szatni 4 półki 3 wieszaki 119 x 45 x 179.5 cm do 270 kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to regał druciany przeznaczony głównie do przechowywania ubrań, wyposażony zarówno w półki, jak i wieszaki. Chociaż zawiera półki (co mogłoby sugerować kategorię 'Regały'), jego główna funkcja i nazwa ('na ubrania', 'wieszaki') oraz wskazówka systemowa OLX, wskazują, że kategoria 'Wieszaki' jest najbardziej odpowiednia, ponieważ obejmuje meble przeznaczone do wieszania odzieży, a często takie produkty łączą obie funkcjonalności."
+    },
+    {
+        "ID_Produktu": "1011100",
+        "Nazwa_Produktu": "Regał magazynowy druciany ażurowy 5 półek 55 x 44.5 x 150 cm do 150 kg",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalne_ID_AI": 4677,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na to, że jest to regał magazynowy przeznaczony do użytku komercyjnego, przemysłowego i domowego, idealnie pasujący do kategorii 'Regały' w 'Sklepy i magazyny'."
+    },
+    {
+        "ID_Produktu": "1011102",
+        "Nazwa_Produktu": "Profesjonalna suszarka do żywności ziół owoców grzybów 6 rusztów 500 W",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Profesjonalna suszarka do żywności' i jest przeznaczony zarówno do użytku domowego, jak i 'do użytku profesjonalnego w gastronomii, gospodarstwach agroturystycznych'. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej specyficzna dla zastosowań profesjonalnych, a ponieważ nie ma bardziej szczegółowej podkategorii dla suszarek do żywności, 'Pozostałe' w ramach 'Gastronomia' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1011110",
+        "Nazwa_Produktu": "Warnik podgrzewacz do wody grzańca podwójne ścianki stalowy 6.5L 1500 W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Podgrzewacze wody",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Warniki",
+        "Finalne_ID_AI": 5067,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Warnik', który jest specjalistycznym podgrzewaczem, a opis wyraźnie zaznacza, że jest to 'profesjonalny sprzęt gastronomiczny'. Kategoria 'Firma i Przemysł > Gastronomia > Warniki' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "1011154",
+        "Nazwa_Produktu": "Termos cateringowy z kranem do transportu napojów zimnych i gorących 7 l",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia",
+        "Finalne_ID_AI": 5035,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Termos cateringowy', przeznaczony dla 'barów i restauracji, a także firm cateringowych'. To wyraźnie wskazuje na zastosowanie profesjonalne, dlatego kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia. W ramach gastronomii, termos jest przede wszystkim 'Pojemnikiem gastronomicznym' do transportu i przechowywania napojów, co jest zgodne z opisem funkcji produktu."
+    },
+    {
+        "ID_Produktu": "1011208",
+        "Nazwa_Produktu": "Rozsiewacz siewnik posypywarka do nawozów trawy soli piasku 14 l",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Maszyny rolnicze > Rozsiewacze",
+        "Finalna_Sciezka_AI": "Rolnictwo > Maszyny rolnicze > Rozsiewacze",
+        "Finalne_ID_AI": 1283,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rozsiewacz/siewnik, a kategoria 'Rozsiewacze' pod 'Maszyny rolnicze' jest najbardziej specyficznym i trafnym wyborem, biorąc pod uwagę zastosowanie na polach, w ogrodach na dużych posesjach oraz do nawozów, trawy i soli, co wskazuje na zastosowania szersze niż typowe 'Narzędzia ogrodowe'. Dodatkowo wskazówka systemowa potwierdza ten wybór."
+    },
+    {
+        "ID_Produktu": "1011268",
+        "Nazwa_Produktu": "Szuflada kasowa na pieniądze do kasy fiskalnej 3/5 komór na bilon 5 miejsc na banknoty",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Pozostała elektronika",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalne_ID_AI": 4672,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to szuflada kasowa do kasy fiskalnej. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne' jest najbardziej szczegółową i precyzyjną kategorią-liściem, która idealnie pasuje do przeznaczenia i funkcji tego produktu, który jest bezpośrednio związany z obsługą kasy fiskalnej w punktach handlowo-usługowych."
+    },
+    {
+        "ID_Produktu": "1011517",
+        "Nazwa_Produktu": "Krzesło taboret hoker kosmetyczny z oparciem na kółkach do 150 kg TERNI biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Taborety kosmetyczne",
+        "Finalne_ID_AI": 5109,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to krzesło/hoker przeznaczone do użytku w salonach kosmetycznych, barberskich i studiach tatuażu. Kategoria 'Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Taborety kosmetyczne' jest najbardziej szczegółowa i idealnie pasuje do specyfiki produktu."
+    },
+    {
+        "ID_Produktu": "1011520",
+        "Nazwa_Produktu": "Taboret stołek hoker kosmetyczny obrotowy na kółkach Physa AVERSA zielony",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Taborety kosmetyczne",
+        "Finalne_ID_AI": 5109,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to taboret kosmetyczny, przeznaczony do salonów kosmetycznych lub fryzjerskich. Kategoria 'Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Taborety kosmetyczne' jest najbardziej szczegółowa i precyzyjnie pasuje do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "1011539",
+        "Nazwa_Produktu": "Pompa pompka do paliwa oleju napędowego elektryczna samozasysająca IP55 230 V 550 W 60 l/min",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Kanistry, lejki i pompki do paliwa",
+        "Finalne_ID_AI": 4494,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektryczna samozasysająca pompa do paliwa i oleju napędowego, przeznaczona do tankowania pojazdów i maszyn. Kategoria 'Kanistry, lejki i pompki do paliwa' w dziale 'Motoryzacja > Wyposażenie i akcesoria samochodowe' jest idealnym i najbardziej szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1011540",
+        "Nazwa_Produktu": "Pompa dystrybutor do paliwa oleju napędowego elektryczna ZESTAW IP55 230 V 370 W 40 l/min",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Kanistry, lejki i pompki do paliwa",
+        "Finalne_ID_AI": 4494,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to elektryczna pompa/dystrybutor do paliwa (oleju napędowego), przeznaczona do tankowania pojazdów i maszyn rolniczych. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Kanistry, lejki i pompki do paliwa' jest najbardziej szczegółową i adekwatną, ponieważ bezpośrednio odnosi się do akcesoriów do paliwa dla pojazdów. Kategoria 'Pompy wodne' jest myląca, gdyż produkt służy do paliwa, nie wody."
+    },
+    {
+        "ID_Produktu": "1011550",
+        "Nazwa_Produktu": "Pompa elektryczna do spuszczania paliwa oleju napędowego ZESTAW IP55 12 V 155 W 40 l/min",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Kanistry, lejki i pompki do paliwa",
+        "Finalne_ID_AI": 4494,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to elektryczna pompa do spuszczania paliwa (oleju napędowego, nafty), przeznaczona do tankowania pojazdów i maszyn. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Kanistry, lejki i pompki do paliwa' jest najbardziej szczegółowa i bezpośrednio opisuje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "1011558",
+        "Nazwa_Produktu": "Stojak lakierniczy montażowy do karoserii rozstawny typ X do 220 kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Pozostałe",
+        "Finalne_ID_AI": 5176,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny stojak lakierniczy i montażowy do karoserii, przeznaczony do użytku w warsztatach motoryzacyjnych, lakierniczych lub blacharskich. Najbardziej pasującą kategorią główną jest 'Firma i Przemysł', a następnie 'Wyposażenie warsztatów'. Ponieważ żadna z podkategorii 'Wyposażenia warsztatów' nie pasuje bezpośrednio (np. nie jest to narzędzie ręczne, podnośnik czy urządzenie diagnostyczne), wybieram 'Pozostałe' w tej podkategorii, co jest najbardziej szczegółową i adekwatną opcją."
+    },
+    {
+        "ID_Produktu": "1011590",
+        "Nazwa_Produktu": "Ściągacz prasa śrubowa do sworzni przegubów kulowych kulistych FORD DODGE HONDA",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny ściągacz do sworzni kulistych, przeznaczony do profesjonalnego użytku w warsztatach mechaniki pojazdowej i serwisach samochodowych. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółowa i trafna dla tego typu narzędzi."
     }
 ]
