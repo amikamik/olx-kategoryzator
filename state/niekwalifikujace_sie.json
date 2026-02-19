@@ -13408,5 +13408,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to taca kelnerska przeznaczona do użytku w profesjonalnych lokalach gastronomicznych, co bezpośrednio wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. Ponieważ brak jest bardziej szczegółowej kategorii dla tac w ramach 'Gastronomii', 'Pozostałe' jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "1010580",
+        "Nazwa_Produktu": "Beczka stalowa metalowa ISO OH zdejmowane wieko 2 otwory 2'' i 3/4'' lakierowana 210L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Szamba i zbiorniki",
+        "Finalne_ID_AI": 3200,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to stalowa beczka, która w opisie jest wyraźnie określana jako 'zbiornik na wodę deszczówkę' oraz 'szczelny pojemnik do przechowywania różnych rzeczy'. Kategoria 'Szamba i zbiorniki' jest najbardziej szczegółową i adekwatną dla tego typu produktu, będącego formą zbiornika na płyny lub inne materiały, w kontekście zastosowań domowych i ogrodowych, jak zbieranie deszczówki."
+    },
+    {
+        "ID_Produktu": "1010664",
+        "Nazwa_Produktu": "Palnik gazowy dekarski budowlany do izolacji papy smoły gaz LPG 54 kW",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Pozostałe",
+        "Finalne_ID_AI": 4795,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wysokiej mocy palnik gazowy przeznaczony do profesjonalnych prac dekarskich, izolacyjnych, w kamieniarstwie oraz do opalania/zgrzewania. Jego zastosowanie jest typowo budowlane i przemysłowe, co klasyfikuje go w kategorii 'Firma i Przemysł'. Ponieważ nie ma bardziej szczegółowej kategorii bezpośrednio dla palników gazowych budowlanych, najbardziej odpowiednim liściem jest 'Pozostałe' w gałęzi 'Firma i Przemysł > Maszyny i urządzenia > Budownictwo'."
+    },
+    {
+        "ID_Produktu": "1010660",
+        "Nazwa_Produktu": "Palnik gazowy dekarski do izolacji gaz LPG ZESTAW 3 dysze 3.7 - 28 kW",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'palnik gazowy', a w opisie pojawia się termin 'palnik lutowniczy'. Mimo zastosowania dekarskiego, które mogłoby sugerować kategorię 'Firma i Przemysł', funkcja narzędzia (lutowanie/rozgrzewanie) najlepiej pasuje do kategorii 'Spawarki i lutownice' pod 'Dom i Ogród > Narzędzia'. Jest to najbardziej szczegółowa kategoria odzwierciedlająca podstawowe działanie urządzenia, które może być używane zarówno profesjonalnie, jak i do zaawansowanych prac domowych/warsztatowych."
+    },
+    {
+        "ID_Produktu": "1010659",
+        "Nazwa_Produktu": "Palnik gazowy do lutowania cyną. lut twardy gaz LPG ZESTAW 3 dysze 1.4 - 2.1 kW",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Spawarki i lutownice",
+        "Finalne_ID_AI": 1700,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na jego główne przeznaczenie: lutowanie (cyną, twarde). Palnik gazowy do lutowania idealnie pasuje do kategorii 'Spawarki i lutownice', która jest najbardziej szczegółową i precyzyjną kategorią dla tego typu narzędzia."
+    },
+    {
+        "ID_Produktu": "1010861",
+        "Nazwa_Produktu": "Termos cateringowy z kranem do transportu napojów stalowy 12L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to termos cateringowy, wyraźnie przeznaczony do użytku profesjonalnego w gastronomii i cateringu, co potwierdza nazwa produktu (\"Termos cateringowy\") oraz opis, który wymienia zastosowania w \"gastronomii, cateringu, na stołówkach czy w kuchniach polowych\". Kategoria `Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne` jest najbardziej precyzyjna, ponieważ termos jest rodzajem pojemnika używanego w gastronomii, a kategoria `Pojemniki gastronomiczne` jest kategorią liściową."
+    },
+    {
+        "ID_Produktu": "1010867",
+        "Nazwa_Produktu": "Termos cateringowy do transportu żywności stalowy 12L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia",
+        "Finalne_ID_AI": 5035,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to termos cateringowy o dużej pojemności, przeznaczony do transportu żywności w gastronomii. Nazwa i opis wyraźnie wskazują na zastosowanie profesjonalne/komercyjne w branży gastronomicznej. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej precyzyjna i odpowiada przeznaczeniu produktu, w odróżnieniu od ogólnych akcesoriów kuchennych do użytku domowego."
+    },
+    {
+        "ID_Produktu": "1010928",
+        "Nazwa_Produktu": "Wózek suwnicowy belkowy podwieszany z łańcuchem 3m 1000kg 1T",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wózki paletowe i paleciaki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł > Wciągarki",
+        "Finalne_ID_AI": 4865,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wózek suwnicowy, element systemu służącego do przemieszczania ciężkich ładunków w przemyśle. Kategoria 'Wciągarki' pod 'Firma i Przemysł > Maszyny i urządzenia > Przemysł' jest najbardziej szczegółową i funkcjonalnie odpowiednią kategorią dla tego typu urządzenia, będącego częścią maszyn do podnoszenia i przesuwania."
     }
 ]

@@ -12499,5 +12499,69 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1010661",
+        "Nazwa_Produktu": "Palnik gazowy dekarski budowlany do izolacji papy smoły gaz LPG 28 kW",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to palnik gazowy dekarski budowlany, który jest narzędziem operowanym ręcznie, służącym do prac budowlanych i dekarskich. Pasuje najlepiej do najbardziej szczegółowej kategorii 'Narzędzia ręczne' w ramach 'Dom i Ogród > Narzędzia'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Palnik gazowy dekarski budowlany do izolacji papy smoły gaz lpg 28 kw",
+                "description": "Kod produktu: 1010661 Wysokiej jakości produkt czeskiego lidera w produkcji urządzeń i akcesoriów gazowych firmy MEVA istniejącej od 1898 r. Niezwykle trwały i skuteczny palnik gazowy budowlany, który znajdzie zastosowanie podczas prac dekarskich, w kamieniarstwie lub podczas opalania czy zgrzewania. Palnik gazowy może być zasilany gazem G30, propan-butan ze standardowej butli LPG. Wąż doprowadzający gaz montowany jest za pomocą opasek zaciskowych. Palnik dekarski o mocy 28 kW został wyposażony w wygodny uchwyt z pokrętłem służącym do regulacji przepływu gazu (po jego odkręceniu gaz leci bez konieczności trzymania spustu) oraz dźwignie, za pomocą której otwieramy cały przepływ. Cechy i funkcje budowlanego palnika gazowego: - duża moc skutecznie rozgrzewa lub przetapia materiał, - płynnie regulowany płomień, - łatwy i oszczędny w użyciu - wyprofilowany uchwyt, niewielka waga i długa lanca zwiększają komfort pracy. Parametry techniczne: - Źródło paliwa: 10 lub 33 kg butla LPG - Paliwo: G30 (propan, butan lub ich mieszaniny) - Zalecane ciśnienie robocze palnika: 1 4 bar - Średnica zewnętrzna palnika: 50 mm - Pobór mocy (przy ciśnieniu) 2 3 bar): 28 kW - Zużycie (przy ciśnieniu) 2 3 bar): 2000 g/h - Średnica dyszy (oznaczenie): śr. 1,2 mm (nr 120) - Podłączenie do butli gazowe - dwie opcje: - za pomocą węża i opaski zaciskowe: końcówka do podłączenia węża dł. 28mm / śr. 8mm - za pomocą złączki G 3/8\" L W zestawie: - palnik gazowy do izolacji, papy, smoły 28 kW\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 119.29,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1010661-palnik-gazowy-dekarski-do izolacji-gaz-lpg-28kw-meva-uh070l-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1010661-1-palnik-dekarski-do-izolowania-hurtownia-sklep-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1010661-2-palnik-gazowy-do-izolowania-papa-smola-dystrybutor-meva.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
