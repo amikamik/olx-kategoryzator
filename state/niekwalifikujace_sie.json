@@ -14148,5 +14148,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalny plecak termiczny przeznaczony do transportu posiłków, w szczególności pizzy, dla firm gastronomicznych lub dostawców. Najlepiej pasuje do ogólnej kategorii 'Firma i Przemysł', a następnie do podkategorii 'Gastronomia'. Ponieważ nie ma bardziej szczegółowej kategorii dla 'plecaków dostawczych' ani 'toreb termicznych dostawczych' w ramach Gastronomii, wybrana została kategoria 'Pozostałe' w tej sekcji."
+    },
+    {
+        "ID_Produktu": "1012855",
+        "Nazwa_Produktu": "Podgrzewacz do potraw na pastę Economic GN 1/1 - zestaw 2 szt. Hendi 472613",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Podgrzewacze",
+        "Finalne_ID_AI": 5059,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Podgrzewacz do potraw', a kategoria 'Firma i Przemysł > Gastronomia > Podgrzewacze' jest idealnym i najbardziej szczegółowym dopasowaniem. Opis jasno wskazuje na przeznaczenie w branży gastronomicznej i hotelarskiej."
     }
 ]
