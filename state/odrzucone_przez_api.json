@@ -12634,5 +12634,144 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1013859",
+        "Nazwa_Produktu": "Ręczna pompa korbowa do oleju SAE 90 paliwa PRESSOL 13055 18L/min",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczna pompa, co bezpośrednio pasuje do kategorii 'Narzędzia ręczne'. Jest to najbardziej szczegółowa i trafna kategoria, zgodnie z podpowiedzią systemową OLX oraz analizą nazwy i opisu produktu, który określa go jako narzędzie obsługiwane korbą.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Ręczna pompa korbowa do oleju sae 90 paliwa pressol 13055 18l/min",
+                "description": "Kod producenta: PRESSOL 13 055 Wydajna pompa korbowa niemieckiego producenta PRESSOL przeznaczona do przelewania oleju, paliwa oraz innych nieagresywnych cieczy. Bardzo wysoka jakość wykonania podzespołów gwarantuje wydajność i trwałość pompy. Teleskopowa i rozkładana rura ssąca umożliwia uniwersalne zastosowanie do beczek i pojemników o pojemności od 60 do 220 litrów. Cechy produktu: - Bardzo wysoka jakość wykonania - Płynna i łatwa obsługa za pomocą korbki - Doskonała wydajność zasysania dzięki wysokiej precyzji wykonania - Kompaktowa, zwarta konstrukcja - Obudowa pompy odporna na uderzenia - Antypoślizgowy uchwyt - Uszczelnienie poszczególnych części za pomocą uszczelek - Montaż, użycie i wymiana zbiornika bez użycia narzędzi - Łatwa do demontażu i czyszczenia Dane techniczne: - ID produktu: 13 055 - Wydajność tłoczenia: 0,3 l/obrót - Wydajność tłoczenia (olej napędowy): 18 l/min (przy 60 obrotach/min) - Przeznaczenie: oleje (do SAE 90), samosmarujące, nieagresywne ciecze, olej opałowy, olej napędowy, ropa naftowa - Zastosowanie: beczki i zbiorniki do 60/200/220 l - Wylot: kolano wylotowe - Długość rury ssącej: 355 - 955 mm (3 części, rura teleskopowa) - Filtr: kosz ssący wykonany ze stali szlachetnej - Śrubunek beczkowy: G 2\" gz - Materiał rury ssącej i kolanka: wytrzymałe tworzywo sztuczne - Waga pompy: 2,45 kg - Waga wysyłki: 2,9 kg W zestawie: - Pompa korbowa PRESSOL 13055 - Instrukcja obsługi\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: MEVA-TEC s.r.o.\nAdres: Chelickho 1228, 413 01, Roudnice nad Labem, Czechy\nEmail: prodej(at)mevatec.cz\nTelefon: +420416823181\n----------------------------------------",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 433.65,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013859-pressol-13505-pompa-korbowa-do-oleju-paliwa-beczek-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013859-1-reczna-pompa-do-beczki-paliwa-ropy-60-220-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013859-2-4103810130557-pressol-pompa-do-paliwa-oleju-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013859-3-wydajna-pompa-do-beczki-paliwo-olej-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013859-4-pompa-korbowa-do-beczki-zbiornika-paliwa-oleju-napedowego-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/18/1013859-5-pompa-na-korbe-z-filtrem-do-pompowania-paliwa-oleju-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Wpisałeś frazę: 13055 18, która nie jest dozwolona w tym polu. Twój numer telefonu możesz podać w innych miejscach formularza",
+                            "detail": "Wpisałeś frazę: 13055 18, która nie jest dozwolona w tym polu. Twój numer telefonu możesz podać w innych miejscach formularza"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1014707",
+        "Nazwa_Produktu": "Automatyczny przedłużacz elektryczny na bębnie zwijaku 20 m + 3 m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Przedłużacze i rozgałęźniki",
+        "Finalne_ID_AI": 3208,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to automatyczny przedłużacz elektryczny, który idealnie pasuje do kategorii 'Przedłużacze i rozgałęźniki' w sekcji 'Instalacje > Elektryka' drzewa kategorii 'Dom i Ogród'. Jest to najbardziej szczegółowa i precyzyjna kategoria dla tego typu urządzenia.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Automatyczny przedłużacz elektryczny na bębnie zwijaku 20 m + 3 m",
+                "description": "Kod producenta: 10061875 Przedłużacz elektryczny automatyczny marki MSW zapewnia większą swobodę ruchów w miejscu pracy. Składa się z przewodu zasilającego o długości 20 m i kabla o długości 3 m, podłączanego do gniazdka. Automatyczny bęben kablowy dzięki sprężynowemu mechanizmowi pozwala błyskawicznie zwinąć przewód. Bęben posiada 2-3 blokady na metr. Cechy produktu: - Praktyczność - przedłużacz do gniazdek z napięciem 230 V - Swoboda - większy zakres ruchów w miejscu pracy dzięki przewodowi o długości 20 + 3 m, - Praktyczność - automatyczny zwijacz, - Zmienność - zwijanie z 2-3 blokadami na metr, - Elastyczność - łatwy montaż na ścianie lub suficie. Parametry techniczne: - Model - MSW-PRO-E 20-3 - Kod producenta - 10061875 - Stan - Nowy - Napięcie [V] - 230 - Przewód zasilający [m] - 20 + 3 - Typ kabla - H05Vv-F 3 x 1,5 mm2 - Materiał obudowy - Tworzywo sztuczne (polipropylen) - Temperatura otoczenia [deg;C] - -5 - 55 - Maksymalne obciążenie przy niepełnym rozwinięciu kabla [W] - 1000 - Maksymalne obciążenie przy pełnym rozwinięciu kabla [W] - 2875 - Szczegóły zasilania - AC 230 V /16 A / 50 Hz - Wymiary (DxSxW) [cm] - 40 x 25 x 16 - Waga [kg] - 5 - Wymiary wysyłki (DxSxW) [cm] - 31 x 29 x 18,5 - Waga wysyłki [kg] - 6,05 W zestawie: - Bęben kablowy - Akcesoria montażowe - Instrukcja obsługi\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: EXPONDO POLSKA SP. Z O.O. SP. K.\nAdres: Dekoracyjna 3, 65-155, Zielona Góra, Polska\nEmail: info(at)expondo.pl\nTelefon: +48688881008\n----------------------------------------",
+                "category_id": 3208,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 436.76,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/104/10061875-automatyczny-przedluzacz-elektryczny-na-bebnie-zwijaku-20-m-3-m-ean-4062859057488-hurtownia-zielona-gora.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/104/10061875-1.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/104/10061875-2.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/104/10061875-3.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/104/10061875-4.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/104/10061875-5.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
