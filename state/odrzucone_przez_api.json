@@ -13059,5 +13059,171 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1018302",
+        "Nazwa_Produktu": "Przełącznik rozdzielacz splitter switch HDMI 2x HDMI 4K 30 Hz dwukierunkowy szary",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Komputery > Akcesoria komputerowe > Kable i przejściówki",
+        "Finalna_Sciezka_AI": "Elektronika > Komputery > Akcesoria komputerowe > Kable i przejściówki",
+        "Finalne_ID_AI": 3095,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przełącznik (switch) i rozdzielacz sygnału HDMI. Na platformie OLX tego typu akcesoria wideo (splittery, switche i konwertery) są najczęściej kategoryzowane jako 'Kable i przejściówki' w sekcji akcesoriów komputerowych, co potwierdza również systemowa podpowiedź.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Przełącznik rozdzielacz splitter switch hdmi 2x hdmi 4k 30 hz",
+                "description": "Kod produktu: 1018302 Rozdzielacz (switch) HDMI to niewielkie urządzenie pozwalające na podłączenie do jednego wejścia HDMI dwóch źródeł obrazu np. tunera telewizyjnego, dekodera, odtwarzacza DVD czy konsoli do gier. Dzięki niemu zapomnisz o problemie braku wtyczek HDMI w swoim telewizorze, projektorze lub monitorze . Przełącznik jest kompatybilny z każdym urządzeniem wyposażonym w złącze HDMI. Działa na zasadzie PlugPlay, nie wymaga żadnych sterowników. Gwarantuje doskonałą jakość obrazu. Prosta obsługa 1 przyciskiem Switch wyposażono w w dwa porty wejściowe i jeden wyjściowy. Górny przycisk służy do łatwego przełączenia się pomiędzy gniazdami. Kiedy aktywne jest tylko jedno złącze to przełącznik automatycznie się na nie przestawi. Źródło sygnału oznaczone jest świecącą cyfrą zlokalizowaną na froncie urządzenia. Po uruchomieniu lub podłączeniu źródła obrazu, rozdzielacz automatycznie się na nie przełączy. Po wyłączeniu czy odłączeniu, przełączy się od razu na kolejne źródło, które będzie aktywne. Dwie funkcjonalności w jednym Przełącznik działa na dwa sposoby. Za jego pomocą podłączysz dwa źródła obrazu do jednego ekranu, np. konsolę i dekoder do telewizora. Możesz także podłączyć jedno źródło do dwóch ekranów np. komputer do telewizora i rzutnika (obraz wyświetla się na raz tylko na jednym ekranie). Specyfikacja: - 2 wejścia HDMI i 1 wyjście HDMI - Pozłacane złącza HDMI - Zgodność ze standardem HDCP 1.4 - Obsługiwane rozdzielczości: 4K@30Hz (3840 * 2160), 1080P@60Hz (1920 * 1080), 3D wideo i ARC, 1080P, 1080i, 720P, 576P, 576i, 480P, 480i - Obsługuje 12 bitowy Deep Color - Wersja HDMI: 1.4 - Przepustowość do 10,2 Gbps - Standardy: CEC, EDID - Nie wymaga dodatkowego zasilania - Przewody HDMI nie są częścią zestawu Zestaw zawiera: - Przełącznik rozdzielacz splitter switch HDMI 2x HDMI 4K 30 Hz dwukierunkowy szary\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Apex CE Specialists GmbH\nAdres: Grafenberger Allee 277, 40237, Dsseldorf, Niemcy\nEmail: Info(at)apex-ce.de\nTelefon: +4921312066043\n----------------------------------------",
+                "category_id": 3095,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 63.47,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018302-1-przelacznik-rozdzielacz-splitter-switch-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018302-2-przelacznik-rozdzielacz-splitter-switch-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018302-3-przelacznik-rozdzielacz-splitter-switch-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018302-4-przelacznik-rozdzielacz-splitter-switch-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018302-5-przelacznik-rozdzielacz-splitter-switch-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018302-6-przelacznik-rozdzielacz-splitter-switch-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018302-7-przelacznik-rozdzielacz-splitter-switch-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018302-8-przelacznik-rozdzielacz-splitter-switch-baseus-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1018303",
+        "Nazwa_Produktu": "Kabel przewód HDMI 2.0 4K 60 Hz 3D HDR 18 Gbps 1 m czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Kable",
+        "Finalna_Sciezka_AI": "Elektronika > TV > Akcesoria",
+        "Finalne_ID_AI": 1850,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kabel HDMI jest podstawowym akcesorium telewizyjnym (RTV). Opis produktu kładzie duży nacisk na parametry takie jak 4K, 60Hz, HDR oraz połączenie telewizora z odtwarzaczami DVD/Blu-ray, co jednoznacznie wskazuje na kategorię akcesoriów w dziale TV.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kabel przewód hdmi 2.0 4k 60 hz 3d hdr 18 gbps 1 m czarny",
+                "description": "Kod produktu: 1018303 Żeby cieszyć się najlepszą jakością obrazu i dźwięku w swoim telewizorze, warto kupić wysokiej jakości kabel HDMI. Przewód wyprodukowany przez firmę Baseus daje Ci gwarancję, że filmy które będziesz oglądać na swoim telewizorze będą miały jasne i żywe kolory, a dźwięk będzie czysty i bez szumów. Został wyprodukowany w technologii OFC czyli z najlepszej miedzi beztlenowej. Gwarantuje to lepszy przesył danych nawet na większe odległości. Audio i wideo przesyłane jest bez kompresji, z zachowaną najwyższą jakością. Doskonale nadaje się do podłączenia telewizora, odtwarzacza DVD, Blue-Ray, amplitunera, projektora. Dwa tryby pracy, klonowanie obrazu lub rozszerzenie pulpit: - Klonowanie obrazu . Udostępnij ekran z komputera na telewizorze lub projektorze. - Rozszerzenie pulpitu . Wykorzystaj drugi monitor do zwiększenia pola roboczego. Zachwycaj się znakomitymi efektami specjalnymi Oglądaj na ekranie telewizora filmy w rozdzielczości 4K i w 3D. Poczuj się jak w kinie. Obraz HDR Tryb szerokiej rozpiętości tonalnej, czyli HDR (High Dynamic Range) pozwala wyświetlać obraz, który jest bogatszy w szczegóły i zachwyca swoją naturalnością. Płynny obraz bez zacinania dzięki odświeżaniu 60 Hz Filmy oglądane z odświeżaniem 60 klatek na sekundę znacznie mniej męczą oczy. Idealna synchronizacja obrazu i dźwięku Obraz i dźwięk są automatycznie synchronizowane i nie trzeba ich ręcznie ustawiać. Podwójna warstwa ekranowania Podwójnie ekranowany kabel to gwarancja, że sygnał od źródła do odbiornika przejdzie niczym nie zakłóconą drogę. Wtyczki pokryte warstwą złota Pozłacane złącza to gwarancja stabilnego obrazu. Są odporne na korozję. Solidny materiał, który się nie odkształca Kabel zachowuje swój oryginalny kształt nawet po długim czasie używania. Specyfikacja: - Marka: Baseus - Długość przewodu: 1 m - Standard HDMI: 2.0 z kompatybilnością wsteczną - Materiał: stop cynku, PVC - Skład rdzenia: 99,9% czysta miedź (OFC) - Przewód ekranowany - Ilość pinów: 19 + 1 - Głębia kolorów do 48 bit - 4K@60 Hz - Obsługa 3D, HDR - Transfer danych: 18 Gbps Zestaw zawiera: - Kabel przewód HDMI 2.0 4K 60 Hz 3D HDR 18 Gbps 1 m czarny\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Apex CE Specialists GmbH\nAdres: Grafenberger Allee 277, 40237, Dsseldorf, Niemcy\nEmail: Info(at)apex-ce.de\nTelefon: +4921312066043\n----------------------------------------",
+                "category_id": 1850,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 32.49,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018303-1-kabel-przewod-hdmi-20-4k-60-hz-3d-hdr-1-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018303-2-kabel-przewod-hdmi-20-4k-60-hz-3d-hdr-1-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018303-3-kabel-przewod-hdmi-20-4k-60-hz-3d-hdr-1-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018303-4-kabel-przewod-hdmi-20-4k-60-hz-3d-hdr-1-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018303-5-kabel-przewod-hdmi-20-4k-60-hz-3d-hdr-1-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018303-6-kabel-przewod-hdmi-20-4k-60-hz-3d-hdr-1-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018303-7-kabel-przewod-hdmi-20-4k-60-hz-3d-hdr-1-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018303-8-kabel-przewod-hdmi-20-4k-60-hz-3d-hdr-1-baseus-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

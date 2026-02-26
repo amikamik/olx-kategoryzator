@@ -14828,5 +14828,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to uniwersalna plandeka ochronna do zastosowań zewnętrznych (ogród, budowa, rolnictwo). W strukturze OLX plandeki najczęściej przypisywane są do kategorii 'Pozostałe Ogród' (1641), gdyż służą do zabezpieczania drewna, basenów i mebli ogrodowych, co jest najczęstszym zastosowaniem konsumenckim."
+    },
+    {
+        "ID_Produktu": "1017898",
+        "Nazwa_Produktu": "Półka ścienna gastronomiczna składana ze stali nierdzewnej do 40 kg 100 x 30 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Półki łazienkowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny sprzęt gastronomiczny marki Royal Catering, wykonany ze stali nierdzewnej i przeznaczony do użytku w kuchniach profesjonalnych, restauracjach i hotelach. Ze względu na jego specyfikację i przeznaczenie biznesowe, najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia'. Wobec braku dedykowanej podkategorii dla półek ściennych w tej sekcji, kategoria 'Pozostałe' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "1018298",
+        "Nazwa_Produktu": "Młotek bezpieczeństwa zbijak do szyb + nóż do cięcia pasów szary 2w1",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty",
+        "Finalne_ID_AI": 4483,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to samochodowe narzędzie ratunkowe (zbijak do szyb i nóż do pasów). Najbardziej odpowiednią kategorią dla akcesoriów bezpieczeństwa kierowcy jest sekcja zawierająca apteczki i gaśnice w dziale wyposażenia samochodowego."
     }
 ]
