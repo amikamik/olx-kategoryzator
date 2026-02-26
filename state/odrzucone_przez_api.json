@@ -13225,5 +13225,254 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1018888",
+        "Nazwa_Produktu": "Kabel przewód HDMI 2.0 4K 60Hz 3D 18 Gbps 3m - czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Kable",
+        "Finalna_Sciezka_AI": "Elektronika > TV > Akcesoria",
+        "Finalne_ID_AI": 1850,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kabel HDMI 2.0 przeznaczony do przesyłu sygnału audio-wideo. Opis produktu jednoznacznie wskazuje na zastosowanie z telewizorami, odtwarzaczami Blu-ray oraz kinem domowym, co sprawia, że kategoria Elektronika > TV > Akcesoria jest najbardziej trafnym wyborem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kabel przewód hdmi 2.0 4k 60hz 3d 18 gbps 3m - czarny",
+                "description": "Kod produktu: 1018888 Baseus Cafule kabel przewód HDMI 2.0 4K 60 Hz 3D 3 m Żeby cieszyć się najlepszą jakością obrazu i dźwięku w swoim telewizorze, warto kupić wysokiej jakości kabel HDMI. Przewód wyprodukowany przez firmę Baseus daje Ci gwarancję, że filmy które będziesz oglądać na swoim telewizorze będą miały jasne i żywe kolory, a dźwięk będzie czysty i bez szumów. Został wyprodukowany w technologii OFC czyli z najlepszej miedzi beztlenowej. Gwarantuje to lepszy przesył danych nawet na większe odległości. Audio i wideo przesyłane jest bez kompresji, z zachowaną najwyższą jakością. Doskonale nadaje się do podłączenia telewizora, odtwarzacza DVD, Blue-Ray, amplitunera, projektora. Specyfikacja: - Marka: Baseus - Długość przewodu: 3 m - Standard HDMI: 2.0 z kompatybilnością wsteczną - Materiał: stop aluminium, PVC - Skład rdzenia: 99,9% czysta miedź (OFC) - Przewód ekranowany - Ilość pinów: 19 + 1 - Głębia kolorów do 48 bit - 4K@60 Hz - Obsługa 3D - Transfer danych: 18 Gbps Zestaw zawiera: - Kabel przewód HDMI 2.0 4K 60Hz 3D 18 Gbps 3m - czarny\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Apex CE Specialists GmbH\nAdres: Grafenberger Allee 277, 40237, Dsseldorf, Niemcy\nEmail: Info(at)apex-ce.de\nTelefon: +4921312066043\n----------------------------------------",
+                "category_id": 1850,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 39.72,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018888-1-kabel-przewod-hdmi-20-4k-60hz-3d-18-gbp-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018888-2-kabel-przewod-hdmi-20-4k-60hz-3d-18-gbp-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018888-3-kabel-przewod-hdmi-20-4k-60hz-3d-18-gbp-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018888-4-kabel-przewod-hdmi-20-4k-60hz-3d-18-gbp-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018888-5-kabel-przewod-hdmi-20-4k-60hz-3d-18-gbp-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018888-6-kabel-przewod-hdmi-20-4k-60hz-3d-18-gbp-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018888-7-kabel-przewod-hdmi-20-4k-60hz-3d-18-gbp-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018888-8-kabel-przewod-hdmi-20-4k-60hz-3d-18-gbp-baseus-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1018899",
+        "Nazwa_Produktu": "Kabel przewód HDMI 2.0 4K 60Hz 3D HDR 18Gbps 3m - czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Kable",
+        "Finalna_Sciezka_AI": "Elektronika > TV > Akcesoria",
+        "Finalne_ID_AI": 1850,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kabel HDMI 2.0, a jego opis w dużej mierze koncentruje się na poprawie jakości obrazu i dźwięku w telewizorach oraz podłączaniu urządzeń takich jak DVD, Blu-Ray czy konsole do TV, co sprawia, że kategoria Elektronika > TV > Akcesoria jest najbardziej adekwatna.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kabel przewód hdmi 2.0 4k 60hz 3d hdr 18gbps 3m - czarny",
+                "description": "Kod produktu: 1018899 Żeby cieszyć się najlepszą jakością obrazu i dźwięku w swoim telewizorze, warto kupić wysokiej jakości kabel HDMI. Przewód wyprodukowany przez firmę Baseus daje Ci gwarancję, że filmy które będziesz oglądać na swoim telewizorze będą miały jasne i żywe kolory, a dźwięk będzie czysty i bez szumów. Został wyprodukowany w technologii OFC czyli z najlepszej miedzi beztlenowej. Gwarantuje to lepszy przesył danych nawet na większe odległości. Audio i wideo przesyłane jest bez kompresji, z zachowaną najwyższą jakością. Doskonale nadaje się do podłączenia telewizora, odtwarzacza DVD, Blue-Ray, amplitunera, projektora. Wejdź do świata zachwycających obrazów, które pobudzą twoje zmysły Twój telewizor to okno do świata rozrywki Podłącz swoją konsolę do do telewizora i daj się pochłonąć emocjonującej rozgrywce. Wykorzystaj potencjał drzemiący w projektorze Podłącz swój komputer do projektora i przeprowadzaj czytelne prezentacje multimedialne. Dwa tryby pracy, klonowanie obrazu lub rozszerzenie pulpitu - Klonowanie obrazu . Udostępnij ekran z komputera na telewizorze lub projektorze. - Rozszerzenie pulpitu . Wykorzystaj drugi monitor do zwiększenia pola roboczego. Zachwycaj się znakomitymi efektami specjalnymi Oglądaj na ekranie telewizora filmy w rozdzielczości 4K i w 3D. Poczuj się jak w kinie. Obraz HDR Tryb szerokiej rozpiętości tonalnej, czyli HDR (High Dynamic Range) pozwala wyświetlać obraz, który jest bogatszy w szczegóły i zachwyca swoją naturalnością. Płynny obraz bez zacinania dzięki odświeżaniu 60 Hz Filmy oglądane z odświeżaniem 60 klatek na sekundę znacznie mniej męczą oczy. Idealna synchronizacja obrazu i dźwięku Obraz i dźwięk są automatycznie synchronizowane i nie trzeba ich ręcznie ustawiać. Podwójna warstwa ekranowania Podwójnie ekranowany kabel to gwarancja, że sygnał od źródła do odbiornika przejdzie niczym nie zakłóconą drogę. Wtyczki pokryte warstwą złota Pozłacane złącza to gwarancja stabilnego obrazu. Są odporne na korozję. Solidny materiał, który się nie odkształca Kabel zachowuje swój oryginalny kształt nawet po długim czasie używania. Specyfikacja: - Marka: Baseus - Długość przewodu: 3 m - Standard HDMI: 2.0 z kompatybilnością wsteczną - Materiał: stop cynku, PVC - Skład rdzenia: 99,9% czysta miedź (OFC) - Przewód ekranowany - Ilość pinów: 19 + 1 - Głębia kolorów do 48 bit - 4K@60 Hz - Obsługa 3D, HDR - Transfer danych: 18 Gbps Zestaw zawiera: - Kabel przewód HDMI 2.0 4K 60Hz 3D HDR 18Gbps 3m - czarny\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Apex CE Specialists GmbH\nAdres: Grafenberger Allee 277, 40237, Dsseldorf, Niemcy\nEmail: Info(at)apex-ce.de\nTelefon: +4921312066043\n----------------------------------------",
+                "category_id": 1850,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018899-1-kabel-przewod-hdmi-20-4k-60hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018899-2-kabel-przewod-hdmi-20-4k-60hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018899-3-kabel-przewod-hdmi-20-4k-60hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018899-4-kabel-przewod-hdmi-20-4k-60hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018899-5-kabel-przewod-hdmi-20-4k-60hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018899-6-kabel-przewod-hdmi-20-4k-60hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018899-7-kabel-przewod-hdmi-20-4k-60hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018899-8-kabel-przewod-hdmi-20-4k-60hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1018900",
+        "Nazwa_Produktu": "Kabel przewód HDMI 2.0 4K 30Hz 3D HDR 18Gbps 8m - czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Kable",
+        "Finalna_Sciezka_AI": "Elektronika > TV > Akcesoria",
+        "Finalne_ID_AI": 1850,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Kabel HDMI jest podstawowym akcesorium do telewizorów, co jest bezpośrednio podkreślone w opisie produktu ('Żeby cieszyć się najlepszą jakością obrazu i dźwięku w swoim telewizorze'). Wybrana kategoria 'TV > Akcesoria' jest najbardziej trafnym miejscem dla peryferiów służących do przesyłania sygnału 4K/HDR do odbiorników TV.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kabel przewód hdmi 2.0 4k 30hz 3d hdr 18gbps 8m - czarny",
+                "description": "Kod produktu: 1018900 Żeby cieszyć się najlepszą jakością obrazu i dźwięku w swoim telewizorze, warto kupić wysokiej jakości kabel HDMI. Przewód wyprodukowany przez firmę Baseus daje Ci gwarancję, że filmy które będziesz oglądać na swoim telewizorze będą miały jasne i żywe kolory, a dźwięk będzie czysty i bez szumów. Został wyprodukowany w technologii OFC czyli z najlepszej miedzi beztlenowej. Gwarantuje to lepszy przesył danych nawet na większe odległości. Audio i wideo przesyłane jest bez kompresji, z zachowaną najwyższą jakością. Doskonale nadaje się do podłączenia telewizora, odtwarzacza DVD, Blue-Ray, amplitunera, projektora. Wejdź do świata zachwycających obrazów, które pobudzą twoje zmysły Twój telewizor to okno do świata rozrywki Podłącz swoją konsolę do do telewizora i daj się pochłonąć emocjonującej rozgrywce. Wykorzystaj potencjał drzemiący w projektorze Podłącz swój komputer do projektora i przeprowadzaj czytelne prezentacje multimedialne. Dwa tryby pracy, klonowanie obrazu lub rozszerzenie pulpitu - Klonowanie obrazu. Udostępnij ekran z komputera na telewizorze lub projektorze. - Rozszerzenie pulpitu. Wykorzystaj drugi monitor do zwiększenia pola roboczego. Zachwycaj się znakomitymi efektami specjalnymi Oglądaj na ekranie telewizora filmy w rozdzielczości 4K i w 3D. Poczuj się jak w kinie. Obraz HDR Tryb szerokiej rozpiętości tonalnej, czyli HDR (High Dynamic Range) pozwala wyświetlać obraz, który jest bogatszy w szczegóły i zachwyca swoją naturalnością. Płynny obraz bez zacinania dzięki odświeżaniu 30 Hz Filmy oglądane z odświeżaniem 30 klatek na sekundę znacznie mniej męczą oczy. Idealna synchronizacja obrazu i dźwięku Obraz i dźwięk są automatycznie synchronizowane i nie trzeba ich ręcznie ustawiać. Podwójna warstwa ekranowania Podwójnie ekranowany kabel to gwarancja, że sygnał od źródła do odbiornika przejdzie niczym nie zakłóconą drogę. Wtyczki pokryte warstwą złota Pozłacane złącza to gwarancja stabilnego obrazu. Są odporne na korozję. Solidny materiał, który się nie odkształca Kabel zachowuje swój oryginalny kształt nawet po długim czasie używania. Specyfikacja: - Marka: Baseus - Długość przewodu: 8 m - Standard HDMI: 2.0 z kompatybilnością wsteczną - Materiał: stop cynku, PVC - Skład rdzenia: 99,9% czysta miedź (OFC) - Przewód ekranowany - Ilość pinów: 19 + 1 - Głębia kolorów do 48 bit - 4K@30 Hz - Obsługa 3D, HDR - Transfer danych: 18 Gbps Zestaw zawiera: - Kabel przewód HDMI 2.0 4K 30Hz 3D HDR 18Gbps 8m - czarny\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Apex CE Specialists GmbH\nAdres: Grafenberger Allee 277, 40237, Dsseldorf, Niemcy\nEmail: Info(at)apex-ce.de\nTelefon: +4921312066043\n----------------------------------------",
+                "category_id": 1850,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 65.62,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018900-1-kabel-przewod-hdmi-20-4k-30hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018900-2-kabel-przewod-hdmi-20-4k-30hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018900-3-kabel-przewod-hdmi-20-4k-30hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018900-4-kabel-przewod-hdmi-20-4k-30hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018900-5-kabel-przewod-hdmi-20-4k-30hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018900-6-kabel-przewod-hdmi-20-4k-30hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018900-7-kabel-przewod-hdmi-20-4k-30hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1018900-8-kabel-przewod-hdmi-20-4k-30hz-3d-hdr-18-baseus-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
