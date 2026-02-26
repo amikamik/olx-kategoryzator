@@ -1,3 +1,15 @@
+"""
+Kategoryzator produktów Deal BL B2B na platformie OLX.
+Analogiczny do wersji z gałęzi przemyslowa-cache-nowa-najnowsza.
+
+KLUCZOWE RÓŻNICE vs gałąź przemyslowa:
+- Feed pobierany z BaseLinker API (nie z URL hurtowni)
+- --refresh-feed wywołuje pobierz_feed_deal.main() zamiast aktualizuj_feed_gpsr.main()
+- Brak danych GPSR (produkty Deal nie mają jeszcze GPSR)
+- Produkty bez GPSR są śledzone w state/bez_gpsr.json
+- Mapowanie zawiera gpsr_status: "missing" dla przyszłej aktualizacji
+"""
+
 import xml.etree.ElementTree as ET
 import json
 import requests
@@ -9,21 +21,22 @@ import argparse
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(SCRIPT_DIR, 'config'))
 
-import config # Używamy nowego pliku konfiguracyjnego
+import config  # Używamy nowego pliku konfiguracyjnego
 from config import MARGIN_PERCENT, COMMISSION_PERCENT, MINIMUM_PROFIT_PLN
 import re
 import time
 import csv
 from tqdm import tqdm
-import openai # Dodajemy import dla OpenAI
-import os # Dodajemy import os do obsługi ścieżek
+import openai
+import os
 
 # --- Konfiguracja (teraz większość jest w config.py) ---
-# Budowanie ścieżek absolutnych - nowa struktura folderów
-XML_FILE = os.path.join(SCRIPT_DIR, "input", "feed_hurtowniaprzemyslowa.xml")
+
+# Budowanie ścieżek absolutnych
+XML_FILE = os.path.join(SCRIPT_DIR, "input", "feed_deal_blb2b.xml")
 CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "input", "kategorie_olx.json")
 RAPORT_PLIK_CSV = os.path.join(SCRIPT_DIR, "output", "raport_kategoryzacji.csv")
-SAMPLE_SIZE = 150 # Test na większej próbie
+SAMPLE_SIZE = 150  # Nadpisywane przez workflow (sed)
 
 # --- Inicjalizacja klienta OpenAI (zawsze inicjalizujemy, bo używamy do rozmiarów/atrybutów) ---
 OPENAI_CLIENT = None
@@ -39,9 +52,9 @@ if config.OPENAI_API_KEY and config.OPENAI_API_KEY != "TWOJ_KLUCZ_API_OPENAI":
 # ==============================================================================
 
 # --- GEMINI EXPLICIT CACHING ---
-GEMINI_CACHE_NAME = None  # Globalny cache dla drzewa kategorii
-LAST_RATE_LIMIT_TIME = None  # Czas ostatniego błędu 429 (do cooldown między produktami)
-CONSECUTIVE_RATE_LIMITS = 0  # Licznik kolejnych błędów rate limit
+GEMINI_CACHE_NAME = None
+LAST_RATE_LIMIT_TIME = None
+CONSECUTIVE_RATE_LIMITS = 0
 
 def create_gemini_cache(api_key, model_name, system_content):
     """
@@ -64,7 +77,7 @@ def create_gemini_cache(api_key, model_name, system_content):
                 "parts": [{"text": system_content}]
             }
         ],
-        "ttl": "86400s"  # 24 godziny (maksimum)
+        "ttl": "86400s"
     }
     
     try:
@@ -132,9 +145,8 @@ def call_gemini_with_cache(user_content, api_key, model_name, response_format_js
         "generationConfig": generation_config
     }
     
-    # Retry logic z dłuższymi czasami oczekiwania dla rate limit
     max_retries = 5
-    retry_delays = [5, 15, 30, 60, 120]  # Coraz dłuższe czekanie
+    retry_delays = [5, 15, 30, 60, 120]
     
     for attempt in range(max_retries):
         try:
@@ -143,7 +155,6 @@ def call_gemini_with_cache(user_content, api_key, model_name, response_format_js
             
             data = response.json()
             
-            # Log usage metadata
             usage = data.get('usageMetadata', {})
             cached_tokens = usage.get('cachedContentTokenCount', 0)
             prompt_tokens = usage.get('promptTokenCount', 0)
@@ -159,11 +170,10 @@ def call_gemini_with_cache(user_content, api_key, model_name, response_format_js
             return candidates[0]['content']['parts'][0]['text']
             
         except requests.exceptions.HTTPError as e:
-            # 403 Forbidden - cache prawdopodobnie wygasł
             if e.response.status_code == 403:
                 print(f"⚠️ Błąd 403 Forbidden - cache wygasł, wyłączam cache")
-                GEMINI_CACHE_NAME = None  # Wyłącz cache
-                return None  # Fallback do standardowego wywołania
+                GEMINI_CACHE_NAME = None
+                return None
             
             if e.response.status_code in [503, 429]:
                 if attempt < max_retries - 1:
@@ -172,7 +182,6 @@ def call_gemini_with_cache(user_content, api_key, model_name, response_format_js
                     time.sleep(wait_time)
                     continue
                 else:
-                    # Po wyczerpaniu prób, dodaj długi cooldown przed następnym produktem
                     print(f"❌ Wyczerpano próby - czekam 120s przed kontynuacją (cooldown TPM)...")
                     time.sleep(120)
             print(f"Błąd wywołania Gemini API: {e}")
@@ -185,6 +194,7 @@ def call_gemini_with_cache(user_content, api_key, model_name, response_format_js
 
 # --- KONIEC GEMINI EXPLICIT CACHING ---
 
+
 def oblicz_cene_sprzedazy(cena_zakupu):
     """
     Oblicza cenę sprzedaży produktu, uwzględniając marżę, prowizję OLX
@@ -193,12 +203,9 @@ def oblicz_cene_sprzedazy(cena_zakupu):
     try:
         cena_zakupu = float(cena_zakupu)
     except (ValueError, TypeError):
-        return None # Zwróć None, jeśli cena jest nieprawidłowa
+        return None
 
-    # Zabezpieczenie przed dzieleniem przez zero, jeśli prowizja wynosi 100%
     if COMMISSION_PERCENT >= 1:
-        # W takim scenariuszu sprzedaż jest niemożliwa z zyskiem,
-        # ale zwracamy cenę z marżą i minimalnym zyskiem.
         return round(cena_zakupu + MINIMUM_PROFIT_PLN, 2)
 
     # 1. Obliczenie ceny z uwzględnieniem marży i prowizji
@@ -209,13 +216,10 @@ def oblicz_cene_sprzedazy(cena_zakupu):
     
     # 3. Weryfikacja minimalnego zysku
     if zysk_netto < MINIMUM_PROFIT_PLN:
-        # Jeśli zysk jest za mały, przelicz cenę, aby gwarantowała MINIMUM_PROFIT_PLN
         cena_finalna = (cena_zakupu + MINIMUM_PROFIT_PLN) / (1 - COMMISSION_PERCENT)
     else:
-        # W przeciwnym razie, cena procentowa jest wystarczająca
         cena_finalna = cena_procentowa
-        
-    # Zwracamy cenę zaokrągloną do dwóch miejsc po przecinku
+
     return round(cena_finalna, 2)
 
 def clean_html(raw_html):
@@ -232,14 +236,13 @@ def skroc_tytul(tytul, max_dlugosc=69):
     if not tytul or len(tytul) <= max_dlugosc:
         return tytul
     
-    # Szukaj ostatniej spacji przed limitem
     skrocony = tytul[:max_dlugosc]
     ostatnia_spacja = skrocony.rfind(' ')
     
-    if ostatnia_spacja > max_dlugosc // 2:  # Jeśli spacja jest w rozsądnym miejscu
+    if ostatnia_spacja > max_dlugosc // 2:
         return skrocony[:ostatnia_spacja].rstrip()
     else:
-        return skrocony.rstrip()  # Utni ostro jeśli nie ma dobrej spacji
+        return skrocony.rstrip()
 
 def wyczysc_opis_dla_olx(opis):
     """
@@ -249,14 +252,11 @@ def wyczysc_opis_dla_olx(opis):
     if not opis:
         return ""
     
-    # Dozwolone znaki: litery (w tym polskie), cyfry, podstawowa interpunkcja, białe znaki
-    # Usuwamy: emotikony, symbole specjalne, znaki kontrolne itp.
     dozwolone = re.compile(r'[^a-zA-Z0-9ąćęłńóśźżĄĆĘŁŃÓŚŹŻ\s.,;:!?()\-\[\]/"\'+%&@#=*\n\r]')
     czysty = dozwolone.sub('', opis)
     
-    # Usuń wielokrotne spacje/entery
-    czysty = re.sub(r'[ \t]+', ' ', czysty)  # Wielokrotne spacje na jedną
-    czysty = re.sub(r'\n{3,}', '\n\n', czysty)  # Max 2 entery pod rząd
+    czysty = re.sub(r'[ \t]+', ' ', czysty)
+    czysty = re.sub(r'\n{3,}', '\n\n', czysty)
     
     return czysty.strip()
 
@@ -265,7 +265,7 @@ def load_full_category_map(file_path):
     Wczytuje kategorie z pliku JSON i buduje:
     1. category_map: Słownik z danymi o każdej kategorii.
     2. path_map: Słownik z pełnymi ścieżkami do każdej kategorii.
-    5. category_tree_json_str: Całe drzewo jako string JSON (dla "cache'owania" w prompcie).
+    3. category_tree_json_str: Całe drzewo jako string JSON.
     """
     print(f"Wczytywanie mapy kategorii z: {file_path}")
     try:
@@ -287,7 +287,6 @@ def load_full_category_map(file_path):
                 curr_id = category_map[curr_id].get('parent_id')
             path_map[cat_id] = " > ".join(path)
 
-        # Przygotowujemy string JSON, który będzie wielokrotnie używany
         category_tree_json_str = json.dumps(all_categories, indent=2, ensure_ascii=False)
 
         print(f"Zbudowano mapę dla {len(category_map)} kategorii.")
@@ -327,10 +326,8 @@ def pobierz_atrybuty_dla_kategorii(category_id, access_token):
         attributes = response.json()
         return attributes.get('data', [])
     except requests.exceptions.HTTPError as e:
-        # Błąd 404 oznacza, że kategoria nie ma atrybutów, co jest normalne.
         if e.response.status_code == 404:
-            return [] # Zwracamy pustą listę, bo to nie jest błąd krytyczny.
-        # Inne błędy HTTP (np. 401 Unauthorized) są problemem.
+            return []
         print(f"Błąd HTTP podczas pobierania atrybutów dla kat. {category_id}: {e}")
         return None
     except requests.exceptions.RequestException as e:
@@ -338,30 +335,21 @@ def pobierz_atrybuty_dla_kategorii(category_id, access_token):
         return None
 
 def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, response_format_json=False, messages=None):
-    """Uniwersalna funkcja do wywoływania API wybranego modelu LLM (Gemini, OpenAI lub DeepSeek).
-    
-    Args:
-        prompt: String prompt (legacy, konwertowany na messages)
-        messages: Array of message dicts [{'role': 'system/user', 'content': '...'}]
-        Jeśli podane messages, prompt jest ignorowany.
-    """
-    # Konwersja prompt na messages jeśli messages nie podane
+    """Uniwersalna funkcja do wywoływania API wybranego modelu LLM (Gemini, OpenAI lub DeepSeek)."""
     if messages is None:
         if prompt is None:
             raise ValueError("Musisz podać albo prompt albo messages")
         messages = [{"role": "user", "content": prompt}]
     
     if provider == "GEMINI":
-        # Sprawdź czy mamy cache - jeśli tak, użyj go
         global GEMINI_CACHE_NAME
         if GEMINI_CACHE_NAME is not None:
-            # Użyj cache - wyślij tylko user content (bez system prompt który jest w cache)
             user_content = "\n\n".join([msg["content"] for msg in messages if msg["role"] != "system"])
             if not user_content:
                 user_content = messages[-1]["content"] if messages else ""
             return call_gemini_with_cache(user_content, api_key, model_name, response_format_json)
         
-        # Fallback - bez cache (standardowe wywołanie)
+        # Fallback - bez cache
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
         headers = {'Content-Type': 'application/json'}
         
@@ -371,36 +359,32 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
         if response_format_json:
             generation_config["response_mime_type"] = "application/json"
         
-        # Gemini używa innego formatu - łączymy messages w jeden text
         combined_text = "\n\n".join([msg["content"] for msg in messages])
         payload = {
-            "contents": [{"parts": [{"text": combined_text}]}] ,
+            "contents": [{"parts": [{"text": combined_text}]}],
             "generationConfig": generation_config
         }
         
-        # Retry logic z dłuższymi czasami dla rate limit (bez cache zużywa ~148k tokenów!)
         max_retries = 5
-        retry_delays = [10, 30, 60, 120, 180]  # Dłuższe czasy bo pełne zapytanie
+        retry_delays = [10, 30, 60, 120, 180]
         
         for attempt in range(max_retries):
             try:
                 response = requests.post(url, headers=headers, json=payload, timeout=120)
                 response.raise_for_status()
-                # Obsługa potencjalnie pustej odpowiedzi
                 candidates = response.json().get('candidates', [])
                 if not candidates or 'content' not in candidates[0] or 'parts' not in candidates[0]['content']:
                     print("Błąd odpowiedzi Gemini: Brak zawartości w odpowiedzi.")
                     return None
                 return candidates[0]['content']['parts'][0]['text']
             except requests.exceptions.HTTPError as e:
-                if e.response.status_code in [503, 429]:  # Service Unavailable lub Rate Limit
+                if e.response.status_code in [503, 429]:
                     if attempt < max_retries - 1:
                         wait_time = retry_delays[attempt]
                         print(f"⚠️ Błąd {e.response.status_code} (bez cache!) - ponawiam za {wait_time}s (próba {attempt + 2}/{max_retries})...")
                         time.sleep(wait_time)
                         continue
                     else:
-                        # Po wyczerpaniu prób, dodaj bardzo długi cooldown
                         print(f"❌ Wyczerpano próby bez cache - czekam 180s przed kontynuacją (cooldown TPM)...")
                         time.sleep(180)
                 print(f"Błąd wywołania Gemini API: {e}")
@@ -409,7 +393,7 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
                 print(f"Błąd wywołania Gemini API: {e}")
                 return None
         
-        return None  # Wszystkie próby nieudane
+        return None
 
     elif provider == "OPENAI":
         if not OPENAI_CLIENT:
@@ -445,7 +429,6 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
             "max_tokens": 8000
         }
         
-        # DeepSeek wspiera response_format tak jak OpenAI
         if response_format_json:
             payload["response_format"] = {"type": "json_object"}
         
@@ -466,118 +449,30 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
     else:
         raise ValueError(f"Nieznany dostawca LLM: {provider}")
 
-# ==============================================================================
-# ======================== GPSR - PRODUCENCI ODPOWIEDZIALNI ====================
-# ==============================================================================
 
-# Globalny słownik producentów (wypełniany przy starcie)
+# ==============================================================================
+# ======================== GPSR - DEAL BL B2B ==================================
+# ==============================================================================
+# UWAGA: Produkty Deal NIE mają danych GPSR.
+# Poniższe funkcje są zachowane dla kompatybilności ze strukturą kodu,
+# ale zawsze zwracają None/puste wyniki.
+# Produkty opublikowane bez GPSR są śledzone w state/bez_gpsr.json
+
+# Pusty słownik producentów (Deal nie ma danych GPSR)
 RESPONSIBLE_PRODUCERS = {}
-
-def parse_responsible_producers(file_path):
-    """
-    Parsuje sekcję responsibleProducers z pliku XML feedu.
-    Zwraca słownik {id: {name, address, email, phone}}
-    """
-    producers = {}
-    print(f"Parsowanie producentów odpowiedzialnych z: {file_path}")
-    try:
-        tree = ET.parse(file_path)
-        root = tree.getroot()
-        
-        rp_section = root.find('responsibleProducers')
-        if rp_section is None:
-            print("UWAGA: Brak sekcji responsibleProducers w feedzie!")
-            return producers
-        
-        for producer in rp_section.findall('p'):
-            producer_id = producer.get('id')
-            if not producer_id:
-                continue
-                
-            name_elem = producer.find('name')
-            address_elem = producer.find('address')
-            contact_elem = producer.find('contact')
-            
-            # Budowanie adresu
-            address_parts = []
-            if address_elem is not None:
-                street = address_elem.find('street')
-                postal = address_elem.find('postalCode')
-                city = address_elem.find('city')
-                country = address_elem.find('countryCode')
-                
-                if street is not None and street.text:
-                    address_parts.append(street.text.strip())
-                if postal is not None and postal.text:
-                    address_parts.append(postal.text.strip())
-                if city is not None and city.text:
-                    address_parts.append(city.text.strip())
-                if country is not None and country.text:
-                    address_parts.append(country.text.strip())
-            
-            # Kontakt
-            email = None
-            phone = None
-            if contact_elem is not None:
-                email_elem = contact_elem.find('email')
-                phone_elem = contact_elem.find('phoneNumber')
-                if email_elem is not None and email_elem.text:
-                    email = email_elem.text.strip()
-                if phone_elem is not None and phone_elem.text:
-                    phone = phone_elem.text.strip()
-            
-            producers[producer_id] = {
-                'name': name_elem.text.strip() if name_elem is not None and name_elem.text else 'Nieznany',
-                'address': ', '.join(address_parts) if address_parts else None,
-                'email': email,
-                'phone': phone
-            }
-        
-        print(f"Znaleziono {len(producers)} producentów odpowiedzialnych.")
-        
-    except ET.ParseError as e:
-        print(f"BŁĄD parsowania XML dla producentów: {e}")
-    except IOError as e:
-        print(f"BŁĄD odczytu pliku dla producentów: {e}")
-    
-    return producers
 
 def get_gpsr_text(producer_id):
     """
-    Generuje tekst GPSR do dodania na końcu opisu ogłoszenia.
-    Zgodny z rozporządzeniem (UE) 2023/988 o bezpieczeństwie produktów.
+    Dla Deal BL B2B: ZAWSZE zwraca None.
+    Produkty Deal nie mają danych GPSR.
     """
-    if not producer_id or producer_id not in RESPONSIBLE_PRODUCERS:
-        return None
-    
-    producer = RESPONSIBLE_PRODUCERS[producer_id]
-    
-    # OLX nie akceptuje emoji ani znaków specjalnych - używamy zwykłego tekstu
-    gpsr_lines = [
-        "",
-        "-" * 40,
-        "INFORMACJE O PRODUCENCIE (GPSR)",
-        "-" * 40,
-        f"Producent/Importer: {producer['name']}"
-    ]
-    
-    if producer.get('address'):
-        gpsr_lines.append(f"Adres: {producer['address']}")
-    
-    if producer.get('email'):
-        # OLX nie pozwala na @ w opisie - zamieniamy na (at)
-        email_safe = producer['email'].replace('@', '(at)')
-        gpsr_lines.append(f"Email: {email_safe}")
-    
-    if producer.get('phone'):
-        gpsr_lines.append(f"Telefon: {producer['phone']}")
-    
-    gpsr_lines.append("-" * 40)
-    
-    return "\n".join(gpsr_lines)
+    return None
 
 def parse_product_feed(file_path, limit):
-    """Parsuje plik XML i zwraca listę produktów, obsługując błędy."""
+    """
+    Parsuje plik XML feedu Deal BL B2B (format zgodny z hurtowniaprzemyslowa).
+    Format: <offers><group><o id="" price="">...</o></group></offers>
+    """
     products = []
     print(f"Parsowanie pliku XML: {file_path}")
     try:
@@ -595,7 +490,7 @@ def parse_product_feed(file_path, limit):
                         if img.get('url'):
                             image_urls.append(img.get('url'))
 
-                # Pobieranie atrybutów (w tym producent odpowiedzialny)
+                # Pobieranie atrybutów
                 attrs_dict = {}
                 attrs_tag = elem.find('attrs')
                 if attrs_tag is not None:
@@ -612,10 +507,10 @@ def parse_product_feed(file_path, limit):
                     'description': (elem.find('desc').text or '').strip(),
                     'images': image_urls,
                     'attrs': attrs_dict,
-                    'producer_id': attrs_dict.get('Producent odpowiedzialny') or attrs_dict.get('Podmiot odpowiedzialny')
+                    'producer_id': None  # Deal nie ma danych GPSR
                 }
                 products.append(product_data)
-                elem.clear() # Optymalizacja pamięci
+                elem.clear()
                 if limit > 0 and len(products) >= limit:
                     break
     except ET.ParseError as e:
@@ -627,26 +522,23 @@ def parse_product_feed(file_path, limit):
         print(f"Znaleziono {len(products)} produktów.")
     return products
 
+
 # ==============================================================================
 # ======================= GŁÓWNA LOGIKA KATEGORYZACJI ==========================
 # ==============================================================================
 
 def process_single_product(product, path_map, config_obj):
-    """Orkiestruje proces kategoryzacji dla jednego produktu, używając nowej logiki 'Eksperta'."""
+    """Orkiestruje proces kategoryzacji dla jednego produktu, używając logiki 'Eksperta'."""
     
-    # --- Krok 1: Pobranie sugestii OLX (jako opcjonalna wskazówka dla AI) ---
+    # --- Krok 1: Pobranie sugestii OLX ---
     olx_suggestions = get_olx_suggestions(product['name'], config_obj.ACCESS_TOKEN)
     top_olx_suggestion = olx_suggestions[0] if olx_suggestions else None
     olx_suggestion_path = path_map.get(int(top_olx_suggestion['id']), "Brak") if top_olx_suggestion else "Brak sugestii OLX"
 
-    # --- Krok 2: Kategoryzacja przez "Eksperta" AI z pełnym kontekstem ---
-    
-    # Sprawdź czy używamy Gemini z cache
+    # --- Krok 2: Kategoryzacja przez "Eksperta" AI ---
     use_gemini_cache = (config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" and GEMINI_CACHE_NAME is not None)
     
     if use_gemini_cache:
-        # Dla Gemini z cache - system prompt jest już w cache, wysyłamy tylko user message
-        # User message zawiera pełne info o produkcie i instrukcje formatu odpowiedzi
         user_message = f"""Skategoryzuj ten produkt wybierając DOKŁADNIE JEDNĄ kategorię-liść z drzewa kategorii:
 
 Dane produktu:
@@ -673,7 +565,6 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
             response_format_json=True
         )
     else:
-        # Dla innych providerów lub Gemini bez cache - pełny system message z drzewem
         system_message = f"""Jesteś ekspertem od kategoryzacji produktów na platformie OLX. 
 Twoim zadaniem jest przypisanie produktu do DOKŁADNIE JEDNEJ kategorii z poniższego drzewa kategorii.
 
@@ -697,7 +588,6 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
   "uzasadnienie": "<Krótkie wyjaśnienie dlaczego wybrałeś tę kategorię>"
 }}"""
         
-        # User message - ZMIENNY (konkretny produkt)
         user_message = f"""Dane produktu:
 - Tytuł: "{product['name']}"
 - Opis: "{clean_html(product['description'])[:5000]}"
@@ -706,7 +596,7 @@ Wskazówka od systemu OLX (użyj TYLKO jako podpowiedzi do zawężenia poszukiwa
 "{olx_suggestion_path}"
 
 Użyj tej ścieżki jedynie do zawężenia poszukiwań w podobnej gałęzi drzewa. Jeśli sugerowana ścieżka wyraźnie nie pasuje do tytułu/opisu produktu, całkowicie ją zignoruj i wybierz kategorię wyłącznie na podstawie analizy produktu."""
-        
+    
         llm_response_str = call_llm_api(
             messages=[
                 {"role": "system", "content": system_message},
@@ -720,14 +610,13 @@ Użyj tej ścieżki jedynie do zawężenia poszukiwań w podobnej gałęzi drzew
             response_format_json=True
         )
 
-    # --- Krok 3: Parsowanie odpowiedzi i przygotowanie wyniku ---
+    # --- Krok 3: Parsowanie odpowiedzi ---
     llm_choice = {}
     if llm_response_str:
         try:
             parsed = json.loads(llm_response_str)
-            # Obsługa przypadku gdy Gemini zwraca listę zamiast pojedynczego obiektu
             if isinstance(parsed, list) and len(parsed) > 0:
-                llm_choice = parsed[0]  # Bierzemy pierwszy element z listy
+                llm_choice = parsed[0]
                 print(f"   ⚠️ AI zwróciło listę - używam pierwszego elementu")
             elif isinstance(parsed, dict):
                 llm_choice = parsed
@@ -744,41 +633,32 @@ Użyj tej ścieżki jedynie do zawężenia poszukiwań w podobnej gałęzi drzew
     # WERYFIKACJA SPÓJNOŚCI: Sprawdzamy czy AI nie pomyliło ID z uzasadnieniem
     uzasadnienie = llm_choice.get('uzasadnienie', '')
     if isinstance(final_id, int) and uzasadnienie:
-        # Szukamy w uzasadnieniu wspomnianych kategorii/ścieżek
-        # Jeśli uzasadnienie wspomina INNĄ kategorię niż ta z ID, może być błąd
         import difflib
         
-        # Sprawdzamy czy ścieżka z final_path występuje w uzasadnieniu
         if final_path != 'Błędne ID kategorii od AI':
             final_path_parts = final_path.split(' > ')
             final_category_name = final_path_parts[-1] if final_path_parts else ''
             
-            # Jeśli nazwa końcowej kategorii w ogóle nie występuje w uzasadnieniu
-            # to może być znak że AI wybrało złe ID
             if final_category_name and final_category_name.lower() not in uzasadnienie.lower():
-                # Szukamy w path_map kategorii, która pasuje do uzasadnienia
                 best_match_score = 0
                 best_match_id = None
                 best_match_path = None
                 
                 for cat_id, cat_path in path_map.items():
-                    # Sprawdzamy ile fragmentów ścieżki występuje w uzasadnieniu
                     path_parts = cat_path.split(' > ')
                     match_score = sum(1 for part in path_parts if part.lower() in uzasadnienie.lower())
                     
-                    if match_score > best_match_score and match_score >= 2:  # Minimum 2 dopasowania
+                    if match_score > best_match_score and match_score >= 2:
                         best_match_score = match_score
                         best_match_id = cat_id
                         best_match_path = cat_path
                 
-                # Jeśli znaleźliśmy lepiej pasującą kategorię, używamy jej
                 if best_match_id and best_match_id != final_id:
                     print(f"⚠ WYKRYTO NIESPÓJNOŚĆ: AI zwróciło ID {final_id} ({final_path}), ale uzasadnienie wskazuje na {best_match_path}")
                     print(f"  └─ Automatyczna korekta: używam ID {best_match_id}")
                     final_id = best_match_id
                     final_path = best_match_path
     
-    # Formatowanie pewności
     try:
         pewnosc_int = int(llm_choice.get('pewnosc', 0))
         formatted_confidence = f"{pewnosc_int}%"
@@ -786,10 +666,8 @@ Użyj tej ścieżki jedynie do zawężenia poszukiwań w podobnej gałęzi drzew
         pewnosc_int = 0
         formatted_confidence = "0%"
 
-    # Określenie statusu zmiany kategorii
-    czy_zmieniono_kategorie = 'NIE' # Domyślna wartość, gdy np. brak sugestii OLX
+    czy_zmieniono_kategorie = 'NIE'
     if top_olx_suggestion and isinstance(final_id, int):
-        # Porównujemy ID po rzutowaniu ID z OLX na integer, na wypadek gdyby API zwracało je jako string
         if int(top_olx_suggestion['id']) == final_id:
             czy_zmieniono_kategorie = 'Kategoria nie została zmieniona'
         else:
@@ -806,7 +684,6 @@ Użyj tej ścieżki jedynie do zawężenia poszukiwań w podobnej gałęzi drzew
         'Uzasadnienie_AI': llm_choice.get('uzasadnienie', 'Brak odpowiedzi od AI.')
     }
     
-    # Zwracamy zarówno linię do raportu, jak i surową odpowiedź AI do dalszych decyzji
     return report_line, llm_choice
 
 
@@ -820,16 +697,14 @@ def wybierz_dostawe_wedlug_regul(product_description, opcje_dostawy, config_obj,
     print("    ├─ Analiza opcji dostawy...")
     print(f"    │  │  [DEBUG] Otrzymane opcje dostawy z API: {json.dumps(opcje_dostawy, indent=2, ensure_ascii=False)}")
     
-    # Zbieramy wszystkie rozmiary dla każdej opcji dostawy
-    opcje_inpost = {}  # {'S': kod, 'M': kod, 'L': kod}
-    opcje_dpd = {}     # {'S/M': kod, 'L': kod, 'XL': kod}
+    opcje_inpost = {}
+    opcje_dpd = {}
     
     for opcja in opcje_dostawy:
         label = opcja.get('label', '')
         code = opcja.get('code', '')
         label_upper = label.upper()
         
-        # Zbieramy rozmiary Inpost
         if 'INPOST' in label_upper:
             if ' S' in label_upper or label_upper.endswith('S'):
                 opcje_inpost['S'] = code
@@ -838,7 +713,6 @@ def wybierz_dostawe_wedlug_regul(product_description, opcje_dostawy, config_obj,
             elif ' L' in label_upper or label_upper.endswith('L'):
                 opcje_inpost['L'] = code
         
-        # Zbieramy rozmiary DPD
         elif 'DPD' in label_upper:
             if 'S/M' in label_upper:
                 opcje_dpd['S/M'] = code
@@ -853,7 +727,6 @@ def wybierz_dostawe_wedlug_regul(product_description, opcje_dostawy, config_obj,
     wybrane_kody = []
     szczegoly_wyborow = []
     
-    # AI ocenia rozmiary dla OBU opcji jednocześnie (Inpost + DPD)
     if opcje_inpost or opcje_dpd:
         prompt_rozmiary = f"""Jesteś ekspertem logistycznym. Oceń rozmiar paczki dla produktu na podstawie jego opisu i wybierz odpowiednie rozmiary dla OBU opcji dostawy.
 
@@ -905,7 +778,6 @@ Zwróć JSON z dwoma kluczami:
                         print(f"    │  │  └─ ✓ Wybrano: Inpost rozmiar {rozmiar_inpost}")
                         print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod}")
                     else:
-                        # Fallback na największy dostępny
                         rozmiar_fallback = 'L' if 'L' in opcje_inpost else ('M' if 'M' in opcje_inpost else 'S')
                         wybrany_kod = opcje_inpost[rozmiar_fallback]
                         wybrane_kody.append(wybrany_kod)
@@ -923,7 +795,6 @@ Zwróć JSON z dwoma kluczami:
                         print(f"    │  │  └─ ✓ Wybrano: DPD {rozmiar_dpd}")
                         print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod_dpd}")
                     else:
-                        # Fallback na największy dostępny
                         rozmiar_fallback_dpd = 'XL' if 'XL' in opcje_dpd else ('L' if 'L' in opcje_dpd else 'S/M')
                         wybrany_kod_dpd = opcje_dpd[rozmiar_fallback_dpd]
                         wybrane_kody.append(wybrany_kod_dpd)
@@ -932,7 +803,6 @@ Zwróć JSON z dwoma kluczami:
                         print(f"    │  │  [DEBUG] Dodano kod: {wybrany_kod_dpd}")
                         
             except json.JSONDecodeError:
-                # Błąd parsowania - fallback na największe dostępne rozmiary
                 if opcje_inpost:
                     print("    │  ├─ Znaleziono opcję: Nadanie i odbiór w punkcie")
                     rozmiar_fallback = 'L' if 'L' in opcje_inpost else ('M' if 'M' in opcje_inpost else 'S')
@@ -963,24 +833,16 @@ def opublikuj_ogloszenie_na_olx(produkt, kategoria_id, wybrane_atrybuty, wybrane
     """
     Przygotowuje, wysyła ogłoszenie do OLX API i zwraca status operacji.
     Zwraca krotkę: (bool: sukces, dict: wynik_api)
+    
+    DEAL BL B2B: Produkty NIE mają danych GPSR - opis bez sekcji GPSR.
     """
 
     # Krok 1: Przygotowanie pełnego ładunku (payload)
-    
-    # Przygotowanie opisu z GPSR
     base_description = clean_html(produkt.get('description', "Brak opisu"))
     
-    # Dodanie informacji GPSR na końcu opisu
-    gpsr_text = get_gpsr_text(produkt.get('producer_id'))
-    if gpsr_text:
-        full_description = base_description + gpsr_text
-        print(f"    │  ├─ ✅ Dodano dane GPSR do opisu (producent ID: {produkt.get('producer_id')})")
-    else:
-        full_description = base_description
-        if produkt.get('producer_id'):
-            print(f"    │  ├─ ⚠️ Nie znaleziono danych GPSR dla producenta ID: {produkt.get('producer_id')}")
-        else:
-            print(f"    │  ├─ ⚠️ Produkt nie ma przypisanego producenta odpowiedzialnego")
+    # DEAL: Brak danych GPSR - nie dodajemy sekcji GPSR do opisu
+    full_description = base_description
+    print(f"    │  ├─ ⚠️ Produkt Deal - brak danych GPSR (oznaczono do przyszłej aktualizacji)")
     
     # Przygotowanie tytułu (max 69 znaków dla OLX API)
     tytul_oryginalny = produkt.get('name', "Brak tytułu").capitalize()
@@ -1028,9 +890,7 @@ def opublikuj_ogloszenie_na_olx(produkt, kategoria_id, wybrane_atrybuty, wybrane
 
     try:
         response = requests.post(api_url, headers=headers, json=advert_data, timeout=30)
-        response.raise_for_status() # Rzuca wyjątkiem dla statusów 4xx/5xx
-
-        # Sukces
+        response.raise_for_status()
         return True, response.json()
 
     except requests.exceptions.HTTPError as e:
@@ -1039,7 +899,6 @@ def opublikuj_ogloszenie_na_olx(produkt, kategoria_id, wybrane_atrybuty, wybrane
         except json.JSONDecodeError:
             odpowiedz_serwera = {"szczegoly_bledu": e.response.text}
         
-        # Tworzymy szczegółowy raport błędu, zawierający wysłany payload i odpowiedź serwera
         error_details = {
             "komunikat": f"Żądanie odrzucone przez API OLX z kodem {e.response.status_code}",
             "wyslany_payload": advert_data,
@@ -1049,6 +908,7 @@ def opublikuj_ogloszenie_na_olx(produkt, kategoria_id, wybrane_atrybuty, wybrane
         
     except requests.exceptions.RequestException as e:
         return False, {"error": "Błąd połączenia", "detail": str(e)}
+
 
 # ==============================================================================
 # ========================= GŁÓWNA FUNKCJA URUCHOMIENIOWA ======================
@@ -1061,11 +921,9 @@ def wczytaj_przetworzone_id(sciezka_pliku_przetworzone):
     try:
         with open(sciezka_pliku_przetworzone, 'r', encoding='utf-8') as f:
             dane = json.load(f)
-            # Plik zawiera prostą listę ID
             if isinstance(dane, list):
                 przetworzone_id.update(dane)
     except (FileNotFoundError, json.JSONDecodeError):
-        # Plik może nie istnieć przy pierwszym uruchomieniu, to normalne
         pass
 
     return przetworzone_id
@@ -1081,50 +939,35 @@ def dodaj_do_przetworzonych(product_id, sciezka_pliku_przetworzone):
             json.dump(przetworzone, f, indent=4, ensure_ascii=False)
 
 def commit_state_to_git(message="AUTO: Checkpoint - aktualizacja state"):
-    """
-    Commituje pliki state do git (działa tylko w GitHub Actions).
-    Zapewnia, że postęp nie zostanie utracony przy przerwaniu workflow.
-    """
+    """Commituje pliki state do git (działa tylko w GitHub Actions)."""
     import subprocess
     
-    # Sprawdź czy jesteśmy w GitHub Actions
     if not os.environ.get('GITHUB_ACTIONS'):
         return False
-    
+
     try:
-        # Konfiguracja git (może być już skonfigurowana, ale na wszelki wypadek)
         subprocess.run(['git', 'config', 'user.name', 'GitHub Actions Bot'], 
                       capture_output=True, check=False)
         subprocess.run(['git', 'config', 'user.email', 'actions@github.com'], 
                       capture_output=True, check=False)
         
-        # Dodaj pliki state
         subprocess.run(['git', 'add', 'state/*.json'], capture_output=True, check=False)
         subprocess.run(['git', 'add', 'output/raport_kategoryzacji.csv'], capture_output=True, check=False)
         
-        # Sprawdź czy są zmiany do commitowania
         result = subprocess.run(['git', 'diff', '--staged', '--quiet'], capture_output=True)
         if result.returncode == 0:
-            # Brak zmian
             return False
         
-        # Commit
         subprocess.run(['git', 'commit', '-m', message], capture_output=True, check=True)
-        
-        # Push
         subprocess.run(['git', 'push'], capture_output=True, check=True)
         
         print(f"   💾 Checkpoint: state zapisany do GitHub")
         return True
     except subprocess.CalledProcessError:
-        # Cichy fail - nie przerywamy głównego procesu
         return False
     except Exception:
         return False
 
-# ==============================================================================
-# ========================= GŁÓWNA FUNKCJA URUCHOMIENIOWA ======================
-# ==============================================================================
 
 def zapisz_do_pliku_json(dane, sciezka_pliku):
     """Bezpiecznie wczytuje plik JSON, dodaje nowy wpis i zapisuje całość."""
@@ -1150,35 +993,59 @@ def wczytaj_mapping_feed_to_olx(sciezka_pliku):
 def zapisz_mapping_feed_to_olx(feed_id, olx_response, category_id, price, sciezka_pliku):
     """
     Zapisuje mapowanie feed_id → dane z OLX (olx_id, category, price, timestamp).
-    Format: {"feed_id": {"olx_id": 123, "published_at": "...", "category_id": 456, "price": 99.99}}
+    DEAL: Dodaje gpsr_status: "missing" dla przyszłej identyfikacji produktów bez GPSR.
     """
     from datetime import datetime
     
-    # Wczytaj istniejące mapowanie
     mapping = wczytaj_mapping_feed_to_olx(sciezka_pliku)
     
-    # Wyciągnij olx_id z odpowiedzi API
     olx_id = None
     if isinstance(olx_response, dict):
-        # OLX API zwraca: {"data": {"id": 123456, ...}}
         olx_id = olx_response.get('data', {}).get('id')
     
-    # Dodaj nowy wpis
     mapping[str(feed_id)] = {
         "olx_id": olx_id,
         "published_at": datetime.now().isoformat(),
         "category_id": category_id,
-        "price": float(price) if price else None
+        "price": float(price) if price else None,
+        "gpsr_status": "missing"  # ← DEAL: Produkty bez danych GPSR
     }
     
-    # Zapisz z powrotem
     with open(sciezka_pliku, 'w', encoding='utf-8') as f:
         json.dump(mapping, f, indent=4, ensure_ascii=False)
+    
+    return olx_id
+
+
+def zapisz_bez_gpsr(feed_id, olx_id, product_name, sciezka_pliku):
+    """
+    Zapisuje produkt opublikowany BEZ danych GPSR do osobnego pliku state.
+    Ten plik pozwoli w przyszłości odnaleźć te produkty na OLX
+    i zaktualizować ich opisy gdy dane GPSR będą dostępne.
+    """
+    from datetime import datetime
+    
+    try:
+        with open(sciezka_pliku, 'r', encoding='utf-8') as f:
+            lista = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        lista = []
+    
+    lista.append({
+        "feed_id": str(feed_id),
+        "olx_id": olx_id,
+        "product_name": product_name,
+        "published_at": datetime.now().isoformat(),
+        "gpsr_updated": False  # False = jeszcze nie zaktualizowano GPSR
+    })
+    
+    with open(sciezka_pliku, 'w', encoding='utf-8') as f:
+        json.dump(lista, f, indent=4, ensure_ascii=False)
+
 
 def sprawdz_kwalifikacje_kategorii(sciezka_kategorii, kategorie_platne):
     """
     Sprawdza, czy dana ścieżka kategorii kwalifikuje się do opcji 'Zapłać, jeśli sprzedasz'.
-    Poprawiona logika: kwalifikuje się, jeśli ścieżka jest podkategorią kwalifikującej się ścieżki.
     """
     if not sciezka_kategorii or not isinstance(sciezka_kategorii, str):
         return False
@@ -1188,63 +1055,62 @@ def sprawdz_kwalifikacje_kategorii(sciezka_kategorii, kategorie_platne):
 
     for poziom in poziomy:
         if isinstance(aktualny_poziom_danych, dict):
-            # Szukamy dopasowania w kluczach słownika, ignorując wielkość liter
             znaleziono_dopasowanie = False
             for klucz, wartosc in aktualny_poziom_danych.items():
                 if klucz.lower() == poziom.lower():
                     aktualny_poziom_danych = wartosc
                     znaleziono_dopasowanie = True
-                    break # Znaleziono dopasowanie dla tego poziomu, idziemy dalej
+                    break
             
             if not znaleziono_dopasowanie:
-                # Jeśli na jakimkolwiek poziomie nie ma dopasowania, cała ścieżka nie pasuje.
                 return False
         else:
-            # Dotarliśmy do końca ścieżki w `kategorie_platne` (np. do wartości "8,00%"),
-            # a ścieżka produktu jest dłuższa. To oznacza, że kategoria produktu
-            # jest podkategorią kwalifikującej się kategorii.
             return True
 
-    # Jeśli pętla się zakończyła, oznacza to, że ścieżka produktu jest
-    # identyczna lub jest rodzicem kwalifikującej się kategorii. W obu przypadkach się kwalifikuje.
     return True
+
 
 # ==============================================================================
 # ========================= GŁÓWNA FUNKCJA URUCHOMIENIOWA ======================
 # ==============================================================================
 
 def main():
-    """Orkiestruje cały proces kategoryzacji."""
+    """Orkiestruje cały proces kategoryzacji produktów Deal BL B2B."""
     
     # --- Parsowanie argumentów wiersza poleceń ---
-    parser = argparse.ArgumentParser(description='Kategoryzacja produktów OLX')
+    parser = argparse.ArgumentParser(description='Kategoryzacja produktów Deal BL B2B na OLX')
     parser.add_argument('--refresh-feed', action='store_true',
-                        help='Pobierz feed na nowo i wzbogać o dane GPSR przed przetwarzaniem')
+                        help='Pobierz feed na nowo z BaseLinker API przed przetwarzaniem')
     args = parser.parse_args()
     
-    # --- Opcjonalne odświeżenie feedu ---
+    # --- Opcjonalne odświeżenie feedu z BaseLinker ---
     if args.refresh_feed:
         print("#" * 80)
-        print("##### ODŚWIEŻANIE FEEDU (--refresh-feed) #####")
+        print("##### ODŚWIEŻANIE FEEDU DEAL Z BASELINKER (--refresh-feed) #####")
         print("#" * 80)
         try:
-            from aktualizuj_feed_gpsr import main as refresh_feed_main
-            refresh_feed_main()
-            print("\n✅ Feed został pomyślnie odświeżony i wzbogacony o dane GPSR\n")
+            from pobierz_feed_deal import main as refresh_feed_main
+            success = refresh_feed_main()
+            if success:
+                print("\n✅ Feed Deal został pomyślnie pobrany z BaseLinker\n")
+            else:
+                print("\n❌ BŁĄD: Nie udało się pobrać feedu z BaseLinker")
+                return
         except ImportError as e:
-            print(f"❌ BŁĄD: Nie można zaimportować skryptu aktualizuj_feed_gpsr.py: {e}")
+            print(f"❌ BŁĄD: Nie można zaimportować skryptu pobierz_feed_deal.py: {e}")
             return
         except Exception as e:
-            print(f"❌ BŁĄD podczas odświeżania feedu: {e}")
+            print(f"❌ BŁĄD podczas pobierania feedu: {e}")
             return
     
     print("#" * 80)
-    print("##### START PROCESU KATEGORYZACJI PRODUKTÓW OLX #####")
+    print("##### START PROCESU KATEGORYZACJI PRODUKTÓW OLX - DEAL BL B2B #####")
     print(f"Dostawca modelu: {config.ACTIVE_LLM_PROVIDER}, Model: {config.GEMINI_MODEL_NAME if config.ACTIVE_LLM_PROVIDER == 'GEMINI' else config.OPENAI_MODEL_NAME}")
+    print("⚠️  UWAGA: Produkty Deal nie mają danych GPSR - będą śledzone w state/bez_gpsr.json")
     print("#" * 80)
 
     # --- Monitoring czasu wykonania (dla auto-restart) ---
-    MAX_RUNTIME_MINUTES = int(os.environ.get('MAX_RUNTIME_MINUTES', '350'))  # 350 min (zapas przed 6h limitem GitHub Actions)
+    MAX_RUNTIME_MINUTES = int(os.environ.get('MAX_RUNTIME_MINUTES', '350'))
     START_TIME = time.time()
     print(f"⏱️ Maksymalny czas wykonania: {MAX_RUNTIME_MINUTES} minut\n")
     
@@ -1269,13 +1135,14 @@ def main():
     DO_WERYFIKACJI_PLIK = os.path.join(STATE_DIR, "do_weryfikacji.json")
     ODRZUCONE_API_PLIK = os.path.join(STATE_DIR, "odrzucone_przez_api.json")
     NIEKWALIFIKUJACE_SIE_PLIK = os.path.join(STATE_DIR, "niekwalifikujace_sie.json")
-    MAPPING_FEED_TO_OLX_PLIK = os.path.join(STATE_DIR, "mapping_feed_to_olx.json")  # ← NOWY PLIK
+    MAPPING_FEED_TO_OLX_PLIK = os.path.join(STATE_DIR, "mapping_feed_to_olx.json")
+    BEZ_GPSR_PLIK = os.path.join(STATE_DIR, "bez_gpsr.json")  # ← DEAL: Śledzenie produktów bez GPSR
 
     przetworzone_id = wczytaj_przetworzone_id(PRZETWORZONE_PLIK)
 
     if przetworzone_id:
         print(f"Znaleziono {len(przetworzone_id)} już przetworzonych produktów. Zostaną pominięte.")
-        
+
     # --- Wczytywanie kategorii "Zapłać, jeśli sprzedasz" ---
     ZAPLATA_JESLI_SPRZEDASZ_PLIK = os.path.join(SCRIPT_DIR, "input", "zaplata_jesli_sprzedasz.json")
     try:
@@ -1297,7 +1164,6 @@ def main():
 
     # --- GEMINI EXPLICIT CACHING: Tworzenie cache dla drzewa kategorii ---
     if provider == "GEMINI":
-        # Budujemy pełny system prompt z drzewem kategorii
         system_prompt = f"""Jesteś ekspertem od kategoryzacji produktów na platformie OLX.pl.
 
 Twoim zadaniem jest dla każdego produktu:
@@ -1322,17 +1188,17 @@ ZASADY:
             print("⚠️ Cache nie został utworzony - używam standardowego trybu (bez cache)")
             print("="*80 + "\n")
 
-    # --- Wczytywanie producentów odpowiedzialnych (GPSR) ---
-    global RESPONSIBLE_PRODUCERS
-    RESPONSIBLE_PRODUCERS = parse_responsible_producers(XML_FILE)
+    # --- DEAL: Brak danych GPSR - pominięcie parsowania producentów ---
+    print("⚠️  DEAL BL B2B: Pominięto parsowanie producentów GPSR (dane niedostępne)")
+    print(f"   Produkty bez GPSR będą śledzone w: {os.path.basename(BEZ_GPSR_PLIK)}")
     
+    # --- Parsowanie feedu Deal ---
     wszystkie_produkty = parse_product_feed(XML_FILE, 0)
     if not wszystkie_produkty:
         print("Nie znaleziono żadnych produktów w pliku XML. Sprawdź plik i ścieżkę.")
         return
 
     # --- FILTROWANIE CENOWE ---
-    # Importujemy CENA_MIN i CENA_MAX z konfiguracji
     from config import CENA_MIN, CENA_MAX
     
     produkty_po_filtracji_cenowej = []
@@ -1345,7 +1211,7 @@ ZASADY:
             else:
                 odrzucone_przez_cene += 1
         except (ValueError, TypeError):
-            odrzucone_przez_cene += 1 # Odrzucamy, jeśli cena jest nieprawidłowa
+            odrzucone_przez_cene += 1
 
     if odrzucone_przez_cene > 0:
         print(f"Odrzucono {odrzucone_przez_cene} produktów ze względu na niespełnienie zakresu cenowego ({CENA_MIN} - {CENA_MAX} PLN).")
@@ -1365,12 +1231,11 @@ ZASADY:
         print(f"Rozpoczynam przetwarzanie {len(products_to_process)} z {len(nowe_produkty)} nowych produktów...")
         print(f"{'='*80}\n")
         
-        # Zmienne do rate limiting
         last_api_call_time = 0
-        MIN_DELAY_BETWEEN_PRODUCTS = 6  # Minimum 6 sekund między produktami (Gemini RPM limit)
+        MIN_DELAY_BETWEEN_PRODUCTS = 6
         
         for idx, product in enumerate(products_to_process, 1):
-            # Rate limiting - czekaj minimum X sekund od ostatniego wywołania API
+            # Rate limiting
             if last_api_call_time > 0:
                 elapsed_since_last = time.time() - last_api_call_time
                 if elapsed_since_last < MIN_DELAY_BETWEEN_PRODUCTS:
@@ -1392,11 +1257,11 @@ ZASADY:
             print(f"\n[{idx}/{len(products_to_process)}] Produkt: {product['name'][:60]}... (ID: {product['id']})")
             print("├─ Kategoryzacja przez AI...")
             
-            last_api_call_time = time.time()  # Zapisz czas przed wywołaniem API
+            last_api_call_time = time.time()
             report_line, llm_choice = process_single_product(product, path_map, config)
             all_results.append(report_line)
             
-            # Zapis do CSV po każdym produkcie (APPEND mode)
+            # Zapis do CSV po każdym produkcie
             try:
                 file_exists = os.path.isfile(RAPORT_PLIK_CSV) and os.path.getsize(RAPORT_PLIK_CSV) > 0
                 with open(RAPORT_PLIK_CSV, 'a', newline='', encoding='utf-8-sig') as csvfile:
@@ -1466,7 +1331,6 @@ ZASADY:
                 # --- KONIEC LOGIKI SELEKCJI DOSTAWY ---
                 
                 wybrane_atrybuty_do_publikacji = {}
-                # Filtrujemy atrybuty, aby wykluczyć 'delivery', bo obsłużyliśmy go osobno
                 wymagane_atrybuty = [
                     attr for attr in atrybuty 
                     if attr.get('validation', {}).get('required') and attr.get('code') != 'delivery'
@@ -1496,6 +1360,7 @@ Przykład odpowiedzi:
   "brand": "other_brand"
 }}
 """
+
                     wybrane_atrybuty_str = call_llm_api(
                         prompt=prompt_dla_atrybutow,
                         provider="OPENAI",
@@ -1543,8 +1408,13 @@ Przykład odpowiedzi:
                 if sukces:
                     print(f"└─ ✓ SUKCES - Produkt opublikowany!\n")
                     zapisz_do_pliku_json(product['id'], OPUBLIKOWANE_PLIK)
-                    # ✨ NOWA FUNKCJONALNOŚĆ: Zapisz mapowanie feed_id → olx_id
-                    zapisz_mapping_feed_to_olx(product['id'], szczegoly_odpowiedzi, final_id, product['price'], MAPPING_FEED_TO_OLX_PLIK)
+                    
+                    # Zapisz mapowanie feed_id → olx_id (z gpsr_status: "missing")
+                    olx_id = zapisz_mapping_feed_to_olx(product['id'], szczegoly_odpowiedzi, final_id, product['price'], MAPPING_FEED_TO_OLX_PLIK)
+                    
+                    # DEAL: Zapisz do listy produktów bez GPSR
+                    zapisz_bez_gpsr(product['id'], olx_id, product['name'], BEZ_GPSR_PLIK)
+                    
                     dodaj_do_przetworzonych(product['id'], PRZETWORZONE_PLIK)
                 else:
                     print(f"└─ ✗ BŁĄD - Odrzucone przez API OLX\n")
@@ -1562,9 +1432,20 @@ Przykład odpowiedzi:
     if provider == "GEMINI" and GEMINI_CACHE_NAME:
         delete_gemini_cache(config.GEMINI_API_KEY)
 
+    # --- Podsumowanie GPSR ---
+    try:
+        with open(BEZ_GPSR_PLIK, 'r', encoding='utf-8') as f:
+            bez_gpsr_count = len(json.load(f))
+        print(f"\n⚠️  DEAL BL B2B: {bez_gpsr_count} produktów opublikowanych BEZ danych GPSR")
+        print(f"   Lista w: {BEZ_GPSR_PLIK}")
+        print(f"   Gdy dane GPSR będą dostępne, użyj tego pliku do aktualizacji ogłoszeń na OLX")
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+
     print("\n--- ZAKOŃCZONO POMYŚLNIE ---")
     if all_results:
         print(f"Raport zapisany w: {RAPORT_PLIK_CSV}")
     print("\nZakończono działanie skryptu.")
+
 if __name__ == "__main__":
     main()

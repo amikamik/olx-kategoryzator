@@ -1,4 +1,4 @@
-﻿name: 🏷️ Kategoryzacja i Publikacja OLX (Gemini)
+name: 🏷️ Kategoryzacja OLX - Deal BL B2B (Gemini)
 
 on:
   workflow_dispatch:
@@ -25,9 +25,9 @@ on:
         default: false
         type: boolean
       refresh_feed:
-        description: 'Pobierz feed na nowo przed przetwarzaniem?'
+        description: 'Pobierz feed na nowo z BaseLinker przed przetwarzaniem?'
         required: false
-        default: false
+        default: true
         type: boolean
       max_price:
         description: 'Do jakiej ceny (zł) przetwarzać produkty z feedu?'
@@ -40,7 +40,7 @@ permissions:
 
 jobs:
   kategoryzuj:
-    name: Kategoryzacja i publikacja (Gemini)
+    name: Kategoryzacja - Deal BL B2B (Gemini)
     runs-on: ubuntu-latest
     timeout-minutes: 360
 
@@ -141,17 +141,20 @@ jobs:
           # Cache dla drzewa kategorii (wypełniane dynamicznie)
           CATEGORY_TREE_JSON_STR = ""
 
-          # GPSR
-          GPSR_ENABLED = True
+          # GPSR - Deal nie ma danych GPSR
+          GPSR_ENABLED = False
+
+          # BaseLinker (do pobierania feedu Deal)
+          BASELINKER_TOKEN = "${{ secrets.BASELINKER_TOKEN }}"
           EOF
         env:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: 🏷️ Uruchom kategoryzator (Gemini)
+      - name: 🏷️ Uruchom kategoryzator (Gemini) - Deal BL B2B
         run: |
           echo "=================================="
-          echo "KATEGORYZACJA OLX - GEMINI"
+          echo "KATEGORYZACJA OLX - DEAL BL B2B"
           echo "Model: ${{ inputs.gemini_model }}"
           echo "Sample size: ${{ inputs.sample_size }}"
           echo "Max price: ${{ inputs.max_price }} zł"
@@ -173,6 +176,7 @@ jobs:
           PYTHONUNBUFFERED: "1"
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          BASELINKER_TOKEN: ${{ secrets.BASELINKER_TOKEN }}
           MAX_RUNTIME_MINUTES: "350"
 
       - name: 💽 Zapisz zaktualizowane pliki state i raport
@@ -184,7 +188,7 @@ jobs:
           git add output/raport_kategoryzacji.csv
 
           if ! git diff --staged --quiet; then
-            git commit -m "AUTO: Aktualizacja state i raport - Gemini ${{ inputs.gemini_model }} - $(date '+%Y-%m-%d %H:%M:%S')"
+            git commit -m "AUTO: Aktualizacja state i raport - Deal BL B2B - Gemini ${{ inputs.gemini_model }} - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
             echo "✅ Zaktualizowano pliki state i raport"
           else
@@ -215,7 +219,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: raport-kategoryzacji-gemini
+          name: raport-kategoryzacji-deal-gemini
           path: output/raport_kategoryzacji.csv
           if-no-files-found: ignore
 
@@ -223,7 +227,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: state-files-gemini
+          name: state-files-deal-gemini
           path: state/*.json
           if-no-files-found: ignore
 
@@ -232,7 +236,7 @@ jobs:
         run: |
           echo ""
           echo "=================================="
-          echo "✅ Workflow zakończony"
+          echo "✅ Workflow zakończony - Deal BL B2B"
           echo "🤖 Model: ${{ inputs.gemini_model }}"
           echo "📅 Czas zakończenia: $(date)"
           echo "=================================="
@@ -247,4 +251,10 @@ jobs:
             echo ""
             echo "✅ Opublikowane produkty:"
             cat state/opublikowane.json | jq '. | length' || echo "Nie można odczytać"
+          fi
+
+          if [ -f "state/bez_gpsr.json" ]; then
+            echo ""
+            echo "⚠️ Produkty BEZ GPSR:"
+            cat state/bez_gpsr.json | jq '. | length' || echo "Nie można odczytać"
           fi

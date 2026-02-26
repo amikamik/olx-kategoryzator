@@ -1,72 +1,30 @@
-# Instrukcja Konfiguracji
+Ten katalog musi zawierać plik config.py z kluczami API.
 
-## 0. Feed produktów
+W GitHub Actions config.py jest generowany automatycznie przez workflow.
 
-Link do generowania feedu z hurtowni cgrot.pl:
-```
-https://www.cgrot.pl/comparisons/file/jZWrtJPMjl
-```
+Dla uruchomienia lokalnego, utwórz plik config.py z następującymi zmiennymi:
 
-Pobierz i zapisz jako `input/feed_cgrot.xml`
-
-## 1. Klucze API
-
-Edytuj plik `config.py` i uzupełnij:
-
-### OpenAI
-```python
-OPENAI_API_KEY = "sk-proj-..."  # Twój klucz z platform.openai.com
+ACTIVE_LLM_PROVIDER = "GEMINI"
+GEMINI_API_KEY = "twoj-klucz-gemini"
+GEMINI_MODEL_NAME = "gemini-2.5-pro"
+GEMINI_TEMPERATURE = 1.0
+OPENAI_API_KEY = "twoj-klucz-openai"
 OPENAI_MODEL_NAME = "gpt-5-nano"
 OPENAI_TEMPERATURE = 1.0
-```
-
-### Gemini (opcjonalnie)
-```python
-GEMINI_API_KEY = "AIzaSy..."  # Twój klucz z Google AI Studio
-GEMINI_MODEL_NAME = "gemini-2.5-flash"
-```
-
-### OLX Partner API
-```python
-CLIENT_ID = "202557"  # Z panelu partnera OLX
+CATEGORIZATION_MODEL = "gemini-2.5-pro"
+OTHER_TASKS_MODEL = "gpt-5-nano"
+CLIENT_ID = "202557"
 CLIENT_SECRET = "..."
-ACCESS_TOKEN = "..."  # Odświeżaj przez scripts/to_odswieza_acces_token.py
+ACCESS_TOKEN = "..."
 REFRESH_TOKEN = "..."
-```
-
-## 2. Dane Kontaktowe
-
-```python
-OLX_AD_CONTACT = {
-    "name": "Twoje Imię",
-    "phone": "123456789"
-}
-
-OLX_AD_LOCATION = {
-    "city_id": 20327,  # ID miasta (np. 20327 = Zabrze)
-    "district_id": None
-}
-```
-
-## 3. Parametry Biznesowe
-
-```python
-MARGIN_PERCENT = 0.30       # Marża 30%
-COMMISSION_PERCENT = 0.12   # Prowizja OLX 12%
-MINIMUM_PROFIT_PLN = 15.0   # Minimalny zysk
-
-CENA_MIN = 1.0              # Filtr cenowy: min
-CENA_MAX = 150.0            # Filtr cenowy: max
-
-MINIMALNA_PEWNOSC = 90      # Próg pewności AI (%)
-```
-
-## 4. Wybór Modelu AI
-
-Ustaw dostawcę:
-```python
-ACTIVE_LLM_PROVIDER = "OPENAI"  # lub "GEMINI"
-```
-
----
-**Ważne**: NIE commituj tego pliku do Git! (jest w .gitignore)
+OLX_AD_CONTACT = {"name": "Amadeusz", "phone": "530790357"}
+OLX_AD_LOCATION = {"city_id": 20327, "district_id": None}
+MARGIN_PERCENT = 0.30
+COMMISSION_PERCENT = 0.12
+MINIMUM_PROFIT_PLN = 15.0
+CENA_MIN = 1.0
+CENA_MAX = 150.0
+MINIMALNA_PEWNOSC = 80
+CATEGORY_TREE_JSON_STR = ""
+GPSR_ENABLED = False
+BASELINKER_TOKEN = "twoj-token-baselinker"
