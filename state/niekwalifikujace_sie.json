@@ -7668,5 +7668,365 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Pickleball jest sportem rakietowym pokrewnym tenisowi, badmintonowi i padowi. Najbardziej precyzyjną kategorią jest 'Pozostałe' w obrębie sekcji 'Tenis i pokrewne'."
+    },
+    {
+        "ID_Produktu": "15080",
+        "Nazwa_Produktu": "Wioślarz MASTER V-100",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Wioślarze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Wioślarze",
+        "Finalne_ID_AI": 4331,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to wioślarz, który jest urządzeniem do ćwiczeń fitness. Kategoria 'Sport i Hobby > Fitness > Sprzęt fitness > Wioślarze' jest najbardziej szczegółowa i idealnie pasuje do produktu."
+    },
+    {
+        "ID_Produktu": "15713",
+        "Nazwa_Produktu": "Hulajnoga składana Jumbo SPARTAN II - 230 mm  czarna",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na hulajnogę, a kategoria 'Hulajnogi' jest najbardziej szczegółowa i bezpośrednio pasująca w drzewie kategorii 'Sport i Hobby > Skating'."
+    },
+    {
+        "ID_Produktu": "15716",
+        "Nazwa_Produktu": "Hulajnoga składana Jumbo SPARTAN II - 230 mm biała",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hulajnoga składana, a kategoria 'Hulajnogi' (ID: 1676) jest najbardziej szczegółową i idealnie pasującą kategorią w drzewie dla tego typu produktu. Pełna ścieżka to Sport i Hobby > Skating > Hulajnogi."
+    },
+    {
+        "ID_Produktu": "15992",
+        "Nazwa_Produktu": "Bramka do piłki nożnej SPARTAN Fussballtor",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bramka do piłki nożnej, która jest akcesorium do tego sportu. Kategoria 'Akcesoria' w podkategorii 'Piłka nożna' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "16685",
+        "Nazwa_Produktu": "Siatka zabezpieczająca do trampoliny 426 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to siatka zabezpieczająca do trampoliny. Trampoliny są elementem wyposażenia placów zabaw i stref rekreacyjnych w ogrodzie, więc kategoria 'Huśtawki i place zabaw' jest najbardziej odpowiednią i szczegółową kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "16691",
+        "Nazwa_Produktu": "Mata do trampoliny 426 cm MASTERJUMP SUPER",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Mata do trampoliny', a trampoliny ogrodowe najlepiej pasują do kategorii 'Huśtawki i place zabaw' w obrębie 'Dom i Ogród', ponieważ są elementem wyposażenia ogrodowego przeznaczonego do rekreacji i zabawy. Kategoria 'Maty' pod 'Fitness' jest zbyt ogólna i zazwyczaj odnosi się do mat treningowych, a nie do części zamiennych do sprzętu rekreacyjnego."
+    },
+    {
+        "ID_Produktu": "16715",
+        "Nazwa_Produktu": "Siatka ochronna do trampoliny 457 cm MASTERJUMP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to siatka ochronna do trampoliny. Trampoliny są elementem wyposażenia placów zabaw, więc kategoria 'Huśtawki i place zabaw' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "16787",
+        "Nazwa_Produktu": "Obciążenie metalowe z powierzchnią gumowaną 25 kg",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalne_ID_AI": 4339,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'obciążenie metalowe', a kategoria 'Obciążenia' jest liściem w drzewie 'Sport i Hobby > Fitness > Sprzęt siłowy', idealnie pasując do opisu i przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "16871",
+        "Nazwa_Produktu": "Gryf olimpijski MASTER prosty z łożyskami 150 cm do 315 kg",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Gryfy",
+        "Finalne_ID_AI": 4336,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu bezpośrednio wskazuje na 'Gryf olimpijski', a opis potwierdza, że jest to sprzęt do ćwiczeń siłowych. Kategoria 'Gryfy' jest najbardziej szczegółowa i idealnie pasuje do tego produktu."
+    },
+    {
+        "ID_Produktu": "17291",
+        "Nazwa_Produktu": "Huśtawka Gniazdo MASTER 100 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Huśtawki i place zabaw",
+        "Finalne_ID_AI": 1708,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na huśtawkę, która jest specyficznym elementem kategorii 'Huśtawki i place zabaw' w obrębie 'Ogród'."
+    },
+    {
+        "ID_Produktu": "20306",
+        "Nazwa_Produktu": "Tablica tarcza do koszykówki MASTER 110 x 75 cm Akryl",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria",
+        "Finalne_ID_AI": 4988,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tablica (tarcza) do koszykówki, która jest akcesorium do gry w koszykówkę. Kategoria 'Sport i Hobby > Sporty drużynowe > Koszykówka > Akcesoria' jest najbardziej szczegółową i precyzyjną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "20308",
+        "Nazwa_Produktu": "Przenośny zestaw do koszykówki MASTER Attack 260",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Koszykówka > Pozostałe",
+        "Finalne_ID_AI": 4993,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przenośny zestaw do koszykówki z regulowaną wysokością, w tym do standardowego rozmiaru piłki (rozmiar 7). Jest to sprzęt sportowy, więc kategoria 'Sport i Hobby' jest najbardziej odpowiednia. W obrębie 'Sporty drużynowe' i 'Koszykówka', 'Pozostałe' jest najlepszym wyborem, ponieważ zestaw do koszykówki jest podstawowym sprzętem, a nie akcesorium."
+    },
+    {
+        "ID_Produktu": "20427",
+        "Nazwa_Produktu": "Oczyszczacz Wody Skimmer BESTWAY",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Twarz > Oczyszczanie i demakijaż",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skimmer, który służy do oczyszczania wody w basenie. Kategoria 'Baseny' (ID: 1630) jest najbardziej precyzyjna i znajduje się w ścieżce 'Dom i Ogród > Ogród > Baseny'."
+    },
+    {
+        "ID_Produktu": "20428",
+        "Nazwa_Produktu": "Wodoodporne łatki naprawcze BESTWAY 10szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Akcesoria i części > Do kajaków, pontonów i rowerów wodnych",
+        "Finalne_ID_AI": 5022,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wodoodporne łatki naprawcze, które idealnie nadają się do naprawy nadmuchiwanych basenów, pontonów i materacy. Kategoria 'Do kajaków, pontonów i rowerów wodnych' jest najbardziej szczegółową kategorią liściową, która bezpośrednio odnosi się do jednego z kluczowych zastosowań produktu (pontony) i jest podkategorią 'Akcesoria i części' w 'Sporty wodne', co idealnie pasuje do charakteru łatki naprawczej."
+    },
+    {
+        "ID_Produktu": "21094",
+        "Nazwa_Produktu": "Namiot Baldachim Ogrodowy KING CAMP Zielony Palma",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa > Pawilony i namioty",
+        "Finalne_ID_AI": 3050,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Namiot Baldachim Ogrodowy', przeznaczony do użytku na świeżym powietrzu podczas imprez lub relaksu w cieniu. Kategoria 'Pawilony i namioty' w ramach 'Architektury ogrodowej' jest najbardziej precyzyjna i bezpośrednio odpowiada naturze tego produktu jako zewnętrznej struktury ochronnej."
+    },
+    {
+        "ID_Produktu": "21309",
+        "Nazwa_Produktu": "Drabinka do Basenu Dwustronna 132cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to drabinka do basenu, która idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Baseny'. Jest to najbardziej szczegółowa i precyzyjna kategoria dla tego typu produktu. Wskazówka systemowa ('Dla Dzieci > Zabawki > Pozostałe') jest nieadekwatna, ponieważ drabinka basenowa nie jest zabawką, a jej zastosowanie związane z bezpieczeństwem dzieci nie zmienia jej podstawowej funkcji."
+    },
+    {
+        "ID_Produktu": "21318",
+        "Nazwa_Produktu": "Pompa Piaskowa 3028 l/h",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pompa piaskowa, która jest przeznaczona do basenów naziemnych, co wyraźnie wynika z opisu. Kategoria 'Baseny' (ID: 1630) jest najbardziej szczegółową i bezpośrednio pasującą kategorią, nawet jeśli jest to akcesorium do basenu, a nie sam basen. Użytkownicy szukający akcesoriów basenowych najprawdopodobniej będą przeglądać tę kategorię. Kategoria 'Pompy wodne' (ID: 1698) jest zbyt ogólna."
+    },
+    {
+        "ID_Produktu": "21467",
+        "Nazwa_Produktu": "Belka dmuchana MASTER 300 x 40 x 10 cm  szaro-turkusowa",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Śpiwory, materace i karimaty > Materace",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Pozostałe",
+        "Finalne_ID_AI": 4333,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dmuchana belka gimnastyczna, przeznaczona do ćwiczeń gimnastycznych i parkouru. Najlepiej pasuje do kategorii 'Sport i Hobby', a następnie do 'Fitness', jako 'Sprzęt fitness'. Ponieważ nie ma bardziej szczegółowej kategorii dla belek gimnastycznych, wybrano 'Pozostałe' w ramach 'Sprzęt fitness'. Wskazówka systemowa o 'Materacach' jest nieprawidłowa, ponieważ produkt nie służy do spania, a do aktywności fizycznej."
+    },
+    {
+        "ID_Produktu": "25539",
+        "Nazwa_Produktu": "Bramka do Piłki Nożnej SPARTAN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bramka do piłki nożnej, która jest akcesorium dedykowanym do sportu piłki nożnej. Kategoria 'Akcesoria' w obrębie 'Piłka nożna' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "25540",
+        "Nazwa_Produktu": "Rakietka do tenisa stołowego DONIC CarboTec 7000 + pokrowiec",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na rakietkę do tenisa stołowego, co idealnie pasuje do kategorii 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy'."
+    },
+    {
+        "ID_Produktu": "25804",
+        "Nazwa_Produktu": "Przykrycie do basenów BESTWAY - 366 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to przykrycie do basenu, które jest akcesorium bezpośrednio związanym z basenami. Kategoria 'Baseny' (ID 1630) jest kategorią liściową w drzewie i najlepiej odpowiada produktowi."
+    },
+    {
+        "ID_Produktu": "25832",
+        "Nazwa_Produktu": "Bieżnia MASTER F-02",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Bieżnie",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Bieżnie",
+        "Finalne_ID_AI": 4328,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu 'Bieżnia MASTER F-02' bezpośrednio wskazuje na bieżnię, która jest specyficznym typem sprzętu fitness. Kategoria 'Sport i Hobby > Fitness > Sprzęt fitness > Bieżnie' jest najbardziej szczegółową i idealnie pasującą do opisu produktu."
+    },
+    {
+        "ID_Produktu": "26127",
+        "Nazwa_Produktu": "Prysznic solarny BESTWAY SolarFlow Outdoor 8 litrów",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to prysznic solarny przeznaczony do użytku zewnętrznego, w tym dla właścicieli basenów. Najbardziej szczegółową i pasującą kategorią jest 'Baseny' pod 'Dom i Ogród > Ogród', ponieważ jest ściśle związany z rekreacją wodną i wyposażeniem basenowym, a brak jest bardziej precyzyjnej podkategorii typu 'Akcesoria basenowe'."
+    },
+    {
+        "ID_Produktu": "26310",
+        "Nazwa_Produktu": "Przykrycie do basenów BESTWAY - 457 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to przykrycie basenowe, które jest bezpośrednio związane z kategorią 'Baseny' w dziale 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "26795",
+        "Nazwa_Produktu": "Bramka piłkarska SPARTAN  290 x 165 x 90 cm z matą treningową",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Piłka nożna > Akcesoria",
+        "Finalne_ID_AI": 4989,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bramka piłkarska z matą treningową, co idealnie pasuje do kategorii 'Akcesoria' w podkategorii 'Piłka nożna' w 'Sporty drużynowe' w 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "26803",
+        "Nazwa_Produktu": "Drewniany drążek do drabinki gimnastycznej MASTER 70 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to drążek do drabinki gimnastycznej, który idealnie pasuje do kategorii 'Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze'. Jest to najbardziej szczegółowa i trafna kategoria dostępna w drzewie."
+    },
+    {
+        "ID_Produktu": "41724",
+        "Nazwa_Produktu": "Średni stół do tenisa stołowego MASTER Medium Table Practice",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na stół do tenisa stołowego, co idealnie pasuje do kategorii 'Tenis stołowy' (ID: 5027) w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "41733",
+        "Nazwa_Produktu": "Bramka do unihokeja MASTER treningowa junior - metalowa 90 x 60 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Pozostałe sporty drużynowe",
+        "Finalne_ID_AI": 4977,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to bramka do unihokeja, który jest sportem drużynowym. Najbardziej szczegółową i pasującą kategorią jest 'Pozostałe sporty drużynowe', ponieważ nie ma dedykowanej podkategorii dla unihokeja."
+    },
+    {
+        "ID_Produktu": "41805",
+        "Nazwa_Produktu": "Drążek do podciągania na drabinki gimnastyczne MASTER metalowy 91 cm",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt siłowy > Drążki i poręcze",
+        "Finalne_ID_AI": 4335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to drążek do podciągania, który idealnie pasuje do kategorii 'Drążki i poręcze' znajdującej się w ścieżce Sport i Hobby > Fitness > Sprzęt siłowy."
+    },
+    {
+        "ID_Produktu": "42930",
+        "Nazwa_Produktu": "Piłeczko do Tenisa Stołowego JOOLA Flash 72 Sztuki",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalne_ID_AI": 5027,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że są to piłeczki przeznaczone do gry w tenisa stołowego. Kategoria 'Tenis stołowy' jest najbardziej szczegółową i idealnie pasującą kategorią-liściem z dostarczonego drzewa."
+    },
+    {
+        "ID_Produktu": "42952",
+        "Nazwa_Produktu": "Rakietka do pickleballa JOOLA Seneca FDS 14",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis stołowy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Padel",
+        "Finalne_ID_AI": 5031,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "88%",
+        "Uzasadnienie_AI": "Produkt to rakietka do pickleballa, która jest rodzajem rakiety (paletki) używanej w sporcie przypominającym tenis. Spośród dostępnych kategorii-liści w drzewie, 'Padel' jest najbardziej zbliżoną kategorią, ponieważ padel jest również sportem rakietowym (paletkowym) i należy do grupy 'Tenis i pokrewne'. Choć to nie to samo, jest to najdokładniejsze dopasowanie pod względem rodzaju sprzętu i pokrewieństwa sportowego."
+    },
+    {
+        "ID_Produktu": "42968",
+        "Nazwa_Produktu": "Zestaw do pickleballa JOOLA Ben Johns Blue Lightning",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Samochody i pojazdy",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe",
+        "Finalne_ID_AI": 5032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw do pickleballa, który jest sportem rakietowym zbliżonym do tenisa. Najbardziej szczegółowa kategoria to 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne'. Ponieważ nie ma dedykowanej podkategorii dla pickleballa, 'Pozostałe' w ramach 'Tenis i pokrewne' jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "42969",
+        "Nazwa_Produktu": "Zestaw do pickleballa JOOLA Tundra",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Twarz > Pielęgnacja > Zestawy kosmetyków",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Pozostałe",
+        "Finalne_ID_AI": 5032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw do gry w pickleballa, który jest sportem rakietowym pokrewnym tenisowi, badmintonowi i squashowi. Najlepiej pasującą kategorią jest 'Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne', a ponieważ nie ma konkretnej kategorii dla pickleballa, wybieram podkategorię 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "43024",
+        "Nazwa_Produktu": "Odkurzacz basenowy BESTWAY Aqua Tech z drążkiem 150 cm - na baterie",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to odkurzacz basenowy, który idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Baseny'. Jest to najbardziej szczegółowa i precyzyjna kategoria dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "43027",
+        "Nazwa_Produktu": "Odkurzacz Robot Basenowy Bestway AquaTronix G100",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Odkurzacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Maszyny ogrodowe > Odkurzacze i dmuchawy",
+        "Finalne_ID_AI": 2871,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to robot-odkurzacz przeznaczony do czyszczenia basenów, które znajdują się w ogrodzie. Pasuje do kategorii 'Dom i Ogród', a następnie do 'Ogród' jako maszyna ogrodowa, która jest rodzajem odkurzacza do użytku zewnętrznego. 'Odkurzacze i dmuchawy' jest najbardziej szczegółową kategorią liść, która oddaje charakter produktu, lepiej niż ogólne 'Baseny' czy 'Odkurzacze' z AGD."
+    },
+    {
+        "ID_Produktu": "43028",
+        "Nazwa_Produktu": "Odkurzacz basenowy BESTWAY AquaSurge Stic - Akumulatorowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują, że jest to odkurzacz przeznaczony do czyszczenia basenów. Kategoria 'Baseny' jest najbardziej szczegółową i odpowiednią kategorią-liściem dla tego typu produktu."
     }
 ]

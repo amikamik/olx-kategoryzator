@@ -869,5 +869,68 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "16625",
+        "Nazwa_Produktu": "Mata do trampoliny MASTERJUMP SUPER 365 CM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Akcesoria treningowe > Maty",
+        "Finalne_ID_AI": 4346,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to 'mata do trampoliny', a trampoliny są często używane do aktywności fitness. Kategoria 'Maty' pod 'Akcesoria treningowe' jest najbardziej szczegółową i adekwatną kategorią-liściem, pomimo specyficznego przeznaczenia maty.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Mata do trampoliny masterjump super 365 cm",
+                "description": "Mata do trampoliny MASTERJUMP SUPER 365 cm jest odpowiednim dodatkiem w przypadkach, gdy występuje gwałtowne rozerwanie lub uszkodzenie oryginalnej maty. Wytrzymała i elastyczna mata do trampolin ogrodowych. Wykonana z wysokiej jakości materiału , który charakteryzuje się wysoką odpornością na uszkodzenia mechaniczne czy warunki atmosferyczne oraz wykazuje dużą wytrzymałość. Dane techniczne : Odporna na promieniowanie UV Dobre właściwości odbijania o wysokim odbiciu Mata do trampoliny MASTERJUMP SUPER 365 CM Wytrzymała i elastyczna mata Wykonana z wysokiej jakości materiału Na 72 sprężyny 2 lata gwarancji\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent: MASTER\nAdres: Provozn 5560/1b, 72200, Ostrava, CZ\nEmail: info(at)mastersport.cz\nTelefon: +420596633216\n----------------------------------------",
+                "category_id": 4346,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 620.31,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://najtanszy-sport.pl/images/zdjecia/trampoliny/akcesoria/MASTRMAT12S/MASTRMAT (1).jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
