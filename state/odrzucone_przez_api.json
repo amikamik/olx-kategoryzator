@@ -12773,5 +12773,215 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1002022",
+        "Nazwa_Produktu": "Półmisek z melaminy prostokątny 36x20.5cm wys. 3.8cm biały - Hendi 561508",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Półmiski",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Salaterki i półmiski",
+        "Finalne_ID_AI": 2157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nowoczesny półmisek (platter) wykonany z melaminy marki Hendi, przeznaczony do serwowania potraw. Nie jest to antyk ani stara ceramika, lecz współczesny element zastawy stołowej, co czyni kategorię 'Salaterki i półmiski' najbardziej adekwatną.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Półmisek z melaminy prostokątny 36x20.5cm wys. 3.8cm biały - hendi",
+                "description": "Numer producenta: 561508 Półmisek prostokątny - Wykonany z melaminy - Higieniczny, odporny na uderzenia - Bardzo lekki - Odporność na temperaturę od -20deg;C do 70deg;C - Nie można używać w kuchenkach mikrofalowych - Można myć w zmywarkach Parametry: - długość: 360mm - szerokość: 205mm - wysokość: 38mm W zestawie: - półmisek\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hendi Polska Sp. z o.o.\nAdres: Firmowa 12, 62-023, Robakowo, Polska\nEmail: witaj(at)hendi.com\nTelefon: +48616587000\n----------------------------------------",
+                "category_id": 2157,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 94.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/561508-polmisek-z-melaminy-prostokatny-36x20-5cm-wys-3-8cm-bialy-hendi-561508-hurtownia-sklep-cena-tanio.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/13/561508-3.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1016556",
+        "Nazwa_Produktu": "Adapter rozdzielacz USB Typ C Thunderbolt 3 czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Komputery > Akcesoria komputerowe > Kable i przejściówki",
+        "Finalna_Sciezka_AI": "Elektronika > Komputery > Akcesoria komputerowe > Kable i przejściówki",
+        "Finalne_ID_AI": 3095,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to adapter wideo (przejściówka) USB Typ C Thunderbolt 3 na DisplayPort, co klasyfikuje go jednoznacznie jako akcesorium komputerowe w podkategorii Kable i przejściówki.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Adapter rozdzielacz usb typ c thunderbolt 3 czarny",
+                "description": "Kod produktu: 1016556 Choetech adapter przejściówka rozdzielacz USB Typ C Thunderbolt 3 (40Gbps) - 2x DisplayPort 4K 60Hz czarny (HUB-D03) WAŻNE - Produkt kompatybilny wyłącznie z portem Thunderbolt 3 Cechy produktu: - Praktyczny adapter z wtyczką USB Typ C i dwoma złączami Display Port. Doskonałe akcesorium dla osób, które potrzebują połączyć komputer z monitorem przez wtyczkę DP. - Dla laptopa i smartfona - Przejściówka HUB-D03 świetnie sprawdzi się nie tylko w przypadku laptopów niewyposażonych w Display Port, ale również w parze z tabletem czy nawet smartfonem. - Bez dodatkowego oprogramowania - Gadżet działa w myśl zasady plug and play#8221;, więc nie wymaga instalacji dodatkowych programów. Wystarczy wpiąć go do portu USB Typ C i od razu można z niego korzystać. - Lekki, mały i niezwykle wytrzymały - Adapter niewiele waży i posiada kompaktowe wymiary, w związku z czym jego transport jest praktycznie bezproblemowy. Ponadto został wykonany z wysokiej jakości materiałów (aluminium + PVC), które sprawiają, że naprawdę trudno jest go uszkodzić. Specyfikacja: - Marka: Choetech - Nazwa: HUB-D03 - Materiał: Aluminium + PVC - Pełne wsparcie: Thunderbolt 3 - Wejście: USB Typ C - Wyjścia: Display Port 4K @ 60Hz W zestawie: - Adapter USB\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hurtel Sp. z o.o.\nAdres: Międzyrzecka 12, 65-127, Zielona Góra, Polska\nEmail: gpsr(at)hurtel.com\nTelefon: +48683000156\n----------------------------------------",
+                "category_id": 3095,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 387.34,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016556-1-adapter-rozdzielacz-usb-c-thunderbol-choetech-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016556-2-adapter-rozdzielacz-usb-c-thunderbol-choetech-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016556-3-adapter-rozdzielacz-usb-c-thunderbol-choetech-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016556-4-adapter-rozdzielacz-usb-c-thunderbol-choetech-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016556-5-adapter-rozdzielacz-usb-c-thunderbol-choetech-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1016708",
+        "Nazwa_Produktu": "Adapter HUB wielofunkcyjny z wyświetlaczem USB-C USB-A VGA AUX SD TF 12w1 szary",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Adaptery i przejściówki",
+        "Finalna_Sciezka_AI": "Elektronika > Komputery > Akcesoria komputerowe > Kable i przejściówki",
+        "Finalne_ID_AI": 3095,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjny HUB (adapter), który zgodnie z opisem dedykowany jest do komputerów stacjonarnych i laptopów w celu rozszerzenia liczby dostępnych portów. Najbardziej precyzyjną kategorią dla tego typu osprzętu komputerowego jest Elektronika > Komputery > Akcesoria komputerowe > Kable i przejściówki.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Adapter hub wielofunkcyjny z wyświetlaczem usb-c usb-a vga aux sd tf",
+                "description": "Kod produktu: 1016708 Choetech HUB wielofunkcyjny z wyświetlaczem 12w1 USB-C do 1xUSB-C/4xUSB-A/2xHDMI/1xVGA/1xAUX/czytnik kart pamięci szary (HUB-M26) Czy korzystając z komputera stacjonarnego lub laptopa, zdarzyło Ci się, że zabrakło wolnych portów do podpięcia kolejnych urządzeń? Mała ilość standardowych złączy USB może być frustrująca. HUB-M26 od Choetech rozwiąże nie tylko ten problem. Wielofunkcyjny HUB to również szereg innych wygodnych rozwiązań, mających za zadanie ułatwić pracę przy z komputerze Jego najważniejsze cechy to: - Klonowanie / rozszerzanie obrazu (rozszerzanie obrazu nie działa w systemie MacOS) : - FullHD - do 4 wyświetlaczy - 4K - do 3 wyświetlaczy - Miernik prądu - bieżące parametry prądu przepływającego przez HUB (moc, napięcie, natężenie) - Karta sieciowa - złącze Ethernet LAN - Obsługa wielu urządzeń peryferyjnych np. myszki, klawiatury, zewnętrzne nośniki danych (flash, HDD, SSD) Specyfikacja: - Marka: Choetech - Model: HUB-M26 - Materiał: aluminium - Wsparcie dla systemów: Windows 7, 8, 10, 11; MacOS - Porty: Jack 3,5mm USB-C - 5Gb/s; 100W 2 x HDMI - 4K@60Hz SD - 104 Mb/s TF - 104 Mb/s VGA - 1080p@60Hz Ethernet RJ-45 - 1Gb/s 2 x USB 2.0 - 480 Mb/s 2 x USB 3.0 - 5 Gb/s; 5V / 1,5A Ciekawy wygląd i szybkie ładowanie HUB ma nie tylko ciekawy design i świetną jakość wykonania. Przykuwa uwagę, jednak przede wszystkim jest wysoce funkcjonalny. Nie musisz się już martwić, że braknie Ci miejsca do podłączenia jakiegokolwiek dodatkowego sprzętu np. w celu przeniesienia danych. Dla Twojej wygody w górnej części zamontowane zostało podświetlenie informujące o pracy urządzenia. Szereg możliwości Gadżet od marki Choetech pozwoli Ci na w pełni swobodną pracę lub zabawę. Wszystko dzięki dużej liczbie dostępnych portów oraz gniazd. Nowe laptopy często nie mają gniazda RJ45, które dla graczy jest dość istotnym elementem. Dzięki HUBowi Choetech nie musisz się martwić jego brakiem. Dodatkowo znajdziesz w nim czytnik kard SD oraz TF.\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Hurtel Sp. z o.o.\nAdres: Międzyrzecka 12, 65-127, Zielona Góra, Polska\nEmail: gpsr(at)hurtel.com\nTelefon: +48683000156\n----------------------------------------",
+                "category_id": 3095,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 268.05,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016708-1-adapter-hub-wielofunkcyjny-z-wyswietlacz-choetech-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016708-2-adapter-hub-wielofunkcyjny-z-wyswietlacz-choetech-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016708-3-adapter-hub-wielofunkcyjny-z-wyswietlacz-choetech-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016708-4-adapter-hub-wielofunkcyjny-z-wyswietlacz-choetech-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016708-5-adapter-hub-wielofunkcyjny-z-wyswietlacz-choetech-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016708-6-adapter-hub-wielofunkcyjny-z-wyswietlacz-choetech-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016708-7-adapter-hub-wielofunkcyjny-z-wyswietlacz-choetech-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1016708-8-adapter-hub-wielofunkcyjny-z-wyswietlacz-choetech-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
