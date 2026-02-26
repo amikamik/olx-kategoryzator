@@ -1576,5 +1576,148 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "1019214",
+        "Nazwa_Produktu": "Długopis rysik do ekranów dotykowych tabletu smartfona czarny",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Komputery > Tablety > Akcesoria",
+        "Finalne_ID_AI": 2192,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rysik (stylus) przeznaczony do urządzeń z ekranem dotykowym (tablety, smartfony). W strukturze OLX akcesoria do tabletów są najbardziej precyzyjną kategorią dla tego typu osprzętu elektronicznego, mimo dodatkowej funkcji tradycyjnego długopisu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1019215",
+        "Nazwa_Produktu": "Magnetyczny uchwyt samochodowy na deskę rozdzielczą Bullet An On-board czarny",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalne_ID_AI": 2915,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to magnetyczny uchwyt przeznaczony do montażu telefonu w aucie. Najbardziej precyzyjną kategorią dla akcesoriów tego typu (akcesoria GSM) na platformie OLX jest ścieżka Elektronika > Telefony > Akcesoria > Uchwyty.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1019218",
+        "Nazwa_Produktu": "Kabel przewód do Iphone sprężynowy USB - Lightning Fish Eye 1m czarny",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria > Kable",
+        "Finalne_ID_AI": 2912,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kabel USB - Lightning przeznaczony do telefonów marki iPhone. Najbardziej precyzyjną kategorią dla tego typu akcesoriów jest ścieżka: Elektronika > Telefony > Akcesoria > Kable.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1019219",
+        "Nazwa_Produktu": "Mini ładowarka samochodowa do telefonu 2x USB Grain Car Charger czarny",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria > Ładowarki",
+        "Finalne_ID_AI": 2913,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ładowarka USB przeznaczona głównie do ładowania telefonów. Najbardziej precyzyjną kategorią w drzewie jest Elektronika > Telefony > Akcesoria > Ładowarki (ID: 2913), która bezpośrednio opisuje funkcję urządzenia.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1019220",
+        "Nazwa_Produktu": "Mini ładowarka samochodowa do telefonu 2x USB Grain Car Charger biały",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria > Ładowarki",
+        "Finalne_ID_AI": 2913,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to ładowarka do telefonu zasilana z gniazda zapalniczki samochodowej. Zgodnie z hierarchią OLX, akcesoria przeznaczone bezpośrednio do urządzeń mobilnych, takie jak ładowarki (nawet te samochodowe), kategoryzuje się w sekcji Elektronika > Telefony > Akcesoria > Ładowarki.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1019221",
+        "Nazwa_Produktu": "Wytrzymały nylonowy kabel przewód USB - USB-C QC3.0 3A 0.5M czarno-czerwony",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria > Kable",
+        "Finalne_ID_AI": 2912,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kabel USB-C przeznaczony do ładowania smartfonów i tabletów oraz transferu danych, co idealnie pasuje do kategorii Elektronika > Telefony > Akcesoria > Kable.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1019222",
+        "Nazwa_Produktu": "Audio Converter L41 adapter przejściówka ze złącza USB-C na port USB-C + Jack 3.5 mm czarny",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria > Adaptery i przejściówki",
+        "Finalne_ID_AI": 2907,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest adapterem (przejściówką) przeznaczonym do smartfonów bez wejścia Jack 3.5 mm, co jednoznacznie klasyfikuje go w kategorii Elektronika > Telefony > Akcesoria > Adaptery i przejściówki.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1019224",
+        "Nazwa_Produktu": "Inteligentna ładowarka samochodowa Square 2x USB QC3.0 Quick Charge 3.0 SCP AFC 30W czarny",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria > Ładowarki",
+        "Finalne_ID_AI": 2913,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ładowarka USB obsługująca standardy szybkiego ładowania (QC 3.0, SCP, AFC), przeznaczona do zasilania urządzeń mobilnych. Najbardziej specyficzną kategorią dla tego typu akcesoriów na platformie OLX jest Elektronika > Telefony > Akcesoria > Ładowarki.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1019225",
+        "Nazwa_Produktu": "Inteligentna ładowarka samochodowa Circular 2x USB QC3.0 Quick Charge 3.0 SCP AFC 30W czarny",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria > Ładowarki",
+        "Finalne_ID_AI": 2913,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ładowarka samochodowa USB służąca do zasilania urządzeń mobilnych (telefonów), dlatego kategoria 'Ładowarki' w sekcji akcesoriów telefonicznych jest najbardziej precyzyjnym wyborem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1019232",
+        "Nazwa_Produktu": "Adapter do słuchawek przejściówka L54 z USB-C na gniazdo audio jack 3.5mm DAC czarny",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria > Adaptery i przejściówki",
+        "Finalne_ID_AI": 2907,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to przejściówka audio (USB-C do Jack 3.5mm) dedykowana do smartfonów, co idealnie wpisuje się w kategorię Elektronika > Telefony > Akcesoria > Adaptery i przejściówki.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "1019233",
+        "Nazwa_Produktu": "Mini ładowarka samochodowa inteligentna Tiny Star USB 30W Quick Charge szary",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria > Ładowarki",
+        "Finalne_ID_AI": 2913,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ładowarka USB przeznaczona do zasilania urządzeń mobilnych (smartfony, tablety). W strukturze kategorii OLX najbardziej precyzyjną kategorią końcową (liściem) dla tego typu akcesoriów jest ID 2913 (Ładowarki) znajdujące się w sekcji akcesoriów telefonicznych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]

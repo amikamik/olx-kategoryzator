@@ -13474,5 +13474,63 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1019201",
+        "Nazwa_Produktu": "Odporna wytrzymała taca poliestrowa CAMBRO Versa 37x53cm - szara granit",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Tace i stoliki",
+        "Finalne_ID_AI": 2135,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taca poliestrowa przeznaczona do serwowania posiłków. Kategoria 'Tace i stoliki' (ID 2135) w sekcji przyborów kuchennych jest najbardziej precyzyjnym dopasowaniem dla tego przedmiotu, mimo jego profesjonalnego przeznaczenia gastronomicznego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Odporna wytrzymała taca poliestrowa cambro versa 37x53cm - szara",
+                "description": "Kod producenta: GZ3980A83 Taca poliestrowa Versa z płaskim rantem marki Cambro sprawdzi się w każdym lokalu gastronomicznym, szczególnie w samoobsługowych restauracjach i stołówkach, gdzie wymagana jest wysoka wytrzymałość w warunkach intensywnego użytkowania. Została wykonana z poliestru wzmocnionego włóknem szklanym, dzięki czemu jest odporna na zadrapania, zaplamienia i działanie środków chemicznych. Można na niej przenosić zimne i gorące napoje, dzięki dużej wytrzymałości termicznej - 40#8451; - 140#8451;. Cechy produktu: - Wytrzymała, wykonana z poliestru wzmocnionego włóknem szklanym, - Wysoka odporność na działanie środków chemicznych i uszkodzenia mechaniczne, - Odpowiednia do przenoszenia potraw gorących i zimnych, - Łatwe suszenie i składowanie w stosach, - Nadaje się do mycia w zmywarkach. Parametry techniczne: - Nr katalogowy - GZ3980A83 - Stan artykułu - Nowy - Kolor - Granitowy - Wymiary - 370x530 mm W zestawie: - Taca poliestrowa CAMBRO Versa\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: EXPONDO POLSKA SP. Z O.O. SP. K.\nAdres: Dekoracyjna 3, 65-155, Zielona Góra, Polska\nEmail: info(at)expondo.pl\nTelefon: +48688881008\n----------------------------------------",
+                "category_id": 2135,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 33.69,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/131/gz3980a83-odporna-wytrzymala-taca-poliestrowa-cambro-versa-ean -4004644016836-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "images.url",
+                            "title": "Ta wartość nie jest prawidłowym adresem URL.",
+                            "detail": "This value is not a valid URL."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
