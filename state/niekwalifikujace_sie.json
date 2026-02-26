@@ -14518,5 +14518,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to pokrywa do skrzyniopalety o pojemności 500L. Skrzyniopalety pełnią funkcję dużych pojemników/zbiorników, często wykorzystywanych w rolnictwie do przechowywania i transportu płodów rolnych. Kategoria 'Rolnictwo > Zbiorniki' jest najbardziej szczegółowym i adekwatnym wyborem, zgodnie z przeznaczeniem produktu i wskazówką systemową."
+    },
+    {
+        "ID_Produktu": "1000006",
+        "Nazwa_Produktu": "Frytownica gastronomiczna nastawna elektryczna - 10 l 3200 W",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Frytownice",
+        "Finalne_ID_AI": 5042,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest jednoznacznie opisany jako 'frytownica gastronomiczna'. W drzewie kategorii istnieje dedykowana, liściasta kategoria 'Firma i Przemysł > Gastronomia > Frytownice', która jest najbardziej szczegółowym i precyzyjnym wyborem, znacznie lepszym niż ogólniejsza podpowiedź systemu."
     }
 ]
