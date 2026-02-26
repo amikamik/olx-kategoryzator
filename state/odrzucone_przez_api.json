@@ -12983,5 +12983,81 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1017790",
+        "Nazwa_Produktu": "Podstawki nóżki do laptopa przyklejane składane 2szt. szary",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Komputery > Akcesoria komputerowe > Podkładki i stojaki",
+        "Finalna_Sciezka_AI": "Elektronika > Komputery > Akcesoria komputerowe > Podkładki i stojaki",
+        "Finalne_ID_AI": 2170,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ergonomiczne akcesorium do laptopa (podstawka/nóżki), które bezpośrednio wpisuje się w definicję podkładek i stojaków komputerowych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Podstawki nóżki do laptopa przyklejane składane 2szt. szary",
+                "description": "Kod produktu: 1017790 Uniwersalne podstawki nóżki do laptopa znanej i cenionej marki Baseus przyda się każdemu użytkownikowi laptopa. Zestaw lekkich i kompaktowych samoprzylepnych podstawek pozwala na korzystanie z urządzenia w wygodny sposób w każdych warunkach - wystarczy je przykleić i rozłożyć. Najważniejsze cechy - Dzięki samoprzylepnej podstawce Baseus, nie będziesz musiał już zabierać ze sobą dodatkowych akcesoriów w podróż, - Produkt został wykonany ze stopu cynk, trwałego a zarazem lekkiego, dzięki czemu nie będzie odczuwalny w trakcie podróży., Specyfikacja: Marka: Baseus Materiał: Stop cynku Kompatybilność: laptopy w każdym rozmiarze Waga: 30g Wymiary: 58 x 30 x 5,5mm (złożony) Zestaw zawiera: - 2x podstawka / nózki do laptopa\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Apex CE Specialists GmbH\nAdres: Grafenberger Allee 277, 40237, Dsseldorf, Niemcy\nEmail: Info(at)apex-ce.de\nTelefon: +4921312066043\n----------------------------------------",
+                "category_id": 2170,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 48.35,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1017790-1-podstawki-nozki-do-laptopa-przyklejane-s-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1017790-2-podstawki-nozki-do-laptopa-przyklejane-s-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1017790-3-podstawki-nozki-do-laptopa-przyklejane-s-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1017790-4-podstawki-nozki-do-laptopa-przyklejane-s-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1017790-5-podstawki-nozki-do-laptopa-przyklejane-s-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1017790-6-podstawki-nozki-do-laptopa-przyklejane-s-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1017790-7-podstawki-nozki-do-laptopa-przyklejane-s-baseus-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1017790-8-podstawki-nozki-do-laptopa-przyklejane-s-baseus-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Could not fetch image, Could not fetch image, Could not fetch image, Could not fetch image, Could not fetch image, Could not fetch image, Could not fetch image, Could not fetch image"
+                }
+            }
+        }
     }
 ]

@@ -14788,5 +14788,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalna witrynka bufetowa marki Hendi, przeznaczona do ekspozycji żywności w branży gastronomicznej. Posiada dedykowaną funkcję chłodzenia (wkładami żelowymi), co klasyfikuje ją bezpośrednio do kategorii 'Lady i witryny chłodnicze' w sekcji Gastronomia."
+    },
+    {
+        "ID_Produktu": "1017329",
+        "Nazwa_Produktu": "Krzesło kosmetyczne na kółkach Physa ANDRIA - białe",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Krzesła",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Taborety kosmetyczne",
+        "Finalne_ID_AI": 5109,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to wyspecjalizowany mebel profesjonalny przeznaczony do pracy w salonach kosmetycznych i fryzjerskich. Najdokładniej pasuje do kategorii Taborety kosmetyczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "1017400",
+        "Nazwa_Produktu": "Obrzeże siedzisko ławka do jacuzzi kwadratowego dmuchana 110 x 40 x 43 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Ławki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest dmuchanym podestem/siedziskiem zaprojektowanym specjalnie jako akcesorium do jacuzzi. W drzewie kategorii OLX, specjalistyczne akcesoria basenowe oraz same zbiorniki (baseny, jacuzzi) najlepiej pasują do kategorii 'Baseny'."
+    },
+    {
+        "ID_Produktu": "1017543",
+        "Nazwa_Produktu": "Zestaw naprawczy PDR do usuwania wgnieceń w karoserii - 5 prętów",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Zestaw prętów PDR to specjalistyczne narzędzie przeznaczone do napraw blacharskich karoserii. Zgodnie z przeznaczeniem produktu (naprawa nadwozia), najlepiej pasuje on do kategorii narzędzi warsztatowych w sekcji Firma i Przemysł, stanowiącej wyposażenie profesjonalnych serwisów motoryzacyjnych."
+    },
+    {
+        "ID_Produktu": "1017565",
+        "Nazwa_Produktu": "Plandeka płachta ochronna okryciowa z oczkami PVC 650 g/m2 500 x 400 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to uniwersalna plandeka ochronna do zastosowań zewnętrznych (ogród, budowa, rolnictwo). W strukturze OLX plandeki najczęściej przypisywane są do kategorii 'Pozostałe Ogród' (1641), gdyż służą do zabezpieczania drewna, basenów i mebli ogrodowych, co jest najczęstszym zastosowaniem konsumenckim."
     }
 ]
