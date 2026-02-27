@@ -1,1 +1,42 @@
-﻿{}
+[
+    {
+        "ID_Produktu": "242631575",
+        "Nazwa_Produktu": "Woreczki strunowe 15x25cm 40mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Woreczki strunowe o podanej specyfikacji technicznej (materiał LDPE, grubość 40 mikronów) oraz ilości hurtowej (100 szt.) są klasyfikowane jako materiały opakowaniowe. W drzewie kategorii OLX materiały do pakowania i akcesoria dla handlu/magazynu najlepiej pasują do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242631582",
+        "Nazwa_Produktu": "Cena na butelkę laminowana 1szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to akcesorium handlowe (cenówka/etykieta na butelkę) służące do ekspozycji cen w punktach sprzedaży. Najlepiej pasuje do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe, ponieważ jest to element profesjonalnego wyposażenia sklepu."
+    },
+    {
+        "ID_Produktu": "242631587",
+        "Nazwa_Produktu": "Dozownik do serwetek Ellis Napkins N4",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Serwety i serwetki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny dyspenser (dozownik) do serwetek gastronomicznych (system N4), przeznaczony głównie do użytku w restauracjach i barach. Choć może być używany w domu, jego specyfikacja i dedykowany system materiałów eksploatacyjnych wskazują na wyposażenie profesjonalnej gastronomii."
+    },
+    {
+        "ID_Produktu": "242631592",
+        "Nazwa_Produktu": "Folia STRETCH 50 cm bezbarwna 2,5kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Folia stretch o wadze 2,5kg i przeznaczeniu do paletowania towarów jest typowym materiałem eksploatacyjnym stosowanym w logistyce i magazynowaniu, co odpowiada ścieżce Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    }
+]
