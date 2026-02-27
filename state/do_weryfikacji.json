@@ -1742,5 +1742,18 @@
         "api_error": {
             "error": "Błąd pobierania atrybutów z OLX API."
         }
+    },
+    {
+        "ID_Produktu": "1020542",
+        "Nazwa_Produktu": "Słuchawki douszne X3C ze złączem USB-C biały",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt audio > Słuchawki > Słuchawki przewodowe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt audio > Słuchawki > Słuchawki przewodowe",
+        "Finalne_ID_AI": 1975,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu wyraźnie wskazują na 'Słuchawki douszne' i 'Przewodowe słuchawki', co idealnie pasuje do kategorii-liścia 'Słuchawki przewodowe' w drzewie 'Elektronika > Sprzęt audio > Słuchawki'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]
