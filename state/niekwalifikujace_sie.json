@@ -15108,5 +15108,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to automatyczna klapa drzwi do kurnika, która służy do ochrony i automatyzacji opieki nad drobiem. Najlepiej pasującą kategorią, odzwierciedlającą jego funkcję jako urządzenia wspomagającego hodowlę zwierząt, jest 'Maszyny dla hodowli zwierząt' pod nadrzędnymi kategoriami 'Rolnictwo' i 'Maszyny rolnicze'."
+    },
+    {
+        "ID_Produktu": "1015900",
+        "Nazwa_Produktu": "Pistolet wędzarniczy generator dymu 3 prędkości - Hendi 199640",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Elektronarzędzia > Pistolety",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pistolet wędzarniczy do nadawania aromatu potrawom. Marka Hendi wskazuje na zastosowania gastronomiczne. Najbardziej pasującą kategorią jest 'Firma i Przemysł > Gastronomia', a ponieważ nie ma bardziej szczegółowej kategorii dla tego typu urządzenia, wybieram 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "1016022",
+        "Nazwa_Produktu": "Myjka warsztatowa do narzędzi części samochodowych z pędzlem 20 l 3.3 l/min",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Myjki ciśnieniowe",
+        "Finalne_ID_AI": 5121,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to myjka warsztatowa, przeznaczona do czyszczenia narzędzi i części samochodowych. Chociaż nazwa nie zawiera słowa 'ciśnieniowa', opis wspomina o 'silnym strumieniu', co sugeruje funkcjonalność zbliżoną do myjki ciśnieniowej. Kategoria 'Myjki ciśnieniowe' (5121) jest najbardziej szczegółową i najlepiej pasującą opcją dla tego typu urządzenia czyszczącego w drzewie kategorii, zwłaszcza że znajduje się pod ogólną kategorią 'Narzędzia'."
+    },
+    {
+        "ID_Produktu": "1016125",
+        "Nazwa_Produktu": "Podkład kwadratowy stabilizacyjny pod stopy dźwigu żurawia 30 x 30 cm do 7000 kg zestaw 4 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stabilizacyjne podkłady pod stopy ciężkiego sprzętu budowlanego i przemysłowego (dźwigi, koparki, ciężarówki). Najlepiej pasuje do kategorii 'Firma i Przemysł', a następnie do bardzo precyzyjnej kategorii 'Części do maszyn i urządzeń', ponieważ podkład jest akcesorium/częścią wspomagającą działanie tych maszyn."
+    },
+    {
+        "ID_Produktu": "1016245",
+        "Nazwa_Produktu": "Parasol ogrodowy na wysięgniku kwadratowy 250 x 250 cm bordowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Meble ogrodowe > Parasole ogrodowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Parasole ogrodowe",
+        "Finalne_ID_AI": 2892,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu i opis jednoznacznie wskazują na 'Parasol ogrodowy', co idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Meble ogrodowe > Parasole ogrodowe', która jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "1016732",
+        "Nazwa_Produktu": "Półka ścienna wisząca gastronomiczna podwójna z regulacją STAL 120 x 40 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako 'półka ścienna wisząca gastronomiczna', co wskazuje na przeznaczenie profesjonalne lub komercyjne. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do tego typu produktu. Ponieważ nie ma bardziej szczegółowej kategorii dla półek w sekcji 'Gastronomia', 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "1016793",
+        "Nazwa_Produktu": "Wózek transportowy podwójny na 2 deski SUP",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wózki paletowe i paleciaki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > SUP > Akcesoria",
+        "Finalne_ID_AI": 5009,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to wózek transportowy przeznaczony specjalnie do desek SUP, które są sprzętem do sportów wodnych. Najbardziej szczegółowa kategoria to Sport i Hobby > Sporty wodne > SUP > Akcesoria."
     }
 ]
