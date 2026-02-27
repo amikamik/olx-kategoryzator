@@ -798,5 +798,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to jednorazowe opakowania cukiernicze wykonane z tworzywa OPS, sprzedawane w ilościach hurtowych (kartony) i objęte opłatą SUP (Single Use Plastics). Ze względu na profesjonalne przeznaczenie do pakowania i transportu wyrobów cukierniczych, najlepiej pasuje do kategorii pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242632474",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 14x26/4 cm 6mic 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to woreczki HDPE w ilości hurtowej (1000 sztuk), przeznaczone do użytku komercyjnego w sklepach, piekarniach i cukierniach. Najlepiej pasuje do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe, gdyż stanowią one materiały eksploatacyjne niezbędne do funkcjonowania punktów sprzedaży detalicznej."
+    },
+    {
+        "ID_Produktu": "242632480",
+        "Nazwa_Produktu": "Pojemnik na ciasto 241x170mm F40 OPS 10szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia",
+        "Finalne_ID_AI": 5035,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne opakowanie jednorazowe z tworzywa OPS przeznaczone dla branży cukierniczej. Informacje o opłacie SUP oraz zakupie do odsprzedaży jednoznacznie wskazują na przeznaczenie dla sektora Gastronomia w kategorii Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242632487",
+        "Nazwa_Produktu": "Uniwersalne uchwyty kierownica motocykla 7/8 22mm",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części motocyklowe",
+        "Finalne_ID_AI": 1335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uchwyty (gripy) przeznaczone do kierownicy motocykla, co jednoznacznie wskazuje na kategorię części motocyklowe (ID 1335), która jest kategorią-liściem."
     }
 ]
