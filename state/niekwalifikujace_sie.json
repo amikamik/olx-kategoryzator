@@ -1038,5 +1038,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to jednorazowa tacka przeznaczona do serwowania frytek i dań typu fast food w punktach gastronomicznych. Jest to opakowanie dla gastronomii, co jednoznacznie kwalifikuje go do kategorii 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242632644",
+        "Nazwa_Produktu": "Reklamówka 30x55 HDPE biała 14 mic 120 szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to reklamówki sprzedawane hurtowo, z wyraźnym przeznaczeniem dla sklepów, co jest wskazane w opisie. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' idealnie pasuje do wyposażenia i materiałów eksploatacyjnych dla punktów handlowych."
+    },
+    {
+        "ID_Produktu": "242632656",
+        "Nazwa_Produktu": "Torebka papierowa 44x10/4 szara 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hurtowa ilość torebek papierowych przeznaczonych do pakowania żywności w punktach sprzedaży, takich jak sklepy spożywcze, piekarnie i cukiernie. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej adekwatna. W braku bardziej szczegółowej podkategorii dla opakowań, 'Pozostałe' jest właściwym wyborem."
+    },
+    {
+        "ID_Produktu": "242632666",
+        "Nazwa_Produktu": "Woreczki strunowe 7x10cm 40mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242632672",
+        "Nazwa_Produktu": "Woreczki strunowe 10x12cm 40mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
