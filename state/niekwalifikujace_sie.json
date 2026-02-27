@@ -15028,5 +15028,85 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest profesjonalnym meblem przeznaczonym do zabiegów pedicure. W drzewie kategorii OLX najbardziej trafną i szczegółową kategorią-liściem dla mebli służących do tego konkretnego zabiegu jest 'Fotele do pedicure', mimo że produkt jest podnóżkiem, a nie pełnym fotelem."
+    },
+    {
+        "ID_Produktu": "1000950",
+        "Nazwa_Produktu": "Tarcza do wiórków 7mm - Hendi 280317",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria barmańskie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tarcza do szatkownicy, czyli część maszyny. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' jest najbardziej precyzyjna i szczegółowa, idealnie oddając charakter produktu jako komponentu do profesjonalnego urządzenia."
+    },
+    {
+        "ID_Produktu": "1011918",
+        "Nazwa_Produktu": "Wózek serwisowy z półkami uchwytem na mopa i torbą na pranie + pokrywa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na pranie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny wózek do sprzątania przeznaczony do użytku komercyjnego (szkoły, hotele, biurowce), co kwalifikuje go do kategorii 'Firma i Przemysł'. Jako specjalistyczne wyposażenie do czyszczenia, najlepiej pasuje do podkategorii 'Maszyny i urządzenia' a następnie do 'Sprzęt czyszczący'. Ponieważ nie jest to odkurzacz, szorowarka ani zamiatarka, najdokładniejszą kategorią jest 'Pozostałe' w ramach sprzętu czyszczącego."
+    },
+    {
+        "ID_Produktu": "1015108",
+        "Nazwa_Produktu": "Wciągarka wyciągarka łańcuchowa wciągnik łańcuchowy 2000 kg / 6 m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł > Wciągarki",
+        "Finalne_ID_AI": 4865,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to wciągarka łańcuchowa o dużej nośności (2000 kg), przeznaczona do zastosowań w warsztatach, fabrykach i na placach budowy, co jednoznacznie wskazuje na kategorię przemysłową. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Przemysł > Wciągarki' jest najbardziej szczegółowa i najlepiej odpowiada specyfice produktu."
+    },
+    {
+        "ID_Produktu": "1015111",
+        "Nazwa_Produktu": "Wciągarka wyciągarka łańcuchowa wciągnik łańcuchowy 2000 kg / 5 m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Wciągarki",
+        "Finalne_ID_AI": 4792,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu jednoznacznie wskazuje na 'Wciągarka/wyciągarka łańcuchowa', co doskonale pasuje do kategorii 'Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Wciągarki'. Opis produktu również wspomina o zastosowaniu na 'placach budowy' i 'wysokiej przemysłowej jakości', co potwierdza przemysłowy charakter produktu i idealnie wpasowuje się w tę specjalistyczną kategorię. Kategoria z podpowiedzi była zbyt ogólna dla tak specyficznego i ciężkiego narzędzia."
+    },
+    {
+        "ID_Produktu": "1015321",
+        "Nazwa_Produktu": "Podgrzewacz do potraw stołowy okrągły na pastę z pokrywą śr. 39 cm 5.8 l",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Podgrzewacze",
+        "Finalne_ID_AI": 5059,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to podgrzewacz do potraw przeznaczony do bufetów hotelowych i cateringu, co wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Podgrzewacze' jest najbardziej szczegółowa i najlepiej pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "1015423",
+        "Nazwa_Produktu": "Waga pocztowa do paczek listów LCD 15 kg / 0.5 g",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to waga pocztowa przeznaczona do ważenia paczek i listów, idealna do urzędów i biur. Kategoria 'Wagi' (ID: 4679) pod 'Firma i Przemysł > Sklepy i magazyny' jest najdokładniejszym i najbardziej szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1015523",
+        "Nazwa_Produktu": "Bemar podgrzewacz elektryczny z kranem do pojemników GN 1/1 600 W",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Bemary",
+        "Finalne_ID_AI": 5039,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu zawiera słowo \"Bemar\", a opis jasno wskazuje na zastosowanie gastronomiczne i profesjonalne urządzenia do podgrzewania potraw, co idealnie pasuje do kategorii \"Firma i Przemysł > Gastronomia > Bemary\"."
+    },
+    {
+        "ID_Produktu": "1015648",
+        "Nazwa_Produktu": "Automatyczna klapa drzwi do kurnika z czujnikiem światła zasilaniem bateryjnym LCD",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Akcesoria i osprzęt > Czujniki",
+        "Finalna_Sciezka_AI": "Rolnictwo > Maszyny rolnicze > Maszyny dla hodowli zwierząt",
+        "Finalne_ID_AI": 3592,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to automatyczna klapa drzwi do kurnika, która służy do ochrony i automatyzacji opieki nad drobiem. Najlepiej pasującą kategorią, odzwierciedlającą jego funkcję jako urządzenia wspomagającego hodowlę zwierząt, jest 'Maszyny dla hodowli zwierząt' pod nadrzędnymi kategoriami 'Rolnictwo' i 'Maszyny rolnicze'."
     }
 ]
