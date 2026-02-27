@@ -172,5 +172,62 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242631963",
+        "Nazwa_Produktu": "Ściereczka colors extra large Vileda 4szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy",
+        "Finalne_ID_AI": 2131,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ściereczki z mikrofibry przeznaczone do sprzątania domowego. W drzewie kategorii OLX najbardziej precyzyjną kategorią-liściem dla tego typu asortymentu jest 'Ścierki, rękawice i fartuchy' znajdująca się w sekcji przyborów kuchennych i wyposażenia wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Ściereczka colors extra large vileda 4szt.",
+                "description": "Ściereczka colors extra large Vileda 4szt. Ściereczka Vileda Microfibre Colors Extra Large XL 4 szt. Na mokro lub na sucho. Nowa ścierka Style sprawi, że sprzątanie będzie jeszcze łatwiejsze i efektywniejsze, a wszystko to bez użycia dodatkowych detergentów. Komplet zawiera 4 ściereczki w różnych kolorach : turkusowym pomarańczowym różowym zielonym. Ściereczki z mikrofibry do wszelkich zastosowań domowych : bardzo chłonne nie trzeba używać środków chemicznych. Skład: 80% poliester 20% poliamid. Wymiary : 36 x 38 cm. Cena za opakowanie 4 szt. Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2131,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 31.81,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/754b88b367c625a167143c1ea614ef01.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
