@@ -168,5 +168,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalne tekturowe opakowanie jednorazowe przeznaczone dla branży gastronomicznej (restauracje, bary, food trucki), dlatego najlepiej pasuje do kategorii Pojemniki gastronomiczne w sekcji Gastronomia."
+    },
+    {
+        "ID_Produktu": "242631775",
+        "Nazwa_Produktu": "Torba papierowa z uchem 26x17x26cm 250szt brąz",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to torby papierowe w ilości hurtowej (250 sztuk), przeznaczone do cateringu i handlu detalicznego. Najbardziej adekwatną kategorią dla wyposażenia punktów handlowych i materiałów opakowaniowych jest 'Firma i Przemysł > Sklepy i magazyny > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242631781",
+        "Nazwa_Produktu": "Opakowanie na wynos lunch box 1,6L 20x14x6 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe przeznaczone do użytku profesjonalnego w branży gastronomicznej (restauracje, bary, food trucki). Sprzedaż w ilościach hurtowych (zestaw 50 sztuk) oraz specyfika opisu wskazują na kategorię 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242631784",
+        "Nazwa_Produktu": "Szpilka do cenników 7cm metalowa 20szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Buty damskie > Szpilki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to akcesorium do ekspozycji cen (cenówek) w punktach handlowych, co klasyfikuje go jako wyposażenie sklepowe. Najbardziej trafną kategorią jest Sklepy i magazyny > Pozostałe w dziale Firma i Przemysł. Podpowiedź dotycząca obuwia jest błędna i wynika z homonimu słowa szpilka."
+    },
+    {
+        "ID_Produktu": "242631800",
+        "Nazwa_Produktu": "Rolka do kasy fiskalnej 57x30 termiczna 10szt Apak",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalne_ID_AI": 4672,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne, które są materiałem eksploatacyjnym przeznaczonym bezpośrednio do kas fiskalnych. W strukturze OLX akcesoria i materiały do specyficznych maszyn biznesowych najlepiej pasują do kategorii danego urządzenia (w tym przypadku 'Kasy fiskalne')."
     }
 ]
