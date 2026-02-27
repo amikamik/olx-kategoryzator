@@ -1078,5 +1078,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242632681",
+        "Nazwa_Produktu": "Serwetka gastronomiczna 33x33 czarna 250szt Clarin",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest jednoznacznie opisany jako \"serwetka gastronomiczna\" i przeznaczony do użytku w restauracjach, barach i kawiarniach. Wskazuje to na profesjonalne zastosowanie, co idealnie pasuje do kategorii \"Firma i Przemysł > Gastronomia\". W tej gałęzi nie ma bardziej szczegółowej podkategorii dla materiałów eksploatacyjnych, dlatego kategoria-liść \"Pozostałe\" jest najwłaściwszym wyborem."
+    },
+    {
+        "ID_Produktu": "242632700",
+        "Nazwa_Produktu": "Pokrywka do pojemnika 101mm F8099 OPS 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrywka do pojemnika na żywność, sprzedawana w dużych ilościach (50 sztuk, karton 1000 sztuk), co jednoznacznie wskazuje na przeznaczenie dla branży HoReCa. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatnym i szczegółowym wyborem."
+    },
+    {
+        "ID_Produktu": "242632727",
+        "Nazwa_Produktu": "Pokrywka do pojemnika 133mm F959 OPS 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
