@@ -1008,5 +1008,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to reklamówka przeznaczona do użytku w sklepach do pakowania produktów, co jest wyraźnie wskazane w opisie. Należy więc do kategorii 'Firma i Przemysł'. W tej gałęzi, podkategoria 'Sklepy i magazyny' jest najbardziej odpowiednia, a ponieważ nie ma bardziej szczegółowej kategorii dla materiałów eksploatacyjnych jak torby, 'Pozostałe' jest właściwym wyborem."
+    },
+    {
+        "ID_Produktu": "242632611",
+        "Nazwa_Produktu": "Torebka papierowa 15x10/5  szara 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242632614",
+        "Nazwa_Produktu": "Podkładka pod zapiekankę 10x25cm 500szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowa podkładka tekturowa do serwowania dań, sprzedawana w dużej ilości (500 sztuk). Opis wyraźnie wskazuje na jej przeznaczenie dla małej gastronomii, barów i food trucków. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i adekwatnym wyborem, odzwierciedlającym biznesowy charakter produktu."
+    },
+    {
+        "ID_Produktu": "242632626",
+        "Nazwa_Produktu": "Opakowanie tacka na frytki 9x6x3cm 100szt tacka pudełko",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowa tacka przeznaczona do serwowania frytek i dań typu fast food w punktach gastronomicznych. Jest to opakowanie dla gastronomii, co jednoznacznie kwalifikuje go do kategorii 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł'."
     }
 ]
