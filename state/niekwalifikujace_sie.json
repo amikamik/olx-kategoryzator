@@ -508,5 +508,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Folia stretch to materiał opakowaniowy wykorzystywany głównie w logistyce i magazynowaniu do zabezpieczania przesyłek paletowych, co czyni kategorię 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' najbardziej trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "242632062",
+        "Nazwa_Produktu": "Torebka papierowa 58x10/6  szara 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opakowania papierowe przeznaczone do użytku komercyjnego w handlu (piekarnie, cukiernie, sklepy spożywcze). Ze względu na charakter przedmiotu (zaopatrzenie punktów handlowych) oraz ilość hurtową (1000 sztuk), najlepiej pasuje do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242632066",
+        "Nazwa_Produktu": "Folia PVC rozciągliwa 35cm 1100mb. 1szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Figurki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to przemysłowa rolka folii PVC o długości 1100m, przeznaczona do użytku profesjonalnego w handlu i przemyśle spożywczym (piekarnie, zakłady mięsne). Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej odpowiednia dla materiałów do pakowania w skali hurtowej/biznesowej."
+    },
+    {
+        "ID_Produktu": "242632070",
+        "Nazwa_Produktu": "Folia PVC rozciągliwa 40cm 1100mb. 1szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Figurki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to folia PVC w rolce o długości przemysłowej (1100 mb), przeznaczona głównie do profesjonalnego pakowania żywności w sklepach, piekarniach i zakładach mięsnych. Najlepiej pasuje do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe, gdzie umieszczane są materiały eksploatacyjne i opakowaniowe dla biznesu."
+    },
+    {
+        "ID_Produktu": "242632072",
+        "Nazwa_Produktu": "Cena na rolce średnia 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to papierowe etykiety samoprzylepne na rolce, potocznie zwane cenówkami, które są standardowym materiałem eksploatacyjnym w handlu detalicznym (do metkownic). Najbardziej trafną kategorią dla profesjonalnego wyposażenia handlowego jest Firma i Przemysł > Sklepy i magazyny > Pozostałe."
     }
 ]
