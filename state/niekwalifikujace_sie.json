@@ -548,5 +548,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "92%",
         "Uzasadnienie_AI": "Produkt to papierowe etykiety samoprzylepne na rolce, potocznie zwane cenówkami, które są standardowym materiałem eksploatacyjnym w handlu detalicznym (do metkownic). Najbardziej trafną kategorią dla profesjonalnego wyposażenia handlowego jest Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242632093",
+        "Nazwa_Produktu": "Rolka do kasy fiskalnej 28x30 termiczna 10szt",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalne_ID_AI": 4672,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to materiał eksploatacyjny (papier termiczny) dedykowany do kas fiskalnych i terminali płatniczych. Najbardziej trafną kategorią dla wyposażenia sklepów w tym zakresie jest 'Kasy fiskalne' w sekcji 'Firma i Przemysł > Sklepy i magazyny'."
+    },
+    {
+        "ID_Produktu": "242632096",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 1,5L F339 OPS 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw 50 sztuk jednorazowych pojemników z tworzywa OPS, przeznaczonych do pakowania i transportu żywności. Obecność informacji o opłacie SUP (Single Use Plastics) oraz sprzedaż w pakietach hurtowych jednoznacznie wskazuje na kategorię profesjonalnego wyposażenia dla gastronomii w dziale Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242632149",
+        "Nazwa_Produktu": "Torebka papierowa 58x10/6 biała 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to hurtowe opakowanie torebek papierowych (1000 szt.) przeznaczonych do celów komercyjnych w handlu detalicznym (sklepy spożywcze, piekarnie). Ze względu na profesjonalny i masowy charakter przedmiotu, najlepiej pasuje on do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe."
     }
 ]
