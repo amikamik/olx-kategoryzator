@@ -498,5 +498,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to jednorazowe pojemniki z tworzywa sztucznego (PP) przeznaczone do transportu i przechowywania żywności (zupy, sałatki), sprzedawane w pakiecie hurtowym (50 szt.). Opis wyraźnie odnosi się do profesjonalnego zastosowania, wspominając o opłacie SUP (Single Use Plastics) oraz warunkach dalszej odsprzedaży, co kwalifikuje go do kategorii wyposażenia dla gastronomii w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242632050",
+        "Nazwa_Produktu": "Folia STRETCH 50 cm czarna 1,3kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Folia stretch to materiał opakowaniowy wykorzystywany głównie w logistyce i magazynowaniu do zabezpieczania przesyłek paletowych, co czyni kategorię 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' najbardziej trafnym wyborem."
     }
 ]

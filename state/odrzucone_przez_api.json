@@ -229,5 +229,62 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242632040",
+        "Nazwa_Produktu": "Wkład do mopa Ultramax Vileda 1 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wkład do mopa jest akcesorium do sprzątania, które w strukturze OLX najlepiej pasuje do kategorii 'Środki czyszczące' w dziale Supermarket, obejmującej produkty chemiczne i przybory do utrzymania czystości w domu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wkład do mopa ultramax vileda 1 szt",
+                "description": "Wkład do mopa Ultramax Vileda 1 szt. Wkład do mopa Ultramax, Ultramax Turbo, Ultramat, Spray. Czysta podłoga - suche dłonie. ULTRAMAX to zaawansowana technologia i wygoda użytkowania. Wyciskanie i wyżymanie mopa możliwe jest bez brudzenia i moczenia rąk. System 2w1 zapewnia czyszczenie białymi włóknami najdelikatniejszych powierzchni bez zarysowań, czerwone włókna odpowiadają za usuwanie najbardziej uporczywego brudu oraz wszelkich drobin. Nakładka posiada mikroaktywne włókna. Wyposażony został w białe włókna, które doskonale polerują powierzchnie bez smug i zarysowań Czerwone włókna wkładu stworzone zostały z myślą o sprawnym sprzątaniu uporczywego brudu i drobin, bez konieczności używania detergentów Wkład jest łatwy do założenia dzięki zestawowi czterech klipsów Nakładka mopa przeznaczona jest również do mycia podłóg drewnianych Wymiary wkładu: 35 x 14 cm Wkład pasuje do mopa płaskiego ULTRAMAX, zestawu ULTRAMAX, mopa obrotowego ULTRAMAX Turbo, mopa ze sprayem ULTRAMAX 1-2 Spray. Cena za 1 szt. EAN: 4023103201262 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Maksymalna temperatura prania to 60C. Nie suszyć w suszarce bębnowej i nie prasować. Nie prać chemicznie i nie stosować wybielaczy czy płynów zmiękczających. Należy unikać kontaktu z ostrymi przedmiotami.\n\n[DEAL-BLB2B]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 53.69,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/d89f3f8506b982081c57b79f16f4aa62.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
