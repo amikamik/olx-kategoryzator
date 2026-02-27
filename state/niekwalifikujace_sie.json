@@ -608,5 +608,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to materiały eksploatacyjne (rolki termiczne) przeznaczone bezpośrednio do kas fiskalnych. Wybrana kategoria 'Kasy fiskalne' w sekcji 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej precyzyjnym miejscem dla tego typu asortymentu handlowego."
+    },
+    {
+        "ID_Produktu": "242632258",
+        "Nazwa_Produktu": "Odstraszasz Dzikich Zwierząt Solar",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to elektroniczne urządzenie solarne do odstraszania zwierząt, przeznaczone do użytku w ogrodach i gospodarstwach. Ze względu na brak dedykowanej podkategorii dla systemów ochrony przed szkodnikami, kategoria 'Pozostałe Ogród' (Dom i Ogród > Ogród > Pozostałe Ogród) jest najbardziej właściwym i najczęściej stosowanym miejscem dla tego typu akcesoriów na OLX."
+    },
+    {
+        "ID_Produktu": "242632261",
+        "Nazwa_Produktu": "Drewniane Szczotki Do Szorowania Twarde 2Szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wybrana kategoria 'Miotły i szczotki' jest najbardziej precyzyjnym dopasowaniem dla szczotek do szorowania. Choć produkt jest uniwersalny, opis kładzie duży nacisk na czyszczenie ogrodu, tarasu oraz basenu, co uzasadnia umiejscowienie go w gałęzi narzędzi ogrodowych."
     }
 ]
