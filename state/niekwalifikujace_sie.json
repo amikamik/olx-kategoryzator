@@ -128,5 +128,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pokrywki do pojemników PP sprzedawane w ilościach hurtowych (100 szt.) marki Guillin, co jednoznacznie wskazuje na przeznaczenie profesjonalne (opakowania dla gastronomii). Najlepiej pasującą kategorią jest kategoria 'Pojemniki gastronomiczne' w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242631721",
+        "Nazwa_Produktu": "Pojemnik na zupę czarny okrągły 350ml PP 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hurtowa ilość (50 sztuk) jednorazowych pojemników z polipropylenu (PP), przeznaczonych do transportu i przechowywania żywności (zupy, sałatki). Wzmianka o opłacie SUP (Single Use Plastics) oraz specyfikacja techniczna wskazują na przeznaczenie profesjonalne/gastronomiczne, co najlepiej odpowiada kategorii Pojemniki gastronomiczne."
     }
 ]
