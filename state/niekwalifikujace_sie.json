@@ -1268,5 +1268,65 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł produktu jednoznacznie wskazuje, że jest to 'Reflektor LED', co w języku polskim jest synonimem naświetlacza. Opis produktu, w tym jego przeznaczenie do użytku zewnętrznego (IP65) i parametry techniczne, w pełni odpowiadają kategorii 'Halogeny i naświetlacze'."
+    },
+    {
+        "ID_Produktu": "242632843",
+        "Nazwa_Produktu": "Odbojniki na klamkę do drzwi silikon 10szt 2 typy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Pozostałe",
+        "Finalne_ID_AI": 3158,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to odbojnik/stoper na klamkę, który jest funkcjonalnym akcesorium bezpośrednio związanym z drzwiami i klamkami. W drzewie kategorii najbardziej precyzyjną ścieżką jest 'Dom i Ogród > Budowa > Drzwi'. Ponieważ odbojnik nie jest klamką, zamkiem ani drzwiami, a stanowi ich uzupełnienie, kategoria 'Pozostałe' w tej gałęzi jest najwłaściwszym i najbardziej szczegółowym wyborem."
+    },
+    {
+        "ID_Produktu": "242632846",
+        "Nazwa_Produktu": "Kinkiet Paulmann chrom zintegrowane źródło LED 5 W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalne_ID_AI": 3863,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest jednoznacznie zidentyfikowany jako 'kinkiet' zarówno w tytule, jak i w opisie. Kategoria 'Dom i Ogród > Oświetlenie > Lampy > Kinkiety' jest najdokładniejszą i najbardziej szczegółową kategorią-liściem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "242632850",
+        "Nazwa_Produktu": "Lumare żarówka LED E27 5W zestaw 5szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt został jednoznacznie zidentyfikowany jako 'żarówka LED' zarówno w tytule, jak i w opisie. Najbardziej szczegółową i adekwatną kategorią w drzewie jest 'Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki', która jest kategorią liściową."
+    },
+    {
+        "ID_Produktu": "242632851",
+        "Nazwa_Produktu": "Pojemnik na sosy 80ml PP 7080C 100szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'pojemnik na sosy' sprzedawany w opakowaniu 100 sztuk, przeznaczony do pakowania, transportu i serwowania w gastronomii. Wskazuje na to również informacja o opłacie SUP (Single Use Plastics). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i specyficznym dopasowaniem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "242632852",
+        "Nazwa_Produktu": "Pojemnik na Sosy 100ml PP 7100C 100szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowy pojemnik na sosy, sprzedawany w opakowaniu 100 sztuk. Opis wskazuje na jego przeznaczenie do pakowania, transportu i przechowywania w branży spożywczej (sosy, dipy, degustacje). Dodatkowo wzmianka o opłacie SUP (Single Use Plastics) i odsprzedaży potwierdza jego profesjonalny, biznesowy charakter, co idealnie pasuje do kategorii 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242632856",
+        "Nazwa_Produktu": "Żarówka LED Lumare E27 9W 2szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt został jednoznacznie zidentyfikowany jako 'Żarówka LED' zarówno w tytule, jak i w opisie. Najdokładniejszą kategorią liściastą, opisującą ten przedmiot, jest 'Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki'."
     }
 ]

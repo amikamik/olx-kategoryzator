@@ -506,5 +506,72 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242632847",
+        "Nazwa_Produktu": "Kontroler poziomu wody prostokątny 3m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to elektryczny kontroler poziomu wody, czyli element osprzętu instalacyjnego. Służy do automatyzacji pomp w różnych systemach (zbiorniki, baseny, studnie). Kategoria 'System i osprzęt instalacyjny' w dziale 'Elektryka' jest najbardziej precyzyjnym i technicznym opisem tego urządzenia.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kontroler poziomu wody prostokątny 3m",
+                "description": "Reusious 3 metrowy kabel kontroler poziomu wody z prostokątnym przełącznikiem pływakowym. Regulator poziomu wody Reusious z prostokątnym przełącznikiem pływakowym jest przeznaczony do kontroli poziomu wody w różnych zastosowaniach, takich jak baseny, beczki, zbiorniki i inne pojemniki. Może być również stosowany na pompach zanurzeniowych do sterowania silnikiem. Materiał użyty w regulatorze oraz wszystkie jego składniki są nietoksyczne, co umożliwia umieszczenie go zarówno w wodzie, jak i w lagunie ścieków. Regulator jest odporny na działanie słabego kwasu i słabej zasady, jednakże nielepkiej jakości woda może wpływać na jego działanie. Regulator poziomu wody Reusious został oceniony pod kątem temperatury od 32F do 140F i posiada stopień ochrony IP65, co oznacza, że jest odporny na pył i strumień wody. Przełącznik pływakowy ma żywotność przekraczającą 30 000 cykli. Przed użyciem, zalecamy dokładne zapoznanie się z instrukcją obsługi, która może jednak nie być dostępna w języku polskim. W przypadku, gdy moc pompy przekracza 900 W, konieczne jest zastosowanie stycznika prądu przemiennego. Regulator nie posiada wtyczki na końcu. Regulator poziomu wody Reusious z przełącznikiem pływakowym może być stosowany do kontroli poziomu wody wlotowej ze zbiornika i działa na obie strony. Specyfikacja: Prąd znamionowy/napięcie: AC 10 (8 A) 250 V 10 (4 A) 380 V Zalecane napięcie: DC 24 V stycznośćy: NIE NC (normalnie zamknięte + normalnie otwarte) Temperatura pracy: 0 C 60 C Zakres sterowania: 0,2 m Wytrzymałość elektryczna: 50 000 razy Długość kabla: 3 m / 300 cm Rozmiar korpusu: 10 x 8 x 4,5 cm (dł. x szer. x wys.) Waga: prawdopodobnie 700 g Zawartość opakowania: 1 x regulator poziomu wody Marka: Ruesious\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 61.99,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/57064be8b62fb763a26b5b274ebb7d90.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/f9ecbfa1ce8f87514d27b9c1e671e0bf.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/3a905bdbcf1d1c25e35850a095e15c75.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/045eae57fc372545651280216c14d8ff.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/92a641390acbdae562cf8b0a381a6b2d.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/5a8fa5612e04cdbafcd6e1565526f0f6.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
