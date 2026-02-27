@@ -1148,5 +1148,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242632755",
+        "Nazwa_Produktu": "Pojemnik na pączki 6 2190PET 1szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowy pojemnik na pączki. Opis zawierający informację o opłacie SUP (Single Use Plastics) oraz możliwość zakupu do dalszej odsprzedaży jednoznacznie wskazuje na jego profesjonalne, gastronomiczne przeznaczenie. Dlatego kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł' jest bardziej adekwatna niż ogólna kategoria domowego przechowywania żywności."
+    },
+    {
+        "ID_Produktu": "242632762",
+        "Nazwa_Produktu": "Pokrywka do pojemników na sosy P7100C 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242632764",
+        "Nazwa_Produktu": "Pojemnik na sosy 50ml PP 7050C 100szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw 100 jednorazowych pojemników na sosy, dipy i dressingi, przeznaczonych do pakowania i transportu. Opis zawierający informację o opłacie SUP (Single Use Plastics) oraz możliwość zakupu do dalszej odsprzedaży jednoznacznie wskazuje na profesjonalne, gastronomiczne przeznaczenie produktu. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł > Gastronomia' jest idealnym i najbardziej precyzyjnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "242632767",
+        "Nazwa_Produktu": "Pokrywka do kubków Shake śr95 wypukła z otworem 50szt Abena",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Kubki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowa pokrywka do kubków, przeznaczona do serwowania napojów na wynos, sprzedawana w opakowaniu zbiorczym (50 szt.). Jest to typowy produkt zaopatrzeniowy dla sektora gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i adekwatnym wyborem, lepiej oddającym profesjonalne zastosowanie niż ogólna kategoria 'Naczynia jednorazowe' w dziale 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "242632768",
+        "Nazwa_Produktu": "Dozownik do serwetek 17x17cm szary Clarina",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Serwety i serwetki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
