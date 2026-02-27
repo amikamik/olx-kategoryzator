@@ -131,7 +131,7 @@ jobs:
           # --- Konfiguracja cenowa ---
           MARGIN_PERCENT = 0.30
           COMMISSION_PERCENT = 0.12
-          MINIMUM_PROFIT_PLN = 15.0
+          MINIMUM_PROFIT_PLN = 11.0
           CENA_MIN = 1.0
           CENA_MAX = float(${{ inputs.max_price }})
 
