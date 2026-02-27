@@ -841,8 +841,10 @@ def opublikuj_ogloszenie_na_olx(produkt, kategoria_id, wybrane_atrybuty, wybrane
     base_description = clean_html(produkt.get('description', "Brak opisu"))
     
     # DEAL: Brak danych GPSR - nie dodajemy sekcji GPSR do opisu
-    full_description = base_description
-    print(f"    │  ├─ ⚠️ Produkt Deal - brak danych GPSR (oznaczono do przyszłej aktualizacji)")
+    # Dodajemy ukryty marker [DEAL-BLB2B] na dole opisu — do identyfikacji przez API w przyszłości
+    DEAL_MARKER = "\n\n[DEAL-BLB2B]"
+    full_description = base_description + DEAL_MARKER
+    print(f"    │  ├─ ⚠️ Produkt Deal - brak danych GPSR (marker [DEAL-BLB2B] dodany do opisu)")
     
     # Przygotowanie tytułu (max 69 znaków dla OLX API)
     tytul_oryginalny = produkt.get('name', "Brak tytułu").capitalize()
