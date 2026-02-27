@@ -13781,5 +13781,168 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1019893",
+        "Nazwa_Produktu": "Przejściówka adapter USB-C do HDMI 2.0 4K 60Hz Thunderbolt 3 szary",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Komputery > Akcesoria komputerowe > Kable i przejściówki",
+        "Finalna_Sciezka_AI": "Elektronika > Komputery > Akcesoria komputerowe > Kable i przejściówki",
+        "Finalne_ID_AI": 3095,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to przejściówka wideo USB-C do HDMI, co bezpośrednio odpowiada kategorii 'Kable i przejściówki' w sekcji akcesoriów komputerowych. Jest to najbardziej precyzyjne dopasowanie dla tego typu peryferiów.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Przejściówka adapter usb-c do hdmi 2.0 4k 60hz thunderbolt 3 szary",
+                "description": "Kod produktu: 1019893 Adapter USB-C / HDMI pozwala podłączyć komputer lub smartfon z monitorem w przypadku braku złączy HDMI. Najważniejsze cechy: - Praktyczny adapter z wtyczką USB Typ C i złączem HDMI . Doskonałe akcesorium dla osób, które potrzebują połączyć komputer z monitorem przez wtyczkę HDMI. - Dla laptopa i smartfona - Przejściówka świetnie sprawdzi się nie tylko w przypadku laptopów niewyposażonych w HDMI, ale również w parze z tabletem czy nawet smartfonem. - Bez dodatkowego oprogramowania - Gadżet działa w myśl zasady plug and play#8221;, więc nie wymaga instalacji dodatkowych programów. Wystarczy wpiąć go do portu USB Typ C i od razu można z niego korzystać. - Lekki, mały i niezwykle wytrzymały - Adapter waży około 30 gram i posiada kompaktowe wymiary, w związku z czym jego transport jest praktycznie bezproblemowy. Ponadto został wykonany z wysokiej jakości materiałów (aluminium + TPE), które sprawiają, że naprawdę trudno jest go uszkodzić. Specyfikacja: - Marka: Ugreen - Materiał: Aluminium + TPE - Wtyczka: USB Typ C, HDMI - Waga: 30g - Standard HDMI: 2.0 - Rozdzielczość: 4K@60 H z - Thunderbolt 3 Zestaw zawiera: - Przejściówka USB-C do HDMI\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Ugreen Group GmbH\nAdres: Prinzenallee 1, 40549, Dsseldorf, Niemcy\nEmail: support(at)ugreen.com\nTelefon: +49(0)1728130175\n----------------------------------------",
+                "category_id": 3095,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 92.62,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019893-1-przejsciowka-adapter-usb-c-do-hdmi-2-0-4k-60hz-thunderb-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019893-2-przejsciowka-adapter-usb-c-do-hdmi-2-0-4k-60hz-thunderb-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019893-3-przejsciowka-adapter-usb-c-do-hdmi-2-0-4k-60hz-thunderb-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019893-4-przejsciowka-adapter-usb-c-do-hdmi-2-0-4k-60hz-thunderb-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019893-5-przejsciowka-adapter-usb-c-do-hdmi-2-0-4k-60hz-thunderb-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019893-6-przejsciowka-adapter-usb-c-do-hdmi-2-0-4k-60hz-thunderb-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019893-7-przejsciowka-adapter-usb-c-do-hdmi-2-0-4k-60hz-thunderb-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019893-8-przejsciowka-adapter-usb-c-do-hdmi-2-0-4k-60hz-thunderb-ugreen-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "1019897",
+        "Nazwa_Produktu": "Kabel przewód HDMI 2.1 8K 4K 3D 48Gbps HDR VRR QMS ALLM eARC QFT 2m szary",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Kable",
+        "Finalna_Sciezka_AI": "Elektronika > TV > Akcesoria",
+        "Finalne_ID_AI": 1850,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kabel HDMI 2.1, którego głównym przeznaczeniem opisanym w ofercie jest przesyłanie sygnału 8K/4K do telewizorów, obsługa technologii obrazu (HDR, VRR) oraz współpraca z kinem domowym i konsolami. W strukturze OLX akcesoria tego typu najtrafniej pasują do kategorii Elektronika > TV > Akcesoria.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kabel przewód hdmi 2.1 8k 4k 3d 48gbps hdr vrr qms allm earc qft 2m",
+                "description": "Kod produktu: 1019897 W świecie multimediów trwa nieustanna pogoń za coraz lepszą jakością obrazu. Każdego roku pojawiają się nowe telewizory, na których oglądamy filmy i gramy w gry w coraz większej rozdzielczości. Producenci wypuszczają na rynek nowe sprzęty, które są w stanie sprostać zapotrzebowaniu na najlepszej jakości multimedia. Telewizory pozwalają już na odbiór materiałów w jakości 8K. Jednak żeby móc w pełni wykorzystać potencjał jaki tkwi w urządzeniu, potrzebny jest jeszcze kabel, który udźwignie ekstremalnie duża ilość danych przesyłaną do telewizora z konsoli do gier, kina domowego czy odtwarzacza Blue-ray. W tym momencie na scenę wkracza kabel Ugreen w standardzie HDMI 2.1 . Jego specyfikacja charakteryzuje się podwojoną przepustowością danych w porównaniu do poprzedniego standardu. Pozwala na przesyłanie obrazu w rozdzielczości 4K z odświeżaniem 120 klatek na sekundę i 8K z odświeżaniem 60 klatek na sekundę i przepustowością do 48 Gbps . Jakie dodatkowe funkcje oferuje ten kabel? Oprócz wspomnianej wcześniej rozdzielczości obrazu 8K 60 fps i 4K 120 fps, które są wspierane przez PlayStation 5 i Xbox Series X, dostępne są również funkcje takie jak: Dynamiczny HDR Dzięki temu jest możliwe indywidualne dobranie ustawień głębi kolorów, jasności, kontrastu i liczby detali w trakcie przesyłania materiału. Nawet dla każdej pojedynczej klatki. Variable Refresh Rate (VRR) Mechanizm zmiennej częstotliwości odświeżania obrazu. Pozwala na przesłanie klatki obrazu do odbiornika natychmiast po jej wyrenderowaniu. Zrywanie klatek jest dzięki temu zniwelowane, a obraz dużo płynniejszy. Quick Media Switching (QMS) Polega na wyeliminowaniu opóźnienia, w trakcie którego jest wyświetlany pusty obraz przed pojawieniem się głównego obrazu. Auto Low Latency Mode (ALLM) Powoduje, że telewizor przełącza się w tryb gry po wykryciu konsoli podłączonej do portu HDMI. Enhanced Audio Return Channel (eARC) Unowocześniona wersja zwrotnego kanału audio. Upraszcza podłączenie urządzeń audio do telewizora. Wspiera większe przepustowości i jest gwarancją perfekcyjnej synchronizacji dźwięku z obrazem. Nie potrzebuje włączonej funkcji CEC do połączenia z odbiornikiem. Quick Frame Transport (QFT) Odpowiada za redukcję opóźnienia w czasie przesyłania klatek. To bardzo istotne w urządzeniach VR i podczas gier na konsolach. Kabel HDMI 2.1 marki Ugreen to produkt wykonany z najwyższej jakości materiałów. Oferuje przepustowość do 48 Gbps. Pozwala na przesyłanie krystalicznie czystego obrazu w rozdzielczości 8K@60 Hz i 4K@120 Hz. Wspiera technologię Dynamic HDR, HDR 10, 3D i Dolby Vision. Posiada aluminiowe wtyczki, rdzeń z czystej miedzi i nylonowy oplot, który chroni go przed uszkodzeniami mechanicznymi. Zapewnia stabilny przesył sygnału między urządzeniami. Jest także kompatybilny wstecznie z poprzednimi standardami HDMI. Specyfikacja: - Marka: Ugreen - Długość kabla: 2 m - Standard: HDMI 2.1 - Rozdzielczość: 8K / 60 Hz, 4K / 120 Hz - Przepustowość: do 48 Gbps - Technologie: 3D, Dynamic HDR, HDR 10, VRR, QMS, ALLM, eARC, QFT, Dolby Vision - Typ złącza: Standard HDMI Typ A (męski) - Kompatybilność: wsteczna, ze starszymi standardami Zestaw zawiera: - Kabel przewód HDMI 2.1 8K 4K 3D 48Gbps HDR VRR QMS ALLM eARC QFT 2m szary\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Ugreen Group GmbH\nAdres: Prinzenallee 1, 40549, Dsseldorf, Niemcy\nEmail: support(at)ugreen.com\nTelefon: +49(0)1728130175\n----------------------------------------",
+                "category_id": 1850,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 77.19,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019897-1-kabel-przewod-hdmi-2-1-8k-4k-3d-48gbps-hdr-vrr-qms-allm-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019897-2-kabel-przewod-hdmi-2-1-8k-4k-3d-48gbps-hdr-vrr-qms-allm-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019897-3-kabel-przewod-hdmi-2-1-8k-4k-3d-48gbps-hdr-vrr-qms-allm-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019897-4-kabel-przewod-hdmi-2-1-8k-4k-3d-48gbps-hdr-vrr-qms-allm-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019897-5-kabel-przewod-hdmi-2-1-8k-4k-3d-48gbps-hdr-vrr-qms-allm-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019897-6-kabel-przewod-hdmi-2-1-8k-4k-3d-48gbps-hdr-vrr-qms-allm-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019897-7-kabel-przewod-hdmi-2-1-8k-4k-3d-48gbps-hdr-vrr-qms-allm-ugreen-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
