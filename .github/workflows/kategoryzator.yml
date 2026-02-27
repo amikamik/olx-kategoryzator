@@ -146,6 +146,9 @@ jobs:
 
           # BaseLinker (do pobierania feedu Deal)
           BASELINKER_TOKEN = "${{ secrets.BASELINKER_TOKEN }}"
+
+          # Dedykowane konto BL z pełnym feedem Deal (bez limitu 1000)
+          BASELINKER_TOKEN_FEED = "${{ secrets.BASELINKER_TOKEN_FEED }}"
           EOF
         env:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
@@ -177,6 +180,7 @@ jobs:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           BASELINKER_TOKEN: ${{ secrets.BASELINKER_TOKEN }}
+          BASELINKER_TOKEN_FEED: ${{ secrets.BASELINKER_TOKEN_FEED }}
           MAX_RUNTIME_MINUTES: "350"
 
       - name: 💽 Zapisz zaktualizowane pliki state i raport

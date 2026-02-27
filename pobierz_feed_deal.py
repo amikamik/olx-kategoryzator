@@ -1,16 +1,21 @@
 """
 Skrypt do pobierania feedu produktów Deal BL B2B z BaseLinker.
 
+Używa DEDYKOWANEGO konta BaseLinker (bez limitu 1000 produktów),
+na którym znajduje się pełny katalog Deal (~5368 produktów).
+
 Workflow:
-1. Pobiera listę WSZYSTKICH produktów z katalogu BaseLinker (inventory_id=1875)
-2. Filtruje produkty Deal (posiadające link blconnect_4715)
+1. Pobiera listę WSZYSTKICH produktów z katalogu nowego konta (inventory_id=25038)
+2. Filtruje produkty Deal (posiadające link blconnect_9164)
 3. Pobiera pełne dane produktów w batchach po 100
 4. Deduplikuje produkty po ID (każdy produkt pojawia się tylko raz)
 5. Generuje plik XML feedu w formacie zgodnym z parse_product_feed()
 6. Zapisuje do input/feed_deal_blb2b.xml
 
+Token do tego konta: zmienna środowiskowa BASELINKER_TOKEN_FEED
+(osobny od BASELINKER_TOKEN używanego do operacji OLX na głównym koncie)
+
 UWAGA: Produkty Deal NIE mają na razie danych GPSR.
-Odpowiednik aktualizuj_feed_gpsr.py z gałęzi przemyslowa-cache-nowa-najnowsza.
 """
 
 import xml.etree.ElementTree as ET
@@ -27,11 +32,11 @@ from datetime import datetime
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_FEED = os.path.join(SCRIPT_DIR, "input", "feed_deal_blb2b.xml")
 
-# BaseLinker API
+# BaseLinker API — DEDYKOWANE KONTO Z PEŁNYM FEEDEM DEAL
 BASELINKER_API_URL = "https://api.baselinker.com/connector.php"
-INVENTORY_ID = 1875          # Katalog "Domyślny" w BaseLinker
-DEAL_LINK_KEY = "blconnect_4715"  # Klucz linku Deal BL B2B
-MAIN_WAREHOUSE = "bl_12303"  # Magazyn z rzeczywistym stanem
+INVENTORY_ID = 25038          # Katalog "Domyślny" na nowym koncie BL
+DEAL_LINK_KEY = "blconnect_9164"  # Klucz linku Deal BL B2B na nowym koncie
+MAIN_WAREHOUSE = "bl_42824"  # Magazyn na nowym koncie
 
 # Rate limiting
 API_DELAY = 0.35  # Sekund między wywołaniami API (limit BL ~180 req/min)
@@ -44,12 +49,21 @@ BATCH_SIZE = 100   # Maksymalny rozmiar batcha dla getInventoryProductsData
 
 def _get_baselinker_token():
     """
-    Pobiera token BaseLinker:
-    1. Ze zmiennej środowiskowej BASELINKER_TOKEN (priorytet - dla GitHub Actions)
-    2. Z pliku config/config.py (fallback - dla lokalnego uruchomienia)
+    Pobiera token BaseLinker do pobierania feedu Deal:
+    1. Ze zmiennej BASELINKER_TOKEN_FEED (priorytet - dedykowane konto z pełnym feedem)
+    2. Ze zmiennej BASELINKER_TOKEN (fallback - główne konto)
+    3. Z pliku config/config.py (fallback - dla lokalnego uruchomienia)
     """
+    # Priorytet: dedykowany token do feeda (nowe konto bez limitu)
+    token = os.environ.get("BASELINKER_TOKEN_FEED", "")
+    if token:
+        print("  Używam tokena BASELINKER_TOKEN_FEED (dedykowane konto feeda)")
+        return token
+    
+    # Fallback: główny token
     token = os.environ.get("BASELINKER_TOKEN", "")
     if token:
+        print("  Używam tokena BASELINKER_TOKEN (główne konto)")
         return token
     
     # Próba importu z config
@@ -57,7 +71,7 @@ def _get_baselinker_token():
         import sys
         sys.path.insert(0, os.path.join(SCRIPT_DIR, 'config'))
         import config
-        token = getattr(config, 'BASELINKER_TOKEN', '')
+        token = getattr(config, 'BASELINKER_TOKEN_FEED', '') or getattr(config, 'BASELINKER_TOKEN', '')
     except (ImportError, AttributeError):
         pass
     
@@ -337,8 +351,9 @@ def main():
     token = _get_baselinker_token()
     if not token:
         print("❌ BŁĄD: Brak tokena BaseLinker!")
-        print("   Ustaw zmienną środowiskową BASELINKER_TOKEN")
-        print("   lub dodaj BASELINKER_TOKEN do config/config.py")
+        print("   Ustaw zmienną środowiskową BASELINKER_TOKEN_FEED (dedykowane konto feeda)")
+        print("   lub BASELINKER_TOKEN (główne konto)")
+        print("   lub dodaj do config/config.py")
         return False
     
     try:
@@ -353,7 +368,7 @@ def main():
         deal_products, stats = pobierz_dane_produktow(token, product_ids)
         
         if not deal_products:
-            print("❌ BŁĄD: Nie znaleziono produktów Deal (blconnect_4715)!")
+            print("❌ BŁĄD: Nie znaleziono produktów Deal (blconnect_9164)!")
             return False
         
         # 3. Generuj XML feed
