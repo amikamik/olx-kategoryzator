@@ -38,5 +38,85 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Folia stretch o wadze 2,5kg i przeznaczeniu do paletowania towarów jest typowym materiałem eksploatacyjnym stosowanym w logistyce i magazynowaniu, co odpowiada ścieżce Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242631609",
+        "Nazwa_Produktu": "Torebka papierowa chleb 33x15/7 okienko 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny",
+        "Finalne_ID_AI": 4668,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to opakowania papierowe przeznaczone do użytku komercyjnego w handlu (piekarnie, sklepy spożywcze), sprzedawane w ilościach hurtowych (1000 sztuk), co kwalifikuje go do kategorii Firma i Przemysł w sekcji Sklepy i magazyny."
+    },
+    {
+        "ID_Produktu": "242631617",
+        "Nazwa_Produktu": "Menu box burger 150x150x90  100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe przeznaczone dla gastronomii (pakowanie hamburgerów na wynos). Idealnie pasuje do kategorii 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "242631621",
+        "Nazwa_Produktu": "Arkusz HDPE 20x30cm 2000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to arkusze foliowe HDPE przeznaczone do profesjonalnego pakowania żywności w punktach handlowych (sklepy mięsne, masarnie). Ze względu na charakter hurtowy (2000 szt.) i przeznaczenie biznesowe, produkt kwalifikuje się do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242631623",
+        "Nazwa_Produktu": "Arkusz HDPE 30x40cm 2000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Arkusze HDPE do pakowania żywności (wędlin, mięsa) to typowe artykuły eksploatacyjne używane w handlu detalicznym i przetwórstwie spożywczym, dlatego kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej odpowiednia dla tego typu wyposażenia sklepów i punktów usługowych."
+    },
+    {
+        "ID_Produktu": "242631625",
+        "Nazwa_Produktu": "Cena 11x7,5cm laminowana 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to laminowane etykiety cenowe (wywieszki), które są elementem wyposażenia punktów handlowych. Najlepiej pasują do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe, ponieważ służą do oznaczania towarów w handlu detalicznym."
+    },
+    {
+        "ID_Produktu": "242631626",
+        "Nazwa_Produktu": "Dozownik do serwetek 17x17cm czarny Clarina",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Serwety i serwetki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny dyspenser (dozownik) do serwetek marki Clarina, który jest przeznaczony do użytku w profesjonalnej gastronomii (restauracje, kawiarnie, fast-food), co czyni kategorię Firma i Przemysł > Gastronomia > Pozostałe najbardziej trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "242631634",
+        "Nazwa_Produktu": "Rolka do kasy fiskalnej 57x80 termiczna 6szt",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalne_ID_AI": 4672,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to materiał eksploatacyjny (papier termiczny) przeznaczony bezpośrednio do obsługi kas fiskalnych i terminali płatniczych, co czyni kategorię 'Kasy fiskalne' najbardziej specyficznym i trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "242631635",
+        "Nazwa_Produktu": "Rolka do kasy fiskalnej 80x80 termiczna 6szt",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalne_ID_AI": 4672,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne, które są podstawowym materiałem eksploatacyjnym do kas fiskalnych. Najbardziej precyzyjną kategorią dla tego typu osprzętu handlowego jest kategoria 'Kasy fiskalne' w sekcji 'Sklepy i magazyny'."
     }
 ]

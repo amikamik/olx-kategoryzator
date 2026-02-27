@@ -1,1 +1,176 @@
-﻿{}
+[
+    {
+        "ID_Produktu": "242631628",
+        "Nazwa_Produktu": "Ściereczka do podłogi ODOR STOP Vileda 1 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ściereczka do podłogi, czyli akcesorium przeznaczone do sprzątania. W strukturze OLX akcesoria do czyszczenia i chemia gospodarcza znajdują się w kategorii 'Supermarket > Środki czyszczące'. Wybór ten jest najbardziej precyzyjny w porównaniu do innych kategorii, takich jak 'Przybory kuchenne', które ograniczają się do zastosowań w kuchni.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Ściereczka do podłogi odor stop vileda 1 szt",
+                "description": "Ściereczka do podłogi ODOR STOP Vileda 1 szt. Ściereczka do podłogi ODOR STOP. Delikatna ścierka do mycia podłogi z jonami srebra!. więcej włókien mikroaktywnych o 30% zwiększa chłonność i delikatność ścierki ścierka do podłogi Vileda nie zatrzymuje brzydkich zapachów, dzięki jonom srebra; jest higieniczna i świeża aktywna mikrobiologicznie - testy niezależnego instytutu instrukcja użycia: dokładnie wypłukać i suszyć rozłożoną skład: 50% wiskoza, 30% poliester, 20% polipropylen wymiary: 59 x 50 cm. Cena za opakowanie 1 szt. EAN: 4003790000126 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Wypłucz przed pierwszym użyciem. Nie stosować płynów zmiękczających. Suszyć rozłożoną. Nie wybielać. Maksymalna temperatura prania to 60C, pranie w niższych temperaturach może przedłużyć żywotność tkaniny i pomóc chronić środowisko. Nie suszyć w suszarce bębnowej i nie prasować. Ściereczki nie należy używać na gorących powierzchniach.\n\n[DEAL-BLB2B]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 21.57,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/cc5e79a92bf68af8a72195595031c674.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/ac4182e5993dd55000c4d6aa70c59ba9.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242631631",
+        "Nazwa_Produktu": "Zmywak profilowany Pur Active Vileda 2 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Dozowniki na płyn i zmywaki",
+        "Finalne_ID_AI": 2120,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zmywak kuchenny (gąbka do naczyń). Kategoria o ID 2120 ('Dozowniki na płyn i zmywaki') wprost wymienia ten typ przedmiotu w nazwie i znajduje się w sekcji 'Przybory kuchenne', co najlepiej odpowiada przeznaczeniu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zmywak profilowany pur active vileda 2 szt.",
+                "description": "Zmywak profilowany Pur Active Vileda 2 szt. Zmywak profilowany Pur Active 2 szt. ZZmywak kuchenny Glitzi Pur Active to zmywak do naczyń, który czyści bez zarysować i sprawdzi się świetnie do czyszczenia nawet tak delikatnych powierzchni jak teflon. Gąbka do naczyń Vileda posiada mocną poliuretanową warstwę ścierną, która usuwa brud, nie rysując powierzchni Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2120,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 21.14,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/9fb537f9ca2812d82d1f8eae0fb9280a.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242631632",
+        "Nazwa_Produktu": "Zmywak wiskozowy Vileda Glitzi Always Clean 2 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Dozowniki na płyn i zmywaki",
+        "Finalne_ID_AI": 2120,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zmywak wiskozowy do naczyń. Wybrana kategoria 'Dozowniki na płyn i zmywaki' (2120) bezpośrednio wymienia zmywaki w nazwie i znajduje się w sekcji Przyborów kuchennych, co idealnie odpowiada przeznaczeniu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zmywak wiskozowy vileda glitzi always clean 2 szt.",
+                "description": "Zmywak wiskozowy Vileda Glitzi Always Clean 2 szt. Zmywak kuchenny, który nie pozostawia zarysowań nawet na tak delikatnych powierzchniach jak teflon. Łatwy do utrzymania w czystości Zmywak kuchenny Glitzi Always Clean bez trudu się wypłukuje, dzięki czemu zmywak do naczyń Vileda zachowuje świeżość dłużej niż tradycyjne zmywaki. Delikatny Technologia powłoki poliuretanowej sprawia, że gąbka do naczyń Vileda myje skutecznie i bez zarysowań. Wyjątkowo chłonny Zmywak do naczyń Glitzi Always Clean został wyposażony w gąbkę wykonaną w 100% z naturalnej wiskozy. Gąbka wiskozowa do mycia naczyń ma do 10 razy większą chłonność płynów niż gąbki wykonane z tradycyjnych materiałów. Skuteczny Mocna poliuretanowa warstwa ścierna usuwa uporczywe zabrudzenia. Trwały Mocna poliurentanowa warstwa ścierna oraz łatwe wypłukiwanie się daje dłuższą świeżość i żywotność zmywaka wiskozowego do naczyń. Cena za opakowanie 2 szt. Vileda 168527 EAN: 4023103229235 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com W przypadku delikatnych powierzchni, najpierw wypróbuj w niewidocznym miejscu.\n\n[DEAL-BLB2B]",
+                "category_id": 2120,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 20.45,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/46581dbfd6563a63ad4064defb7677d5.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+]
