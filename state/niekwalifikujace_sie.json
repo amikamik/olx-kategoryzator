@@ -14938,5 +14938,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to transmiter FM Bluetooth, którego głównym zadaniem jest przesyłanie dźwięku do samochodowego systemu audio. Najbardziej precyzyjną kategorią dla tego typu urządzeń w strukturze OLX jest 'Sprzęt car audio', mimo że urządzenie posiada również funkcję ładowarki."
+    },
+    {
+        "ID_Produktu": "1019473",
+        "Nazwa_Produktu": "Łańcuszek zawieszka do okularów koraliki zielony",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Łańcuszki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Akcesoria do okularów",
+        "Finalne_ID_AI": 2735,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Głównym przeznaczeniem produktu jest służenie jako łańcuszek do okularów, co czyni go akcesorium optycznym. Kategoria 'Akcesoria do okularów' (id: 2735) jest najbardziej precyzyjnym wyborem dla tego typu przedmiotów funkcjonalnych, mimo jego biżuteryjnego charakteru."
+    },
+    {
+        "ID_Produktu": "1019475",
+        "Nazwa_Produktu": "Łańcuszek zawieszka do okularów koraliki pomarańczowy",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Łańcuszki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Akcesoria do okularów",
+        "Finalne_ID_AI": 2735,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to funkcjonalny dodatek przeznaczony konkretnie do okularów (łańcuszek/zawieszka), co czyni kategorię 'Akcesoria do okularów' (2735) najbardziej precyzyjnym wyborem, mimo jego dekoracyjnego charakteru."
     }
 ]
