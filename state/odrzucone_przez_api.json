@@ -286,5 +286,62 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242632315",
+        "Nazwa_Produktu": "Vileda Wkład Do Mopa Active Max 1 Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wkład do mopa to akcesorium do sprzątania, które w strukturze kategorii OLX najlepiej pasuje do kategorii 'Środki czyszczące' w dziale 'Supermarket', gdzie gromadzone są zarówno preparaty chemiczne, jak i podstawowe przybory do utrzymania czystości w gospodarstwie domowym.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda wkład do mopa active max 1 szt",
+                "description": "Vileda Wkład do mopa Active Max 1 szt. Wkład do mopa Active Max. Ulepszona formuła czyszczenia!. Świetnie sprawdza się przy sprzątaniu dużych powierzchni. Nadaje się do czyszczenia każdego rodzaju podłóg na mokro. Wkład zawiera mikroaktywne włókna. Pasuje do mopów płaskich trapezoidalnych. Wkład pasuje do mopa płaskiego ACTIVE MAX, mopa SUPER PUCER CLASSIC oraz mopa płaskiego STYLE. Cena za opakowanie 1 szt. Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 38.49,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/2226a413cf2df6e7297f73da2ad49068.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

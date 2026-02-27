@@ -628,5 +628,95 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Wybrana kategoria 'Miotły i szczotki' jest najbardziej precyzyjnym dopasowaniem dla szczotek do szorowania. Choć produkt jest uniwersalny, opis kładzie duży nacisk na czyszczenie ogrodu, tarasu oraz basenu, co uzasadnia umiejscowienie go w gałęzi narzędzi ogrodowych."
+    },
+    {
+        "ID_Produktu": "242632289",
+        "Nazwa_Produktu": "Pokrowce Ochronne Na Pasy Bezpieczeństwa 2Szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Foteliki - Nosidełka",
+        "Finalne_ID_AI": 517,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ochronne nakładki i regulator pasa bezpieczeństwa, przeznaczone dla dzieci podróżujących w samochodzie. Na platformie OLX akcesoria służące poprawie bezpieczeństwa i komfortu dzieci podczas jazdy (takie jak adaptery, podkładki czy osłonki na pasy) są standardowo przypisywane do kategorii 'Foteliki - Nosidełka' w dziale 'Dla Dzieci'."
+    },
+    {
+        "ID_Produktu": "242632290",
+        "Nazwa_Produktu": "Szczotka Do Czyszczenia Samochodu 4 Elementy",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria do odkurzaczy",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw manualnych szczotek do czyszczenia felg i detali samochodowych. Zgodnie z drzewem kategorii, najbardziej odpowiednim miejscem dla fizycznych akcesoriów do pielęgnacji pojazdów jest 'Motoryzacja > Wyposażenie i akcesoria samochodowe'. Ze względu na brak dedykowanej podkategorii dla kosmetyków i narzędzi do czyszczenia w tym drzewie, wybrano najbardziej specyficzną kategorię końcową: 'Pozostałe' (4509)."
+    },
+    {
+        "ID_Produktu": "242632307",
+        "Nazwa_Produktu": "Reklamówka na rolce 22x45 11mic. 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to reklamówki HDPE na rolce przeznaczone do pakowania produktów w sklepach. Jest to materiał eksploatacyjny wykorzystywany w handlu, dlatego najlepiej pasuje do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242632348",
+        "Nazwa_Produktu": "Hydong Kinkiet Wewnętrzny Kinkiet Led 8W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalne_ID_AI": 3863,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako kinkiet wewnętrzny LED (wall sconce). W strukturze kategorii OLX, najbardziej precyzyjnym dopasowaniem jest kategoria 'Kinkiety' znajdująca się w sekcji Oświetlenie > Lampy."
+    },
+    {
+        "ID_Produktu": "242632361",
+        "Nazwa_Produktu": "Taśma do metkownic jednorzędowa biała okrągła 5szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to materiały eksploatacyjne (etykiety) do metkownic, które są specjalistycznym narzędziem wykorzystywanym w handlu i logistyce. Najbardziej trafnym dopasowaniem w drzewie kategorii jest 'Firma i Przemysł > Sklepy i magazyny', a ze względu na brak specyficznej podkategorii dla systemów znakowania, produkt należy umieścić w kategorii-liściu 'Pozostałe' w obrębie tej sekcji."
+    },
+    {
+        "ID_Produktu": "242632362",
+        "Nazwa_Produktu": "Taśma do metkownic jednorzędowa biała prostokątna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to materiały eksploatacyjne (etykiety) do metkownic jednorzędowych, które stanowią element wyposażenia handlowego. Najbardziej dopasowaną kategorią w drzewie jest 'Firma i Przemysł > Sklepy i magazyny > Pozostałe', ponieważ produkt ten jest ściśle związany z obsługą punktów sprzedaży i magazynów, a nie posiada dedykowanej podkategorii dla materiałów eksploatacyjnych."
+    },
+    {
+        "ID_Produktu": "242632372",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 227x178/50 niedziel PP 40szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne opakowania cateringowe przystosowane do profesjonalnych zgrzewarek gastronomicznych oraz zawierające opłatę SUP, co jednoznacznie kwalifikuje je jako wyposażenie dla firm z branży gastronomicznej."
+    },
+    {
+        "ID_Produktu": "242632380",
+        "Nazwa_Produktu": "Woreczki strunowe 8x12cm 40mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Woreczki strunowe sprzedawane w ilościach hurtowych (100 szt.) z podaniem parametrów technicznych takich jak grubość folii (40 mikronów) są klasyfikowane jako materiały eksploatacyjne dla biznesu, najlepiej pasujące do kategorii opakowań i wyposażenia sklepów/magazynów."
+    },
+    {
+        "ID_Produktu": "242632382",
+        "Nazwa_Produktu": "Cena na rolce duża 3szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to etykiety cenowe na rolce (cenówki), które stanowią materiały eksploatacyjne wykorzystywane w handlu. Najlepiej pasują do kategorii 'Pozostałe' w sekcji 'Sklepy i magazyny' w ramach działu 'Firma i Przemysł'."
     }
 ]
