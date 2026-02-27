@@ -328,5 +328,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Woreczki strunowe w opakowaniu zbiorczym (100 szt.) o dużym formacie (45x50cm) i precyzyjnej specyfikacji technicznej (mikrony) są klasyfikowane jako materiały eksploatacyjne i opakowaniowe do użytku komercyjnego w sklepach i magazynach."
+    },
+    {
+        "ID_Produktu": "242631929",
+        "Nazwa_Produktu": "Etykiety samoprzylepne 55x46 400etykiet na rolce",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Etykiety termiczne samoprzylepne na rolce są materiałem eksploatacyjnym przeznaczonym do profesjonalnych urządzeń takich jak wagi sklepowe i drukarki etykiet. W drzewie kategorii OLX produkty dedykowane dla handlu i przemysłu powinny znaleźć się w sekcji 'Firma i Przemysł', a podkategoria 'Drukarki i akcesoria' w dziale 'Sklepy i magazyny' jest najbardziej precyzyjnym wyborem dla tego typu osprzętu."
+    },
+    {
+        "ID_Produktu": "242631930",
+        "Nazwa_Produktu": "Etykiety samoprzylepne 55x66 800etykiet na rolce",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Etykiety samoprzylepne i termiczne stosowane w wagach sklepowych oraz drukarkach przemysłowych to typowe materiały eksploatacyjne dla biznesu. Najlepiej pasują do kategorii 'Akcesoria i materiały biurowe' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242631934",
+        "Nazwa_Produktu": "Menu box hamburger duży 125szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to styropianowe pojemniki (menu boxy) w ilościach hurtowych (125 szt.), przeznaczone dla branży gastronomicznej i cateringowej. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej odpowiada profesjonalnemu charakterowi produktu oraz jego zastosowaniu w punktach sprzedaży posiłków na wynos."
+    },
+    {
+        "ID_Produktu": "242631935",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 500ml PET z pokrywką 100szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hurtowe opakowanie (100 szt.) jednorazowych pojemników PET z wyraźnym przeznaczeniem komercyjnym (pakowanie, transport), o czym świadczy wzmianka o opłacie SUP (Single Use Plastics) oraz warunkach odsprzedaży, co klasyfikuje go jako wyposażenie dla gastronomii, a nie standardowe akcesorium domowe."
+    },
+    {
+        "ID_Produktu": "242631938",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 18x35/4 cm 6mic 1000 szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to hurtowe opakowania (1000 szt.) przeznaczone do użytku komercyjnego w handlu detalicznym (sklepy spożywcze, piekarnie). Najlepiej pasuje do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe, ponieważ są to materiały eksploatacyjne niezbędne do funkcjonowania punktu sprzedaży."
+    },
+    {
+        "ID_Produktu": "242631942",
+        "Nazwa_Produktu": "Pojemnik na zupę 450ml okrągły PP 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania cateringowe sprzedawane w pakietach po 50 sztuk. Specyfikacja techniczna (materiał PP, odporność termiczna, możliwość zgrzewu) oraz informacje o opłacie SUP i odsprzedaży wskazują na przeznaczenie profesjonalne dla branży gastronomicznej."
+    },
+    {
+        "ID_Produktu": "242631944",
+        "Nazwa_Produktu": "Pojemnik na zupę czarny okrągły 450ml PP 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowanie polipropylenowe (PP) sprzedawane w ilości hurtowej (50 sztuk). Opis wyraźnie wskazuje na przeznaczenie profesjonalne (gastronomia, catering), wspominając o opłacie SUP (Single Use Plastics) oraz warunkach zakupu do dalszej odsprzedaży, co klasyfikuje go do kategorii Pojemniki gastronomiczne w sekcji Firma i Przemysł."
     }
 ]
