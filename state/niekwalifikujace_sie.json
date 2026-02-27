@@ -218,5 +218,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to tekturowe opakowania jednorazowe przeznaczone dla profesjonalnej gastronomii (food trucki, bary), co klasyfikuje go w kategorii Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne."
+    },
+    {
+        "ID_Produktu": "242631854",
+        "Nazwa_Produktu": "Opakowanie na wynos Wrap 210x95x30  100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe przeznaczone do pakowania posiłków na wynos. Opis jednoznacznie wskazuje na zastosowanie w profesjonalnej gastronomii (restauracje, food trucki), dlatego kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej odpowiednia."
     }
 ]
