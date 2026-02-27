@@ -758,5 +758,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to materiał eksploatacyjny (rolki papieru termicznego) przeznaczony bezpośrednio do kas fiskalnych, co sprawia, że kategoria 'Kasy fiskalne' w sekcji 'Sklepy i magazyny' jest najbardziej trafnym i specyficznym wyborem dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "242632432",
+        "Nazwa_Produktu": "Taśma do zaklejarki 9/66 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Taśma do zaklejarek 9/66 (9 mm szerokości) to specjalistyczny artykuł eksploatacyjny używany głównie w handlu detalicznym (np. stoiska z pieczywem, warzywami) oraz w magazynach do zabezpieczania opakowań foliowych. Produkt stanowi wyposażenie sklepów i magazynów, dlatego kategoria Firma i Przemysł > Sklepy i magazyny > Pozostałe jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "242632433",
+        "Nazwa_Produktu": "Etykiety samoprzylepne 58x40 600etykiet na rolce",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny",
+        "Finalne_ID_AI": 4668,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to etykiety termiczne przeznaczone do wag sklepowych i drukarek etykietujących, co klasyfikuje go jako akcesorium do urządzeń drukujących w kategorii Firma i Przemysł > Sklepy i magazyny."
     }
 ]
