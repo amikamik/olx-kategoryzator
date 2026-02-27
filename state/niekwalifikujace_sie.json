@@ -15388,5 +15388,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to 'wózek kelnerski' przeznaczony do branży HoReCa (hotele, restauracje, catering). Kategoria 'Firma i Przemysł > Gastronomia > Wózki gastronomiczne' jest najbardziej szczegółowa i idealnie pasuje do opisu i zastosowania produktu."
+    },
+    {
+        "ID_Produktu": "1020490",
+        "Nazwa_Produktu": "Samochodowa ładowarka 2x USB z podświetleniem 24W czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Ładowarki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalne_ID_AI": 4489,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to ładowarka samochodowa z portami USB, która jest przeznaczona do użytku w samochodzie. Kategoria 'Elektronika samochodowa' w drzewie 'Motoryzacja > Wyposażenie i akcesoria samochodowe' jest najbardziej szczegółowa i trafnie oddaje zarówno elektroniczny charakter produktu, jak i jego przeznaczenie do samochodu."
     }
 ]
