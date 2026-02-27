@@ -778,5 +778,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to etykiety termiczne przeznaczone do wag sklepowych i drukarek etykietujących, co klasyfikuje go jako akcesorium do urządzeń drukujących w kategorii Firma i Przemysł > Sklepy i magazyny."
+    },
+    {
+        "ID_Produktu": "242632449",
+        "Nazwa_Produktu": "Pojemnik z zespoloną pokrywką 500ml PP 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opakowanie zbiorcze (50 sztuk) profesjonalnych pojemników jednorazowych z polipropylenu (PP) z certyfikatem SUP, przeznaczonych głównie do użytku komercyjnego w gastronomii i cateringu."
+    },
+    {
+        "ID_Produktu": "242632455",
+        "Nazwa_Produktu": "Pojemnik na ciasto 212x212mm F70 OPS 10szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania cukiernicze wykonane z tworzywa OPS, sprzedawane w ilościach hurtowych (kartony) i objęte opłatą SUP (Single Use Plastics). Ze względu na profesjonalne przeznaczenie do pakowania i transportu wyrobów cukierniczych, najlepiej pasuje do kategorii pojemników gastronomicznych w sekcji Firma i Przemysł."
     }
 ]
