@@ -828,5 +828,185 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to uchwyty (gripy) przeznaczone do kierownicy motocykla, co jednoznacznie wskazuje na kategorię części motocyklowe (ID 1335), która jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "242632534",
+        "Nazwa_Produktu": "Mała torebka ze złotym łańcuszkiem skóra PU czarna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby na ramię",
+        "Finalne_ID_AI": 2758,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to mała torebka damska z łańcuszkiem, przeznaczona do noszenia na ramieniu. Słowa kluczowe takie jak 'torebka', 'torba na ramię' oraz 'crossbody' bezpośrednio wskazują na tę kategorię."
+    },
+    {
+        "ID_Produktu": "242632546",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 1 L F338 OPS 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe pojemniki na żywność sprzedawane w dużej ilości (50 sztuk), przeznaczone do pakowania i transportu sałatek, co jest typowe dla sektora gastronomicznego. Wzmianka o opłacie SUP (Single Use Plastics) i możliwości dalszej odsprzedaży potwierdza profesjonalny, a nie domowy, charakter produktu. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł' jest najbardziej precyzyjna."
+    },
+    {
+        "ID_Produktu": "242632551",
+        "Nazwa_Produktu": "Pudełko na ciasto 223x135mm F35 OPS 10szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe pudełko przeznaczone do pakowania ciast i wyrobów cukierniczych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i szczegółowym opisem tego produktu. Wskazania w opisie dotyczące sprzedaży hurtowej i opłaty SUP dodatkowo potwierdzają, że jest to produkt dla firm z branży gastronomicznej."
+    },
+    {
+        "ID_Produktu": "242632552",
+        "Nazwa_Produktu": "Pojemnik na ciasto 241x140mm F38 OPS 10szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowy pojemnik na ciasto, przeznaczony do pakowania i transportu wyrobów cukierniczych. Opis wspomina o opłacie SUP (Single Use Plastics) oraz o możliwości zakupu do dalszej odsprzedaży, co wskazuje na profesjonalne, gastronomiczne zastosowanie. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "242632555",
+        "Nazwa_Produktu": "Opakowania na frytki 70x70x75/120 + dip 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowanie na wynos (rożek na frytki), sprzedawane w ilości 100 sztuk i przeznaczone dla lokali gastronomicznych, takich jak food trucki, bary i restauracje. Jest to specjalistyczne wyposażenie dla firm, dlatego najbardziej odpowiednią kategorią jest \"Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne\"."
+    },
+    {
+        "ID_Produktu": "242632559",
+        "Nazwa_Produktu": "Miska papierowa 500ml biała śr.115 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowa miska papierowa przeznaczona do serwowania dań. Opis wyraźnie wskazuje na jej zastosowanie w gastronomii, barach i food truckach, a także odnosi się do opłaty SUP, co potwierdza biznesowy charakter oferty. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł' jest najbardziej precyzyjnym i adekwatnym wyborem."
+    },
+    {
+        "ID_Produktu": "242632562",
+        "Nazwa_Produktu": "Opakowanie na wynos frytki 200g 13x14  100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe, tekturowe opakowanie przeznaczone do dań na wynos (frytek), z wyraźnym wskazaniem na zastosowanie w gastronomii, restauracjach i food truckach. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł' jest najbardziej precyzyjnym i specyficznym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "242632566",
+        "Nazwa_Produktu": "Menu box burger talerz 165x120x70  100szt",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Talerze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe, tekturowe pojemniki na burgery sprzedawane w dużej ilości (100 szt.), przeznaczone dla gastronomii, cateringu i punktów z jedzeniem na wynos. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł' idealnie i bardzo precyzyjnie opisuje ten typ produktu. Wskazówka systemowa jest całkowicie błędna."
+    },
+    {
+        "ID_Produktu": "242632568",
+        "Nazwa_Produktu": "Opakowanie na frytki 18x12x4,5cm 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to opakowanie na wynos (tacka na frytki) przeznaczone dla gastronomii, barów i food trucków. Jest to profesjonalny produkt B2B, a nie pudełko do użytku domowego. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł' jest najbardziej precyzyjnym i adekwatnym wyborem."
+    },
+    {
+        "ID_Produktu": "242632572",
+        "Nazwa_Produktu": "Pudełko papierowe na zapiekankę 38x11x5 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowanie papierowe przeznaczone do dań na wynos (zapiekanka), a jego zastosowanie, zgodnie z opisem, to gastronomia, restauracje i food trucki. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najdokładniejszym i najbardziej szczegółowym odzwierciedleniem produktu."
+    },
+    {
+        "ID_Produktu": "242632576",
+        "Nazwa_Produktu": "Etui papierowe na sztućce z serwetką czarne 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to etui na sztućce z serwetką, sprzedawane w dużej ilości (100 sztuk), co wskazuje na przeznaczenie dla biznesu, konkretnie dla branży gastronomicznej. Jest to rodzaj jednorazowego opakowania/pojemnika na sztućce. Najlepiej pasującą kategorią jest \"Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne\", która jest przeznaczona dla tego typu produktów B2B."
+    },
+    {
+        "ID_Produktu": "242632584",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 10x27/4 cm 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242632588",
+        "Nazwa_Produktu": "Taśma klejąca Vibac 48mm 60m Solvent transparent 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taśma klejąca przeznaczona do pakowania i zaklejania kartonów, paczek i przesyłek. Opis wyraźnie wskazuje na jej zastosowanie w firmach logistycznych, sklepach internetowych i magazynach. Dlatego najbardziej odpowiednią kategorią główną jest 'Firma i Przemysł', a podkategorią 'Sklepy i magazyny'. Z braku bardziej szczegółowej opcji dla materiałów do pakowania, kategoria 'Pozostałe' jest najwłaściwszym wyborem na najgłębszym poziomie."
+    },
+    {
+        "ID_Produktu": "242632593",
+        "Nazwa_Produktu": "Reklamówka 40x80 HDPE biała Mega 30mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242632596",
+        "Nazwa_Produktu": "Opakowanie na frytki 14x7x4cm 100szt tacka pudełko pojemnik",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowanie na frytki, przeznaczone do serwowania dań typu fast food, co jednoznacznie kwalifikuje go do kategorii gastronomicznej. Jest to produkt dla firm. Najbardziej szczegółową i adekwatną kategorią-liściem jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'. Wskazówka systemowa jest niepoprawna, ponieważ produkt nie służy do wyposażenia wnętrz w domu."
+    },
+    {
+        "ID_Produktu": "242632597",
+        "Nazwa_Produktu": "Kubek papierowy 240ml na kawę kraft 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to papierowe kubki do kawy sprzedawane w opakowaniach zbiorczych (50 szt.), przeznaczone do serwowania napojów na wynos. Opis wskazuje na zastosowanie komercyjne (opłata SUP, możliwość odsprzedaży, karton 1000 szt.), co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia'. Najbardziej szczegółową podkategorią są 'Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "242632600",
+        "Nazwa_Produktu": "Reklamówka 30x55 HDPE biała 30 mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to reklamówka przeznaczona do użytku w sklepach, co jest jasno wskazane w opisie ('Wykorzystywana w sklepach do pakowania zakupionych produktów'). Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej adekwatna. Z braku bardziej szczegółowej podkategorii na opakowania lub torby, kategoria końcowa 'Pozostałe' jest właściwym wyborem."
+    },
+    {
+        "ID_Produktu": "242632603",
+        "Nazwa_Produktu": "Reklamówka 25x45 HDPE biała 30 mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to reklamówka przeznaczona do użytku w sklepach do pakowania produktów, co jest wyraźnie wskazane w opisie. Należy więc do kategorii 'Firma i Przemysł'. W tej gałęzi, podkategoria 'Sklepy i magazyny' jest najbardziej odpowiednia, a ponieważ nie ma bardziej szczegółowej kategorii dla materiałów eksploatacyjnych jak torby, 'Pozostałe' jest właściwym wyborem."
     }
 ]
