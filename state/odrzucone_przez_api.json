@@ -13615,5 +13615,88 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "1019873",
+        "Nazwa_Produktu": "Przedłużacz do kabla przewodu HDMI 1.4v 4K 60Hz 30AWG 2m czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Komputery > Akcesoria komputerowe > Kable i przejściówki",
+        "Finalna_Sciezka_AI": "Elektronika > Komputery > Akcesoria komputerowe > Kable i przejściówki",
+        "Finalne_ID_AI": 3095,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest kablem (przedłużaczem) sygnałowym HDMI. W drzewie kategorii OLX, kable tego typu są najczęściej klasyfikowane w sekcji akcesoriów komputerowych pod specyficznym liściem 'Kable i przejściówki' (ID: 3095), co jest najbardziej dopasowaną kategorią dla osprzętu wideo-cyfrowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Przedłużacz do kabla przewodu hdmi 1.4v 4k 60hz 30awg 2m czarny",
+                "description": "Kod produktu: 1019873 Ugreen kabel przewód przedłużacz HDMI (żeński) - HDMI (męski) 19 pin 1.4v 4K 60Hz 30AWG 2m. Przedłużacz kabla HDMI marki Ugreen. Pozwala w prosty sposób przedłużyć za krótki kabel HDMI. Możesz go wykorzystać do podłączania kina domowego, telewizora, projektora, komputera, konsoli do gier oraz innych urządzeń wyposażonych w złącze HDMI. Najważniejsze cechy: - Jakość obrazu max 4K 60Hz, - Obsługuje standard HDMI Ethernet, - Rdzeń z wysokiej jakości miedzi 30 AWG, - Pozłacane wtyczki, - Nowoczesny wygląd. Specyfikacja: - Długość przewodu: 2 m - Standard HDMI: 1.4v - Obsługiwane rozdzielczości: 4K x 2K 60Hz, 3840x2160, 2560x1600, 2560x1440, 1920x1200, 1080p - Funkcje: Ethernet Channel, Audio Return Channel (ARC), 3D - Przepustowość: 10,2 Gbps - Rdzeń: 30 AWG - Żeby zapewnić obraz 4Kx2K @60Hz, całkowita długość przedłużacza i podłączonego do niego kabla nie powinna przekraczać 3 m - Żeby zapewnić obraz 4Kx2K @30Hz, całkowita długość przedłużacza i podłączonego do niego kabla nie powinna przekraczać 5 m Zestaw zawiera: Kabel przewód przedłużacz HDMI (żeński) - HDMI (męski) 19 pin 1.4v 4K 60Hz 30AWG 2m\n----------------------------------------\nINFORMACJE O PRODUCENCIE (GPSR)\n----------------------------------------\nProducent/Importer: Ugreen Group GmbH\nAdres: Prinzenallee 1, 40549, Dsseldorf, Niemcy\nEmail: support(at)ugreen.com\nTelefon: +49(0)1728130175\n----------------------------------------",
+                "category_id": 3095,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.05,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019873-1-przedluzacz-do-kabla-przewodu-hdmi-1-4v-4k-60hz-30awg-2-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019873-2-przedluzacz-do-kabla-przewodu-hdmi-1-4v-4k-60hz-30awg-2-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019873-3-przedluzacz-do-kabla-przewodu-hdmi-1-4v-4k-60hz-30awg-2-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019873-4-przedluzacz-do-kabla-przewodu-hdmi-1-4v-4k-60hz-30awg-2-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019873-5-przedluzacz-do-kabla-przewodu-hdmi-1-4v-4k-60hz-30awg-2-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019873-6-przedluzacz-do-kabla-przewodu-hdmi-1-4v-4k-60hz-30awg-2-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019873-7-przedluzacz-do-kabla-przewodu-hdmi-1-4v-4k-60hz-30awg-2-ugreen-hurtownia-sklep.jpg"
+                    },
+                    {
+                        "url": "https://www.hurtowniaprzemyslowa.pl/images/produkty/98/1019873-8-przedluzacz-do-kabla-przewodu-hdmi-1-4v-4k-60hz-30awg-2-ugreen-hurtownia-sklep.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
