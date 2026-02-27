@@ -14958,5 +14958,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to funkcjonalny dodatek przeznaczony konkretnie do okularów (łańcuszek/zawieszka), co czyni kategorię 'Akcesoria do okularów' (2735) najbardziej precyzyjnym wyborem, mimo jego dekoracyjnego charakteru."
+    },
+    {
+        "ID_Produktu": "1019661",
+        "Nazwa_Produktu": "Tester skaner diagnostyczny do samochodów OBD2 8-18 V VIN / ID / CVN / PCM / ECU",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Testery diagnostyczne",
+        "Finalne_ID_AI": 5184,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest skanerem diagnostycznym OBD2 przeznaczonym do odczytu i usuwania kodów błędów w samochodach, co czyni kategorię 'Testery diagnostyczne' (w sekcji Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka) najbardziej precyzyjnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "1019662",
+        "Nazwa_Produktu": "Tester miernik diagnostyczny do akumulatorów LCD 12 / 24 V",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Przyrządy miernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Testery diagnostyczne",
+        "Finalne_ID_AI": 5184,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny tester diagnostyczny do akumulatorów samochodowych i motocyklowych, co najlepiej odpowiada kategorii 'Testery diagnostyczne' w sekcji diagnostyki wyposażenia warsztatowego."
+    },
+    {
+        "ID_Produktu": "1019697",
+        "Nazwa_Produktu": "Siatka ogrodzeniowa leśna ocynkowana oczko 15 cm wys. 100 cm 50 m",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Bramy i ogrodzenia > Siatki i panele ogrodzeniowe",
+        "Finalne_ID_AI": 3141,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to stalowa siatka ogrodzeniowa (leśna/pastwiskowa), która w drzewie kategorii OLX najlepiej odpowiada pozycji 'Siatki i panele ogrodzeniowe' w sekcji Budowa i Ogrodzenia."
+    },
+    {
+        "ID_Produktu": "1019711",
+        "Nazwa_Produktu": "Zestaw narzędzi do wychowu matek pszczelich - 322 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Rolnictwo > Giełda zwierząt > Pszczoły",
+        "Finalne_ID_AI": 3017,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny zestaw do hodowli matek pszczelich (izolatory, klateczki, łyżeczki do larw). W drzewie kategorii OLX pszczelarstwo (zarówno handel owadami, jak i sprzętem pasiecznym) jest tradycyjnie przypisane do kategorii 'Pszczoły' (ID 3017) w sekcji 'Giełda zwierząt' pod kategorią 'Rolnictwo'. Jest to najbardziej specyficzna kategoria odpowiadająca tej dziedzinie."
+    },
+    {
+        "ID_Produktu": "1019712",
+        "Nazwa_Produktu": "Zestaw narzędzi pszczelarskich dłuto zmiotka chwytak odsklepiacz - 17 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Rolnictwo > Pozostałe rolnicze",
+        "Finalne_ID_AI": 765,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Zestaw zawiera wysoce specjalistyczne narzędzia przeznaczone wyłącznie do pszczelarstwa (np. odsklepiacz, przyrząd do znakowania królowej, chwytaki do matek). Pszczelarstwo to gałąź rolnictwa, a w strukturze kategorii OLX specjalistyczny osprzęt rolniczy, który nie posiada własnej dedykowanej podkategorii, trafia do sekcji 'Pozostałe rolnicze'. Kategoria 'Narzędzia ręczne' sugerowana przez system jest zbyt ogólna dla profesjonalnego sprzętu pasiecznego."
+    },
+    {
+        "ID_Produktu": "1019713",
+        "Nazwa_Produktu": "Zestaw narzędzi pszczelarskich pas poławiacz pyłku pułapka na chrząszcze - 28 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Rolnictwo > Pozostałe rolnicze",
+        "Finalne_ID_AI": 765,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pszczelarstwo jest dziedziną rolnictwa, a oferowany produkt to specjalistyczny zestaw akcesoriów i narzędzi do prowadzenia pasieki. Ze względu na brak dedykowanej kategorii dla sprzętu pszczelarskiego w podanym drzewie, kategoria 'Rolnictwo > Pozostałe rolnicze' (ID: 765) jest najbardziej trafnym i specyficznym wyborem dla tego typu przedmiotów."
+    },
+    {
+        "ID_Produktu": "1019809",
+        "Nazwa_Produktu": "Podnóżek kosmetyczny do pedicure 24x22cm wys. 47-67cm - kremowy",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Fotele i łóżka kosmetyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Fotele do pedicure",
+        "Finalne_ID_AI": 5104,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest profesjonalnym meblem przeznaczonym do zabiegów pedicure. W drzewie kategorii OLX najbardziej trafną i szczegółową kategorią-liściem dla mebli służących do tego konkretnego zabiegu jest 'Fotele do pedicure', mimo że produkt jest podnóżkiem, a nie pełnym fotelem."
     }
 ]
