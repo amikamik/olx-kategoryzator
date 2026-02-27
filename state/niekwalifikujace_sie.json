@@ -1108,5 +1108,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242632732",
+        "Nazwa_Produktu": "Kubek fingerfood 120ml 6x6 cm piramida 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowy kubek/pojemnik przeznaczony do serwowania deserów i przekąsek, tzw. finger food. Opis wskazuje na profesjonalne zastosowanie (bankiety, gale, imprezy), a informacja o opłacie SUP i możliwości dalszej odsprzedaży potwierdza biznesowy charakter produktu. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł' jest najtrafniejsza."
+    },
+    {
+        "ID_Produktu": "242632745",
+        "Nazwa_Produktu": "Opakowanie  na zapiekanki 370x120x45mm 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe, tekturowe opakowanie na zapiekanki, przeznaczone dla gastronomii (restauracje, bary, food trucki) do pakowania dań na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i bezpośrednim opisem tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "242632747",
+        "Nazwa_Produktu": "Miska papierowa 500ml kraft śr.150 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe miski papierowe przeznaczone do serwowania dań. Opis wyraźnie wskazuje na ich zastosowanie w małej gastronomii, barach i food truckach, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'. Wskazówka systemowa jest nieprawidłowa, gdyż kontekst nie dotyczy zwierząt."
+    },
+    {
+        "ID_Produktu": "242632751",
+        "Nazwa_Produktu": "Pokrywka do miski średnica 155mm PET 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Miski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
