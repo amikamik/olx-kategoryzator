@@ -15168,5 +15168,185 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to wózek transportowy przeznaczony specjalnie do desek SUP, które są sprzętem do sportów wodnych. Najbardziej szczegółowa kategoria to Sport i Hobby > Sporty wodne > SUP > Akcesoria."
+    },
+    {
+        "ID_Produktu": "1017148",
+        "Nazwa_Produktu": "Plecak termoizolacyjny dostawczy z ruchomą przegrodą 355 x 280 x 430 mm",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Klimatyzacja i wentylacja",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plecak termoizolacyjny, który jest opisywany jako 'pojemnik' do transportu potraw w branży gastronomicznej dla kurierów. Najbardziej szczegółowa i trafna kategoria to 'Pojemniki gastronomiczne' w ramach 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "1017307",
+        "Nazwa_Produktu": "Stół spawalniczy montażowy perforowany blat 3 mm 91.5 x 46 cm do 100 kg",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Wyposażenie warsztatów > Stoły warsztatowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów",
+        "Finalne_ID_AI": 5164,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to stół przeznaczony do prac spawalniczych, co jednoznacznie klasyfikuje go jako 'Stół warsztatowy'. Kategoria ta znajduje się w ścieżce 'Firma i Przemysł > Wyposażenie warsztatów', co jest idealnym dopasowaniem dla tego typu specjalistycznego sprzętu."
+    },
+    {
+        "ID_Produktu": "1017310",
+        "Nazwa_Produktu": "Waga sklepowa handlowa licząca LCD RS232 3000 g / 0.05 g",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu 'Waga sklepowa handlowa licząca' oraz opis wskazujący na zastosowanie w przemyśle spożywczym, leśnictwie, ogrodnictwie i ośrodkach badawczych idealnie pasują do kategorii 'Firma i Przemysł > Sklepy i magazyny > Wagi'. Jest to najbardziej szczegółowa i trafna kategoria dla tego typu urządzenia."
+    },
+    {
+        "ID_Produktu": "1017311",
+        "Nazwa_Produktu": "Waga sklepowa handlowa licząca LCD RS232 6000 g / 0.1 g",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na wagę handlową/sklepową przeznaczoną do użytku komercyjnego, co idealnie pasuje do kategorii 'Wagi' znajdującej się w ścieżce 'Firma i Przemysł > Sklepy i magazyny'."
+    },
+    {
+        "ID_Produktu": "1017517",
+        "Nazwa_Produktu": "Sauna fryzjerska nawilżacz do pielęgnacji włosów stojący 750 cm3 730 W",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Włosy > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Sprzęt kosmetyczny > Pozostałe",
+        "Finalne_ID_AI": 5120,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'sauna fryzjerska', czyli profesjonalne urządzenie do pielęgnacji włosów przeznaczone głównie do użytku w salonach fryzjerskich i strefach SPA, co jasno wskazuje na kategorię 'Firma i Przemysł'. Spośród dostępnych podkategorii, 'Wyposażenie salonów' jest najbardziej adekwatne, a następnie 'Sprzęt kosmetyczny', ponieważ sauna do włosów jest rodzajem sprzętu do pielęgnacji. Ponieważ nie ma bardziej szczegółowej kategorii dla 'sauny do włosów' pod 'Sprzęt kosmetyczny', wybór 'Pozostałe' jest najbardziej szczegółową kategorią liściową."
+    },
+    {
+        "ID_Produktu": "1017576",
+        "Nazwa_Produktu": "Pojemnik na zużyte baterie stare leki zakrętki 17.5L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest pojemnikiem do zbiórki zużytych baterii, leków i zakrętek, przeznaczonym do użytku w sklepach, aptekach, biurach i szkołach. Kategoria 'Firma i Przemysł' jest najbardziej odpowiednia ze względu na charakter instytucjonalny/komercyjny zastosowania. W ramach tej kategorii 'Sklepy i magazyny' pasuje do 'sklepów i aptek', a 'Pozostałe' w tej podkategorii dobrze oddaje ogólne przeznaczenie pojemnika do zbiórki, który nie pasuje do bardziej specyficznych typów wyposażenia handlowego."
+    },
+    {
+        "ID_Produktu": "1017977",
+        "Nazwa_Produktu": "Miotła zamiatarka magnetyczna do zbierania opiłków gwoździ na kółkach szer. 75 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Zamiatarki",
+        "Finalne_ID_AI": 4856,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje, że jest to 'zamiatarka magnetyczna', co idealnie pasuje do kategorii 'Zamiatarki'. Opis dodatkowo podkreśla zastosowanie profesjonalne/przemysłowe ('warsztaty, place budowy, fabryki'), co kieruje do głównej kategorii 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "1017978",
+        "Nazwa_Produktu": "Miotła zamiatarka magnetyczna do zbierania opiłków gwoździ na kółkach szer. 90 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Zamiatarki",
+        "Finalne_ID_AI": 4856,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zamiatarka magnetyczna przeznaczona do zbierania metalowych opiłków i gwoździ, stosowana w warsztatach, fabrykach i na budowach. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Zamiatarki' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu, który jest specjalistycznym urządzeniem czyszczącym o zastosowaniu profesjonalnym, a w tytule wprost jest nazwany 'zamiatarką'."
+    },
+    {
+        "ID_Produktu": "1018128",
+        "Nazwa_Produktu": "Krzesło kosmetyczne siodłowe z oparciem obrotowe regulowane BERLIN - niebieskie",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Krzesła biurowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Fotele i łóżka kosmetyczne",
+        "Finalne_ID_AI": 5105,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest specjalistycznym krzesłem siodłowym z oparciem, przeznaczonym do użytku w gabinetach kosmetycznych i salonach fryzjerskich. Kategoria 'Fotele i łóżka kosmetyczne' (Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne) najlepiej oddaje jego przeznaczenie i typ, będąc najbardziej szczegółową opcją z dostępnego drzewa."
+    },
+    {
+        "ID_Produktu": "1018176",
+        "Nazwa_Produktu": "Taboret stołek hoker kosmetyczny siodłowy na kółkach York do 150 kg beżowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalne_ID_AI": 1947,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'taboret' oraz 'hoker', a także na jego przeznaczenie (kosmetyczne), co idealnie pasuje do kategorii 'Taborety i hokery' w drzewie 'Dom i Ogród > Meble'. Jest to najbardziej szczegółowa i trafna kategoria dla tego produktu."
+    },
+    {
+        "ID_Produktu": "1018632",
+        "Nazwa_Produktu": "Metalowy kosz do segregacji śmieci 30x30x70cm 60L PAPIER - pokrywa niebieska",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz do segregacji śmieci, wyraźnie przeznaczony do użytku w biurach, szkołach i urzędach, co wskazuje na kategorię biznesową. Najbardziej szczegółowa i pasująca kategoria to 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "1018636",
+        "Nazwa_Produktu": "Metalowy kosz do segregacji śmieci 30x30x70cm 60L METAL - pokrywa czerwona",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Kosze na śmieci",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to metalowy kosz do segregacji śmieci, o pojemności 60L, przeznaczony do biur, szkół i innych obiektów użyteczności publicznej, co wskazuje na zastosowanie profesjonalne/biurowe. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna, lepiej pasująca niż ogólne 'Kosze na śmieci' pod 'Akcesoria łazienkowe', które sugerowałaby domowe, łazienkowe zastosowanie."
+    },
+    {
+        "ID_Produktu": "1018710",
+        "Nazwa_Produktu": "Pipeta laboratoryjna 12 kanałowa ręczna 0.005-0.01 ml",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt medyczny",
+        "Finalne_ID_AI": 4785,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pipeta laboratoryjna, która służy do precyzyjnego odmierzania płynów. Jest to specjalistyczne narzędzie, często używane w laboratoriach medycznych, badawczych lub edukacyjnych. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt medyczny' jest najbardziej szczegółową i adekwatną kategorią, która obejmuje tego typu profesjonalne instrumenty. Wskazówka systemowa została zignorowana, ponieważ była całkowicie błędna."
+    },
+    {
+        "ID_Produktu": "1018782",
+        "Nazwa_Produktu": "Zestaw bezpieczeństwa niezbędnik saperka do samochodu na kemping 11 FUNKCJI",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wielofunkcyjnym zestawem bezpieczeństwa i przetrwania, który wyraźnie wymienia zastosowanie w samochodzie oraz zawiera elementy specyficzne dla motoryzacji (kable rozruchowe, lina holownicza, kamizelka odblaskowa). Chociaż zawiera też elementy turystyczne, te motoryzacyjne są kluczowe dla opisu. Najbardziej szczegółową kategorią-liściem, która może pomieścić taki zróżnicowany zestaw, jest 'Pozostałe' w ramach 'Wyposażenie i akcesoria samochodowe'."
+    },
+    {
+        "ID_Produktu": "1018833",
+        "Nazwa_Produktu": "Zestaw do wychowu matek pszczelich plastikowy 483 x 232 x 42 mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Rolnictwo > Giełda zwierząt > Pszczoły",
+        "Finalne_ID_AI": 3017,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny zestaw do hodowli matek pszczelich, co idealnie pasuje do kategorii 'Rolnictwo > Giełda zwierząt > Pszczoły' jako najbardziej szczegółowej i trafnej opcji w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "1019610",
+        "Nazwa_Produktu": "Krzesło kosmetyczne siodłowe z oparciem obrotowe regulowane BERLIN - czarne",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Krzesła biurowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Fotele i łóżka kosmetyczne",
+        "Finalne_ID_AI": 5105,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'krzesło kosmetyczne siodłowe z oparciem', przeznaczone do użytku w salonach kosmetycznych, fryzjerskich, tatuażu, SPA i wellness, a także w pracowniach krawieckich. Pasuje idealnie do kategorii 'Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne', a najbardziej szczegółową kategorią dla krzesła (fotela) jest 'Fotele i łóżka kosmetyczne'. Mimo, że produkt to krzesło, w profesjonalnym kontekście często określane jest jako fotel. Posiada oparcie, co wyklucza kategorię 'Taborety kosmetyczne'. Jest to bardziej precyzyjne niż ogólna kategoria 'Krzesła biurowe' z 'Dom i Ogród', ponieważ główne przeznaczenie jest zawodowe i specjalistyczne."
+    },
+    {
+        "ID_Produktu": "1019680",
+        "Nazwa_Produktu": "Kosz gabionowy ze stali galwanizowanej 101 x 32 x 83 cm - 2 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Bramy i ogrodzenia > Siatki i panele ogrodzeniowe",
+        "Finalne_ID_AI": 3141,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz gabionowy, który jest opisany jako 'ogrodzenie gabionowe' i 'konstrukcja druciana wykonana ze stalowych prętów'. Gabiony pełnią funkcję paneli ogrodzeniowych lub ścian, co idealnie pasuje do kategorii 'Siatki i panele ogrodzeniowe', znajdującej się pod 'Bramy i ogrodzenia' w dziale 'Budowa'."
+    },
+    {
+        "ID_Produktu": "1019709",
+        "Nazwa_Produktu": "Zestaw narzędzi pszczelarskich podkurzacz dłuta zmiotka podkarmiaczka - 26 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw narzędzi, co idealnie pasuje do kategorii 'Zestawy narzędzi' w ramach 'Dom i Ogród > Narzędzia'. Choć narzędzia są pszczelarskie, sama kategoria jest ogólna dla narzędzi w zestawie."
     }
 ]
