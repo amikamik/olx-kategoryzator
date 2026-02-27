@@ -15358,5 +15358,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to ładowarka samochodowa, której głównym przeznaczeniem jest użycie w pojazdach. Kategoria 'Elektronika samochodowa' w drzewie 'Motoryzacja > Wyposażenie i akcesoria samochodowe' jest najbardziej szczegółowa i trafna, ponieważ odnosi się bezpośrednio do elektronicznych akcesoriów przeznaczonych do aut, a nie ogólnie do ładowarek jako akcesoriów telefonicznych."
+    },
+    {
+        "ID_Produktu": "1020097",
+        "Nazwa_Produktu": "9w1 ładowarka samochodowa rozdzielacz 5x USB 1x USB-C 3x gniazdo zapalniczki PD QC czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Ładowarki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalne_ID_AI": 4489,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest ładowarką samochodową i rozdzielaczem gniazd zapalniczki, przeznaczonym do użytku w pojazdach (samochody osobowe, ciężarowe) i służy do zasilania wielu urządzeń w samochodzie. Kategoria 'Elektronika samochodowa' w dziale 'Motoryzacja > Wyposażenie i akcesoria samochodowe' jest najbardziej szczegółowa i najlepiej odzwierciedla główną funkcję i przeznaczenie produktu, w odróżnieniu od ogólnej kategorii ładowarek telefonicznych, mimo że może ładować również telefony."
+    },
+    {
+        "ID_Produktu": "1020109",
+        "Nazwa_Produktu": "Powerbank 10000mAh + urządzenie rozruchowe auta Booster 12V 1000A czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Powerbanki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Prostowniki i kable rozruchowe",
+        "Finalne_ID_AI": 4502,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Główną funkcją produktu jest urządzenie rozruchowe do samochodów, co idealnie pasuje do kategorii 'Prostowniki i kable rozruchowe' w ramach Motoryzacji. Funkcja powerbanku jest dodatkowa."
     }
 ]

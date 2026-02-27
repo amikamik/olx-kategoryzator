@@ -1729,5 +1729,18 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "1020093",
+        "Nazwa_Produktu": "Etui pokrowiec do iPhone 13 pancerna obudowa z haczykami podstawką przezroczysty",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Etui",
+        "Finalna_Sciezka_AI": "Elektronika > Telefony > Akcesoria > Etui",
+        "Finalne_ID_AI": 2910,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to etui/pokrowiec do iPhone 13, co dokładnie odpowiada kategorii 'Elektronika > Telefony > Akcesoria > Etui'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]
