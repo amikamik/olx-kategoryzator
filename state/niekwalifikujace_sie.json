@@ -228,5 +228,105 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe przeznaczone do pakowania posiłków na wynos. Opis jednoznacznie wskazuje na zastosowanie w profesjonalnej gastronomii (restauracje, food trucki), dlatego kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "242631868",
+        "Nazwa_Produktu": "Rolka do kasy fiskalnej 57/25 termiczna 10szt Apak",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalne_ID_AI": 4672,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to materiał eksploatacyjny (rolka termiczna) ściśle powiązany z urządzeniami fiskalnymi. Kategoria 'Kasy fiskalne' w drzewie 'Sklepy i magazyny' jest najbardziej odpowiednim i specyficznym miejscem dla tego typu artykułów biurowo-przemysłowych akcesoriów sprzedażowych."
+    },
+    {
+        "ID_Produktu": "242631870",
+        "Nazwa_Produktu": "Rolka do kasy fiskalnej 57x60 termiczna 8szt Apak",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalne_ID_AI": 4672,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to materiał eksploatacyjny (rolki termiczne) bezpośrednio przeznaczony do użytku w kasach fiskalnych i terminalach płatniczych, co czyni kategorię 'Kasy fiskalne' najbardziej specyficznym i trafnym wyborem w drzewie kategorii 'Sklepy i magazyny'."
+    },
+    {
+        "ID_Produktu": "242631877",
+        "Nazwa_Produktu": "Pojemnik na sosy 50ml F705 OPS 100szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opakowania jednorazowe (pojemniki na sosy) sprzedawane w ilości hurtowej (100 sztuk) z uwzględnieniem opłaty SUP (Single Use Plastics), co jednoznacznie wskazuje na przeznaczenie dla profesjonalnej branży gastronomicznej w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242631878",
+        "Nazwa_Produktu": "Pokrywka do pojemnika na sosy 66mm F700 OPS 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hurtowa ilość (opakowanie 100 sztuk, opcja kartonu 2000 sztuk) profesjonalnych pokrywek do pojemników na sosy wykonanych z tworzywa OPS/PET. Ze względu na masową ilość oraz specyfikację techniczną (kod F700, odporność temperaturowa), produkt jest typowym zaopatrzeniem dla branży gastronomicznej, co czyni kategorię 'Pojemniki gastronomiczne' w drzewie 'Firma i Przemysł' najbardziej trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "242631879",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 18x45/4 cm 6mic 800szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny",
+        "Finalne_ID_AI": 4668,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to woreczki HDPE w ilości hurtowej (800 sztuk), przeznaczone do użytku komercyjnego w sklepach i piekarniach. Najlepiej pasuje do kategorii 'Firma i Przemysł' w podkategorii 'Sklepy i magazyny', ponieważ stanowi element wyposażenia/materiałów eksploatacyjnych dla punktów handlowych."
+    },
+    {
+        "ID_Produktu": "242631884",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 18x35/4 cm 9mic ST",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe woreczki foliowe HDPE przeznaczone do pakowania żywności, dedykowane dla punktów handlowych, piekarni i gastronomii. Ze względu na przeznaczenie biznesowe (materiał eksploatacyjny dla sklepów), kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "242631888",
+        "Nazwa_Produktu": "Torebka papierowa 15x10/5 biała 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to hurtowa ilość (1000 sztuk) jednorazowych opakowań papierowych przeznaczonych dla punktów handlowych (piekarnie, cukiernie, sklepy), co jednoznacznie wskazuje na kategorię Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242631890",
+        "Nazwa_Produktu": "Torebka papierowa 27x11/6 biała 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opakowania eksploatacyjne przeznaczone do użytku komercyjnego w handlu (piekarnie, sklepy spożywcze), co w drzewie kategorii OLX najlepiej klasyfikuje się w sekcji Firma i Przemysł > Sklepy i magazyny > Pozostałe. Hurtowa ilość (1000 szt.) potwierdza przeznaczenie biznesowe, a nie domowe."
+    },
+    {
+        "ID_Produktu": "242631897",
+        "Nazwa_Produktu": "Opakowanie na wynos food box 0,75L kraft 50szt ^",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe (food boxy) przeznaczone dla branży gastronomicznej (restauracje, food trucki), co kwalifikuje go do profesjonalnych pojemników w kategorii Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne."
+    },
+    {
+        "ID_Produktu": "242631905",
+        "Nazwa_Produktu": "Woreczki strunowe 45x50cm 45mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Woreczki strunowe w opakowaniu zbiorczym (100 szt.) o dużym formacie (45x50cm) i precyzyjnej specyfikacji technicznej (mikrony) są klasyfikowane jako materiały eksploatacyjne i opakowaniowe do użytku komercyjnego w sklepach i magazynach."
     }
 ]
