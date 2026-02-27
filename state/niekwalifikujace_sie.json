@@ -15378,5 +15378,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Główną funkcją produktu jest urządzenie rozruchowe do samochodów, co idealnie pasuje do kategorii 'Prostowniki i kable rozruchowe' w ramach Motoryzacji. Funkcja powerbanku jest dodatkowa."
+    },
+    {
+        "ID_Produktu": "1020283",
+        "Nazwa_Produktu": "Wózek kelnerski HoReCa stal nierdzewna 3 półki do 150kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Wózki gastronomiczne",
+        "Finalne_ID_AI": 5074,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'wózek kelnerski' przeznaczony do branży HoReCa (hotele, restauracje, catering). Kategoria 'Firma i Przemysł > Gastronomia > Wózki gastronomiczne' jest najbardziej szczegółowa i idealnie pasuje do opisu i zastosowania produktu."
     }
 ]
