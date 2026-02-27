@@ -1228,5 +1228,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to opakowanie jednorazowe na hot-dogi, sprzedawane w dużej ilości (100 szt.), przeznaczone dla lokali gastronomicznych, takich jak food trucki czy bary. Najbardziej precyzyjną kategorią są 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł', ponieważ jest to produkt B2B dla branży HoReCa. Podpowiedź systemu jest błędna, gdyż kategoria 'Pudełka' dotyczy wyposażenia wnętrz domu, a nie opakowań dla gastronomii."
+    },
+    {
+        "ID_Produktu": "242632815",
+        "Nazwa_Produktu": "Lampka nocna LED 3D Miś",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mała lampka nocna przeznaczona do postawienia na powierzchni, takiej jak stolik nocny, półka lub biurko. Chociaż wskazówka sugeruje 'Lampki biurkowe', kategoria 'Lampy stołowe' jest bardziej odpowiednia i ogólna, ponieważ głównym przeznaczeniem produktu jest oświetlenie dekoracyjne i nastrojowe w sypialni lub pokoju dziecka, a nie oświetlenie zadaniowe do pracy przy biurku."
+    },
+    {
+        "ID_Produktu": "242632817",
+        "Nazwa_Produktu": "Lampka nocna LED 3D Dziewczynka",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lampka nocna, przeznaczona do postawienia na szafce nocnej lub stole w pokoju dziecięcym lub sypialni. Najlepiej pasującą kategorią-liściem jest 'Lampy stołowe', ponieważ jest to lampa do postawienia na płaskiej powierzchni, a jej funkcja jest bardziej dekoracyjna i nastrojowa niż robocza (co sugerowałaby kategoria 'Lampki biurkowe')."
+    },
+    {
+        "ID_Produktu": "242632818",
+        "Nazwa_Produktu": "Reflektor zewnętrzny LED 50W IP65 6000K 4250lm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalne_ID_AI": 3848,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest jednoznacznie opisany w tytule jako 'Reflektor zewnętrzny LED', a w opisie jako 'naświetlacz'. Kategoria 'Dom i Ogród > Oświetlenie > Halogeny i naświetlacze' jest najdokładniejszym i najbardziej szczegółowym odzwierciedleniem tego typu produktu."
+    },
+    {
+        "ID_Produktu": "242632823",
+        "Nazwa_Produktu": "Reflektor LED 20 W zewnętrzny IP65 Bapro",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalne_ID_AI": 3848,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu jednoznacznie wskazuje, że jest to 'Reflektor LED', co w języku polskim jest synonimem naświetlacza. Opis produktu, w tym jego przeznaczenie do użytku zewnętrznego (IP65) i parametry techniczne, w pełni odpowiadają kategorii 'Halogeny i naświetlacze'."
     }
 ]

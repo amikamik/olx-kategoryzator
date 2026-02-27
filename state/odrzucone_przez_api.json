@@ -446,5 +446,65 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242632807",
+        "Nazwa_Produktu": "Vileda Pokrowiec Na Deskę Comfort Plus",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalne_ID_AI": 2140,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Pokrowiec na deskę do prasowania'. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pokrowce' jest najbardziej precyzyjną i szczegółową klasyfikacją. Nazwa produktu bezpośrednio wskazuje na kategorię 'Pokrowce', a deska do prasowania jest elementem wyposażenia wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda pokrowiec na deskę comfort plus",
+                "description": "Pokrowiec na deskę do prasowania Vileda Comfort Plus komfort prasowania Comfort Plus to trzywarstwowy pokrowiec uniwersalny - pasuje do desek o wymiarach do 130 cm x 45 cm Zapewnia wygodę prasowania Estetyczny i trwały Funkcjonalny i komfortowy Pokrowiec Comfort Plus posiada trzywarstwową strukturę pokrowca, składającą się z bawełny, pianki i gąbki. Łatwiejsze zakładanie Gruby pokrowiec na deskę Vileda wyposażony jest w system Quick FIX - posiada elastyczne narożniki i klips ściągający, które zapewniają idealne dopasowanie oraz łatwiejsze zakładanie pokrowca na deskę. Uniwersalny Comfort Plus pasuje na wszystkie deski o długości: 110 - 130 cm i szerokości: 30 - 45 cm. Informacje na temat bezpieczeństwa/b. Nie prasować na desce do prasowania żadnych przedmiotów, do których zostały zastosowane roztwory do usuwania plam, perfumy lub rozpuszczalniki. Z zastrzeżeniem zmian technicznych i różnic kolorystycznych. Wszystkie pomiary są przybliżone. Nie zaleca się prania pokrowca. Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2140,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 67.53,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/86f2ffe182438b6893a149d4ed77e417.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/53199f9cacc7609d8e5b2462cc348d66.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
