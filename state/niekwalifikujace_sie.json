@@ -14918,5 +14918,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Głównym przeznaczeniem produktu opisanym w tytule i opisie jest ochrona kluczyków samochodowych przed kradzieżą sygnału (system Keyless), co klasyfikuje go jako akcesorium zabezpieczające w kategorii motoryzacyjnej."
+    },
+    {
+        "ID_Produktu": "1019355",
+        "Nazwa_Produktu": "Transmiter FM odtwarzacz MP3 ładowarka samochodowa LED 2x USB Bluetooth czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt audio > Akcesoria > Pozostałe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalne_ID_AI": 4489,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjne akcesorium samochodowe (transmiter FM, ładowarka USB, zestaw Bluetooth), które najlepiej pasuje do kategorii 'Elektronika samochodowa' znajdującej się w sekcji wyposażenia i akcesoriów. Kategoria ta jest głębiej umiejscowiona w strukturze (poziom 3) niż ogólny 'Sprzęt car audio' (poziom 2)."
+    },
+    {
+        "ID_Produktu": "1019356",
+        "Nazwa_Produktu": "Transmiter FM MP3 Bluetooth 5.0 ładowarka samochodowa 3x USB TF microSD czarny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Ładowarki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Sprzęt car audio",
+        "Finalne_ID_AI": 1461,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to transmiter FM Bluetooth, którego głównym zadaniem jest przesyłanie dźwięku do samochodowego systemu audio. Najbardziej precyzyjną kategorią dla tego typu urządzeń w strukturze OLX jest 'Sprzęt car audio', mimo że urządzenie posiada również funkcję ładowarki."
     }
 ]
