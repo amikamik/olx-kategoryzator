@@ -1198,5 +1198,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242632776",
+        "Nazwa_Produktu": "Torebka papierowa szara 5,00 kg (9) 10kg gruba",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papierowa torba przeznaczona do pakowania towarów (śruby, gwoździe, warzywa, zakupy), sprzedawana hurtowo (opakowanie 10 kg). Jest to wyposażenie dla sklepów, hurtowni lub magazynów, a nie torebka modowa. Wskazówka systemu OLX jest błędna. W braku dedykowanej kategorii 'Opakowania', 'Pozostałe' w 'Sklepy i magazyny' jest najtrafniejszym wyborem."
+    },
+    {
+        "ID_Produktu": "242632785",
+        "Nazwa_Produktu": "Rożek na frytki 240x175cm 500ml + dip 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowanie tekturowe ('rożek na frytki') przeznaczone do użytku w gastronomii (food trucki, bary, puby). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i szczegółowym opisem tego typu artykułu."
+    },
+    {
+        "ID_Produktu": "242632787",
+        "Nazwa_Produktu": "Opakowanie hot-dog 250x60x50 EG 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to opakowanie jednorazowe na hot-dogi, sprzedawane w dużej ilości (100 szt.), przeznaczone dla lokali gastronomicznych, takich jak food trucki czy bary. Najbardziej precyzyjną kategorią są 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł', ponieważ jest to produkt B2B dla branży HoReCa. Podpowiedź systemu jest błędna, gdyż kategoria 'Pudełka' dotyczy wyposażenia wnętrz domu, a nie opakowań dla gastronomii."
     }
 ]
