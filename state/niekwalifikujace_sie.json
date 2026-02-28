@@ -158,5 +158,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pływające, wodoodporne lampki LED dedykowane do basenów i stawów. W strukturze OLX akcesoria basenowe oraz oświetlenie przeznaczone do tafli wody najlepiej pasują do kategorii 'Baseny' (liść w gałęzi Ogród)."
+    },
+    {
+        "ID_Produktu": "242632986",
+        "Nazwa_Produktu": "Reflektor Wpuszczany Led 4W 9Szt. Evolution",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to reflektory wpuszczane (downlighty), które w polskiej terminologii i strukturze kategorii OLX są określane jako 'Oczka' (oświetlenie punktowe montowane w sufitach podwieszanych)."
+    },
+    {
+        "ID_Produktu": "242633249",
+        "Nazwa_Produktu": "Papier pakowy półpergamin 35x50cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny papier pakowy o przeznaczeniu spożywczym, sprzedawany w ilościach hurtowych (5 kg) i dedykowany dla sklepów spożywczych oraz gastronomii. Najbardziej adekwatną kategorią biznesową dla tego typu materiałów eksploatacyjnych jest 'Firma i Przemysł > Gastronomia > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242633294",
+        "Nazwa_Produktu": "Mycie szkła 5L Lakma Glass Cleaner 1szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to płyn do mycia szyb i luster w 5-litrowym opakowaniu, co jednoznacznie klasyfikuje go jako środek czyszczący w podkategorii Supermarket w dziale Dom i Ogród."
     }
 ]
