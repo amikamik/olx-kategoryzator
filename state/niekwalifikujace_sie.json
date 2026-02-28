@@ -3288,5 +3288,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest określony głównie jako plecak o szerokim zastosowaniu (miejski, szkolny, podróżny), a kategoria 'Moda > Torby i torebki > Plecaki' najlepiej definiuje ten typ przedmiotu. Chociaż posiada komorę na laptopa, forma plecaka jest dominująca nad ogólną kategorią akcesoriów komputerowych."
+    },
+    {
+        "ID_Produktu": "242635548",
+        "Nazwa_Produktu": "Lampa powiększająca podświetlana LED",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podświetlana lampa LED z zaciskiem montażowym do blatu, co klasyfikuje ją jako lampkę biurkową. Opis podkreśla zastosowanie przy pracy i hobby przy biurku, co jest zgodne z przeznaczeniem wybranej kategorii."
+    },
+    {
+        "ID_Produktu": "242635554",
+        "Nazwa_Produktu": "Lampa LED z czujnikiem SENSELIGHT 230V",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oprawy oświetleniowe",
+        "Finalne_ID_AI": 3850,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gotowa liniowa oprawa oświetleniowa LED przeznaczona do montażu pod szafkami kuchennymi lub w szufladach. Kategoria 'Oprawy oświetleniowe' (ID 3850) jest najbardziej precyzyjnym określeniem dla kompletnych opraw tego typu, w przeciwieństwie do taśm LED czy lamp wiszących."
+    },
+    {
+        "ID_Produktu": "242635676",
+        "Nazwa_Produktu": "Etui Na Telefon Torebka Kopertówka 15x8 cm Beż",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Kopertówki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Kopertówki",
+        "Finalne_ID_AI": 2751,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany w tytule 'torebką kopertówką' i opisany jako stylowy dodatek do garderoby z łańcuszkiem na ramię. Choć pełni funkcję etui na telefon, jego forma i design pasują najlepiej do kategorii torebek typu kopertówki w dziale Moda."
+    },
+    {
+        "ID_Produktu": "242635681",
+        "Nazwa_Produktu": "Lampa wpuszczana sufitowa LED 12W 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lampa wpuszczana (recessed), co w nomenklaturze oświetleniowej na platformach handlowych najdokładniej odpowiada kategorii 'Oczka'. Nie jest to lampa wisząca, stojąca ani plafon (montowany natynkowo)."
     }
 ]
