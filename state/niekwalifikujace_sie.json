@@ -4558,5 +4558,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to profesjonalne opakowania papierowe do żywności (pudełka cukiernicze) sprzedawane w ilościach hurtowych (50 sztuk), co klasyfikuje je jako artykuły dla gastronomii w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242635105",
+        "Nazwa_Produktu": "Okulary Przeciwsłoneczne Spolaryzowane UV400",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to okulary przeciwsłoneczne z filtrem UV i polaryzacją, co jednoznacznie wskazuje na kategorię 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne'."
     }
 ]
