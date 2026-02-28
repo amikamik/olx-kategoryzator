@@ -3698,5 +3698,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje na 'sekator' i 'nożyce ogrodnicze', co idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory'. Opis dodatkowo potwierdza zastosowanie w ogrodnictwie do przycinania."
+    },
+    {
+        "ID_Produktu": "242634980",
+        "Nazwa_Produktu": "Sterownik zasilania LED 12V",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Pozostała elektronika",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Akcesoria i osprzęt > Sterowniki",
+        "Finalne_ID_AI": 3860,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Sterownik zasilania LED', który idealnie pasuje do kategorii 'Sterowniki' znajdującej się w ścieżce 'Dom i Ogród > Oświetlenie > Akcesoria i osprzęt'. Opis dodatkowo wskazuje, że jest to transformator LED, co jest zgodne z funkcją sterownika zasilania w kontekście oświetlenia."
+    },
+    {
+        "ID_Produktu": "242634996",
+        "Nazwa_Produktu": "Gumki do włosów czarne 50 sztuk",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Gumki",
+        "Finalne_ID_AI": 2725,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gumki do włosów, które są typowym akcesorium modowym. Kategoria 'Moda > Akcesoria > Akcesoria do włosów > Gumki' jest najbardziej szczegółowa i trafna dla tego typu produktu, uwzględniając jego wielofunkcyjność dla różnych grup wiekowych."
+    },
+    {
+        "ID_Produktu": "242635026",
+        "Nazwa_Produktu": "Podpórka do roślin 3szt zielone",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Doniczki i osłonki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to podpórka do roślin, która pomaga w utrzymaniu kształtu i prawidłowego wzrostu kwiatów, a także wpływa na ich estetykę w ogrodzie lub doniczce. Najbardziej szczegółową kategorią-liściem, która obejmuje tego typu akcesoria, jest 'Dekoracje ogrodowe'."
+    },
+    {
+        "ID_Produktu": "242635029",
+        "Nazwa_Produktu": "Portfel męski Skórzany czarny HOCRES",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Portfel męski Skórzany czarny HOCRES', a w drzewie kategorii istnieje dokładna kategoria-liść 'Moda > Akcesoria > Portfele' (ID: 2765), która idealnie pasuje do nazwy i opisu produktu."
     }
 ]

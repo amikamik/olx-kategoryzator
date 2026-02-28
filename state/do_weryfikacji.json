@@ -2984,5 +2984,61 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242634972",
+        "Nazwa_Produktu": "Gniazdko Elektryczne Podwójne Ścienne 16A białe",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242634990",
+        "Nazwa_Produktu": "Dekoracja na 13 urodziny czarno różowa.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242634993",
+        "Nazwa_Produktu": "Zestaw do malowania diamentami DIY Ośmiornica",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalne_ID_AI": 3084,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do malowania diamentami, który jest określoną formą twórczości plastycznej, zarówno dla dzieci, jak i dorosłych. Wskazanie w opisie na rozwijanie zdolności artystycznych i manualnych u dzieci oraz aspekt 'zabawy dla dzieci' czyni kategorię 'Zabawki plastyczne' najbardziej szczegółową i adekwatną, pomimo, że jest to również hobby dla dorosłych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "242634994",
+        "Nazwa_Produktu": "Zestaw do malowania diamentami DIY Baletnice",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Zabawki plastyczne",
+        "Finalne_ID_AI": 3084,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do malowania diamentami, który jest klasyfikowany jako twórcza aktywność artystyczna i rękodzielnicza. Opis wyraźnie wskazuje, że jest to 'idealna zabawa dla dzieci, które jednocześnie rozwijają swoje umiejętności manualne', co doskonale pasuje do kategorii 'Zabawki plastyczne'. Chociaż wspomniano również o hobby dla dorosłych, w kontekście dostępnych kategorii, 'Zabawki plastyczne' jest najbardziej szczegółową i trafioną opcją dla tego typu zestawu DIY, uwzględniającą aspekt kreatywności i manualności, a także skierowanie do dzieci.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "242635025",
+        "Nazwa_Produktu": "Opaski kablowe na rzep czarne 30szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
