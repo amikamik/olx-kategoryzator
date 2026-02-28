@@ -1888,5 +1888,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to lampka z czujnikiem ruchu, zasilana przez USB i montowana magnetycznie. Nie pasuje ściśle do kategorii 'Lampki biurkowe', 'Kinkiety' czy innych bardziej szczegółowych typów lamp. Jest to raczej lampa uniwersalnego zastosowania, dlatego 'Pozostałe Lampy' jest najbardziej odpowiednią i szczegółową kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "242634016",
+        "Nazwa_Produktu": "Łańcuch świetlny LED na baterie z motywem zająca",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to łańcuch świetlny LED, który jest rodzajem oświetlenia dekoracyjnego. Kategoria 'Girlandy świetlne' jest najbardziej precyzyjnym i szczegółowym określeniem dla tego typu produktu, niezależnie od jego zastosowania (wewnętrznego, zewnętrznego, okolicznościowego czy dziecięcego), które jest dodatkowym atrybutem, a nie główną funkcją."
+    },
+    {
+        "ID_Produktu": "242634025",
+        "Nazwa_Produktu": "Kamizelka odblaskowa samochodowa, kamizelka odblas",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > Odzież wierzchnia > Kamizelki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty",
+        "Finalne_ID_AI": 4483,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kamizelka odblaskowa samochodowa, posiadająca certyfikaty bezpieczeństwa. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu jako elementu wyposażenia bezpieczeństwa w transporcie drogowym, również rowerowym i motocyklowym."
     }
 ]
