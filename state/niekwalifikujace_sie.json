@@ -3858,5 +3858,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to zwijana torba (organizer) przeznaczona do przechowywania narzędzi ręcznych. W strukturze kategorii OLX dla działu Dom i Ogród > Narzędzia, przy braku dedykowanej kategorii na skrzynki i torby narzędziowe, produkty tego typu są kategoryzowane jako 'Pozostałe Narzędzia'."
+    },
+    {
+        "ID_Produktu": "242638022",
+        "Nazwa_Produktu": "Regał Organizer na buty Szary",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Szafki na buty",
+        "Finalne_ID_AI": 1942,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany organizerem i regałem na buty, posiada 5 poziomów i 10 przegródek dedykowanych do obuwia, co idealnie wpisuje się w kategorię 'Szafki na buty'."
     }
 ]
