@@ -2078,5 +2078,55 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Nazwa produktu i opis wielokrotnie używają terminu \"kinkiet\", który jest bezpośrednim odpowiednikiem wybranej kategorii. Produkt jest lampą ścienną przeznaczoną do użytku wewnętrznego i zewnętrznego, co idealnie pasuje do kategorii \"Kinkiety\" podkategorii \"Lampy\" w dziale \"Oświetlenie\" w \"Dom i Ogród\"."
+    },
+    {
+        "ID_Produktu": "242634221",
+        "Nazwa_Produktu": "Lampa Sufitowa Led 12W Śr.17Cm X 50Mm 1020Lm 2700K",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'lampa sufitowa LED', co bezpośrednio odpowiada definicji kategorii 'Plafony' jako płaskich lamp montowanych bezpośrednio na suficie, w odróżnieniu od 'Lamp wiszących'."
+    },
+    {
+        "ID_Produktu": "242634222",
+        "Nazwa_Produktu": "Reflektor Led 18W Wpuszczany Głęb. 26Mm Ip44 3000K",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalne_ID_AI": 3848,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Reflektor LED', czyli rodzaj oświetlenia. Kategoria 'Dom i Ogród > Oświetlenie' jest odpowiednia. W jej ramach, 'Halogeny i naświetlacze' najlepiej pasuje do opisu 'Reflektor Led 18W Wpuszczany', który wskazuje na typ oświetlenia punktowego/rozświetlającego. Wskazówka OLX również wskazuje na tę kategorię. Jest to najbardziej szczegółowa i precyzyjna kategoria dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "242634225",
+        "Nazwa_Produktu": "Lampa Sufitowa Led 12W 1020Lm Ip44 Wys. 52Mm 2700K",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Lampa Sufitowa Led', a kategoria 'Plafony' (3870) jest najbardziej precyzyjną kategorią typu lamp sufitowych montowanych na płasko, co zgadza się z opisem 'o całkowitej głębokości zaledwie 52 mm'. Jest to bardziej szczegółowa kategoria niż ogólne 'Lampy wiszące' sugerowane przez podpowiedź."
+    },
+    {
+        "ID_Produktu": "242634226",
+        "Nazwa_Produktu": "Żarówka E14 Led 5W 470Lm Średnica 45mm 5 Szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to żarówka LED. Kategoria 'Żarówki' jest najbardziej szczegółową i idealnie pasującą opcją w drzewie kategorii, zgodną z podpowiedzią OLX."
+    },
+    {
+        "ID_Produktu": "242634231",
+        "Nazwa_Produktu": "Kolorowe Ledy 5M Led Rgb Z Pilotem Do Oświetlenia",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Taśmy LED",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Taśmy LED",
+        "Finalne_ID_AI": 3853,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Taśmy LED' jako najlepiej pasującą, najbardziej szczegółową kategorię. Słowa kluczowe takie jak 'Kolorowe Ledy', 'Taśma LED', 'świetlne paski' oraz zastosowanie 'do oświetlenia' i 'dekoracji wnętrz' idealnie pasują do tej kategorii."
     }
 ]
