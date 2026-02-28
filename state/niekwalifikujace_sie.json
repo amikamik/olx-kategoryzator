@@ -1908,5 +1908,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to kamizelka odblaskowa samochodowa, posiadająca certyfikaty bezpieczeństwa. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu jako elementu wyposażenia bezpieczeństwa w transporcie drogowym, również rowerowym i motocyklowym."
+    },
+    {
+        "ID_Produktu": "242634034",
+        "Nazwa_Produktu": "Reflektor Sufitowy Led Obrotowy 360 Gu10 Punktowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Spoty",
+        "Finalne_ID_AI": 3871,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'reflektor sufitowy punktowy' (spotlight), który idealnie pasuje do kategorii 'Spoty' znajdującej się w drzewie 'Dom i Ogród > Oświetlenie > Lampy'. Jest to bardziej szczegółowa i trafna kategoria niż 'Halogeny i naświetlacze', która zazwyczaj odnosi się do większych, często zewnętrznych źródeł światła lub specyficznego typu żarówek."
+    },
+    {
+        "ID_Produktu": "242634036",
+        "Nazwa_Produktu": "Półka drewniana z frędzlami 38x14 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Półki",
+        "Finalne_ID_AI": 1936,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to drewniana półka, która jest klasyfikowana jako mebel do przechowywania przedmiotów w domu. Kategoria 'Dom i Ogród > Meble > Półki' jest najbardziej szczegółową i idealnie pasującą kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "242634039",
+        "Nazwa_Produktu": "Spinki Do Włosów 16 Sztuk 4 Kolory 2 Kształty",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów",
+        "Finalne_ID_AI": 2718,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to spinki do włosów, które są bezpośrednio akcesoriami modowymi przeznaczonymi do stylizacji włosów. Kategoria 'Moda > Akcesoria > Akcesoria do włosów' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "242634041",
+        "Nazwa_Produktu": "Magnetyczne Amortyzatory Do Szafek Brąz 12 Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to magnetyczne amortyzatory, które są akcesoriami do szafek i innych mebli. Kategoria 'Akcesoria meblowe' jest najbardziej szczegółową i idealnie pasującą opcją."
     }
 ]
