@@ -1768,5 +1768,125 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to 'Worek Torba Doniczka Do Sadzenia Ziemniaków Warzyw', co doskonale pasuje do kategorii 'Donice', znajdującej się w ścieżce 'Dom i Ogród > Ogród'. Jest to narzędzie do uprawy roślin w ogrodzie, a worek pełni funkcję doniczki."
+    },
+    {
+        "ID_Produktu": "242633896",
+        "Nazwa_Produktu": "Lepka pułapka na muchy komary dwustronny Mafiti 40",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Rolnictwo > Środki ochrony roślin",
+        "Finalne_ID_AI": 4511,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lepka pułapka na szkodniki, która służy do ochrony roślin, co bezpośrednio odpowiada kategorii 'Rolnictwo > Środki ochrony roślin'. Opis jasno wskazuje na przeznaczenie dla latających szkodników roślin i wspomina o byciu alternatywą dla pestycydów."
+    },
+    {
+        "ID_Produktu": "242633905",
+        "Nazwa_Produktu": "Haczyki wieszaki Zestaw 3 sztuki Złote",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw haczyków/wieszaków przeznaczonych do montażu na ścianie, z wszechstronnym zastosowaniem w domu (kuchnia, łazienka, klucze, torby, ręczniki itp.). Kategoria 'Dom i Ogród > Meble > Wieszaki' jest najbardziej szczegółowa i trafna, obejmując ogólnego przeznaczenia wieszaki domowe, co jest zgodne z opisem produktu i wskazówką systemową."
+    },
+    {
+        "ID_Produktu": "242633938",
+        "Nazwa_Produktu": "12 szt pudełek na cukierki na Halloween nadruk SUP",
+        "Poczatkowa_Sciezka_OLX": "Moda > Do ślubu > Akcesoria ślubne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pudełka na cukierki i słodycze na Halloween. Kategoria 'Pojemniki gastronomiczne' w ramach 'Firma i Przemysł > Gastronomia' jest najbardziej specyficzną i pasującą kategorią, ponieważ opisuje funkcję przechowywania żywności. Dodatkowo wzmianka o opłacie SUP (Single Use Plastics) silnie koreluje z opakowaniami jednorazowego użytku w sektorze gastronomicznym."
+    },
+    {
+        "ID_Produktu": "242633942",
+        "Nazwa_Produktu": "Portfel damski, duży, ochrona RFID, skóra PU szary",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "99%",
+        "Uzasadnienie_AI": "Produkt to portfel damski, który idealnie pasuje do kategorii 'Moda > Akcesoria > Portfele'. Opis i tytuł są jednoznaczne."
+    },
+    {
+        "ID_Produktu": "242633951",
+        "Nazwa_Produktu": "Lampka biurkowa LED USB 3 tryby światła elastyczna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu bezpośrednio wskazuje na 'Lampkę biurkową', a opis szczegółowo opisuje cechy typowe dla tego typu urządzenia. Kategoria 'Lampki biurkowe' jest najbardziej szczegółowym i precyzyjnym wyborem z drzewa kategorii."
+    },
+    {
+        "ID_Produktu": "242633954",
+        "Nazwa_Produktu": "Pasek męski nylonowy czarny sz. 3,5 cm dł. 130 cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pasek męski, który idealnie pasuje do kategorii 'Moda > Akcesoria > Paski' jako najbardziej szczegółowej i adekwatnej."
+    },
+    {
+        "ID_Produktu": "242633959",
+        "Nazwa_Produktu": "Naszyjnik Serca z fioletowym kryształem",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Naszyjniki i korale",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Naszyjniki i korale",
+        "Finalne_ID_AI": 2838,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to naszyjnik z kryształami, opisany jako biżuteria. Kategoria 'Moda > Biżuteria > Naszyjniki i korale' jest najbardziej szczegółowa i idealnie pasuje."
+    },
+    {
+        "ID_Produktu": "242633972",
+        "Nazwa_Produktu": "Nadajnik Fm Bluetooth Hotchy Samochodowy Nadajnik",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Adaptery i przejściówki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Sprzęt car audio",
+        "Finalne_ID_AI": 1461,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest nadajnikiem FM Bluetooth przeznaczonym do samochodu, umożliwiającym przesyłanie dźwięku i prowadzenie rozmów przez system audio pojazdu. Najbardziej szczegółowa i trafna kategoria to 'Sprzęt car audio', która dokładnie opisuje funkcjonalność tego urządzenia."
+    },
+    {
+        "ID_Produktu": "242633993",
+        "Nazwa_Produktu": "Dekoracje Ślubne Napis Just Married Zestaw Balony",
+        "Poczatkowa_Sciezka_OLX": "Moda > Do ślubu > Akcesoria ślubne > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Do ślubu > Akcesoria ślubne > Pozostałe",
+        "Finalne_ID_AI": 2858,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw dekoracji ślubnych, w tym balony i napis 'Just Married'. Pasuje do nadrzędnej kategorii 'Moda > Do ślubu > Akcesoria ślubne', ale nie ma bardziej szczegółowej podkategorii dla balonów ślubnych. Dlatego 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "242633995",
+        "Nazwa_Produktu": "Pasek Męski Nylonowy w Kolorze Czarnym 120cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to męski pasek, co doskonale pasuje do kategorii 'Moda > Akcesoria > Paski'. Opis jest bardzo precyzyjny i nie budzi wątpliwości."
+    },
+    {
+        "ID_Produktu": "242633997",
+        "Nazwa_Produktu": "Pasek Męski Nylonowy Khaki 3,5 Cm Dł.120 Cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to męski pasek nylonowy, co idealnie pasuje do kategorii 'Moda > Akcesoria > Paski', która jest najbardziej szczegółową dostępną kategorią."
+    },
+    {
+        "ID_Produktu": "242634008",
+        "Nazwa_Produktu": "Lampka Na Usb Podczerwień Indukcja Dfgotop",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Pozostałe",
+        "Finalne_ID_AI": 3872,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lampka z czujnikiem ruchu, zasilana przez USB i montowana magnetycznie. Nie pasuje ściśle do kategorii 'Lampki biurkowe', 'Kinkiety' czy innych bardziej szczegółowych typów lamp. Jest to raczej lampa uniwersalnego zastosowania, dlatego 'Pozostałe Lampy' jest najbardziej odpowiednią i szczegółową kategorią-liściem."
     }
 ]
