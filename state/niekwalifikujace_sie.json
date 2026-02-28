@@ -3478,5 +3478,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to haczyki/wieszaki przeznaczone do zagłówków foteli samochodowych, co idealnie pasuje do kategorii 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki'."
+    },
+    {
+        "ID_Produktu": "242634758",
+        "Nazwa_Produktu": "Torebka skóra ekologiczna czarna złoty łańcuszek",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby na ramię",
+        "Finalne_ID_AI": 2758,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mała torebka ze złotym łańcuszkiem i zapięciem, idealna na wyjścia. Pasuje do kategorii 'Torby na ramię' ze względu na typ i sposób noszenia, a także na podpowiedź systemu."
+    },
+    {
+        "ID_Produktu": "242634761",
+        "Nazwa_Produktu": "Torebka Damska Listonoszka Srebrna Mała Czarny Wzó",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Listonoszki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Listonoszki",
+        "Finalne_ID_AI": 2753,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'listonoszkę', która jest specyficzną podkategorią torebek damskich. Kategoria 'Listonoszki' (ID: 2753) jest najbardziej szczegółową i trafiającą w sedno cech produktu, znajdując się w ścieżce Moda > Torby i torebki > Listonoszki."
+    },
+    {
+        "ID_Produktu": "242634765",
+        "Nazwa_Produktu": "Portfel damski, duży, ochrona RFID, skóra PU brąz",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na portfel damski z ochroną RFID, co idealnie pasuje do kategorii 'Moda > Akcesoria > Portfele'."
+    },
+    {
+        "ID_Produktu": "242634767",
+        "Nazwa_Produktu": "Portfel damski, duży, ochrona RFID, skóra PU różow",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na portfel damski z ochroną RFID. Kategoria 'Moda > Akcesoria > Portfele' jest najbardziej szczegółową i idealnie pasującą kategorią-liściem dla tego produktu."
     }
 ]
