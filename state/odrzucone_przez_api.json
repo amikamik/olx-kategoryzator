@@ -573,5 +573,151 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242633683",
+        "Nazwa_Produktu": "Inteligentny rozgałęźnik sieciowy 2 gniazda 16A",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Przedłużacze i rozgałęźniki",
+        "Finalne_ID_AI": 3208,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to inteligentny rozgałęźnik sieciowy z gniazdami, co doskonale pasuje do kategorii 'Przedłużacze i rozgałęźniki' w sekcji Elektryka, należącej do Dom i Ogród. Funkcje smart (Wi-Fi, sterowanie głosowe, programowanie) są dodatkowymi cechami dla tego typu urządzenia.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Inteligentny rozgałęźnik sieciowy 2 gniazda 16a",
+                "description": "Funkcjonalna konstrukcja: dzięki podwójnemu inteligentnemu gniazdu możesz wybrać 2 podstawy w jednym gnieździe, oszczędzając miejsce dzięki możliwości podłączenia 2 dwóch urządzeń, z których jedno jest wciskane jako pierwsze. Możesz sterować dwoma gniazdami jako zestawem lub osobno za pomocą aplikacji lub użyć przełącznika, aby je włączyć lub wyłączyć. Zdalne i głosowe sterowanie: inteligentne gniazdo Extrastar jest kompatybilne z Alexa, Google Assistant, smart life, możesz sterować gniazdem za pomocą głosu. Dzięki gniazdu Wi-Fi będąc poza domem możesz całkowicie zdalnie odłączyć dowolne urządzenie podłączone do gniazda. Programowalny: możesz zaprogramować gniazdo WiFi zgodnie z własnymi potrzebami, powodując, że urządzenia, które łączą się ze źródłem, przekażą swoje źródło w żądanym czasie. Na przykład możesz zaplanować działanie oczyszczacza powietrza na godziny od 10:00 do 14:00, sprawić, by zabójca komarów zapłacił za siebie w ciągu dwóch godzin lub włączyć urządzenie o 8:00 rano. Łatwe połączenie: dzięki szybkiemu połączeniu Wi-Fi gniazdo Extrastar WiFi może osiągnąć większy zasięg połączenia Wi-Fi i zmniejszyć szybkość rozłączeń. Współpracuje z każdym routerem Wi-Fi 2,4 GHz (podczas podłączania produktu wybierz 2,4 GHz). . . Specyfikacja Tryb operacyjny: Włącz-wyłącz-włącz Prąd znamionowy: 16 amperów Marka: EXTRASTAR Typ kontrolera: Alexa i Google Home Metoda kontroli: Zdalny Kolor: Biały Przelicznik jednostek 1,0 sztuka Model: WG05E Wymiary: 105 x 52 x 80 mm Napięcie: 220-250 V Wymiary oryginalnego opakowani: 11 x 9 x 5,5 cm; 200 g Maksymalne obciążenie: 3680 W\n\n[DEAL-BLB2B]",
+                "category_id": 3208,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 40.65,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/9ce0884cdad154b0685f152b70abd56f.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/15bda3bc6bec12fd63b4a01574c7f0e1.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/b9a225c3d5748d702320e6964bb4159e.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/73174e3109fec803e7765a47f1d7b2bc.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/4c5ba732326cbd480ae2e428abd3ecd0.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/332114874b0d7003139439d89c3d9817.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/02102f78fb6dcaa89a98aa3295e2793c.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/0b8f6af739aa9796765a26c77be18590.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242633685",
+        "Nazwa_Produktu": "Płaski adapter na 3 wtyczki 3500W 16A biały 2szt.",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Adaptery i przejściówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Wtyczki, gniazda i włączniki",
+        "Finalne_ID_AI": 3210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to płaski adapter z trzema gniazdami, służący do podłączania wielu urządzeń elektrycznych do jednego gniazdka. Jest to element instalacji elektrycznej, najlepiej pasujący do kategorii Dom i Ogród > Budowa > Instalacje > Elektryka > Wtyczki, gniazda i włączniki, ponieważ pełni funkcję rozszerzenia gniazda. Kategoria 'Elektronika > Telefony > Akcesoria > Adaptery i przejściówki' byłaby zbyt wąska, sugerując adapter do konkretnie telefonów, a produkt jest uniwersalnym adapterem sieciowym.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Płaski adapter na 3 wtyczki 3500w 16a biały 2szt.",
+                "description": "3 gniazda: Zawiera 3 gniazda: 2 x Euro i 1x Schuko . Ładuje jednocześnie wiele urządzeń elektrycznych bez zajmowania dodatkowego miejsca w gnieździe. Łatwe ładowanie. Bezpieczeństwo: dzięki ochronie bezpieczeństwa zapobiega porażeniu członków rodziny prądem elektrycznym Trwały: materiał PC jest ognioodporny i odporny na ciśnienie.Według testów laboratoryjnych temperatura spalania może osiągnąć 750 ? Nadaje się na wiele okazji: może być używany w pomieszczeniach: sypialnie, salony, gabinety, sale komputerowe, biura, gabinety, bary, restauracje itp. Certyfikat bezpieczeństwa: Certyfikat TUV dla Twojego bezpieczeństwa, spełniający wymagane normy bezpieczeństwa Konstrukcja winylowa, do użytku wyłącznie w pomieszczeniach, w suchych miejscach. . . Specyfikacja Marka: EXTRASTAR Kolor: Biały Wymiary: 90 x 47 x 73 mm Liczba gniazd sieciowych: 3 Napięcie: 230-250 V Zalecane zastosowania produktu: Do użytku w pomieszczeniach Natężenie w amperach: 16 amperów Typ wtyczki: 2 x typ C, 2 x typ F Ilość adapterów w zestawie: 2 Model: KF-ZB-01/01-2x\n\n[DEAL-BLB2B]",
+                "category_id": 3210,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/2146bfb347c17803030733ca32f7bd4d.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/50111e4f840df97d1b1e3a88b1617626.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/2bebb08c9053249085acb9010303fffd.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/4e63ee88a9ae2822bfc2c649dc08eae0.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/117799acf56fc1dadb082feb1e5bd8cd.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/8d60142c467df0a75ea4020d9df4be56.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/c2a95910df150b6a5d2bfea679427692.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/f2f997ff1a980d795f2f377d7e95e4af.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

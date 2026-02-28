@@ -1588,5 +1588,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Gumki recepturki są typowymi akcesoriami biurowymi. Opis produktu wskazuje na zastosowania takie jak wiązanie etykiet, ulotek, wizytówek i banknotów, co idealnie pasuje do kategorii 'Akcesoria i materiały biurowe'. Chociaż mają szersze zastosowanie, ich charakter i wymienione przykłady najbardziej odpowiadają tej specyficznej kategorii."
+    },
+    {
+        "ID_Produktu": "242633670",
+        "Nazwa_Produktu": "Miska kubeczki na lody papierowa 225ml 30szt SUP eko",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Kubki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to miski/kubeczki papierowe przeznaczone do serwowania lodów i deserów w lokalach gastronomicznych, takich jak restauracje, bary, food trucki, cukiernie. Wzmianka o opłacie SUP (Single Use Plastics) dodatkowo podkreśla profesjonalny kontekst użytkowania. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "242633672",
+        "Nazwa_Produktu": "Przegródki do Szuflad 8szt Różowe",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przegródki do szuflad, służące do organizacji przestrzeni w meblach. Kategoria 'Akcesoria meblowe' jest najbardziej szczegółową i trafiającą w przeznaczenie produktu, znajdującą się w drzewie 'Dom i Ogród > Meble'."
     }
 ]
