@@ -283,13 +283,13 @@ jobs:
           else
             echo "ℹ️  Brak zmian w wspólnym state"
           fi
-           (WYŁĄCZONY)
-        if: false  # WYŁĄCZONY - przywróć always() żeby włączyćworktree
+          
+          # Cleanup worktree
           cd $GITHUB_WORKSPACE
           git worktree remove /tmp/shared_worktree --force 2>/dev/null || true
 
-      - name: 🔄 Auto-restart jeśli osiągnięto limit czasu
-        if: always()
+      - name: 🔄 Auto-restart jeśli osiągnięto limit czasu (WYŁĄCZONY)
+        if: false  # WYŁĄCZONY - przywróć always() żeby włączyć
         run: |
           if [ -f "RESTART_NEEDED" ]; then
             REMAINING=$(cat RESTART_NEEDED)
