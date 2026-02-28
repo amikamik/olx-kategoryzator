@@ -3738,5 +3738,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to 'Portfel męski Skórzany czarny HOCRES', a w drzewie kategorii istnieje dokładna kategoria-liść 'Moda > Akcesoria > Portfele' (ID: 2765), która idealnie pasuje do nazwy i opisu produktu."
+    },
+    {
+        "ID_Produktu": "242635033",
+        "Nazwa_Produktu": "Lampa stołowa nocna Księżyc Lewondr",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to lampa stołowa. Jest to najbardziej szczegółowa kategoria w drzewie, która idealnie pasuje do charakterystyki produktu."
+    },
+    {
+        "ID_Produktu": "242635035",
+        "Nazwa_Produktu": "Koperty brązowe 250x353 cm 10sztuk",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koperty kartonowe, które są materiałem biurowym służącym do wysyłki dokumentów i drobnych przedmiotów. Najbardziej precyzyjną i ogólną kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', która doskonale odpowiada charakterowi produktu. Sugerowana podpowiedź systemowa była nieadekwatna."
     }
 ]
