@@ -3268,5 +3268,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Nazwa produktu 'Naszyjnik Gold Z Gwiazdkami 45 Cm Wisiorek' oraz jego opis wyraźnie wskazują na to, że jest to naszyjnik z wisiorkiem. Kategoria 'Moda > Biżuteria > Naszyjniki i korale' jest najbardziej precyzyjnym i szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "242634559",
+        "Nazwa_Produktu": "Dry Bag 20 L Worek wodoodporny Kemping Rafting",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Plecaki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Akcesoria i części > Do kajaków, pontonów i rowerów wodnych",
+        "Finalne_ID_AI": 5022,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to worek wodoodporny, którego głównym przeznaczeniem, zgodnie z opisem, jest ochrona rzeczy podczas sportów i aktywności wodnych, takich jak kajakarstwo, rafting, pływanie, nurkowanie, wędkarstwo. Kategoria 'Do kajaków, pontonów i rowerów wodnych' jest najbardziej szczegółową i trafiającą w to zastosowanie, będąc podkategorią 'Akcesoria i części' w 'Sporty wodne'."
     }
 ]
