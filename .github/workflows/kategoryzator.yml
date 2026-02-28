@@ -137,6 +137,7 @@ jobs:
           MARGIN_PERCENT = 0.30
           COMMISSION_PERCENT = 0.12
           MINIMUM_PROFIT_PLN = 11.0
+          RABAT_HURTOWNI = 0.20  # DoFirmy.pl daje 20% rabatu od ceny katalogowej
           CENA_MIN = float(${{ inputs.min_price }})
           CENA_MAX = float(${{ inputs.max_price }})
 

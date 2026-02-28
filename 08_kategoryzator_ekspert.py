@@ -22,7 +22,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(SCRIPT_DIR, 'config'))
 
 import config  # Używamy nowego pliku konfiguracyjnego
-from config import MARGIN_PERCENT, COMMISSION_PERCENT, MINIMUM_PROFIT_PLN
+from config import MARGIN_PERCENT, COMMISSION_PERCENT, MINIMUM_PROFIT_PLN, RABAT_HURTOWNI
 import re
 import time
 import csv
@@ -197,13 +197,19 @@ def call_gemini_with_cache(user_content, api_key, model_name, response_format_js
 
 def oblicz_cene_sprzedazy(cena_zakupu):
     """
-    Oblicza cenę sprzedaży produktu, uwzględniając marżę, prowizję OLX
+    Oblicza cenę sprzedaży produktu, uwzględniając rabat hurtowni, marżę, prowizję OLX
     oraz gwarantując minimalny zysk.
+    
+    DoFirmy.pl: cena w feedzie to cena katalogowa. Rzeczywista cena zakupu
+    jest niższa o RABAT_HURTOWNI (20%), więc najpierw ją obniżamy.
     """
     try:
         cena_zakupu = float(cena_zakupu)
     except (ValueError, TypeError):
         return None
+
+    # Zastosowanie rabatu hurtowni (cena w feedzie to cena katalogowa)
+    cena_zakupu = cena_zakupu * (1 - RABAT_HURTOWNI)
 
     if COMMISSION_PERCENT >= 1:
         return round(cena_zakupu + MINIMUM_PROFIT_PLN, 2)
