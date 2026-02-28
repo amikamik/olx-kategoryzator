@@ -1978,5 +1978,75 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to torba na ramię typu shopper. Kategoria 'Moda > Torby i torebki > Shopperki' jest najbardziej szczegółowa i idealnie pasuje do charakterystyki produktu."
+    },
+    {
+        "ID_Produktu": "242634100",
+        "Nazwa_Produktu": "Pudełko Na Krawat Skóra Pu Na Magnes Beżowe",
+        "Poczatkowa_Sciezka_OLX": "Moda > Zegarki > Akcesoria > Etui",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pudełko/etui na krawat, które jest akcesorium modowym. Najbardziej szczegółową i pasującą kategorią jest 'Pozostałe' w gałęzi 'Moda > Akcesoria', ponieważ nie ma bardziej specyficznej kategorii dla akcesoriów do krawatów, a nie jest to ani krawat, ani akcesorium do zegarków, jak sugerował hint OLX."
+    },
+    {
+        "ID_Produktu": "242634103",
+        "Nazwa_Produktu": "Pudełko Na Krawat Skóra Pu Na Magnes Srebne",
+        "Poczatkowa_Sciezka_OLX": "Moda > Zegarki > Akcesoria > Etui",
+        "Finalna_Sciezka_AI": "Moda > Zegarki > Akcesoria > Etui",
+        "Finalne_ID_AI": 4775,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to pudełko na krawat, pełniące funkcję etui ochronnego. W opisie produktu jest wprost użyte sformułowanie 'Etui na krawat'. Kategoria 'Etui' (ID 4775) jest najbardziej szczegółową kategorią-liściem, która odpowiada funkcji produktu."
+    },
+    {
+        "ID_Produktu": "242634108",
+        "Nazwa_Produktu": "Sterownik Światła Obsługa Manuala Lub Wifi + Bt",
+        "Poczatkowa_Sciezka_OLX": "Praca > Montaż i serwis",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Akcesoria i osprzęt > Sterowniki",
+        "Finalne_ID_AI": 3860,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sterownik światła i rolet, który jest urządzeniem elektronicznym służącym do kontroli oświetlenia oraz elementów wystroju okien (rolet, żaluzji). Kategoria 'Dom i Ogród > Oświetlenie > Akcesoria i osprzęt > Sterowniki' jest najbardziej precyzyjna, ponieważ produkt jest dokładnie 'sterownikiem' (controller) i jest przeznaczony do 'oświetlenia' oraz powiązanych funkcji w domu. Opis szczegółowo wymienia funkcje sterownika (manual, WiFi, Bluetooth, sterowanie głosowe, scenariusze), co idealnie pasuje do tej podkategorii."
+    },
+    {
+        "ID_Produktu": "242634114",
+        "Nazwa_Produktu": "Lampa Sufitowa Led Paulmann  3 X 5W Spotlight",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Spoty",
+        "Finalne_ID_AI": 3871,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje na 'Lampa Sufitowa Led (...) Spotlight' oraz opis mówi o 'obrotowych głowicach punktowych', co idealnie pasuje do kategorii 'Spoty', która jest bardziej szczegółowa niż ogólna 'Lampy wiszące' czy 'Plafony'."
+    },
+    {
+        "ID_Produktu": "242634126",
+        "Nazwa_Produktu": "Lampa Wpuszczana Led Marki Paulmann Z Efektem Star",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nowoczesna lampa wpuszczana LED, która idealnie pasuje do kategorii 'Oczka' (downlighty/spoty) w drzewie 'Dom i Ogród > Oświetlenie > Lampy'. Systemowa wskazówka dotycząca antyków została zignorowana, ponieważ produkt jest wyraźnie nowoczesny."
+    },
+    {
+        "ID_Produktu": "242634136",
+        "Nazwa_Produktu": "Zapachy samochodowe | Olejki eteryczne | Odświeżac",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Odświeżacze powietrza",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Gadżety motoryzacyjne",
+        "Finalne_ID_AI": 4492,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to odświeżacz powietrza przeznaczony specjalnie do samochodów, co jest wyraźnie zaznaczone w tytule i opisie. Kategoria 'Gadżety motoryzacyjne' w ścieżce 'Motoryzacja > Wyposażenie i akcesoria samochodowe' jest najbardziej szczegółową i adekwatną kategorią dla tego typu akcesoriów samochodowych, lepiej pasującą niż ogólne 'Odświeżacze powietrza' z 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "242634138",
+        "Nazwa_Produktu": "Dekoracja róże kolor łososiowy z białą organzą",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Moda > Do ślubu > Akcesoria ślubne > Dekoracje na auto",
+        "Finalne_ID_AI": 3034,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dekoracja samochodu ślubnego, a kategoria 'Dekoracje na auto' pod 'Akcesoria ślubne' jest najbardziej precyzyjna i szczegółowa, idealnie pasująca do przeznaczenia produktu. Kategoria 'Ozdoby okolicznościowe' jest zbyt ogólna i nie wskazuje na zastosowanie samochodowe ani ślubne."
     }
 ]

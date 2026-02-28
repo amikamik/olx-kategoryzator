@@ -2308,5 +2308,18 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242634109",
+        "Nazwa_Produktu": "Szczotka Dla Kotów I Psów Samoczyszcząca T9 Różowa",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla psów > Pielęgnacja",
+        "Finalna_Sciezka_AI": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla psów > Pielęgnacja",
+        "Finalne_ID_AI": 2973,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to szczotka samoczyszcząca przeznaczona do pielęgnacji sierści zwierząt. Pasuje do kategorii 'Pielęgnacja' w sekcji 'Akcesoria dla psów', która jest kategorią-liściem. Mimo że produkt jest również dla kotów, drzewo kategorii nie oferuje wspólnej kategorii 'Pielęgnacja' dla obu gatunków na tym poziomie szczegółowości. Zgodnie ze wskazówką systemu OLX, wybieram kategorię dotyczącą psów jako najbardziej pasującą, z wysoką pewnością co do funkcji produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]
