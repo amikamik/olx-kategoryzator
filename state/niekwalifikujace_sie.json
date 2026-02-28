@@ -3178,5 +3178,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to mata przeznaczona do szuflad, półek i lodówek, pełniąca funkcję ochronną i antypoślizgową. Najdokładniejszą i najbardziej szczegółową kategorią dla tego typu przedmiotu jest 'Akcesoria meblowe', znajdująca się w drzewie 'Dom i Ogród > Meble'. Opis produktu wyraźnie wskazuje na jego przeznaczenie jako akcesorium do mebli domowych. Sugerowana przez system kategoria 'Maty edukacyjne' jest całkowicie nieprawidłowa."
+    },
+    {
+        "ID_Produktu": "242634442",
+        "Nazwa_Produktu": "Gałka Uchwyt Do Szuflad Mebli Czarny Kwadrat 12Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw gałek/uchwytów do mebli, takich jak szuflady, komody, szafki i biurka. Najbardziej szczegółową i najlepiej pasującą kategorią jest 'Akcesoria meblowe' znajdująca się w ścieżce 'Dom i Ogród > Meble'."
+    },
+    {
+        "ID_Produktu": "242634444",
+        "Nazwa_Produktu": "Żarówka Led 4W Gu5.3(Mr16) 4200K 280Lm 6 Sztuk",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Żarówka LED'. Podpowiedź systemu OLX wskazuje dokładnie na kategorię 'Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki', która jest kategorią liściową i idealnie pasuje do produktu."
+    },
+    {
+        "ID_Produktu": "242634445",
+        "Nazwa_Produktu": "Żarówka Led 5,5W Gu5.3(Mr16) 3000K 345Lm 6 Sztuk",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Żarówka LED', która idealnie pasuje do najbardziej szczegółowej kategorii 'Żarówki' w drzewie Dom i Ogród > Oświetlenie > Żarówki i świetlówki."
+    },
+    {
+        "ID_Produktu": "242634447",
+        "Nazwa_Produktu": "Żarówka Led 5,5W Gu5.3(Mr16) 4200K 345Lm 6 Sztuk",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Żarówka Led'. Kategoria 'Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki' jest najbardziej szczegółową i precyzyjną kategorią-liściem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "242634450",
+        "Nazwa_Produktu": "Zestaw Organizerów Na Kable",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw organizerów na kable, których głównym celem jest uporządkowanie przestrzeni za biurkiem i w miejscu pracy. Kategoria 'Akcesoria i materiały biurowe' w drzewie 'Firma i Przemysł > Biuro' jest najbardziej szczegółową i trafioną kategorią dla tego typu produktu, ponieważ bezpośrednio dotyczy organizacji i wyposażenia biurowego."
+    },
+    {
+        "ID_Produktu": "242634454",
+        "Nazwa_Produktu": "Koperty Foliowe Z Bąbelkami 50 Szt. 10X20Cm Samopr",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koperty foliowe z bąbelkami, przeznaczone do ochrony i wysyłki delikatnych przedmiotów. Najlepiej pasują do kategorii 'Akcesoria i materiały biurowe' w dziale 'Firma i Przemysł', ponieważ są to typowe materiały eksploatacyjne używane w biurach i firmach do celów wysyłkowych. Kategoria z podpowiedzi 'Artykuły papiernicze' pod 'Dla Dzieci' jest nieodpowiednia ze względu na materiał (folia zamiast papieru) i główne przeznaczenie produktu (ochrona podczas transportu, a nie szkolne potrzeby)."
     }
 ]
