@@ -238,5 +238,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zestaw 50 sztuk jednorazowych pojemników (opakowań) z uwzględnioną opłatą SUP, co wskazuje na przeznaczenie dla branży gastronomicznej i handlowej w kategorii Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242634306",
+        "Nazwa_Produktu": "Stojak Do Pieczenia Kurczaka Mountain Grillers",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny stojak do pieczenia kurczaka marki Mountain Grillers, przeznaczony bezpośrednio do użytku na grillu (co podkreśla tytuł i opis). W drzewie kategorii OLX akcesoria do grillowania najlepiej pasują do kategorii 'Grill' w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "242634310",
+        "Nazwa_Produktu": "JOSEKO Plecak na laptopa, lekki, wodoodporny pleca",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Plecaki",
+        "Finalne_ID_AI": 2755,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wielofunkcyjnym plecakiem przeznaczonym do codziennego użytku, pracy i podróży. Choć posiada komorę na laptopa, jego opis podkreśla wszechstronność (lifestyle, szkoła, biznes), co najlepiej kwalifikuje go do kategorii plecaków w dziale Moda."
+    },
+    {
+        "ID_Produktu": "242634338",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 250ml PET z pokrywką 100szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opakowanie zbiorcze (100 sztuk) jednorazowych pojemników przeznaczonych do transportu i pakowania żywności. Profesjonalny opis, numer modelu (HL250 Guillin) oraz wzmianka o opłacie SUP wskazują na przeznaczenie dla sektora B2B/gastronomii, co czyni kategorię 'Pojemniki gastronomiczne' najbardziej odpowiednią."
+    },
+    {
+        "ID_Produktu": "242634340",
+        "Nazwa_Produktu": "Pojemnik sałatkowy 1L 185 pokrywka SLR1000C 50sz SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zbiorcze opakowanie (50 sztuk) jednorazowych pojemników sałatkowych z tworzywa RPET. Informacja o opłacie SUP (Single Use Plastics) oraz przeznaczenie do transportu żywności jednoznacznie wskazują na asortyment dla branży gastronomicznej."
     }
 ]
