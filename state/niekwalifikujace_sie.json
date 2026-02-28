@@ -498,5 +498,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to płaska, natynkowa lampa sufitowa LED typu 'slim'. W terminologii oświetleniowej i drzewie kategorii OLX, tego typu oprawy sufitowe są klasyfikowane jako 'Plafony'."
+    },
+    {
+        "ID_Produktu": "242635857",
+        "Nazwa_Produktu": "Lampa Sufitowa LED Reflektor Punktowy Czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Spoty",
+        "Finalne_ID_AI": 3871,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to reflektor punktowy (spot), który można montować na suficie lub ścianie. Najlepiej pasuje do kategorii 'Spoty', która obejmuje oprawy kierunkowe montowane natynkowo, w przeciwieństwie do lamp wiszących czy oczek wpuszczanych."
+    },
+    {
+        "ID_Produktu": "242635922",
+        "Nazwa_Produktu": "Regulowane linki gumy mocujące 122cm czarne 20 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to linki elastyczne typu bungee, które służą przede wszystkim do zabezpieczania ładunku w transporcie (na przyczepach, bagażnikach dachowych i w pojazdach). W strukturze kategorii OLX takie akcesoria transportowe najlepiej pasują do kategorii 'Wyposażenie i akcesoria samochodowe > Pozostałe'."
     }
 ]
