@@ -1,1 +1,236 @@
-﻿{}
+[
+    {
+        "ID_Produktu": "242631690",
+        "Nazwa_Produktu": "Mediclean 160 Gres 5L  1szt",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Witaminy i suplementy zdrowia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana",
+        "Finalne_ID_AI": 4700,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koncentrat do czyszczenia powierzchni, w tym płytek gresowych i kamienia, pasujący do kategorii chemii budowlanej.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Mediclean 160 gres 5l  1szt",
+                "description": "Mediclean 160 Gres Produkt objęty obowiązkiem deklaracji zakupowej dla prekursorów materiałów wybuchowych zgodnie z rozporządzeniem 2019/1148. Koncentrat do mycia podłóg z gresu, kamienia naturalnego i sztucznego, płytek ceramicznych oraz innych powierzchni odpornych na działanie kwasów Cechy produktu: Koncentrat do czyszczenia płytek gresowych i ceramicznych, kamienia naturalnego i sztucznego oraz innych podłóg odpornych na środki kwasowe Usuwa osady mineralne tj. wapń, rdza, osady cementowe, kamień wodny Usuwanie zimą soli z podłóg twardych i wykładzin tekstylnych Wybielanie powierzchni ze stali nierdzewnej i aluminium Przeznaczony do mycia maszynowego i ręcznego 1 l koncentratu = do 100 l roztworu roboczego Sposób użycia: CZYSZCZENIE GRUNTOWNE: Stosować rozcieńczenie od 500 do 1000 ml na 10 l zimnej wody. Nanieść roztwór na czyszczoną podłogę i pozostawić ok. 10 15 min., następnie szorować i zebrać rozpuszczony brud. CZYSZCZENIE CODZIENNE: Myć podłogi roztworem o stężeniu od 100 do 500 ml na 10 l wody. Skład: W zależności od stopnia zanieczyszczenia stosować rozcieńczenie: Mycie codzienne lub okresowe: 100-200 ml na 10 l wody (1-2%). Mycie gruntowne i usuwanie z soli: 500-1000 ml na 10 l wody (5-10%) (użyć nierozcieńczony jeśli koniecznie). Nanieść roztwór za pomocą szorowarki lub mopa, pozostawić na 3 do 10 minut. Zebrać rozpuszczone zanieczyszczenia z powierzchni za pomocą automatu szorującego, odkurzacza do pracy na mokro lub mopa. Zneutralizować wodą. UWAGA! Polerowany marmur i płytki terazzo powinny być myte regularnie środkiem do czyszczenia o neutralnym pH. Zastosowanie: Koncentrat gruntownie oczyszcza powierzchnie kamienne, ceramiczne oraz pozostałe odporne na działanie kwasów. Idealny do mycia ręcznego oraz maszynowego. Nie pozostawia smug. Odpowiedni zarówno do usuwania osadów mineralnych takich jak wapń, rdza, osady cementowe, kamień i ślady soli jak i do czyszczenia fug oraz wybielania powierzchni ze stali nierdzewnej i aluminium. Neutralizuje zanieczyszczenia alkaliczne i skutecznie usuwa osad wapnia oraz soli z większości twardych powierzchni podłogowych i wykładzin, także z powierzchni przemysłowych. Tylko do użytku profesjonalnego. pH 10,5 --- Cena dotyczy 1 szt. 5 litrów\n\n[DEAL-BLB2B]",
+                "category_id": 4700,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 143.01,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/24f5b898d6f1bf56cc96674e285a55ac.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/67a0f7009e7c279a1b39ac923bfc995e.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242631775",
+        "Nazwa_Produktu": "Torba papierowa z uchem 26x17x26cm 250szt brąz",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze",
+        "Finalne_ID_AI": 4601,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torby papierowe, które są artykułami papierniczymi. Kategoria 'Artykuły papiernicze' jest najbardziej odpowiednia dla tego produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Torba papierowa z uchem 26x17x26cm 250szt brąz",
+                "description": "Torba papierowa z uchem 26x17x26cm 250szt brąz. Najpopularniejsze torby papierowe, reklamowe z uchem płaskim. Idealnie nadają się jako torby cateringowe, torby zakupowe, torby spożywcze. Wytrzymałość sklejenia torby z uchwytem płaskim to 2-3kg. - kolor: brązowy - uchwyt: papierowy płaski - papier: 80 g/m2 - długość 260 mm - szerokość 170 mm - wysokioość 260 mm. Cena dotyczy opakowania 250 szt.\n\n[DEAL-BLB2B]",
+                "category_id": 4601,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 175.29,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/570ea42b169b3aa130f6d464f8b93311.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242631808",
+        "Nazwa_Produktu": "Ręcznik Ellis Professional R120/2 Biały 6 Rolek",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ręczniki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz",
+        "Finalne_ID_AI": 1409,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręcznik papierowy przeznaczony do użytku profesjonalnego (cleaning) i ogólnego. Chociaż nawiązuje do kategorii 'Ręczniki' (2526), to jednak jako produkt chemiczny/gospodarczy lepiej pasuje do kategorii nadrzędnej 'Dom i Ogród > Wyposażenie wnętrz', gdzie znajduje się szerszy zakres produktów do utrzymania czystości i higieny.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Ręcznik ellis professional r120/2 biały 6 rolek",
+                "description": "Ręcznik Ellis Professional R120/2 biały 6 rolek. ELLIS PROFESSIONAL R 120/2 Lamix 3032 Wytrzymały dwuwarstwowy ręcznik celulozowy o wysokich właściwościach absorpcyjnych. Pochłania wszelkie płyny, może służyć do wycierania i czyszczenia różnych powierzchni w tym także rąk. kolor: biały surowiec: celuloza ilość warstw: 2 gramatura: 2x 17 g/m2 wodotrwałość: tak średnica: 19 cm wysokość: 19 cm długość: 120 m perforacja: co 22 cm Cena dotyczy opakowania 6 rolek.\n\n[DEAL-BLB2B]",
+                "category_id": 1409,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 127.19,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/c4f4647c442a248d177585bfd9e76975.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242631921",
+        "Nazwa_Produktu": "Talerz z pulpy trzcinowej 26x32cm owalny 125szt",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Talerze",
+        "Finalna_Sciezka_AI": "Antyki i Kolekcje > Antyki > Stara ceramika",
+        "Finalne_ID_AI": 4065,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produktem jest owalny talerz z pulpy trzcinowej, który jest produktem jednorazowego użytku, często stosowanym w gastronomii i na przyjęciach. Kategoria \"Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa\" jest najbardziej odpowiednia dla tego typu produktu. Ponieważ \"Stara ceramika\" jest kategorią w obrębie \"Antyki\", która nie pasuje do opisu produktu (nie jest stary ani zabytkowy), wybieram \"Zastawa stołowa\", która obejmuje talerze, jako najbardziej odpowiednią. Konkretnie kategoria \"Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Pozostałe\" jest najbardziej odpowiednia, ponieważ nie ma dedykowanej kategorii dla talerzy z pulpy trzcinowej.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Talerz z pulpy trzcinowej 26x32cm owalny 125szt",
+                "description": "Talerz z pulpy trzcinowej 26x32cm owalny 125szt. Talerz owalny z pulpy trzciny cukrowej, ekologiczny, biodegradowalny, kompostowalny. Przeznaczony do podawania zimnych i gorących dań, doskonale sprawdza się na piknikach, grillach oraz na przyjęciach w terenie. Ma zastosowanie w małej gastronomii, barach oraz food trucks. - Średnica: 26x32 cm. Cena za 1 zgrzewkę 125 szt. Pulpa z trzciny cukrowej są to jej rozdrobnione włókna. Pulpa stanowi doskonały zamiennik dla styropianu, który jest często wykorzystywany do produkcji konwencjonalnych opakowań na wynos lecz jego rozkład zajmuje wiele lat. Produkty z pulpy wytwarzane są nie tylko z zasobów odnawialnych czyli roślin, ale także z surowców pochodzących z recyklingu. Gdyby trzcina cukrowa nie była dobrze wykorzystana i przekształcona w produkty takie jak opakowania do żywności, byłaby po prostu odpadem. Produkty z pulpy można stosować w kuchenkach mikrofalowych i lodówkach, nadają się do recyklingu, a także w 100% ulegają biodegradacji i są kompostowalne, co oznacza, że ulegną rozkładowi w ciągu 12 tygodni.\n\n[DEAL-BLB2B]",
+                "category_id": 4065,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 168.82,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/77bf8def548187f4b8a088dc6a13fbad.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+]
