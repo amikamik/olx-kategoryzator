@@ -1,11 +1,11 @@
 """
-Kategoryzator produktów Deal BL B2B na platformie OLX.
+Kategoryzator produktów DoFirmy.pl na platformie OLX.
 Analogiczny do wersji z gałęzi przemyslowa-cache-nowa-najnowsza.
 
 KLUCZOWE RÓŻNICE vs gałąź przemyslowa:
 - Feed pobierany z BaseLinker API (nie z URL hurtowni)
 - --refresh-feed wywołuje pobierz_feed_deal.main() zamiast aktualizuj_feed_gpsr.main()
-- Brak danych GPSR (produkty Deal nie mają jeszcze GPSR)
+- Brak danych GPSR (produkty DoFirmy nie mają jeszcze GPSR)
 - Produkty bez GPSR są śledzone w state/bez_gpsr.json
 - Mapowanie zawiera gpsr_status: "missing" dla przyszłej aktualizacji
 """
@@ -451,26 +451,26 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
 
 
 # ==============================================================================
-# ======================== GPSR - DEAL BL B2B ==================================
+# ======================== GPSR - DOFIRMY.PL ==================================
 # ==============================================================================
-# UWAGA: Produkty Deal NIE mają danych GPSR.
+# UWAGA: Produkty DoFirmy NIE mają danych GPSR.
 # Poniższe funkcje są zachowane dla kompatybilności ze strukturą kodu,
 # ale zawsze zwracają None/puste wyniki.
 # Produkty opublikowane bez GPSR są śledzone w state/bez_gpsr.json
 
-# Pusty słownik producentów (Deal nie ma danych GPSR)
+# Pusty słownik producentów (DoFirmy nie ma danych GPSR)
 RESPONSIBLE_PRODUCERS = {}
 
 def get_gpsr_text(producer_id):
     """
-    Dla Deal BL B2B: ZAWSZE zwraca None.
-    Produkty Deal nie mają danych GPSR.
+    Dla DoFirmy.pl: ZAWSZE zwraca None.
+    Produkty DoFirmy nie mają danych GPSR.
     """
     return None
 
 def parse_product_feed(file_path, limit):
     """
-    Parsuje plik XML feedu Deal BL B2B (format zgodny z hurtowniaprzemyslowa).
+    Parsuje plik XML feedu DoFirmy.pl (format zgodny z hurtowniaprzemyslowa).
     Format: <offers><group><o id="" price="">...</o></group></offers>
     """
     products = []
@@ -507,7 +507,7 @@ def parse_product_feed(file_path, limit):
                     'description': (elem.find('desc').text or '').strip(),
                     'images': image_urls,
                     'attrs': attrs_dict,
-                    'producer_id': None  # Deal nie ma danych GPSR
+                    'producer_id': None  # DoFirmy nie ma danych GPSR
                 }
                 products.append(product_data)
                 elem.clear()
@@ -834,17 +834,17 @@ def opublikuj_ogloszenie_na_olx(produkt, kategoria_id, wybrane_atrybuty, wybrane
     Przygotowuje, wysyła ogłoszenie do OLX API i zwraca status operacji.
     Zwraca krotkę: (bool: sukces, dict: wynik_api)
     
-    DEAL BL B2B: Produkty NIE mają danych GPSR - opis bez sekcji GPSR.
+    DOFIRMY: Produkty NIE mają danych GPSR - opis bez sekcji GPSR.
     """
 
     # Krok 1: Przygotowanie pełnego ładunku (payload)
     base_description = clean_html(produkt.get('description', "Brak opisu"))
     
-    # DEAL: Brak danych GPSR - nie dodajemy sekcji GPSR do opisu
-    # Dodajemy ukryty marker [DEAL-BLB2B] na dole opisu — do identyfikacji przez API w przyszłości
-    DEAL_MARKER = "\n\n[DEAL-BLB2B]"
+    # DOFIRMY: Brak danych GPSR - nie dodajemy sekcji GPSR do opisu
+    # Dodajemy ukryty marker [DOFIRMY] na dole opisu — do identyfikacji przez API w przyszłości
+    DEAL_MARKER = "\n\n[DOFIRMY]"
     full_description = base_description + DEAL_MARKER
-    print(f"    │  ├─ ⚠️ Produkt Deal - brak danych GPSR (marker [DEAL-BLB2B] dodany do opisu)")
+    print(f"    │  ├─ ⚠️ Produkt DoFirmy - brak danych GPSR (marker [DOFIRMY] dodany do opisu)")
     
     # Przygotowanie tytułu (max 69 znaków dla OLX API)
     tytul_oryginalny = produkt.get('name', "Brak tytułu").capitalize()
@@ -995,7 +995,7 @@ def wczytaj_mapping_feed_to_olx(sciezka_pliku):
 def zapisz_mapping_feed_to_olx(feed_id, olx_response, category_id, price, sciezka_pliku):
     """
     Zapisuje mapowanie feed_id → dane z OLX (olx_id, category, price, timestamp).
-    DEAL: Dodaje gpsr_status: "missing" dla przyszłej identyfikacji produktów bez GPSR.
+    DOFIRMY: Dodaje gpsr_status: "missing" dla przyszłej identyfikacji produktów bez GPSR.
     """
     from datetime import datetime
     
@@ -1010,7 +1010,7 @@ def zapisz_mapping_feed_to_olx(feed_id, olx_response, category_id, price, sciezk
         "published_at": datetime.now().isoformat(),
         "category_id": category_id,
         "price": float(price) if price else None,
-        "gpsr_status": "missing"  # ← DEAL: Produkty bez danych GPSR
+        "gpsr_status": "missing"  # ← DOFIRMY: Produkty bez danych GPSR
     }
     
     with open(sciezka_pliku, 'w', encoding='utf-8') as f:
@@ -1077,10 +1077,10 @@ def sprawdz_kwalifikacje_kategorii(sciezka_kategorii, kategorie_platne):
 # ==============================================================================
 
 def main():
-    """Orkiestruje cały proces kategoryzacji produktów Deal BL B2B."""
+    """Orkiestruje cały proces kategoryzacji produktów DoFirmy.pl."""
     
     # --- Parsowanie argumentów wiersza poleceń ---
-    parser = argparse.ArgumentParser(description='Kategoryzacja produktów Deal BL B2B na OLX')
+    parser = argparse.ArgumentParser(description='Kategoryzacja produktów DoFirmy.pl na OLX')
     parser.add_argument('--refresh-feed', action='store_true',
                         help='Pobierz feed na nowo z BaseLinker API przed przetwarzaniem')
     args = parser.parse_args()
@@ -1088,13 +1088,13 @@ def main():
     # --- Opcjonalne odświeżenie feedu z BaseLinker ---
     if args.refresh_feed:
         print("#" * 80)
-        print("##### ODŚWIEŻANIE FEEDU DEAL Z BASELINKER (--refresh-feed) #####")
+        print("##### ODŚWIEŻANIE FEEDU DOFIRMY Z BASELINKER (--refresh-feed) #####")
         print("#" * 80)
         try:
             from pobierz_feed_deal import main as refresh_feed_main
             success = refresh_feed_main()
             if success:
-                print("\n✅ Feed Deal został pomyślnie pobrany z BaseLinker\n")
+                print("\n✅ Feed DoFirmy został pomyślnie pobrany z BaseLinker\n")
             else:
                 print("\n❌ BŁĄD: Nie udało się pobrać feedu z BaseLinker")
                 return

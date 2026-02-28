@@ -1,4 +1,4 @@
-name: 🏷️ Kategoryzacja OLX - Deal BL B2B (Gemini)
+name: 🏷️ Kategoryzacja OLX - DoFirmy.pl (Gemini)
 
 on:
   workflow_dispatch:
@@ -45,7 +45,7 @@ permissions:
 
 jobs:
   kategoryzuj:
-    name: Kategoryzacja - Deal BL B2B (Gemini)
+    name: Kategoryzacja - DoFirmy.pl (Gemini)
     runs-on: ubuntu-latest
     timeout-minutes: 360
 
@@ -149,20 +149,20 @@ jobs:
           # GPSR - Deal nie ma danych GPSR
           GPSR_ENABLED = False
 
-          # BaseLinker (do pobierania feedu Deal)
+          # BaseLinker (do pobierania feedu DoFirmy)
           BASELINKER_TOKEN = "${{ secrets.BASELINKER_TOKEN }}"
 
-          # Dedykowane konto BL z pełnym feedem Deal (bez limitu 1000)
-          BASELINKER_TOKEN_FEED = "${{ secrets.BASELINKER_TOKEN_FEED }}"
+          # Dedykowane konto BL z feedem DoFirmy.pl
+          BASELINKER_TOKEN_DOFIRMY = "${{ secrets.BASELINKER_TOKEN_DOFIRMY }}"
           EOF
         env:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: 🏷️ Uruchom kategoryzator (Gemini) - Deal BL B2B
+      - name: 🏷️ Uruchom kategoryzator (Gemini) - DoFirmy.pl
         run: |
           echo "=================================="
-          echo "KATEGORYZACJA OLX - DEAL BL B2B"
+          echo "KATEGORYZACJA OLX - DOFIRMY.PL"
           echo "Model: ${{ inputs.gemini_model }}"
           echo "Sample size: ${{ inputs.sample_size }}"
           echo "Zakres cenowy: ${{ inputs.min_price }} - ${{ inputs.max_price }} zł"
@@ -185,7 +185,7 @@ jobs:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           BASELINKER_TOKEN: ${{ secrets.BASELINKER_TOKEN }}
-          BASELINKER_TOKEN_FEED: ${{ secrets.BASELINKER_TOKEN_FEED }}
+          BASELINKER_TOKEN_DOFIRMY: ${{ secrets.BASELINKER_TOKEN_DOFIRMY }}
           MAX_RUNTIME_MINUTES: "350"
 
       - name: 💽 Zapisz zaktualizowane pliki state i raport
@@ -197,7 +197,7 @@ jobs:
           git add output/raport_kategoryzacji.csv
 
           if ! git diff --staged --quiet; then
-            git commit -m "AUTO: Aktualizacja state i raport - Deal BL B2B - Gemini ${{ inputs.gemini_model }} - $(date '+%Y-%m-%d %H:%M:%S')"
+            git commit -m "AUTO: Aktualizacja state i raport - DoFirmy.pl - Gemini ${{ inputs.gemini_model }} - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
             echo "✅ Zaktualizowano pliki state i raport"
           else
@@ -228,7 +228,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: raport-kategoryzacji-deal-gemini
+          name: raport-kategoryzacji-dofirmy-gemini
           path: output/raport_kategoryzacji.csv
           if-no-files-found: ignore
 
@@ -236,7 +236,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: state-files-deal-gemini
+          name: state-files-dofirmy-gemini
           path: state/*.json
           if-no-files-found: ignore
 
@@ -245,7 +245,7 @@ jobs:
         run: |
           echo ""
           echo "=================================="
-          echo "✅ Workflow zakończony - Deal BL B2B"
+          echo "✅ Workflow zakończony - DoFirmy.pl"
           echo "🤖 Model: ${{ inputs.gemini_model }}"
           echo "📅 Czas zakończenia: $(date)"
           echo "=================================="

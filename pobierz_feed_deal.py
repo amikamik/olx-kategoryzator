@@ -1,21 +1,21 @@
 """
-Skrypt do pobierania feedu produktów Deal BL B2B z BaseLinker.
+Skrypt do pobierania feedu produktów DoFirmy.pl z BaseLinker.
 
-Używa DEDYKOWANEGO konta BaseLinker (bez limitu 1000 produktów),
-na którym znajduje się pełny katalog Deal (~5368 produktów).
+Używa DEDYKOWANEGO konta BaseLinker (amadeusz.dofirmy@gmail.com),
+na którym znajduje się katalog DoFirmy (~2295 produktów LEGO).
 
 Workflow:
-1. Pobiera listę WSZYSTKICH produktów z katalogu nowego konta (inventory_id=25038)
-2. Filtruje produkty Deal (posiadające link blconnect_9164)
+1. Pobiera listę WSZYSTKICH produktów z katalogu konta DoFirmy (inventory_id=25088)
+2. Filtruje produkty DoFirmy (posiadające link blconnect_9181)
 3. Pobiera pełne dane produktów w batchach po 100
 4. Deduplikuje produkty po ID (każdy produkt pojawia się tylko raz)
 5. Generuje plik XML feedu w formacie zgodnym z parse_product_feed()
 6. Zapisuje do input/feed_deal_blb2b.xml
 
-Token do tego konta: zmienna środowiskowa BASELINKER_TOKEN_FEED
+Token do tego konta: zmienna środowiskowa BASELINKER_TOKEN_DOFIRMY
 (osobny od BASELINKER_TOKEN używanego do operacji OLX na głównym koncie)
 
-UWAGA: Produkty Deal NIE mają na razie danych GPSR.
+UWAGA: Produkty DoFirmy NIE mają na razie danych GPSR.
 """
 
 import xml.etree.ElementTree as ET
@@ -32,11 +32,11 @@ from datetime import datetime
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_FEED = os.path.join(SCRIPT_DIR, "input", "feed_deal_blb2b.xml")
 
-# BaseLinker API — DEDYKOWANE KONTO Z PEŁNYM FEEDEM DEAL
+# BaseLinker API — DEDYKOWANE KONTO DOFIRMY.PL
 BASELINKER_API_URL = "https://api.baselinker.com/connector.php"
-INVENTORY_ID = 25038          # Katalog "Domyślny" na nowym koncie BL
-DEAL_LINK_KEY = "blconnect_9164"  # Klucz linku Deal BL B2B na nowym koncie
-MAIN_WAREHOUSE = "bl_42824"  # Magazyn na nowym koncie
+INVENTORY_ID = 25088          # Katalog "Domyślny" na koncie DoFirmy
+DEAL_LINK_KEY = "blconnect_9181"  # Klucz linku Hurtownia DoFirmy.pl
+MAIN_WAREHOUSE = "bl_42878"  # Magazyn na koncie DoFirmy
 
 # Rate limiting
 API_DELAY = 0.35  # Sekund między wywołaniami API (limit BL ~180 req/min)
@@ -49,15 +49,15 @@ BATCH_SIZE = 100   # Maksymalny rozmiar batcha dla getInventoryProductsData
 
 def _get_baselinker_token():
     """
-    Pobiera token BaseLinker do pobierania feedu Deal:
-    1. Ze zmiennej BASELINKER_TOKEN_FEED (priorytet - dedykowane konto z pełnym feedem)
+    Pobiera token BaseLinker do pobierania feedu DoFirmy:
+    1. Ze zmiennej BASELINKER_TOKEN_DOFIRMY (priorytet - dedykowane konto DoFirmy)
     2. Ze zmiennej BASELINKER_TOKEN (fallback - główne konto)
     3. Z pliku config/config.py (fallback - dla lokalnego uruchomienia)
     """
-    # Priorytet: dedykowany token do feeda (nowe konto bez limitu)
-    token = os.environ.get("BASELINKER_TOKEN_FEED", "")
+    # Priorytet: dedykowany token do konta DoFirmy
+    token = os.environ.get("BASELINKER_TOKEN_DOFIRMY", "")
     if token:
-        print("  Używam tokena BASELINKER_TOKEN_FEED (dedykowane konto feeda)")
+        print("  Używam tokena BASELINKER_TOKEN_DOFIRMY (konto DoFirmy)")
         return token
     
     # Fallback: główny token
@@ -71,7 +71,7 @@ def _get_baselinker_token():
         import sys
         sys.path.insert(0, os.path.join(SCRIPT_DIR, 'config'))
         import config
-        token = getattr(config, 'BASELINKER_TOKEN_FEED', '') or getattr(config, 'BASELINKER_TOKEN', '')
+        token = getattr(config, 'BASELINKER_TOKEN_DOFIRMY', '') or getattr(config, 'BASELINKER_TOKEN', '')
     except (ImportError, AttributeError):
         pass
     
@@ -351,7 +351,7 @@ def main():
     token = _get_baselinker_token()
     if not token:
         print("❌ BŁĄD: Brak tokena BaseLinker!")
-        print("   Ustaw zmienną środowiskową BASELINKER_TOKEN_FEED (dedykowane konto feeda)")
+        print("   Ustaw zmienną środowiskową BASELINKER_TOKEN_DOFIRMY (konto DoFirmy.pl)")
         print("   lub BASELINKER_TOKEN (główne konto)")
         print("   lub dodaj do config/config.py")
         return False
