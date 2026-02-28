@@ -1,1 +1,102 @@
-﻿{}
+[
+    {
+        "ID_Produktu": "242631689",
+        "Nazwa_Produktu": "Mediclean 130 Strong 5L  1szt",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Urządzenia medyczne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny detergent (koncentrat) do mycia podłóg, który najlepiej pasuje do kategorii środków czyszczących w sekcji Supermarket w dziale Dom i Ogród. Sugestia dotycząca urządzeń medycznych jest błędna, prawdopodobnie wynikająca z nazwy marki Mediclean."
+    },
+    {
+        "ID_Produktu": "242631762",
+        "Nazwa_Produktu": "Pudełko na kurczaka 200x100x75mm kraft 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowanie tekturowe przeznaczone specjalnie do użytku profesjonalnego w gastronomii (restauracje, food trucki). Z tego względu kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest znacznie bardziej adekwatna niż domowe pudełka do przechowywania."
+    },
+    {
+        "ID_Produktu": "242631763",
+        "Nazwa_Produktu": "Pudełko na kurczaka 200x140x50mm kraft 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hurtowe opakowania tekturowe (100 sztuk) przeznaczone typowo dla branży gastronomicznej (restauracje, food trucki) do dań na wynos, co najlepiej odpowiada kategorii Pojemniki gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242631781",
+        "Nazwa_Produktu": "Opakowanie na wynos lunch box 1,6L 20x14x6 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe przeznaczone do pakowania dań na wynos, sprzedawane w ilości hurtowej (50 sztuk). Opis wyraźnie wskazuje na zastosowanie profesjonalne w restauracjach, barach i food truckach, co kwalifikuje go do kategorii Pojemniki gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242631854",
+        "Nazwa_Produktu": "Opakowanie na wynos Wrap 210x95x30  100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe na wynos przeznaczone do użytku profesjonalnego w gastronomii (restauracje, bary, food trucki), co idealnie wpisuje się w definicję kategorii 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242631890",
+        "Nazwa_Produktu": "Torebka papierowa 27x11/6 biała 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to opakowania zbiorcze (1000 sztuk) przeznaczone do użytku profesjonalnego w handlu detalicznym (piekarnie, cukiernie, sklepy spożywcze). Ze względu na charakter zaopatrzeniowy dla firm, najlepiej pasuje do kategorii Firma i Przemysł -> Sklepy i magazyny -> Pozostałe."
+    },
+    {
+        "ID_Produktu": "242631904",
+        "Nazwa_Produktu": "Woreczki strunowe 40x45cm 40mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to woreczki strunowe (opakowania foliowe LDPE) o wymiarach 40x45cm, sprzedawane w ilości hurtowej (100 szt.) z podaniem parametrów technicznych (40 mikronów). Takie przedmioty są typowym materiałem eksploatacyjnym wykorzystywanym w logistyce, handlu i magazynowaniu, dlatego najlepiej pasują do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242631905",
+        "Nazwa_Produktu": "Woreczki strunowe 45x50cm 45mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Duży rozmiar woreczków (45x50cm) oraz ilość w opakowaniu zbiorczym (100 sztuk) sugerują zastosowanie przemysłowe, magazynowe lub handlowe (pakowanie towarów, odzieży, części), co jest najbardziej spójne z kategorią Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242632096",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 1,5L F339 OPS 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne, jednorazowe pojemniki OPS przeznaczone dla branży gastronomicznej, o czym świadczy hurtowa ilość (50 sztuk), techniczny opis materiału oraz uwzględnienie w cenie opłaty SUP (Single Use Plastics), co kieruje ofertę do odbiorców biznesowych."
+    },
+    {
+        "ID_Produktu": "242632225",
+        "Nazwa_Produktu": "Pudełko na kurczaka 220x120x75mm kraft 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe przeznaczone do użytku profesjonalnego w branży gastronomicznej (restauracje, food trucki). Najdokładniejszą kategorią dla tego typu zaopatrzenia firm jest 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    }
+]
