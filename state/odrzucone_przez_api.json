@@ -118,5 +118,118 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242636395",
+        "Nazwa_Produktu": "Gniazdo Podwójne 2w1 Wtyczka Podwójna 3szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Przedłużacze i rozgałęźniki",
+        "Finalne_ID_AI": 3208,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rozgałęźnik sieciowy (tzw. złodziejka), który w drzewie kategorii OLX przypisany jest do kategorii 'Przedłużacze i rozgałęźniki' w sekcji Elektryka.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gniazdo podwójne 2w1 wtyczka podwójna 3szt",
+                "description": "Gniazdo Podwójne 2w1 Wtyczka Podwójna 3szt Wysokiej jakości rozgałęźnik z dwoma gniazdami. Rozgałęźnik sieciowy znany, jako złodziejka to idealny dodatek w przypadku małej ilość gniazdek w pomieszczeniu. Dzięki złodziejce można podłączyć dodatkowe sprzęty bez dodatkowych, plączących się kabli. Produkt spełnia europejskie normy CE. Rozgałęźnik wykonany jest z niepalnego tworzywa.\n\n[DEAL-BLB2B]",
+                "category_id": 3208,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 109.73,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/179d8b4e3efba5ce18180ddec05ed3c1.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/a676660871e1922bbe6c1e2b6cc3b67a.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242636397",
+        "Nazwa_Produktu": "Obudowa elektryczna skrzynka do zasilaczy 5szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obudowa elektryczna (skrzynka rozgałęźna), która w drzewie kategorii OLX jest klasyfikowana jako osprzęt instalacyjny w sekcji Elektryka.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Obudowa elektryczna skrzynka do zasilaczy 5szt",
+                "description": "Plastikowa obudowa antykorozyjna i antystatyczna elektryczna skrzynka rozgałęźna do elektronicznych zasilaczy 5 szt Uszczelnione tworzywo sztuczne ABS DIY przełącznik obudowy elektrycznej. - Otwory są otwierane po obu stronach dla zwojów/linek / drutów. - Wykonane z wysokiej jakości tworzywa ABS, antykorozyjne, antystatyczne, odporne na izolację. - Idealne do projektów elektronicznych, zasilaczy, projektów przemysłowych, wzmacniaczy, bezpieczników pojazdów itp. - Wymiary: 48 x 26 x 15 mm / 1,89 x 1,02 x 0,59 cala. Specyfikacja: - Rozmiar: 48 x 26 x 15 mm - Materiał: tworzywo sztuczne.\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 79.06,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/6af9a39ee19f6bef30c1988fd65e5154.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/61ee6e4f0610a324c2d8e1aaef501ec6.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/a0b2f4bedf447ea38aa0bdebbcf67605.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

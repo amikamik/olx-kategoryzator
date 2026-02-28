@@ -528,5 +528,95 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to gałki i uchwyty przeznaczone do montażu w meblach (szafkach, szufladach), co bezpośrednio odpowiada kategorii 'Akcesoria meblowe' w sekcji 'Dom i Ogród > Meble'."
+    },
+    {
+        "ID_Produktu": "242636204",
+        "Nazwa_Produktu": "Higrometr wewnętrzny cyfrowy termometr 3 szt Biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Przyrządy miernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest cyfrowym urządzeniem do pomiaru parametrów otoczenia (temperatury i wilgotności), co bezpośrednio klasyfikuje go jako przyrząd mierniczy w dziale Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242636285",
+        "Nazwa_Produktu": "Torba wisząca gruszka organizer zabawek brązowy",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Pojemniki na zabawki",
+        "Finalne_ID_AI": 4726,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest organizerem przeznaczonym do przechowywania zabawek w pokoju dziecięcym. Kategoria 'Pojemniki na zabawki' (ID: 4726) najlepiej oddaje funkcjonalność przedmiotu jako systemu do przechowywania i organizacji zabawek, nawet jeśli ma on formę wiszącej torby."
+    },
+    {
+        "ID_Produktu": "242636289",
+        "Nazwa_Produktu": "Lampa Projektor Imitacja Zachodu SŁOŃCA LED",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Projektory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Pozostałe",
+        "Finalne_ID_AI": 3872,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dekoracyjna lampa nastrojowa LED (sunset lamp). Mimo nazwy 'projektor', nie służy ona do wyświetlania obrazu wideo, lecz do tworzenia efektów świetlnych, dlatego kategoria 'Projektory' w sekcji Elektronika/Wideo jest błędna. Najbardziej trafną kategorią jest oświetlenie dekoracyjne, które w drzewie OLX znajduje się pod ID 3872 (Dom i Ogród > Oświetlenie > Lampy > Pozostałe)."
+    },
+    {
+        "ID_Produktu": "242636336",
+        "Nazwa_Produktu": "Panel LED Lampa 18W Biel 20x20 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wykończenie wnętrz > Tapety i panele ścienne > Panele ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest kwadratowym panelem LED przeznaczonym do montażu podtynkowego w suficie. W strukturze kategorii OLX, tego typu płaskie lampy sufitowe są klasyfikowane jako 'Plafony'."
+    },
+    {
+        "ID_Produktu": "242636342",
+        "Nazwa_Produktu": "Zamek Blokada Drzwi Antywłamaniowe Brąz",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Zamki",
+        "Finalne_ID_AI": 3157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zamek (blokada) przeznaczony do drzwi mieszkalnych, co idealnie odpowiada kategorii 'Zamki' w sekcji 'Drzwi' w dziale 'Budowa' w kategorii głównej 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "242636343",
+        "Nazwa_Produktu": "Słuchawka głowica prysznicowa 3 tryby spa masaż",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Pozostałe",
+        "Finalne_ID_AI": 3237,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słuchawka prysznicowa jest elementem armatury łazienkowej zaliczanym do materiałów wykończeniowych. W podanym drzewie kategorii produkt najlepiej pasuje do sekcji Dom i Ogród > Wykończenie wnętrz > Łazienka, a ze względu na brak dedykowanej kategorii dla samych słuchawek prysznicowych, kategoria 'Pozostałe' w tej gałęzi jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "242636354",
+        "Nazwa_Produktu": "Opaska do Włosów z Kokardką Vintage Boho 8szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Akcesoria do włosów > Opaski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Opaski",
+        "Finalne_ID_AI": 2728,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to opaska do włosów, co bezpośrednio odpowiada najbardziej szczegółowej kategorii 'Opaski' w dziale akcesoriów modowych."
+    },
+    {
+        "ID_Produktu": "242636379",
+        "Nazwa_Produktu": "Lampa LED podszafkowa 20W neutralna biel 60cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy stojące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Pozostałe",
+        "Finalne_ID_AI": 3872,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gotowa lampa LED przeznaczona do montażu podszafkowego (oświetlenie meblowe). W drzewie kategorii OLX, przy braku dedykowanej podkategorii dla oświetlenia podszafkowego lub kuchennego, produkt należy zaklasyfikować do kategorii 'Pozostałe' w sekcji 'Lampy' (Dom i Ogród > Oświetlenie > Lampy > Pozostałe), co jest bardziej precyzyjne niż ogólna kategoria 'Oprawy oświetleniowe'."
+    },
+    {
+        "ID_Produktu": "242636460",
+        "Nazwa_Produktu": "Koperty Białe 11x23 Gr80 500szt Koperty kurierskie",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro",
+        "Finalne_ID_AI": 4654,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koperty wysyłkowe (kurierskie) z okienkiem w ilości hurtowej (500 sztuk), co jest typowym elementem wyposażenia i materiałów biurowych w kategorii Firma i Przemysł."
     }
 ]
