@@ -648,5 +648,115 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to gumowy pas mocujący z hakami, przeznaczony do zabezpieczania bagażu w samochodach i motocyklach. Zgodnie z drzewem kategorii OLX, najlepiej pasuje do sekcji akcesoriów samochodowych, a konkretnie do kategorii 'Pozostałe' (ID: 4509), ponieważ nie jest to ani kompletny bagażnik (4485), ani organizer/siatka (4498), lecz uniwersalne akcesorium transportowe."
+    },
+    {
+        "ID_Produktu": "242636536",
+        "Nazwa_Produktu": "Tablica Warsztatowa Narzędziowa Plastikowa czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plastikowa ścianka (tablica) narzędziowa służąca do organizacji narzędzi w warsztacie lub garażu. Zgodnie z hierarchią OLX i przeznaczeniem konsumenckim (marka Kistenberg), produkt najlepiej pasuje do kategorii 'Dom i Ogród > Narzędzia'. Ponieważ nie jest to samo narzędzie (ręczne czy elektryczne), lecz akcesorium do ich przechowywania, wybór pada na 'Pozostałe Narzędzia'."
+    },
+    {
+        "ID_Produktu": "242636565",
+        "Nazwa_Produktu": "Perlator przedłużacz do kranu kuchni łazienki 2szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Kuchnia > Baterie kuchenne",
+        "Finalne_ID_AI": 3228,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to perlator i przedłużacz do kranu, który jest bezpośrednim akcesorium baterii kuchennej. Opis produktu w przeważającej mierze koncentruje się na zastosowaniu w kuchni (zlewozmywaki, mycie naczyń i warzyw), dlatego kategoria 'Baterie kuchenne' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "242636615",
+        "Nazwa_Produktu": "Girlanda Ogrodowa LED Łańcuch Świetlny 9m Srebrny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany girlandą świetlną, a w drzewie kategorii OLX istnieje dedykowana kategoria liść 'Girlandy świetlne' w sekcji 'Oświetlenie', która jest najbardziej precyzyjnym dopasowaniem dla tego typu oświetlenia dekoracyjnego."
+    },
+    {
+        "ID_Produktu": "242636645",
+        "Nazwa_Produktu": "Plafon Lampa Sufitowa biała LED 20W Okrągła",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest w tytule i opisie wprost nazwany plafonem oraz lampą sufitową LED do wnętrz, co idealnie pasuje do najbardziej szczegółowej kategorii 'Plafony' w sekcji Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242636646",
+        "Nazwa_Produktu": "Lampa sufitowa Led 18W Płaska Biała Yafido",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to płaska lampa sufitowa LED, która w terminologii oświetleniowej określana jest jako plafon. Kategoria 'Plafony' (3870) jest najbardziej precyzyjnym dopasowaniem dla tego typu oprawy oświetleniowej montowanej bezpośrednio do sufitu."
+    },
+    {
+        "ID_Produktu": "242636681",
+        "Nazwa_Produktu": "Haki stalowe do dużych obciążeń 4szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to stalowe elementy montażowe (haki ze stali nierdzewnej 304) przeznaczone do dużych obciążeń, wyposażone w śruby i kołki rozporowe. W drzewie kategorii OLX najbardziej odpowiednim miejscem dla drobnych akcesoriów metalowych i osprzętu montażowego o charakterze budowlanym jest kategoria 'Dom i Ogród > Budowa > Pozostałe'. Podpowiedź systemu dotycząca sprzętu siłowego jest błędna i wynika prawdopodobnie z obecności słowa 'obciążeń' w tytule."
+    },
+    {
+        "ID_Produktu": "242636733",
+        "Nazwa_Produktu": "Dozownik chloru pływający do basenów",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Dozowniki do mydła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dozownik chloru przeznaczony do basenów. W drzewie kategorii OLX akcesoria i wyposażenie basenowe znajdują się bezpośrednio w kategorii liściu 'Baseny' (ID: 1630) w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "242636738",
+        "Nazwa_Produktu": "Dozowniki do chloru pływak do basenu 2 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dozownik chloru przeznaczony do konserwacji basenów. W drzewie kategorii OLX najbardziej precyzyjną kategorią dla akcesoriów basenowych i środków do utrzymania czystości wody w basenie jest kategoria 'Baseny' (ID: 1630) znajdująca się w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "242636740",
+        "Nazwa_Produktu": "Haczyki do Wieszaków Organizery na Ubrania",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to haczyki łączące do wieszaków ubraniowych, służące do organizacji szafy. Najlepiej pasującą kategorią w strukturze OLX dla wieszaków i ich bezpośrednich akcesoriów jest kategoria 'Wieszaki' znajdująca się w sekcji 'Meble'."
+    },
+    {
+        "ID_Produktu": "242636745",
+        "Nazwa_Produktu": "Naklejka Winylowa z Włókna Węglowego 300x30cm",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Tuning wizualny",
+        "Finalne_ID_AI": 4496,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to folia winylowa (tzw. wrap) imitująca włókno węglowe, która jest kluczowym elementem tuningu wizualnego pojazdów, co jest głównym przeznaczeniem wymienionym w opisie."
+    },
+    {
+        "ID_Produktu": "242636749",
+        "Nazwa_Produktu": "Oświetlenie meblowe LED z czujnikiem ruchu 19cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oprawy oświetleniowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oprawy oświetleniowe",
+        "Finalne_ID_AI": 3850,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gotowa oprawa oświetleniowa LED (sztywna listwa z obudową i czujnikiem), przeznaczona do montażu podszafkowego lub meblowego, co bezpośrednio odpowiada kategorii 'Oprawy oświetleniowe'."
     }
 ]
