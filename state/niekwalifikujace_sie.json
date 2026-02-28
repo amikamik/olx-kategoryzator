@@ -3728,5 +3728,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to siatka ochronna przeznaczona do zabezpieczania roślin przed insektami i szkodnikami. Najlepiej pasuje do kategorii 'Pozostałe Ogród', która obejmuje akcesoria i osprzęt ogrodniczy niewymieniony w kategoriach takich jak narzędzia czy architektura."
+    },
+    {
+        "ID_Produktu": "242637689",
+        "Nazwa_Produktu": "Odstraszasz owadów ultradźwiękowy do gniazdka 2szt",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to elektroniczne urządzenie do zwalczania szkodników (owadów i gryzoni) przeznaczone do użytku domowego. W hierarchii OLX tego typu odstraszacze, niezależnie od tego czy są chemiczne czy ultradźwiękowe, są najtrafniej klasyfikowane w dziale 'Dom i Ogród > Ogród > Pozostałe Ogród', ponieważ kategoria ta tradycyjnie skupia asortyment związany z ochroną domu i obejścia przed szkodnikami."
+    },
+    {
+        "ID_Produktu": "242637692",
+        "Nazwa_Produktu": "Wieczna Róża w Szkatułce Naszyjnik Holograficzny",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Naszyjniki i korale",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Naszyjniki i korale",
+        "Finalne_ID_AI": 2838,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Głównym elementem użytkowym zestawu jest naszyjnik wykonany ze srebra próby 925. Choć produkt zawiera wieczną różę w szkatułce, na platformie OLX takie zestawy upominkowe z biżuterią najczęściej kategoryzowane są w sekcji biżuterii zgodnie z ich głównym przeznaczeniem."
+    },
+    {
+        "ID_Produktu": "242637763",
+        "Nazwa_Produktu": "Organizer do Bagażnika Samochodowego Składany",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika",
+        "Finalne_ID_AI": 4498,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to składany organizer przeznaczony bezpośrednio do bagażnika samochodowego, co idealnie pasuje do specyficznej kategorii liścia 'Organizery i siatki do bagażnika' w dziale akcesoriów samochodowych."
+    },
+    {
+        "ID_Produktu": "242637767",
+        "Nazwa_Produktu": "Torba na ramię saszetka nerka wodoodporna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Nerki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Nerki",
+        "Finalne_ID_AI": 2754,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany w tytule 'nerką' oraz 'saszetką'. Kategoria 'Nerki' pod ścieżką Moda > Torby i torebki jest najbardziej specyficznym i trafnym dopasowaniem dla małej torby biodrowej/crossbody o podanych wymiarach i charakterystyce."
+    },
+    {
+        "ID_Produktu": "242637772",
+        "Nazwa_Produktu": "Lampka LED nocna aksolotl 3D akrylowa wielokolorow",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest dekoracyjną lampką LED typu 'night light' (nocna). W drzewie kategorii OLX, lampki tego typu przeznaczone do postawienia na szafce nocnej lub stole najlepiej klasyfikują się pod ID 3866 (Lampy stołowe)."
+    },
+    {
+        "ID_Produktu": "242637787",
+        "Nazwa_Produktu": "Opakowanie Lunch Box 217x120x75 Enjoy Be Eco 200sz",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowanie tekturowe typu lunch box w ilości hurtowej (200 szt.), dedykowane bezpośrednio dla profesjonalnej gastronomii (restauracje, food trucki), co przypisuje go do kategorii 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
     }
 ]
