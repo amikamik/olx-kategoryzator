@@ -3378,5 +3378,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na kosmetyczkę damską, która idealnie pasuje do kategorii 'Moda > Akcesoria > Kosmetyczki'."
+    },
+    {
+        "ID_Produktu": "242634677",
+        "Nazwa_Produktu": "Zamek Zatrzaskowy z Otworami 19cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Klocki > Klocki plastikowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Bramy i ogrodzenia > Akcesoria do bram",
+        "Finalne_ID_AI": 3136,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zamek zatrzaskowy przeznaczony do montażu na bramach lub drzwiach ogrodzeń, co idealnie pasuje do kategorii 'Dom i Ogród > Budowa > Bramy i ogrodzenia > Akcesoria do bram'."
+    },
+    {
+        "ID_Produktu": "242634684",
+        "Nazwa_Produktu": "Dry Bag 10 L Torba Wodoodporna Worek Kempnig Sport",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Torby i plecaki treningowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty wodne > Akcesoria i części > Do kajaków, pontonów i rowerów wodnych",
+        "Finalne_ID_AI": 5022,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wodoodporna torba (dry bag) przeznaczona do sportów wodnych, takich jak kajakarstwo, rafting, pływanie, nurkowanie, wędkarstwo, co idealnie pasuje do kategorii 'Do kajaków, pontonów i rowerów wodnych' w drzewie 'Sport i Hobby > Sporty wodne > Akcesoria i części'."
+    },
+    {
+        "ID_Produktu": "242634686",
+        "Nazwa_Produktu": "Lampa Sufitowa Led Okrągła 17W Śr. 32 Cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'lampa sufitowa LED okrągła' o niewielkich wymiarach (wysokość 6.8 cm), co precyzyjnie odpowiada definicji plafonu, czyli lampy montowanej bezpośrednio przy suficie. Jest to najbardziej szczegółowa kategoria odpowiadająca opisowi produktu."
+    },
+    {
+        "ID_Produktu": "242634688",
+        "Nazwa_Produktu": "Lampa Sufitowa Led Okrągła 20W  Śr. 39 Cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na lampę sufitową typu 'plafon', co idealnie pasuje do kategorii 'Plafony'."
     }
 ]
