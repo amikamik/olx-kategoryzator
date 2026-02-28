@@ -1538,5 +1538,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to opakowanie na żywność na wynos, przeznaczone dla gastronomii (restauracje, bary, food trucki). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "242633635",
+        "Nazwa_Produktu": "Reklamówka 30x55 HDPE biała 51 mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to reklamówki, które są używane w sklepach do pakowania produktów. Najbardziej pasującą i szczegółową kategorią jest 'Firma i Przemysł > Sklepy i magazyny > Pozostałe', ponieważ są to artykuły eksploatacyjne dla handlu, które nie mają bardziej specyficznej podkategorii w obrębie 'Sklepy i magazyny'."
+    },
+    {
+        "ID_Produktu": "242633643",
+        "Nazwa_Produktu": "Torebka damska listonoszka biała z łańcuszkiem",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Listonoszki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Listonoszki",
+        "Finalne_ID_AI": 2753,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to 'torebka damska listonoszka'. Kategoria 'Listonoszki' (ID: 2753) jest najbardziej szczegółowym i precyzyjnym dopasowaniem w drzewie kategorii, znajdującym się w ścieżce Moda > Torby i torebki > Listonoszki."
+    },
+    {
+        "ID_Produktu": "242633655",
+        "Nazwa_Produktu": "Reklamówka 25x45 HDPE 9 mic. OXODEGRADOWALNA",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to reklamówka używana w sklepach do pakowania towarów, co doskonale pasuje do kategorii 'Firma i Przemysł > Sklepy i magazyny > Pozostałe', jako że jest to artykuł eksploatacyjny dla placówek handlowych, a jednocześnie nie jest to konkretny typ wyposażenia wymieniony w innych podkategoriach."
+    },
+    {
+        "ID_Produktu": "242633659",
+        "Nazwa_Produktu": "Gumki recepturki 70mm 1,5 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Przybory do pisania > Pozostałe Przybory do pisania",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt 'gumki recepturki' jest akcesorium biurowym i ogólnego zastosowania, często wykorzystywanym w firmach do wiązania dokumentów, etykiet, kabli itp. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna. Wskazówka systemowa była nieprawidłowa."
+    },
+    {
+        "ID_Produktu": "242633660",
+        "Nazwa_Produktu": "Gumki recepturki 80mm 1,5 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Gumki recepturki są typowymi akcesoriami biurowymi. Opis produktu wskazuje na zastosowania takie jak wiązanie etykiet, ulotek, wizytówek i banknotów, co idealnie pasuje do kategorii 'Akcesoria i materiały biurowe'. Chociaż mają szersze zastosowanie, ich charakter i wymienione przykłady najbardziej odpowiadają tej specyficznej kategorii."
     }
 ]
