@@ -2178,5 +2178,955 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to elegancki naszyjnik z wisiorkiem, co idealnie pasuje do kategorii 'Moda > Biżuteria > Naszyjniki i korale'. Opis wyraźnie wskazuje na charakter przedmiotu jako biżuterii, podkreślając jego cechy i zastosowanie."
+    },
+    {
+        "ID_Produktu": "242631689",
+        "Nazwa_Produktu": "Mediclean 130 Strong 5L  1szt",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Urządzenia medyczne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny detergent (koncentrat) do mycia podłóg, który najlepiej pasuje do kategorii środków czyszczących w sekcji Supermarket w dziale Dom i Ogród. Sugestia dotycząca urządzeń medycznych jest błędna, prawdopodobnie wynikająca z nazwy marki Mediclean."
+    },
+    {
+        "ID_Produktu": "242631762",
+        "Nazwa_Produktu": "Pudełko na kurczaka 200x100x75mm kraft 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowanie tekturowe przeznaczone specjalnie do użytku profesjonalnego w gastronomii (restauracje, food trucki). Z tego względu kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł' jest znacznie bardziej adekwatna niż domowe pudełka do przechowywania."
+    },
+    {
+        "ID_Produktu": "242631763",
+        "Nazwa_Produktu": "Pudełko na kurczaka 200x140x50mm kraft 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hurtowe opakowania tekturowe (100 sztuk) przeznaczone typowo dla branży gastronomicznej (restauracje, food trucki) do dań na wynos, co najlepiej odpowiada kategorii Pojemniki gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242631781",
+        "Nazwa_Produktu": "Opakowanie na wynos lunch box 1,6L 20x14x6 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe przeznaczone do pakowania dań na wynos, sprzedawane w ilości hurtowej (50 sztuk). Opis wyraźnie wskazuje na zastosowanie profesjonalne w restauracjach, barach i food truckach, co kwalifikuje go do kategorii Pojemniki gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242631854",
+        "Nazwa_Produktu": "Opakowanie na wynos Wrap 210x95x30  100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe na wynos przeznaczone do użytku profesjonalnego w gastronomii (restauracje, bary, food trucki), co idealnie wpisuje się w definicję kategorii 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242631890",
+        "Nazwa_Produktu": "Torebka papierowa 27x11/6 biała 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to opakowania zbiorcze (1000 sztuk) przeznaczone do użytku profesjonalnego w handlu detalicznym (piekarnie, cukiernie, sklepy spożywcze). Ze względu na charakter zaopatrzeniowy dla firm, najlepiej pasuje do kategorii Firma i Przemysł -> Sklepy i magazyny -> Pozostałe."
+    },
+    {
+        "ID_Produktu": "242631904",
+        "Nazwa_Produktu": "Woreczki strunowe 40x45cm 40mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to woreczki strunowe (opakowania foliowe LDPE) o wymiarach 40x45cm, sprzedawane w ilości hurtowej (100 szt.) z podaniem parametrów technicznych (40 mikronów). Takie przedmioty są typowym materiałem eksploatacyjnym wykorzystywanym w logistyce, handlu i magazynowaniu, dlatego najlepiej pasują do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242631905",
+        "Nazwa_Produktu": "Woreczki strunowe 45x50cm 45mic 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Duży rozmiar woreczków (45x50cm) oraz ilość w opakowaniu zbiorczym (100 sztuk) sugerują zastosowanie przemysłowe, magazynowe lub handlowe (pakowanie towarów, odzieży, części), co jest najbardziej spójne z kategorią Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242632096",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 1,5L F339 OPS 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne, jednorazowe pojemniki OPS przeznaczone dla branży gastronomicznej, o czym świadczy hurtowa ilość (50 sztuk), techniczny opis materiału oraz uwzględnienie w cenie opłaty SUP (Single Use Plastics), co kieruje ofertę do odbiorców biznesowych."
+    },
+    {
+        "ID_Produktu": "242632225",
+        "Nazwa_Produktu": "Pudełko na kurczaka 220x120x75mm kraft 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe przeznaczone do użytku profesjonalnego w branży gastronomicznej (restauracje, food trucki). Najdokładniejszą kategorią dla tego typu zaopatrzenia firm jest 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242632348",
+        "Nazwa_Produktu": "Hydong Kinkiet Wewnętrzny Kinkiet Led 8W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalne_ID_AI": 3863,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest jednoznacznie opisany jako kinkiet ścienny LED, co bezpośrednio odpowiada kategorii liścia 'Kinkiety' w sekcji oświetlenia domowego."
+    },
+    {
+        "ID_Produktu": "242632449",
+        "Nazwa_Produktu": "Pojemnik z zespoloną pokrywką 500ml PP 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe pojemniki octagonalne sprzedawane w pakiecie hurtowym (50 szt.), co w połączeniu z informacją o opłacie SUP (Single Use Plastics) oraz przeznaczeniu do transportu i pakowania dań, klasyfikuje go jako asortyment profesjonalny dla gastronomii i cateringu."
+    },
+    {
+        "ID_Produktu": "242632546",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 1 L F338 OPS 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw 50 sztuk jednorazowych pojemników z tworzywa OPS, przeznaczony do profesjonalnego pakowania i transportu żywności. Opis uwzględniający opłatę SUP (Single Use Plastics) oraz kwestie dalszej odsprzedaży jednoznacznie wskazuje na kategorię wyposażenia gastronomicznego (B2B)."
+    },
+    {
+        "ID_Produktu": "242632555",
+        "Nazwa_Produktu": "Opakowania na frytki 70x70x75/120 + dip 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe przeznaczone do serwowania żywności w punktach gastronomicznych (food trucki, bary). Najbardziej precyzyjną kategorią w sekcji gastronomicznej dla tego typu artykułów są 'Pojemniki gastronomiczne', które obejmują wszelkiego rodzaju naczynia i zasobniki do przechowywania oraz wydawania posiłków."
+    },
+    {
+        "ID_Produktu": "242632745",
+        "Nazwa_Produktu": "Opakowanie  na zapiekanki 370x120x45mm 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hurtowe opakowania jednorazowe przeznaczone dla sektora gastronomicznego (restauracje, bary, food trucki) do pakowania dań na wynos, co idealnie wpisuje się w kategorię 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242632968",
+        "Nazwa_Produktu": "Pływające światła basenowe wodoodporne 2 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pływające, wodoodporne lampki LED dedykowane do basenów i stawów. W strukturze OLX akcesoria basenowe oraz oświetlenie przeznaczone do tafli wody najlepiej pasują do kategorii 'Baseny' (liść w gałęzi Ogród)."
+    },
+    {
+        "ID_Produktu": "242632986",
+        "Nazwa_Produktu": "Reflektor Wpuszczany Led 4W 9Szt. Evolution",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to reflektory wpuszczane (downlighty), które w polskiej terminologii i strukturze kategorii OLX są określane jako 'Oczka' (oświetlenie punktowe montowane w sufitach podwieszanych)."
+    },
+    {
+        "ID_Produktu": "242633249",
+        "Nazwa_Produktu": "Papier pakowy półpergamin 35x50cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny papier pakowy o przeznaczeniu spożywczym, sprzedawany w ilościach hurtowych (5 kg) i dedykowany dla sklepów spożywczych oraz gastronomii. Najbardziej adekwatną kategorią biznesową dla tego typu materiałów eksploatacyjnych jest 'Firma i Przemysł > Gastronomia > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242633294",
+        "Nazwa_Produktu": "Mycie szkła 5L Lakma Glass Cleaner 1szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to płyn do mycia szyb i luster w 5-litrowym opakowaniu, co jednoznacznie klasyfikuje go jako środek czyszczący w podkategorii Supermarket w dziale Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242633478",
+        "Nazwa_Produktu": "Pudełko papierowe cukiernicze 16x11x8cm 50szt pączki ciasta",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania papierowe (pudełka) sprzedawane w ilościach hurtowych (50 sztuk). Opis wyraźnie wskazuje na przeznaczenie biznesowe (dla osób prowadzących cukiernię lub sklep). W drzewie kategorii OLX, profesjonalne opakowania do żywności najlepiej pasują do kategorii 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242633625",
+        "Nazwa_Produktu": "Frezarka do Manicure Cadrim 12W 100-240V AC",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Elektronarzędzia > Frezarki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Frezarki",
+        "Finalne_ID_AI": 5091,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to urządzenie elektryczne przeznaczone do pielęgnacji paznokci (manicure). W drzewie kategorii najbardziej precyzyjnym liściem jest ID 5091 (Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Frezarki), który w przeciwieństwie do kategorii elektronarzędzi budowlanych, grupuje urządzenia kosmetyczne tego typu."
+    },
+    {
+        "ID_Produktu": "242633788",
+        "Nazwa_Produktu": "Pudełko papierowe na zapiekankę 35x9x4 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne opakowanie tekturowe przeznaczone do użytku profesjonalnego w branży gastronomicznej (restauracje, food trucki), sprzedawane w ilościach hurtowych (100 sztuk), co kwalifikuje go do kategorii pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242633832",
+        "Nazwa_Produktu": "Lunch box 1600ml 20x14x6,5cm kraft 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania papierowe typu lunch box przeznaczone do dań na wynos, sprzedawane w ilości hurtowej (50 sztuk), co jednoznacznie wskazuje na kategorię pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242634032",
+        "Nazwa_Produktu": "Pojemnik sałatkowy 750ml 175 pokrywka SLR750C 50 SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw 50 sztuk jednorazowych pojemników (opakowań) z uwzględnioną opłatą SUP, co wskazuje na przeznaczenie dla branży gastronomicznej i handlowej w kategorii Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242634306",
+        "Nazwa_Produktu": "Stojak Do Pieczenia Kurczaka Mountain Grillers",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny stojak do pieczenia kurczaka marki Mountain Grillers, przeznaczony bezpośrednio do użytku na grillu (co podkreśla tytuł i opis). W drzewie kategorii OLX akcesoria do grillowania najlepiej pasują do kategorii 'Grill' w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "242634310",
+        "Nazwa_Produktu": "JOSEKO Plecak na laptopa, lekki, wodoodporny pleca",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Plecaki",
+        "Finalne_ID_AI": 2755,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wielofunkcyjnym plecakiem przeznaczonym do codziennego użytku, pracy i podróży. Choć posiada komorę na laptopa, jego opis podkreśla wszechstronność (lifestyle, szkoła, biznes), co najlepiej kwalifikuje go do kategorii plecaków w dziale Moda."
+    },
+    {
+        "ID_Produktu": "242634338",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 250ml PET z pokrywką 100szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opakowanie zbiorcze (100 sztuk) jednorazowych pojemników przeznaczonych do transportu i pakowania żywności. Profesjonalny opis, numer modelu (HL250 Guillin) oraz wzmianka o opłacie SUP wskazują na przeznaczenie dla sektora B2B/gastronomii, co czyni kategorię 'Pojemniki gastronomiczne' najbardziej odpowiednią."
+    },
+    {
+        "ID_Produktu": "242634340",
+        "Nazwa_Produktu": "Pojemnik sałatkowy 1L 185 pokrywka SLR1000C 50sz SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zbiorcze opakowanie (50 sztuk) jednorazowych pojemników sałatkowych z tworzywa RPET. Informacja o opłacie SUP (Single Use Plastics) oraz przeznaczenie do transportu żywności jednoznacznie wskazują na asortyment dla branży gastronomicznej."
+    },
+    {
+        "ID_Produktu": "242634435",
+        "Nazwa_Produktu": "Lampa Sufitowa Led 12W Ściemnialna 3 Kolory Akrylo",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to płaska lampa sufitowa LED montowana bezpośrednio do sufitu, co w terminologii oświetleniowej i kategoryzacji OLX odpowiada plafonowi (kategoria 'Plafony')."
+    },
+    {
+        "ID_Produktu": "242634625",
+        "Nazwa_Produktu": "Słuchawka Prysznicowa Z Nakładką Masującą 6 Strumi",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Baterie łazienkowe",
+        "Finalne_ID_AI": 3229,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słuchawka prysznicowa to element armatury łazienkowej, który na platformie OLX najlepiej klasyfikuje się w kategorii Baterie łazienkowe, znajdującej się w sekcji Wykończenie wnętrz łazienki."
+    },
+    {
+        "ID_Produktu": "242634705",
+        "Nazwa_Produktu": "Pojemnik sałatkowy 500ml 155 pokrywa SLR500C 50s SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe pojemniki z tworzywa sztucznego (RPET) sprzedawane w pakiecie 50 sztuk z uwzględnioną opłatą SUP (Single Use Plastics), co jednoznacznie wskazuje na przeznaczenie dla branży gastronomicznej i cateringowej."
+    },
+    {
+        "ID_Produktu": "242634715",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 750ml PET z pokrywką 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe pojemniki PET sprzedawane w pakiecie 50 sztuk z uwzględnieniem opłaty SUP, co wskazuje na przeznaczenie profesjonalne dla branży gastronomicznej."
+    },
+    {
+        "ID_Produktu": "242634782",
+        "Nazwa_Produktu": "Zestaw Ogrodowy Wiertło Ślimakowe I Nożyce",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest zestawem narzędzi przeznaczonych specyficznie do prac w ogrodzie (sadzenie roślin, przycinanie gałęzi). Wybrano kategorię 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe', ponieważ produkt składa się z dwóch różnych typów narzędzi ogrodniczych (świder i nożyce), a kategoria ta jest najbardziej odpowiednim miejscem dla mieszanych zestawów ogrodowych, dla których brak jest jednej, dedykowanej kategorii liścia."
+    },
+    {
+        "ID_Produktu": "242634788",
+        "Nazwa_Produktu": "Lampa Punktowa Led Śr. 83Mm Paulmann Premium Line",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Spoty",
+        "Finalne_ID_AI": 3871,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lampa punktowa LED o wymiarach wskazujących na montaż natynkowy (seria Barrel), co definiuje go jako 'spot' sufitowy."
+    },
+    {
+        "ID_Produktu": "242634825",
+        "Nazwa_Produktu": "Mata do Przesadzania Roślin 100x100cm narzędzia",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wodoszczelną matą do przesadzania roślin, zakwalifikowaną jako narzędzie ogrodnicze ułatwiające pracę i utrzymanie czystości. Ze względu na brak dedykowanej podkategorii dla mat ogrodowych, kategoria 'Pozostałe' w sekcji 'Narzędzia ogrodowe' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "242634883",
+        "Nazwa_Produktu": "Lampa Podszafkowa LED Nocna Bezprzewodowa 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw okrągłych, punktowych lampek LED (typu 'puck light'), które ze względu na swoją formę i funkcję oświetlenia punktowego najlepiej pasują do kategorii 'Oczka' w sekcji Lampy lamp."
+    },
+    {
+        "ID_Produktu": "242634943",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 227x178/45 dwudzielny 80szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne opakowania cateringowe przeznaczone do zgrzewarek gastronomicznych, co bezpośrednio kwalifikuje go do kategorii Pojemniki gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242634946",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 178x113/50 niedziel PP 80sz SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne opakowania cateringowe przeznaczone do zgrzewu w profesjonalnych urządzeniach gastronomicznych. Opis wyraźnie wspomina o zastosowaniu w gastronomii oraz o opłacie SUP (Single Use Plastics), co kwalifikuje produkt do kategorii przemysłowej/firmowej zamiast standardowego wyposażenia domowej kuchni."
+    },
+    {
+        "ID_Produktu": "242634950",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 227x178/45 niedzielony 80sz SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne opakowania cateringowe (pojemniki do zgrzewu) przeznaczone dla gastronomii, co czyni kategorię Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne najbardziej odpowiednią."
+    },
+    {
+        "ID_Produktu": "242634965",
+        "Nazwa_Produktu": "Taśma Uszczelniająca Samoprzylepna Gumowa 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Pozostałe",
+        "Finalne_ID_AI": 3158,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gumowe uszczelki samoprzylepne przeznaczone do drzwi. W strukturze OLX, najbardziej specyficzną kategorią dla akcesoriów drzwiowych (innych niż zamki i klamki) jest 'Pozostałe' w sekcji 'Drzwi' pod kategorią 'Budowa'."
+    },
+    {
+        "ID_Produktu": "242635139",
+        "Nazwa_Produktu": "Kratka doniczkowa na rośliny pnące 3szt podpórka palik",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Doniczki i osłonki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to ozdobne podpórki (kratki) do roślin pnących, które ze względu na swoje specyficzne kształty (ul, księżyc) oraz opis (poprawa atrakcyjności ogrodu) najlepiej pasują do kategorii Dekoracje ogrodowe w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "242635161",
+        "Nazwa_Produktu": "Wałek do Kręcenia Włosów na zimno Czarny",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Akcesoria do włosów > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Pozostałe",
+        "Finalne_ID_AI": 2733,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do kręcenia włosów bez użycia ciepła (heatless curls), składający się z wałka, gumek oraz klipsa. Tego typu przedmioty, będące akcesoriami nieelektrycznymi, są klasyfikowane na OLX w sekcji Moda > Akcesoria > Akcesoria do włosów > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242635290",
+        "Nazwa_Produktu": "Głowica prysznicowa obrotowa 2 rodzaje strumienia",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Baterie łazienkowe",
+        "Finalne_ID_AI": 3229,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to słuchawka prysznicowa z wężem, która stanowi element armatury łazienkowej. W strukturze OLX akcesoria prysznicowe tego typu są kategoryzowane jako część sekcji 'Baterie łazienkowe' w dziale wykończenia wnętrz."
+    },
+    {
+        "ID_Produktu": "242635332",
+        "Nazwa_Produktu": "Przenośna Lampka LED Biurkowa dotykowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest jednoznacznie opisany jako lampka biurkowa, co odpowiada kategorii 'Lampki biurkowe' w sekcji oświetlenia domowego."
+    },
+    {
+        "ID_Produktu": "242635336",
+        "Nazwa_Produktu": "Siatka do basenu pobierak drążek teleskopowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podbierak (skimmer) z drążkiem teleskopowym, który służy wyłącznie do czyszczenia i konserwacji basenów. W strukturze OLX akcesoria basenowe przypisywane są do kategorii Baseny w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "242635337",
+        "Nazwa_Produktu": "Skóra Samoprzylepna 40x400 Łatka Tapicerka brąz",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to samoprzylepna łatka z ekoskóry (PU) przeznaczona głównie do renowacji i naprawy mebli tapicerowanych. W strukturze OLX materiały do odświeżania mebli oraz elementy naprawcze (takie jak okleiny czy łatki) najlepiej pasują do kategorii 'Akcesoria meblowe' w sekcji 'Meble'."
+    },
+    {
+        "ID_Produktu": "242635398",
+        "Nazwa_Produktu": "Manometr przyłącze od dołu (0 - 25 bar) 63 mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Przyrządy miernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Mierniki ciśnienia",
+        "Finalne_ID_AI": 5181,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to manometr, czyli przyrząd do pomiaru ciśnienia, co bezpośrednio odpowiada nazwie kategorii 'Mierniki ciśnienia'. Ze względu na profesjonalną specyfikację (stal nierdzewna, wypełnienie gliceryną, wysoki zakres 25 bar), najlepiej pasuje on do kategorii technicznej w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242635569",
+        "Nazwa_Produktu": "Zaciski klipsy sprężynowe stolarskie fotograficzne",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Imadła i ściski",
+        "Finalne_ID_AI": 1692,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zaciski sprężynowe, które funkcjonalnie są ściskami stolarskimi/warsztatowymi. Kategoria 'Imadła i ściski' (ID 1692) jest najbardziej precyzyjną kategorią-liściem dla tego typu narzędzi ręcznych."
+    },
+    {
+        "ID_Produktu": "242635591",
+        "Nazwa_Produktu": "Lampka Nocna Dekoracyjna LED 3D Ramadan",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dekoracyjna lampka nocna LED z efektem 3D, która ze względu na swoją konstrukcję i przeznaczenie (postawienie na powierzchni płaskiej) najlepiej pasuje do kategorii lamp stołowych."
+    },
+    {
+        "ID_Produktu": "242635825",
+        "Nazwa_Produktu": "Lumare lampa sufitowa płaska LED 12W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to płaska, natynkowa lampa sufitowa LED typu 'slim'. W terminologii oświetleniowej i drzewie kategorii OLX, tego typu oprawy sufitowe są klasyfikowane jako 'Plafony'."
+    },
+    {
+        "ID_Produktu": "242635857",
+        "Nazwa_Produktu": "Lampa Sufitowa LED Reflektor Punktowy Czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Spoty",
+        "Finalne_ID_AI": 3871,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to reflektor punktowy (spot), który można montować na suficie lub ścianie. Najlepiej pasuje do kategorii 'Spoty', która obejmuje oprawy kierunkowe montowane natynkowo, w przeciwieństwie do lamp wiszących czy oczek wpuszczanych."
+    },
+    {
+        "ID_Produktu": "242635922",
+        "Nazwa_Produktu": "Regulowane linki gumy mocujące 122cm czarne 20 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to linki elastyczne typu bungee, które służą przede wszystkim do zabezpieczania ładunku w transporcie (na przyczepach, bagażnikach dachowych i w pojazdach). W strukturze kategorii OLX takie akcesoria transportowe najlepiej pasują do kategorii 'Wyposażenie i akcesoria samochodowe > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242636084",
+        "Nazwa_Produktu": "Gałka Meblowa Gałka do Mebli Szafki Czarny 25szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gałki i uchwyty przeznaczone do montażu w meblach (szafkach, szufladach), co bezpośrednio odpowiada kategorii 'Akcesoria meblowe' w sekcji 'Dom i Ogród > Meble'."
+    },
+    {
+        "ID_Produktu": "242636204",
+        "Nazwa_Produktu": "Higrometr wewnętrzny cyfrowy termometr 3 szt Biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Przyrządy miernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest cyfrowym urządzeniem do pomiaru parametrów otoczenia (temperatury i wilgotności), co bezpośrednio klasyfikuje go jako przyrząd mierniczy w dziale Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242636285",
+        "Nazwa_Produktu": "Torba wisząca gruszka organizer zabawek brązowy",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Pojemniki na zabawki",
+        "Finalne_ID_AI": 4726,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest organizerem przeznaczonym do przechowywania zabawek w pokoju dziecięcym. Kategoria 'Pojemniki na zabawki' (ID: 4726) najlepiej oddaje funkcjonalność przedmiotu jako systemu do przechowywania i organizacji zabawek, nawet jeśli ma on formę wiszącej torby."
+    },
+    {
+        "ID_Produktu": "242636289",
+        "Nazwa_Produktu": "Lampa Projektor Imitacja Zachodu SŁOŃCA LED",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Projektory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Pozostałe",
+        "Finalne_ID_AI": 3872,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dekoracyjna lampa nastrojowa LED (sunset lamp). Mimo nazwy 'projektor', nie służy ona do wyświetlania obrazu wideo, lecz do tworzenia efektów świetlnych, dlatego kategoria 'Projektory' w sekcji Elektronika/Wideo jest błędna. Najbardziej trafną kategorią jest oświetlenie dekoracyjne, które w drzewie OLX znajduje się pod ID 3872 (Dom i Ogród > Oświetlenie > Lampy > Pozostałe)."
+    },
+    {
+        "ID_Produktu": "242636336",
+        "Nazwa_Produktu": "Panel LED Lampa 18W Biel 20x20 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wykończenie wnętrz > Tapety i panele ścienne > Panele ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest kwadratowym panelem LED przeznaczonym do montażu podtynkowego w suficie. W strukturze kategorii OLX, tego typu płaskie lampy sufitowe są klasyfikowane jako 'Plafony'."
+    },
+    {
+        "ID_Produktu": "242636342",
+        "Nazwa_Produktu": "Zamek Blokada Drzwi Antywłamaniowe Brąz",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Zamki",
+        "Finalne_ID_AI": 3157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zamek (blokada) przeznaczony do drzwi mieszkalnych, co idealnie odpowiada kategorii 'Zamki' w sekcji 'Drzwi' w dziale 'Budowa' w kategorii głównej 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "242636343",
+        "Nazwa_Produktu": "Słuchawka głowica prysznicowa 3 tryby spa masaż",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Pozostałe",
+        "Finalne_ID_AI": 3237,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słuchawka prysznicowa jest elementem armatury łazienkowej zaliczanym do materiałów wykończeniowych. W podanym drzewie kategorii produkt najlepiej pasuje do sekcji Dom i Ogród > Wykończenie wnętrz > Łazienka, a ze względu na brak dedykowanej kategorii dla samych słuchawek prysznicowych, kategoria 'Pozostałe' w tej gałęzi jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "242636354",
+        "Nazwa_Produktu": "Opaska do Włosów z Kokardką Vintage Boho 8szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Akcesoria do włosów > Opaski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Opaski",
+        "Finalne_ID_AI": 2728,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to opaska do włosów, co bezpośrednio odpowiada najbardziej szczegółowej kategorii 'Opaski' w dziale akcesoriów modowych."
+    },
+    {
+        "ID_Produktu": "242636379",
+        "Nazwa_Produktu": "Lampa LED podszafkowa 20W neutralna biel 60cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy stojące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Pozostałe",
+        "Finalne_ID_AI": 3872,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gotowa lampa LED przeznaczona do montażu podszafkowego (oświetlenie meblowe). W drzewie kategorii OLX, przy braku dedykowanej podkategorii dla oświetlenia podszafkowego lub kuchennego, produkt należy zaklasyfikować do kategorii 'Pozostałe' w sekcji 'Lampy' (Dom i Ogród > Oświetlenie > Lampy > Pozostałe), co jest bardziej precyzyjne niż ogólna kategoria 'Oprawy oświetleniowe'."
+    },
+    {
+        "ID_Produktu": "242636460",
+        "Nazwa_Produktu": "Koperty Białe 11x23 Gr80 500szt Koperty kurierskie",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro",
+        "Finalne_ID_AI": 4654,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koperty wysyłkowe (kurierskie) z okienkiem w ilości hurtowej (500 sztuk), co jest typowym elementem wyposażenia i materiałów biurowych w kategorii Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242636476",
+        "Nazwa_Produktu": "Ostrzem zamienne do sekatora TABOR TOOLS GG12-1",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalne_ID_AI": 2880,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest ostrzem zamiennym do sekatora kowadełkowego, co czyni go częścią zamienną bezpośrednio związaną z kategorią Nożyce i sekatory w sekcji narzędzi ogrodowych."
+    },
+    {
+        "ID_Produktu": "242636499",
+        "Nazwa_Produktu": "4 kółka śred. 3,2cm na płytcie obrotowej + hamulce",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kółka obrotowe z hamulcem, które zgodnie z opisem służą do montażu w meblach (komody, stoły), co klasyfikuje je jako akcesoria meblowe w kategorii Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242636509",
+        "Nazwa_Produktu": "Pas mocujący do bagażu z podwójnym hakiem 2m 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to gumowy pas mocujący z hakami, przeznaczony do zabezpieczania bagażu w samochodach i motocyklach. Zgodnie z drzewem kategorii OLX, najlepiej pasuje do sekcji akcesoriów samochodowych, a konkretnie do kategorii 'Pozostałe' (ID: 4509), ponieważ nie jest to ani kompletny bagażnik (4485), ani organizer/siatka (4498), lecz uniwersalne akcesorium transportowe."
+    },
+    {
+        "ID_Produktu": "242636536",
+        "Nazwa_Produktu": "Tablica Warsztatowa Narzędziowa Plastikowa czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plastikowa ścianka (tablica) narzędziowa służąca do organizacji narzędzi w warsztacie lub garażu. Zgodnie z hierarchią OLX i przeznaczeniem konsumenckim (marka Kistenberg), produkt najlepiej pasuje do kategorii 'Dom i Ogród > Narzędzia'. Ponieważ nie jest to samo narzędzie (ręczne czy elektryczne), lecz akcesorium do ich przechowywania, wybór pada na 'Pozostałe Narzędzia'."
+    },
+    {
+        "ID_Produktu": "242636565",
+        "Nazwa_Produktu": "Perlator przedłużacz do kranu kuchni łazienki 2szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Kuchnia > Baterie kuchenne",
+        "Finalne_ID_AI": 3228,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to perlator i przedłużacz do kranu, który jest bezpośrednim akcesorium baterii kuchennej. Opis produktu w przeważającej mierze koncentruje się na zastosowaniu w kuchni (zlewozmywaki, mycie naczyń i warzyw), dlatego kategoria 'Baterie kuchenne' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "242636615",
+        "Nazwa_Produktu": "Girlanda Ogrodowa LED Łańcuch Świetlny 9m Srebrny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany girlandą świetlną, a w drzewie kategorii OLX istnieje dedykowana kategoria liść 'Girlandy świetlne' w sekcji 'Oświetlenie', która jest najbardziej precyzyjnym dopasowaniem dla tego typu oświetlenia dekoracyjnego."
+    },
+    {
+        "ID_Produktu": "242636645",
+        "Nazwa_Produktu": "Plafon Lampa Sufitowa biała LED 20W Okrągła",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest w tytule i opisie wprost nazwany plafonem oraz lampą sufitową LED do wnętrz, co idealnie pasuje do najbardziej szczegółowej kategorii 'Plafony' w sekcji Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242636646",
+        "Nazwa_Produktu": "Lampa sufitowa Led 18W Płaska Biała Yafido",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to płaska lampa sufitowa LED, która w terminologii oświetleniowej określana jest jako plafon. Kategoria 'Plafony' (3870) jest najbardziej precyzyjnym dopasowaniem dla tego typu oprawy oświetleniowej montowanej bezpośrednio do sufitu."
+    },
+    {
+        "ID_Produktu": "242636681",
+        "Nazwa_Produktu": "Haki stalowe do dużych obciążeń 4szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt siłowy > Obciążenia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to stalowe elementy montażowe (haki ze stali nierdzewnej 304) przeznaczone do dużych obciążeń, wyposażone w śruby i kołki rozporowe. W drzewie kategorii OLX najbardziej odpowiednim miejscem dla drobnych akcesoriów metalowych i osprzętu montażowego o charakterze budowlanym jest kategoria 'Dom i Ogród > Budowa > Pozostałe'. Podpowiedź systemu dotycząca sprzętu siłowego jest błędna i wynika prawdopodobnie z obecności słowa 'obciążeń' w tytule."
+    },
+    {
+        "ID_Produktu": "242636733",
+        "Nazwa_Produktu": "Dozownik chloru pływający do basenów",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Dozowniki do mydła",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dozownik chloru przeznaczony do basenów. W drzewie kategorii OLX akcesoria i wyposażenie basenowe znajdują się bezpośrednio w kategorii liściu 'Baseny' (ID: 1630) w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "242636738",
+        "Nazwa_Produktu": "Dozowniki do chloru pływak do basenu 2 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dozownik chloru przeznaczony do konserwacji basenów. W drzewie kategorii OLX najbardziej precyzyjną kategorią dla akcesoriów basenowych i środków do utrzymania czystości wody w basenie jest kategoria 'Baseny' (ID: 1630) znajdująca się w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "242636740",
+        "Nazwa_Produktu": "Haczyki do Wieszaków Organizery na Ubrania",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to haczyki łączące do wieszaków ubraniowych, służące do organizacji szafy. Najlepiej pasującą kategorią w strukturze OLX dla wieszaków i ich bezpośrednich akcesoriów jest kategoria 'Wieszaki' znajdująca się w sekcji 'Meble'."
+    },
+    {
+        "ID_Produktu": "242636745",
+        "Nazwa_Produktu": "Naklejka Winylowa z Włókna Węglowego 300x30cm",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Tuning wizualny",
+        "Finalne_ID_AI": 4496,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to folia winylowa (tzw. wrap) imitująca włókno węglowe, która jest kluczowym elementem tuningu wizualnego pojazdów, co jest głównym przeznaczeniem wymienionym w opisie."
+    },
+    {
+        "ID_Produktu": "242636749",
+        "Nazwa_Produktu": "Oświetlenie meblowe LED z czujnikiem ruchu 19cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oprawy oświetleniowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oprawy oświetleniowe",
+        "Finalne_ID_AI": 3850,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gotowa oprawa oświetleniowa LED (sztywna listwa z obudową i czujnikiem), przeznaczona do montażu podszafkowego lub meblowego, co bezpośrednio odpowiada kategorii 'Oprawy oświetleniowe'."
+    },
+    {
+        "ID_Produktu": "242636821",
+        "Nazwa_Produktu": "Zestaw Narzędzi Ogrodniczych Mini Miernik Gleby",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wieloelementowym zestawem narzędzi dedykowanych do pielęgnacji roślin (bonsai, sukulenty) oraz zawiera miernik parametrów gleby. Ponieważ zestaw zawiera akcesoria z różnych grup (nożyce, grabie, przyrządy pomiarowe), najlepiej pasuje do kategorii 'Pozostałe' w obrębie 'Narzędzi ogrodowych', która jest bardziej specyficzna dla ogrodnictwa niż ogólna kategoria narzędzi ręcznych."
+    },
+    {
+        "ID_Produktu": "242636827",
+        "Nazwa_Produktu": "Gałki Meblowe Matowe Czarne 30x22 mm 4 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gałki meblowe (uchwyty), które są klasycznym przykładem akcesoriów meblowych. Wybrana kategoria jest najbardziej szczegółowa i idealnie dopasowana do przeznaczenia przedmiotu."
+    },
+    {
+        "ID_Produktu": "242636877",
+        "Nazwa_Produktu": "Spinki Do Włosów metalowe złote srebrne 14szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Akcesoria do włosów > Spinki i wsuwki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Spinki i wsuwki",
+        "Finalne_ID_AI": 2731,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw spinek do włosów. Najdokładniejszą kategorią liściem w drzewie kategorii OLX dla tego typu asortymentu jest 'Spinki i wsuwki' znajdujące się w ścieżce Moda > Akcesoria > Akcesoria do włosów."
+    },
+    {
+        "ID_Produktu": "242636879",
+        "Nazwa_Produktu": "Głowica Prysznicowa z Wężem 1,5 M Srebrna",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Pozostałe",
+        "Finalne_ID_AI": 3237,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słuchawka prysznicowa wraz z wężem to element armatury łazienkowej. W strukturze kategorii OLX produkty te, będące częścią instalacji natryskowej, ale nie będące kompletnymi bateriami (mieszaczami), kabinami czy wannami, najlepiej pasują do kategorii 'Dom i Ogród > Wykończenie wnętrz > Łazienka > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242636938",
+        "Nazwa_Produktu": "Parasol Duży Czarny Ergonauts",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Parasolki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Parasolki",
+        "Finalne_ID_AI": 2720,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym parasolem osobistym chroniącym przed deszczem i słońcem, co odpowiada kategorii liścia 'Parasolki' znajdującej się w sekcji Moda > Akcesoria."
+    },
+    {
+        "ID_Produktu": "242636975",
+        "Nazwa_Produktu": "Pułapka Na Myszy Gryzonie Wielokrotnego Użytku 4Sz",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla gryzoni i królików > Klatki i kojce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to mechaniczna pułapka na myszy (snap trap). W strukturze kategorii OLX tego typu przedmioty służące do zwalczania szkodników w gospodarstwie domowym, ogrodzie czy garażu najlepiej pasują do kategorii 'Dom i Ogród > Ogród > Pozostałe Ogród'. Kategoria sugerowana przez system (Akcesoria dla gryzoni) jest błędna, ponieważ dotyczy ona zwierząt hodowlanych (pupili), a nie deratyzacji."
+    },
+    {
+        "ID_Produktu": "242636989",
+        "Nazwa_Produktu": "Etui Na Karty Kredytowe Miętowe Z Frędzlem",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest skórzanym etui na karty, które posiada również przegródki na banknoty, co sprawia, że najlepiej pasuje do kategorii 'Portfele' w sekcji akcesoriów modowych."
+    },
+    {
+        "ID_Produktu": "242637016",
+        "Nazwa_Produktu": "Torebki Woreczki Strunowe 60X80Mm 1000Szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to woreczki strunowe sprzedawane w ilości hurtowej (1000 sztuk), co definiuje go jako materiały eksploatacyjne dla biznesu. W strukturze OLX opakowania i drobne akcesoria do pakowania dla firm najlepiej pasują do sekcji 'Firma i Przemysł > Sklepy i magazyny > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242637085",
+        "Nazwa_Produktu": "Lampka nocna hologram z pilotem jednorożec",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest lampką nocną (typu hologram LED), którą stawia się na powierzchni płaskiej. W strukturze OLX lampki nocne są kategoryzowane jako lampy stołowe w dziale Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242637123",
+        "Nazwa_Produktu": "Lampki Choinkowe Łańcuch 200 LED 20m Kolorowe",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to łańcuch lampek LED, który w drzewie kategorii OLX najlepiej odpowiada kategorii 'Girlandy świetlne' w sekcji 'Oświetlenie'. Jest to najbardziej precyzyjna kategoria dla dekoracyjnych sznurów świetlnych, niezależnie od okazji (choinka, taras, ogród)."
+    },
+    {
+        "ID_Produktu": "242637154",
+        "Nazwa_Produktu": "Lampki dekoracyjne 240 LED 24m Ciepła biel",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 24-metrowy sznur lampek dekoracyjnych LED (tzw. druciki), co bezpośrednio odpowiada kategorii 'Girlandy świetlne'. Choć opis wspomina o ogrodzie, tego typu oświetlenie dekoracyjne na kablu/drucie jest klasyfikowane w oświetleniu domowym jako girlandy."
+    },
+    {
+        "ID_Produktu": "242637159",
+        "Nazwa_Produktu": "Lampki Girlanda Kurtyna Gwiazdki LED Biały Ciepły",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kurtyna świetlna LED, która wprost odpowiada kategorii 'Girlandy świetlne' (3847) znajdującej się w sekcji 'Oświetlenie'. Jest to najbardziej precyzyjne dopasowanie pod względem technicznym i funkcjonalnym dla lamp dekoracyjnych w tej formie."
+    },
+    {
+        "ID_Produktu": "242637212",
+        "Nazwa_Produktu": "Taśma Led 10m zestaw z pilotem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Taśmy LED",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Taśmy LED",
+        "Finalne_ID_AI": 3853,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw taśmy LED z pilotem przeznaczony do oświetlenia dekoracyjnego wewnątrz pomieszczeń, co idealnie pasuje do kategorii liścia 'Taśmy LED'."
+    },
+    {
+        "ID_Produktu": "242637241",
+        "Nazwa_Produktu": "Pokrywa Stalowa 1/3 do Bemarów Zestaw 2 szt",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywa w standardzie GN (Gastro Norm) 1/3, co jest profesjonalnym systemem wymiarowania stosowanym w gastronomii. Choć może być używany w domu, jego główne przeznaczenie to bemary i profesjonalne pojemniki gastronomiczne."
+    },
+    {
+        "ID_Produktu": "242637247",
+        "Nazwa_Produktu": "Narzędzia Ogrodnicze Przyrządy do Sadzenia Ogrodu",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw mieszanych narzędzi ręcznych do ogrodu (kielnie/łopatki oraz sekator). W gałęzi 'Narzędzia ogrodnicze' nie ma dedykowanej kategorii dla zestawów do sadzenia lub łopatek, dlatego kategoria 'Pozostałe' (ID: 2886) jest najbardziej specyficznym liściem dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "242637286",
+        "Nazwa_Produktu": "Narzędzia ogrodnicze Drewniana rączka Zestaw 3szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw ręcznych narzędzi przeznaczonych wyłącznie do prac ogrodowych (kielnia, kultywator, chwastownik). Zgodnie z hierarchią OLX, narzędzia tego typu powinny znajdować się w ścieżce: Dom i Ogród > Ogród > Narzędzia ogrodowe. Ze względu na brak dedykowanej podkategorii dla 'zestawów' lub 'kielni' w tej sekcji, wybrano kategorię 'Pozostałe' (ID: 2886) jako najbardziej specyficzny liść dla narzędzi ogrodniczych."
+    },
+    {
+        "ID_Produktu": "242637305",
+        "Nazwa_Produktu": "Linki pasy haczyki do mocowania bagażu 20szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw linek elastycznych (napinaczy) z haczykami do mocowania bagażu. Z opisu wynika, że ich głównym przeznaczeniem jest zabezpieczanie ładunku na bagażnikach dachowych, przyczepach i w pojazdach. Najbardziej odpowiednią kategorią dla tego typu osprzętu bagażowego, który nie jest samym bagażnikiem, jest dział akcesoriów samochodowych (Pozostałe)."
+    },
+    {
+        "ID_Produktu": "242637395",
+        "Nazwa_Produktu": "Skarpetki świąteczne damskie 4 pary rozmiar 37-39",
+        "Poczatkowa_Sciezka_OLX": "Moda > Bielizna damska > Skarpetki",
+        "Finalna_Sciezka_AI": "Moda > Bielizna damska > Skarpetki",
+        "Finalne_ID_AI": 2671,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw skarpetek damskich, a wybrana kategoria (Moda > Bielizna damska > Skarpetki) jest najbardziej szczegółowym i precyzyjnym liściem w drzewie kategorii pasującym do tego opisu."
+    },
+    {
+        "ID_Produktu": "242637454",
+        "Nazwa_Produktu": "Pokrowiec Na Grill Ogrodowy Wodoodporny Noa Store",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec przeznaczony bezpośrednio do ochrony grilla ogrodowego. W drzewie kategorii OLX, akcesoria do grillowania oraz same grille znajdują się w kategorii 'Grill' wewnątrz sekcji 'Ogród'. Wybór kategorii 'Pokrowce' (ID 2140) byłby błędny, ponieważ znajduje się ona w sekcji 'Wyposażenie wnętrz', a produkt jest przeznaczony do użytku zewnętrznego."
     }
 ]
