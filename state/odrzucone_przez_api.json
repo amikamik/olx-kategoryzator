@@ -1425,5 +1425,60 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242634616",
+        "Nazwa_Produktu": "Zaciski kablowe, 400 szt. Mocne Trwałe białe",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zaciski kablowe używane do porządkowania i mocowania kabli (elektrycznych, sieciowych, audio-wideo) w domu, często do ścian. Idealnie pasuje to do kategorii 'System i osprzęt instalacyjny' w ramach 'Elektryka' i 'Instalacje' w dziale 'Dom i Ogród', ponieważ jest to osprzęt niezbędny do prawidłowego montażu i organizacji przewodów.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zaciski kablowe, 400 szt. mocne trwałe białe",
+                "description": "Zaciski kablowe, 400 szt. Mocne, Trwałe białe okrągłe, 4 rozmiary 4mm 6mm 8mm 10mm 4 rozmiary zacisków kablowych- 4mm x 100 sztuk, 6mm x 100 sztuk, 8mm x 100 sztuk, 10mm x 100 sztuk. Satysfakcjonuje cię do organizowania kabli o większości rozmiarów w domu, może z łatwością organizować różne specyfikacje przewodów. Stalowy gwóźdź- zaciski kablowe ze stalowym gwoździem są mocniejsze niż samoprzylepne zaciski kablowe, przewody nie będą często spadać i nie będą marnować czasu na przeróbki. Zaciski kablowe można przybić do ściany cementowej. Trwałe- trwałe tworzywo sztuczne, biały styl jest bardziej wszechstronny i integruje się ze środowiskiem domowym, aby było czystsze. Szerokie zastosowanie- organizery kabli idealne do kabla koncentrycznego RG8X, RG58, RG59 lub LMR 240, cyfrowego kabla koncentrycznego wideo lub audio RG6, kabla sieciowego Ethernet Cat 5, Cat 6, przewodu głośnikowego od 12 do 16 AWG, przewodu telefonicznego, kabla USB, Oświetlenie świąteczne itp. Uporządkuj swój dom i zwolnij dużo miejsca. Porządek kablowy może również poprawić bezpieczeństwo użytkowania energii elektrycznej i chronić bezpieczeństwo członków rodziny, a zwłaszcza dzieci. Łatwa instalacja- tapy instalacji zacisku drucianego są bardzo proste i może je wykonać jedna osoba, dzięki czemu rodzina może żyć w wygodnym i bezpiecznym środowisku. . Marka: Abnii Rozmiar: 4/6/8/10mm Waga przedmiotu: 208 gramów Kolor: Biały Liczba części: 400\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.66,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/7fe9d0e74793e731653b5faa61ecfd16.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/e757ca3daa15e88cce3cb60c05c54716.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
