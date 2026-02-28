@@ -1638,5 +1638,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Nazwa produktu 'Portfel skórzany Unisex' oraz szczegółowy opis funkcji portfela (przegródki na monety, banknoty, karty kredytowe, ochrona RFID) idealnie pasują do kategorii 'Moda > Akcesoria > Portfele', która jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "242633761",
+        "Nazwa_Produktu": "Cena laminowana Lody 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to laminowane etykiety/ceny do produktów, które są podstawowym materiałem biurowym lub eksploatacyjnym w firmach, w tym gastronomicznych czy handlowych. Kategoria 'Akcesoria i materiały biurowe' jest najbardziej szczegółową i trafiającą w charakter produktu."
+    },
+    {
+        "ID_Produktu": "242633776",
+        "Nazwa_Produktu": "Mediclean 112 Shine 1L  1szt",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Witaminy i suplementy zdrowia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to emulsja samopołyskowa do pielęgnacji i konserwacji podłóg, co bezpośrednio kwalifikuje go jako 'Środek czyszczący'. Kategoria ta jest liściem i znajduje się w logicznej ścieżce Dom i Ogród > Supermarket."
     }
 ]

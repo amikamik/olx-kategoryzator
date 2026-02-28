@@ -719,5 +719,62 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242633779",
+        "Nazwa_Produktu": "Zmywak Vileda Pur Active Colors 4 Szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki do zmywania",
+        "Finalne_ID_AI": 4366,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zmywak kuchenny, który jest bezpośrednio związany z zmywaniem naczyń. Kategoria 'Środki do zmywania' jest najbardziej szczegółową i trafioną kategorią dla tego typu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zmywak vileda pur active colors 4 szt.",
+                "description": "Zmywak Vileda Pur Active Colors 4 szt. Zmywak kuchenny, który usuwa uporczywe zabrudzenia, nie pozostawiając zarysowań na nawet na tak delikatnych powierzchniach jak teflon Zmywak Vileda Pur Active Colors łatwo się spłukuje, dzięki czemu pozostaje świeży na dłużej. Zestaw zawiera 4 gąbki w różnych kolorach. Zmywak Vileda Pur Active Colors 4 szt. - czyści skutecznie bez zarysowań Czyści skutecznie i bez zarysowań Mocna poliuretanowa warstwa cierna usuwa uporczywe zabrudzenia nie powodując zarysowań nawet tak delikatnych powierzchni jak teflon. Zmywak Vileda Pur Active Colors jako jedyny na rynku posiada certyfikat DuPont potwierdzający bezpieczeństwo stosowania na powłokach teflonowych Trwały i łatwy do utrzymania w czystości Zmywak kuchenny Vileda łatwo się spłukuje dzięki czemu pozostaje świeży na dłużej. Mocna poliuretanowa warstwa cierna zwiększa trwałość i żywotność gąbki. Vileda Pur Active Colors - trwały i łatwy do utrzymania w czystości Vileda Pur Active Colors - uniwersalny Cztery zmywaki w różnych kolorach Opakowanie zawiera cztery zmywaki w żywych i świeżych kolorach. Każdy kolor można przypisać do innego zadania niebieski do kuchni, pomarańczowy do łazienki a zielony np. do zastosowania na zewnątrz EAN: 4023103208049 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com W przypadku delikatnych powierzchni, najpierw wypróbuj w niewidocznym miejscu.\n\n[DEAL-BLB2B]",
+                "category_id": 4366,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 23.85,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/77281d56a0ba74b06ad5321e10b807ef.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
