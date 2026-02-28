@@ -216,17 +216,17 @@ jobs:
         if: always()
         run: |
           echo "📤 Aktualizuję wspólny state na deal-shared-state..."
-          CURRENT_BRANCH=$(git branch --show-current)
           
           # Zapisz aktualny state do tmp
           mkdir -p /tmp/shared_state
           cp state/*.json /tmp/shared_state/ 2>/dev/null || true
           
-          # Checkout deal-shared-state
+          # Użyj git worktree — NIE przełącza brancha, działa równolegle
           git fetch origin deal-shared-state
-          git checkout deal-shared-state 2>/dev/null || git checkout -b deal-shared-state origin/deal-shared-state
+          git worktree add /tmp/shared_worktree origin/deal-shared-state
           
-          # Merguj state (Python merge — nie nadpisuj, merguj listy i dict)
+          # Merguj state w worktree (Python merge — nie nadpisuj, merguj listy i dict)
+          cd /tmp/shared_worktree
           python3 -c "
           import json, os, glob
           for src in glob.glob('/tmp/shared_state/*.json'):
@@ -266,7 +266,7 @@ jobs:
             
             # Retry push (na wypadek równoległego zapisu z innej gałęzi)
             for i in 1 2 3; do
-              if git push origin deal-shared-state; then
+              if git push origin HEAD:deal-shared-state; then
                 echo "✅ Wspólny state zaktualizowany (próba $i)"
                 break
               else
@@ -279,8 +279,9 @@ jobs:
             echo "ℹ️  Brak zmian w wspólnym state"
           fi
           
-          # Wróć na oryginalną gałąź
-          git checkout "$CURRENT_BRANCH"
+          # Cleanup worktree
+          cd $GITHUB_WORKSPACE
+          git worktree remove /tmp/shared_worktree --force 2>/dev/null || true
 
       - name: 🔄 Auto-restart jeśli osiągnięto limit czasu
         if: always()
