@@ -1,1 +1,64 @@
-﻿{}
+[
+    {
+        "ID_Produktu": "242632932",
+        "Nazwa_Produktu": "Vileda Wkład do mopa Parowego",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do domu",
+        "Finalne_ID_AI": 3125,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wkład (akcesorium) dedykowany do konkretnego urządzenia elektrycznego (mopa parowego), co zgodnie z drzewem kategorii OLX najlepiej odpowiada kategorii 'Części i akcesoria AGD do domu' w sekcji Elektronika.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda wkład do mopa parowego",
+                "description": "Vileda Wkład do mopa Parowego. Wkład do mopa Parowego - Wykonany w 100% z mikrofibry - Do zastosowania w mopach parowych i 100?C - Łatwy sposób instalacji za pomocą rzepu - 1 opakowanie zawiera 2 sztuki wkładów - Możliwość prania w 60?C - Wkład pasuje do mopa parowego Steam oraz Steam Plus. Cena za 1 szt. EAN: 4023103181281 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com Maksymalna temperatura prania to 60C. Nie suszyć w suszarce bębnowej i nie prasować. Nie prać chemicznie i nie stosować wybielaczy. Należy unikać kontaktu z ostrymi przedmiotami.\n\n[DEAL-BLB2B]",
+                "category_id": 3125,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 90.25,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/deb6d96ec602dd4fd13ba7c24b9dbf92.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+]
