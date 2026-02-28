@@ -808,5 +808,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt jest klasycznym parasolem osobistym chroniącym przed deszczem i słońcem, co odpowiada kategorii liścia 'Parasolki' znajdującej się w sekcji Moda > Akcesoria."
+    },
+    {
+        "ID_Produktu": "242636975",
+        "Nazwa_Produktu": "Pułapka Na Myszy Gryzonie Wielokrotnego Użytku 4Sz",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla gryzoni i królików > Klatki i kojce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to mechaniczna pułapka na myszy (snap trap). W strukturze kategorii OLX tego typu przedmioty służące do zwalczania szkodników w gospodarstwie domowym, ogrodzie czy garażu najlepiej pasują do kategorii 'Dom i Ogród > Ogród > Pozostałe Ogród'. Kategoria sugerowana przez system (Akcesoria dla gryzoni) jest błędna, ponieważ dotyczy ona zwierząt hodowlanych (pupili), a nie deratyzacji."
+    },
+    {
+        "ID_Produktu": "242636989",
+        "Nazwa_Produktu": "Etui Na Karty Kredytowe Miętowe Z Frędzlem",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest skórzanym etui na karty, które posiada również przegródki na banknoty, co sprawia, że najlepiej pasuje do kategorii 'Portfele' w sekcji akcesoriów modowych."
+    },
+    {
+        "ID_Produktu": "242637016",
+        "Nazwa_Produktu": "Torebki Woreczki Strunowe 60X80Mm 1000Szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to woreczki strunowe sprzedawane w ilości hurtowej (1000 sztuk), co definiuje go jako materiały eksploatacyjne dla biznesu. W strukturze OLX opakowania i drobne akcesoria do pakowania dla firm najlepiej pasują do sekcji 'Firma i Przemysł > Sklepy i magazyny > Pozostałe'."
     }
 ]
