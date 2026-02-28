@@ -618,5 +618,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to koperty wysyłkowe (kurierskie) z okienkiem w ilości hurtowej (500 sztuk), co jest typowym elementem wyposażenia i materiałów biurowych w kategorii Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242636476",
+        "Nazwa_Produktu": "Ostrzem zamienne do sekatora TABOR TOOLS GG12-1",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalne_ID_AI": 2880,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest ostrzem zamiennym do sekatora kowadełkowego, co czyni go częścią zamienną bezpośrednio związaną z kategorią Nożyce i sekatory w sekcji narzędzi ogrodowych."
+    },
+    {
+        "ID_Produktu": "242636499",
+        "Nazwa_Produktu": "4 kółka śred. 3,2cm na płytcie obrotowej + hamulce",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kółka obrotowe z hamulcem, które zgodnie z opisem służą do montażu w meblach (komody, stoły), co klasyfikuje je jako akcesoria meblowe w kategorii Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242636509",
+        "Nazwa_Produktu": "Pas mocujący do bagażu z podwójnym hakiem 2m 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to gumowy pas mocujący z hakami, przeznaczony do zabezpieczania bagażu w samochodach i motocyklach. Zgodnie z drzewem kategorii OLX, najlepiej pasuje do sekcji akcesoriów samochodowych, a konkretnie do kategorii 'Pozostałe' (ID: 4509), ponieważ nie jest to ani kompletny bagażnik (4485), ani organizer/siatka (4498), lecz uniwersalne akcesorium transportowe."
     }
 ]
