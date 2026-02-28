@@ -3238,5 +3238,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to koperty foliowe z bąbelkami, przeznaczone do ochrony i wysyłki delikatnych przedmiotów. Najlepiej pasują do kategorii 'Akcesoria i materiały biurowe' w dziale 'Firma i Przemysł', ponieważ są to typowe materiały eksploatacyjne używane w biurach i firmach do celów wysyłkowych. Kategoria z podpowiedzi 'Artykuły papiernicze' pod 'Dla Dzieci' jest nieodpowiednia ze względu na materiał (folia zamiast papieru) i główne przeznaczenie produktu (ochrona podczas transportu, a nie szkolne potrzeby)."
+    },
+    {
+        "ID_Produktu": "242634513",
+        "Nazwa_Produktu": "Kinkiet Wewnętrzny Zewnętrzny  Led 8W Ip65",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalne_ID_AI": 3863,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "99%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu wielokrotnie wskazują na 'kinkiet', a także określają jego przeznaczenie jako element oświetleniowy do wnętrz i na zewnątrz. Kategoria 'Kinkiety' jest bezpośrednim, najgłębszym poziomem odpowiadającym typowi produktu."
+    },
+    {
+        "ID_Produktu": "242634520",
+        "Nazwa_Produktu": "Lampka nocna z ładowarką 10W przyciemniana",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to lampka nocna z funkcją ładowania bezprzewodowego, przeznaczona do użytku na biurku lub stole, idealna do nauki, czytania i jako lampka nocna. Kategoria 'Lampki biurkowe' jest najbardziej szczegółowa i trafna dla tego opisu, uwzględniając jej wszechstronność."
     }
 ]
