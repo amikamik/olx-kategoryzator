@@ -3218,5 +3218,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to pułapka na gryzonie (szczury), która służy do ochrony gospodarstwa domowego i ogrodu przed szkodnikami. W strukturze OLX tego typu akcesoria ogrodowe i deratyzacyjne, w przypadku braku dedykowanej kategorii 'Zwalczanie szkodników', najlepiej pasują do kategorii 'Dom i Ogród > Ogród > Pozostałe Ogród' (1641)."
+    },
+    {
+        "ID_Produktu": "242634787",
+        "Nazwa_Produktu": "Reflektor Punktowy Led Paulmann Window 1X5W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Spoty",
+        "Finalne_ID_AI": 3871,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wewnętrzna oprawa oświetleniowa opisana jako reflektor punktowy (spot) przeznaczony do montażu ściennego i sufitowego, co idealnie pasuje do kategorii 'Spoty' w sekcji lamp."
+    },
+    {
+        "ID_Produktu": "242634816",
+        "Nazwa_Produktu": "Czarna Lampa Kinkiet Led Gęsia Szyja 2 Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalne_ID_AI": 3863,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest lampą ścienną (kinkietem) z elastycznym ramieniem, przeznaczoną do oświetlenia wnętrz, co jednoznacznie przypisuje go do kategorii Kinkiety w sekcji Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242634889",
+        "Nazwa_Produktu": "Lampa sufitowa LED ściemniana 28 W okrągła biała",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to płaska lampa sufitowa LED o niewielkiej wysokości (4,5 cm), co w terminologii oświetleniowej klasyfikuje go jako plafon. Kategoria 'Plafony' jest najbardziej precyzyjnym wyborem dla tego typu oświetlenia montowanego natynkowo na suficie."
+    },
+    {
+        "ID_Produktu": "242634941",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 500ml PET z pokrywką 80szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to hurtowy zestaw (80 sztuk) profesjonalnych opakowań jednorazowych wykonanych z PET, przeznaczonych do transportu i serwowania żywności w gastronomii. Obecność opłaty SUP (Single Use Plastics) oraz odniesienie do dalszej odsprzedaży i modelu produktu (OLI501) jednoznacznie wskazują na przeznaczenie profesjonalne/gastronomiczne, co najlepiej pasuje do kategorii 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242635038",
+        "Nazwa_Produktu": "Filtr Do Basenu Aquahouse AH-P30",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Filtry do wody",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wkładem filtrującym przeznaczonym do basenów oraz wanien z hydromasażem, co kwalifikuje go do kategorii 'Baseny' w sekcji 'Ogród'. Jest to najbardziej specyficzna kategoria dla akcesoriów basenowych w udostępniona w drzewie."
+    },
+    {
+        "ID_Produktu": "242635045",
+        "Nazwa_Produktu": "Taśma uszczelniająca aluminiowo-butylowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Dachy",
+        "Finalne_ID_AI": 3144,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to aluminiowo-butylowa taśma uszczelniająca, która w budownictwie jest powszechnie znana jako 'taśma dekarska'. Choć opis wspomina o wielu zastosowaniach, kluczowe są uszczelnienia połączeń dachowych, co wskazuje na kategorię Dachy w sekcji Budowa."
     }
 ]
