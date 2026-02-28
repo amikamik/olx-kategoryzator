@@ -3608,5 +3608,95 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to regulowane zaciski do węży, rur i kabli. Opis produktu wyraźnie wskazuje na zastosowanie w 'domowych instalacjach sanitarno-kanalizacyjnych', 'węży, rur, kabli'. Kategoria 'Rury, kształtki, złączki' w ramach 'Hydraulika' w 'Instalacjach' (Dom i Ogród) jest najbardziej szczegółowa i najlepiej odzwierciedla główną funkcję zacisków jako elementów łączących/zabezpieczających w instalacjach."
+    },
+    {
+        "ID_Produktu": "242634902",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 18x35/4 cm 6mic 800 szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Najdokładniej pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ są to pojemniki (woreczki) używane w branży gastronomicznej/spożywczej."
+    },
+    {
+        "ID_Produktu": "242634920",
+        "Nazwa_Produktu": "Osłona przeciwsłoneczna samochodu w rolce 40*125cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Osłony na szyby",
+        "Finalne_ID_AI": 4499,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na główne przeznaczenie jako 'Osłona przeciwsłoneczna samochodu'. Kategoria 'Osłony na szyby' w dziale 'Wyposażenie i akcesoria samochodowe' jest najbardziej szczegółowa i precyzyjna, pomimo wzmianki o możliwości zastosowania w domu."
+    },
+    {
+        "ID_Produktu": "242634924",
+        "Nazwa_Produktu": "Osłona otworu wentylacyjnego Auta",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Klimatyzacja i wentylacja",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'praktyczne i funkcjonalne akcesorium do samochodu' oraz 'profesjonalne akcesoria', a jego funkcja (osłona otworu wentylacyjnego) idealnie pasuje do ogólnej kategorii 'Wyposażenie i akcesoria samochodowe'. Ponieważ żadna z bardziej szczegółowych podkategorii w obrębie 'Wyposażenie i akcesoria samochodowe' nie pasuje bezpośrednio do 'osłony otworu wentylacyjnego', wybrano kategorię 'Pozostałe' w ramach tego drzewa, co jest najgłębszym możliwym poziomem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "242634930",
+        "Nazwa_Produktu": "Żarówka LED Okrągła Dekoracyjna Vintage 4W 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'Żarówka LED'. Najbardziej szczegółowa kategoria w drzewie to 'Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki' (ID: 3859), która jest kategorią-liściem i idealnie pasuje."
+    },
+    {
+        "ID_Produktu": "242634942",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 227x178/50 dwudzielny 40szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik do zgrzewu, wyraźnie opisany jako 'Pojemnik obiadowy do zgrzewu D-9500C przystosowany do hermetycznego zamykania w zgrzewarkach gastronomicznych' oraz 'Opakowania cateringowe'. To jednoznacznie wskazuje na jego przeznaczenie w branży gastronomicznej/cateringowej. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjnie oddaje charakter produktu, lepiej niż ogólne 'Pojemniki i przechowywanie żywności' z sekcji Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242634945",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 227x178/45 trójdzielny 80szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemnik do zgrzewu przeznaczony do zastosowań gastronomicznych i cateringowych, sprzedawany przedsiębiorcom w celu dalszej odsprzedaży. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i precyzyjnie opisuje charakter produktu."
+    },
+    {
+        "ID_Produktu": "242634947",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 178x113/60 niedziel PP 80sz SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Pojemnik obiadowy do zgrzewu' i 'Opakowania cateringowe' przystosowane do 'zgrzewarek gastronomicznych', co jednoznacznie wskazuje na zastosowanie profesjonalne w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "242634958",
+        "Nazwa_Produktu": "Hak wielofunkcyjny haczyk do hulajnogi Xiaomi",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pojazdy elektryczne > Akcesoria do pojazdów elektrycznych",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Pojazdy elektryczne > Akcesoria do pojazdów elektrycznych",
+        "Finalne_ID_AI": 4707,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to hak/haczyk przeznaczony do hulajnogi elektrycznej Xiaomi Mijia M365, co idealnie pasuje do kategorii 'Akcesoria do pojazdów elektrycznych', która jest podkategorią 'Pojazdy elektryczne' w 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "242634962",
+        "Nazwa_Produktu": "Sekator Nożyce Ogrodnicze do przycinania",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalne_ID_AI": 2880,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje na 'sekator' i 'nożyce ogrodnicze', co idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory'. Opis dodatkowo potwierdza zastosowanie w ogrodnictwie do przycinania."
     }
 ]

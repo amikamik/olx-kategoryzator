@@ -1605,5 +1605,60 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242634956",
+        "Nazwa_Produktu": "Gniazdko Elektryczne Podwójne Ścienne 16A czarne",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Wtyczki, gniazda i włączniki",
+        "Finalne_ID_AI": 3210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na podwójne gniazdko elektryczne ścienne. Kategoria 'Wtyczki, gniazda i włączniki' jest najbardziej szczegółowa i precyzyjnie odpowiada temu produktowi w drzewie kategorii, będąc liściem w gałęzi Dom i Ogród > Instalacje > Elektryka.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gniazdko elektryczne podwójne ścienne 16a czarne",
+                "description": "Podwójne gniazdko wtykowe czarne z zestykiem ochronnym 16A/250V, do montażu w puszce instalacyjnej 60mm ?, w zestawie z ramą (kompletne). Specyfikacja: Marka: ALING-CONEL Kolor: czarny Wymiary produktu: ?12 x 8 x 4,3 cm; 80 gr Dane: certyfikat VDE, zgodnie z normą IEC 60884-1 Prąd / napięcie: 16 A/250 V\n\n[DEAL-BLB2B]",
+                "category_id": 3210,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/7ba2e426336fc8cd183a09b0b341614d.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/e2b410a493b86f9d5f7d46acb218198d.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
