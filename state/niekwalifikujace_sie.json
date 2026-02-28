@@ -3588,5 +3588,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to dekoracyjna lampka nocna o charakterze stołowym (wymiary 16x16x18 cm), przeznaczona do postawienia na powierzchni płaskiej. W drzewie kategorii OLX, lampki nocne tego typu są klasyfikowane jako lampy stołowe."
+    },
+    {
+        "ID_Produktu": "242636897",
+        "Nazwa_Produktu": "Plecak duży wodoodporny z ładowaniem USB niebieski",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Plecaki",
+        "Finalne_ID_AI": 2755,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest klasyfikowany jako plecak o wszechstronnym zastosowaniu (miejski, szkolny, biznesowy). W strukturze OLX najbardziej trafną kategorią dla plecaków, niezależnie od ich dodatkowych funkcji, takich jak port USB czy kieszeń na laptopa, jest 'Moda > Torby i torebki > Plecaki'."
+    },
+    {
+        "ID_Produktu": "242636981",
+        "Nazwa_Produktu": "Lampka Nocna Z Drewna Z Lnianym Abażurem E27",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczna lampka nocna/stołowa z abażurem i drewnianą podstawą, co bezpośrednio odpowiada najbardziej szczegółowej kategorii 'Lampy stołowe' (liść drzewa)."
     }
 ]
