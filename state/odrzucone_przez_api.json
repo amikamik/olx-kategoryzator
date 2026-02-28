@@ -1660,5 +1660,123 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242633778",
+        "Nazwa_Produktu": "Vileda Mop 1-2 Spray MAX BOX ze spryskiwaczem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Mop płaski Vileda to narzędzie do czyszczenia podłóg. W drzewie kategorii OLX produkty marki Vileda oraz akcesoria do sprzątania są najprecyzyjniej przypisywane do ścieżki Dom i Ogród > Supermarket > Środki czyszczące (ID: 4364), co potwierdza również wskazówka systemowa.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda mop 1-2 spray max box ze spryskiwaczem",
+                "description": "Mop 1-2 Spray MAX BOX ze spryskiwaczem Mop ze spryskiwaczem 1-2 Spray MAX BOX to idealne rozwiązanie do szybkiego czyszczenia nawet dużych powierzchni. Mop wyposażony w obrotową głowicę 180 i dwustronną nakładkę umożliwia czyszczenie 2 razy większej powierzchni niż standardowy mop ze spryskiwaczem. Mop usuwa 99% bakterii przy użyciu samej wody. Udowodnione w badaniach przeprowadzonych przez niezależny, akredytowany instytut badań mikrobiologicznych i immunologicznych* *Test przeprowadzony przez BMA-Labor GbR na bakteriach Escherichia coli i Staphylococcus aureus występujących w domu. Wyposażony w obrotową głowicę Obrotowa głowica mopa płaskiego ze spryskiwaczem Vileda pozwala na błyskawiczne odwrócenie nakładki czyszczącej i dalsze sprzątanie, gdy inne mopy, wyposażone w jednostronną nakładkę, wymagają już jej wymiany bądź czyszczenia. Wygodny spryskiwacz Mechanizm sprayu zapewnia kontrolowane, równomierne rozprowadzenie płynu na czyszczonej powierzchni. Wyjątkowo skuteczny wkład Nakładka mopa 1-2 Spray MAX BOX wykonana jest z mikrofibry. Wkład szybko czyści i osusza powierzchnię oraz zapewnia czyszczenie bez smug i zarysowań. Nakładkę z mikrofibry można wielokrotnie prać w pralce. Czerwone włókna nakładki czyszczącej, doskonale poradzą sobie z uporczywym brudem. Dzięki funkcjonalnemu uchwytowi wkład jest łatwy w zdejmowaniu, bez konieczności kontaktu brudem. Dostępny jest w sprzedaży zapasowy wkład do mopa ze spryskiwaczem 1-2 Spray MAX. Do każdego rodzaju podłóg Mop ze sprayem Vileda doskonale sprawdza się na każdym rodzaju podłóg. Łatwe uzupełnianie płynu Mop jest wyposażony w wystarczająco duży pojemnik na płyn 600 ml. Dzięki temu sprzątanie jest jeszcze bardziej efektywne. Zestaw BOX Mop ze spryskiwaczem zapakowany jest w wygodny karton transportowy. Wymiary kartonu: 59,5 cm x 16,5 cm x 14,5 cm. Mop wyposażony jest w drążek składany z dwóch części. Karton zawiera podstawę mopa, wkład oraz dwuczęściowy drążek. Instrukcja montażu i obsługi 1. Złóż poszczególne części mopa (podstawę oraz dwie części drążka). 2. Napełnij zbiornik wodą lub roztworem wody z niezbyt pieniącym się płynem (stosuj się do proporcji podawanych przez producenta) oraz umieść pojemnik ponownie w odpowiednim miejscu. 3. Naciśnij spust przy drążku i rozpocznij sprzątanie. Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 198.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/e3a04d3f65e91a90cf5689506095a058.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242635679",
+        "Nazwa_Produktu": "Gniazdo Inteligentne Elektryczne Wifi USB Alexa",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Wtyczki, gniazda i włączniki",
+        "Finalne_ID_AI": 3210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to inteligentne gniazdko elektryczne (smart plug), które najlepiej pasuje do kategorii 'Wtyczki, gniazda i włączniki' znajdującej się w sekcji Instalacje > Elektryka w dziale Dom i Ogród.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gniazdo inteligentne elektryczne wifi usb alexa",
+                "description": "Alexa gniazdko Wi-Fi z 2 portami USB i inteligentną lampą Kompatybilność: kompatybilny z Amazon Echo Dot, Amazon Echo Dot (2. generacji), Amazon Echo Dot (3. generacji), Amazon Echo, Amazon Echo (2. generacji), Amazon Echo Plus, Amazon Echo Plus (2. generacji) i Amazon Echo Spot, Amazon Echo Show, Amazon Echo Show (2. generacji); Google Home, Google Home Mini. Możesz zarządzać urządzeniami domowymi za pomocą sterowania głosem, zamiast przechodzić na przód urządzeń. Wymaga systemu Android 4.4 lub nowszego oraz iOS 8 lub nowszego. Pilot zdalnego sterowania: włącz elektronikę z dowolnego miejsca za pomocą darmowej aplikacji \"Smart life\". Obsługuje włączanie/wyłączanie za pomocą jednego przycisku, aby zapewnić ochronę ładowania urządzeń gospodarstwa domowego i zapobiec przeładowaniu. Zaoszczędź naukowo swoje rachunki za energię elektryczną i wydłużaj żywotność urządzeń gospodarstwa domowego. Inteligentna kontrola: można wykonywać wszystkie rodzaje harmonogramów i przypadkowe harmonogramy. Ustaw czas dla inteligentnego gniazdka, a w razie potrzeby możesz automatycznie włączać i wyłączać nawilżacz powietrza, czajnik, oświetlenie choinki, ekspres do kawy, oświetlenie i wentylator elektryczny w razie potrzeby. Oszczędzaj energię i unikaj wygodnego przegrzania. Przydatne zastosowanie: z 2 wbudowanymi portami ładowania USB (maks. 2,4 A) zapewnia dodatkowy komfort podczas ładowania urządzeń. Wymagany jest tylko smartfon i sieć Wi-Fi 2,4 GHz, można bez problemu sparować inteligentne gniazdko za pomocą aplikacji bez huba. Obsługuje tylko sieć WiFi 2,4 GHz, nie obsługuje sieci 5,0 GHz. Certyfikacja i bezpieczeństwo: certyfikat RoHS, z funkcją ochrony przed przepięciem. Wyprodukowano z wysokiej jakości ognioodpornego materiału PC o dobrej izolacji zapewnia bezpieczeństwo użytkownika. Specyfikacja: Marka : ?MoKo Model : 1999 Wymiary produktu: 16 x 8,64 x 8,38 cm Napięcie robocze: 240 Wolty\n\n[DEAL-BLB2B]",
+                "category_id": 3210,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 140.16,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/19f10e6884743b557c7ac7f1a61346f8.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/d058afd9a898c803ba37a04cd48c1b7e.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/3b22ab4cd37c362cf234ce6cbfa6bffe.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/ede5c0082a7f306074572a45146006c6.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
