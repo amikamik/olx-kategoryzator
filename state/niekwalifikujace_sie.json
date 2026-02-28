@@ -2048,5 +2048,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to dekoracja samochodu ślubnego, a kategoria 'Dekoracje na auto' pod 'Akcesoria ślubne' jest najbardziej precyzyjna i szczegółowa, idealnie pasująca do przeznaczenia produktu. Kategoria 'Ozdoby okolicznościowe' jest zbyt ogólna i nie wskazuje na zastosowanie samochodowe ani ślubne."
+    },
+    {
+        "ID_Produktu": "242634180",
+        "Nazwa_Produktu": "Nakładka Na Pas Bezpieczeństwa Niebieska 2 Szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Zabezpieczenia",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalne_ID_AI": 4501,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'nakładka na pas bezpieczeństwa', która w opisie jest również nazywana 'pokrowcem na pasy na siedzenia'. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce' jest najbardziej szczegółowa i bezpośrednio odpowiada naturze produktu. Mimo wzmianki o dzieciach, produkt nie jest wyłącznie akcesorium niemowlęcym, a jego głównym przeznaczeniem jest użytek w samochodzie przez dorosłych i dzieci, co wyklucza kategorię 'Dla Dzieci > Akcesoria dla niemowląt > Zabezpieczenia'."
+    },
+    {
+        "ID_Produktu": "242634190",
+        "Nazwa_Produktu": "Złącze F Z Gumową Uszczelką Na Przewód 7,2Mm",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Akcesoria i części",
+        "Finalne_ID_AI": 1985,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to złącze F z gumową uszczelką, przeznaczone na przewód koncentryczny. Złącza F są powszechnie stosowane w instalacjach telewizyjnych (satelitarnych i naziemnych) oraz wideo. Kategoria 'Sprzęt video -> Akcesoria i części' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "242634192",
+        "Nazwa_Produktu": "Kinkiet Wewnętrzny Zewnętrzny Led 8W Ip65 Biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalne_ID_AI": 3863,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu i opis wielokrotnie używają terminu \"kinkiet\", który jest bezpośrednim odpowiednikiem wybranej kategorii. Produkt jest lampą ścienną przeznaczoną do użytku wewnętrznego i zewnętrznego, co idealnie pasuje do kategorii \"Kinkiety\" podkategorii \"Lampy\" w dziale \"Oświetlenie\" w \"Dom i Ogród\"."
     }
 ]
