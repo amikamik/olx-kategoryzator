@@ -60,5 +60,63 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242635806",
+        "Nazwa_Produktu": "Cyfrowy programator czasowy gniazdko",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Wtyczki, gniazda i włączniki",
+        "Finalne_ID_AI": 3210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to elektryczny programator czasowy montowany bezpośrednio w gniazdku, co najlepiej pasuje do kategorii 'Wtyczki, gniazda i włączniki' w sekcji instalacji elektrycznych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Cyfrowy programator czasowy gniazdko",
+                "description": "Cyfrowy programator czasowy, gniazdko, z 10 konfigurowalnymi tygodniowymi programami przełączania i trybem antywłamaniowym 24-godzinny / 7-poziomowy programowalny --- do 10 x różnych czasów włączania/wyłączania dziennie. Dzięki akumulatorowi zapasowemu urządzenie zachowuje programowanie również w przypadku awarii zasilania, nie musisz ponownie ustawiać programu timingowego. Oszczędność energii automatyczne włączanie i wyłączanie różnych urządzeń. np. łańcuch świetlny LED, ekspres do kawy, oświetlenie do kuchni/sypialni lub innych urządzeń, aby zaoszczędzić energię i zautomatyzować życie. Łatwy w obsłudze dzięki dużemu wyświetlaczowi LCD i manualnemu przełącznikowi można pomijać programy przełączania, gdy zmieni się plan, po wybraniu lato, czas automatycznie będzie działał +1 godzinę. Tryb antykradzieżowy przydatne rozwiązanie bezpieczeństwa zapewnia przypadkową opcję włączania i wyłączania oświetlenia w różnych porach, gdy nie jesteś w domu. Specyfikacja: Marka ?Maxcio Wymiary produktu: ?5,4 x 3,9 x 13,4 cm; 350 gr Moc (W): 3680.00 Napięcie: 230 Wolty\n\n[DEAL-BLB2B]",
+                "category_id": 3210,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 85.87,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/90bf303be8037a1c44b2d5e06d6317a1.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/d6683f11197212a2db0996a5bed078fc.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/31cc6b6e3c38dcac35c72ee1a97d9e70.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
