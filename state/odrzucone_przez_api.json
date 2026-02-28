@@ -231,5 +231,72 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242636874",
+        "Nazwa_Produktu": "Włącznik Światła Biały Panel 300W Wifi",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Wtyczki, gniazda i włączniki",
+        "Finalne_ID_AI": 3210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest włącznikiem światła, który bezpośrednio odpowiada nazwie kategorii 'Wtyczki, gniazda i włączniki' w sekcji Instalacje/Elektryka.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Włącznik światła biały panel 300w wifi",
+                "description": "Wyposażony w odporny na zarysowania panel ze szkła hartowanego, ten inteligentny włącznik światła WiFi został zaprojektowany w celu zastąpienia tradycyjnego przełącznika aplikacją i sterowaniem głosowym. Ciesz się inteligentnym życiem dzięki urządzeniom KETOTEK Smart Life. Specyfiakcja: Model: KTSS1NU WiFi Smart Switch Częstotliwość bezprzewodowa: Wi-Fi 2,4 GHz Standard bezprzewodowy: 802.11b/g/n 2.4G Napięcie znamionowe: AC 100 V-240 V 50/60Hz Temperatura pracy: -20 50 Moc obciążenia: 300 W/Gang Kompatybilny z Amazon Alexa, Goolge Assiatant, Tuya Marka: KETOTEK Typ przełącznika: ekran dotykowy Wymiary elementu dł. x szer. x wys: 8,6 x 3,6 x 8,6 cm\n\n[DEAL-BLB2B]",
+                "category_id": 3210,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 74.09,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/f3f19f602b2ba754c829fb483b8b48a9.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/dd6c6857ac466950eb128205ada5d34a.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/c54033df8f62afcaca776cf7202fc5a2.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/9745939a77a625781aec99745c4cb13c.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/53da212f1ddf6f744a8bcd540a19a296.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/7bc34bd2514a73e9b2ef22b37b7fb1f1.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

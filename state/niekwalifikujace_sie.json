@@ -758,5 +758,55 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to gotowa oprawa oświetleniowa LED (sztywna listwa z obudową i czujnikiem), przeznaczona do montażu podszafkowego lub meblowego, co bezpośrednio odpowiada kategorii 'Oprawy oświetleniowe'."
+    },
+    {
+        "ID_Produktu": "242636821",
+        "Nazwa_Produktu": "Zestaw Narzędzi Ogrodniczych Mini Miernik Gleby",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wieloelementowym zestawem narzędzi dedykowanych do pielęgnacji roślin (bonsai, sukulenty) oraz zawiera miernik parametrów gleby. Ponieważ zestaw zawiera akcesoria z różnych grup (nożyce, grabie, przyrządy pomiarowe), najlepiej pasuje do kategorii 'Pozostałe' w obrębie 'Narzędzi ogrodowych', która jest bardziej specyficzna dla ogrodnictwa niż ogólna kategoria narzędzi ręcznych."
+    },
+    {
+        "ID_Produktu": "242636827",
+        "Nazwa_Produktu": "Gałki Meblowe Matowe Czarne 30x22 mm 4 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gałki meblowe (uchwyty), które są klasycznym przykładem akcesoriów meblowych. Wybrana kategoria jest najbardziej szczegółowa i idealnie dopasowana do przeznaczenia przedmiotu."
+    },
+    {
+        "ID_Produktu": "242636877",
+        "Nazwa_Produktu": "Spinki Do Włosów metalowe złote srebrne 14szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Akcesoria do włosów > Spinki i wsuwki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Spinki i wsuwki",
+        "Finalne_ID_AI": 2731,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw spinek do włosów. Najdokładniejszą kategorią liściem w drzewie kategorii OLX dla tego typu asortymentu jest 'Spinki i wsuwki' znajdujące się w ścieżce Moda > Akcesoria > Akcesoria do włosów."
+    },
+    {
+        "ID_Produktu": "242636879",
+        "Nazwa_Produktu": "Głowica Prysznicowa z Wężem 1,5 M Srebrna",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Pozostałe",
+        "Finalne_ID_AI": 3237,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słuchawka prysznicowa wraz z wężem to element armatury łazienkowej. W strukturze kategorii OLX produkty te, będące częścią instalacji natryskowej, ale nie będące kompletnymi bateriami (mieszaczami), kabinami czy wannami, najlepiej pasują do kategorii 'Dom i Ogród > Wykończenie wnętrz > Łazienka > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242636938",
+        "Nazwa_Produktu": "Parasol Duży Czarny Ergonauts",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Parasolki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Parasolki",
+        "Finalne_ID_AI": 2720,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym parasolem osobistym chroniącym przed deszczem i słońcem, co odpowiada kategorii liścia 'Parasolki' znajdującej się w sekcji Moda > Akcesoria."
     }
 ]
