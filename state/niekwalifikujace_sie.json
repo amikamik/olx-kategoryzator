@@ -1408,5 +1408,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to etykiety samoprzylepne na rolce, które są typowymi akcesoriami i materiałami biurowymi lub sklepowymi. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i precyzyjna dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "242633532",
+        "Nazwa_Produktu": "Opakowanie na wynos food box 1 L kraft 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to opakowanie na wynos przeznaczone dla gastronomii. Kategoria 'Pojemniki gastronomiczne' w ramach 'Firma i Przemysł > Gastronomia' jest najbardziej szczegółowa i trafna, doskonale odzwierciedlając zastosowanie produktu."
+    },
+    {
+        "ID_Produktu": "242633534",
+        "Nazwa_Produktu": "Etykiety samoprzylepne 58x56 550etykiet na rolce",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to etykiety samoprzylepne, termiczne, przeznaczone do drukarek termicznych, wag sklepowych i automatów etykietujących, stosowane w sklepach, hurtowniach i przemyśle. Kategoria 'Drukarki i akcesoria' pod 'Firma i Przemysł > Sklepy i magazyny' najlepiej oddaje naturę produktu jako akcesorium do urządzeń drukujących etykiety w środowisku komercyjnym. Chociaż są używane z wagami, są przede wszystkim materiałem eksploatacyjnym do druku."
+    },
+    {
+        "ID_Produktu": "242633540",
+        "Nazwa_Produktu": "Reklamówka 16x30 HDPE klamka 7mic 200szt",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to reklamówka przeznaczona do pakowania produktów w sklepach. Kategoria 'Firma i Przemysł' jest ogólna dla artykułów biznesowych. W jej podkategorii 'Sklepy i magazyny' (4668) brakuje bardziej szczegółowej kategorii dla opakowań/toreb, dlatego 'Pozostałe' (4681) jest najbardziej odpowiednim liściem. Wskazówka systemowa 'Antyki i Kolekcje > Kolekcje > Pozostałe' jest nieprawidłowa dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "242633545",
+        "Nazwa_Produktu": "Preseptol QV 0,75 L Lakma 1szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest środkiem do dezynfekcji powierzchni, przeznaczonym do użytku w placówkach służby zdrowia, domach opieki oraz placówkach użyteczności publicznej, w tym w gastronomii (wspomina o krajalnicach, bemarach, komorach chłodniczych i systemach HACCP). Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej adekwatna do profesjonalnego przeznaczenia produktu, a 'Pozostałe' jest najbardziej szczegółową kategorią-liściem w tym drzewie."
+    },
+    {
+        "ID_Produktu": "242633546",
+        "Nazwa_Produktu": "Plafon LED 24W 1800lm śred. 330mm IP44 ciepła biel",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu 'Plafon LED' bezpośrednio wskazuje na kategorię 'Plafony'. Opis potwierdza, że jest to 'lampa sufitowa' pasująca do tej szczegółowej kategorii, a także wspomina o możliwości montażu jako 'reflektor do zabudowy', co jest spójne z plafonami. Jest to najbardziej szczegółowa kategoria odpowiadająca produktowi."
+    },
+    {
+        "ID_Produktu": "242633553",
+        "Nazwa_Produktu": "Kosmetyczka podróżna Kolor czarny Vale4You",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje, że jest to kosmetyczka. Opis dodatkowo potwierdza jej przeznaczenie do przechowywania kosmetyków i przyborów toaletowych. Kategoria 'Moda > Akcesoria > Kosmetyczki' jest najbardziej szczegółowa i idealnie pasuje do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "242633568",
+        "Nazwa_Produktu": "Serwetka gastronomiczna 33x33 Party 20szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to serwetki gastronomiczne, przeznaczone do użytku w gastronomii (restauracje, cukiernie, bary, kawiarnie). Najbardziej pasującą i szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ serwetki nie pasują do żadnej z bardziej specyficznych podkategorii sprzętu gastronomicznego, a kategoria 'Gastronomia' jest bezpośrednio powiązana z przeznaczeniem produktu."
     }
 ]
