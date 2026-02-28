@@ -2544,5 +2544,15 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242637868",
+        "Nazwa_Produktu": "Pojemnik na ciasto 214x101x82 ALI38 RPET 50szt SUP opakowan",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
     }
 ]

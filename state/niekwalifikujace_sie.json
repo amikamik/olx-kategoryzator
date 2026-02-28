@@ -3788,5 +3788,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to jednorazowe opakowanie tekturowe typu lunch box w ilości hurtowej (200 szt.), dedykowane bezpośrednio dla profesjonalnej gastronomii (restauracje, food trucki), co przypisuje go do kategorii 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242637801",
+        "Nazwa_Produktu": "Taśma Uszczelniająca Wodoodporna PVC 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Budowa > Chemia budowlana > Kleje",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Pozostałe",
+        "Finalne_ID_AI": 3227,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjna samoprzylepna taśma uszczelniająca z PVC, przeznaczona do prac wykończeniowych zarówno w kuchni (kuchenki, zlewy), jak i w łazience (wanny, toalety). Ze względu na to szerokie zastosowanie w różnych pomieszczeniach, najbardziej trafną kategorią jest 'Pozostałe' w obrębie 'Wykończenia wnętrz' (kategoria 3227), która obejmuje drobne akcesoria montażowe i wykończeniowe niepasujące wyłącznie do jednego typu pomieszczenia."
+    },
+    {
+        "ID_Produktu": "242637846",
+        "Nazwa_Produktu": "Wisiorek z białą imitacją perły próba 925 damski",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Wisiorki",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Wisiorki",
+        "Finalne_ID_AI": 2840,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wisiorkiem wykonanym ze srebra próby 925, co jednoznacznie kwalifikuje go do kategorii liścia 'Wisiorki' w sekcji Biżuteria."
+    },
+    {
+        "ID_Produktu": "242637849",
+        "Nazwa_Produktu": "Nożyczki do włosów grzebień etui stal nierdzewna",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Włosy > Stylizacja > Szczotki i grzebienie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria fryzjerskie > Nożyczki",
+        "Finalne_ID_AI": 5087,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne nożyczki fryzjerskie sprzedawane w zestawie. Kategoria 'Nożyczki' (ID: 5087) w sekcji 'Akcesoria fryzjerskie' pod 'Firma i Przemysł' jest najbardziej precyzyjnym dopasowaniem w całym drzewie dla tego konkretnego narzędzia."
+    },
+    {
+        "ID_Produktu": "242637876",
+        "Nazwa_Produktu": "Regał do pokoju dziecięcego z 3 półkami",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble dla dzieci > Regały",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Regały",
+        "Finalne_ID_AI": 4729,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest regałem przeznaczonym do pokoju dziecięcego, co dokładnie odpowiada najbardziej szczegółowej kategorii w drzewie: Dom i Ogród > Meble > Meble dla dzieci > Regały."
+    },
+    {
+        "ID_Produktu": "242637877",
+        "Nazwa_Produktu": "Lampa LED bezprzewodowa USB C lampka nocna vintage",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wolnostojąca, dekoracyjna lampa bezprzewodowa o wysokości 38 cm, określona jako lampka nocna i stołowa w stylu vintage, co najlepiej pasuje do kategorii 'Lampy stołowe' (3866) w sekcji Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242637906",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu trójdzielny 227x178 pulpa 50sz",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe pojemniki do zgrzewu wykonane z pulpy trzciny cukrowej, które są typowym asortymentem używanym w profesjonalnej gastronomii i cateringu. Kategoria 'Pojemniki gastronomiczne' (ID: 5076) w sekcji 'Firma i Przemysł' najlepiej odzwierciedla przeznaczenie towaru sprzedawanego w pakietach (50 sztuk)."
     }
 ]
