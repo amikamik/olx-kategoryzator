@@ -858,5 +858,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to łańcuch lampek LED, który w drzewie kategorii OLX najlepiej odpowiada kategorii 'Girlandy świetlne' w sekcji 'Oświetlenie'. Jest to najbardziej precyzyjna kategoria dla dekoracyjnych sznurów świetlnych, niezależnie od okazji (choinka, taras, ogród)."
+    },
+    {
+        "ID_Produktu": "242637154",
+        "Nazwa_Produktu": "Lampki dekoracyjne 240 LED 24m Ciepła biel",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 24-metrowy sznur lampek dekoracyjnych LED (tzw. druciki), co bezpośrednio odpowiada kategorii 'Girlandy świetlne'. Choć opis wspomina o ogrodzie, tego typu oświetlenie dekoracyjne na kablu/drucie jest klasyfikowane w oświetleniu domowym jako girlandy."
+    },
+    {
+        "ID_Produktu": "242637159",
+        "Nazwa_Produktu": "Lampki Girlanda Kurtyna Gwiazdki LED Biały Ciepły",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kurtyna świetlna LED, która wprost odpowiada kategorii 'Girlandy świetlne' (3847) znajdującej się w sekcji 'Oświetlenie'. Jest to najbardziej precyzyjne dopasowanie pod względem technicznym i funkcjonalnym dla lamp dekoracyjnych w tej formie."
+    },
+    {
+        "ID_Produktu": "242637212",
+        "Nazwa_Produktu": "Taśma Led 10m zestaw z pilotem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Taśmy LED",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Taśmy LED",
+        "Finalne_ID_AI": 3853,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw taśmy LED z pilotem przeznaczony do oświetlenia dekoracyjnego wewnątrz pomieszczeń, co idealnie pasuje do kategorii liścia 'Taśmy LED'."
+    },
+    {
+        "ID_Produktu": "242637241",
+        "Nazwa_Produktu": "Pokrywa Stalowa 1/3 do Bemarów Zestaw 2 szt",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do kuchni",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywa w standardzie GN (Gastro Norm) 1/3, co jest profesjonalnym systemem wymiarowania stosowanym w gastronomii. Choć może być używany w domu, jego główne przeznaczenie to bemary i profesjonalne pojemniki gastronomiczne."
+    },
+    {
+        "ID_Produktu": "242637247",
+        "Nazwa_Produktu": "Narzędzia Ogrodnicze Przyrządy do Sadzenia Ogrodu",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw mieszanych narzędzi ręcznych do ogrodu (kielnie/łopatki oraz sekator). W gałęzi 'Narzędzia ogrodnicze' nie ma dedykowanej kategorii dla zestawów do sadzenia lub łopatek, dlatego kategoria 'Pozostałe' (ID: 2886) jest najbardziej specyficznym liściem dla tego typu asortymentu."
     }
 ]
