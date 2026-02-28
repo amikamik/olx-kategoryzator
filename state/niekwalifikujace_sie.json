@@ -3148,5 +3148,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to tacka/doniczka do wysadzania kiełków i nasion, pełniąca funkcję mini szklarni. Jej opis wyraźnie wskazuje na zastosowanie w uprawie roślin, a nie na cel dekoracyjny. Kategoria 'Donice' w dziale 'Ogród' jest najbardziej adekwatna do funkcjonalnego pojemnika do sadzenia, pomimo, że jest kategorią na poziomie wyżej niż 'Doniczki i osłonki' z działu 'Dekoracje', która byłaby nieprecyzyjna ze względu na funkcjonalność produktu."
+    },
+    {
+        "ID_Produktu": "242634390",
+        "Nazwa_Produktu": "Akcesoria Do Grillowania 20 Szt. W Etui",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na akcesoria do grillowania. Kategoria 'Grill' jest najbardziej szczegółową i trafioną kategorią dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "242634399",
+        "Nazwa_Produktu": "Mata Do Szuflad 150X45Cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Maty edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mata do szuflad, która jest akcesorium meblowym. Kategoria 'Akcesoria meblowe' (1950) pod 'Dom i Ogród > Meble' jest najbardziej szczegółową i precyzyjną kategorią dla tego typu produktu. Wskazówka systemowa 'Dla Dzieci > Akcesoria dla niemowląt > Maty edukacyjne' jest całkowicie nieprawidłowa i została zignorowana."
     }
 ]
