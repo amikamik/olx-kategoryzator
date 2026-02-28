@@ -1398,5 +1398,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to uchwyty do mebli (drzwi, szuflad, szafek), co idealnie pasuje do kategorii 'Akcesoria meblowe'. Opis podkreśla ich zastosowanie w domu lub biurze, co jest zgodne z nadrzędną kategorią 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "242633517",
+        "Nazwa_Produktu": "Cena na rolce mała 5szt",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Dla dzieci",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to etykiety samoprzylepne na rolce, które są typowymi akcesoriami i materiałami biurowymi lub sklepowymi. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i precyzyjna dla tego typu produktu."
     }
 ]
