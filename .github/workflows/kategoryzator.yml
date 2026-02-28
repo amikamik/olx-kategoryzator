@@ -61,7 +61,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 🗑️ Reset plików state (opcjonalnie)
+      - name: � Pobierz wspólny state z deal-shared-state
+        run: |
+          echo "📥 Pobieram wspólny state z gałęzi deal-shared-state..."
+          git fetch origin deal-shared-state
+          git checkout origin/deal-shared-state -- state/ || echo "⚠️ Brak state na deal-shared-state, używam lokalnego"
+          echo "📋 Wspólny state pobrany:"
+          for f in state/*.json; do
+            if [ -f "$f" ]; then
+              COUNT=$(python3 -c "import json; d=json.load(open('$f')); print(len(d))" 2>/dev/null || echo "?")
+              echo "  $(basename $f): $COUNT elementów"
+            fi
+          done
+
+      - name: �🗑️ Reset plików state (opcjonalnie)
         if: ${{ inputs.reset_state == true }}
         run: |
           echo "Czyszczenie plików state..."
@@ -146,6 +159,9 @@ jobs:
 
           # BaseLinker (do pobierania feedu Deal)
           BASELINKER_TOKEN = "${{ secrets.BASELINKER_TOKEN }}"
+
+          # Dedykowane konto BL z pełnym feedem Deal (bez limitu 1000)
+          BASELINKER_TOKEN_FEED = "${{ secrets.BASELINKER_TOKEN_FEED }}"
           EOF
         env:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
@@ -177,6 +193,7 @@ jobs:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           BASELINKER_TOKEN: ${{ secrets.BASELINKER_TOKEN }}
+          BASELINKER_TOKEN_FEED: ${{ secrets.BASELINKER_TOKEN_FEED }}
           MAX_RUNTIME_MINUTES: "350"
 
       - name: 💽 Zapisz zaktualizowane pliki state i raport
@@ -194,6 +211,76 @@ jobs:
           else
             echo "ℹ️  Brak zmian w plikach"
           fi
+
+      - name: 📤 Wypchnij state na deal-shared-state
+        if: always()
+        run: |
+          echo "📤 Aktualizuję wspólny state na deal-shared-state..."
+          CURRENT_BRANCH=$(git branch --show-current)
+          
+          # Zapisz aktualny state do tmp
+          mkdir -p /tmp/shared_state
+          cp state/*.json /tmp/shared_state/ 2>/dev/null || true
+          
+          # Checkout deal-shared-state
+          git fetch origin deal-shared-state
+          git checkout deal-shared-state 2>/dev/null || git checkout -b deal-shared-state origin/deal-shared-state
+          
+          # Merguj state (Python merge — nie nadpisuj, merguj listy i dict)
+          python3 -c "
+          import json, os, glob
+          for src in glob.glob('/tmp/shared_state/*.json'):
+              fname = os.path.basename(src)
+              dst = f'state/{fname}'
+              try:
+                  with open(src, 'r') as f:
+                      new_data = json.load(f)
+              except: continue
+              try:
+                  with open(dst, 'r') as f:
+                      old_data = json.load(f)
+              except: old_data = type(new_data)()
+              
+              if isinstance(new_data, dict) and isinstance(old_data, dict):
+                  old_data.update(new_data)
+                  merged = old_data
+              elif isinstance(new_data, list) and isinstance(old_data, list):
+                  seen = set()
+                  merged = []
+                  for item in old_data + new_data:
+                      key = json.dumps(item, sort_keys=True) if isinstance(item, dict) else str(item)
+                      if key not in seen:
+                          seen.add(key)
+                          merged.append(item)
+              else:
+                  merged = new_data
+              
+              with open(dst, 'w') as f:
+                  json.dump(merged, f, indent=4, ensure_ascii=False)
+              print(f'  {fname}: {len(merged)} elementów')
+          "
+          
+          git add state/*.json
+          if ! git diff --staged --quiet; then
+            git commit -m "AUTO: Shared state update from ${{ github.ref_name }} - $(date '+%Y-%m-%d %H:%M:%S')"
+            
+            # Retry push (na wypadek równoległego zapisu z innej gałęzi)
+            for i in 1 2 3; do
+              if git push origin deal-shared-state; then
+                echo "✅ Wspólny state zaktualizowany (próba $i)"
+                break
+              else
+                echo "⚠️ Push failed, retry $i/3..."
+                git pull --rebase origin deal-shared-state
+                sleep $((i * 5))
+              fi
+            done
+          else
+            echo "ℹ️  Brak zmian w wspólnym state"
+          fi
+          
+          # Wróć na oryginalną gałąź
+          git checkout "$CURRENT_BRANCH"
 
       - name: 🔄 Auto-restart jeśli osiągnięto limit czasu
         if: always()
