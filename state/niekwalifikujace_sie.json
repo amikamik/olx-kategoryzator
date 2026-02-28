@@ -98,5 +98,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe przeznaczone do użytku profesjonalnego w branży gastronomicznej (restauracje, food trucki). Najdokładniejszą kategorią dla tego typu zaopatrzenia firm jest 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242632348",
+        "Nazwa_Produktu": "Hydong Kinkiet Wewnętrzny Kinkiet Led 8W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalne_ID_AI": 3863,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest jednoznacznie opisany jako kinkiet ścienny LED, co bezpośrednio odpowiada kategorii liścia 'Kinkiety' w sekcji oświetlenia domowego."
+    },
+    {
+        "ID_Produktu": "242632449",
+        "Nazwa_Produktu": "Pojemnik z zespoloną pokrywką 500ml PP 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe pojemniki octagonalne sprzedawane w pakiecie hurtowym (50 szt.), co w połączeniu z informacją o opłacie SUP (Single Use Plastics) oraz przeznaczeniu do transportu i pakowania dań, klasyfikuje go jako asortyment profesjonalny dla gastronomii i cateringu."
+    },
+    {
+        "ID_Produktu": "242632546",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 1 L F338 OPS 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw 50 sztuk jednorazowych pojemników z tworzywa OPS, przeznaczony do profesjonalnego pakowania i transportu żywności. Opis uwzględniający opłatę SUP (Single Use Plastics) oraz kwestie dalszej odsprzedaży jednoznacznie wskazuje na kategorię wyposażenia gastronomicznego (B2B)."
+    },
+    {
+        "ID_Produktu": "242632555",
+        "Nazwa_Produktu": "Opakowania na frytki 70x70x75/120 + dip 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania tekturowe przeznaczone do serwowania żywności w punktach gastronomicznych (food trucki, bary). Najbardziej precyzyjną kategorią w sekcji gastronomicznej dla tego typu artykułów są 'Pojemniki gastronomiczne', które obejmują wszelkiego rodzaju naczynia i zasobniki do przechowywania oraz wydawania posiłków."
+    },
+    {
+        "ID_Produktu": "242632745",
+        "Nazwa_Produktu": "Opakowanie  na zapiekanki 370x120x45mm 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hurtowe opakowania jednorazowe przeznaczone dla sektora gastronomicznego (restauracje, bary, food trucki) do pakowania dań na wynos, co idealnie wpisuje się w kategorię 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
     }
 ]
