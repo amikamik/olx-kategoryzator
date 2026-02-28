@@ -1368,5 +1368,62 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242634502",
+        "Nazwa_Produktu": "Vileda Wiadro z wyciskaczem do mopa 1 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wiadro z wyciskaczem do mopa, które jest akcesorium do sprzątania. Najbardziej szczegółową i pasującą kategorią jest 'Dom i Ogród > Supermarket > Środki czyszczące', co pokrywa się również z sugestią systemu OLX.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda wiadro z wyciskaczem do mopa 1 szt",
+                "description": "Vileda Wiadro z wyciskaczem do mopa 1 szt Wiadro z wyciskaczem do mopa Super Wiadro to wiadro Viledy dedykowane do mopów paskowych czy sznurkowych. Konstrukcja sita wyżyma mop od samej jego nasady, dzięki czemu podłoga po myciu schnie bardzo szybko. 10 l pojemności Specjalny uchwyt na drążek Trwałe, wysokiej jakości tworzywo Elastyczne unowocześnione sito, chwytające mopa od samej jego nasady Wymiary wiadra : długość 38 cm szerokość 30 cm wysokość 29/32 cm z sitem Cena za opakowanie 1 szt. Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 68.56,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/e6bb9d83fe2cafece83fcd0ebd63b366.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

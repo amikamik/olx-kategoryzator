@@ -2471,5 +2471,18 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "242634507",
+        "Nazwa_Produktu": "Zestaw Solniczka Stołowa 130 Ml + Kryształowa Cuki",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare szkło",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Pozostałe",
+        "Finalne_ID_AI": 2155,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw składający się z solniczki i cukiernicy, wykonanych z kryształu. Jest przeznaczony do użytku w kuchni i do serwowania na stole. Najlepiej pasuje do kategorii 'Zastawa stołowa', a ponieważ nie ma jednej konkretnej kategorii-liścia obejmującej oba te przedmioty jako zestaw, 'Pozostałe' w ramach 'Zastawa stołowa' jest najbardziej adekwatne. Opis nie wskazuje na charakter antyczny, a raczej na estetyczny i użytkowy.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]
