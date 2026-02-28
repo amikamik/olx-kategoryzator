@@ -218,5 +218,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to specjalistyczne opakowanie tekturowe przeznaczone do użytku profesjonalnego w branży gastronomicznej (restauracje, food trucki), sprzedawane w ilościach hurtowych (100 sztuk), co kwalifikuje go do kategorii pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242633832",
+        "Nazwa_Produktu": "Lunch box 1600ml 20x14x6,5cm kraft 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania papierowe typu lunch box przeznaczone do dań na wynos, sprzedawane w ilości hurtowej (50 sztuk), co jednoznacznie wskazuje na kategorię pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242634032",
+        "Nazwa_Produktu": "Pojemnik sałatkowy 750ml 175 pokrywka SLR750C 50 SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw 50 sztuk jednorazowych pojemników (opakowań) z uwzględnioną opłatą SUP, co wskazuje na przeznaczenie dla branży gastronomicznej i handlowej w kategorii Firma i Przemysł."
     }
 ]
