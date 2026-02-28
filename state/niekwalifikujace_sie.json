@@ -3418,5 +3418,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na lampę sufitową typu 'plafon', co idealnie pasuje do kategorii 'Plafony'."
+    },
+    {
+        "ID_Produktu": "242634720",
+        "Nazwa_Produktu": "Taśma Dwustronna 3Cm Niebrudząca 2 Szt Zmywalna",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma dwustronna, która jest typowym akcesorium biurowym. Opis produktu jasno wskazuje na zastosowanie w \"biurze\" (oraz w kuchni, łazience, salonie, samochodzie), a kategoria \"Firma i Przemysł > Biuro > Akcesoria i materiały biurowe\" jest najbardziej szczegółową i trafioną kategorią dla tego typu przedmiotu."
+    },
+    {
+        "ID_Produktu": "242634721",
+        "Nazwa_Produktu": "Ochronne Naklejki Na Sutki 20 Szt. 10 Par",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Moda > Bielizna damska > Pozostałe",
+        "Finalne_ID_AI": 2672,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ochronne naklejki na sutki, które pełnią funkcję zakrywającą i ochronną pod ubraniem. Najlepiej pasującą kategorią jest 'Moda', a następnie 'Bielizna damska', ponieważ jest to element intymnej garderoby. Ponieważ nie ma bardziej szczegółowej kategorii, 'Pozostałe' w ramach bielizny damskiej jest najbardziej odpowiednie."
+    },
+    {
+        "ID_Produktu": "242634722",
+        "Nazwa_Produktu": "Płócienna, Kobieca Torba Na Ramię Czarna W Kratkę",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby na ramię",
+        "Finalne_ID_AI": 2758,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje, że jest to 'Torba Na Ramię'. Kategoria 'Torby na ramię' (ID: 2758) jest najbardziej szczegółowa i bezpośrednio pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "242634725",
+        "Nazwa_Produktu": "Białe Wieszaki Na Nakrycia Głowy 10Szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wieszaki na nakrycia głowy, co jest bezpośrednim dopasowaniem do kategorii 'Wieszaki' znajdującej się w ścieżce Dom i Ogród > Meble."
+    },
+    {
+        "ID_Produktu": "242634726",
+        "Nazwa_Produktu": "Haczyki wieszaki Zestaw 3 sztuki czarne",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje na 'Haczyki wieszaki', a opis potwierdza ich przeznaczenie jako ścienne wieszaki na różne przedmioty w kuchni i łazience. Kategoria 'Wieszaki' (ID 1948) jest najbardziej szczegółową i najlepiej pasującą kategorią-liściem z drzewa, znajdującą się pod 'Dom i Ogród > Meble', co idealnie odzwierciedla charakter produktu."
+    },
+    {
+        "ID_Produktu": "242634737",
+        "Nazwa_Produktu": "Haczyki Wieszak Na Zagłówek Fotela Do Samochodu 12",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki",
+        "Finalne_ID_AI": 4506,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to haczyki/wieszaki przeznaczone do zagłówków foteli samochodowych, co idealnie pasuje do kategorii 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Uchwyty, wieszaki'."
     }
 ]

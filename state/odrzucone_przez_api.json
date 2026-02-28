@@ -1480,5 +1480,60 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242634713",
+        "Nazwa_Produktu": "Gafild Detektor Dymu Czujka Pożarowa 1 Szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Zabezpieczenia i rozdzielnice",
+        "Finalne_ID_AI": 3211,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to detektor dymu, czyli element zabezpieczający instalację elektryczną oraz budynek przed pożarem. Najlepiej pasuje do kategorii 'Zabezpieczenia i rozdzielnice' w ramach 'Dom i Ogród > Budowa > Instalacje > Elektryka'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gafild detektor dymu czujka pożarowa 1 szt",
+                "description": "Gafild detektor dymu czujka pożarowa 1 szt. Gafild czujka dymu, czujka pożarowa, czujnik fotoelektryczny, wymienna bateria, łatwa instalacja, test samochodowy, zgodny z EN14604 i TV. Marka Gafild Styl Klasyczny Źródło prądu Zasilany bateryjnie Alarm Słyszalny. Czułe i inteligentne: fotoelektryczne czujki dymu są na ogół skuteczniejsze w wykrywaniu wolno tlących się pożarów i wykorzystują najnowszą technologię czujników. Czujka ta reaguje szybciej na niebezpieczny dym niż konwencjonalne czujki dymu i jednocześnie zmniejsza liczbę fałszywych alarmów. Wymienna bateria i autotest: zasilanie czujki dymu dwoma bateriami AAA. W przypadku wystąpienia usterki lub niskiego poziomu naładowania baterii zostaniesz o tym natychmiast powiadomiony, abyś mógł szybko zidentyfikować i wymienić baterię. Nie zawiera baterii Przycisk łatwego testu / wyciszenia: za pomocą dużego przycisku testu / wyciszenia można co tydzień testować alarm i po prostu wyciszyć alarm, jeśli wystąpią fałszywe alarmy. Ze względu na awarie i ostrzeżenia o niskim poziomie naładowania baterii można łatwo wykryć stan działania alarmu. Niezwykle głośny alarm: ta czujka dymu ma różne parametry samokontroli z wyraźnymi powiadomieniami. Po uruchomieniu alarmu przeciwpożarowego są natychmiast powiadamiani głośnym alarmem o natężeniu powyżej 85 dB i szybko migającym wyświetlaczem LED, co daje dodatkowy czas na opanowanie pożaru lub bezpieczną ucieczkę. Łatwa instalacja i niezawodność: czujkę dymu można dyskretnie zainstalować w dowolnym miejscu. Detektor dymu można łatwo przymocować do dowolnej ściany lub sufitu za pomocą dołączonych śrub. Posiada certyfikat TV i jest zgodny z normą EN 14604 oraz oferuje najwyższy poziom bezpieczeństwa i niezawodności. Gafild czujka dymu, czujka pożarowa, czujnik fotoelektryczny, wymienna bateria\n\n[DEAL-BLB2B]",
+                "category_id": 3211,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 69.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/1732edb2d1bc45a053eeccd83383fd55.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/aa2b7f1f9e45b091c1ec0d3e88d44684.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
