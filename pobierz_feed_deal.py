@@ -15,7 +15,8 @@ Workflow:
 Token do tego konta: zmienna środowiskowa BASELINKER_TOKEN_DOFIRMY
 (osobny od BASELINKER_TOKEN używanego do operacji OLX na głównym koncie)
 
-UWAGA: Produkty DoFirmy NIE mają na razie danych GPSR.
+Produkty DoFirmy mogą zawierać dane GPSR w polach features (GPSR - Producent:, GPSR - Adres: itd.).
+Te dane są eksportowane do XML feedu w sekcji <gpsr> oraz marka w <brand>.
 """
 
 import xml.etree.ElementTree as ET
@@ -236,6 +237,24 @@ def pobierz_dane_produktow(token, product_ids):
             sku = pdata.get("sku", "").strip()
             ean = pdata.get("ean", "").strip()
             
+            # === Marka i GPSR z features ===
+            features = text_fields.get("features", {})
+            brand = features.get("Marka", "").strip()
+            
+            gpsr_data = {}
+            gpsr_keys_map = {
+                "GPSR - Producent:": "producent",
+                "GPSR - Adres:": "adres",
+                "GPSR - Kod pocztowy:": "kod_pocztowy",
+                "GPSR - Miasto:": "miasto",
+                "GPSR - E-mail:": "email",
+                "GPSR - Kraj:": "kraj",
+            }
+            for bl_key, xml_key in gpsr_keys_map.items():
+                val = features.get(bl_key, "").strip()
+                if val:
+                    gpsr_data[xml_key] = val
+            
             # === Zapisz produkt Deal ===
             deal_products[pid] = {
                 'id': pid,
@@ -246,6 +265,8 @@ def pobierz_dane_produktow(token, product_ids):
                 'images': image_urls,
                 'sku': sku,
                 'ean': ean,
+                'brand': brand,
+                'gpsr': gpsr_data,
             }
             stats['deal'] += 1
         
@@ -272,6 +293,15 @@ def generuj_xml_feed(products, output_file):
         <o id="PID" price="PRICE" stock="STOCK">
           <name>NAME</name>
           <desc>DESCRIPTION</desc>
+          <brand>MARKA</brand>
+          <gpsr>
+            <producent>...</producent>
+            <adres>...</adres>
+            <kod_pocztowy>...</kod_pocztowy>
+            <miasto>...</miasto>
+            <email>...</email>
+            <kraj>...</kraj>
+          </gpsr>
           <imgs>
             <main url="IMG_URL"/>
             <i url="IMG_URL"/>
@@ -304,6 +334,21 @@ def generuj_xml_feed(products, output_file):
         # Opis (fallback na nazwę jeśli brak opisu)
         desc_elem = ET.SubElement(o, 'desc')
         desc_elem.text = product['description'] if product['description'] else product['name']
+        
+        # Marka
+        if product.get('brand'):
+            brand_elem = ET.SubElement(o, 'brand')
+            brand_elem.text = product['brand']
+        
+        # GPSR (dane producenta z BaseLinker features)
+        gpsr = product.get('gpsr', {})
+        if gpsr:
+            gpsr_elem = ET.SubElement(o, 'gpsr')
+            for gpsr_key in ['producent', 'adres', 'kod_pocztowy', 'miasto', 'email', 'kraj']:
+                val = gpsr.get(gpsr_key, '')
+                if val:
+                    sub = ET.SubElement(gpsr_elem, gpsr_key)
+                    sub.text = val
         
         # Zdjęcia
         if product['images']:
@@ -388,8 +433,13 @@ def main():
         print("=" * 60)
         print(f"\nGotowy feed: {OUTPUT_FEED}")
         print(f"Produktów w feedzie: {len(deal_products)}")
-        print(f"\n⚠️  UWAGA: Produkty Deal NIE mają danych GPSR!")
-        print(f"   Produkty opublikowane bez GPSR będą śledzone w state/bez_gpsr.json")
+        
+        # Statystyki GPSR
+        gpsr_count = sum(1 for p in deal_products.values() if p.get('gpsr'))
+        no_gpsr_count = len(deal_products) - gpsr_count
+        brand_count = sum(1 for p in deal_products.values() if p.get('brand'))
+        print(f"\n📋 GPSR: {gpsr_count} produktów z danymi GPSR w feedzie, {no_gpsr_count} bez GPSR")
+        print(f"   Marka: {brand_count} produktów z marką (do fallback GPSR ze słownika)")
         print()
         
         return True

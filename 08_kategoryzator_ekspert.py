@@ -5,9 +5,11 @@ Analogiczny do wersji z gałęzi przemyslowa-cache-nowa-najnowsza.
 KLUCZOWE RÓŻNICE vs gałąź przemyslowa:
 - Feed pobierany z BaseLinker API (nie z URL hurtowni)
 - --refresh-feed wywołuje pobierz_feed_deal.main() zamiast aktualizuj_feed_gpsr.main()
-- Brak danych GPSR (produkty DoFirmy nie mają jeszcze GPSR)
-- Produkty bez GPSR są śledzone w state/bez_gpsr.json
-- Mapowanie zawiera gpsr_status: "missing" dla przyszłej aktualizacji
+- GPSR: dane z BL features (priorytet) lub słownik fallback (z "Dane producentów.pdf")
+- Produkty bez GPSR dostają marker [dofirmy-n], z GPSR → [DOFIRMY]
+- Tytuł: max 70 znaków (prosta obcięcie)
+- Opis: czyszczenie znaków specjalnych (wyczysc_opis_dla_olx)
+- Mapowanie zawiera gpsr_status dla przyszłej identyfikacji
 """
 
 import xml.etree.ElementTree as ET
@@ -234,21 +236,15 @@ def clean_html(raw_html):
     clean_text = re.sub('<[^<]+?>', ' ', raw_html)
     return " ".join(clean_text.split())
 
-def skroc_tytul(tytul, max_dlugosc=69):
+def skroc_tytul(tytul, max_dlugosc=70):
     """
     Skraca tytuł do maksymalnie max_dlugosc znaków.
-    Nie ucina w połowie słowa - szuka ostatniej spacji.
+    Prosta metoda: obcina końcówkę dokładnie na 70 znakach.
     """
     if not tytul or len(tytul) <= max_dlugosc:
         return tytul
     
-    skrocony = tytul[:max_dlugosc]
-    ostatnia_spacja = skrocony.rfind(' ')
-    
-    if ostatnia_spacja > max_dlugosc // 2:
-        return skrocony[:ostatnia_spacja].rstrip()
-    else:
-        return skrocony.rstrip()
+    return tytul[:max_dlugosc]
 
 def wyczysc_opis_dla_olx(opis):
     """
@@ -459,19 +455,138 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
 # ==============================================================================
 # ======================== GPSR - DOFIRMY.PL ==================================
 # ==============================================================================
-# UWAGA: Produkty DoFirmy NIE mają danych GPSR.
-# Poniższe funkcje są zachowane dla kompatybilności ze strukturą kodu,
-# ale zawsze zwracają None/puste wyniki.
-# Produkty opublikowane bez GPSR są śledzone w state/bez_gpsr.json
+# Dane GPSR producenta mogą pochodzić z dwóch źródeł:
+# 1. Pola GPSR w features BaseLinker (eksportowane do XML w sekcji <gpsr>)
+# 2. Słownik fallback na podstawie marki (z "Dane producentów.pdf")
+# Jeśli brak danych GPSR → marker [dofirmy-n] zamiast [DOFIRMY]
 
-# Pusty słownik producentów (DoFirmy nie ma danych GPSR)
-RESPONSIBLE_PRODUCERS = {}
+# Słownik fallback producentów GPSR (z "Dane producentów.pdf" od DoFirmy.pl)
+# Używany gdy produkt NIE ma pól GPSR w features BaseLinker
+GPSR_FALLBACK = {
+    "LEGO": {"producent": "LEGO Polska Sp. z o.o.", "adres": "ul. Wołoska 22A", "kod_pocztowy": "02-675", "miasto": "Warszawa", "email": "kontakt@lego.com", "kraj": "Polska"},
+    "PAKO": {"producent": "PAKO GROUP PATRYK KOZIŃSKI", "adres": "ul. Bajkowa 2", "kod_pocztowy": "75-710", "miasto": "Koszalin", "email": "biuro@pakogroul.pl", "kraj": "Polska"},
+    "BISPOL": {"producent": "BISPOL Sp. z o.o.", "adres": "Głuchów 573", "kod_pocztowy": "37-100", "miasto": "Łańcut", "email": "bispol@bispol.pl", "kraj": "Polska"},
+    "AURA": {"producent": "BISPOL Sp. z o.o.", "adres": "Głuchów 573", "kod_pocztowy": "37-100", "miasto": "Łańcut", "email": "bispol@bispol.pl", "kraj": "Polska"},
+    "VALPE": {"producent": "BISPOL Sp. z o.o.", "adres": "Głuchów 573", "kod_pocztowy": "37-100", "miasto": "Łańcut", "email": "bispol@bispol.pl", "kraj": "Polska"},
+    "REIS": {"producent": "RAW-POL", "adres": "Julianów 50", "kod_pocztowy": "96-200", "miasto": "Julianów", "email": "kontakt@rawpol.com", "kraj": "Polska"},
+    "DRAGON": {"producent": "RAW-POL", "adres": "Julianów 50", "kod_pocztowy": "96-200", "miasto": "Julianów", "email": "kontakt@rawpol.com", "kraj": "Polska"},
+    "Kret": {"producent": "DR. MIELE COSMED GROUP S.A.", "adres": "ul. Kuziennicza 15", "kod_pocztowy": "59-400", "miasto": "Jawor", "email": "sekretariat@dr-miele.eu", "kraj": "Polska"},
+    "SŁONIK": {"producent": "Private Label Tissue Sp. z o.o.", "adres": "ul. Mszczonowska 36", "kod_pocztowy": "96-200", "miasto": "Rawa Mazowiecka", "email": "biuro@pltissue.pl", "kraj": "Polska"},
+    "MIŚKI": {"producent": "Private Label Tissue Sp. z o.o.", "adres": "ul. Mszczonowska 36", "kod_pocztowy": "96-200", "miasto": "Rawa Mazowiecka", "email": "biuro@pltissue.pl", "kraj": "Polska"},
+    "Lenor": {"producent": "Procter & Gamble Polska Sp. z o.o.", "adres": "Zabraniecka 20", "kod_pocztowy": "03-872", "miasto": "Warszawa", "email": "kontakt@pg.com", "kraj": "Polska"},
+    "Iso Trade": {"producent": "Iso Trade Spółka z o.o.", "adres": "ul. Hangarowa 15", "kod_pocztowy": "59-220", "miasto": "Legnica", "email": "info@iso-trade.eu", "kraj": "Polska"},
+    "VDO": {"producent": "Continental Aftermarket & Services GmbH", "adres": "Sodener Str. 9", "kod_pocztowy": "65824", "miasto": "Schwalbach am Taunus", "email": "info@continental-aftermarket.com", "kraj": "Niemcy"},
+    "Velvet": {"producent": "Velvet CARE sp. z o.o.", "adres": "ul. Złota 59", "kod_pocztowy": "00-120", "miasto": "Warszawa", "email": "kontakt@velvetcare.com", "kraj": "Polska"},
+    "MESKO": {"producent": "FOX Sp. z o.o.", "adres": "ul. Ordona 2A", "kod_pocztowy": "01-237", "miasto": "Warszawa", "email": "biuro@adler.com.pl", "kraj": "Polska"},
+    "GOODRAM": {"producent": "Wilk Elektronik SA", "adres": "ul. Mikołowska 42", "kod_pocztowy": "43-173", "miasto": "Łaziska Górne", "email": "kontakt@goodram.com", "kraj": "Polska"},
+    "FOXY": {"producent": "ICT Poland Sp. z o.o.", "adres": "ul. Wloska 3", "kod_pocztowy": "66-470", "miasto": "Kostrzyn N/Odra", "email": "recepcja@ictpl.eu", "kraj": "Polska"},
+    "Foxy": {"producent": "ICT Poland Sp. z o.o.", "adres": "ul. Wloska 3", "kod_pocztowy": "66-470", "miasto": "Kostrzyn N/Odra", "email": "recepcja@ictpl.eu", "kraj": "Polska"},
+    "Bros": {"producent": "Bros Sp. z o.o.", "adres": "Karpia 24", "kod_pocztowy": "61-619", "miasto": "Poznań", "email": "biuro@bros.pl", "kraj": "Polska"},
+    "Happs": {"producent": "Bros Sp. z o.o.", "adres": "Karpia 24", "kod_pocztowy": "61-619", "miasto": "Poznań", "email": "biuro@bros.pl", "kraj": "Polska"},
+    "PK-MOT": {"producent": "ZAKŁAD PRODUKCYJNO-HANDLOWY PK-MOT", "adres": "ul. Tadeusza Kościuszki 151", "kod_pocztowy": "07-100", "miasto": "Węgrów", "email": "biuro@pk-mot.pl", "kraj": "Polska"},
+    "Pk-Mot": {"producent": "ZAKŁAD PRODUKCYJNO-HANDLOWY PK-MOT", "adres": "ul. Tadeusza Kościuszki 151", "kod_pocztowy": "07-100", "miasto": "Węgrów", "email": "biuro@pk-mot.pl", "kraj": "Polska"},
+    "VERK": {"producent": "VERK GROUP", "adres": "Wygody 16", "kod_pocztowy": "05-090", "miasto": "Podolszyn Nowy", "email": "kontakt@verk.sklep.pl", "kraj": "Polska"},
+    "VILEDA": {"producent": "FHP Vileda Sp. z o.o.", "adres": "Puławska 182", "kod_pocztowy": "02-670", "miasto": "Warszawa", "email": "biuro.pl@fhp-ww.com", "kraj": "Polska"},
+    "Vileda": {"producent": "FHP Vileda Sp. z o.o.", "adres": "Puławska 182", "kod_pocztowy": "02-670", "miasto": "Warszawa", "email": "biuro.pl@fhp-ww.com", "kraj": "Polska"},
+    "Vileda Professional": {"producent": "FHP Vileda Sp. z o.o.", "adres": "Puławska 182", "kod_pocztowy": "02-670", "miasto": "Warszawa", "email": "biuro.pl@fhp-ww.com", "kraj": "Polska"},
+    "VILEDA PROFESSIONAL": {"producent": "FHP Vileda Sp. z o.o.", "adres": "Puławska 182", "kod_pocztowy": "02-670", "miasto": "Warszawa", "email": "biuro.pl@fhp-ww.com", "kraj": "Polska"},
+    "Mercator Medical": {"producent": "MERCATOR MEDICAL S.A.", "adres": "ul. Heleny Modrzejewskiej 30", "kod_pocztowy": "31-327", "miasto": "Kraków", "email": "recepcja.krakow@pl.mercatormedical.eu", "kraj": "Polska"},
+    "Mercator": {"producent": "MERCATOR MEDICAL S.A.", "adres": "ul. Heleny Modrzejewskiej 30", "kod_pocztowy": "31-327", "miasto": "Kraków", "email": "recepcja.krakow@pl.mercatormedical.eu", "kraj": "Polska"},
+    "Reckitt": {"producent": "Reckitt (Poland) SA", "adres": "ul. Wołoska 22", "kod_pocztowy": "02-675", "miasto": "Warszawa", "email": "ConsumerHealth_PL@reckitt.com", "kraj": "Polska"},
+    "TEKSON": {"producent": "Lontex Group SP. Z O.O.", "adres": "ul. Ligocka 55", "kod_pocztowy": "43-502", "miasto": "Czechowice-Dziedzice", "email": "info@tekson.eu", "kraj": "Polska"},
+    "RAVANSON": {"producent": "RAVANSON LTD Sp. Z o.o.", "adres": "ul. Mazowiecka 6", "kod_pocztowy": "09-100", "miasto": "Płońsk", "email": "kontakt@ravanson.pl", "kraj": "Polska"},
+    "Ravanson": {"producent": "RAVANSON LTD Sp. Z o.o.", "adres": "ul. Mazowiecka 6", "kod_pocztowy": "09-100", "miasto": "Płońsk", "email": "kontakt@ravanson.pl", "kraj": "Polska"},
+    "Unilever": {"producent": "Unilever Polska Sp. z o.o.", "adres": "Al. Jerozolimskie 134", "kod_pocztowy": "02-305", "miasto": "Warszawa", "email": "kontakt@unilever.pl", "kraj": "Polska"},
+    "SMART": {"producent": "Total Market Sp. z o.o.", "adres": "ul. Chełmżyńska 180E", "kod_pocztowy": "04-464", "miasto": "Warszawa", "email": "office@totalmarket.pl", "kraj": "Polska"},
+    "Sarantis": {"producent": "Sarantis Polska S.A.", "adres": "Puławska 42C", "kod_pocztowy": "05-500", "miasto": "Piaseczno", "email": "pl-info@sarantisgroup.com", "kraj": "Polska"},
+    "TENZI": {"producent": "Tenzi Sp. z o.o.", "adres": "Skarbimierzyce 20", "kod_pocztowy": "72-002", "miasto": "Dołuje", "email": "kontakt@tenzi.pl", "kraj": "Polska"},
+    "Tenzi": {"producent": "Tenzi Sp. z o.o.", "adres": "Skarbimierzyce 20", "kod_pocztowy": "72-002", "miasto": "Dołuje", "email": "kontakt@tenzi.pl", "kraj": "Polska"},
+    "Stella": {"producent": "Stella Pack S.A.", "adres": "ul. Krańcowa 67", "kod_pocztowy": "21-100", "miasto": "Lubartów", "email": "info@sarantis.pl", "kraj": "Polska"},
+    "WARMTEC": {"producent": "WARMTEC Sp. z o.o.", "adres": "Al. Jana Pawła II 27", "kod_pocztowy": "00-867", "miasto": "Warszawa", "email": "kontakt@warmtec.pl", "kraj": "Polska"},
+    "Warmtec": {"producent": "WARMTEC Sp. z o.o.", "adres": "Al. Jana Pawła II 27", "kod_pocztowy": "00-867", "miasto": "Warszawa", "email": "kontakt@warmtec.pl", "kraj": "Polska"},
+    "DOLINA NOTECI": {"producent": "DNP Sp. z o.o.", "adres": "Polanowo 27A", "kod_pocztowy": "89-300", "miasto": "Wyrzysk", "email": "kontakt@dolina-noteci.pl", "kraj": "Polska"},
+    "RAFI": {"producent": "DNP Sp. z o.o.", "adres": "Polanowo 27A", "kod_pocztowy": "89-300", "miasto": "Wyrzysk", "email": "kontakt@dolina-noteci.pl", "kraj": "Polska"},
+    "Rafi": {"producent": "DNP Sp. z o.o.", "adres": "Polanowo 27A", "kod_pocztowy": "89-300", "miasto": "Wyrzysk", "email": "kontakt@dolina-noteci.pl", "kraj": "Polska"},
+    # Dodatkowe marki spotykane w feedzie (P&G brands)
+    "Ariel": {"producent": "Procter & Gamble Polska Sp. z o.o.", "adres": "Zabraniecka 20", "kod_pocztowy": "03-872", "miasto": "Warszawa", "email": "kontakt@pg.com", "kraj": "Polska"},
+    "Fairy": {"producent": "Procter & Gamble Polska Sp. z o.o.", "adres": "Zabraniecka 20", "kod_pocztowy": "03-872", "miasto": "Warszawa", "email": "kontakt@pg.com", "kraj": "Polska"},
+    "Coccolino": {"producent": "Unilever Polska Sp. z o.o.", "adres": "Al. Jerozolimskie 134", "kod_pocztowy": "02-305", "miasto": "Warszawa", "email": "kontakt@unilever.pl", "kraj": "Polska"},
+    "Domestos": {"producent": "Unilever Polska Sp. z o.o.", "adres": "Al. Jerozolimskie 134", "kod_pocztowy": "02-305", "miasto": "Warszawa", "email": "kontakt@unilever.pl", "kraj": "Polska"},
+    "Finish": {"producent": "Reckitt (Poland) SA", "adres": "ul. Wołoska 22", "kod_pocztowy": "02-675", "miasto": "Warszawa", "email": "ConsumerHealth_PL@reckitt.com", "kraj": "Polska"},
+    "Vanish": {"producent": "Reckitt (Poland) SA", "adres": "ul. Wołoska 22", "kod_pocztowy": "02-675", "miasto": "Warszawa", "email": "ConsumerHealth_PL@reckitt.com", "kraj": "Polska"},
+    "Duck": {"producent": "Reckitt (Poland) SA", "adres": "ul. Wołoska 22", "kod_pocztowy": "02-675", "miasto": "Warszawa", "email": "ConsumerHealth_PL@reckitt.com", "kraj": "Polska"},
+    "Lovela": {"producent": "Reckitt (Poland) SA", "adres": "ul. Wołoska 22", "kod_pocztowy": "02-675", "miasto": "Warszawa", "email": "ConsumerHealth_PL@reckitt.com", "kraj": "Polska"},
+    "Bryza": {"producent": "Reckitt (Poland) SA", "adres": "ul. Wołoska 22", "kod_pocztowy": "02-675", "miasto": "Warszawa", "email": "ConsumerHealth_PL@reckitt.com", "kraj": "Polska"},
+    "Ogrifox": {"producent": "RAW-POL", "adres": "Julianów 50", "kod_pocztowy": "96-200", "miasto": "Julianów", "email": "kontakt@rawpol.com", "kraj": "Polska"},
+    "Anna Zaradna": {"producent": "Stella Pack S.A.", "adres": "ul. Krańcowa 67", "kod_pocztowy": "21-100", "miasto": "Lubartów", "email": "info@sarantis.pl", "kraj": "Polska"},
+    "Pako": {"producent": "PAKO GROUP PATRYK KOZIŃSKI", "adres": "ul. Bajkowa 2", "kod_pocztowy": "75-710", "miasto": "Koszalin", "email": "biuro@pakogroul.pl", "kraj": "Polska"},
+    "Bispol": {"producent": "BISPOL Sp. z o.o.", "adres": "Głuchów 573", "kod_pocztowy": "37-100", "miasto": "Łańcut", "email": "bispol@bispol.pl", "kraj": "Polska"},
+}
 
-def get_gpsr_text(producer_id):
+
+def get_gpsr_text(produkt):
     """
-    Dla DoFirmy.pl: ZAWSZE zwraca None.
-    Produkty DoFirmy nie mają danych GPSR.
+    Zwraca tekst GPSR producenta dla produktu.
+    
+    Źródła danych GPSR (w kolejności priorytetu):
+    1. Pola GPSR z BaseLinker (eksportowane do XML w sekcji <gpsr>)
+    2. Słownik GPSR_FALLBACK na podstawie marki produktu
+    3. None (brak danych → produkt dostanie marker [dofirmy-n])
+    
+    Email: @ zamieniany na [at]
     """
+    gpsr = produkt.get('gpsr', {})
+    brand = produkt.get('brand', '')
+    
+    # Źródło 1: Dane GPSR z BaseLinker features (z XML)
+    if gpsr and gpsr.get('producent'):
+        producent = gpsr.get('producent', '')
+        adres = gpsr.get('adres', '')
+        kod = gpsr.get('kod_pocztowy', '')
+        miasto = gpsr.get('miasto', '')
+        email = gpsr.get('email', '').replace('@', '[at]')
+        kraj = gpsr.get('kraj', '')
+        
+        lines = ["Producent odpowiedzialny:"]
+        lines.append(producent)
+        if adres:
+            addr_parts = [adres]
+            if kod and miasto:
+                addr_parts.append(f"{kod} {miasto}")
+            elif miasto:
+                addr_parts.append(miasto)
+            lines.append(", ".join(addr_parts))
+        if kraj and kraj != "Polska":
+            lines.append(kraj)
+        if email:
+            lines.append(f"Kontakt: {email}")
+        
+        return "\n".join(lines)
+    
+    # Źródło 2: Słownik fallback na podstawie marki
+    if brand and brand in GPSR_FALLBACK:
+        fb = GPSR_FALLBACK[brand]
+        producent = fb.get('producent', '')
+        adres = fb.get('adres', '')
+        kod = fb.get('kod_pocztowy', '')
+        miasto = fb.get('miasto', '')
+        email = fb.get('email', '').replace('@', '[at]')
+        
+        lines = ["Producent odpowiedzialny:"]
+        lines.append(producent)
+        if adres:
+            addr_parts = [adres]
+            if kod and miasto:
+                addr_parts.append(f"{kod} {miasto}")
+            elif miasto:
+                addr_parts.append(miasto)
+            lines.append(", ".join(addr_parts))
+        if email:
+            lines.append(f"Kontakt: {email}")
+        
+        return "\n".join(lines)
+    
+    # Brak danych GPSR
     return None
 
 def parse_product_feed(file_path, limit):
@@ -506,6 +621,21 @@ def parse_product_feed(file_path, limit):
                         if attr_name and attr_value:
                             attrs_dict[attr_name] = attr_value.strip()
 
+                # Pobieranie marki
+                brand = ''
+                brand_elem = elem.find('brand')
+                if brand_elem is not None and brand_elem.text:
+                    brand = brand_elem.text.strip()
+
+                # Pobieranie danych GPSR z XML
+                gpsr_data = {}
+                gpsr_elem = elem.find('gpsr')
+                if gpsr_elem is not None:
+                    for gpsr_field in ['producent', 'adres', 'kod_pocztowy', 'miasto', 'email', 'kraj']:
+                        sub = gpsr_elem.find(gpsr_field)
+                        if sub is not None and sub.text:
+                            gpsr_data[gpsr_field] = sub.text.strip()
+
                 product_data = {
                     'id': elem.get('id'),
                     'price': elem.get('price'),
@@ -513,7 +643,9 @@ def parse_product_feed(file_path, limit):
                     'description': (elem.find('desc').text or '').strip(),
                     'images': image_urls,
                     'attrs': attrs_dict,
-                    'producer_id': None  # DoFirmy nie ma danych GPSR
+                    'brand': brand,
+                    'gpsr': gpsr_data,
+                    'producer_id': None  # Kompatybilność — nieużywane
                 }
                 products.append(product_data)
                 elem.clear()
@@ -840,22 +972,29 @@ def opublikuj_ogloszenie_na_olx(produkt, kategoria_id, wybrane_atrybuty, wybrane
     Przygotowuje, wysyła ogłoszenie do OLX API i zwraca status operacji.
     Zwraca krotkę: (bool: sukces, dict: wynik_api)
     
-    DOFIRMY: Produkty NIE mają danych GPSR - opis bez sekcji GPSR.
+    DOFIRMY: GPSR z BL features lub słownik fallback.
+    Produkty bez GPSR → marker [dofirmy-n], z GPSR → marker [DOFIRMY].
     """
 
     # Krok 1: Przygotowanie pełnego ładunku (payload)
     base_description = clean_html(produkt.get('description', "Brak opisu"))
     
-    # DOFIRMY: Brak danych GPSR - nie dodajemy sekcji GPSR do opisu
-    # Dodajemy ukryty marker [DOFIRMY] na dole opisu — do identyfikacji przez API w przyszłości
-    DEAL_MARKER = "\n\n[DOFIRMY]"
-    full_description = base_description + DEAL_MARKER
-    print(f"    │  ├─ ⚠️ Produkt DoFirmy - brak danych GPSR (marker [DOFIRMY] dodany do opisu)")
+    # Pobranie tekstu GPSR (z XML lub fallback ze słownika)
+    gpsr_text = get_gpsr_text(produkt)
     
-    # Przygotowanie tytułu (max 69 znaków dla OLX API)
+    if gpsr_text:
+        # Produkt MA dane GPSR → dodaj sekcję GPSR + marker [DOFIRMY]
+        full_description = base_description + "\n\n" + gpsr_text + "\n\n[DOFIRMY]"
+        print(f"    │  ├─ ✅ GPSR dodany do opisu (marka: {produkt.get('brand', '?')})")
+    else:
+        # Produkt NIE MA danych GPSR → marker [dofirmy-n]
+        full_description = base_description + "\n\n[dofirmy-n]"
+        print(f"    │  ├─ ⚠️ Brak danych GPSR - marker [dofirmy-n] (marka: {produkt.get('brand', '?')})")
+    
+    # Przygotowanie tytułu (max 70 znaków dla OLX API)
     tytul_oryginalny = produkt.get('name', "Brak tytułu").capitalize()
-    tytul_skrocony = skroc_tytul(tytul_oryginalny, 69)
-    if len(tytul_oryginalny) > 69:
+    tytul_skrocony = skroc_tytul(tytul_oryginalny, 70)
+    if len(tytul_oryginalny) > 70:
         print(f"    │  ├─ ⚠️ Tytuł skrócony: {len(tytul_oryginalny)} → {len(tytul_skrocony)} znaków")
     
     # Czyszczenie opisu ze znaków specjalnych
@@ -1001,7 +1140,6 @@ def wczytaj_mapping_feed_to_olx(sciezka_pliku):
 def zapisz_mapping_feed_to_olx(feed_id, olx_response, category_id, price, sciezka_pliku):
     """
     Zapisuje mapowanie feed_id → dane z OLX (olx_id, category, price, timestamp).
-    DOFIRMY: Dodaje gpsr_status: "missing" dla przyszłej identyfikacji produktów bez GPSR.
     """
     from datetime import datetime
     
@@ -1016,7 +1154,6 @@ def zapisz_mapping_feed_to_olx(feed_id, olx_response, category_id, price, sciezk
         "published_at": datetime.now().isoformat(),
         "category_id": category_id,
         "price": float(price) if price else None,
-        "gpsr_status": "missing"  # ← DOFIRMY: Produkty bez danych GPSR
     }
     
     with open(sciezka_pliku, 'w', encoding='utf-8') as f:
@@ -1114,7 +1251,8 @@ def main():
     print("#" * 80)
     print("##### START PROCESU KATEGORYZACJI PRODUKTÓW OLX - DEAL BL B2B #####")
     print(f"Dostawca modelu: {config.ACTIVE_LLM_PROVIDER}, Model: {config.GEMINI_MODEL_NAME if config.ACTIVE_LLM_PROVIDER == 'GEMINI' else config.OPENAI_MODEL_NAME}")
-    print("⚠️  UWAGA: Produkty Deal nie mają danych GPSR - będą śledzone w state/bez_gpsr.json")
+    print("📋 GPSR: z BaseLinker features lub słownik fallback (Dane producentów.pdf)")
+    print("   Produkty bez GPSR → marker [dofirmy-n], z GPSR → [DOFIRMY]")
     print("#" * 80)
 
     # --- Monitoring czasu wykonania (dla auto-restart) ---
@@ -1196,9 +1334,10 @@ ZASADY:
             print("⚠️ Cache nie został utworzony - używam standardowego trybu (bez cache)")
             print("="*80 + "\n")
 
-    # --- DEAL: Brak danych GPSR - pominięcie parsowania producentów ---
-    print("⚠️  DEAL BL B2B: Pominięto parsowanie producentów GPSR (dane niedostępne)")
-    print(f"   Produkty bez GPSR będą śledzone w: {os.path.basename(BEZ_GPSR_PLIK)}")
+    # --- GPSR: informacja o źródłach danych ---
+    print("📋 GPSR: dane z XML (BaseLinker features) + słownik fallback")
+    print(f"   Słownik fallback: {len(GPSR_FALLBACK)} marek z 'Dane producentów.pdf'")
+    print(f"   Produkty bez GPSR → {os.path.basename(BEZ_GPSR_PLIK)}")
     
     # --- Parsowanie feedu Deal ---
     wszystkie_produkty = parse_product_feed(XML_FILE, 0)
@@ -1417,11 +1556,16 @@ Przykład odpowiedzi:
                     print(f"└─ ✓ SUKCES - Produkt opublikowany!\n")
                     zapisz_do_pliku_json(product['id'], OPUBLIKOWANE_PLIK)
                     
-                    # Zapisz mapowanie feed_id → olx_id (z gpsr_status: "missing")
+                    # Określ status GPSR
+                    gpsr_text = get_gpsr_text(product)
+                    gpsr_status = "ok" if gpsr_text else "missing"
+                    
+                    # Zapisz mapowanie feed_id → olx_id (z gpsr_status)
                     olx_id = zapisz_mapping_feed_to_olx(product['id'], szczegoly_odpowiedzi, final_id, product['price'], MAPPING_FEED_TO_OLX_PLIK)
                     
-                    # DEAL: Zapisz do listy produktów bez GPSR
-                    zapisz_bez_gpsr(product['id'], olx_id, product['name'], BEZ_GPSR_PLIK)
+                    # Zapisz do listy produktów bez GPSR (tylko jeśli brak GPSR)
+                    if gpsr_status == "missing":
+                        zapisz_bez_gpsr(product['id'], olx_id, product['name'], BEZ_GPSR_PLIK)
                     
                     dodaj_do_przetworzonych(product['id'], PRZETWORZONE_PLIK)
                 else:
