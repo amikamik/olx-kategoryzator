@@ -1658,5 +1658,95 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to emulsja samopołyskowa do pielęgnacji i konserwacji podłóg, co bezpośrednio kwalifikuje go jako 'Środek czyszczący'. Kategoria ta jest liściem i znajduje się w logicznej ścieżce Dom i Ogród > Supermarket."
+    },
+    {
+        "ID_Produktu": "242633818",
+        "Nazwa_Produktu": "Serwetka gastronomiczna 40x40 Royal czarna 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Serwety i serwetki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'serwetka gastronomiczna' z wyraźnym zastosowaniem w gastronomii (restauracje, cukiernie, bary, kawiarnie). Najbardziej odpowiednią kategorią jest 'Firma i Przemysł > Gastronomia', a ponieważ nie ma bardziej szczegółowej kategorii dla serwetek w tym dziale, wybieram 'Pozostałe' w 'Gastronomia'."
+    },
+    {
+        "ID_Produktu": "242633836",
+        "Nazwa_Produktu": "Kalendarz Książkowy A5 2022 Notes Niebieski",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kalendarz książkowy / planer o cechach (wegańska skórzana oprawa, planowanie godzinowe, wysokiej jakości papier) wskazujących na użycie biurowe lub osobiste dla dorosłych, a nie na artykuł szkolny dla dzieci. Najbardziej pasującą kategorią jest 'Akcesoria i materiały biurowe' pod 'Firma i Przemysł > Biuro'."
+    },
+    {
+        "ID_Produktu": "242633847",
+        "Nazwa_Produktu": "Dekoracje ślubne 36 szt. balony baner na zdjęcia",
+        "Poczatkowa_Sciezka_OLX": "Moda > Do ślubu > Akcesoria ślubne > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Do ślubu > Akcesoria ślubne > Pozostałe",
+        "Finalne_ID_AI": 2858,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw dekoracji ślubnych (balony, baner), które najlepiej pasują do kategorii Akcesoria ślubne. Ponieważ nie ma bardziej szczegółowej kategorii dla tego typu dekoracji (balony, banery), wybrana została podkategoria 'Pozostałe' w 'Akcesoria ślubne'."
+    },
+    {
+        "ID_Produktu": "242633851",
+        "Nazwa_Produktu": "Pasek męski nylonowy khaki sz. 3,5 cm dł. 120 cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pasek męski, który idealnie pasuje do kategorii 'Moda > Akcesoria > Paski'. Opis jasno wskazuje na jego funkcję jako dodatku do garderoby, a materiał i wymiary są specyficzne dla tego typu akcesoriów."
+    },
+    {
+        "ID_Produktu": "242633852",
+        "Nazwa_Produktu": "Pasek męski nylonowy khaki sz. 3,5 cm dł. 130 cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na 'Paski' w kategorii 'Moda > Akcesoria'. Jest to kategoria liść i najbardziej szczegółowa."
+    },
+    {
+        "ID_Produktu": "242633853",
+        "Nazwa_Produktu": "Pasek Męski Nylonowy w Kolorze Zielonym 130 cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to męski pasek nylonowy, co idealnie pasuje do kategorii 'Moda > Akcesoria > Paski'. Jest to najbardziej szczegółowa i trafna kategoria dostępna w drzewie."
+    },
+    {
+        "ID_Produktu": "242633855",
+        "Nazwa_Produktu": "Pasek męski nylonowy brązowy klamra zaciskowa",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pasek męski, który idealnie pasuje do kategorii 'Moda > Akcesoria > Paski' jako najbardziej szczegółowej i trafnej."
+    },
+    {
+        "ID_Produktu": "242633868",
+        "Nazwa_Produktu": "Kolczyki gwiazdki w złotym kolorze eleganckie",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Kolczyki",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Kolczyki",
+        "Finalne_ID_AI": 2837,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu wyraźnie wskazują na 'Kolczyki', które są kategorią liściową w drzewie: Moda > Biżuteria > Kolczyki. To jest najbardziej szczegółowa i trafna kategoria."
+    },
+    {
+        "ID_Produktu": "242633870",
+        "Nazwa_Produktu": "gumki do włosów Wielokolorowe Małe elastyczne 100",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Akcesoria do włosów > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Gumki",
+        "Finalne_ID_AI": 2725,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'gumki do włosów', co idealnie pasuje do kategorii 'Moda > Akcesoria > Akcesoria do włosów > Gumki'. Jest to najbardziej szczegółowa kategoria odpowiadająca przedmiotowi."
     }
 ]
