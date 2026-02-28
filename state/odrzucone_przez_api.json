@@ -1368,5 +1368,415 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242634502",
+        "Nazwa_Produktu": "Vileda Wiadro z wyciskaczem do mopa 1 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wiadro z wyciskaczem do mopa, które jest akcesorium do sprzątania. Najbardziej szczegółową i pasującą kategorią jest 'Dom i Ogród > Supermarket > Środki czyszczące', co pokrywa się również z sugestią systemu OLX.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda wiadro z wyciskaczem do mopa 1 szt",
+                "description": "Vileda Wiadro z wyciskaczem do mopa 1 szt Wiadro z wyciskaczem do mopa Super Wiadro to wiadro Viledy dedykowane do mopów paskowych czy sznurkowych. Konstrukcja sita wyżyma mop od samej jego nasady, dzięki czemu podłoga po myciu schnie bardzo szybko. 10 l pojemności Specjalny uchwyt na drążek Trwałe, wysokiej jakości tworzywo Elastyczne unowocześnione sito, chwytające mopa od samej jego nasady Wymiary wiadra : długość 38 cm szerokość 30 cm wysokość 29/32 cm z sitem Cena za opakowanie 1 szt. Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 68.56,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/e6bb9d83fe2cafece83fcd0ebd63b366.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242634616",
+        "Nazwa_Produktu": "Zaciski kablowe, 400 szt. Mocne Trwałe białe",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zaciski kablowe używane do porządkowania i mocowania kabli (elektrycznych, sieciowych, audio-wideo) w domu, często do ścian. Idealnie pasuje to do kategorii 'System i osprzęt instalacyjny' w ramach 'Elektryka' i 'Instalacje' w dziale 'Dom i Ogród', ponieważ jest to osprzęt niezbędny do prawidłowego montażu i organizacji przewodów.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zaciski kablowe, 400 szt. mocne trwałe białe",
+                "description": "Zaciski kablowe, 400 szt. Mocne, Trwałe białe okrągłe, 4 rozmiary 4mm 6mm 8mm 10mm 4 rozmiary zacisków kablowych- 4mm x 100 sztuk, 6mm x 100 sztuk, 8mm x 100 sztuk, 10mm x 100 sztuk. Satysfakcjonuje cię do organizowania kabli o większości rozmiarów w domu, może z łatwością organizować różne specyfikacje przewodów. Stalowy gwóźdź- zaciski kablowe ze stalowym gwoździem są mocniejsze niż samoprzylepne zaciski kablowe, przewody nie będą często spadać i nie będą marnować czasu na przeróbki. Zaciski kablowe można przybić do ściany cementowej. Trwałe- trwałe tworzywo sztuczne, biały styl jest bardziej wszechstronny i integruje się ze środowiskiem domowym, aby było czystsze. Szerokie zastosowanie- organizery kabli idealne do kabla koncentrycznego RG8X, RG58, RG59 lub LMR 240, cyfrowego kabla koncentrycznego wideo lub audio RG6, kabla sieciowego Ethernet Cat 5, Cat 6, przewodu głośnikowego od 12 do 16 AWG, przewodu telefonicznego, kabla USB, Oświetlenie świąteczne itp. Uporządkuj swój dom i zwolnij dużo miejsca. Porządek kablowy może również poprawić bezpieczeństwo użytkowania energii elektrycznej i chronić bezpieczeństwo członków rodziny, a zwłaszcza dzieci. Łatwa instalacja- tapy instalacji zacisku drucianego są bardzo proste i może je wykonać jedna osoba, dzięki czemu rodzina może żyć w wygodnym i bezpiecznym środowisku. . Marka: Abnii Rozmiar: 4/6/8/10mm Waga przedmiotu: 208 gramów Kolor: Biały Liczba części: 400\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.66,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/7fe9d0e74793e731653b5faa61ecfd16.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/e757ca3daa15e88cce3cb60c05c54716.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242634713",
+        "Nazwa_Produktu": "Gafild Detektor Dymu Czujka Pożarowa 1 Szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Zabezpieczenia i rozdzielnice",
+        "Finalne_ID_AI": 3211,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to detektor dymu, czyli element zabezpieczający instalację elektryczną oraz budynek przed pożarem. Najlepiej pasuje do kategorii 'Zabezpieczenia i rozdzielnice' w ramach 'Dom i Ogród > Budowa > Instalacje > Elektryka'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gafild detektor dymu czujka pożarowa 1 szt",
+                "description": "Gafild detektor dymu czujka pożarowa 1 szt. Gafild czujka dymu, czujka pożarowa, czujnik fotoelektryczny, wymienna bateria, łatwa instalacja, test samochodowy, zgodny z EN14604 i TV. Marka Gafild Styl Klasyczny Źródło prądu Zasilany bateryjnie Alarm Słyszalny. Czułe i inteligentne: fotoelektryczne czujki dymu są na ogół skuteczniejsze w wykrywaniu wolno tlących się pożarów i wykorzystują najnowszą technologię czujników. Czujka ta reaguje szybciej na niebezpieczny dym niż konwencjonalne czujki dymu i jednocześnie zmniejsza liczbę fałszywych alarmów. Wymienna bateria i autotest: zasilanie czujki dymu dwoma bateriami AAA. W przypadku wystąpienia usterki lub niskiego poziomu naładowania baterii zostaniesz o tym natychmiast powiadomiony, abyś mógł szybko zidentyfikować i wymienić baterię. Nie zawiera baterii Przycisk łatwego testu / wyciszenia: za pomocą dużego przycisku testu / wyciszenia można co tydzień testować alarm i po prostu wyciszyć alarm, jeśli wystąpią fałszywe alarmy. Ze względu na awarie i ostrzeżenia o niskim poziomie naładowania baterii można łatwo wykryć stan działania alarmu. Niezwykle głośny alarm: ta czujka dymu ma różne parametry samokontroli z wyraźnymi powiadomieniami. Po uruchomieniu alarmu przeciwpożarowego są natychmiast powiadamiani głośnym alarmem o natężeniu powyżej 85 dB i szybko migającym wyświetlaczem LED, co daje dodatkowy czas na opanowanie pożaru lub bezpieczną ucieczkę. Łatwa instalacja i niezawodność: czujkę dymu można dyskretnie zainstalować w dowolnym miejscu. Detektor dymu można łatwo przymocować do dowolnej ściany lub sufitu za pomocą dołączonych śrub. Posiada certyfikat TV i jest zgodny z normą EN 14604 oraz oferuje najwyższy poziom bezpieczeństwa i niezawodności. Gafild czujka dymu, czujka pożarowa, czujnik fotoelektryczny, wymienna bateria\n\n[DEAL-BLB2B]",
+                "category_id": 3211,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 69.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/1732edb2d1bc45a053eeccd83383fd55.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/aa2b7f1f9e45b091c1ec0d3e88d44684.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242634772",
+        "Nazwa_Produktu": "Rozgałęźnik Adapter 2 W 1 Gniazda 3 Szt",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Adaptery i przejściówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Przedłużacze i rozgałęźniki",
+        "Finalne_ID_AI": 3208,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rozgałęźnik do gniazdek, służący do rozszerzania liczby dostępnych gniazd. Kategoria 'Przedłużacze i rozgałęźniki' (ID: 3208) w drzewie Dom i Ogród > Instalacje > Elektryka jest najbardziej precyzyjnym dopasowaniem, ponieważ bezpośrednio odpowiada funkcji i nazwie produktu. Jest to bardziej ogólne zastosowanie elektryczne niż akcesorium specyficzne dla telefonów.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rozgałęźnik adapter 2 w 1 gniazda 3 szt",
+                "description": "Gniazdo podwójne: gniazda przystosowane są do uziemionych gniazd stykowych zgodnie z normą niemiecką (średnica 4,8 mm). Po prostu podłącz go do gniazdka i można go rozszerzyć do maksymalnie 2 gniazdek, dzięki czemu jest bezpieczny i idealny do Twoich potrzeb związanych z ładowaniem. Maks. Moc do 3680 W (maks. 250 V, 16 A). Nasz produkt zawiera 3 gniazda tego samego rozmiaru, wystarczającą ilość, stylowe i trwałe. Bezpieczne i niezawodne: w gniazdach znajdują się zabezpieczenia przed dziećmi, które zapobiegają przypadkowemu dotknięciu. Przewodnik wykonany jest z materiału miedzianego o doskonałej przewodności elektrycznej, powłoka wykonana jest z tworzywa sztucznego odpornego na wysokie temperatury, zapewnia ochronę przed zwarciem, przegrzaniem, przetężeniem i przepięciem. Łatwe do przenoszenia: gniazdo jest małe i przenośne, ma wymiary 9,5 x 4,5 x 5,8 cm. Mały i lekki, z łatwością mieści się w plecakach i walizkach, dzięki czemu idealnie sprawdzi się w podróży i na wakacjach. Szeroki zakres zastosowań: gniazdo może być używane w każdym pomieszczeniu, idealne do użytku w kuchniach, sypialniach i akademikach, jest dobrym pomocnikiem w codziennym życiu. Obudowa wykonana jest z odpornego na wysokie temperatury materiału PP, który może wytrzymać temperaturę do 750 ?. Maksymalna moc adaptera gniazda wynosi 3680 W (maksymalnie 250 V, 16 A). Marka: HITRENDS Liczba elementów w sprzedaży: 3 sztuki Wymiary produktu dł. x szer. x wys.: 9,5 x 4,5 x 5,8 cm Natężenie w amperach: 16 amperów Model 7382N Typ: Adapter gniazda Zakres napięcia: do 250 V Prąd znamionowy: 16A Maksymalna moc: 3680 W Częstotliwość netto: 50 (HZ) Kolor: biały\n\n[DEAL-BLB2B]",
+                "category_id": 3208,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 41.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/93ddb15460226dcef82667e263ee9279.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/cdb9572f2ca6397dd594b562b136794d.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/5bfdb62aa89f16c6393b3ad3b142ff60.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/0231e3bb2f803ee79c7a31b851993b74.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/448046ed4b63323c219e398137ba7eba.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/93eeaf6a94ea9a51763483c4507d76d1.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/d8808d50f8e54fdcc3a73a0fc71ddc8c.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242634956",
+        "Nazwa_Produktu": "Gniazdko Elektryczne Podwójne Ścienne 16A czarne",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Wtyczki, gniazda i włączniki",
+        "Finalne_ID_AI": 3210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na podwójne gniazdko elektryczne ścienne. Kategoria 'Wtyczki, gniazda i włączniki' jest najbardziej szczegółowa i precyzyjnie odpowiada temu produktowi w drzewie kategorii, będąc liściem w gałęzi Dom i Ogród > Instalacje > Elektryka.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gniazdko elektryczne podwójne ścienne 16a czarne",
+                "description": "Podwójne gniazdko wtykowe czarne z zestykiem ochronnym 16A/250V, do montażu w puszce instalacyjnej 60mm ?, w zestawie z ramą (kompletne). Specyfikacja: Marka: ALING-CONEL Kolor: czarny Wymiary produktu: ?12 x 8 x 4,3 cm; 80 gr Dane: certyfikat VDE, zgodnie z normą IEC 60884-1 Prąd / napięcie: 16 A/250 V\n\n[DEAL-BLB2B]",
+                "category_id": 3210,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/7ba2e426336fc8cd183a09b0b341614d.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/e2b410a493b86f9d5f7d46acb218198d.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242633778",
+        "Nazwa_Produktu": "Vileda Mop 1-2 Spray MAX BOX ze spryskiwaczem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Mop płaski Vileda to narzędzie do czyszczenia podłóg. W drzewie kategorii OLX produkty marki Vileda oraz akcesoria do sprzątania są najprecyzyjniej przypisywane do ścieżki Dom i Ogród > Supermarket > Środki czyszczące (ID: 4364), co potwierdza również wskazówka systemowa.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda mop 1-2 spray max box ze spryskiwaczem",
+                "description": "Mop 1-2 Spray MAX BOX ze spryskiwaczem Mop ze spryskiwaczem 1-2 Spray MAX BOX to idealne rozwiązanie do szybkiego czyszczenia nawet dużych powierzchni. Mop wyposażony w obrotową głowicę 180 i dwustronną nakładkę umożliwia czyszczenie 2 razy większej powierzchni niż standardowy mop ze spryskiwaczem. Mop usuwa 99% bakterii przy użyciu samej wody. Udowodnione w badaniach przeprowadzonych przez niezależny, akredytowany instytut badań mikrobiologicznych i immunologicznych* *Test przeprowadzony przez BMA-Labor GbR na bakteriach Escherichia coli i Staphylococcus aureus występujących w domu. Wyposażony w obrotową głowicę Obrotowa głowica mopa płaskiego ze spryskiwaczem Vileda pozwala na błyskawiczne odwrócenie nakładki czyszczącej i dalsze sprzątanie, gdy inne mopy, wyposażone w jednostronną nakładkę, wymagają już jej wymiany bądź czyszczenia. Wygodny spryskiwacz Mechanizm sprayu zapewnia kontrolowane, równomierne rozprowadzenie płynu na czyszczonej powierzchni. Wyjątkowo skuteczny wkład Nakładka mopa 1-2 Spray MAX BOX wykonana jest z mikrofibry. Wkład szybko czyści i osusza powierzchnię oraz zapewnia czyszczenie bez smug i zarysowań. Nakładkę z mikrofibry można wielokrotnie prać w pralce. Czerwone włókna nakładki czyszczącej, doskonale poradzą sobie z uporczywym brudem. Dzięki funkcjonalnemu uchwytowi wkład jest łatwy w zdejmowaniu, bez konieczności kontaktu brudem. Dostępny jest w sprzedaży zapasowy wkład do mopa ze spryskiwaczem 1-2 Spray MAX. Do każdego rodzaju podłóg Mop ze sprayem Vileda doskonale sprawdza się na każdym rodzaju podłóg. Łatwe uzupełnianie płynu Mop jest wyposażony w wystarczająco duży pojemnik na płyn 600 ml. Dzięki temu sprzątanie jest jeszcze bardziej efektywne. Zestaw BOX Mop ze spryskiwaczem zapakowany jest w wygodny karton transportowy. Wymiary kartonu: 59,5 cm x 16,5 cm x 14,5 cm. Mop wyposażony jest w drążek składany z dwóch części. Karton zawiera podstawę mopa, wkład oraz dwuczęściowy drążek. Instrukcja montażu i obsługi 1. Złóż poszczególne części mopa (podstawę oraz dwie części drążka). 2. Napełnij zbiornik wodą lub roztworem wody z niezbyt pieniącym się płynem (stosuj się do proporcji podawanych przez producenta) oraz umieść pojemnik ponownie w odpowiednim miejscu. 3. Naciśnij spust przy drążku i rozpocznij sprzątanie. Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 198.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/e3a04d3f65e91a90cf5689506095a058.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242635679",
+        "Nazwa_Produktu": "Gniazdo Inteligentne Elektryczne Wifi USB Alexa",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > Wtyczki, gniazda i włączniki",
+        "Finalne_ID_AI": 3210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to inteligentne gniazdko elektryczne (smart plug), które najlepiej pasuje do kategorii 'Wtyczki, gniazda i włączniki' znajdującej się w sekcji Instalacje > Elektryka w dziale Dom i Ogród.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gniazdo inteligentne elektryczne wifi usb alexa",
+                "description": "Alexa gniazdko Wi-Fi z 2 portami USB i inteligentną lampą Kompatybilność: kompatybilny z Amazon Echo Dot, Amazon Echo Dot (2. generacji), Amazon Echo Dot (3. generacji), Amazon Echo, Amazon Echo (2. generacji), Amazon Echo Plus, Amazon Echo Plus (2. generacji) i Amazon Echo Spot, Amazon Echo Show, Amazon Echo Show (2. generacji); Google Home, Google Home Mini. Możesz zarządzać urządzeniami domowymi za pomocą sterowania głosem, zamiast przechodzić na przód urządzeń. Wymaga systemu Android 4.4 lub nowszego oraz iOS 8 lub nowszego. Pilot zdalnego sterowania: włącz elektronikę z dowolnego miejsca za pomocą darmowej aplikacji \"Smart life\". Obsługuje włączanie/wyłączanie za pomocą jednego przycisku, aby zapewnić ochronę ładowania urządzeń gospodarstwa domowego i zapobiec przeładowaniu. Zaoszczędź naukowo swoje rachunki za energię elektryczną i wydłużaj żywotność urządzeń gospodarstwa domowego. Inteligentna kontrola: można wykonywać wszystkie rodzaje harmonogramów i przypadkowe harmonogramy. Ustaw czas dla inteligentnego gniazdka, a w razie potrzeby możesz automatycznie włączać i wyłączać nawilżacz powietrza, czajnik, oświetlenie choinki, ekspres do kawy, oświetlenie i wentylator elektryczny w razie potrzeby. Oszczędzaj energię i unikaj wygodnego przegrzania. Przydatne zastosowanie: z 2 wbudowanymi portami ładowania USB (maks. 2,4 A) zapewnia dodatkowy komfort podczas ładowania urządzeń. Wymagany jest tylko smartfon i sieć Wi-Fi 2,4 GHz, można bez problemu sparować inteligentne gniazdko za pomocą aplikacji bez huba. Obsługuje tylko sieć WiFi 2,4 GHz, nie obsługuje sieci 5,0 GHz. Certyfikacja i bezpieczeństwo: certyfikat RoHS, z funkcją ochrony przed przepięciem. Wyprodukowano z wysokiej jakości ognioodpornego materiału PC o dobrej izolacji zapewnia bezpieczeństwo użytkownika. Specyfikacja: Marka : ?MoKo Model : 1999 Wymiary produktu: 16 x 8,64 x 8,38 cm Napięcie robocze: 240 Wolty\n\n[DEAL-BLB2B]",
+                "category_id": 3210,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 140.16,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/19f10e6884743b557c7ac7f1a61346f8.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/d058afd9a898c803ba37a04cd48c1b7e.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/3b22ab4cd37c362cf234ce6cbfa6bffe.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/ede5c0082a7f306074572a45146006c6.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
