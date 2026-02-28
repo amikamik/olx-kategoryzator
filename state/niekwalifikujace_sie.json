@@ -3198,5 +3198,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to reflektor punktowy (spot) marki Paulmann, przeznaczony do oświetlenia wnętrz z regulowaną głowicą. Idealnie pasuje do kategorii 'Spoty' w sekcji oświetlenia domowego."
+    },
+    {
+        "ID_Produktu": "242634316",
+        "Nazwa_Produktu": "Lampa Led Power Supply H-Lb802S  4 Szt",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Fotografia > Oświetlenie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw lamp LED o średnicy montażowej ok. 60mm, przeznaczony do oświetlenia wnętrz domowych i biurowych (sufity, blaty). Tego typu punktowe oprawy oświetleniowe są klasyfikowane jako 'Oczka'."
+    },
+    {
+        "ID_Produktu": "242634509",
+        "Nazwa_Produktu": "Profesjonalna Pułapka Na Szczury 4 Szt. Wielorazow",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to pułapka na gryzonie (szczury), która służy do ochrony gospodarstwa domowego i ogrodu przed szkodnikami. W strukturze OLX tego typu akcesoria ogrodowe i deratyzacyjne, w przypadku braku dedykowanej kategorii 'Zwalczanie szkodników', najlepiej pasują do kategorii 'Dom i Ogród > Ogród > Pozostałe Ogród' (1641)."
     }
 ]
