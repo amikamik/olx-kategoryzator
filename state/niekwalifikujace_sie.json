@@ -3528,5 +3528,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to żarówka LED, która idealnie pasuje do kategorii 'Żarówki' znajdującej się w ścieżce Dom i Ogród > Oświetlenie > Żarówki i świetlówki."
+    },
+    {
+        "ID_Produktu": "242634827",
+        "Nazwa_Produktu": "Aerator kranowy elastyczny obrotowy opryskiwacz",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to aerator kranowy, który stanowi element montażowy (złączkę) do baterii łazienkowych i kuchennych, mający na celu regulację strumienia wody. Kategoria 'Rury, kształtki, złączki' w ramach 'Hydrauliki' jest najbardziej szczegółowym i trafionym miejscem dla tego typu komponentów instalacyjnych, precyzyjniej niż ogólne 'Pozostałe' akcesoria czy narzędzia."
+    },
+    {
+        "ID_Produktu": "242634856",
+        "Nazwa_Produktu": "Talerz z pulpy trzcinowej 18cm 125szt",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stara ceramika > Talerze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe talerze z pulpy trzcinowej, przeznaczone do użytku w gastronomii, restauracjach, barach i food truckach jako zamiennik dla opakowań na wynos. Kategoria 'Pojemniki gastronomiczne' w ramach 'Firma i Przemysł > Gastronomia' jest najbardziej szczegółowa i najlepiej pasuje do opisu produktu."
     }
 ]
