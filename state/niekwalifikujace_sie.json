@@ -518,5 +518,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to linki elastyczne typu bungee, które służą przede wszystkim do zabezpieczania ładunku w transporcie (na przyczepach, bagażnikach dachowych i w pojazdach). W strukturze kategorii OLX takie akcesoria transportowe najlepiej pasują do kategorii 'Wyposażenie i akcesoria samochodowe > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242636084",
+        "Nazwa_Produktu": "Gałka Meblowa Gałka do Mebli Szafki Czarny 25szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gałki i uchwyty przeznaczone do montażu w meblach (szafkach, szufladach), co bezpośrednio odpowiada kategorii 'Akcesoria meblowe' w sekcji 'Dom i Ogród > Meble'."
     }
 ]
