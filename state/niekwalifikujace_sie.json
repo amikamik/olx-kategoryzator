@@ -3158,5 +3158,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to pasek pleciony wykonany z nylonu, będący typowym dodatkiem odzieżowym. Najbardziej precyzyjną kategorią w drzewie jest Moda > Akcesoria > Paski."
+    },
+    {
+        "ID_Produktu": "242633835",
+        "Nazwa_Produktu": "Pudełko papierowe zapiekankę 38x11x6cm kraft 100sz",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne opakowania jednorazowe przeznaczone do kontaktu z żywnością, sprzedawane w ilościach hurtowych (100 sztuk). Najlepiej pasuje do kategorii 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia', która obejmuje wyposażenie dla punktów gastronomicznych."
+    },
+    {
+        "ID_Produktu": "242633975",
+        "Nazwa_Produktu": "Lampa sufitowa industrialna 6xE27 metalowa czarna loft",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalne_ID_AI": 3867,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wieloramienny żyrandol sufitowy w stylu industrialnym (loft), który na platformie OLX jest klasyfikowany w kategorii 'Lampy wiszące', obejmującej wszelkiego rodzaju ozdobne lampy sufitowe i żyrandole."
+    },
+    {
+        "ID_Produktu": "242634125",
+        "Nazwa_Produktu": "Lampa Punktowa Led 10W Paulmann Spot Ogma 1 X Gu10",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Spoty",
+        "Finalne_ID_AI": 3871,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest lampą punktową, określaną przez producenta i w tytule jako 'spot'. Idealnie pasuje do kategorii 'Spoty' w sekcji lamp, która obejmuje oświetlenie kierunkowe montowane natynkowo na sufitach lub ścianach."
+    },
+    {
+        "ID_Produktu": "242634128",
+        "Nazwa_Produktu": "Reflektor Punktowy Led Półkula Paulmann 4,5W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Spoty",
+        "Finalne_ID_AI": 3871,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to reflektor punktowy (spot) marki Paulmann, przeznaczony do oświetlenia wnętrz z regulowaną głowicą. Idealnie pasuje do kategorii 'Spoty' w sekcji oświetlenia domowego."
     }
 ]

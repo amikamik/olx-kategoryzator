@@ -2481,5 +2481,18 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "242634054",
+        "Nazwa_Produktu": "K&K Profesjonalna Lokówka Z Cyfrowym Wyświetlaczem",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Lokówki",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD drobne > Lokówki",
+        "Finalne_ID_AI": 2233,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lokówka do włosów, która idealnie pasuje do kategorii liścia 'Lokówki' (ID: 2233) znajdującej się w ścieżce Elektronika > Sprzęt AGD > AGD drobne.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]
