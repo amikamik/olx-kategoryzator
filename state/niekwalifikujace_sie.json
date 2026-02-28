@@ -3548,5 +3548,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to jednorazowe talerze z pulpy trzcinowej, przeznaczone do użytku w gastronomii, restauracjach, barach i food truckach jako zamiennik dla opakowań na wynos. Kategoria 'Pojemniki gastronomiczne' w ramach 'Firma i Przemysł > Gastronomia' jest najbardziej szczegółowa i najlepiej pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "242634876",
+        "Nazwa_Produktu": "Zestaw Wkrętów do płyt wiórowych",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw wkrętów do płyt wiórowych, przeznaczony do montażu mebli drewnianych. Kategoria 'Akcesoria meblowe' jest najbardziej szczegółowa i trafna dla tego typu produktu, który stanowi element wyposażenia niezbędny do mebli."
+    },
+    {
+        "ID_Produktu": "242634877",
+        "Nazwa_Produktu": "Ochraniacz pasa bezpieczeństwa 2szt czarny",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Zabezpieczenia",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalne_ID_AI": 4501,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ochraniacz na pas bezpieczeństwa, który jest akcesorium samochodowym pełniącym funkcję pokrowca/nakładki. Najbardziej pasującą i szczegółową kategorią jest 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce'."
+    },
+    {
+        "ID_Produktu": "242634882",
+        "Nazwa_Produktu": "Żarówka Smart LED GU10 5W WiFi BLE ZonMar",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to inteligentna żarówka LED GU10, która idealnie pasuje do kategorii 'Żarówki' znajdującej się w ścieżce 'Dom i Ogród > Oświetlenie > Żarówki i świetlówki'."
+    },
+    {
+        "ID_Produktu": "242634887",
+        "Nazwa_Produktu": "Regulowane zaciski ze stali nierdzewnej 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zaciski do węży ze stali nierdzewnej, używane do zabezpieczania połączeń. Opis wyraźnie wspomina o zastosowaniach w domowych instalacjach sanitarno-kanalizacyjnych, co idealnie pasuje do kategorii 'Hydraulika'. W ramach tej kategorii, 'Rury, kształtki, złączki' jest najbardziej szczegółową podkategorią, ponieważ zaciski pełnią funkcję podobną do złączek, umożliwiając tworzenie trwałych połączeń w instalacjach."
+    },
+    {
+        "ID_Produktu": "242634893",
+        "Nazwa_Produktu": "Ruszt stojak grillowy ze stali nierdzewnej",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ruszt/stojak grillowy, który idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Grill', będącej kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "242634894",
+        "Nazwa_Produktu": "Regulowane zaciski ze stali nierdzewnej 6szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to regulowane zaciski do węży, rur i kabli. Opis produktu wyraźnie wskazuje na zastosowanie w 'domowych instalacjach sanitarno-kanalizacyjnych', 'węży, rur, kabli'. Kategoria 'Rury, kształtki, złączki' w ramach 'Hydraulika' w 'Instalacjach' (Dom i Ogród) jest najbardziej szczegółowa i najlepiej odzwierciedla główną funkcję zacisków jako elementów łączących/zabezpieczających w instalacjach."
     }
 ]
