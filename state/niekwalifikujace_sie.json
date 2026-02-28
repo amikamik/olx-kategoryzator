@@ -3328,5 +3328,265 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to lampa wpuszczana (recessed), co w nomenklaturze oświetleniowej na platformach handlowych najdokładniej odpowiada kategorii 'Oczka'. Nie jest to lampa wisząca, stojąca ani plafon (montowany natynkowo)."
+    },
+    {
+        "ID_Produktu": "242635810",
+        "Nazwa_Produktu": "Damski portfel Skóra z ochroną RFID i breloczek",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to portfel damski wykonany ze skóry, co jednoznacznie wskazuje na kategorię liścia 'Portfele' znajdującą się w ścieżce Moda > Akcesoria."
+    },
+    {
+        "ID_Produktu": "242635842",
+        "Nazwa_Produktu": "Reflektor Wpuszczany LED Sufitowy  4W 2700K 9szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sufitowy reflektor wpuszczany (tzw. downlight), co w nomenklaturze kategorii oświetleniowych OLX jest precyzyjnie określane terminem 'Oczka'."
+    },
+    {
+        "ID_Produktu": "242636349",
+        "Nazwa_Produktu": "Nylonowa żyłka do podkaszarki 2,4mm x 100m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Kosiarki > Akcesoria i części",
+        "Finalne_ID_AI": 3057,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to żyłka do podkaszarki, będąca materiałem eksploatacyjnym (częścią) do urządzeń koszących. Najbardziej szczegółową kategorią jest 'Akcesoria i części' podrzędna do kategorii 'Kosiarki', która na OLX obejmuje również kosy spalinowe i podkaszarki."
+    },
+    {
+        "ID_Produktu": "242636357",
+        "Nazwa_Produktu": "Portfel Męski Skórzany Brązowy",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym portfelem męskim, który idealnie pasuje do liścia 'Portfele' w ścieżce Moda > Akcesoria."
+    },
+    {
+        "ID_Produktu": "242636407",
+        "Nazwa_Produktu": "Lampa LED do roślin 9W 40 LED",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczna lampa LED do uprawy roślin (grow light), która służy do wspomagania fotosyntezy i wzrostu roślin domowych. W drzewie kategorii OLX, przedmioty przeznaczone do pielęgnacji i uprawy roślin, które nie są narzędziami ani maszynami, najlepiej pasują do kategorii 'Dom i Ogród > Ogród > Pozostałe Ogród'."
+    },
+    {
+        "ID_Produktu": "242636431",
+        "Nazwa_Produktu": "Torba papierowa cateringowa 32x22x25cm 250szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne opakowanie transportowe przeznaczone dla branży cateringowej, o czym świadczy tytuł, opis oraz hurtowa liczba sztuk (250). W drzewie kategorii 'Firma i Przemysł > Gastronomia' (ID: 5035) brakuje dedykowanej podkategorii na opakowania jednorazowe, dlatego najbardziej odpowiednim liściem jest 'Pozostałe' (ID: 5071). Wybrana kategoria jest bardziej specyficzna dla zastosowania produktu niż ogólne artykuły papiernicze czy wyposażenie sklepów."
+    },
+    {
+        "ID_Produktu": "242636440",
+        "Nazwa_Produktu": "Głośnik Kraina Lodu Bluetooth Przenośny Świecący",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt audio > Głośniki i kolumny > Głośniki przenośne",
+        "Finalne_ID_AI": 1967,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Mimo motywu z bajki Disney 'Kraina Lodu', produkt jest w pełni funkcjonalnym urządzeniem elektronicznym (głośnik Bluetooth) z konkretną specyfikacją techniczną (akumulator Li-ion, wersja Bluetooth 4.1). Na platformie OLX głośniki przenośne, nawet te z licencjonowanym designem, najlepiej pasują do kategorii elektroniki użytkowej."
+    },
+    {
+        "ID_Produktu": "242636501",
+        "Nazwa_Produktu": "Lampki solarne pochodnia 6 szt efekt płomieni LED",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Oświetlenie ogrodowe",
+        "Finalne_ID_AI": 1638,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to nowoczesne lampy solarne przeznaczone do dekoracji ogrodu, ścieżek i podjazdów, co bezpośrednio odpowiada kategorii 'Oświetlenie ogrodowe' w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "242636508",
+        "Nazwa_Produktu": "Opony do hulajnogi elektrycznej Xiaomi M365 Pro",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pojazdy elektryczne > Akcesoria do pojazdów elektrycznych",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Pojazdy elektryczne > Akcesoria do pojazdów elektrycznych",
+        "Finalne_ID_AI": 4707,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to opony przeznaczone do hulajnogi elektrycznej. W strukturze kategorii OLX, najbardziej szczegółową kategorią dla części i akcesoriów do hulajnóg elektrycznych jest 'Akcesoria do pojazdów elektrycznych' (ID: 4707) w sekcji 'Sport i Hobby'."
+    },
+    {
+        "ID_Produktu": "242636512",
+        "Nazwa_Produktu": "Pistolet spustowy do myjki ciśnieniowej Karcher",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Elektronarzędzia > Pistolety",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Myjki ciśnieniowe",
+        "Finalne_ID_AI": 5121,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest pistoletem spustowym (osprzętem) dedykowanym wyłącznie do myjek ciśnieniowych marki Karcher. Najbardziej specyficzną i właściwą kategorią dla tego typu urządzeń oraz ich części zamiennych na platformie OLX jest kategoria 'Myjki ciśnieniowe' (5121), znajdująca się bezpośrednio w narzędziach. Kategoria 'Pistolety' (4688) w elektronarzędziach jest zazwyczaj używana dla pistoletów lakierniczych, klejowych lub opalarek."
+    },
+    {
+        "ID_Produktu": "242636530",
+        "Nazwa_Produktu": "Lampa ścienna Reflektor ścienny obrotowy GU10 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalne_ID_AI": 3863,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest w tytule i opisie wprost nazwany lampą ścienną oraz kinkietem. Kategoria 'Kinkiety' (3863) jest najbardziej trafnym i szczegółowym wyborem dla oświetlenia montowanego na ścianę wewnątrz pomieszczeń."
+    },
+    {
+        "ID_Produktu": "242636618",
+        "Nazwa_Produktu": "Łańcuchy świetlne na baterie kulki LED Białe",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dekoracyjny łańcuch świetlny (girlanda) z diodami LED, który idealnie pasuje do kategorii 'Girlandy świetlne' znajdującej się w sekcji Oświetlenie dla domu."
+    },
+    {
+        "ID_Produktu": "242636641",
+        "Nazwa_Produktu": "Lampa Sufitowa Led Biała 6 W Zestaw 5 Lamp",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw ultracienkich paneli LED przeznaczonych do zabudowy w sufitach (tzw. oczka), montowanych za pomocą zacisków sprężynowych, co precyzyjnie odpowiada kategorii 'Oczka' w sekcji lamp."
+    },
+    {
+        "ID_Produktu": "242636652",
+        "Nazwa_Produktu": "Reflektor LED wpuszczany 3W 230V ciepła biel 5szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to mini reflektory LED wpuszczane, które w polskiej nomenklaturze oświetleniowej i kategoryzacji OLX są określane jako 'Oczka'."
+    },
+    {
+        "ID_Produktu": "242636654",
+        "Nazwa_Produktu": "Reflektor LED wpuszczany 3W ciepła biel 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miniaturowe reflektory LED przeznaczone do montażu wpuszczanego (w otwory montażowe), co bezpośrednio odpowiada kategorii 'Oczka' w sekcji oświetlenia domowego."
+    },
+    {
+        "ID_Produktu": "242636694",
+        "Nazwa_Produktu": "Miernik ciśnienia w oponach pompka wielofunkcyjna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Elektronarzędzia > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Mierniki ciśnienia",
+        "Finalne_ID_AI": 5181,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisywany przede wszystkim jako precyzyjny miernik ciśnienia z manometrem do opon. Najbardziej szczegółową i pasującą kategorią w drzewie jest kategoria 'Mierniki ciśnienia' w sekcji diagnostyki wyposażenia warsztatów."
+    },
+    {
+        "ID_Produktu": "242636727",
+        "Nazwa_Produktu": "Oświetlenie podszafkowe LED pasek magnetyczny",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Pozostała elektronika",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Pozostałe",
+        "Finalne_ID_AI": 3872,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to gotowa lampa (oprawa) LED z własnym zasilaniem (akumulator USB) i logiką (czujnik ruchu), a nie elastyczna taśma z rolki. Ze względu na formę sztywnego paska i przeznaczenie podszafkowe, najlepiej pasuje do kategorii 'Lampy > Pozostałe', która jest najbardziej szczegółowym liściem dla gotowych produktów oświetleniowych tego typu."
+    },
+    {
+        "ID_Produktu": "242636730",
+        "Nazwa_Produktu": "Reflektor zewnętrzny LED ciepła biel 50W Balpro",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalne_ID_AI": 3848,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to reflektor LED o dużej mocy (50W, 3500 lm), który w drzewie kategorii OLX najlepiej pasuje do specyficznej kategorii 'Halogeny i naświetlacze' (ID 3848), znajdującej się w sekcji Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242636764",
+        "Nazwa_Produktu": "Zawieszka Bagażowa Adresówka Silikonowa 4szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Pozostałe",
+        "Finalne_ID_AI": 2762,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to akcesorium bagażowe (adresówka do walizki). W strukturze OLX walizki (kategoria 2760) znajdują się wewnątrz kategorii 'Torby i torebki' (2749). Dlatego najbardziej precyzyjną kategorią dla akcesoriów ściśle związanych z bagażem jest 'Moda > Torby i torebki > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242636777",
+        "Nazwa_Produktu": "Lampka Nocna LED Oświetlenie RGB koloroterapia",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest określony w tytule jako 'Lampka Nocna', a w opisie jako 'lampa stołowa'. W hierarchii oświetlenia OLX, lampki nocne i dekoracyjne oświetlenie nablatowe (RGB, mood light) najlepiej pasują do kategorii 'Lampy stołowe', podczas gdy 'Lampki biurkowe' są zazwyczaj kojarzone z oświetleniem zadaniowym do pracy lub nauki."
+    },
+    {
+        "ID_Produktu": "242636800",
+        "Nazwa_Produktu": "Kolektor Pyłków Pułapka na pyłek pszczeli",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Ryneczek > Miód i produkty pszczelarskie",
+        "Finalna_Sciezka_AI": "Rolnictwo > Pozostałe rolnicze",
+        "Finalne_ID_AI": 765,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest narzędziem/akcesorium pszczelarskim służącym do pozyskiwania pyłku. W strukturze kategorii OLX sprzęt pszczelarski (jak ule czy poławiacze) najczęściej klasyfikuje się w kategorii 'Rolnictwo > Pozostałe rolnicze', gdyż nie jest to ani produkt spożywczy (Ryneczek), ani żywe zwierzę, ani zazwyczaj ciężka maszyna rolnicza."
+    },
+    {
+        "ID_Produktu": "242636807",
+        "Nazwa_Produktu": "Torba męska na ramię podróżna wiele kieszeni",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby na ramię",
+        "Finalne_ID_AI": 2758,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wprost opisany jako torba na ramię. W drzewie kategorii OLX, w sekcji 'Moda > Torby i torebki', najbardziej precyzyjną kategorią-liściem dla tego typu asortymentu jest 'Torby na ramię' (ID: 2758)."
+    },
+    {
+        "ID_Produktu": "242636817",
+        "Nazwa_Produktu": "Pokrowiec Osłona na Grill Ogrodowy Palenisko 173cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec ochronny dedykowany na grill lub palenisko ogrodowe. W drzewie kategorii OLX, akcesoria związane z grillowaniem oraz same grille najlepiej pasują do kategorii 'Grill' znajdującej się w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "242636818",
+        "Nazwa_Produktu": "Palnik gazowy butanowy do grilla kemping przenośny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to palnik butanowy (torch) przeznaczony głównie do rozpalania grilla oraz zastosowań kempingowych i kulinarnych (opiekanie steków). Zgodnie z opisem i tytułem, jego głównym przeznaczeniem jest grillowanie i aktywność na zewnątrz, co czyni kategorię 'Grill' najbardziej odpowiednią."
+    },
+    {
+        "ID_Produktu": "242636824",
+        "Nazwa_Produktu": "Narzędzia Ogrodowe Stalowe Sekator 5szt Zestaw",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wieloczęściowy zestaw narzędzi ogrodniczych do pielęgnacji gleby i roślin. Ponieważ zawiera różne typy narzędzi (łopaty, pazurki, sekator), kategoria 'Pozostałe' wewnątrz drzewa 'Narzędzia ogrodowe' jest najbardziej odpowiednim liściem dla zestawów o charakterze mieszanym."
+    },
+    {
+        "ID_Produktu": "242636846",
+        "Nazwa_Produktu": "Lampa Księżyc RGB 3D Nocna Lampka Moon Light",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dekoracyjna lampka nocna o charakterze stołowym (wymiary 16x16x18 cm), przeznaczona do postawienia na powierzchni płaskiej. W drzewie kategorii OLX, lampki nocne tego typu są klasyfikowane jako lampy stołowe."
     }
 ]
