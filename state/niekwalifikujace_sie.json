@@ -838,5 +838,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to woreczki strunowe sprzedawane w ilości hurtowej (1000 sztuk), co definiuje go jako materiały eksploatacyjne dla biznesu. W strukturze OLX opakowania i drobne akcesoria do pakowania dla firm najlepiej pasują do sekcji 'Firma i Przemysł > Sklepy i magazyny > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242637085",
+        "Nazwa_Produktu": "Lampka nocna hologram z pilotem jednorożec",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest lampką nocną (typu hologram LED), którą stawia się na powierzchni płaskiej. W strukturze OLX lampki nocne są kategoryzowane jako lampy stołowe w dziale Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242637123",
+        "Nazwa_Produktu": "Lampki Choinkowe Łańcuch 200 LED 20m Kolorowe",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to łańcuch lampek LED, który w drzewie kategorii OLX najlepiej odpowiada kategorii 'Girlandy świetlne' w sekcji 'Oświetlenie'. Jest to najbardziej precyzyjna kategoria dla dekoracyjnych sznurów świetlnych, niezależnie od okazji (choinka, taras, ogród)."
     }
 ]
