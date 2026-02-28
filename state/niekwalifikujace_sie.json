@@ -418,5 +418,55 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zestaw do kręcenia włosów bez użycia ciepła (heatless curls), składający się z wałka, gumek oraz klipsa. Tego typu przedmioty, będące akcesoriami nieelektrycznymi, są klasyfikowane na OLX w sekcji Moda > Akcesoria > Akcesoria do włosów > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242635290",
+        "Nazwa_Produktu": "Głowica prysznicowa obrotowa 2 rodzaje strumienia",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Baterie łazienkowe",
+        "Finalne_ID_AI": 3229,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to słuchawka prysznicowa z wężem, która stanowi element armatury łazienkowej. W strukturze OLX akcesoria prysznicowe tego typu są kategoryzowane jako część sekcji 'Baterie łazienkowe' w dziale wykończenia wnętrz."
+    },
+    {
+        "ID_Produktu": "242635332",
+        "Nazwa_Produktu": "Przenośna Lampka LED Biurkowa dotykowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest jednoznacznie opisany jako lampka biurkowa, co odpowiada kategorii 'Lampki biurkowe' w sekcji oświetlenia domowego."
+    },
+    {
+        "ID_Produktu": "242635336",
+        "Nazwa_Produktu": "Siatka do basenu pobierak drążek teleskopowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podbierak (skimmer) z drążkiem teleskopowym, który służy wyłącznie do czyszczenia i konserwacji basenów. W strukturze OLX akcesoria basenowe przypisywane są do kategorii Baseny w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "242635337",
+        "Nazwa_Produktu": "Skóra Samoprzylepna 40x400 Łatka Tapicerka brąz",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to samoprzylepna łatka z ekoskóry (PU) przeznaczona głównie do renowacji i naprawy mebli tapicerowanych. W strukturze OLX materiały do odświeżania mebli oraz elementy naprawcze (takie jak okleiny czy łatki) najlepiej pasują do kategorii 'Akcesoria meblowe' w sekcji 'Meble'."
+    },
+    {
+        "ID_Produktu": "242635398",
+        "Nazwa_Produktu": "Manometr przyłącze od dołu (0 - 25 bar) 63 mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Przyrządy miernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Mierniki ciśnienia",
+        "Finalne_ID_AI": 5181,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to manometr, czyli przyrząd do pomiaru ciśnienia, co bezpośrednio odpowiada nazwie kategorii 'Mierniki ciśnienia'. Ze względu na profesjonalną specyfikację (stal nierdzewna, wypełnienie gliceryną, wysoki zakres 25 bar), najlepiej pasuje on do kategorii technicznej w sekcji Firma i Przemysł."
     }
 ]
