@@ -3608,5 +3608,115 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to klasyczna lampka nocna/stołowa z abażurem i drewnianą podstawą, co bezpośrednio odpowiada najbardziej szczegółowej kategorii 'Lampy stołowe' (liść drzewa)."
+    },
+    {
+        "ID_Produktu": "242637105",
+        "Nazwa_Produktu": "Plecak Miejski na Ramię KINGSLONG z Portem USB",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Plecaki",
+        "Finalne_ID_AI": 2755,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to typowy plecak miejski, mimo konstrukcji na jedno ramię. Kategoria 'Plecaki' w sekcji 'Torby i torebki' jest najbardziej odpowiednim miejscem dla tego typu akcesoriów codziennego użytku."
+    },
+    {
+        "ID_Produktu": "242637130",
+        "Nazwa_Produktu": "Mini Torebka Na Telefon Portfel Kopertówka Etui",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Kopertówki",
+        "Finalne_ID_AI": 2751,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mała torebka o charakterze 'kopertówki', co zostało wprost wskazane w tytule. Ze względu na niewielkie wymiary (18x11 cm) oraz funkcję przechowywania telefonu i kart, kategoria Kopertówki w sekcji Torby i torebki najlepiej oddaje charakter tego akcesorium modowego."
+    },
+    {
+        "ID_Produktu": "242637133",
+        "Nazwa_Produktu": "Wkręty ościeżnicowy z łbem Torx T30 7,5x92mm 90szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Wkręty ościeżnicowe są elementami montażowymi stosowanymi w budownictwie do osadzania ram okiennych i drzwiowych. W strukturze kategorii OLX, wobec braku dedykowanej podkategorii dla elementów złącznych (śrub i wkrętów), kategoria 'Dom i Ogród > Budowa > Pozostałe' jest najbardziej adekwatnym i najczęściej używanym miejscem dla tego typu materiałów."
+    },
+    {
+        "ID_Produktu": "242637143",
+        "Nazwa_Produktu": "Naczynie do Gotowania na Parze Perforowany 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to perforowany pojemnik typu GN (hotelowy) ze stali nierdzewnej w standardowym rozmiarze gastronomicznym 1/2. Opis wyraźnie wskazuje na przeznaczenie profesjonalne (bufet, catering), dlatego kategoria 'Pojemniki gastronomiczne' w sekcji przemysłowej jest najbardziej precyzyjna."
+    },
+    {
+        "ID_Produktu": "242637153",
+        "Nazwa_Produktu": "Girlanda Łańcuch Świetlny LED RGB 7m WiFi  Kolor",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to łańcuch świetlny typu LED RGB, który w tytule i opisie jest wprost nazwany girlandą, co idealnie pasuje do liścia 'Girlandy świetlne' w kategorii Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242637204",
+        "Nazwa_Produktu": "Lunch Box mały ze skrzydełkami 160x100x60 250szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania kartonowe sprzedawane w ilości hurtowej (250 sztuk), co jednoznacznie wskazuje na przeznaczenie dla branży gastronomicznej (catering, jedzenie na wynos). Najbardziej precyzyjną kategorią dla tego typu produktów profesjonalnych są 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242637304",
+        "Nazwa_Produktu": "Wieszak Ścienny Uchwyt Haczyk na ubrania 5szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw ściennych haczyków/uchwytów przeznaczonych do zawieszania ubrań, co idealnie pasuje do kategorii 'Wieszaki' w sekcji 'Meble' (Dom i Ogród)."
+    },
+    {
+        "ID_Produktu": "242637333",
+        "Nazwa_Produktu": "Szczotka do Czyszczenia Felg Długa Rączka Miękkia",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium przeznaczonym do konserwacji i czyszczenia elementów pojazdu (felg). W podanym drzewie kategorii brak jest dedykowanej sekcji dla kosmetyków samochodowych lub narzędzi do mycia, dlatego kategoria 'Pozostałe' w obrębie 'Wyposażenie i akcesoria samochodowe' jest najbardziej trafnym wyborem dla przedmiotu o charakterze utrzymaniowym do auta."
+    },
+    {
+        "ID_Produktu": "242637335",
+        "Nazwa_Produktu": "Ogrodzenie płotek metalowy ogrodowy 10szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Bramy i ogrodzenia > Siatki i panele ogrodzeniowe",
+        "Finalne_ID_AI": 3141,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw metalowych paneli ogrodzeniowych (płotek), składający się z 10 elementów. Ze względu na konstrukcję i funkcję grodzenia terenu w ogrodzie, najbardziej precyzyjną kategorią jest 'Siatki i panele ogrodzeniowe'."
+    },
+    {
+        "ID_Produktu": "242637346",
+        "Nazwa_Produktu": "Torba papierowa z uchem 26x17x33cm 250szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw 250 sztuk papierowych toreb przeznaczonych do celów komercyjnych (catering, handel, reklama). Ze względu na ilość hurtową oraz przeznaczenie (torby reklamowe, cateringowe i zakupowe), najlepiej pasuje do kategorii zaopatrzenia firm, konkretnie wyposażenia sklepów i magazynów."
+    },
+    {
+        "ID_Produktu": "242637548",
+        "Nazwa_Produktu": "Sekator nożyce ogrodowe nóż do przycinania rośłin",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalne_ID_AI": 2880,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to sekator i nożyce ogrodowe przeznaczone do przycinania roślin, co idealnie odpowiada kategorii 'Nożyce i sekatory' znajdującej się w sekcji narzędzi ogrodowych."
     }
 ]
