@@ -1478,5 +1478,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to serwetki gastronomiczne, przeznaczone do użytku w gastronomii (restauracje, cukiernie, bary, kawiarnie). Najbardziej pasującą i szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Pozostałe', ponieważ serwetki nie pasują do żadnej z bardziej specyficznych podkategorii sprzętu gastronomicznego, a kategoria 'Gastronomia' jest bezpośrednio powiązana z przeznaczeniem produktu."
+    },
+    {
+        "ID_Produktu": "242633583",
+        "Nazwa_Produktu": "Worki na śmieci 120L Czarne 50mikr LD 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Worki na śmieci są ogólnymi artykułami eksploatacyjnymi, które, zgodnie z opisem, są używane zarówno w domach, jak i w firmach. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółową kategorią-liściem obejmującą tego typu produkty. Pasuje do charakteru produktu jako materiału zużywalnego potrzebnego w środowisku biurowym/firmowym."
+    },
+    {
+        "ID_Produktu": "242633587",
+        "Nazwa_Produktu": "Kubek papierowy 250ml Pastel 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kubki papierowe przeznaczone do serwowania napojów w restauracjach, kawiarniach oraz na wynos, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'. Wzmianka o opłacie SUP (Single Use Plastics) dodatkowo potwierdza ich jednorazowe, gastronomiczne przeznaczenie. Jest to bardziej szczegółowa kategoria niż ogólne 'Przybory kuchenne' czy 'Kubki' w kategoriach domowych."
+    },
+    {
+        "ID_Produktu": "242633590",
+        "Nazwa_Produktu": "Kubek papierowy 100ml biały Enjoy Drink Go 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kubki papierowe przeznaczone do serwowania napojów na wynos, co idealnie pasuje do kategorii 'Pojemniki gastronomiczne' w ramach 'Firma i Przemysł > Gastronomia'. Wzmianka o opłacie SUP również wskazuje na zastosowanie komercyjne/gastronomiczne, a nie prywatne czy szkolne, co sprawia, że jest to bardziej specyficzny wybór niż ogólne 'Naczynia jednorazowe' lub 'Artykuły papiernicze'."
+    },
+    {
+        "ID_Produktu": "242633596",
+        "Nazwa_Produktu": "Folia aluminiowa spożywcza gruba gastronomiczna 30",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to folia aluminiowa spożywcza, z opisem wskazującym na jej zastosowanie głównie w gastronomii i restauracjach do przechowywania i pieczenia żywności. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, ponieważ folia pełni funkcję opakowania/przechowywania żywności w kontekście gastronomicznym."
     }
 ]
