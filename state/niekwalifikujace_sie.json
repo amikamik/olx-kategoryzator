@@ -278,5 +278,145 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zbiorcze opakowanie (50 sztuk) jednorazowych pojemników sałatkowych z tworzywa RPET. Informacja o opłacie SUP (Single Use Plastics) oraz przeznaczenie do transportu żywności jednoznacznie wskazują na asortyment dla branży gastronomicznej."
+    },
+    {
+        "ID_Produktu": "242634435",
+        "Nazwa_Produktu": "Lampa Sufitowa Led 12W Ściemnialna 3 Kolory Akrylo",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Plafony",
+        "Finalne_ID_AI": 3870,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to płaska lampa sufitowa LED montowana bezpośrednio do sufitu, co w terminologii oświetleniowej i kategoryzacji OLX odpowiada plafonowi (kategoria 'Plafony')."
+    },
+    {
+        "ID_Produktu": "242634625",
+        "Nazwa_Produktu": "Słuchawka Prysznicowa Z Nakładką Masującą 6 Strumi",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Baterie łazienkowe",
+        "Finalne_ID_AI": 3229,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słuchawka prysznicowa to element armatury łazienkowej, który na platformie OLX najlepiej klasyfikuje się w kategorii Baterie łazienkowe, znajdującej się w sekcji Wykończenie wnętrz łazienki."
+    },
+    {
+        "ID_Produktu": "242634705",
+        "Nazwa_Produktu": "Pojemnik sałatkowy 500ml 155 pokrywa SLR500C 50s SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe pojemniki z tworzywa sztucznego (RPET) sprzedawane w pakiecie 50 sztuk z uwzględnioną opłatą SUP (Single Use Plastics), co jednoznacznie wskazuje na przeznaczenie dla branży gastronomicznej i cateringowej."
+    },
+    {
+        "ID_Produktu": "242634715",
+        "Nazwa_Produktu": "Pojemnik na sałatkę 750ml PET z pokrywką 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe pojemniki PET sprzedawane w pakiecie 50 sztuk z uwzględnieniem opłaty SUP, co wskazuje na przeznaczenie profesjonalne dla branży gastronomicznej."
+    },
+    {
+        "ID_Produktu": "242634782",
+        "Nazwa_Produktu": "Zestaw Ogrodowy Wiertło Ślimakowe I Nożyce",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest zestawem narzędzi przeznaczonych specyficznie do prac w ogrodzie (sadzenie roślin, przycinanie gałęzi). Wybrano kategorię 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe', ponieważ produkt składa się z dwóch różnych typów narzędzi ogrodniczych (świder i nożyce), a kategoria ta jest najbardziej odpowiednim miejscem dla mieszanych zestawów ogrodowych, dla których brak jest jednej, dedykowanej kategorii liścia."
+    },
+    {
+        "ID_Produktu": "242634788",
+        "Nazwa_Produktu": "Lampa Punktowa Led Śr. 83Mm Paulmann Premium Line",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Spoty",
+        "Finalne_ID_AI": 3871,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lampa punktowa LED o wymiarach wskazujących na montaż natynkowy (seria Barrel), co definiuje go jako 'spot' sufitowy."
+    },
+    {
+        "ID_Produktu": "242634825",
+        "Nazwa_Produktu": "Mata do Przesadzania Roślin 100x100cm narzędzia",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wodoszczelną matą do przesadzania roślin, zakwalifikowaną jako narzędzie ogrodnicze ułatwiające pracę i utrzymanie czystości. Ze względu na brak dedykowanej podkategorii dla mat ogrodowych, kategoria 'Pozostałe' w sekcji 'Narzędzia ogrodowe' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "242634883",
+        "Nazwa_Produktu": "Lampa Podszafkowa LED Nocna Bezprzewodowa 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw okrągłych, punktowych lampek LED (typu 'puck light'), które ze względu na swoją formę i funkcję oświetlenia punktowego najlepiej pasują do kategorii 'Oczka' w sekcji Lampy lamp."
+    },
+    {
+        "ID_Produktu": "242634943",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 227x178/45 dwudzielny 80szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne opakowania cateringowe przeznaczone do zgrzewarek gastronomicznych, co bezpośrednio kwalifikuje go do kategorii Pojemniki gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242634946",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 178x113/50 niedziel PP 80sz SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne opakowania cateringowe przeznaczone do zgrzewu w profesjonalnych urządzeniach gastronomicznych. Opis wyraźnie wspomina o zastosowaniu w gastronomii oraz o opłacie SUP (Single Use Plastics), co kwalifikuje produkt do kategorii przemysłowej/firmowej zamiast standardowego wyposażenia domowej kuchni."
+    },
+    {
+        "ID_Produktu": "242634950",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 227x178/45 niedzielony 80sz SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne opakowania cateringowe (pojemniki do zgrzewu) przeznaczone dla gastronomii, co czyni kategorię Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne najbardziej odpowiednią."
+    },
+    {
+        "ID_Produktu": "242634965",
+        "Nazwa_Produktu": "Taśma Uszczelniająca Samoprzylepna Gumowa 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Pozostałe",
+        "Finalne_ID_AI": 3158,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gumowe uszczelki samoprzylepne przeznaczone do drzwi. W strukturze OLX, najbardziej specyficzną kategorią dla akcesoriów drzwiowych (innych niż zamki i klamki) jest 'Pozostałe' w sekcji 'Drzwi' pod kategorią 'Budowa'."
+    },
+    {
+        "ID_Produktu": "242635139",
+        "Nazwa_Produktu": "Kratka doniczkowa na rośliny pnące 3szt podpórka palik",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Doniczki i osłonki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to ozdobne podpórki (kratki) do roślin pnących, które ze względu na swoje specyficzne kształty (ul, księżyc) oraz opis (poprawa atrakcyjności ogrodu) najlepiej pasują do kategorii Dekoracje ogrodowe w sekcji Ogród."
+    },
+    {
+        "ID_Produktu": "242635161",
+        "Nazwa_Produktu": "Wałek do Kręcenia Włosów na zimno Czarny",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Akcesoria do włosów > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Pozostałe",
+        "Finalne_ID_AI": 2733,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do kręcenia włosów bez użycia ciepła (heatless curls), składający się z wałka, gumek oraz klipsa. Tego typu przedmioty, będące akcesoriami nieelektrycznymi, są klasyfikowane na OLX w sekcji Moda > Akcesoria > Akcesoria do włosów > Pozostałe."
     }
 ]
