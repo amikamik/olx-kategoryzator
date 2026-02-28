@@ -188,5 +188,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to płyn do mycia szyb i luster w 5-litrowym opakowaniu, co jednoznacznie klasyfikuje go jako środek czyszczący w podkategorii Supermarket w dziale Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242633478",
+        "Nazwa_Produktu": "Pudełko papierowe cukiernicze 16x11x8cm 50szt pączki ciasta",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Akcesoria cukiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowania papierowe (pudełka) sprzedawane w ilościach hurtowych (50 sztuk). Opis wyraźnie wskazuje na przeznaczenie biznesowe (dla osób prowadzących cukiernię lub sklep). W drzewie kategorii OLX, profesjonalne opakowania do żywności najlepiej pasują do kategorii 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242633625",
+        "Nazwa_Produktu": "Frezarka do Manicure Cadrim 12W 100-240V AC",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Elektronarzędzia > Frezarki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Frezarki",
+        "Finalne_ID_AI": 5091,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to urządzenie elektryczne przeznaczone do pielęgnacji paznokci (manicure). W drzewie kategorii najbardziej precyzyjnym liściem jest ID 5091 (Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Frezarki), który w przeciwieństwie do kategorii elektronarzędzi budowlanych, grupuje urządzenia kosmetyczne tego typu."
     }
 ]
