@@ -928,5 +928,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to zestaw linek elastycznych (napinaczy) z haczykami do mocowania bagażu. Z opisu wynika, że ich głównym przeznaczeniem jest zabezpieczanie ładunku na bagażnikach dachowych, przyczepach i w pojazdach. Najbardziej odpowiednią kategorią dla tego typu osprzętu bagażowego, który nie jest samym bagażnikiem, jest dział akcesoriów samochodowych (Pozostałe)."
+    },
+    {
+        "ID_Produktu": "242637395",
+        "Nazwa_Produktu": "Skarpetki świąteczne damskie 4 pary rozmiar 37-39",
+        "Poczatkowa_Sciezka_OLX": "Moda > Bielizna damska > Skarpetki",
+        "Finalna_Sciezka_AI": "Moda > Bielizna damska > Skarpetki",
+        "Finalne_ID_AI": 2671,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw skarpetek damskich, a wybrana kategoria (Moda > Bielizna damska > Skarpetki) jest najbardziej szczegółowym i precyzyjnym liściem w drzewie kategorii pasującym do tego opisu."
+    },
+    {
+        "ID_Produktu": "242637454",
+        "Nazwa_Produktu": "Pokrowiec Na Grill Ogrodowy Wodoodporny Noa Store",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec przeznaczony bezpośrednio do ochrony grilla ogrodowego. W drzewie kategorii OLX, akcesoria do grillowania oraz same grille znajdują się w kategorii 'Grill' wewnątrz sekcji 'Ogród'. Wybór kategorii 'Pokrowce' (ID 2140) byłby błędny, ponieważ znajduje się ona w sekcji 'Wyposażenie wnętrz', a produkt jest przeznaczony do użytku zewnętrznego."
     }
 ]
