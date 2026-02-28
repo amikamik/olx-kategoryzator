@@ -283,8 +283,8 @@ jobs:
           else
             echo "ℹ️  Brak zmian w wspólnym state"
           fi
-          
-          # Cleanup worktree
+           (WYŁĄCZONY)
+        if: false  # WYŁĄCZONY - przywróć always() żeby włączyćworktree
           cd $GITHUB_WORKSPACE
           git worktree remove /tmp/shared_worktree --force 2>/dev/null || true
 
