@@ -1608,5 +1608,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to przegródki do szuflad, służące do organizacji przestrzeni w meblach. Kategoria 'Akcesoria meblowe' jest najbardziej szczegółową i trafiającą w przeznaczenie produktu, znajdującą się w drzewie 'Dom i Ogród > Meble'."
+    },
+    {
+        "ID_Produktu": "242633700",
+        "Nazwa_Produktu": "Brązowe Żarówki LED G95 Filament E27 4W 400 lumen",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to żarówka LED, która idealnie pasuje do najbardziej szczegółowej kategorii 'Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki'."
+    },
+    {
+        "ID_Produktu": "242633707",
+        "Nazwa_Produktu": "Portfel skórzany Unisex Czarny Eono",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje, że jest to 'Portfel', a opis szczegółowo przedstawia jego cechy jako portfela. Kategoria 'Moda > Akcesoria > Portfele' jest idealnie dopasowana i jest kategorią liściową."
+    },
+    {
+        "ID_Produktu": "242633709",
+        "Nazwa_Produktu": "Portfel skórzany Unisex Brązowy Eono",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu 'Portfel skórzany Unisex' oraz szczegółowy opis funkcji portfela (przegródki na monety, banknoty, karty kredytowe, ochrona RFID) idealnie pasują do kategorii 'Moda > Akcesoria > Portfele', która jest kategorią-liściem."
     }
 ]
