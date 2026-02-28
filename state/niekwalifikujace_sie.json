@@ -1518,5 +1518,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to folia aluminiowa spożywcza, z opisem wskazującym na jej zastosowanie głównie w gastronomii i restauracjach do przechowywania i pieczenia żywności. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, ponieważ folia pełni funkcję opakowania/przechowywania żywności w kontekście gastronomicznym."
+    },
+    {
+        "ID_Produktu": "242633627",
+        "Nazwa_Produktu": "Opakowanie papierowe na 1/2 kurczaka 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papierowe opakowanie na żywność na wynos, przeznaczone dla gastronomii. Najbardziej szczegółowa kategoria to 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ jest to specyficzny rodzaj pojemnika używanego w branży gastronomicznej."
+    },
+    {
+        "ID_Produktu": "242633628",
+        "Nazwa_Produktu": "Opakowanie papierowe foliowane na kurczaka 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to opakowanie na żywność na wynos, przeznaczone dla gastronomii (restauracje, bary, food trucki). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna."
     }
 ]
