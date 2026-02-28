@@ -1948,5 +1948,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to magnetyczne amortyzatory, które są akcesoriami do szafek i innych mebli. Kategoria 'Akcesoria meblowe' jest najbardziej szczegółową i idealnie pasującą opcją."
+    },
+    {
+        "ID_Produktu": "242634053",
+        "Nazwa_Produktu": "Tygodniowy Planer 27 X 19Cm, 50 Stron, Różowy",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tygodniowy planer, czyli materiał piśmienniczy służący do organizacji i planowania. Idealnie pasuje do kategorii 'Akcesoria i materiały biurowe', znajdującej się w drzewie 'Firma i Przemysł > Biuro'. Nazwa 'Kalendarz biurkowy' w opisie dodatkowo wzmacnia ten wybór, wskazując na zastosowanie biurowe, a nie tylko szkolne."
+    },
+    {
+        "ID_Produktu": "242634055",
+        "Nazwa_Produktu": "Etui Na Notes Z Portfelem A5 Dla Kelnera Skórzana",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to skórzane etui na notes z funkcjonalnością portfela, dedykowane dla kelnera. Kategoria 'Moda > Akcesoria > Portfele' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie i charakter produktu."
     }
 ]
