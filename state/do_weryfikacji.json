@@ -2554,5 +2554,35 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "242638326",
+        "Nazwa_Produktu": "Młynek do pieprzu soli z drewna bukowego 32cm 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Młynki i moździerze",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242638410",
+        "Nazwa_Produktu": "Uszczelka Drzwi Piankowa 95cm Biała 2Szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242638414",
+        "Nazwa_Produktu": "Butelka Bidon na Wodę Poidło Dla Psa Kota 380 ML",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
