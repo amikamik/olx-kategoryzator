@@ -1,1 +1,22 @@
-﻿{}
+[
+    {
+        "ID_Produktu": "243157751",
+        "Nazwa_Produktu": "Apteczka pierwszej pomocy / PK-MOT / AS20 - 20+a",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty",
+        "Finalne_ID_AI": 4483,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to apteczka pierwszej pomocy (model PK-MOT AS20) zawierająca wyposażenie zgodne z normą DIN 13164, która jest standardem dla apteczek samochodowych. Mimo że jest to wersja w metalowej szafce ściennej (przeznaczona m.in. do zakładów pracy), ze względu na zawartość i nazwę 'Apteczka', kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty' jest najbardziej precyzyjną kategorią imienną dostępną w drzewie, pasującą do charakteru wkładu medycznego."
+    },
+    {
+        "ID_Produktu": "243157761",
+        "Nazwa_Produktu": "Apteczka pierwszej pomocy / PK-MOT / AS40",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Apteczki i środki na owady > Apteczki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty",
+        "Finalne_ID_AI": 4483,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to apteczka pierwszej pomocy (PK-MOT AS40), co odpowiada bezpośrednio nazwie kategorii 'Apteczki, gaśnice, kamizelki, trójkąty'. Mimo że jest to apteczka ścienna przemysłowa (DIN 13157), na platformie OLX apteczki i sprzęt bezpieczeństwa (w tym gaśnice) są najczęściej kategoryzowane w dziale Motoryzacja ze względu na specyfikę asortymentu bezpieczeństwa (producent PK-MOT również sugeruje branżę motoryzacyjną). Kategoria ta jest bardziej adekwatna niż 'Turystyka' (sugerowana przez system dla apteczek przenośnych) w przypadku stalowej szafki ściennej."
+    }
+]
