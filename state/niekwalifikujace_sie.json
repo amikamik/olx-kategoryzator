@@ -3278,5 +3278,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to worek wodoodporny, którego głównym przeznaczeniem, zgodnie z opisem, jest ochrona rzeczy podczas sportów i aktywności wodnych, takich jak kajakarstwo, rafting, pływanie, nurkowanie, wędkarstwo. Kategoria 'Do kajaków, pontonów i rowerów wodnych' jest najbardziej szczegółową i trafiającą w to zastosowanie, będąc podkategorią 'Akcesoria i części' w 'Sporty wodne'."
+    },
+    {
+        "ID_Produktu": "242634573",
+        "Nazwa_Produktu": "Helect Kalkulator Biurkowy z Funkcją Standardową",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Urządzenia biurowe",
+        "Finalne_ID_AI": 4657,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kalkulator biurkowy z funkcjami biznesowymi (konwersja podatku i waluty), co doskonale pasuje do kategorii 'Urządzenia biurowe' w ramach 'Firma i Przemysł > Biuro'. Jest to bardziej szczegółowa i trafna kategoria niż ogólna 'Pozostałe artykuły szkolne' lub 'Pozostała elektronika'."
     }
 ]
