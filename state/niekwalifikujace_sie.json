@@ -3128,45 +3128,5 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pokrowiec przeznaczony bezpośrednio do ochrony grilla ogrodowego. W drzewie kategorii OLX, akcesoria do grillowania oraz same grille znajdują się w kategorii 'Grill' wewnątrz sekcji 'Ogród'. Wybór kategorii 'Pokrowce' (ID 2140) byłby błędny, ponieważ znajduje się ona w sekcji 'Wyposażenie wnętrz', a produkt jest przeznaczony do użytku zewnętrznego."
-    },
-    {
-        "ID_Produktu": "242634368",
-        "Nazwa_Produktu": "Skórzana karta menu A5,  skórzana teczka na menu",
-        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Aktówki",
-        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
-        "Finalne_ID_AI": 5071,
-        "Czy_Zmieniono_Kategorie": "TAK",
-        "Ocena_Pewnosci_AI": "95%",
-        "Uzasadnienie_AI": "Produkt to skórzana karta menu/teczka na faktury z klipsem na długopis, przeznaczona dla serwerów i kelnerek w restauracji do obsługi rachunków i monet. Jego zastosowanie jest ściśle związane z branżą gastronomiczną. Ponieważ w kategorii 'Firma i Przemysł > Gastronomia' nie ma bardziej szczegółowej podkategorii dla tego typu akcesorium, 'Pozostałe' jest najbardziej odpowiednim wyborem."
-    },
-    {
-        "ID_Produktu": "242634385",
-        "Nazwa_Produktu": "Tacka Doniczka Do Wysadzania Roślin Kiełków 3 Szt",
-        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Doniczki i osłonki",
-        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Donice",
-        "Finalne_ID_AI": 1632,
-        "Czy_Zmieniono_Kategorie": "TAK",
-        "Ocena_Pewnosci_AI": "95%",
-        "Uzasadnienie_AI": "Produkt to tacka/doniczka do wysadzania kiełków i nasion, pełniąca funkcję mini szklarni. Jej opis wyraźnie wskazuje na zastosowanie w uprawie roślin, a nie na cel dekoracyjny. Kategoria 'Donice' w dziale 'Ogród' jest najbardziej adekwatna do funkcjonalnego pojemnika do sadzenia, pomimo, że jest kategorią na poziomie wyżej niż 'Doniczki i osłonki' z działu 'Dekoracje', która byłaby nieprecyzyjna ze względu na funkcjonalność produktu."
-    },
-    {
-        "ID_Produktu": "242634390",
-        "Nazwa_Produktu": "Akcesoria Do Grillowania 20 Szt. W Etui",
-        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
-        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
-        "Finalne_ID_AI": 1633,
-        "Czy_Zmieniono_Kategorie": "TAK",
-        "Ocena_Pewnosci_AI": "100%",
-        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na akcesoria do grillowania. Kategoria 'Grill' jest najbardziej szczegółową i trafioną kategorią dla tego typu produktu."
-    },
-    {
-        "ID_Produktu": "242634399",
-        "Nazwa_Produktu": "Mata Do Szuflad 150X45Cm",
-        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Maty edukacyjne",
-        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
-        "Finalne_ID_AI": 1950,
-        "Czy_Zmieniono_Kategorie": "TAK",
-        "Ocena_Pewnosci_AI": "100%",
-        "Uzasadnienie_AI": "Produkt to mata do szuflad, która jest akcesorium meblowym. Kategoria 'Akcesoria meblowe' (1950) pod 'Dom i Ogród > Meble' jest najbardziej szczegółową i precyzyjną kategorią dla tego typu produktu. Wskazówka systemowa 'Dla Dzieci > Akcesoria dla niemowląt > Maty edukacyjne' jest całkowicie nieprawidłowa i została zignorowana."
     }
 ]
