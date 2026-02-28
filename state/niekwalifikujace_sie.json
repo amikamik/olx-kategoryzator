@@ -3288,5 +3288,95 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to kalkulator biurkowy z funkcjami biznesowymi (konwersja podatku i waluty), co doskonale pasuje do kategorii 'Urządzenia biurowe' w ramach 'Firma i Przemysł > Biuro'. Jest to bardziej szczegółowa i trafna kategoria niż ogólna 'Pozostałe artykuły szkolne' lub 'Pozostała elektronika'."
+    },
+    {
+        "ID_Produktu": "242634623",
+        "Nazwa_Produktu": "Osłona Przeciwsłoneczna Do Samochodu Uniwersalna 2",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Osłony na szyby",
+        "Finalne_ID_AI": 4499,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to osłona przeciwsłoneczna przeznaczona do samochodu, która idealnie pasuje do szczegółowej kategorii 'Osłony na szyby' znajdującej się w drzewie 'Motoryzacja > Wyposażenie i akcesoria samochodowe'."
+    },
+    {
+        "ID_Produktu": "242634627",
+        "Nazwa_Produktu": "Nakrętki Trzpienia Zaworu Opon Samochodowych 12 Sz",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Opony i Felgi > Pozostałe Opony i Felgi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Opony i Felgi > Pozostałe Opony i Felgi",
+        "Finalne_ID_AI": 1389,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to nakrętki na wentyle do opon samochodowych. Jest to akcesorium ściśle związane z oponami i felgami, ale nie jest samą oponą, felgą ani całym kołem. Kategoria 'Pozostałe Opony i Felgi' jest najbardziej szczegółowym i precyzyjnym wyborem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "242634630",
+        "Nazwa_Produktu": "Spolaryzowane Okulary Przeciwsłoneczne Uv400",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to okulary przeciwsłoneczne, a drzewo kategorii zawiera dedykowaną kategorię 'Okulary przeciwsłoneczne' w ścieżce Moda > Akcesoria > Okulary. Jest to najbardziej szczegółowa i trafna kategoria."
+    },
+    {
+        "ID_Produktu": "242634632",
+        "Nazwa_Produktu": "Żarówka H7 Do Reflektora Motocykl I Samochód 2 Szt",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Żarówki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Żarówki",
+        "Finalne_ID_AI": 4508,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to żarówka H7 do reflektorów, przeznaczona zarówno do motocykli, jak i samochodów. Najbardziej szczegółową kategorią-liściem, która idealnie pasuje do tego opisu, jest 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Żarówki'. Mimo, że kategoria nadrzędna dotyczy 'samochodowych', to 'Żarówki' jest najbardziej precyzyjną podkategorią dla tego typu produktu, który często jest uniwersalny dla różnych pojazdów mechanicznych."
+    },
+    {
+        "ID_Produktu": "242634635",
+        "Nazwa_Produktu": "Ochrona Roślin Przed Mrozem Kaptur Ochronny 80X100",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kaptur ochronny dla roślin, przeznaczony do ochrony przed mrozem i innymi czynnikami atmosferycznymi, zarówno wewnątrz, jak i na zewnątrz. Jest to akcesorium ogrodnicze. Najlepiej pasującą kategorią jest 'Dom i Ogród > Ogród', a ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu produktu (pokrowców ochronnych na rośliny), 'Pozostałe Ogród' jest najbardziej odpowiednią kategorią liściową."
+    },
+    {
+        "ID_Produktu": "242634636",
+        "Nazwa_Produktu": "Osłona Przeciwsłoneczna Do Samochodu 110X52 2Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Osłony na szyby",
+        "Finalne_ID_AI": 4499,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to osłona przeciwsłoneczna do samochodu. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Osłony na szyby' jest idealnym i najbardziej szczegółowym dopasowaniem, precyzyjnie opisującym charakter produktu i jego przeznaczenie."
+    },
+    {
+        "ID_Produktu": "242634655",
+        "Nazwa_Produktu": "Taśma Rzepowa Samoprzylepna 1M Szer. 30 Mm, Biały",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma rzepowa samoprzylepna, służąca do porządkowania kabli i innych przedmiotów. Jest to typowy artykuł biurowy lub organizacyjny. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "242634657",
+        "Nazwa_Produktu": "Zestaw Do Uprawy Roślin Mini Szklarnia 3Szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Rośliny > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Donice",
+        "Finalne_ID_AI": 1632,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mini szklarnia składająca się z pojemników i miseczek na nasiona/sadzonki. Kategoria 'Donice' jest najbardziej szczegółową i adekwatną kategorią dla tego typu pojemników do uprawy roślin w obrębie 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "242634660",
+        "Nazwa_Produktu": "Mała i wygodna podróżna kosmetyczka damska",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na kosmetyczkę damską, która idealnie pasuje do kategorii 'Moda > Akcesoria > Kosmetyczki'."
     }
 ]
