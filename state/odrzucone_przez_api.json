@@ -776,5 +776,63 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242634341",
+        "Nazwa_Produktu": "Dławnice Kablowe Z Przeciwnakrętką M32 X 1,5 Ip68",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dławnice kablowe (przepusty kablowe) używane do uszczelniania i mocowania kabli w instalacjach elektrycznych. Kategoria 'System i osprzęt instalacyjny' pod 'Elektryka' najlepiej oddaje naturę tego produktu jako elementu instalacji elektrycznej.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dławnice kablowe z przeciwnakrętką m32 x 1,5 ip68",
+                "description": "Dławnice kablowe z przeciwnakrętką M32 x 1,5 IP68. Dławnice kablowe z przeciwnakrętką M32 x 1,5 IP68. ?Złącza kablowe M32 Gwint przyłączeniowy: metryczny / Gwint przyłączeniowy: M32 x 1,5 mm / odpowiedni do średnicy kabla: 16-21 mm. ?Wodoszczelność IP68 Wysokiej jakości ogniotrwały nylon PA6, ochrona środowiska - gruczołów z tworzywa sztucznego i nakrętek zabezpieczających do uszczelnienia kabli. Zapewniają bezpieczeństwo przed kwasami, alkaliami, kurzem, uderzeniami i wodoszczelnością. ?Regulowana konstrukcja Regulowany zestaw dławnic kablowych został zaprojektowany dla idealnego chwytu i bezproblemowego uszczelnienia napinającego. Oznaczenie kilku gwintów gwarantuje bezpieczny i szybki montaż oraz trwałe osadzenie nakrętki złącznej. Wysoka odporność na rozciąganie, bez uszkodzenia kabli lub urządzeń. ?Łatwa obsługa Regulowane dławiki kablowe nie wymagają demontażu. Przepust kablowy można wprowadzić bezpośrednio, a następnie lekko dokręcić. ?Szerokie zastosowanie Przepust kablowy jest wodoszczelny do wszystkich odpornych na warunki atmosferyczne armatur elektrycznych, takich jak gniazda, przełączniki, skrzynki przyłączeniowe, tablice rozdzielcze i mocowania kabli itd. ?Złączka kablowa składa się z pięciu części nakrętki zabezpieczającej, podkładki, zacisk zaciskowy, pierścień uszczelniający i nakrętka uszczelniająca. Specyfikacja Marka: Bolatus Materiał: Nylon + guma Typ instalacji: Wkręcane Kolor: szary Funkcja specjalna: wodoodporność, ognioodporność Numer części: ?H02 Wymiary opakowania: 15,2 x 10,4 x 4,4 cm; 170 g Odporność na temperaturę: od -40C do maks. 100 ?C. Rozmiar: M32 (16-21 mm). Dławnice kablowe z przeciwnakrętką M32 x 1,5 IP68\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 36.76,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/895e042e990e4cb5cc3d7701c51710d5.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/f694dec3dc399d3cf51a5912fecd1af8.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/2b8a49f5235b456570b2dd531ac54d71.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
