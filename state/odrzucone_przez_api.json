@@ -241,5 +241,65 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243157806",
+        "Nazwa_Produktu": "Apteczka pierwszej pomocy / PK-MOT / AZR - BDRw",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Apteczki i środki na owady > Apteczki",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Apteczki i środki na owady",
+        "Finalne_ID_AI": 3974,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest apteczką pierwszej pomocy, co idealnie pasuje do kategorii 'Apteczki i środki na owady'. Mimo, że 'środki na owady' nie są głównym elementem produktu, nazwa kategorii zawiera kluczowe słowo 'Apteczki', a jest to najbardziej szczegółowa kategoria typu leaf w drzewie, która bezpośrednio odnosi się do apteczek. Wskazówka systemowa dodatkowo potwierdza ten wybór.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Apteczka pierwszej pomocy / pk-mot / azr - bdrw",
+                "description": "Apteczka pierwszej pomocy z rączką, zakładowa Wymiary(szer x wys x dł): 24 cm x 24 cm x 10,5 cm Kolor: Biały Marka: PK-MOT wykonana z tworzywa sztucznego (polistyren) wyposażenie zgodne z normą DIN 13164 14-częściowy zestaw plastrów z opatrunkiem: 6x10 cm (4 szt.) , 4,3x7,2 cm (2 szt.), 12x2 cm (2 szt.), 1,9x7,2 cm (2 szt.) , 2,5x7,2 cm (4 szt.) plaster na szpulce 5 m x 2,5 cm (1 szt.) bandaż elastyczny 4 m x 6 cm (2 szt.) oraz 4 m x 8 cm (3 szt.) rękawiczki winylowe (2 pary) chusteczki nasączone (2 szt.) chusta opatrunkowa 60x80 cm (1 szt.) oraz 60x40 cm (1 szt.) bandaż z kompresem (opatrunek indywidualny) 6x8 cm (1 szt.) , 8x10 cm (2 szt.) oraz 10x12 cm (1 szt.) kompres na rany 10x10 cm (6 szt.) chusta trójkątna 96x96x136 cm (2 szt.) koc termiczny 160x210 cm (1 szt.) nożyczki (1 szt.) ustnik do sztucznego oddychania instrukcja udzielania pierwszej pomocy walizka z możliwością zawieszenia na ścianie wymiary apteczki:10,5x24x24 Normy: - DIN 13164 Produkt polecany dla branż: - Obsługa techniczna obiektów w tym hoteli, prace domowe oraz porządkowe, kwiaciarnie - Przemysł spożywczy w tym obsługa restauracji oraz służby zdrowia i lecznictwa - Usługi ochrony w tym ratownicy i strażacy oraz obrona narodowa Numer jednostki notyfikującej : 0123 TV SD Product Service GmbH Ridlerstr.65, 80339 Mnchen, Niemcy Certyfikat CE numer: G2S 038500 0026 Rev.00 apteczka pierwszej pomocy, apteczka zakładowa, PK-MOT, apteczka AZR, DIN 13164, pierwsza pomoc, apteczka z rączką, medyczna walizka, wyposażenie apteczki, bandaż elastyczny, plaster z opatrunkiem, rękawiczki winylowe, chusteczki nasączone, chusta opatrunkowa, bandaż z kompresem, kompres na rany, chusta trójkątna, koc termiczny, nożyczki do apteczki, ustnik do sztucznego oddychania, instrukcja pierwszej pomocy, apteczka przenośna, walizka medyczna, norma DIN, ratownictwo, usługi ochrony, branża spożywcza, obsługa techniczna obiektów, certyfikat CE, TV SD, zakład produkcyjno-handlowy, apteczka dla służb zdrowia, norma bezpieczeństwa, prace domowe, prace porządkowe, wyposażenie ratownicze, certyfikowana apteczka, polistyren, tworzywo sztuczne, zintegrowane wyposażenie, apteczka BDRw, apteczka branżowa, polski producent, ZPH PK-MOT, certyfikowana jakość, bezpieczeństwo medyczne\n\nProducent odpowiedzialny:\nZAKŁAD PRODUKCYJNO-HANDLOWY PK-MOT\nul. Tadeusza Kościuszki 151, 07-100 Węgrów\nKontakt: biuro[at]pk-mot.pl\n\n[DOFIRMY]",
+                "category_id": 3974,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 76.7,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/b22160037c58709cede6a890c50e15e3.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11c667/64fb567a4e97a38a8563454f33cf"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

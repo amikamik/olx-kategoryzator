@@ -18,5 +18,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to apteczka pierwszej pomocy (PK-MOT AS40), co odpowiada bezpośrednio nazwie kategorii 'Apteczki, gaśnice, kamizelki, trójkąty'. Mimo że jest to apteczka ścienna przemysłowa (DIN 13157), na platformie OLX apteczki i sprzęt bezpieczeństwa (w tym gaśnice) są najczęściej kategoryzowane w dziale Motoryzacja ze względu na specyfikę asortymentu bezpieczeństwa (producent PK-MOT również sugeruje branżę motoryzacyjną). Kategoria ta jest bardziej adekwatna niż 'Turystyka' (sugerowana przez system dla apteczek przenośnych) w przypadku stalowej szafki ściennej."
+    },
+    {
+        "ID_Produktu": "243157765",
+        "Nazwa_Produktu": "Apteczka pierwszej pomocy / PK-MOT / ASA_P - BD DIN",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Apteczki i środki na owady > Apteczki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty",
+        "Finalne_ID_AI": 4483,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako apteczka samochodowa, przeznaczona do obowiązkowego wyposażenia pojazdu. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty' jest najbardziej precyzyjna i szczegółowa, idealnie dopasowana do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "243157768",
+        "Nazwa_Produktu": "Apteczka pierwszej pomocy / PK-MOT / ASAC",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Apteczki i środki na owady > Apteczki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty",
+        "Finalne_ID_AI": 4483,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako apteczka samochodowa, zawiera trójkąt ostrzegawczy i jest marki związanej z motoryzacją (PK-MOT). Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty' jest najbardziej precyzyjna."
+    },
+    {
+        "ID_Produktu": "243157774",
+        "Nazwa_Produktu": "Apteczka pierwszej pomocy / PK-MOT / ASAM - MATERIAŁOWA DIN 13164",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Podręczniki szkolne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty",
+        "Finalne_ID_AI": 4483,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na apteczkę pierwszej pomocy, która jest zgodna z normą DIN 13164 (często stosowaną dla apteczek samochodowych i w miejscu pracy). Kategoria 'Apteczki, gaśnice, kamizelki, trójkąty' jest najbardziej szczegółowa i precyzyjnie odpowiada produktowi, znajdując się w odpowiednim kontekście 'Motoryzacja > Wyposażenie i akcesoria samochodowe'."
     }
 ]
