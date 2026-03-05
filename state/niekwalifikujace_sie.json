@@ -548,5 +548,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to mikser statyczny do klejów dwuskładnikowych, używany jako element systemu mieszającego. Najbardziej pasującą kategorią, odzwierciedlającą jego funkcję jako komponentu do urządzeń przemysłowych/profesjonalnych, jest 'Części do maszyn i urządzeń' w gałęzi 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "243159312",
+        "Nazwa_Produktu": "Mop Vileda 1-2 Spray MAX BOX",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Pozostałe",
+        "Finalne_ID_AI": 293,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to mop Vileda, będący narzędziem do sprzątania w gospodarstwie domowym. Najbardziej ogólną i pasującą kategorią jest 'Dom i Ogród'. Ponieważ w drzewie kategorii brakuje bardziej szczegółowej podkategorii dla narzędzi do sprzątania (takich jak 'sprzęt do sprzątania' lub 'mopy') i nie jest to ani mebel, ani narzędzie ogrodowe, ani budowlane, ani typowy produkt 'Supermarketu' (takie jak artykuły spożywcze czy chemia), kategoria 'Pozostałe' w obrębie 'Dom i Ogród' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "243159472",
+        "Nazwa_Produktu": "Naklejka Martwe Pole ANGLES MORTS - Folia Standard",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Naklejka jest akcesorium samochodowym, a jej głównym celem jest oznaczenie martwego pola, co bezpośrednio wiąże się z bezpieczeństwem i zabezpieczeniem pojazdu w ruchu drogowym, spełniając wymogi prawne. Kategoria 'Zabezpieczenia' pod 'Wyposażenie i akcesoria samochodowe' najlepiej oddaje tę funkcję."
+    },
+    {
+        "ID_Produktu": "243159479",
+        "Nazwa_Produktu": "Napinacz Pasa Transportowego 350 daN 0,5M/50MM/5T",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to napinacz pasa transportowego, służący do zabezpieczania ładunków w transporcie (np. auto na lawecie, palety na naczepie, maszyny budowlane). Najbardziej szczegółową i pasującą kategorią jest 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia', ponieważ napinacz bezpośrednio odpowiada za funkcję zabezpieczającą w kontekście transportu pojazdami."
+    },
+    {
+        "ID_Produktu": "243159481",
+        "Nazwa_Produktu": "Napinacz Pasa Transportowego ERGO 500 daN 0,5M/50MM/5T",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to napinacz pasa transportowego, którego głównym przeznaczeniem jest zabezpieczanie ładunków podczas transportu. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' idealnie odzwierciedla tę funkcję, pomimo że pasy mogą być używane również w kontekście przemysłowym, ich bezpośrednie zastosowanie jest w transporcie drogowym i zabezpieczaniu ładunków w pojazdach. Jest to najbardziej szczegółowa i precyzyjna kategoria uwzględniająca charakter produktu."
     }
 ]
