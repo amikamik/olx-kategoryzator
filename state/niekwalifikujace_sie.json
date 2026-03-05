@@ -858,5 +858,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to przybornik/organizer na biurko, przeznaczony na przybory biurowe. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu, który jest akcesorium biurowym. Wskazówka systemowa 'Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze' jest mniej trafna, ponieważ produkt nie jest artykułem papierniczym i nie jest przeznaczony wyłącznie dla dzieci, ale do użytku domowego i służbowego."
+    },
+    {
+        "ID_Produktu": "243160297",
+        "Nazwa_Produktu": "Regał magazynowy 150x75x30 cm - 4 Półki",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalne_ID_AI": 4677,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł produktu 'Regał magazynowy' oraz wielokrotne wzmianki w opisie o zastosowaniu w 'magazynie', 'sklepie', 'archiwum' idealnie pasują do kategorii 'Firma i Przemysł > Sklepy i magazyny > Regały'. Nawet jeśli jest możliwość złożenia jako stół warsztatowy lub użycia w garażu/piwnicy, to główny kontekst użytkowania wskazuje na profesjonalne przechowywanie."
+    },
+    {
+        "ID_Produktu": "243160302",
+        "Nazwa_Produktu": "Regał magazynowy 180x90x40 cm - 5 Półek",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Regały",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Regały",
+        "Finalne_ID_AI": 720,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Regał magazynowy', który jest meblem przeznaczonym do przechowywania. Najbardziej szczegółowa i pasująca kategoria to 'Dom i Ogród > Meble > Regały'."
+    },
+    {
+        "ID_Produktu": "243160312",
+        "Nazwa_Produktu": "Regał magazynowy 220x100x45 cm - 5 Półek",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Regały",
+        "Finalne_ID_AI": 4677,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Regał magazynowy' o wysokiej nośności, przeznaczony do magazynów, sklepów, garaży, piwnic i biur. Najbardziej szczegółowa i pasująca kategoria to 'Firma i Przemysł > Sklepy i magazyny > Regały', co jest zgodne z tytułem i opisem produktu oraz sugestią systemu."
     }
 ]
