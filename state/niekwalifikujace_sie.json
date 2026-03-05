@@ -4788,5 +4788,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to filtr powietrza (część zamienna) dedykowany do samochodów osobowych, co pasuje bezpośrednio do liścia 'Osobowe' w sekcji 'Części samochodowe'."
+    },
+    {
+        "ID_Produktu": "242635244",
+        "Nazwa_Produktu": "Kosmetyczka czarna pikowana podręcznak",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany kosmetyczką, a jego opis i wymiary potwierdzają przeznaczenie do przechowywania kosmetyków i przyborów do makijażu. Kategoria 'Kosmetyczki' (ID: 2764) w sekcji Moda > Akcesoria jest najbardziej precyzyjnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "242635251",
+        "Nazwa_Produktu": "Brelok Aniołek wisiorek Anioł Stróż",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Wisiorki",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Wisiorki",
+        "Finalne_ID_AI": 2840,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest opisany zarówno jako brelok, jak i wisiorek (talizman). W podanym drzewie kategorii brakuje bezpośredniej kategorii dla breloków, dlatego kategoria 'Wisiorki' (id: 2840) w sekcji 'Biżuteria' jest najbardziej precyzyjnym wyborem, co jest również zgodne z sugestią systemu OLX."
     }
 ]
