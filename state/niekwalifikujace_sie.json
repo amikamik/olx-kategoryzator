@@ -4808,5 +4808,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt jest opisany zarówno jako brelok, jak i wisiorek (talizman). W podanym drzewie kategorii brakuje bezpośredniej kategorii dla breloków, dlatego kategoria 'Wisiorki' (id: 2840) w sekcji 'Biżuteria' jest najbardziej precyzyjnym wyborem, co jest również zgodne z sugestią systemu OLX."
+    },
+    {
+        "ID_Produktu": "242635286",
+        "Nazwa_Produktu": "Torba Męska Saszetka na Ramię Sportowa Czarna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Listonoszki",
+        "Finalne_ID_AI": 2753,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt został w opisie jednoznacznie zdefiniowany jako 'listonoszka'. Wymiary oraz obecność regulowanego paska na ramię idealnie pasują do tej specyficznej kategorii toreb."
     }
 ]
