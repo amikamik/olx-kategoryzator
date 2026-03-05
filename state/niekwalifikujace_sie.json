@@ -298,5 +298,225 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to kasetka na pieniądze z zamkiem, przeznaczona do bezpiecznego przechowywania wartościowych przedmiotów i dokumentów w domu lub biurze. Najlepiej pasuje do kategorii 'Akcesoria i materiały biurowe' w ramach 'Firma i Przemysł > Biuro', ponieważ jest to akcesorium biurowe służące do przechowywania wartości pieniężnych i dokumentów."
+    },
+    {
+        "ID_Produktu": "243158837",
+        "Nazwa_Produktu": "Klej do Plandek HYSOFIX PLAN 20 - 120 ml",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to klej przeznaczony do profesjonalnych napraw, szczególnie plandek samochodowych, obuwia i zabawek z PCW. Wskazano na zastosowanie w firmach produkcyjnych, zakładach naprawczych i firmach transportowych. Kategoria 'Narzędzia warsztatowe' w ramach 'Firma i Przemysł' -> 'Wyposażenie warsztatów' jest najbardziej szczegółową i adekwatną kategorią dla tego typu profesjonalnego środka klejącego."
+    },
+    {
+        "ID_Produktu": "243158841",
+        "Nazwa_Produktu": "Klej do Plandek HYSOFIX PLAN 20 - 500 ml",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny klej przeznaczony przede wszystkim do profesjonalnej naprawy plandek samochodowych i innych materiałów PCW, z wyraźnym wskazaniem na użytkowanie przez firmy produkcyjne, zakłady naprawcze i firmy transportowe. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' najlepiej oddaje profesjonalny charakter produktu i jego zastosowanie w warsztatach i zakładach naprawczych, gdzie jest traktowany jako narzędzie lub niezbędny materiał eksploatacyjny. Wskazówka systemowa została zignorowana, ponieważ jej sugestia była nieadekwatna do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "243158937",
+        "Nazwa_Produktu": "Koperta DL biała SK samoklejąca 110x220 mm - okienko 90x45 mm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu wielokrotnie wskazują na przeznaczenie biurowe i firmowe (koperta biurowa, firmowa, na dokumenty, artykuły do biura, wyposażenie biurowe). Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i precyzyjnie odpowiada temu zastosowaniu. Sugerowana kategoria 'Dla Dzieci > Artykuły szkolne' jest nieadekwatna do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "243158940",
+        "Nazwa_Produktu": "Kosz Ogrodowy Składany FLAT PICK UP TQ-BF200",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Meble ogrodowe > Zestawy mebli",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to składany kosz ogrodowy, przeznaczony do zbierania liści, trawy i chwastów. Jest to narzędzie lub akcesorium ściśle związane z pracami ogrodowymi, więc kategoria 'Dom i Ogród > Ogród > Narzędzia ogrodowe' jest najbardziej odpowiednia. Ponieważ nie ma bardziej szczegółowej podkategorii dla koszy, 'Pozostałe' w 'Narzędziach ogrodowych' jest najlepszym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "243158945",
+        "Nazwa_Produktu": "Kosz Ogrodowy Składany Pick-Up 120L TQ-B120",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Taczki",
+        "Finalne_ID_AI": 2884,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to składany kosz ogrodowy służący do transportu liści, trawy i chwastów. Choć nie jest to tradycyjna taczka, pełni bardzo podobną funkcję transportu materiałów ogrodowych. Kategoria 'Taczki' w ramach 'Narzędzi ogrodowych' jest najbardziej szczegółowym i najlepiej pasującym wyborem na podstawie funkcji produktu. Wskazówka OLX dotycząca 'Narzędzi' jest zgodna z tą gałęzią."
+    },
+    {
+        "ID_Produktu": "243158951",
+        "Nazwa_Produktu": "Kosz Ogrodowy Składany Pick-Up 270L TQ-B270",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Koszyki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to składany kosz ogrodowy służący do zbierania i transportu liści, trawy i chwastów. Jest to akcesorium ogrodowe, które najlepiej pasuje do kategorii 'Narzędzia ogrodowe'. Ponieważ nie ma bardziej specyficznej podkategorii dla tego typu kosza, wybieram 'Pozostałe' w ramach 'Narzędzia ogrodowe'."
+    },
+    {
+        "ID_Produktu": "243158965",
+        "Nazwa_Produktu": "Koszulki Groszkowe Obwoluty A4 - 35 mic - BANTEX - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koszulki na dokumenty formatu A4, przeznaczone do segregacji i przechowywania dokumentów w biurze, firmie, magazynie lub na uczelni. Opis wyraźnie wskazuje na zastosowanie biurowe i profesjonalne. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna, lepiej pasująca niż ogólne 'Artykuły szkolne' czy 'Pozostałe Artykuły papiernicze' w kontekście szerokiego zastosowania wskazanego w opisie."
+    },
+    {
+        "ID_Produktu": "243158971",
+        "Nazwa_Produktu": "Koszulki Krystaliczne Obwoluty A4 BANTEX - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to koszulki na dokumenty formatu A4, przeznaczone do segregacji i przechowywania w biurach, firmach i na uczelniach. Najlepiej pasuje do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', ponieważ jest to artykuł biurowy, którego głównym zastosowaniem jest praca biurowa i organizacja dokumentacji w kontekście firmowym i profesjonalnym. Kategoria 'Dla Dzieci > Artykuły szkolne' jest zbyt wąska i nie oddaje głównego przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "243158976",
+        "Nazwa_Produktu": "Kółka do fotela biurowego - 5szt - czarne",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Gry i Konsole > Akcesoria gamingowe > Fotele i biurka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Meble biurowe > Akcesoria",
+        "Finalne_ID_AI": 4937,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw kółek wymiennych do fotela biurowego/obrotowego/gamerskiego. Kategoria 'Firma i Przemysł > Biuro > Meble biurowe > Akcesoria' jest najbardziej precyzyjna, ponieważ kółka są akcesoriami do mebli biurowych (foteli), a 'biuro' jest kluczowym kontekstem użytkowania, nawet jeśli obejmuje fotele 'gamerskie'."
+    },
+    {
+        "ID_Produktu": "243158982",
+        "Nazwa_Produktu": "Krajowy List Przewozowy 80 kartek - 4 odcinki - 20 kompletów",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to Krajowy List Przewozowy, który jest specjalistycznym formularzem, czyli materiałem biurowym. Jest on przeznaczony do użytku firmowego w celach logistycznych i transportowych. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółową i trafioną kategorią, odzwierciedlającą przeznaczenie produktu w środowisku biznesowym. Sugestia systemowa o kategorii 'Dla Dzieci' jest błędna i niezgodna z opisem produktu."
+    },
+    {
+        "ID_Produktu": "243159011",
+        "Nazwa_Produktu": "Książka czasu pracy kierowcy FRANCJA - LIVRET INDIVIDUEL DE CONTROLE",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Podręczniki szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Książka czasu pracy kierowcy' i 'ewidencja czasu pracy', opisany jako 'druk offsetowy' w 'oprawie zeszytowej', przeznaczony do systematycznego wypełniania jako 'dokument obowiązkowy'. To sprawia, że jest to materiał biurowy służący do prowadzenia dokumentacji i ewidencji w firmie, idealnie pasujący do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "243159019",
+        "Nazwa_Produktu": "Książka czasu pracy kierowcy KONTROLLBUCH PL - DE",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Podręczniki szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczna książka ewidencji czasu pracy dla kierowców, będąca dokumentem obowiązkowym w działalności transportowej. Najbardziej pasującą kategorią jest 'Akcesoria i materiały biurowe', znajdująca się w sekcji 'Firma i Przemysł > Biuro', ponieważ jest to artykuł biurowy/dokumentacyjny przeznaczony do użytku profesjonalnego w firmie, a nie podręcznik szkolny."
+    },
+    {
+        "ID_Produktu": "243159022",
+        "Nazwa_Produktu": "Książka czasu pracy kierowcy PL - DE - FR",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Książki naukowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Tachografy",
+        "Finalne_ID_AI": 4505,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to książka kontroli czasu pracy kierowcy, która pełni funkcję ewidencji czasu pracy i jest obowiązkowym dokumentem w transporcie. Kategoria 'Tachografy' (4505) jest najbardziej szczegółowa i funkcjonalnie powiązana, ponieważ tachografy służą do elektronicznego rejestrowania czasu pracy kierowcy, a ta książka jest jej manualnym odpowiednikiem/uzupełnieniem w kontekście regulacji czasu pracy kierowców w motoryzacji. Jest to bardziej specyficzne niż ogólna 'Literatura motoryzacyjna' czy 'Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "243159027",
+        "Nazwa_Produktu": "Kuchenka Elektryczna 1-Palnikowa Ravanson HP-7010B",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki przenośne",
+        "Finalne_ID_AI": 2210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu wyraźnie wskazują, że jest to przenośna kuchenka elektryczna, idealna do użytku turystycznego i na działkę. Kategoria 'Kuchenki przenośne' jest najbardziej szczegółowa i precyzyjnie pasuje do tych cech."
+    },
+    {
+        "ID_Produktu": "243159033",
+        "Nazwa_Produktu": "Kuchenka Elektryczna 1-Palnikowa Ravanson HP-9010B",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki przenośne",
+        "Finalne_ID_AI": 2210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na przenośną kuchenkę elektryczną. Kategoria 'Kuchenki przenośne' jest najbardziej szczegółowa i precyzyjna, idealnie pasująca do charakterystyki produktu (1-palnikowa, małe wymiary, zastosowanie turystyczne, na działkę, w małej gastronomii)."
+    },
+    {
+        "ID_Produktu": "243159039",
+        "Nazwa_Produktu": "Kuchenka Gazowa 1-Palnikowa Ravanson K-01BR",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki przenośne",
+        "Finalne_ID_AI": 2210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kuchenka gazowa, która w opisie jest wielokrotnie określana jako 'turystyczna', 'kempingowa' i 'przenośna', z podkreśleniem jej niewielkich wymiarów i łatwości transportu. Kategoria 'Kuchenki przenośne' jest najbardziej szczegółowa i idealnie pasuje do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "243159045",
+        "Nazwa_Produktu": "Kuchenka Gazowa 2-Palnikowa Ravanson K-02TB",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki przenośne",
+        "Finalne_ID_AI": 2210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dwupalnikowa kuchenka gazowa, która w opisie jest wyraźnie określana jako 'kuchenka turystyczna' i 'przenośna kuchenka gazowa', nadająca się do użytku w domu, na działce, w turystyce i małej gastronomii. Kategoria 'Kuchenki przenośne' jest najbardziej precyzyjnym dopasowaniem w drzewie kategorii, odpowiadając na cechy przenośności i małych wymiarów produktu."
+    },
+    {
+        "ID_Produktu": "243159049",
+        "Nazwa_Produktu": "Kuchenka Gazowa 3-Palnikowa Ravanson K-03BR",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalne_ID_AI": 2211,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wolnostojąca kuchenka gazowa z trzema palnikami, przeznaczona do użytku domowego, turystycznego i w małej gastronomii, co idealnie pasuje do kategorii \"Kuchenki wolnostojące\" w drzewie kategorii \"Elektronika > Sprzęt AGD > AGD wolnostojące\"."
+    },
+    {
+        "ID_Produktu": "243159075",
+        "Nazwa_Produktu": "Kwit Paletowy A5 100 kartek - Samokopiujący",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to formularz (kwit paletowy) w formacie A5, samokopiujący, przeznaczony do dokumentacji i zarządzania paletami w kontekście firmowym (logistyka, magazyn). Pasuje idealnie do kategorii 'Akcesoria i materiały biurowe' w ramach 'Firma i Przemysł > Biuro', która jest najbardziej szczegółowa i trafna. Kategoria wskazana w podpowiedzi od systemu jest niepoprawna ze względu na przeznaczenie produktu (dla dzieci/szkoły, a nie dla biznesu)."
+    },
+    {
+        "ID_Produktu": "243159100",
+        "Nazwa_Produktu": "Lina Transportowa 3m/50mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lina transportowa, która służy do zabezpieczania ładunku podczas przewozu, co jest bezpośrednio związane z 'Wyposażeniem i akcesoriami samochodowymi' oraz jego funkcją 'Zabezpieczenia'. Opis wyraźnie wspomina o zastosowaniu w samochodach ciężarowych, co umiejscawia ją w kategorii motoryzacyjnej."
+    },
+    {
+        "ID_Produktu": "243159115",
+        "Nazwa_Produktu": "Lusterko Do Obserwacji 360",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Makijaż > Akcesoria > Lusterka kosmetyczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest lusterkiem samochodowym służącym do obserwacji dzieci, co klasyfikuje go jako akcesorium do samochodu. Ponieważ nie pasuje do żadnej innej, bardziej specyficznej podkategorii w ramach 'Wyposażenie i akcesoria samochodowe', najodpowiedniejszą kategorią jest 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "243159120",
+        "Nazwa_Produktu": "Lusterko Sam",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Makijaż > Akcesoria > Lusterka kosmetyczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lusterko do obserwacji dziecka w samochodzie, co klasyfikuje go jako akcesorium samochodowe. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu lusterka w ramach 'Wyposażenie i akcesoria samochodowe', najbardziej odpowiednią kategorią-liściem jest 'Pozostałe'."
     }
 ]
