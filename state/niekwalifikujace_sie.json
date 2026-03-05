@@ -4928,5 +4928,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest bransoletą (paskiem) przeznaczoną do zegarka Apple Watch. Najbardziej precyzyjną kategorią w drzewie jest 'Paski do zegarków' (ID: 4778), która znajduje się w sekcji akcesoriów do zegarków."
+    },
+    {
+        "ID_Produktu": "242635459",
+        "Nazwa_Produktu": "Torebka Damska na Ramię Mała Skóra PU Czarna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Listonoszki",
+        "Finalne_ID_AI": 2753,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opis produktu wyraźnie określa fason torebki jako 'klasyczną listonoszkę', co pozwala na wybór bardziej precyzyjnej kategorii niż ogólna 'torba na ramię'."
+    },
+    {
+        "ID_Produktu": "242635460",
+        "Nazwa_Produktu": "Klipsy Klamry do wiązania roślin Rozmiar M  50szt",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Osprzęt",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to akcesoria ogrodowe służące do pielęgnacji i mocowania roślin. Najlepiej pasuje do podkategorii 'Narzędzia ogrodowe', a ze względu na brak specyficznej kategorii dla podpór i wiązań roślin, właściwym wyborem jest kategoria 'Pozostałe' w tym drzewie."
     }
 ]
