@@ -258,5 +258,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to elektroniczny interfejs diagnostyczny do samochodów (OBD2), który doskonale pasuje do kategorii 'Elektronika samochodowa' znajdującej się w 'Wyposażenie i akcesoria samochodowe' w gałęzi 'Motoryzacja'."
+    },
+    {
+        "ID_Produktu": "243158655",
+        "Nazwa_Produktu": "Karton Klapowy 200x120x80mm 320g/m2",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to karton klapowy, który jest akcesorium i materiałem biurowym, często używanym do masowej wysyłki i pakowania towarów w działalności biznesowej. Pasuje najlepiej do kategorii 'Akcesoria i materiały biurowe' w drzewie 'Firma i Przemysł > Biuro'."
+    },
+    {
+        "ID_Produktu": "243158676",
+        "Nazwa_Produktu": "Karton klapowy 450x350x80mm BIAŁY-BRĄZOWY 365g",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to karton fasonowy przeznaczony do wysyłki i pakowania towarów, co jest typowym zastosowaniem biznesowym. Opis zawiera frazy takie jak 'masowa wysyłka', 'Paczkomaty InPost - gabaryt A', 'opakowanie dla firm', 'sprzedaż hurtowa kartonów'. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' najlepiej oddaje komercyjny charakter i przeznaczenie produktu jako materiału biurowego/opakowaniowego dla firm, będąc bardziej specyficzną niż ogólne 'Pudełka' w kategorii 'Dom i Ogród', które zazwyczaj odnoszą się do domowych pojemników na przechowywanie lub dekoracji."
     }
 ]

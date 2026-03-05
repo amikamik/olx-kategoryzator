@@ -752,5 +752,83 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243158664",
+        "Nazwa_Produktu": "Karton klapowy 350x250x80mm 320g/m2",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalne_ID_AI": 2102,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to karton klapowy, czyli rodzaj pudełka. Kategoria 'Pudełka' w ramach 'Dom i Ogród > Wyposażenie wnętrz' jest najbardziej szczegółowa i trafna dla tego typu produktu, niezależnie od tego, czy jest używany w domu, czy w firmie do wysyłek czy magazynowania. Wskazówka OLX również wskazuje na tę kategorię.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Karton klapowy 350x250x80mm 320g/m2",
+                "description": "Karton klapowy 350x250x80mm BRĄZOWY 3W B 320g/m2 Oferta dotyczy 1 sztuki Kolor: Brązowy Gramatura: 320 g/m2 Tektura: falista 3W fala B Wymiary zewnętrzne Długość: 350 mm Szerokość: 250 mm Wysokość: 80 mm Najprostsze w składaniu Idealne do masowej wysyłki, oszczędność na taśmie, dodatkowe wzmocnienia w narożach Klejone 4 punktowo. Bardzo sztywne i estetyczne po złożeniu, łatwe w składaniu. Wygodne magazynowanie Nasze kartony są zawsze rozłożone, przez co zajmują bardzo mało miejsca. Dzięki temu wygodnie można je magazynować. Posiadamy również inne rodzaje oraz wymiary kartonów karton klapowy, karton brązowy, tektura falista, opakowanie wysyłkowe, łatwe składanie, oszczędność na taśmie, sztywne kartony, estetyczne wykończenie, magazynowanie, kartony do wysyłki, PAKO, wysyłka masowa, oryginalne opakowanie, karton trójwarstwowy, fala B, rozłożone kartony, oszczędność miejsca, składane kartony, 320 g/m2, kartony Koszalin, kartony hurtowe, stan nowy, PAKO GROUP, sklep@dofirmy.pl, ul. Bajkowa 2, kartony Polska, sprzedaż online, Allegro, Amazon, Ebay, opakowanie zbiorcze, pakowanie Stretch, pakowanie Taśma, kartony 350x250x80 mm, karton jednostkowy, karton 360 sztuk, wysyłka kartonów, ekonomiczne opakowanie, profesjonalne opakowanie, opakowania kurierskie, karton opakowanie, sprzedaż detaliczna\n\nProducent odpowiedzialny:\nPAKO GROUP PATRYK KOZIŃSKI\nul. Bajkowa 2, 75-710 Koszalin\nKontakt: sklep[at]dofirmy.pl\n\n[DOFIRMY]",
+                "category_id": 2102,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 15.22,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/04ab5cfbcd1f688fe21749b83724976d.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/f3167852286482f73fd05c4b6d84a2a9.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/1a20e333b8ecdb7b4a7ac5142cf27397.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/e11b424d87c3e92d49c59ebfc0a369a4.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/a9271cd2c96966faf252e738860819fe.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/111368/37418c4f4e2fb454e329abd5ce1b"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/119dd0/589c973b4a668c400994f82c6a18"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/1127cf/60f5de354e0db617c3e98cd95acc"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
