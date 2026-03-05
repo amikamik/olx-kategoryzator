@@ -681,5 +681,76 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243158338",
+        "Nazwa_Produktu": "Filtr Easy Air Cooler CR 7321.1",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Filtry do wody",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > Części i akcesoria do AGD > Części i akcesoria AGD do domu",
+        "Finalne_ID_AI": 3125,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to filtr do klimatora/chłodnicy powietrza. Pasuje do kategorii \"Części i akcesoria AGD do domu\" jako akcesorium do urządzenia AGD służącego do chłodzenia i oczyszczania powietrza w domu. Wskazówka systemowa \"Filtry do wody\" jest nieprawidłowa, ponieważ jest to filtr powietrza.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Filtr easy air cooler cr 7321.1",
+                "description": "Filtr do klimatora Air Cooler Skład zestawu: Jeden papierowy filtr wymienny Pasuje do urządzeń: AIR COOLER ARCTIC COOLER ROVUS ARCTIC COOLER Easy Air Cooler Camry CR 7321 filtr powietrza, wymienny filtr, filtr do klimatora, Camry filtr, CR 7321.1 kompatybilność, klimatyzacja domowa, akcesoria do klimatorów, filtr papierowy, filtr Camry, Camry 5906142924196, klimator Easy Air Cooler, Arctic Cooler kompatybilny, ROVUS Arctic Cooler, Camry Cooler, filtr wymienny, urządzenia chłodzące, CE zgodność, komponenty klimatora, nowy filtr, oryginalne opakowanie, FOX Sp. z o.o., produkcja Polska, filtry Camry sklep, filtry do air cooler, mechaniczne sterowanie, czarny filtr, wyposażenie klimatorów, filtry klimatyzacyjne, filtr powietrza czarny, Easy Air Cooler Camry, Artykuły do domu, klimator Camry, filtry do Camry, Camry markowe akcesoria, sprawdzony producent, alergicy filtry, chłodzenie pomieszczeń, klimaga, filtracja powietrza, komponenty coolerów, filtry do chłodzenia, profesjonalne filtry, akcesoria do klimatorów, klimatyzacja akcesoria, Polska produkcja, wydajny filtr, szybki montaż filtra, oczyszczanie powietrza, bezpieczeństwo CE, ul. Ordona Warszawa, biuro@adler.com.pl, Camry osprzęt.\n\nProducent odpowiedzialny:\nFOX Sp. z o.o.\nul. Ordona 2 A, 01-237 Warszawa\nKontakt: biuro[at]adler.com.pl\n\n[DOFIRMY]",
+                "category_id": 3125,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 39.76,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/b91c7ac4357f7c70ad71f88d44387c69.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/b3037d8ba1119554892db674ac83f3f9.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11f029/87211bff4a97a6f9c4f41bc0709b"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11cea8/d3fecec0435f9ba7e3c8ffdab66f"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

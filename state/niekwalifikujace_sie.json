@@ -178,5 +178,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to elektryczna dmuchawa przeznaczona głównie do rozpalania grilla, kominka i ogniska. Kategoria 'Grill' jest najbardziej szczegółowa i bezpośrednio pasuje do głównego zastosowania produktu."
+    },
+    {
+        "ID_Produktu": "243158330",
+        "Nazwa_Produktu": "Etykiety Termiczne Białe 100x150 mm - 300 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to etykiety termiczne, które w opisie są wprost określane jako 'must have' dla firm, służące do opisywania produktów, kartonów i adresowania przesyłek, co idealnie pasuje do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'. Są to typowe materiały biurowe. Podpowiedź OLX 'Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze' jest całkowicie nieadekwatna."
+    },
+    {
+        "ID_Produktu": "243158332",
+        "Nazwa_Produktu": "Etykiety Termiczne Białe 100x150 mm - 350 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to etykiety termiczne, które są materiałami biurowymi/eksploatacyjnymi. Opis jasno wskazuje na zastosowanie biznesowe i biurowe (etykiety do opisywania produktów, kartonów, adresowania przesyłek, do użytku biurowego, dla firm). Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i najlepiej pasuje do tego typu produktu. Wskazówka systemowa została zignorowana, ponieważ jest nieadekwatna."
+    },
+    {
+        "ID_Produktu": "243158335",
+        "Nazwa_Produktu": "Etykiety Termiczne Białe 100x150 mm - 500 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Termosy i kubki termiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to etykiety termiczne, które są \"must have\" dla wielu branż i firm, idealne do opisywania produktów, kartonów, adresowania przesyłek, do użytku biurowego, magazynowego i sklepowego. Najbardziej szczegółową i pasującą kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
     }
 ]
