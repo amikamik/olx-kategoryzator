@@ -208,5 +208,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to etykiety termiczne, które są \"must have\" dla wielu branż i firm, idealne do opisywania produktów, kartonów, adresowania przesyłek, do użytku biurowego, magazynowego i sklepowego. Najbardziej szczegółową i pasującą kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "243158361",
+        "Nazwa_Produktu": "Folia Stretch Ręczna 1,5 kg brutto / 50cm / 23µ",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to folia stretch, która jest materiałem opakowaniowym. Jest używana do pakowania paczek i owijania towarów na paletach, co jest typowe dla działalności firm i magazynów. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej szczegółową i adekwatną kategorią, ponieważ brakuje bardziej specyficznej podkategorii dla materiałów opakowaniowych w ramach 'Sklepy i magazyny'."
+    },
+    {
+        "ID_Produktu": "243158362",
+        "Nazwa_Produktu": "Folia Stretch Ręczna 3 kg brutto / 50cm / 23µ",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt (folia stretch) jest materiałem opakowaniowym używanym do zabezpieczania towarów na paletach i paczek podczas transportu i magazynowania, co jest typowe dla sektora firmy i przemysłu, szczególnie w kontekście sklepów i magazynów. Brak bardziej szczegółowej kategorii-liścia, więc 'Pozostałe' jest najbardziej odpowiednie."
+    },
+    {
+        "ID_Produktu": "243158492",
+        "Nazwa_Produktu": "Gilotyna do papieru - trymer",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Urządzenia biurowe",
+        "Finalne_ID_AI": 4657,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Gilotyna do papieru - trymer', która jest opisana jako 'narzędzie, które z powodzeniem sprawdzi się w różnego rodzaju zadaniach' biurowych i introligatorskich. Kategoria 'Firma i Przemysł > Biuro > Urządzenia biurowe' jest najbardziej szczegółowa i trafna, bezpośrednio odzwierciedlając przeznaczenie produktu jako urządzenia do użytku biurowego/profesjonalnego, w przeciwieństwie do ogólnych 'Narzędzi ręcznych' sugerowanych we wskazówce, które są zbyt ogólne i nieoddające specyfiki produktu."
+    },
+    {
+        "ID_Produktu": "243158592",
+        "Nazwa_Produktu": "Interfejs Vgate iCar Pro BT4.0 - OBD2 ELM327",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalne_ID_AI": 4489,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to interfejs diagnostyczny OBD2, który jest elektronicznym wyposażeniem i akcesorium samochodowym. Kategoria 'Elektronika samochodowa' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "243158598",
+        "Nazwa_Produktu": "Interfejs Vgate iCar2 - OBD2 ELM327",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalne_ID_AI": 4489,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektroniczny interfejs diagnostyczny do samochodów (OBD2), który doskonale pasuje do kategorii 'Elektronika samochodowa' znajdującej się w 'Wyposażenie i akcesoria samochodowe' w gałęzi 'Motoryzacja'."
     }
 ]
