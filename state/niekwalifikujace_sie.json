@@ -4888,5 +4888,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to lampa ścienna, która w języku polskim i terminologii OLX jest klasyfikowana jako 'Kinkiet'. Wybrana kategoria (ID: 3863) jest najbardziej szczegółowym liściem w drzewie kategorii 'Dom i Ogród > Oświetlenie > Lampy'."
+    },
+    {
+        "ID_Produktu": "242635423",
+        "Nazwa_Produktu": "Brelok Pompon Puszysty 3szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Brelok typu pompon to klasyczny dodatek galanteryjny do torebek, plecaków lub kluczy. Najlepiej pasuje do kategorii Moda > Akcesoria > Pozostałe, ponieważ nie jest zabawką (co wyklucza kategorię Dla Dzieci), lecz elementem ozdobnym stroju i akcesoriów."
     }
 ]

@@ -2022,5 +2022,67 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242635428",
+        "Nazwa_Produktu": "Depilator IPL INNZA D26 999000 Impulsów",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Depilatory",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD drobne > Depilatory",
+        "Finalne_ID_AI": 2224,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektroniczne urządzenie do usuwania włosów metodą IPL, które w drzewie kategorii OLX znajduje się w sekcji Elektronika > Sprzęt AGD > AGD drobne > Depilatory.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Depilator ipl innza d26 999000 impulsów",
+                "description": "2 TRYBY, 5 USTAWIEŃ MOCY - Depilacja IPL z 2 trybami i 5 ustawieniami mocy. Możesz wybrać tryb automatyczny, aby wyzwalać więcej błysków na dużych obszarach ciała, lub tryb ręczny, aby wykonać precyzyjne zabiegi na mniejszych lub wrażliwych obszarach (pachy, górna warga itp.); Przy pierwszym użyciu wybierz najniższe ustawienie, a następnie wybierz najbardziej odpowiedni poziom mocy w zależności od indywidualnej sytuacji. PERMANENTNE USUWANIE WŁOSÓW - Ten pulsacyjny system usuwania włosów oferuje czas trwania błysku 999000 i wyświetlacz LCD. Nie potrzebujesz wymiennych żarówek, jest zaprojektowany tak, aby służył przez całe życie. Wydajne IPL: Urządzenie do usuwania włosów: Trwała redukcja włosów w zaledwie 8-12 tygodni (do 80% redukcji włosów). Urządzenie do usuwania włosów IPL przenosi mieszki włosowe w tryb uśpienia i przerywa cykl wzrostu włosów. Rezultatem jest trwale widoczna depilacja i trwale gładka skóra Depilator dla kobiet i mężczyzn: zabieg na obie nogi w mniej niż 20 minut na trzecim poziomie energii. Depilator to idealny zestaw do usuwania włosów z twarzy, ciała, nóg, górnych warg, ramion, klatki piersiowej, pleców i brzucha. Jest przeznaczony do użytku podstawowego. Po prostu podłącz urządzenie i rozpocznij zabieg, zawiera okulary i maszynkę do golenia Bezpieczny środek do usuwania włosów: Został opracowany przez wiodących dermatologów do bezpiecznego stosowania we własnym domu Wygodny i wydajny. Jako urządzenie przewodowe otrzymujesz nieprzerwane leczenie z maksymalną wydajnością. Oznacza to, że urządzenia nie trzeba już ładować podczas zabiegu. Długotrwały i bezbolesny. Podczas gdy inne metody tylko tymczasowo usuwają owłosienie na ciele . Efektem działania urządzenia IPL jest trwale widoczne usunięcie owłosienia i trwale wygładzona skóra. Pożegnaj się z codziennym goleniem. Nie trzeba długo czekać, aby docenić korzyści finansowe tego domowego urządzenia IPL w porównaniu z kosztami metod usuwania włosów w salonie. Przygotuj się na każdą chwilę. Specyfikacja: Marka: INNZA Model: D26 Kolor: Różowe złoto Ilość błysków: 999 000 Zasilanie: sieciowe Napięcie:100-240V Wyjście prądu stałego 12V 3A Wymiary opakowania: 23,6 x 20,09 x 8,2 cm; 889 gramów\n\n[DEAL-BLB2B]",
+                "category_id": 2224,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 358.45,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/c19f62aa2f4b2be6602791e5e6889f6a.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Wpisałeś frazę: 26 99900, która nie jest dozwolona w tym polu. Twój numer telefonu możesz podać w innych miejscach formularza",
+                            "detail": "Wpisałeś frazę: 26 99900, która nie jest dozwolona w tym polu. Twój numer telefonu możesz podać w innych miejscach formularza"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
