@@ -4878,5 +4878,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to gąbka ścierna przeznaczona do ręcznej obróbki (szlifowania) konturów i profili, co jednoznacznie klasyfikuje go jako narzędzie ręczne w kategorii Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242635403",
+        "Nazwa_Produktu": "Lampa Kinkiet Ścienny LED 4W Ciepła Biel",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Kinkiety",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy",
+        "Finalne_ID_AI": 3849,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lampa ścienna, która w języku polskim i terminologii OLX jest klasyfikowana jako 'Kinkiet'. Wybrana kategoria (ID: 3863) jest najbardziej szczegółowym liściem w drzewie kategorii 'Dom i Ogród > Oświetlenie > Lampy'."
     }
 ]
