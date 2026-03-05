@@ -1111,5 +1111,88 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243159134",
+        "Nazwa_Produktu": "Maseczka wielokrotnego użytku / Czarna / MAS-SAFERB",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Twarz > Pielęgnacja > Maseczki do twarzy",
+        "Finalna_Sciezka_AI": "Zdrowie i Uroda > Środki ochrony > Maseczki",
+        "Finalne_ID_AI": 3723,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to ochronna maseczka wielokrotnego użytku, co idealnie pasuje do kategorii 'Środki ochrony > Maseczki'. W opisie wyraźnie zaznaczono 'maseczka ochronna' i 'BHP maseczka' oraz jej zastosowanie ochronne.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Maseczka wielokrotnego użytku / czarna / mas-saferb",
+                "description": "MASKA MASECZKA WIELORAZOWA BAWEŁNIANA 3 WARSTWOWA Maseczka wielokrotnego użytku Marka: REIS Kolor: Czarny Rozmiar: Uniwersalny 3 warstwy 100% bawełna zakładana na dwie gumki zamocowane na bokach możliwość prania Komfortowa, wygodna Wysoka jakość szycia Produkt polecany dla branż: - Przemysł spożywczy w tym obsługa restauracji oraz służby zdrowia i lecznictwa - Sport, rekreacja oraz pielęgnacja urody Posiadamy również inne rodzaje produktów BHP maseczka ochronna, maseczka wielokrotnego użytku, maseczka bawełniana, maseczka czarna, maseczka uniseks, maseczka uniwersalny rozmiar, REIS maseczka, komfortowe maseczki, maseczki do prania, wysokiej jakości maseczka, maseczka dla gastronomii, maseczka dla służby zdrowia, maseczka dla przemysłu spożywczego, BHP maseczka, maseczka certyfikowana CE, maseczka na dwie gumki, maseczka 3-warstwowa, zabezpieczenie przed kurzem, zabezpieczenie przed pyłkami, zabezpieczenie przed spalinami, zabezpieczenie przed zapachami, maseczka codziennego użytku, RAW-POL, Julianów, maseczka higieniczna, maska antyalergiczna, maska odporna na pranie, obsługa-klienta@rawpol.com, oryginalna maseczka, maseczka folia opakowanie, trwała maseczka, ekologiczna maseczka, przystępna cena maseczki.\n\nProducent odpowiedzialny:\nRAW-POL\nJulianów 50, 96-200 Julianów\nKontakt: kontakt[at]rawpol.com\n\n[DOFIRMY]",
+                "category_id": 3723,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 21.5,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/04a61648cabd67cef7bc87a51fe44809.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/110bab/79e01cd2490095ef2cd04f22a808"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/116040/7e6b8bcf4f63a5439e90d62b5794"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11f938/b25efc9947d389f45338c8eb22d3"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11cd55/dfce6d60448483de7d36a3aa0897"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/118df6/279222554c60a00b2ff2b1deebd4"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11f90e/7486ef004de2b94d92c0b8698fcf"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11245b/9be2f55d4de7855bea200ccea3f8"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

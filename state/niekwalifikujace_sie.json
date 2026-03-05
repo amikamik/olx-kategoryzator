@@ -518,5 +518,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to lusterko do obserwacji dziecka w samochodzie, co klasyfikuje go jako akcesorium samochodowe. Ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu lusterka w ramach 'Wyposażenie i akcesoria samochodowe', najbardziej odpowiednią kategorią-liściem jest 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "243159144",
+        "Nazwa_Produktu": "Mata pod fotelik samochodowy",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Foteliki - Nosidełka",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalne_ID_AI": 4501,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata ochronna pod fotelik samochodowy, której głównym zadaniem jest ochrona tapicerki samochodowej. Najbardziej szczegółową i pasującą kategorią jest 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce', ponieważ mata pełni funkcję ochronnego pokrowca na siedzenie samochodu."
+    },
+    {
+        "ID_Produktu": "243159170",
+        "Nazwa_Produktu": "Miernik bieżnika opon",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Bieżniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Testery diagnostyczne",
+        "Finalne_ID_AI": 5184,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miernik bieżnika opon, który jest narzędziem diagnostycznym służącym do oceny stanu zużycia opon. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Testery diagnostyczne' jest najbardziej precyzyjna i szczegółowa, ponieważ miernik pasuje do diagnostyki w warsztatach."
+    },
+    {
+        "ID_Produktu": "243159178",
+        "Nazwa_Produktu": "Mikser Statyczny 50ml",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Roboty kuchenne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mikser statyczny do klejów dwuskładnikowych, używany jako element systemu mieszającego. Najbardziej pasującą kategorią, odzwierciedlającą jego funkcję jako komponentu do urządzeń przemysłowych/profesjonalnych, jest 'Części do maszyn i urządzeń' w gałęzi 'Firma i Przemysł'."
     }
 ]
