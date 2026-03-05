@@ -4578,5 +4578,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to hurtowa ilość torebek papierowych (1000 szt.) przeznaczonych do pakowania żywności w celach komercyjnych (piekarnie, sklepy). Jako materiał eksploatacyjny dla handlu, najlepiej pasuje do sekcji 'Firma i Przemysł > Sklepy i magazyny > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242633012",
+        "Nazwa_Produktu": "Lampa Reflektor do Zabudowy LED 4W IP44 85mm 9szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw reflektorów punktowych przeznaczonych do montażu wewnątrz sufitu (zabudowy), co w polskiej nomenklaturze i drzewie kategorii OLX odpowiada terminowi 'Oczka'."
+    },
+    {
+        "ID_Produktu": "242633014",
+        "Nazwa_Produktu": "Lumare Reflektor LED do zabudowy 6W 400ml 9szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to reflektory LED przeznaczone do montażu wewnątrz sufitu (do zabudowy), co w terminologii oświetleniowej i kategoryzacji OLX odpowiada kategorii 'Oczka' (często nazywanych oczkami stropowymi)."
+    },
+    {
+        "ID_Produktu": "242633237",
+        "Nazwa_Produktu": "Papier pakowy foliowany 42x37 nadruk 10kg",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Bibuły",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny papier pakowy z atestem spożywczym, przeznaczony do użytku komercyjnego w sklepach i gastronomii (opakowanie 10kg). Najlepiej pasuje do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe, ponieważ jest to materiał eksploatacyjny wykorzystywany w handlu detalicznym."
+    },
+    {
+        "ID_Produktu": "242633240",
+        "Nazwa_Produktu": "Papier pakowy foliowany PE30+10 rolka nadruk 10kg",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny papier pakowy z folią PE i atestem do żywności, sprzedawany w ilościach hurtowych (rolka 10kg). Przeznaczenie do sklepów spożywczych i gastronomii jednoznacznie wskazuje na kategorię Firma i Przemysł, a konkretnie na wyposażenie sklepów."
+    },
+    {
+        "ID_Produktu": "242633521",
+        "Nazwa_Produktu": "Torba papierowa z uchem 32x30x17cm 250szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to torby papierowe sprzedawane w opakowaniu zbiorczym (250 sztuk), co wskazuje na przeznaczenie komercyjne (B2B). Opis wymienia zastosowanie w cateringu i handlu detalicznym, dlatego kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej odpowiednia dla materiałów eksploatacyjnych wykorzystywanych w punktach sprzedaży i usługach gastronomicznych."
+    },
+    {
+        "ID_Produktu": "242633784",
+        "Nazwa_Produktu": "Torba papierowa 36x12/7,5cm biała klockowa 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hurtowa ilość (1000 szt.) papierowych torebek klockowych z atestem PZH, które służą jako opakowania jednorazowe w handlu (piekarnie, sklepy spożywcze, techniczne). Ze względu na charakter materiału eksploatacyjnego dla handlu oraz ilość sugerującą przeznaczenie biznesowe (B2B), kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej adekwatna."
+    },
+    {
+        "ID_Produktu": "242634099",
+        "Nazwa_Produktu": "Zestaw 9 Szt. Reflektorów Wpuszczanych Led Evo 9W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw 9 reflektorów wpuszczanych LED do sufitu. W polskiej terminologii oświetleniowej i w strukturze kategorii OLX, tego typu oprawy sufitowe określane są jako 'Oczka'."
     }
 ]

@@ -1778,5 +1778,76 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242634242",
+        "Nazwa_Produktu": "Etui Ochronne Heystop Do Nintendo Z Akcesoriami",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Etui",
+        "Finalna_Sciezka_AI": "Elektronika > Gry i Konsole > Akcesoria gamingowe",
+        "Finalne_ID_AI": 1605,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest zestawem akcesoriów ochronnych i użytkowych przeznaczonych do konsoli Nintendo Switch, co kwalifikuje go bezpośrednio do kategorii Akcesoria gamingowe w sekcji Gry i Konsole.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Etui ochronne heystop do nintendo z akcesoriami",
+                "description": "Etui ochronne Heystop do nintendo 12 w 1 zestaw. Przedstawione zdjęcia są poglądowe. Zestaw akcesoriów kompatybilny z Nintendo Switch 12 w 1 Switch Etui do przenoszenia PlayStand Grip Kierownica, uchwyt, osłona ekranu Pokrowiec ochronny Uchwyty na kciuki Kabel do ładowarki. Pakiet akcesoriów 12 w 1 Kompletny zestaw akcesoriów zawiera wszystko, czego potrzebujesz: 1x futerał, 1x futerał ochronny TPU, 1x regulowany stojak na przełączniki, 1x zabezpieczenie ekranu ze szkła hartowanego, 2x uchwyt Joy-Con, 2x kierownica z uchwytem, ??2x joystick Czapki, 1x kabel ładujący USB. Twardy futerał podróżny i do przechowywania kompatybilny z przełącznikiem Nintendo Zaprojektowany tak, aby pasował do kompletnego systemu (konsola, stacja dokująca, zasilacz. uchwyt, paski na rękę i kabel HDMI) oraz dodatkowy kontroler Switch Pro, mieści 18 kart do gry i inne małe akcesoria. Wygodny pasek na ramię i antypoślizgowy uchwyt ułatwiają przenoszenie. Kompatybilny z modelem Switch OLED 2021. Zestawy uchwytów kompatybilnych z Nintendo Switch Joy-Con 2 kierownice wyścigowe i 2 uchwyty; Zapewnia przyciski SL i SR na górze uchwytu, aby ułatwić kontrolę nad grą. Ergonomiczna konstrukcja zapewnia doskonały chwyt Joy-Con i większy komfort, idealny do kontrolera Joycon Nintendo Switch i gier wyścigowych Must-Have. Każdy uchwyt jest uniwersalny. Wytrzymały futerał ochronny i ochraniacz ekranu HD Osłona przełącznika TPU zapobiega codziennym kolizjom, zadrapaniom, kurzem i odciskom palców. Zabezpieczenie ekranu o twardości 9H może w pełni chronić ekran przed zadrapaniami lub upuszczeniem. 2 pary silikonowych nakładek na kciuki, zapobiegają zużyciu oryginalnych nakładek analogowych. Kompaktowy regulowany stojak - Stojak do gry zapewnia trzy kąty widzenia i lepsze wrażenia z gry. Unikalna konstrukcja z wejściem kabla do ładowania, lekka, składana i kieszonkowa, wygodna do przenoszenia. Przenośny kabel USB typu C może ładować uchwyt, stację dokującą i konsolę z bezpiecznym szybkim ładowaniem. Wymiary produktu 33 x 22 x 12 cm (13 x 8,7 x 4,7 cala). Zestaw akcesoriów kompatybilny z Nintendo Switch 12 w 1 Switch Etui do przenoszenia PlayStand Grip K\n\n[DEAL-BLB2B]",
+                "category_id": 1605,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 266.94,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/28eb441e14c88d801890cc07718efe66.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/d209a1a88ea50bd457c1275bbe3df6af.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/40f67507eed3019ec65302287a72627a.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/e64e93a83974a078281dc354ab048b71.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "Wybierz poprawną kategorię",
+                            "detail": "Wybierz poprawną kategorię"
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
