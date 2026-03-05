@@ -838,5 +838,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to popielniczka samochodowa, która jest akcesorium samochodowym. W drzewie kategorii brak jest bardziej szczegółowej podkategorii dla popielniczek samochodowych w ramach 'Wyposażenie i akcesoria samochodowe', dlatego 'Pozostałe' jest najbardziej odpowiednim wyborem. Wskazówka o 'Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria' jest nieprawidłowa, ponieważ produkt jest fabrycznie nowy i nie jest przedmiotem kolekcjonerskim."
+    },
+    {
+        "ID_Produktu": "243160046",
+        "Nazwa_Produktu": "Przedłużacz Kabel Vgate OBD2 55cm",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Komputery > Akcesoria komputerowe > Kable i przejściówki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalne_ID_AI": 4489,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przedłużacz/kabel do diagnostyki samochodowej OBD2. Kategoria 'Elektronika samochodowa' w drzewie 'Motoryzacja > Wyposażenie i akcesoria samochodowe' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu jako elektronicznego akcesorium przeznaczonego do pojazdów."
+    },
+    {
+        "ID_Produktu": "243160048",
+        "Nazwa_Produktu": "Przybornik na biurko - 6 komór - czarny",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to przybornik/organizer na biurko, przeznaczony na przybory biurowe. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu, który jest akcesorium biurowym. Wskazówka systemowa 'Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze' jest mniej trafna, ponieważ produkt nie jest artykułem papierniczym i nie jest przeznaczony wyłącznie dla dzieci, ale do użytku domowego i służbowego."
     }
 ]
