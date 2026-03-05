@@ -301,5 +301,158 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243157865",
+        "Nazwa_Produktu": "BUTY BEZPIECZNE / REIS / czarno-niebieski / Rozmiar 41 / BRCHILE41",
+        "Poczatkowa_Sciezka_OLX": "Moda > Buty męskie > Obuwie sportowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Odzież robocza > Buty",
+        "Finalne_ID_AI": 4276,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'buty bezpieczne' (robocze), z podnoskiem stalowym, spełniające normy bezpieczeństwa pracy. Kategoria 'Firma i Przemysł > Odzież robocza > Buty' jest najbardziej szczegółowa i precyzyjna dla tego typu obuwia ochronnego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Buty bezpieczne / reis / czarno-niebieski / rozmiar 41 / brchile41",
+                "description": "Buty bezpieczne CHILE Rozmiar: 41 Kolor: czarno-niebieski Marka: REIS - wykonane ze skóry zamszowej - buty typu półbut sięgające przed kostkę - podeszwa wykonana z tworzywa EVA oraz gumy - stalowy podnosek wytrzymały na uderzenia z energią 200 J oraz zgniecenia do 15 kN - kategoria SB FO SRA - spełniają wymagania normy EN20345, EN20344 Normy: - EN20344 - EN20345 Własności: - typ SB - podnosek odporny na uderzenia i zgniecenia Produkt polecany dla branż: - Logistyka w tym transport i przeładunek (prace magazynowe) - Prace budowlane i remontowe/Prace montażowo-instalacyjne/Budowa dróg - Przemysł samochodowy w tym budowa, mechanika i naprawa pojazdów oraz lakiernictwo - Rolnictwo/Ogrodnictwo/Leśnictwo/Łowiectwo/Rybactwo - Rzemiosło w tym produkcja i obróbka szkła, ceramiki, drewna oraz drukarnie Posiadamy również inne rozmiary oraz rodzaje butów roboczych buty bezpieczne, Reis, buty robocze, półbuty, czarno-niebieskie buty, obuwie ochronne, stalowy podnosek, rozmiar 41, EN20345, EN20344, kategoria SB, ochrona FO, odporność na olej napędowy, odporność na poślizg, transport, magazynowanie, prace budowlane, przemysł samochodowy, rolnictwo, zamszowa skóra, podeszwa EVA, podeszwa gumowa, bezpieczeństwo pracy, ochrona stóp, półbuty przed kostkę, obuwie dla mężczyzn, jesień, wiosna, CE certyfikat, SB FO SRA, normy ochronne, RAW-POL, polski produkt, produkcja obuwia, wiązane buty, prace remontowe, logistyka, mechanika pojazdowa, wytrzymałość na uderzenia, ochrona przed zgnieceniem, pakowanie taśmą, opakowanie jednostkowe, waga produktu, Julianów, kontakt@rawpol.com\n\nProducent odpowiedzialny:\nRAW-POL\nJulianów 50, 96-200 Julianów\nKontakt: kontakt[at]rawpol.com\n\n[DOFIRMY]",
+                "category_id": 4276,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 200.79,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/82bb053c1b0f8c773c91223e5a155460.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/84f66bb6e30f3cd25c41a23e1f1580f7.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/983a1a1b6382159df35d8f22a3f552a9.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/118922/a80bece74e0ab9694c50d7e5d30b"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/112fde/9390681f452890c90586efaf6f41"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11dd7c/299138b84ee495adaf29fe34d46f"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11dd32/d884f7304d6f942eea2196eedfa3"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "243157888",
+        "Nazwa_Produktu": "BUTY BEZPIECZNE / REIS / czarno-niebieski / Rozmiar 47 / BRCHILE47",
+        "Poczatkowa_Sciezka_OLX": "Moda > Buty męskie > Obuwie sportowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Odzież robocza > Buty",
+        "Finalne_ID_AI": 4276,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to buty bezpieczne/robocze, które wprost pasują do kategorii 'Buty' znajdującej się pod 'Odzież robocza' w 'Firma i Przemysł'. Opis szczegółowo wskazuje na cechy obuwia ochronnego, takie jak stalowy podnosek, kategorię bezpieczeństwa SB FO SRA oraz zastosowanie w różnych branżach przemysłowych i budowlanych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Buty bezpieczne / reis / czarno-niebieski / rozmiar 47 / brchile47",
+                "description": "Buty bezpieczne CHILE Rozmiar: 47 Kolor: czarno-niebieski Marka: REIS - wykonane ze skóry zamszowej - buty typu półbut sięgające przed kostkę - podeszwa wykonana z tworzywa EVA oraz gumy - stalowy podnosek wytrzymały na uderzenia z energią 200 J oraz zgniecenia do 15 kN - kategoria SB FO SRA - spełniają wymagania normy EN20345, EN20344 Normy: - EN20344 - EN20345 Własności: - typ SB - podnosek odporny na uderzenia i zgniecenia Produkt polecany dla branż: - Logistyka w tym transport i przeładunek (prace magazynowe) - Prace budowlane i remontowe/Prace montażowo-instalacyjne/Budowa dróg - Przemysł samochodowy w tym budowa, mechanika i naprawa pojazdów oraz lakiernictwo - Rolnictwo/Ogrodnictwo/Leśnictwo/Łowiectwo/Rybactwo - Rzemiosło w tym produkcja i obróbka szkła, ceramiki, drewna oraz drukarnie Posiadamy również inne rozmiary oraz rodzaje butów roboczych buty bezpieczne, buty robocze, Reis, skóra zamszowa, rozmiar 47, półbuty, stalowy podnosek, ochrona SB, Ochrona EN20345, EN20344, odporność na uderzenia, odporność na zgniecenia, prace magazynowe, prace budowlane, transport, logistyka, branża motoryzacyjna, przemysł samochodowy, rolnictwo, ogrodnictwo, leśnictwo, rzemiosło, ceramika, produkcja szkła, buty z podnoskiem, bezpieczeństwo pracy, obuwie ochronne, antypoślizgowe, podeszwa EVA, gumowa podeszwa, odporność na olej, absorbcja energii, unisex, całoroczne, CE, energia 200 J, 15 kN, Julianów, RAW-POL, Polska, kontakt@rawpol.com, EAN 5906142960255, model BRCHILE47, waga 1,5 kg, wiązane, buty sportowe, EN20344, EN20345, bezpieczeństwo, komfort, trwałość, odporność na poślizg, pakowanie taśma, rozmiar 47, nowe, original, stan opakowania, model Zamszowe r.47\n\nProducent odpowiedzialny:\nRAW-POL\nJulianów 50, 96-200 Julianów\nKontakt: kontakt[at]rawpol.com\n\n[DOFIRMY]",
+                "category_id": 4276,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 200.79,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/64811a2e71e244eeac208f68a3de58a9.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/9fa6bc950c79cde16c742caf8cf24113.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/281595b2b737758d5c269ed7ab54036f.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/114476/da87e5434e5b8b9634f58e69e207"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/118922/a80bece74e0ab9694c50d7e5d30b"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11cd10/a3f2bd8046b69d7412d2b9667351"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11dd7c/299138b84ee495adaf29fe34d46f"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/1120f3/67b3f4804482b9e28fb324fa1fe1"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
