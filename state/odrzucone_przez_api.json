@@ -454,5 +454,83 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243157941",
+        "Nazwa_Produktu": "BUTY BEZPIECZNE / REIS / czarno-żółty / Rozmiar 42 / BRYES-S-SB_42",
+        "Poczatkowa_Sciezka_OLX": "Moda > Buty męskie > Obuwie sportowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Odzież robocza > Buty",
+        "Finalne_ID_AI": 4276,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'buty bezpieczne' (robocze/ochronne), które idealnie pasują do kategorii 'Firma i Przemysł > Odzież robocza > Buty'. Opis wyraźnie wskazuje na ich przeznaczenie i cechy bezpieczeństwa (stalowy podnosek, podeszwa antypoślizgowa i olejoodporna), zgodne z normami branżowymi.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Buty bezpieczne / reis / czarno-żółty / rozmiar 42 / bryes-s-sb_42",
+                "description": "Buty bezpieczne YES Rozmiar: 42 Kolor: czarno-żółty Marka: REIS Linia produktów: YES - wykonane ze skóry bydlęcej - buty typu sandał - podeszwa antypoślizgowa, olejoodporna, wykonana z poliuretanu o podwójnej gęstości - absorpcja uderzeń pod piętą - podszewka wykonana z materiału cambrelle absorbującego pot - stalowy podnosek wytrzymały na uderzenia z energią 200 J oraz zgniecenia do 15 kN - kategoria SB E FO SRC - spełniają wymagania norm EN20345, EN20344 Normy: - EN20344 - EN20345 Własności: - absorpcja na uderzenia pod piętą - typ SB - podeszwa olejoodporna - podeszwa antypoślizgowa - podnosek odporny na uderzenia i zgniecenia Produkt polecany dla branż: - Logistyka w tym transport i przeładunek (prace magazynowe) - Obróbka metali oraz operatorzy maszyn i urządzeń oraz ich naprawa - Prace budowlane i remontowe/Prace montażowo-instalacyjne/Budowa dróg - Przemysł samochodowy w tym budowa, mechanika i naprawa pojazdów oraz lakiernictwo - Rolnictwo/Ogrodnictwo/Leśnictwo/Łowiectwo/Rybactwo - Rzemiosło w tym produkcja i obróbka szkła, ceramiki, drewna oraz drukarnie Posiadamy również inne rozmiary oraz rodzaje butów roboczych buty bezpieczne, buty robocze, sandały ochronne, skóra bydlęca, antypoślizgowa podeszwa, olejoodporna podeszwa, absorpcja uderzeń, stalowy podnosek, kategoria SB, norma EN20345, norma EN20344, ochrona przed uderzeniami, ochrona przed zgnieceniami, prace magazynowe, operatorzy maszyn, budowa dróg, przemysł samochodowy, produkcja szkła, obróbka drewna, unisex buty, całoroczne sandały, rozmiar 42, CE, bezpieczeństwo pracy, sandały na rzepy, uniwersalne przeznaczenie, logistyczna odzież robocza, buty ochronne, branża transportowa, prace budowlane, producent RAW-POL, Julianów, Polska, kontakt@rawpol.com, letnie buty, sandały z podnoskiem, standardy bezpieczeństwa, obuwie ochronne, lekkie sandały, rozmiary butów roboczych, wygodne buty do pracy, solidne wykonanie, wysoka odporność, komfort i bezpieczeństwo.\n\nProducent odpowiedzialny:\nRAW-POL\nJulianów 50, 96-200 Julianów\nKontakt: kontakt[at]rawpol.com\n\n[DOFIRMY]",
+                "category_id": 4276,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 100.34,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/4f19d431e76bc641d9dbac4ef25b7a96.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/0309fe8411dcc4ffeed32066259022fe.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/d29295b5acd4e9313f2aa680b8505d86.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/115863/b0b8d48f453db69be37eb4dcbdf7"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/110990/5876fea64c25a93f15fe7f975eaf"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11a409/e98ce6604b2c8156be3a8c9488b7"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11fb0e/453a6e214cdaba834ae7b055bfa2"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11b43a/a387a12e46c3af98e41536a65a8d"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
