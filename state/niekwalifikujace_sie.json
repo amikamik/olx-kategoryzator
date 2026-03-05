@@ -4718,5 +4718,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to inteligentna oprawa wpuszczana LED (downlight), która w polskiej terminologii oświetleniowej jest klasyfikowana jako 'Oczka' (punktowe oprawy sufitowe)."
+    },
+    {
+        "ID_Produktu": "242635141",
+        "Nazwa_Produktu": "Pistolet do węża ogrodowego 8 trybów",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Pistolet do węża ogrodowego jest akcesorium służącym do podlewania i nawadniania roślin, dlatego kategoria 'Nawadnianie' (ID: 1637) w sekcji Ogród jest najbardziej precyzyjnym wyborem dla tego produktu."
+    },
+    {
+        "ID_Produktu": "242635151",
+        "Nazwa_Produktu": "Portfel Damski Skórzany Granatowy",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to portfel damski, który idealnie pasuje do kategorii Moda > Akcesoria > Portfele (ID: 2765), będącej liściem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "242635152",
+        "Nazwa_Produktu": "Portfel Damski Skórzany Zielony",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to portfel damski wykonany ze skóry PU, co idealnie pasuje do kategorii 'Portfele' (ID: 2765) będącej liściem w ścieżce Moda > Akcesoria."
+    },
+    {
+        "ID_Produktu": "242635157",
+        "Nazwa_Produktu": "Pokrywa zbiornika paliwa",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalne_ID_AI": 1399,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zamienna pokrywa (korek) zbiornika paliwa z numerami OEM przeznaczona do konkretnych modeli samochodów osobowych (m.in. VW Golf, Passat, Audi A4, Seat Leon), co jednoznacznie wskazuje na kategorię części do samochodów osobowych."
+    },
+    {
+        "ID_Produktu": "242635167",
+        "Nazwa_Produktu": "Foliowa koperta kurierska Foliopak 42x31 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Foliopaki to koperty kurierskie, które są podstawowym wyposażeniem biurowym i wysyłkowym. Kategoria 'Akcesoria i materiały biurowe' w sekcji 'Firma i Przemysł' najlepiej oddaje charakter produktu jako materiału eksploatacyjnego do pakowania przesyłek."
     }
 ]

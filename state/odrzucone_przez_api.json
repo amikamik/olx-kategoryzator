@@ -1956,5 +1956,71 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242635168",
+        "Nazwa_Produktu": "Ściereczka Vileda Actifibre Soft 1 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy",
+        "Finalne_ID_AI": 2131,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uniwersalna ściereczka z mikrofibry przeznaczona do czyszczenia powierzchni domowych, co jednoznacznie kwalifikuje go do kategorii 'Ścierki, rękawice i fartuchy' w sekcji wyposażenia wnętrz.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Ściereczka vileda actifibre soft 1 szt.",
+                "description": "Ściereczka uniwersalna Vileda Actifibre Soft posiada znakomite właściwości czyszczące usuwa nawet uporczywe zabrudzenia przy użyciu samej wody. Ściereczka Actifibre Soft doskonale chłonie i zatrzymuje w sobie płyny, dzięki czemu powierzchnia jest czyste i pozbawiona smug oraz zacieków. Specjalna powłoka poliuretanowa sprawia, że ściereczka bardzo łatwo się spłukuje. Dodatkowo jest miękka i delikatna w dotyku zarówno na sucho jak i na mokro. Czystość bez smug i zarysowań Ściereczka Acifibre Soft doskonale chłonie i zatrzymuje w sobie płyny, dzięki czemu powierzchnia jest czysta i pozbawiona smug i zacieków już po pierwszym przetarciu. Skuteczność mikrofibry Dzięki drobnym mikro włóknom ściereczka uniwersalna Vileda skutecznie czyści nawet uporczywe zabrudzenia i zaschnięte plamy bez konieczności stosowania detergentów. Łatwo się spłukuje i pozostaje higieniczna na dłużej Ściereczka uniwersalna posiada powłokę poliuretanową, dzięki czemu jest łatwa w spłukiwaniu. Aby zachować jej świeżość po skończonym sprzątaniu opłucz ściereczkę pod bieżącą wodą i usuń z niej resztki brudu. Nadaje się do prania w pralce i wielokrotnego użytku Ściereczkę uniwersalną Vileda można prać w pralce w temperaturze maks. 60C i używać wielokrotnie. Nie należy używać płynu do zmiękczania tkanin. Uniwersalne zastosowanie Ściereczka Actifibre Soft doskonale nadaje się do czyszczenia blatów kuchennych, frontów szafek a także mokrych miejsc takich jak umywalka czy prysznic. Można jej używać zarówno na sucho i na mokro. Ponadto ściereczka jest miła w dotyku zarówno używana na sucho jak i na mokro. Vileda 171805 Opakowanie zawiera 1 sztukę. Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2131,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 24.51,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/06063215b8c3784accb4466a2bbfc374.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/a9e6eb3445a964240d9ddde27b360d40.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/1fb380ed26d04c80b0b0109a41687aac.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/f9094c841a5856aac41118c6cb181a25.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
