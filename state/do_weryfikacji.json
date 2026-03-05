@@ -4093,5 +4093,25 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "242632370",
+        "Nazwa_Produktu": "Poduszka Na Plecy Podgrzewana 73X58 Elektryczna",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Sprzęt rehabilitacyjny i ortopedyczny > Poduszki",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "242632746",
+        "Nazwa_Produktu": "Torebka papierowa 'bułka tarta' biała 10kg",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Pozostałe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
