@@ -278,5 +278,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to karton fasonowy przeznaczony do wysyłki i pakowania towarów, co jest typowym zastosowaniem biznesowym. Opis zawiera frazy takie jak 'masowa wysyłka', 'Paczkomaty InPost - gabaryt A', 'opakowanie dla firm', 'sprzedaż hurtowa kartonów'. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' najlepiej oddaje komercyjny charakter i przeznaczenie produktu jako materiału biurowego/opakowaniowego dla firm, będąc bardziej specyficzną niż ogólne 'Pudełka' w kategorii 'Dom i Ogród', które zazwyczaj odnoszą się do domowych pojemników na przechowywanie lub dekoracji."
+    },
+    {
+        "ID_Produktu": "243158815",
+        "Nazwa_Produktu": "Kasetka na pieniądze czarna 20x16x9cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Szkatułki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Meble biurowe > Sejfy i kasy pancerne",
+        "Finalne_ID_AI": 4944,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kasetka na pieniądze, często nazywana również sejfem, przeznaczona do bezpiecznego przechowywania wartościowych przedmiotów, pieniędzy i dokumentów, zarówno w domu, jak i w biurze czy hotelu. Opis produktu wielokrotnie podkreśla funkcje zabezpieczające (grube ściany, solidne drzwi, zamykana na klucz, ochrona przed kradzieżą). Kategoria 'Firma i Przemysł > Biuro > Meble biurowe > Sejfy i kasy pancerne' jest najbardziej precyzyjna i szczegółowo oddaje charakter oraz przeznaczenie tego produktu jako małego, przenośnego sejfu."
+    },
+    {
+        "ID_Produktu": "243158821",
+        "Nazwa_Produktu": "Kasetka na pieniądze duża czarna 30x24x9cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kasetka na pieniądze z zamkiem, przeznaczona do bezpiecznego przechowywania wartościowych przedmiotów i dokumentów w domu lub biurze. Najlepiej pasuje do kategorii 'Akcesoria i materiały biurowe' w ramach 'Firma i Przemysł > Biuro', ponieważ jest to akcesorium biurowe służące do przechowywania wartości pieniężnych i dokumentów."
     }
 ]
