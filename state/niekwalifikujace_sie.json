@@ -48,5 +48,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na apteczkę pierwszej pomocy, która jest zgodna z normą DIN 13164 (często stosowaną dla apteczek samochodowych i w miejscu pracy). Kategoria 'Apteczki, gaśnice, kamizelki, trójkąty' jest najbardziej szczegółowa i precyzyjnie odpowiada produktowi, znajdując się w odpowiednim kontekście 'Motoryzacja > Wyposażenie i akcesoria samochodowe'."
+    },
+    {
+        "ID_Produktu": "243157820",
+        "Nazwa_Produktu": "Blok biurowy w kratkę A4 / 100 kartek / 70g / TOP OFFICE”19",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Wyprawki i zestawy szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu 'Blok biurowy... TOP OFFICE' oraz wielokrotne wzmianki w opisie o 'bloku biurowym', 'papierze do biura' i 'produkcie biurowym' jednoznacznie wskazują na przeznaczenie biurowe. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej adekwatna do tego typu produktu, pomimo że wspomniano również o zastosowaniu szkolnym."
+    },
+    {
+        "ID_Produktu": "243157823",
+        "Nazwa_Produktu": "Blok biurowy w kratkę A4 / 50 kartek / 60g / BUDGET / BANTEX",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'Blok biurowy', a opis wielokrotnie używa sformułowań takich jak 'artykuły biurowe', 'papier biurowy', 'do biura' oraz 'materiały biurowe' i 'akcesoria biurowe'. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' (ID: 4655) jest idealnie dopasowana do charakteru produktu, mimo że jest również przeznaczony do użytku domowego i szkolnego. Priorytetem jest bardziej szczegółowe i trafne określenie głównego przeznaczenia z tytułu."
     }
 ]
