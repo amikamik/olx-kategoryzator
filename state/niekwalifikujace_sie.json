@@ -4778,5 +4778,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to stacjonarna elektryczna lampa owadobójcza UV o mocy 14W, przeznaczona do użytku w domach, restauracjach i innych pomieszczeniach. Na platformie OLX urządzenia tego typu, służące do zwalczania owadów w obrębie gospodarstwa domowego, są standardowo kategoryzowane w sekcji Dom i Ogród > Ogród > Pozostałe Ogród, ze względu na ich funkcję ochrony otoczenia przed insektami."
+    },
+    {
+        "ID_Produktu": "242635224",
+        "Nazwa_Produktu": "Uniwersalny samochodowy filtr powietrza",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalne_ID_AI": 1399,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to filtr powietrza (część zamienna) dedykowany do samochodów osobowych, co pasuje bezpośrednio do liścia 'Osobowe' w sekcji 'Części samochodowe'."
     }
 ]
