@@ -1355,5 +1355,77 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243160505",
+        "Nazwa_Produktu": "Rękawice ochronne gumowe flokowane / Żółte / Rozmiar: 8-M / OX-FLOX_M",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Odzież robocza > Rękawice",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Odzież robocza > Rękawice",
+        "Finalne_ID_AI": 4279,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rękawice ochronne gumowe, które są wyraźnie przeznaczone do prac domowych, ogrodniczych i innych zastosowań roboczych. Kategoria 'Firma i Przemysł > Odzież robocza > Rękawice' jest najbardziej szczegółowa i trafna.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rękawice ochronne gumowe flokowane / żółte / rozmiar: 8-m / ox-flox_m",
+                "description": "RĘKAWICE OCHRONNE GUMOWE FLOKOWANE - FLOKI Oferta dotyczy 1 pary rękawic Rozmiar: 8 - M Kolor: Żółty Marka: OGRIFOX PAKOWANIE: 12 par (Foliopak) / 240 par (Karton) wykonane z lateksu potocznie nazywane jako floki lub rękawice gospodarcze ułatwione wkładanie i zdejmowanie rękawic dzięki flokowi - pyłowi bawełnianemu, dzięki któremu dłonie nie pocą się podczas użytkowania rękawiczki zyskują lepszą przyczepność dzięki chropowatej strukturze na części chwytnej cechują się wysoką odpornością na detergenty i środki piorące doskonale nadają się do prac w gospodarstwach domowych każda para zapakowana jest w osobną torebkę - dzięki temu rękawice świetnie się prezentują i są idealne na wszelkiego rodzaju prezentacje spełniają normy EN420 Własności: - zwiększona chwytność - odporność na detergenty i środki piorące - każda para pakowana w osobną torebkę - rękawice flokowane - floki Normy: - EN420 Produkt polecany dla branż: - Obsługa techniczna obiektów w tym hoteli, prace domowe oraz porządkowe, kwiaciarnie - Rolnictwo / Ogrodnictwo / Leśnictwo / Łowiectwo / Rybactwo Posiadamy również inne rozmiary oraz rodzaje rękawic rękawice ochronne, gumowe rękawice, flokowane rękawice, żółte rękawice, rękawice lateksowe, rękawice Ogrifox, rozmiar 8, M, odporność na detergenty, rękawice gospodarcze, normy EN420, chropowata powierzchnia, zwiększona przyczepność, rękawice długie, rękawice poza nadgarstek, rękawice nowe, rękawice uniwersalne, CE, Julianów, produkt polski, RAW-POL, rękawice do prac domowych, rękawice do ogrodu, rękawice do sprzątania, rękawice do hotelu, rękawice do kwiaciarni, rękawice do rolnictwa, GPSR, kontakt@rawpol.com, wysokiej jakości rękawice, idealne na prezent, odporne rękawice, rękawice z flokiem, rękawice pakowane osobno, rękawice OX-FLOX, EAN 0671339604575, kod producenta OX-FLOXM, długie rękawice ochronne, profesjonalne rękawice, żółte floki, rękawice odporne na środki piorące\n\nProducent odpowiedzialny:\nRAW-POL\nJulianów 50, 96-200 Julianów\nKontakt: kontakt[at]rawpol.com\n\n[DOFIRMY]",
+                "category_id": 4279,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 15.22,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/b50ee90123067c8d402f478c4edc4d5e.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/e00ae41aff1fa8d102afc70d92462b25.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11ab4e/5ea3a13740adad1409e2a4df0307"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11f96a/ea35b16f4bd391d7c5c896255b1d"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/118563/54e2d1834aaa864c11f2e623af78"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/113d84/4bbd44684829aa238d633595a44a"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
