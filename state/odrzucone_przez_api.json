@@ -610,5 +610,76 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243158257",
+        "Nazwa_Produktu": "Drążek do mopa Vileda (KLIK)",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to drążek do mopa, będący akcesorium do sprzątania. Chociaż 'Środki czyszczące' zazwyczaj odnoszą się do detergentów, w kontekście kategorii 'Supermarket' na platformach handlowych często grupuje się tam również narzędzia i akcesoria do sprzątania. Jest to najbardziej szczegółowa kategoria-liść, która pasuje do charakteru produktu jako artykułu gospodarstwa domowego przeznaczonego do utrzymania czystości.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Drążek do mopa vileda (klik)",
+                "description": "Metalowy drążek do mopa Vileda Trwały i praktyczny kij do mopa marki Vileda montowany jest do mopa na \"klik\" (nie jest wyposażony w gwint). Przeznaczony wyłącznie do mopów paskowych. Metalowy Montowany do mopa na \"klik\" Mopy: paskowe Długość drążka do szczotki: 125 cm Wytrzymały Trwały Odporny na rdzę Malowany metodą proszkową tzn. nie rdzewiejącą, dzięki temu kij jest odporny na rdzę i przebarwienia nią spowodowane. Specyfikacja Marka: Vileda Długość: 125 cm Materiał: Metal (Plastikowe zakończenia) Gwint: przeznaczony do mopów paskowych Kolor: czerwono-czarny Gwint przeznaczony wyłącznie do mopów paskowych. Posiadamy również inne akcesoria domowe drążek do mopa Vileda, kij do mopa metalowy, Vileda mop paskowy, kij do mopa czerwono-czarny, kij bez gwintu, drążek montowany na klik, trwały kij do mopa, kij odporny na rdzę, malowany proszkowo kij, mop paskowy Vileda, akcesoria domowe Vileda, kij do mopów paskowych, Vileda drążek czerwony, wysokiej jakości kij do mopa, metalowy kij do mopa, kij do mopa trwały, element do mopa Vileda, praktyczny kij do mopa, wytrzymały drążek Vileda, kij do mopa 125 cm, oryginalny drążek Vileda, kij Vileda wsuwany, kij do mopa mocny, metalowy kij do mopów, akcesoria do sprzątania, kij do mopa na klik, zakupy online Vileda, kij do mopa cena, kij do mopa sklep, mop Vileda z kijem, kij do mopa kolorowy, elementy mopów, kij Vileda Warszawa, produkt Vileda Polska, kij do mopa opis, kij Vileda specyfikacja, kij do mopa online, drążek do mopa dostawa, numer produktu Vileda\n\nProducent odpowiedzialny:\nFHP Vileda Sp. z o.o.\nPuławska 182, 02-670 Warszawa\nKontakt: biuro.pl[at]fhp-ww.com\n\n[DOFIRMY]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/fc1463fed8b39a70ed0d2245e3e0229b.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/0abec25bd225616b639b48eb7ce261c8.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/8fe41fcfc245c408836da80ac0a46485.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/013e13a4129f485c3830f5f8fbdf5f07.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/cbc201b0ae25bc4a2693107020c8bdac.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/111217/f0a1888c475dac249688b74f1612"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/1140fa/48c157734f249e7e4a3ffdbb3b41"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11ee26/3d6d8a9843f9b84ad42ba8b3667e"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Wysokość zdjęcia musi mieć conajmniej 100 px"
+                }
+            }
+        }
     }
 ]
