@@ -808,5 +808,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to pas transportowy, służący do zabezpieczania ładunków w transporcie (na przyczepkach, lawetach, w samochodach dostawczych, na naczepach). Najlepiej pasującą kategorią jest 'Zabezpieczenia' w ramach 'Wyposażenie i akcesoria samochodowe', ponieważ jego główną funkcją jest właśnie zabezpieczanie. Kategoria 'Części samochodowe' (sugerowana w podpowiedzi) byłaby mniej precyzyjna, gdyż pas nie jest częścią mechaniczną pojazdu, lecz akcesorium."
+    },
+    {
+        "ID_Produktu": "243159820",
+        "Nazwa_Produktu": "Pirometr - termometr na podczerwień",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Urządzenia medyczne > Termometry",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Testery diagnostyczne",
+        "Finalne_ID_AI": 5184,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pirometr, czyli termometr na podczerwień. Opis produktu szczegółowo wymienia jego zastosowanie w przemyśle motoryzacyjnym, maszynowym, budownictwie, chłodnictwie, branży spożywczej i gastronomicznej. Jest to narzędzie do precyzyjnego pomiaru temperatury, często używane w celach diagnostycznych, co idealnie pasuje do kategorii 'Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Testery diagnostyczne'. Mimo że jest to termometr, kontekst użycia wskazuje na zastosowania profesjonalne/przemysłowe, a nie medyczne czy domowe."
     }
 ]
