@@ -818,5 +818,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pirometr, czyli termometr na podczerwień. Opis produktu szczegółowo wymienia jego zastosowanie w przemyśle motoryzacyjnym, maszynowym, budownictwie, chłodnictwie, branży spożywczej i gastronomicznej. Jest to narzędzie do precyzyjnego pomiaru temperatury, często używane w celach diagnostycznych, co idealnie pasuje do kategorii 'Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Testery diagnostyczne'. Mimo że jest to termometr, kontekst użycia wskazuje na zastosowania profesjonalne/przemysłowe, a nie medyczne czy domowe."
+    },
+    {
+        "ID_Produktu": "243159999",
+        "Nazwa_Produktu": "Pokrowiec na grill ogrodowy 147x61x122cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec dedykowany na grill ogrodowy. Kategoria 'Dom i Ogród > Ogród > Grill' jest najbardziej szczegółową i adekwatną, ponieważ bezpośrednio odnosi się do przedmiotu (grill) i jego przeznaczenia (ogrodowy). Kategoria 'Wyposażenie wnętrz > Pokrowce' jest zbyt ogólna i nie oddaje specyfiki produktu, jakim jest pokrowiec na sprzęt ogrodowy."
+    },
+    {
+        "ID_Produktu": "243160018",
+        "Nazwa_Produktu": "Popielniczka samochodowa",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to popielniczka samochodowa, która jest akcesorium samochodowym. W drzewie kategorii brak jest bardziej szczegółowej podkategorii dla popielniczek samochodowych w ramach 'Wyposażenie i akcesoria samochodowe', dlatego 'Pozostałe' jest najbardziej odpowiednim wyborem. Wskazówka o 'Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria' jest nieprawidłowa, ponieważ produkt jest fabrycznie nowy i nie jest przedmiotem kolekcjonerskim."
     }
 ]
