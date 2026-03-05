@@ -4768,5 +4768,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Foliopaki to koperty kurierskie, które są podstawowym wyposażeniem biurowym i wysyłkowym. Kategoria 'Akcesoria i materiały biurowe' w sekcji 'Firma i Przemysł' najlepiej oddaje charakter produktu jako materiału eksploatacyjnego do pakowania przesyłek."
+    },
+    {
+        "ID_Produktu": "242635213",
+        "Nazwa_Produktu": "Elektryczna lampa przeciw komarom lampa UV",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to stacjonarna elektryczna lampa owadobójcza UV o mocy 14W, przeznaczona do użytku w domach, restauracjach i innych pomieszczeniach. Na platformie OLX urządzenia tego typu, służące do zwalczania owadów w obrębie gospodarstwa domowego, są standardowo kategoryzowane w sekcji Dom i Ogród > Ogród > Pozostałe Ogród, ze względu na ich funkcję ochrony otoczenia przed insektami."
     }
 ]
