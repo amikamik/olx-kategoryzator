@@ -658,5 +658,155 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to metalowy ochraniacz kątowy służący do zabezpieczania ładunku (płyt gipsowych) podczas transportu. Jego główną funkcją jest ochrona krawędzi i zapobieganie przesuwaniu się pasów. Pasuje to idealnie do kategorii 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia', ponieważ jest to akcesorium do zabezpieczania ładunków w pojazdach. Kategoria zasugerowana przez system ('Narzędzia ręczne') jest mniej precyzyjna, gdyż produkt nie jest narzędziem ręcznym, lecz elementem zabezpieczającym."
+    },
+    {
+        "ID_Produktu": "243159665",
+        "Nazwa_Produktu": "Organizer Podręczny Do Auta Kufer 55x26",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika",
+        "Finalne_ID_AI": 4498,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to organizer przeznaczony specjalnie do auta, do organizacji przestrzeni bagażowej. Kategoria 'Organizery i siatki do bagażnika' w drzewie 'Motoryzacja > Wyposażenie i akcesoria samochodowe' idealnie pasuje do przeznaczenia i funkcji produktu, będąc najbardziej szczegółową i adekwatną opcją."
+    },
+    {
+        "ID_Produktu": "243159684",
+        "Nazwa_Produktu": "Osłona Na Szybę Sztywna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Osłony na szyby",
+        "Finalne_ID_AI": 4499,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu 'Osłona Na Szybę Sztywna' oraz opis jasno wskazują, że jest to osłona na szybę samochodu. Najbardziej szczegółowa i pasująca kategoria to 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Osłony na szyby'."
+    },
+    {
+        "ID_Produktu": "243159698",
+        "Nazwa_Produktu": "Palenisko ogrodowe do grilla P9795",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to 'palenisko ogrodowe do grilla' przeznaczone do użytku w ogrodzie do przygotowywania jedzenia. Kategoria 'Dom i Ogród > Ogród > Grill' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "243159714",
+        "Nazwa_Produktu": "Papier do tachografu cyfrowego uniwersalny",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Tachografy",
+        "Finalne_ID_AI": 4505,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny papier termiczny przeznaczony do tachografów cyfrowych. Kategoria 'Tachografy' w 'Wyposażenie i akcesoria samochodowe' jest najbardziej szczegółowa i bezpośrednio związana z przeznaczeniem produktu, mimo że jest to akcesorium do tachografu, a nie sam tachograf."
+    },
+    {
+        "ID_Produktu": "243159721",
+        "Nazwa_Produktu": "Papier do tachografu cyfrowego uniwersalny 1 karton (3 rolki) TEKSON",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Tachografy",
+        "Finalne_ID_AI": 4505,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to papier do tachografu cyfrowego. Kategoria 'Tachografy' jest najbardziej szczegółową i bezpośrednio pasującą kategorią-liściem, ponieważ produkt jest akcesorium dedykowanym dla tych urządzeń."
+    },
+    {
+        "ID_Produktu": "243159738",
+        "Nazwa_Produktu": "Pas mocujący bagaż 4,5M/25MM",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas mocujący bagaż, używany do zabezpieczania ładunku. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' jest najbardziej szczegółowa i trafna, ponieważ pasy tego typu są często wykorzystywane do zabezpieczania ładunków w transporcie samochodowym, co jest ich głównym zastosowaniem, mimo szerokiego zakresu użycia opisanego w produkcie."
+    },
+    {
+        "ID_Produktu": "243159746",
+        "Nazwa_Produktu": "Pas Transportowy 7,5M/50MM/5T",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy używany do zabezpieczania ładunków w transporcie (na przyczepce, lawecie, w samochodzie dostawczym, na naczepie, do maszyn przemysłowych/budowlanych). Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' jest najbardziej szczegółową i najlepiej pasującą, ponieważ pasuje do funkcji produktu i kontekstu jego użytkowania (transport pojazdami)."
+    },
+    {
+        "ID_Produktu": "243159750",
+        "Nazwa_Produktu": "Pas Transportowy 9,5M/50MM/5T",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy służący do zabezpieczania ładunków w transporcie. Opis produktu wskazuje na zastosowania w pojazdach takich jak przyczepki, lawety, samochody dostawcze i naczepy. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' jest najbardziej szczegółowa i trafnie oddaje funkcję oraz przeznaczenie tego produktu."
+    },
+    {
+        "ID_Produktu": "243159756",
+        "Nazwa_Produktu": "Pas Transportowy ERGO Komplet z Automatem 10M/50MM/5T - 500daN",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy służący do zabezpieczania ładunków, często w pojazdach. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' idealnie odzwierciedla jego przeznaczenie i funkcję."
+    },
+    {
+        "ID_Produktu": "243159760",
+        "Nazwa_Produktu": "Pas Transportowy ERGO Komplet z Automatem 6M/50MM/5T - 500daN",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy używany do zabezpieczania ładunków i ciężkich palet. Opis wskazuje na zastosowania profesjonalne i przemysłowe, co idealnie pasuje do kategorii związanych z transportem i motoryzacją. Najbardziej szczegółową i adekwatną kategorią jest 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia', ponieważ pas jest akcesorium do zabezpieczania ładunków w pojazdach, w tym samochodach dostawczych i ciężarowych, które stanowią część motoryzacji. Sugestia systemowa 'Narzędzia ręczne' jest zbyt ogólna i nie oddaje specyfiki produktu do mocowania ładunków."
+    },
+    {
+        "ID_Produktu": "243159768",
+        "Nazwa_Produktu": "Pas Transportowy ERGO Komplet z Automatem 8M/50MM/5T - 500daN",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy służący do zabezpieczania ładunków, co doskonale pasuje do kategorii 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia'."
+    },
+    {
+        "ID_Produktu": "243159773",
+        "Nazwa_Produktu": "Pas Transportowy Komplet z Automatem 10M/50MM/5T - 350daN",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy służący do zabezpieczania ładunków w transporcie. Kategoria 'Zabezpieczenia' w 'Wyposażenie i akcesoria samochodowe' jest najbardziej szczegółowa i trafna dla tego typu produktu, ponieważ jest to akcesorium do pojazdów służące zwiększeniu bezpieczeństwa ładunku."
+    },
+    {
+        "ID_Produktu": "243159779",
+        "Nazwa_Produktu": "Pas Transportowy Komplet z Automatem 5M/25MM/1T - 120daN",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe",
+        "Finalne_ID_AI": 1401,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy używany do zabezpieczania ładunków. Opis produktu wyraźnie wymienia jego zastosowanie w samochodach dostawczych, na naczepach (pojazdy ciężarowe) oraz do zabezpieczania aut na lawetach, co idealnie pasuje do kategorii 'Części samochodowe > Dostawcze i Ciężarowe'."
+    },
+    {
+        "ID_Produktu": "243159788",
+        "Nazwa_Produktu": "Pas Transportowy Komplet z Automatem 6M/35MM/2T - 200daN",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy, którego głównym przeznaczeniem jest zabezpieczanie ładunków w transporcie, w tym na przyczepkach, lawetach, w samochodach dostawczych i naczepach. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' idealnie oddaje funkcję i kontekst użytkowania produktu, będąc najbardziej szczegółową i precyzyjną z dostępnych kategorii-liści."
+    },
+    {
+        "ID_Produktu": "243159794",
+        "Nazwa_Produktu": "Pas Transportowy Komplet z Automatem 8M/50MM/5T - 350daN",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy, służący do zabezpieczania ładunków w transporcie (na przyczepkach, lawetach, w samochodach dostawczych, na naczepach). Najlepiej pasującą kategorią jest 'Zabezpieczenia' w ramach 'Wyposażenie i akcesoria samochodowe', ponieważ jego główną funkcją jest właśnie zabezpieczanie. Kategoria 'Części samochodowe' (sugerowana w podpowiedzi) byłaby mniej precyzyjna, gdyż pas nie jest częścią mechaniczną pojazdu, lecz akcesorium."
     }
 ]
