@@ -4898,5 +4898,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Brelok typu pompon to klasyczny dodatek galanteryjny do torebek, plecaków lub kluczy. Najlepiej pasuje do kategorii Moda > Akcesoria > Pozostałe, ponieważ nie jest zabawką (co wyklucza kategorię Dla Dzieci), lecz elementem ozdobnym stroju i akcesoriów."
+    },
+    {
+        "ID_Produktu": "242635442",
+        "Nazwa_Produktu": "Bransoletka Pasek do Zegarka Apple 38mm Czarny",
+        "Poczatkowa_Sciezka_OLX": "Moda > Zegarki > Akcesoria > Paski do zegarków",
+        "Finalna_Sciezka_AI": "Moda > Zegarki > Akcesoria > Paski do zegarków",
+        "Finalne_ID_AI": 4778,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pasek (bransoleta) do zegarka typu Apple Watch, co jednoznacznie klasyfikuje go do kategorii 'Paski do zegarków' w sekcji akcesoriów do zegarków."
+    },
+    {
+        "ID_Produktu": "242635443",
+        "Nazwa_Produktu": "Bransoletka Pasek do Zegarka Apple 42mm Srebrny",
+        "Poczatkowa_Sciezka_OLX": "Moda > Zegarki > Akcesoria > Paski do zegarków",
+        "Finalna_Sciezka_AI": "Moda > Zegarki > Akcesoria > Paski do zegarków",
+        "Finalne_ID_AI": 4778,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest paskiem (bransoletą) do zegarka, co w strukturze kategorii OLX najlepiej pasuje do dedykowanej kategorii 'Paski do zegarków' (ID: 4778) w sekcji akcesoriów do zegarków."
+    },
+    {
+        "ID_Produktu": "242635445",
+        "Nazwa_Produktu": "Bransoletka Pasek do Zegarka APPLE 40mm Czarny",
+        "Poczatkowa_Sciezka_OLX": "Moda > Zegarki > Akcesoria > Paski do zegarków",
+        "Finalna_Sciezka_AI": "Moda > Zegarki > Akcesoria > Paski do zegarków",
+        "Finalne_ID_AI": 4778,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest bransoletą (paskiem) przeznaczoną do zegarka Apple Watch. Najbardziej precyzyjną kategorią w drzewie jest 'Paski do zegarków' (ID: 4778), która znajduje się w sekcji akcesoriów do zegarków."
     }
 ]
