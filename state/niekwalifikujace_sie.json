@@ -4948,5 +4948,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to akcesoria ogrodowe służące do pielęgnacji i mocowania roślin. Najlepiej pasuje do podkategorii 'Narzędzia ogrodowe', a ze względu na brak specyficznej kategorii dla podpór i wiązań roślin, właściwym wyborem jest kategoria 'Pozostałe' w tym drzewie."
+    },
+    {
+        "ID_Produktu": "242635498",
+        "Nazwa_Produktu": "Dekoracje urodzinowe Krasnale ogrodowe 6 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw dekoracyjnych tabliczek na palikach przeznaczonych do wbicia w ziemię na trawniku. Choć są to ozdoby urodzinowe, ich konstrukcja (odporność na warunki atmosferyczne) oraz miejsce przeznaczenia (ogród) sprawiają, że kategoria 'Dekoracje ogrodowe' jest najbardziej odpowiednia, zwłaszcza że alternatywna kategoria 'Ozdoby okolicznościowe' znajduje się w drzewie pod 'Wyposażeniem wnętrz'."
     }
 ]

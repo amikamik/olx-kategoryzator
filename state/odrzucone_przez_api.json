@@ -2084,5 +2084,72 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242635486",
+        "Nazwa_Produktu": "Kredka Brązowa Ergosoft Staedtler 12szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pisaki, mazaki, flamastry",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Kredki",
+        "Finalne_ID_AI": 4616,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kredki marki Staedtler, które są klasyfikowane jako artykuły plastyczne szkolne. W drzewie kategorii istnieje dedykowana kategoria liść o nazwie 'Kredki'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kredka brązowa ergosoft staedtler 12szt",
+                "description": "Kredka do kolorowania w ergonomicznym trójkątnym formacie zapewnia relaksujące pisanie i malowanie. Wyjątkowa, antypoślizgowa miękka powierzchnia. Wyjątkowo miękka i intensywna kolorystyka. Drewno z certyfikatem FSC (FSC-C007132), lasy zarządzane w sposób zrównoważony Specyfikacja: Ilość w opakowaniu : 12szt Kolor: Brązowy Marka: STAEDTLER Wymiary produktu: ?17,5 x 0,79 x 0,79 cm; 9,07 gr Typ materiału: ?Drewno Typ końcówki: ?Średnia\n\n[DEAL-BLB2B]",
+                "category_id": 4616,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 33.08,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/eb6ccc69615541601009cb6bc8587b0c.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/3575b6c40d3bcd0636acea4ed5a3541d.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/4314472c5b8caffe3c47a693a169cd2c.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/eff2851e368bbc1ced389a9f4d400b44.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/7ee4c3fb87f89097b335f0252eae39aa.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Wysokość zdjęcia musi mieć conajmniej 100 px"
+                }
+            }
+        }
     }
 ]
