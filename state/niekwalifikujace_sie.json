@@ -4828,5 +4828,55 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest wieloelementowym zestawem (14 sztuk) specjalistycznych narzędzi ręcznych (aplikatory, skrobaki) służących do prac wykończeniowych. Kategoria 'Zestawy narzędzi' w sekcji 'Narzędzia' jest najbardziej adekwatnym miejscem dla kompletów akcesoriów budowlano-remontowych."
+    },
+    {
+        "ID_Produktu": "242635339",
+        "Nazwa_Produktu": "Słuchawka Prysznicowa z Wężem 2m 3 Dysze niebieska",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Baterie łazienkowe",
+        "Finalne_ID_AI": 3229,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to słuchawka prysznicowa z wężem, co stanowi element armatury łazienkowej. W drzewie kategorii OLX, elementy te są klasyfikowane pod 'Baterie łazienkowe' w sekcji wykończenia łazienki."
+    },
+    {
+        "ID_Produktu": "242635346",
+        "Nazwa_Produktu": "Szal Damski Szalik Bawełniany z Frędzlami Beżowy",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Szale i chusty > Szaliki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Szale i chusty > Szaliki",
+        "Finalne_ID_AI": 2732,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to damski szalik zimowy o długości 200 cm, co idealnie pasuje do najbardziej szczegółowej kategorii 'Szaliki' w dziale akcesoriów modowych."
+    },
+    {
+        "ID_Produktu": "242635351",
+        "Nazwa_Produktu": "Serwetka gastronomiczna 33x33 biała 500szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to serwetki papierowe w opakowaniu zbiorczym (500 szt.), które są wyraźnie opisane jako 'gastronomiczne' i przeznaczone do profesjonalnego użytku w restauracjach, barach i kawiarniach. Duża ilość oraz branżowe przeznaczenie wskazują na kategorię zaopatrzenia dla firm (Firma i Przemysł > Gastronomia > Pozostałe)."
+    },
+    {
+        "ID_Produktu": "242635390",
+        "Nazwa_Produktu": "Taśma klejąca Vibac 48mm 60m solvent brąz 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taśma pakowa (szerokość 48mm, klej solvent) przeznaczona do użytku w biurach i magazynach. Najbardziej odpowiednią kategorią dla materiałów eksploatacyjnych tego typu na platformie OLX jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "242635391",
+        "Nazwa_Produktu": "Gąbka Ścierna Kostka Dwustronna Szlifierska 120",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to gąbka ścierna przeznaczona do ręcznej obróbki (szlifowania) konturów i profili, co jednoznacznie klasyfikuje go jako narzędzie ręczne w kategorii Dom i Ogród."
     }
 ]
