@@ -532,5 +532,83 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243158018",
+        "Nazwa_Produktu": "BUTY ZAWODOWE / REIS / czarno-żółty / Rozmiar 39 / BRYES-T-OB_39",
+        "Poczatkowa_Sciezka_OLX": "Moda > Buty damskie > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Odzież robocza > Buty",
+        "Finalne_ID_AI": 4276,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'buty zawodowe' (robocze) spełniające normy bezpieczeństwa, co idealnie pasuje do kategorii 'Firma i Przemysł > Odzież robocza > Buty'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Buty zawodowe / reis / czarno-żółty / rozmiar 39 / bryes-t-ob_39",
+                "description": "Buty zawodowe YES Rozmiar: 39 Kolor: czarno-żółty Marka: REIS Linia produktów: YES - wykonane ze skóry bydlęcej - buty typu trzewik, sięgające za kostkę - podeszwa antypoślizgowa, olejoodporna, wykonana z poliuretanu o podwójnej gęstości - absorpcja uderzeń pod piętą - podszewka wykonana z materiału cambrelle absorbującego pot - kategoria OB E FO SRC - spełniają wymagania norm EN20347, EN20344 Normy: - EN20344 - EN20347 Własności: - absorpcja na uderzenia pod piętą - typ OB. - podeszwa olejoodporna - podeszwa antypoślizgowa Produkt polecany dla branż: - Rolnictwo/Ogrodnictwo/Leśnictwo/Łowiectwo/Rybactwo Posiadamy również inne rozmiary oraz rodzaje butów roboczych buty zawodowe, buty trzewik, REIS, czarno-żółty, rozmiar 39, obuwie unisex, trzewiki robocze, skóra bydlęca, podeszwa antypoślizgowa, olejoodporna, absorpcja uderzeń, cambrelle, kategoria OB E FO SRC, normy EN20344, normy EN20347, rolnictwo, ogrodnictwo, leśnictwo, łowiectwo, rybactwo, ochronne obuwie, SB, energia w części piętowej, odporność na olej napędowy, nieprzemakalne, całoroczne, CE, uniwersalne zastosowanie, wiązane obuwie, RAW-POL, Polska produkcja, Julianów, kontakt@rawpol.com, obuwie zawodowe, buty ochronne, bezpieczeństwo pracy, pakowanie Taśma, 1,42 kg, 36 cm, 24,5 cm, 13,1 cm, stan Nowy, oryginalne opakowanie, EAN 5907522990299, BryesTSB39, SB kategoria ochrony, marka Reis, model BryesTSB\n\nProducent odpowiedzialny:\nRAW-POL\nJulianów 50, 96-200 Julianów\nKontakt: kontakt[at]rawpol.com\n\n[DOFIRMY]",
+                "category_id": 4276,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 94.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/2a797f070fa81e8a59f839c828dd43af.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/71f09c67648241f569443122fdc306d9.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/cc607b2b2738c32ca07c88f7bfca3aae.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11e6f9/9d355ee44c8198cb02f3d7f66641"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/112926/2084b57a4386b8dcaa235851c809"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/1118ab/2be0a6964067b106e953783dd09f"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/119045/11552f054c92891c282a2bef65fe"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11e606/5ce95a894fdc84b7c5453858f28e"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
