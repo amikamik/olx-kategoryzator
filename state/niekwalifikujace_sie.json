@@ -4648,5 +4648,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to zestaw 9 reflektorów wpuszczanych LED do sufitu. W polskiej terminologii oświetleniowej i w strukturze kategorii OLX, tego typu oprawy sufitowe określane są jako 'Oczka'."
+    },
+    {
+        "ID_Produktu": "242634373",
+        "Nazwa_Produktu": "Lampy Solarne Zewnętrzne Aotlet 20Led 2Szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalne_ID_AI": 3875,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw dwóch zewnętrznych lamp solarnych LED typu 'Mason Jar'. Zgodnie z hierarchią kategorii, najbardziej precyzyjnym wyborem jest kategoria 'Lampy' w sekcji 'Oświetlenie zewnętrzne', co potwierdza również struktura oświetlenia w dziale 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "242634511",
+        "Nazwa_Produktu": "Hulajnoga miejska BELEEV regulowana Amortyzator",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Skating > Hulajnogi",
+        "Finalne_ID_AI": 1676,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klasyczna hulajnoga miejska (mechaniczna), przeznaczona do rekreacji i transportu, co w strukturze OLX odpowiada kategorii Hulajnogi w sekcji Skating pod Sport i Hobby."
+    },
+    {
+        "ID_Produktu": "242634690",
+        "Nazwa_Produktu": "Led Wpuszczany Spot 4W 83X83Mm Ip44 2700K 9 Szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw wpuszczanych opraw sufitowych LED (tzw. downlighty). W terminologii oświetleniowej i strukturze kategorii OLX dla oświetlenia sufitowego montowanego wewnątrz stropu właściwą kategorią są 'Oczka'."
+    },
+    {
+        "ID_Produktu": "242634692",
+        "Nazwa_Produktu": "Reflektor Led Do Zabudowy 4W 400Lm Ip44 Srebrny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mały reflektor punktowy typu LED przeznaczony do zabudowy (oprawa wpuszczana), co w polskiej nomenklaturze oświetleniowej na platformie OLX najlepiej odpowiada kategorii 'Oczka'."
+    },
+    {
+        "ID_Produktu": "242634770",
+        "Nazwa_Produktu": "Led Wpuszczany Spot 4W 9 Szt. 83Mm Ip44 2700K",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw opraw sufitowych wpuszczanych (recessed spotlights), które w polskiej terminologii handlowej i kategoryzacji oświetlenia są precyzyjnie określane jako 'oczka'."
+    },
+    {
+        "ID_Produktu": "242634960",
+        "Nazwa_Produktu": "Lampka podłogowa LED RGB 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy stojące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stojące",
+        "Finalne_ID_AI": 3865,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw lamp podłogowych (stojących), co w drzewie kategorii OLX.pl bezpośrednio odpowiada liściowi 'Lampy stojące' (ID: 3865) w sekcji Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242634981",
+        "Nazwa_Produktu": "Reflektor Smart LED RGB 12W 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to inteligentna oprawa wpuszczana LED (downlight), która w polskiej terminologii oświetleniowej jest klasyfikowana jako 'Oczka' (punktowe oprawy sufitowe)."
     }
 ]
