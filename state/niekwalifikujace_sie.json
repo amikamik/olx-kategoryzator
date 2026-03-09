@@ -5158,5 +5158,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt został jednoznacznie zidentyfikowany jako lampa wisząca, co odpowiada specyficznej kategorii liścia 'Lampy wiszące' w sekcji Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242636049",
+        "Nazwa_Produktu": "Poduszka na Krzesło 40x40 Bawełniana Fioletowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pościel > Poduszki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Poduszki",
+        "Finalne_ID_AI": 2893,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to poduszka przeznaczona do siedzenia na krzesłach, fotelach i taboretach (tzw. siedzisko), a opis wyraźnie sugeruje jej zastosowanie również na tarasie lub balkonie. W podanym drzewie kategorii, ID 2893 (Dom i Ogród > Ogród > Meble ogrodowe > Poduszki) jest najbardziej specyficznym i trafnym wyborem dla poduszek meblowych. Alternatywna kategoria 2040 znajduje się w sekcji 'Pościel', co sugeruje poduszki do spania, a nie siedziskowe."
     }
 ]
