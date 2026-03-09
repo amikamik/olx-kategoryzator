@@ -1968,5 +1968,165 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to papier kserograficzny do użytku biurowego i domowego, przeznaczony do drukarek i kopiarek. Najbardziej szczegółową i adekwatną kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "243158326",
+        "Nazwa_Produktu": "Elektryczny grzejnik naścienny WARMTEC EWX-500W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Grzejniki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Grzejniki",
+        "Finalne_ID_AI": 1682,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektryczny grzejnik konwektorowy, służący do ogrzewania pomieszczeń. Kategoria 'Dom i Ogród > Ogrzewanie > Grzejniki' jest najbardziej szczegółową i precyzyjną kategorią-liściem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "243158386",
+        "Nazwa_Produktu": "Fotel Biurowy Obrotowy Wentylowany / Czarny / MESH 23236",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Krzesła biurowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Krzesła biurowe",
+        "Finalne_ID_AI": 1918,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to fotel biurowy, z wyszczególnieniem cech takich jak 'obrotowy', 'wentylowany', 'ergonomiczny' i 'do biura'. Kategoria 'Krzesła biurowe' jest najbardziej szczegółową i idealnie pasującą kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "243158424",
+        "Nazwa_Produktu": "Fotel biurowy skóra eko MALATEC / Czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Krzesła biurowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Krzesła biurowe",
+        "Finalne_ID_AI": 1918,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to fotel biurowy, a 'Krzesła biurowe' (ID: 1918) to dokładnie pasująca kategoria na najbardziej szczegółowym poziomie."
+    },
+    {
+        "ID_Produktu": "243158514",
+        "Nazwa_Produktu": "Grill ogrodowy G8056",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to grill ogrodowy. Kategoria 'Dom i Ogród > Ogród > Grill' jest najbardziej szczegółową i precyzyjną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "243158559",
+        "Nazwa_Produktu": "Hoker PAKO H- Biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalne_ID_AI": 1947,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje, że jest to 'Hoker'. Opis wielokrotnie używa słowa 'hoker' i 'stołek', określając go jako mebel, który sprawdzi się w salonie kosmetycznym, fryzjerskim, a także w domu. Kategoria 'Dom i Ogród > Meble > Taborety i hokery' jest najbardziej szczegółową i idealnie pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "243158569",
+        "Nazwa_Produktu": "Hoker PAKO H - Czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalne_ID_AI": 1947,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu i opis wielokrotnie odwołują się do 'hokera'. Kategoria 'Taborety i hokery' jest bezpośrednim i najbardziej szczegółowym dopasowaniem dla tego typu mebla."
+    },
+    {
+        "ID_Produktu": "243158575",
+        "Nazwa_Produktu": "Hoker z Oparciem - Biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalne_ID_AI": 1947,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'hoker', który jest rodzajem stołka. W opisie jasno wskazano, że jest to 'mebel', który może być używany zarówno w salonach fryzjerskich/kosmetycznych, jak i w domu (kuchnia, gabinet). Kategoria 'Dom i Ogród > Meble > Taborety i hokery' jest najbardziej szczegółowa i bezpośrednio odpowiada rodzajowi produktu, uwzględniając jego uniwersalny charakter, a nie tylko profesjonalne zastosowanie."
+    },
+    {
+        "ID_Produktu": "243158581",
+        "Nazwa_Produktu": "Hoker z Oparciem - Czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalne_ID_AI": 1947,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hoker, który idealnie pasuje do ogólnej kategorii 'Taborety i hokery' w dziale 'Dom i Ogród'. Chociaż w opisie wymieniono zastosowania profesjonalne (fryzjerskie, kosmetyczne), wspomniano również o użytku domowym (kuchnia, gabinet, warsztat). Brak jednej kategorii liścia, która obejmowałaby jednocześnie hokery fryzjerskie i kosmetyczne, a także szerokie zastosowanie, sprawia, że ogólna kategoria 'Taborety i hokery' jest najbardziej odpowiednia i nie wyklucza żadnego z wymienionych zastosowań. Wskazówka od systemu OLX również potwierdza to podejście."
+    },
+    {
+        "ID_Produktu": "243159005",
+        "Nazwa_Produktu": "Krzesło do makijażu drewniane",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Krzesła",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Fotele i łóżka kosmetyczne",
+        "Finalne_ID_AI": 5105,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne krzesło przeznaczone do makijażu, używane w salonach kosmetycznych i przez wizażystki mobilne. Najbardziej szczegółowa i odpowiednia kategoria to 'Firma i Przemysł > Wyposażenie salonów > Meble kosmetyczne > Fotele i łóżka kosmetyczne', ponieważ krzesło do makijażu jest specjalistycznym meblem do siedzenia, wykorzystywanym w branży kosmetycznej, pasującym do podkategorii foteli i łóżek kosmetycznych."
+    },
+    {
+        "ID_Produktu": "243159059",
+        "Nazwa_Produktu": "Kuchenka Gazowa 4-Palnikowa Ravanson K-04BR",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki przenośne",
+        "Finalne_ID_AI": 2210,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 4-palnikowa kuchenka gazowa, którą można użytkować w domu, na działce, w małej gastronomii oraz jako kuchenkę turystyczną. Jej niewielkie wymiary i mobilność wyraźnie wskazują na kategorię 'Kuchenki przenośne', która jest bardziej szczegółowa niż ogólne 'Kuchenki wolnostojące' w kontekście cech produktu."
+    },
+    {
+        "ID_Produktu": "243159065",
+        "Nazwa_Produktu": "Kuchenka Gazowa 4-Palnikowa Ravanson K-04T",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalne_ID_AI": 2211,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 4-palnikowa kuchenka gazowa, która, choć podkreślana jest jej przenośność i zastosowania turystyczne/gastronomiczne, z definicji jest urządzeniem wolnostojącym. Kategoria 'Kuchenki wolnostojące' jest najbardziej szczegółowa i najlepiej oddaje podstawowy charakter tego AGD."
+    },
+    {
+        "ID_Produktu": "243159706",
+        "Nazwa_Produktu": "Panel sterujący Warmtec ControlBox",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Klimatyzacja i wentylacja > Klimatyzacja",
+        "Finalne_ID_AI": 3216,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to panel sterujący do klimatyzatora. Kategoria 'Klimatyzacja' (ID 3216) w drzewie 'Dom i Ogród > Instalacje > Klimatyzacja i wentylacja' jest najbardziej szczegółową i adekwatną kategorią-liściem dla tego typu akcesorium związanego z systemami klimatyzacji, szczególnie że opis wskazuje na sterowanie urządzeniem umieszczonym na zewnątrz pomieszczenia, co sugeruje bardziej złożoną instalację niż typowe 'AGD drobne'."
+    },
+    {
+        "ID_Produktu": "243161467",
+        "Nazwa_Produktu": "Waga 40x50 300 Kg - 17003",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to waga platformowa magazynowa, przeznaczona do użytku w magazynach, halach produkcyjnych i sklepach. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Wagi' jest idealnie dopasowana, ponieważ bezpośrednio odnosi się do wag używanych w kontekście biznesowym i magazynowym, co jest w pełni zgodne z opisem produktu."
+    },
+    {
+        "ID_Produktu": "243161831",
+        "Nazwa_Produktu": "Wózek Transportowy Aluminiowy Składany",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Wózki paletowe i paleciaki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Koszyki i wózki",
+        "Finalne_ID_AI": 4673,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to składany, aluminiowy wózek transportowy o ładowności do 70 kg, przeznaczony do przewożenia paczek, kartonów, worków z cementem, donic. Jest opisany jako idealny do użytku domowego, w ogrodzie, a także w magazynie, na poczcie, dla kurierów i dostawców. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Koszyki i wózki' jest najbardziej odpowiednia, ponieważ dokładnie oddaje naturę produktu jako wózka używanego w kontekście magazynowym i handlowym, jednocześnie pasując do jego ogólnej funkcji transportowej. Podkategoria 'Wózki paletowe i paleciaki' z podpowiedzi jest zbyt wąska, gdyż opisywany produkt to ręczny wózek transportowy, a nie wózek do obsługi palet."
+    },
+    {
+        "ID_Produktu": "243162139",
+        "Nazwa_Produktu": "Folia Stretch Ręczna 1,5 kg brutto / 50cm / 23µ - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to folia stretch, która jest materiałem pakowym używanym głównie w firmach, do pakowania paczek i owijania towarów na paletach. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' najlepiej oddaje jego zastosowanie jako materiału biurowego/przemysłowego. Jest to kategoria liść i jest najbardziej szczegółowa, biorąc pod uwagę charakter produktu."
+    },
+    {
+        "ID_Produktu": "243162150",
+        "Nazwa_Produktu": "Folia Stretch Ręczna 3 kg brutto / 50cm / 23µ - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to folia stretch używana do pakowania paczek i owijania towarów na paletach, co jest kluczowe w logistyce, transporcie i magazynowaniu, szczególnie w kontekście sklepów (w tym e-commerce). Kategoria 'Firma i Przemysł > Sklepy i magazyny' doskonale odzwierciedla przeznaczenie produktu. Ponieważ nie ma bardziej szczegółowej podkategorii dla materiałów opakowaniowych, 'Pozostałe' jest najbardziej adekwatną kategorią-liściem."
     }
 ]
