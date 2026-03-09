@@ -5068,5 +5068,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt jest mleczkiem do czyszczenia powierzchni domowych (kuchnia, łazienka), co jednoznacznie klasyfikuje go do kategorii środków czyszczących w sekcji Supermarket w dziale Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242635887",
+        "Nazwa_Produktu": "Poduszka na Krzesło Wiązana 40x40 Bawełna Ananas",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pościel > Poduszki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Poduszki",
+        "Finalne_ID_AI": 2893,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to poduszka na krzesło (siedzisko), a opis wyraźnie wskazuje na jej przeznaczenie do krzeseł ogrodowych, na taras lub balkon. W podanym drzewie kategorii, ID 2893 (Ogród > Meble ogrodowe > Poduszki) jest najbardziej trafnym i specyficznym wyborem dla poduszek tego typu."
+    },
+    {
+        "ID_Produktu": "242635889",
+        "Nazwa_Produktu": "Poduszka na Krzesło Wiązana 40x40 Bawełna Lody",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pościel > Poduszki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Poduszki",
+        "Finalne_ID_AI": 2893,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest poduszką na krzesło (siedzisko), a opis wyraźnie wskazuje na jego przeznaczenie do mebli ogrodowych, na taras i balkon, co idealnie pasuje do kategorii Poduszki w sekcji Meble ogrodowe."
     }
 ]
