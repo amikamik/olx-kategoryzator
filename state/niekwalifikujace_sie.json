@@ -2658,5 +2658,55 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to nabój z gazem butan przeznaczony do kuchenek turystycznych, lamp gazowych i lamp lutowniczych. Są to urządzenia związane z ogrzewaniem przenośnym, co idealnie pasuje do kategorii 'Dom i Ogród > Ogrzewanie > Ogrzewanie przenośne'."
+    },
+    {
+        "ID_Produktu": "243163946",
+        "Nazwa_Produktu": "Pistolet Do Przedmuchiwania Scania",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pistolet do przedmuchiwania kabin pojazdów, dedykowany dla marki Scania. Jest to akcesorium do pojazdów samochodowych, a najgłębsza i najbardziej pasująca kategoria to 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe', ponieważ nie ma bardziej szczegółowej kategorii dla tego typu narzędzi pneumatycznych w kontekście motoryzacyjnym."
+    },
+    {
+        "ID_Produktu": "243163950",
+        "Nazwa_Produktu": "Pistolet Do Przedmuchiwania Z Przewodem Tekson 10kg/Cm2",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pistolet do przedmuchiwania, który jest narzędziem pneumatycznym. Opis wskazuje na jego zastosowanie w garażach, warsztatach oraz rolnictwie (np. kabiny ciągników), co sugeruje profesjonalny kontekst. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółową i adekwatną kategorią, precyzyjnie oddającą przeznaczenie i środowisko użytkowania tego typu sprzętu, bardziej niż ogólne 'Narzędzia ręczne' z kategorii 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "243163958",
+        "Nazwa_Produktu": "Pistolet Do Przedmuchiwania Renault",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Elektronarzędzia > Pistolety",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pistolet do przedmuchiwania dedykowany dla samochodów marki Renault, służący do czyszczenia kabiny pojazdu. Jest to narzędzie/akcesorium samochodowe. Najbardziej szczegółowa i trafna kategoria to 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe', ponieważ nie ma bardziej specyficznej podkategorii dla tego typu narzędzia do czyszczenia wnętrza pojazdu. Umieszczenie go w 'Elektronarzędzia' jest nieprawidłowe, gdyż nie jest to narzędzie elektryczne, a pneumatyczne."
+    },
+    {
+        "ID_Produktu": "243163967",
+        "Nazwa_Produktu": "Klucz Przekładniowy 1:58 Komplet Z 7 Nasadkami",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny klucz przekładniowy do kół w ciężarówkach i innych ciężkich pojazdach, opisany jako 'narzędzia warsztatowe'. Najbardziej precyzyjną i szczegółową kategorią dla tego typu profesjonalnego narzędzia jest 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe'."
+    },
+    {
+        "ID_Produktu": "243163971",
+        "Nazwa_Produktu": "Klucz Przekładniowy 1:58",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to klucz przekładniowy (planetarny), narzędzie ręczne przeznaczone do odkręcania nakrętek kół w ciężarówkach i innych ciężkich pojazdach. Jest to specjalistyczne narzędzie warsztatowe, dlatego kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółowa i najlepiej pasuje do opisu produktu."
     }
 ]
