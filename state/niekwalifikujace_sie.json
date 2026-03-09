@@ -1918,5 +1918,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to kwit paletowy, będący artykułem papierniczym i dokumentem do zarządzania paletami w kontekście biznesowym. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "243162451",
+        "Nazwa_Produktu": "Naklejka Martwe Pole ANGLES MORTS - Folia Standard - 5 szt.",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Pozostały sport i hobby",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to naklejki ostrzegawcze o martwych polach, wymagane przepisami dla pojazdów ciężarowych, mające na celu zwiększenie bezpieczeństwa. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' jest najbardziej precyzyjna, ponieważ naklejki te służą jako element zabezpieczający ruch drogowy i stanowią wyposażenie pojazdów."
+    },
+    {
+        "ID_Produktu": "243162563",
+        "Nazwa_Produktu": "Papier do tachografu cyfrowego uniwersalny 1 karton (3 rolki) TEKSON - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Tachografy",
+        "Finalne_ID_AI": 4505,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to papier termiczny do tachografów cyfrowych. Kategoria 'Tachografy' jest najbardziej szczegółową i bezpośrednio pasującą, ponieważ papier jest niezbędnym materiałem eksploatacyjnym dla tego typu urządzeń, które są elementem wyposażenia samochodowego."
+    },
+    {
+        "ID_Produktu": "243162583",
+        "Nazwa_Produktu": "Papier do tachografu cyfrowego uniwersalny - 30 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalne_ID_AI": 4489,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny papier termiczny do tachografów cyfrowych. Tachografy cyfrowe to urządzenia elektroniczne stosowane w pojazdach, dlatego kategoria 'Elektronika samochodowa' w ramach 'Wyposażenie i akcesoria samochodowe' jest najbardziej szczegółowa i trafna. Wskazówka systemowa była nieadekwatna do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "243162590",
+        "Nazwa_Produktu": "Papier do tachografu cyfrowego uniwersalny - 3 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Tachografy",
+        "Finalne_ID_AI": 4505,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to papier termiczny przeznaczony do tachografów cyfrowych, co bezpośrednio wskazuje na kategorię 'Tachografy' znajdującą się w drzewie 'Motoryzacja > Wyposażenie i akcesoria samochodowe'."
+    },
+    {
+        "ID_Produktu": "243162599",
+        "Nazwa_Produktu": "Papier ksero Polspeed A4 80g - 5 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to papier kserograficzny do użytku biurowego i domowego, przeznaczony do drukarek i kopiarek. Najbardziej szczegółową i adekwatną kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
     }
 ]
