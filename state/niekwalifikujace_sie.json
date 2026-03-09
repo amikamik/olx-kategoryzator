@@ -2628,5 +2628,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to tuba kartonowa przeznaczona do masowej wysyłki i pakowania długich przedmiotów, co wskazuje na zastosowanie w logistyce i dla firm. Najbardziej odpowiednią kategorią-liściem, która odzwierciedla ten charakter, jest 'Firma i Przemysł > Sklepy i magazyny > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "243163852",
+        "Nazwa_Produktu": "Zestaw Kluczy Nasadowych 1/4\", 3/8\", 20 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw kluczy nasadowych, który jest narzędziem. Opis wyraźnie wskazuje na zastosowanie w 'domu i garażu', co idealnie pasuje do kategorii 'Dom i Ogród > Narzędzia > Zestawy narzędzi' jako najbardziej szczegółowej i odpowiedniej."
+    },
+    {
+        "ID_Produktu": "243163878",
+        "Nazwa_Produktu": "Pistolet Do Przedmuchiwania Uniwersalny 13kg/cm2 (Big Head)",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Elektronarzędzia > Pistolety",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pistolet do przedmuchiwania sprężonym powietrzem, służący do oczyszczania powierzchni. Opis zawiera frazy takie jak 'profesjonalne narzędzia' i 'zastosowanie w każdym ciągniku', co wskazuje na zastosowanie w środowisku zawodowym lub przemysłowym. Najbardziej szczegółową i pasującą kategorią jest 'Pozostałe' w gałęzi 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący', ponieważ jest to sprzęt do czyszczenia w profesjonalnym kontekście. Kategoria 'Elektronarzędzia' z podpowiedzi byłaby błędna, gdyż produkt jest pneumatyczny, nie elektroniczny."
     }
 ]
