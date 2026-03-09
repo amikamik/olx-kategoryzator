@@ -2738,5 +2738,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pas zabezpieczający ładunki, powszechnie używany w transporcie drogowym, co bezpośrednio wpisuje się w zakres kategorii 'Motoryzacja'. Podkategoria 'Wyposażenie i akcesoria samochodowe' dotyczy ogółu akcesoriów do pojazdów, a 'Zabezpieczenia' jest najbardziej szczegółową i adekwatną kategorią dla tego typu produktu, pomimo że pas jest przeznaczony do ciężkich ładunków i profesjonalnego transportu, a nie tylko samochodów osobowych. Jest to najbardziej szczegółowa kategoria typu liść, która pasuje do funkcjonalności produktu (zabezpieczanie ładunków w transporcie)."
+    },
+    {
+        "ID_Produktu": "243164232",
+        "Nazwa_Produktu": "Zabezpieczenie Drzwi L=230mm-425mm Malowane",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na antywłamaniowe zabezpieczenie do drzwi samochodów dostawczych i ciężarowych, co idealnie pasuje do kategorii 'Zabezpieczenia' w dziale 'Wyposażenie i akcesoria samochodowe'."
+    },
+    {
+        "ID_Produktu": "243164237",
+        "Nazwa_Produktu": "Zabezpieczenie Wlewu Paliwa 80 Mocowane Na Korek",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zabezpieczenie antykradzieżowe wlewu paliwa. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' jest najbardziej szczegółowa i precyzyjnie opisuje charakter produktu jako element zwiększający bezpieczeństwo pojazdu."
+    },
+    {
+        "ID_Produktu": "243164240",
+        "Nazwa_Produktu": "Klin Pod Koła 470x200x230",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Części rowerowe > Koła i obręcze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to klin pod koła, który służy do zabezpieczania pojazdu przed stoczeniem. Kategoria 'Zabezpieczenia' w ramach 'Wyposażenie i akcesoria samochodowe' jest najbardziej szczegółowa i precyzyjnie opisuje funkcję produktu. Słowo 'zabezpieczenie' jest kluczowe w opisie."
+    },
+    {
+        "ID_Produktu": "243164244",
+        "Nazwa_Produktu": "Zestaw wkrętaków, 6 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw wkrętaków, które są narzędziami ręcznymi. Najbardziej szczegółowa i pasująca kategoria to 'Zestawy narzędzi' w ramach 'Dom i Orod > Narzędzia', co jest zgodne z tytułem i opisem produktu."
     }
 ]
