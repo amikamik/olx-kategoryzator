@@ -2548,5 +2548,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to klucz do kół, który w opisie jest wyraźnie przeznaczony do użytku w warsztacie i profesjonalnym serwisie ogumienia. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółową i trafiającą w przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "243163653",
+        "Nazwa_Produktu": "Klucz Przekładniowy 1:58 Z Długą Rączką",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny klucz przekładniowy do odkręcania nakrętek kół w ciężkich pojazdach, co sugeruje zastosowanie profesjonalne/warsztatowe. Kategoria 'Narzędzia warsztatowe' w ramach 'Firma i Przemysł > Wyposażenie warsztatów' jest najbardziej szczegółowa i najlepiej pasuje do opisu narzędzia dla mechaników i ciężarówek."
+    },
+    {
+        "ID_Produktu": "243163668",
+        "Nazwa_Produktu": "Pas Załadunkowy Zawiesie 1m/30mm/1t Pętla Na Końcach, Fioletowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne zawiesie pasowe o nośności 1 tony, zgodne z normami europejskimi (EN1492-2, certyfikaty GS, TUV), przeznaczone do podnoszenia przedmiotów, materiałów lub towarów. Te cechy wskazują na zastosowania w branży przemysłowej lub budowlanej, a nie w domu czy ogrodzie. Najbardziej szczegółową kategorią, która odzwierciedla jego funkcję jako elementu używanego z maszynami do podnoszenia, jest 'Firma i Przemysł > Części do maszyn i urządzeń'."
+    },
+    {
+        "ID_Produktu": "243163678",
+        "Nazwa_Produktu": "Pas Załadunkowy Zawiesie 4m/120mm/4t Pętla Na Końcach, Szary",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Pozostałe",
+        "Finalne_ID_AI": 4795,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pas załadunkowy o udźwigu 4 ton, z opisem 'wyposażenie przemysłowe' oraz spełniający normy przemysłowe (EN1492-2, TUV, GS), najlepiej pasuje do kategorii związanej z ciężkim sprzętem i akcesoriami budowlanymi. Choć nie jest maszyną, jego przeznaczenie do podnoszenia materiałów i towarów w środowisku przemysłowym/budowlanym sprawia, że 'Pozostałe' w kategorii 'Budownictwo' jest najdokładniejszym wyborem. Kategoria 'Dom i Ogród' byłaby zbyt ogólna i nieadekwatna do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "243163682",
+        "Nazwa_Produktu": "Pas Załadunkowy Zawiesie 4m/150mm/5t Pętla Na Końcach, Czerwony",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Budownictwo > Pozostałe",
+        "Finalne_ID_AI": 4795,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas załadunkowy/zawiesie o ładowności 5 ton, przeznaczony do podnoszenia ciężkich przedmiotów i materiałów. Opis zawiera frazy takie jak 'pasy przemysłowe' i 'sprzęt do podnoszenia', co jednoznacznie wskazuje na zastosowanie profesjonalne/przemysłowe, a nie domowe. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Budownictwo' jest najbardziej adekwatna do tego typu sprzętu, a w jej ramach 'Pozostałe' jest najbardziej szczegółową kategorią-liściem, gdy nie ma konkretnej dla zawiesi."
     }
 ]
