@@ -2708,5 +2708,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to klucz przekładniowy (planetarny), narzędzie ręczne przeznaczone do odkręcania nakrętek kół w ciężarówkach i innych ciężkich pojazdach. Jest to specjalistyczne narzędzie warsztatowe, dlatego kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółowa i najlepiej pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "243164005",
+        "Nazwa_Produktu": "Mata Antypoślizgowa 8x250x5000mm (1,25m2)",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata antypoślizgowa do zabezpieczania ładunku w transporcie, w szczególności w samochodach ciężarowych. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' idealnie odpowiada temu zastosowaniu."
+    },
+    {
+        "ID_Produktu": "243164009",
+        "Nazwa_Produktu": "Pas Zabezpieczający 3,5m/50mm/4t Lohr 3-Punktowy Niebieski, 350 Dan, \"Gumowa Rączka\", Z Hakiem \"J\", Zielona Tuba",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to pas zabezpieczający ładunki, przeznaczony do użytku w transporcie, w tym ciężarówkami, co jednoznacznie wskazuje na jego przynależność do akcesoriów motoryzacyjnych. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe' jest najbardziej szczegółową kategorią-liściem, która obejmuje tego typu akcesoria transportowe, ponieważ nie ma bardziej specyficznej podkategorii dla pasów transportowych."
+    },
+    {
+        "ID_Produktu": "243164016",
+        "Nazwa_Produktu": "Pas Zabezpieczający 3,5m/50mm/4t Lohr 3-Punktowy Niebieski, 350 Dan, Z Hakiem Obrotowym, Zielona Tuba",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas zabezpieczający ładunki, powszechnie używany w transporcie drogowym, co bezpośrednio wpisuje się w zakres kategorii 'Motoryzacja'. Podkategoria 'Wyposażenie i akcesoria samochodowe' dotyczy ogółu akcesoriów do pojazdów, a 'Zabezpieczenia' jest najbardziej szczegółową i adekwatną kategorią dla tego typu produktu, pomimo że pas jest przeznaczony do ciężkich ładunków i profesjonalnego transportu, a nie tylko samochodów osobowych. Jest to najbardziej szczegółowa kategoria typu liść, która pasuje do funkcjonalności produktu (zabezpieczanie ładunków w transporcie)."
     }
 ]
