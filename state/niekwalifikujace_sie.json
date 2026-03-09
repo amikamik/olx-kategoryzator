@@ -888,5 +888,265 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to 'Regał magazynowy' o wysokiej nośności, przeznaczony do magazynów, sklepów, garaży, piwnic i biur. Najbardziej szczegółowa i pasująca kategoria to 'Firma i Przemysł > Sklepy i magazyny > Regały', co jest zgodne z tytułem i opisem produktu oraz sugestią systemu."
+    },
+    {
+        "ID_Produktu": "243160840",
+        "Nazwa_Produktu": "Rolka Termiczna EMERSON 57mm x 15m - BPA FREE (RT05715WBPAF)",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne, które są materiałem eksploatacyjnym (akcesorium/materiałem) używanym w urządzeniach biurowych i handlowych, takich jak kasy fiskalne, terminale płatnicze czy bankomaty. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna. Informacja o 'BPA free' dotyczy cechy produktu, ale nie zmienia jego podstawowej funkcji i przeznaczenia."
+    },
+    {
+        "ID_Produktu": "243160848",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 28mm x 30m - BPA FREE (RT2830)",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Fotografia > Akcesoria fotograficzne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalne_ID_AI": 4672,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do kas fiskalnych, bankomatów i terminali płatniczych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne' jest najbardziej szczegółową i idealnie pasującą kategorią, ponieważ jej nazwa bezpośrednio odnosi się do jednego z głównych zastosowań produktu."
+    },
+    {
+        "ID_Produktu": "243160852",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 57mm x 100m - BPA FREE (35710N)",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna, która zgodnie z opisem jest materiałem eksploatacyjnym stosowanym w kasach fiskalnych, bankomatach i terminalach płatniczych. Są to typowe akcesoria biurowe i firmowe. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "243160855",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 57mm x 15m - BPA FREE (RT5715)",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do kas fiskalnych, bankomatów i terminali płatniczych. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria', ponieważ jest to akcesorium do urządzeń drukujących, typowe dla środowiska sklepowego i magazynowego."
+    },
+    {
+        "ID_Produktu": "243160860",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 57mm x 30m - BPA FREE (RTC5730)",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Fotografia > Akcesoria fotograficzne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "99%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do kas fiskalnych, bankomatów i terminali płatniczych, co jednoznacznie klasyfikuje ją jako materiał biurowy/firmowy. Kategoria 'Akcesoria i materiały biurowe' jest najbardziej szczegółowa i precyzyjnie opisuje ten rodzaj produktu."
+    },
+    {
+        "ID_Produktu": "243160862",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 57mm x 80m - BPA FREE (RT5780)",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Fotografia > Akcesoria fotograficzne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalne_ID_AI": 4672,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do kas fiskalnych, bankomatów i terminali płatniczych, co idealnie pasuje do kategorii 'Kasy fiskalne' znajdującej się w drzewie 'Firma i Przemysł > Sklepy i magazyny'."
+    },
+    {
+        "ID_Produktu": "243160867",
+        "Nazwa_Produktu": "Rowerek rehabilitacyjny",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Rowery treningowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Rowery treningowe",
+        "Finalne_ID_AI": 4327,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'rowerek rehabilitacyjny, treningowy', który służy do ćwiczeń górnych i dolnych partii ciała, poprawy kondycji i walki z nadwagą. Chociaż ma aspekt rehabilitacyjny, jego główna funkcja to trening, co idealnie pasuje do kategorii 'Sport i Hobby > Fitness > Sprzęt fitness > Rowery treningowe'."
+    },
+    {
+        "ID_Produktu": "243160873",
+        "Nazwa_Produktu": "Rowerek rehabilitacyjny basic",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Sprzęt fitness > Rowery treningowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Fitness > Sprzęt fitness > Rowery treningowe",
+        "Finalne_ID_AI": 4327,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Rowerek treningowy rehabilitacyjny' przeznaczony do ćwiczeń. Najlepiej pasuje do kategorii 'Rowery treningowe' w drzewie 'Sport i Hobby > Fitness > Sprzęt fitness', ponieważ jego podstawową funkcją jest trening i ćwiczenia, a aspekt rehabilitacyjny jest jego zastosowaniem. Kategoria jest bardzo szczegółowa i precyzyjnie opisuje produkt."
+    },
+    {
+        "ID_Produktu": "243160893",
+        "Nazwa_Produktu": "Segregator Classic A4 / 50 mm Czarny - BANTEX",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Segregatory",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to segregator, który w opisie wielokrotnie jest określany jako 'biurowy' i przeznaczony do 'organizacji dokumentów firmowych'. Najlepiej pasującą, najbardziej szczegółową kategorią odzwierciedlającą ten kontekst jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'. Chociaż istnieje kategoria 'Segregatory' (ID 4626), jej ścieżka 'Dla Dzieci > Artykuły szkolne > Artykuły papiernicze' jest sprzeczna z 'biurowym' przeznaczeniem produktu."
+    },
+    {
+        "ID_Produktu": "243160898",
+        "Nazwa_Produktu": "Sejf - kasetka ukryta w książce 24x15,5x5,5cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Szkatułki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Meble biurowe > Sejfy i kasy pancerne",
+        "Finalne_ID_AI": 4944,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest sejfem (kasetką), którego główną funkcją jest przechowywanie kosztowności w bezpieczny sposób. Mimo kamuflażu w postaci książki, jest to przede wszystkim przedmiot zabezpieczający, a kategoria 'Sejfy i kasy pancerne' w dziale 'Firma i Przemysł > Biuro > Meble biurowe' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu, który w opisie jest również wskazywany do użytku w biurze i hotelu."
+    },
+    {
+        "ID_Produktu": "243160909",
+        "Nazwa_Produktu": "Sejf- kasetka ukryta w książce 18cmx11,5cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Szkatułki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Meble biurowe > Sejfy i kasy pancerne",
+        "Finalne_ID_AI": 4944,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to sejf ukryty w książce, którego główną funkcją jest zabezpieczanie kosztowności, co idealnie pasuje do kategorii 'Sejfy i kasy pancerne'. Mimo kamuflażu książkowego, jest to w pierwszej kolejności przedmiot służący do bezpiecznego przechowywania. Kategoria znajduje się na najgłębszym możliwym poziomie i precyzyjnie oddaje charakter produktu."
+    },
+    {
+        "ID_Produktu": "243160916",
+        "Nazwa_Produktu": "Sejf na kluczyk S8800",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Meble biurowe > Sejfy i kasy pancerne",
+        "Finalne_ID_AI": 4944,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt 'Sejf na kluczyk S8800' jest stalowym sejfem przeznaczonym do przechowywania cennych przedmiotów i dokumentów w domu, biurze lub hotelu, co idealnie pasuje do specjalistycznej kategorii 'Sejfy i kasy pancerne' znajdującej się w drzewie 'Firma i Przemysł > Biuro > Meble biurowe'."
+    },
+    {
+        "ID_Produktu": "243160920",
+        "Nazwa_Produktu": "Sejf z szyfrem S8799",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Meble biurowe > Sejfy i kasy pancerne",
+        "Finalne_ID_AI": 4944,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to sejf z elektronicznym szyfrem, przeznaczony do przechowywania wartościowych przedmiotów i dokumentów w domu, biurze lub hotelu. Istnieje kategoria `Firma i Przemysł > Biuro > Meble biurowe > Sejfy i kasy pancerne`, która idealnie i bardzo szczegółowo pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "243160936",
+        "Nazwa_Produktu": "Skrzynka E2 - 600x400x200mm Czerwona",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to skrzynka EURO E2 przeznaczona do transportu i przechowywania produktów żywnościowych, z certyfikatem PZH, używana w warunkach przemysłowych/gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie oraz charakterystykę produktu."
+    },
+    {
+        "ID_Produktu": "243160945",
+        "Nazwa_Produktu": "Skrzynka narzędziowa 16pcs",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Skrzynka Narzędziowa 16 pcs', czyli zestaw narzędzi. Kategoria 'Dom i Ogród > Narzędzia > Zestawy narzędzi' jest najbardziej precyzyjna i opisowa, a także została potwierdzona przez wskazówkę systemową."
+    },
+    {
+        "ID_Produktu": "243160958",
+        "Nazwa_Produktu": "Skrzynka Składana 600x400x219mm Czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika",
+        "Finalne_ID_AI": 4498,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opis produktu silnie podkreśla przeznaczenie skrzynki jako 'segregator w bagażniku każdego samochodu' oraz 'skrzynka składana do samochodu', co wskazuje na jej główną funkcję w organizacji przestrzeni samochodowej. Chociaż może być używana w domu, najbardziej szczegółowa i najlepiej pasująca kategoria dotyczy jej zastosowania w motoryzacji."
+    },
+    {
+        "ID_Produktu": "243160963",
+        "Nazwa_Produktu": "Skrzynka Składana 600x400x219mm Szara",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Kontenery > Pozostałe",
+        "Finalne_ID_AI": 4741,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to składana skrzynka/pojemnik, wykonany z polipropylenu, odporny na temperatury i promieniowanie UV. Opis wskazuje na jego multifunkcjonalne zastosowanie do przechowywania i transportu w gospodarstwie domowym, samochodzie i magazynie, z wyraźnymi wskazówkami takimi jak 'przemysłowy pojemnik' oraz 'logistyka i transport pojemników'. Kategoria 'Firma i Przemysł > Kontenery > Pozostałe' najlepiej oddaje ten charakter, pomimo użycia w domu i samochodzie, ze względu na trwałość i przeznaczenie do organizacji i transportu, co jest typowe dla produktów przemysłowych i logistycznych. Kategoria 'Pudełka' pod 'Dekoracje' (sugerowana przez system) jest mniej odpowiednia, ponieważ produkt ma charakter wysoce użytkowy, a nie dekoracyjny."
+    },
+    {
+        "ID_Produktu": "243160980",
+        "Nazwa_Produktu": "Stojak do segregacji odpadów (1-stanowiskowy) Niebieski - DREWMET",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to stojak do segregacji odpadów o dużej pojemności (120-240L), co sugeruje zastosowanie komercyjne lub magazynowe, a nie typowo domowe. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest odpowiednia dla tego typu zastosowań, a 'Stojaki i wieszaki' to najbardziej szczegółowa kategoria w tym drzewie zawierająca słowo 'stojak', pomimo że nie jest idealnie dopasowana do przeznaczenia na odpady."
+    },
+    {
+        "ID_Produktu": "243160988",
+        "Nazwa_Produktu": "Stojak do segregacji odpadów (1-stanowiskowy) Zielony - DREWMET",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to 'Stojak do segregacji odpadów'. Chociaż może być używany w domu, kategoria 'Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki' jest najbardziej szczegółową, która bezpośrednio odnosi się do 'stojaków' jako typu produktu, a segregacja odpadów jest również istotna w kontekście firm i magazynów. Brak bardziej specyficznej kategorii związanej z odpadami w 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "243160996",
+        "Nazwa_Produktu": "Stojak do segregacji odpadów (1-stanowiskowy) żółty - DREWMET",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Stojak do segregacji odpadów', który doskonale pasuje do kategorii 'Stojaki i wieszaki' w ramach 'Firma i Przemysł > Sklepy i magazyny', co jest zgodne z przeznaczeniem przedmiotu jako elementu wyposażenia do zarządzania odpadami, często spotykanego w przestrzeniach komercyjnych/magazynowych, nawet jeśli może być używany również w domu."
+    },
+    {
+        "ID_Produktu": "243161029",
+        "Nazwa_Produktu": "Stojak do segregacji odpadów (5-stanowiskowy) niebieski, zielony, brązowy, żółty, czarny - DREWMET",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to stojak do segregacji odpadów, który doskonale pasuje do kategorii 'Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki' ze względu na swoją formę (stojak) oraz sugerowany rozmiar i funkcjonalność (5-stanowiskowy, na worki 120-240L), co wskazuje na zastosowania również w przestrzeniach komercyjnych/magazynowych, a nie tylko domowych. Jest to najbardziej szczegółowa kategoria odpowiadająca produktowi."
+    },
+    {
+        "ID_Produktu": "243161035",
+        "Nazwa_Produktu": "Stołek fryzjerski - hoker",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Taborety i hokery",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Meble fryzjerskie > Taborety fryzjerskie",
+        "Finalne_ID_AI": 5101,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to stołek-hoker specjalistyczny, przeznaczony przede wszystkim do salonów fryzjerskich i kosmetycznych, co jest wyraźnie wskazane w tytule i opisie. Kategoria 'Firma i Przemysł > Wyposażenie salonów > Meble fryzjerskie > Taborety fryzjerskie' jest najbardziej szczegółową i najlepiej pasującą do tego zastosowania, mimo że w opisie wskazano również zastosowanie kosmetyczne i domowe. Tytuł faworyzuje fryzjerstwo."
+    },
+    {
+        "ID_Produktu": "243161077",
+        "Nazwa_Produktu": "Suszarka Vileda King",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań",
+        "Finalne_ID_AI": 2216,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to suszarka na pranie (suszarka wolnostojąca), która idealnie pasuje do kategorii 'Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań'. Chociaż produkt nie jest elektroniczny, to w strukturze OLX często tego typu akcesoria domowe do suszenia odzieży są umieszczane w tej kategorii, co potwierdza również podpowiedź systemowa."
+    },
+    {
+        "ID_Produktu": "243161094",
+        "Nazwa_Produktu": "Suszarka Vileda Mixer 4",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań",
+        "Finalne_ID_AI": 2216,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to suszarka na pranie (suszarka wieżowa, stojąca) marki Vileda. Kategoria 'Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań' jest najbardziej precyzyjnym i szczegółowym dopasowaniem, co potwierdza również wskazówka systemowa."
+    },
+    {
+        "ID_Produktu": "243161114",
+        "Nazwa_Produktu": "Suszarka Vileda Sunset",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań",
+        "Finalne_ID_AI": 2216,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to suszarka na ubrania (balkonowa, na kaloryfer), która idealnie pasuje do kategorii 'Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań'. Jest to najbardziej szczegółowa i trafna kategoria dostępna w drzewie."
+    },
+    {
+        "ID_Produktu": "243161121",
+        "Nazwa_Produktu": "Suszarka Vileda Universal",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań",
+        "Finalne_ID_AI": 2216,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wolnostojąca suszarka do ubrań, która idealnie pasuje do kategorii 'Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań'."
     }
 ]
