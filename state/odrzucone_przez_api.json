@@ -1735,5 +1735,68 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243162917",
+        "Nazwa_Produktu": "Rękawice robocze / Czarne / Rozmiar: 7 - S / OX-POLIUR_BB7 - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Odzież robocza > Rękawice",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Odzież robocza > Rękawice",
+        "Finalne_ID_AI": 4279,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'rękawice robocze', które idealnie pasują do kategorii 'Firma i Przemysł > Odzież robocza > Rękawice'. Jest to najbardziej szczegółowa i trafna kategoria-liść.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rękawice robocze / czarne / rozmiar: 7 - s / ox-poliur_bb7 - 100 szt.",
+                "description": "Rękawice ochronne wykonane z poliestru, powlekane poliuretanem Oferta dotyczy 100 par rękawic Rozmiar: 7 - S Kolor: Czarny Marka: OGRIFOX PAKOWANIE: 12 par (Foliopak) / 240 par (Karton) - zapewniają manualność oraz doskonałe czucie trzymanego przedmiotu - zakończone ściągaczem - wykazują bardzo dużą elastyczność oraz świetnie dopasowują się do dłoni - idealne do prac, gdzie wymagana jest precyzja - elastyczne, dzięki czemu świetnie dopasowują się do dłoni - rozciągliwe i wytrzymałe Normy: - EN420 Własności: - wysoka manualność - ściągacz - powlekanie poliuretanem - wysoka elastyczność Produkt polecany dla branż: - Obróbka metali oraz operatorzy maszyn i urządzeń oraz ich naprawa - Prace budowlane i remontowe/Prace montażowo-instalacyjne/Budowa dróg - Przemysł elektrotechniczny w tym elektryka i elektronika oraz energetyka - Rzemiosło w tym produkcja i obróbka szkła, ceramiki, drewna oraz drukarnie Posiadamy również inne rodzaje rękawic rękawice robocze, rękawice ochronne, poliestrowe rękawice, rękawice powlekane, rękawice z poliuretanem, rękawice manualne, elastyczne rękawice, czarna kolorystyka, precyzyjne prace, rękawice z ściągaczem, pakowanie rękawic, folia ochronna, wygodne rękawice, normy EN420, rękawice Ogrifox, branża metalowa, operatorzy maszyn, prace budowlane, remonty, elektryka, elektronika, branża energetyczna, produkcja szkła, ceramika, drewno, drukarnie, uniwersalne rękawice, polski produkt, oryginalne opakowanie, kod producenta, rękawice krótkie, bezpieczeństwo CE, RAW-POL, rękawice przemysłowe, wysoka jakość, produkt z Polski, rękawice wytrzymałe, rękawice dopasowujące się do dłoni, elastyczność, hurtowe opakowanie, Julianów, kontakt@rawpol.com, rękawice uniwersalne, branża przemysłowa, kod EAN, odporność na rozciąganie, trwałość, OX-POLIURBB7.\n\nProducent odpowiedzialny:\nRAW-POL\nJulianów 50, 96-200 Julianów\nKontakt: kontakt[at]rawpol.com\n\n[DOFIRMY]",
+                "category_id": 4279,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 258.82,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/d2bbee4648ef261d193bd19a63de3e21.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/113e4b/63601341432999b76cb0c7209355"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/1185e0/1bcf58c8437c8c992a007a38dd4e"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
