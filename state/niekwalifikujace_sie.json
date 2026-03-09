@@ -2158,5 +2158,105 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to papier termiczny przeznaczony do tachografów cyfrowych. Kategoria 'Tachografy' (ID: 4505) jest najbardziej szczegółową i trafnie opisującą ten produkt kategorią w drzewie, będącą liściem w ścieżce: Motoryzacja > Wyposażenie i akcesoria samochodowe > Tachografy."
+    },
+    {
+        "ID_Produktu": "243163276",
+        "Nazwa_Produktu": "Rolka Termiczna EMERSON 57mm x 15m - BPA FREE (RT05715WBPAF) - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Kasy fiskalne",
+        "Finalne_ID_AI": 4672,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna, która jest bezpośrednio związana z kasami fiskalnymi, bankomatami i terminalami płatniczymi, co jest wyraźnie wymienione w opisie. Kategoria 'Kasy fiskalne' jest najbardziej szczegółowa i precyzyjna dla tego typu artykułu w drzewie kategorii, a także jest kategorią liściową."
+    },
+    {
+        "ID_Produktu": "243163280",
+        "Nazwa_Produktu": "Rolka Termiczna EMERSON 57mm x 15m - BPA FREE (RT05715WBPAF) - 120 szt.",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne, które są akcesoriami do drukarek używanych w kasach fiskalnych, bankomatach i terminalach płatniczych, co idealnie pasuje do kategorii 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria'."
+    },
+    {
+        "ID_Produktu": "243163283",
+        "Nazwa_Produktu": "Rolka Termiczna EMERSON 57mm x 30m - BPA FREE (RT05730WBPAF) - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne, które są materiałem eksploatacyjnym i akcesorium biurowym, stosowanym w kasach fiskalnych, bankomatach i terminalach płatniczych. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' najlepiej odzwierciedla jego przeznaczenie i charakter."
+    },
+    {
+        "ID_Produktu": "243163288",
+        "Nazwa_Produktu": "Rolka Termiczna EMERSON 57mm x 30m - BPA FREE (RT05730WBPAF) - 120 szt.",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Fotografia > Akcesoria fotograficzne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Rolki termiczne są akcesorium eksploatacyjnym, używanym w kasach fiskalnych, terminalach płatniczych i innych urządzeniach drukujących, które są typowe dla środowisk handlowych i biurowych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' najlepiej odzwierciedla przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "243163296",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 28mm x 30m - BPA FREE (RT2830) - 240 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do użytku w kasach fiskalnych, bankomatach i terminalach płatniczych, co jednoznacznie wskazuje na zastosowania biurowe/firmowe. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółową i adekwatną kategorią."
+    },
+    {
+        "ID_Produktu": "243163300",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 57mm x 100m - BPA FREE (35710N) - 36 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna, która jest akcesorium do drukarek termicznych, powszechnie stosowanych w kasach fiskalnych, bankomatach i terminalach płatniczych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najbardziej precyzyjną i szczegółową kategorią-liściem odzwierciedlającą zastosowanie produktu w środowisku biznesowym."
+    },
+    {
+        "ID_Produktu": "243163303",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 57mm x 100m - BPA FREE (35710N) - 3 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do kas fiskalnych, bankomatów, telefaksów i terminali płatniczych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najbardziej precyzyjna, ponieważ rolki termiczne są akcesoriami do drukarek używanych w sklepach i magazynach. Wskazówka systemowa jest nieprawidłowa."
+    },
+    {
+        "ID_Produktu": "243163307",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 57mm x 15m - BPA FREE (RT5715) - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne, które są akcesoriami do drukarek i kas fiskalnych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' najlepiej oddaje przeznaczenie produktu, ponieważ jest on używany w kasach fiskalnych, bankomatach i terminalach płatniczych, czyli w środowiskach handlowych i usługowych."
+    },
+    {
+        "ID_Produktu": "243163309",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 57mm x 15m - BPA FREE (RT5715) - 160 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna, która jest materiałem eksploatacyjnym (akcesorium/materiałem biurowym) stosowanym w kasach fiskalnych, bankomatach i terminalach płatniczych, co jednoznacznie wskazuje na kategorię związana z biurem i przemysłem. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "243163312",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 57mm x 30m - BPA FREE (RTC5730) - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne, które są materiałami biurowymi (papierniczymi) wykorzystywanymi głównie w kasach fiskalnych, bankomatach i terminalach płatniczych, co jednoznacznie wskazuje na zastosowanie w firmach i biurach. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna."
     }
 ]
