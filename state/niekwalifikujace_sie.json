@@ -2498,5 +2498,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to taśma pakowa, która jest używana przede wszystkim do zaklejania kartonów i opakowań, co jest typowe dla sektora opakowaniowego, magazynowania i wysyłki. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej odpowiednia, a 'Pozostałe' w jej obrębie stanowi najlepsze dopasowanie na najgłębszym poziomie, biorąc pod uwagę brak bardziej szczegółowej kategorii dla taśm pakowych."
+    },
+    {
+        "ID_Produktu": "243163588",
+        "Nazwa_Produktu": "WZ - Wydanie Na Zewnątrz 1/3 A4 - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dokument magazynowy (WZ - Wydanie Na Zewnątrz) w formacie samokopiującego bloku kartek, przeznaczony do obiegu towarów w przedsiębiorstwie. Opis zawiera liczne słowa kluczowe takie jak 'dokumentacja magazynowa', 'biuro zaopatrzenie', 'artykuły biurowe', co jednoznacznie wskazuje na kategorię 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "243163592",
+        "Nazwa_Produktu": "WZ - Wydanie Na Zewnątrz 1/3 A4 - PAPIRUS - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Obrazki i obrazy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dokument \"WZ - Wydanie Na Zewnątrz\", opisany jako \"dokument magazynowy\" i \"formularz wydania towaru\" dla \"firm\" i \"przedsiębiorstw\". Najlepiej pasuje do kategorii \"Firma i Przemysł > Biuro > Akcesoria i materiały biurowe\"."
+    },
+    {
+        "ID_Produktu": "243163603",
+        "Nazwa_Produktu": "Klucz Do Kół Dwustronny 27/30mm, L=395mm Z Przetyczką",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Opony i Felgi > Pozostałe Opony i Felgi",
+        "Finalne_ID_AI": 1389,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to klucz do kół samochodowych, który jest bezpośrednio związany z obsługą opon i felg. Kategoria 'Motoryzacja > Opony i Felgi > Pozostałe Opony i Felgi' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie tego specyficznego narzędzia, zgodnie z wielokrotnym podkreślaniem w opisie jego zastosowania do kół, felg i opon."
+    },
+    {
+        "ID_Produktu": "243163607",
+        "Nazwa_Produktu": "Klucz Do Kół Dwustronny 19/24mm, L=395mm Z Przetyczką",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny klucz do kół, który w opisie jest wyraźnie przeznaczony do użytku w warsztacie i profesjonalnym serwisie ogumienia, a także dla mechaników. Kategoria 'Narzędzia warsztatowe' pod 'Firma i Przemysł' najlepiej oddaje ten profesjonalny kontekst użytkowania narzędzia, mimo że jest to narzędzie ręczne i może być używane także w domu."
+    },
+    {
+        "ID_Produktu": "243163611",
+        "Nazwa_Produktu": "Klucz Do Kół Dwustronny 32/33mm, L=395mm Z Przetyczką",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klucz do kół, który w opisie jest wyraźnie przeznaczony do użytku w warsztacie i profesjonalnym serwisie ogumienia. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółową i trafiającą w przeznaczenie produktu."
     }
 ]
