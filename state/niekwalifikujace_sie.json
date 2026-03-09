@@ -2128,5 +2128,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to folia stretch używana do pakowania paczek i owijania towarów na paletach, co jest kluczowe w logistyce, transporcie i magazynowaniu, szczególnie w kontekście sklepów (w tym e-commerce). Kategoria 'Firma i Przemysł > Sklepy i magazyny' doskonale odzwierciedla przeznaczenie produktu. Ponieważ nie ma bardziej szczegółowej podkategorii dla materiałów opakowaniowych, 'Pozostałe' jest najbardziej adekwatną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "243162287",
+        "Nazwa_Produktu": "Karton klapowy 450x350x80mm BIAŁY-BRĄZOWY 365g - 60 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony klapowe przeznaczone do masowej wysyłki i użytku firmowego (paczkomaty InPost), co kwalifikuje go do kategorii związanej z działalnością gospodarczą i logistyką. Najbardziej odpowiednią kategorią-liściem jest 'Firma i Przemysł > Sklepy i magazyny > Pozostałe', ponieważ odnosi się do ogólnego wyposażenia i materiałów dla sklepów i magazynów, a nie dekoracyjnych pudełek domowych."
+    },
+    {
+        "ID_Produktu": "243162350",
+        "Nazwa_Produktu": "Karton Klapowy 700x500x500mm 5W EB 490g/m2 - 20 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony klapowe przeznaczone do masowej wysyłki, pakowania towarów, magazynowania, co silnie wskazuje na zastosowanie firmowe i przemysłowe. Kategoria 'Firma i Przemysł > Sklepy i magazyny' najlepiej odzwierciedla ten kontekst, a 'Pozostałe' jest najbardziej szczegółową kategorią-liściem, ponieważ brak jest dedykowanej podkategorii dla opakowań/kartonów w tej sekcji."
+    },
+    {
+        "ID_Produktu": "243162572",
+        "Nazwa_Produktu": "Papier do tachografu cyfrowego uniwersalny 1 karton (3 rolki) TEKSON - 20 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Tachografy",
+        "Finalne_ID_AI": 4505,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to papier termiczny przeznaczony do tachografów cyfrowych. Kategoria 'Tachografy' (ID: 4505) jest najbardziej szczegółową i trafnie opisującą ten produkt kategorią w drzewie, będącą liściem w ścieżce: Motoryzacja > Wyposażenie i akcesoria samochodowe > Tachografy."
     }
 ]
