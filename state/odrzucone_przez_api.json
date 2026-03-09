@@ -1427,5 +1427,151 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243161244",
+        "Nazwa_Produktu": "Taśma Dwustronna 19mm x 5m",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Kleje",
+        "Finalne_ID_AI": 4702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to mocna taśma dwustronna montażowa, która służy do trwałego mocowania przedmiotów, zastępując kleje lub wiertła. Najbardziej szczegółowa i trafna kategoria-liść to 'Kleje', znajdująca się w gałęzi 'Dom i Ogród > Budowa > Chemia budowlana', ponieważ taśma montażowa jest formą spoiwa/kleju budowlanego. Wskazówka od systemu OLX została zignorowana, ponieważ była nieadekwatna do charakteru produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taśma dwustronna 19mm x 5m",
+                "description": "TAŚMA DWUSTRONNA MONTAŻOWA ULTRA STRONG MOCNA DOSKONAŁA DO KAŻDEGO ZADANIA Bardzo mocna dwustronna taśma montażowa , której przyczepności sprawdza się podczas montowania lekkich przedmiotów bez konieczności użycia dodatkowych narzędzi oraz bez wiercenia dziur w ścianach . Idealnie sprawdza się na gładkich powierzchniach, takich jak drewno, kafelki i większość tworzyw sztucznych. SPECYFIKACJA Wymiary: 5 m x 19 mm Powierzchnie klejące: metale, drewno, szkło, tworzywa sztuczne, ceramika, marmur, a w szczególności wykładziny i płytki wykładzinowe. Rodzaj: dwustronna PRAKTYCZNE ROZWIĄZANIE Najmocniejsza taśma dwustronna do zastosowania wewnętrznego o wysokiej sile klejenia. Taśmy dwustronnie klejące sprawdzają się w mocowaniu różnorodnych elementów : listew, paneli, luster oraz plakatów i innych dekoracji ściennych. Stanowią wygodną alternatywę dla mocowania na gwoździe. Teraz, zamiast nieestetycznie niszczyć ścianę, można po prostu wykorzystać odpowiedni rodzaj taśmy i w ten sposób zawiesić przedmiot bez konieczności wiercenia. POPRAWNE ZASTOSOWANIE Powierzchnie łączone muszą być czyste, suche i odtłuszczone. Prace montażowe przeprowadzać należy w temperaturze powyżej 10C. Na łączony przedmiot przykleić odpowiednia ilość taśmy. Usunąć papier ochronny unikając dotykania palcami powierzchni klejącej. Przedmiot przymierzyć do powierzchni łączonej i mocno docisnąć, przytrzymując unieruchomiony przez kilka sekund. Pełną wytrzymałość połączenie uzyskuje po 24 godzinach. DOSKONAŁA DO KAŻDEGO ZADANIA Duża wytrzymałość , Łatwość aplikacji, Bardzo duża siła klejenia , Niweluje nierówności powierzchni . taśma dwustronna, taśma montażowa, ultra strong, mocna przyczepność, montaż lekkich przedmiotów, taśma klejąca, montaż na ścianie, bez wiercenia, gładkie powierzchnie, drewno, kafelki, tworzywa sztuczne, metale, szkło, ceramika, marmur, wykładziny, płytki wykładzinowe, mocna taśma, wewnętrzne zastosowanie, siła klejenia, listwy, panele, lustra, plakaty, dekoracje ścienne, alternatywa dla gwoździ, sposoby mocowania, czysta powierzchnia, suche powierzchnie, odtłuszczanie, temperatura montażu, papier ochronny, przyczepność po 24 godzinach, wielozadaniowość, łatwa aplikacja, niwelowanie nierówności, produkt PAKO, taśma montażowa dwustronna, EAN 5906142913480, biuro w Koszalinie, Polska, producent PAKO GROUP, wysoka jakość, nowy produkt, oryginalne opakowanie, PAKO marka, przylepność, trwałość, niezawodność, profesjonalny montaż\n\nProducent odpowiedzialny:\nPAKO GROUP PATRYK KOZIŃSKI\nul. Bajkowa 2, 75-710 Koszalin\nKontakt: sklep[at]dofirmy.pl\n\n[DOFIRMY]",
+                "category_id": 4702,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 19.68,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/3c2a2821f1d379b100e3def3e3734a57.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/fa2419f1009990d25cc92af9dd79ed68.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/3689bbc624577950263ef5220c2b0710.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/6e74eb31f15039f862178097d88842f5.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/7f4fd479d89c646cfc2ce303ce67affd.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11d4e9/87afc4ce4fa59f4303c11c08ea7e"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/1198dc/7cc8e51d4c5d8e1c4fb477a24791"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/115498/1c392c174a8792e65218e7d6aabd"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "243161248",
+        "Nazwa_Produktu": "Taśma Izolacyjna PVC 10x10m Czarna (10 sztuk)",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to taśma izolacyjna PCV, która jest kluczowym elementem w pracach z elektrycznością i instalacjach elektrycznych. Kategoria 'System i osprzęt instalacyjny' podkategorii 'Elektryka' w 'Dom i Ogród' jest najbardziej precyzyjnym i szczegółowym miejscem dla tego typu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taśma izolacyjna pvc 10x10m czarna (10 sztuk)",
+                "description": "Zestaw wodoodpornych taśm izolacyjnych - 10 sztuk Izolacyjna taśma PCV - 10 sztuk Bez wątpienia przyda się podczas napraw i majsterkowania! Doskonałe właściwości izolacyjne wynikające z zastosowania plastyfikatorów i kleju opartego na kauczuku kwalifikują produkt do prac z elektrycznością. Taśma wykazuje dużą przylepność do stali , jest elastyczna i rozciągliwa, oraz cechuje się wytrzymałością elektryczną. Za ich pomocą zamaskujesz połączenia i nadasz im trwałość. Specyfikacja: Materiał: PCV Kolor: Czarny Wodoodporność: Tak Szerokość: 1,6 cm Długość: 10 m Ilość taśm w zestawie: 10 Solidna izolacja Taśma izolacyjna jest niezbędnym akcesorium każdego elektryka i majsterkowicza , znajdzie zastosowanie w pracach monterskich i naprawczych oraz przy instalacjach elektrycznych. Posiadamy również inne rodzaje taśm taśma izolacyjna, taśma PCV, czarna taśma, wodoodporna taśma, taśma do elektryki, zestaw taśm izolacyjnych, trwała taśma, elastyczna taśma, kauczukowa taśma, taśma monterska, taśma do naprawy, akcesoria elektryczne, majsterkowanie, taśma ochronna, produkt PAKO, taśma 10 sztuk, taśma 10x10m, izolacyjna taśma PVC, taśma na metry, wytrzymała taśma, wodoodporność, przemysłowa taśma, taśma dla elektryków, taśma do instalacji, profesjonalna taśma, taśma produkcji polskiej, Koszalin, taśma klejąca, narzędzia budowlane, akcesoria montażowe, przewody elektryczne, zabezpieczenie połączeń, klej na bazie kauczuku, wykończenie instalacji, łatwa w użyciu, sklep internetowy, hurtownia elektryczna, wysyłka kurierska, taśma do użytku domowego, trwałość, jakość, marka PAKO, taśma na budowę, czarna izolacja, taśma budowlana\n\nProducent odpowiedzialny:\nPAKO GROUP PATRYK KOZIŃSKI\nul. Bajkowa 2, 75-710 Koszalin\nKontakt: sklep[at]dofirmy.pl\n\n[DOFIRMY]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.59,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/beef2db58528548da79d8aaceaa67014.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/9da0cab8cf79de4a4323b4c70223b521.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/5d7c3301757c45ef07cb4263e5b7e4ad.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/2471c2741539f3ae9348d36b12355c48.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/956a48bfa331272788311fe7bc8fedf9.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/f4f747053ac6f636a935dc07935cc3de.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/01bde8f9c631439e1adf9ed4630c6cf9.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/119175/268fa1ba4fd4854acf2faef1800e"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

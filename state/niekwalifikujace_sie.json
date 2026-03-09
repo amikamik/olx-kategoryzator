@@ -1158,5 +1158,155 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na organizer na dokumenty, używany do utrzymania porządku w biurze lub domowym biurze. Kategoria 'Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna, bezpośrednio odpowiadając funkcji produktu, który jest akcesorium biurowym do przechowywania i segregacji dokumentów."
+    },
+    {
+        "ID_Produktu": "243161240",
+        "Nazwa_Produktu": "Tarcze Original Kienzle 125-24 EC 4 K - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Tachografy",
+        "Finalne_ID_AI": 4505,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to tarcze (wykresówki) przeznaczone do tachografów analogowych, które są urządzeniami rejestrującymi w pojazdach. Kategoria 'Tachografy' jest najbardziej szczegółowa i bezpośrednio odpowiada naturze produktu jako akcesoria i części do tego typu urządzenia, znajdującego się w gałęzi 'Wyposażenie i akcesoria samochodowe' w 'Motoryzacji'."
+    },
+    {
+        "ID_Produktu": "243161254",
+        "Nazwa_Produktu": "Taśma Pakowa DALPO Transparent Akryl 48/60y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to taśma pakowa, która jest materiałem eksploatacyjnym i akcesorium biurowym/magazynowym używanym do pakowania kartonów. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna dla tego typu produktu, ściśle odpowiadając jego zastosowaniu w sektorze opakowaniowym."
+    },
+    {
+        "ID_Produktu": "243161257",
+        "Nazwa_Produktu": "Taśma Pakowa DALPO Transparent Kauczuk 48/60y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma pakowa kauczukowa, przeznaczona do zaklejania kartonów i stosowana w sektorze opakowaniowym. Najlepiej pasuje do kategorii związanych z działalnością gospodarczą i magazynowaniem. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej odpowiednia, ponieważ taśma jest typowym materiałem eksploatacyjnym w magazynach i dla e-commerce."
+    },
+    {
+        "ID_Produktu": "243161259",
+        "Nazwa_Produktu": "Taśma Pakowa DALPO Transparent STRONG 48/60y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma pakowa, która jest materiałem eksploatacyjnym powszechnie używanym w biurach, firmach i magazynach do pakowania przesyłek i kartonów. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółową i adekwatną kategorią-liściem, ponieważ taśma pakowa jest klasyfikowana jako materiał biurowy/firmowy."
+    },
+    {
+        "ID_Produktu": "243161264",
+        "Nazwa_Produktu": "Taśma Pakowa SMART CZARNA Akryl 48/50y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma pakowa, która jest standardowym artykułem biurowym i materiałem eksploatacyjnym w firmach. Kategoria 'Akcesoria i materiały biurowe' jest najbardziej szczegółowa i najlepiej pasuje do charakteru produktu, który jest wykorzystywany do zaklejania kartonów w biurze lub magazynie."
+    },
+    {
+        "ID_Produktu": "243161266",
+        "Nazwa_Produktu": "Taśma Pakowa SMART Transparent Akryl 48/100y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma pakowa, która jest używana do zaklejania kartonów, zarówno ręcznie, jak i maszynowo. Opis wyraźnie wskazuje na zastosowanie w 'sektorze opakowaniowym' oraz 'przemyśle opakowaniowym', co najlepiej pasuje do ogólnej kategorii 'Firma i Przemysł'. W ramach tej kategorii, 'Sklepy i magazyny' są najbardziej odpowiednim miejscem, a ponieważ nie ma bardziej szczegółowej kategorii dla taśm pakowych, 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "243161268",
+        "Nazwa_Produktu": "Taśma Pakowa SMART Transparent Akryl 48/50y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma pakowa, która jest podstawowym materiałem używanym w biurach, magazynach i ogólnie w sektorze opakowaniowym. Kategoria 'Akcesoria i materiały biurowe' w ramach 'Firma i Przemysł' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu jako materiału eksploatacyjnego."
+    },
+    {
+        "ID_Produktu": "243161342",
+        "Nazwa_Produktu": "Taśma Pakowa SMART Transparent Akryl 48/60y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to taśma pakowa, która jest podstawowym materiałem biurowym lub magazynowym. Najdokładniej pasuje do kategorii 'Akcesoria i materiały biurowe' w drzewie 'Firma i Przemysł > Biuro'."
+    },
+    {
+        "ID_Produktu": "243161347",
+        "Nazwa_Produktu": "Taśma Pakowa SMART Transparent Kauczuk Naturalny (SOLVENT) 48/132y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma pakowa, która jest intensywnie wykorzystywana w sektorze opakowaniowym, głównie w magazynach i sklepach do zaklejania kartonów i innych przesyłek. Brak bardziej szczegółowej kategorii dotyczącej materiałów opakowaniowych w ramach 'Firma i Przemysł > Sklepy i magazyny', dlatego 'Pozostałe' jest najbardziej odpowiednim i najgłębszym wyborem."
+    },
+    {
+        "ID_Produktu": "243161353",
+        "Nazwa_Produktu": "Taśma Pakowa SMART Transparent Kauczuk Naturalny (SOLVENT) 48/50y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to taśma pakowa, która jest materiałem eksploatacyjnym używanym w firmach, zwłaszcza w sektorze opakowaniowym. Kategoria 'Akcesoria i materiały biurowe' w ramach 'Firma i Przemysł > Biuro' jest najbardziej szczegółową, pasującą kategorią dla tego typu produktu, traktując 'biuro' w szerokim kontekście prowadzenia działalności gospodarczej i materiałów dla firm."
+    },
+    {
+        "ID_Produktu": "243161357",
+        "Nazwa_Produktu": "Taśma Pakowa SMART Transparent Kauczuk Naturalny (SOLVENT) 48/60y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna taśma pakowa z kauczuku naturalnego (SOLVENT), przeznaczona do zaklejania kartonów i folii stretch, w tym w trudnych warunkach (wilgoć, niskie temperatury, chłodnie), a także do maszyn pakujących. To wskazuje na zastosowanie w branży przemysłowej i magazynowej. Najbardziej pasującą ścieżką jest 'Firma i Przemysł > Sklepy i magazyny'. W tej gałęzi nie ma bardziej szczegółowej kategorii dla taśm pakowych, więc 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "243161362",
+        "Nazwa_Produktu": "Taśma Pakowa SMART Transparent Kauczuk Syntetyczny (Hot Melt) 48/60y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma pakowa, która jest podstawowym materiałem eksploatacyjnym w sektorze opakowań, transportu i magazynowania. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej adekwatna, ponieważ obejmuje ogólne wyposażenie i materiały dla sklepów i magazynów, gdzie taśmy pakowe są szeroko stosowane, a jednocześnie brak jest bardziej szczegółowej podkategorii dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "243161368",
+        "Nazwa_Produktu": "Taśma Pakowa SMART Transparent Kauczuk Syntetyczny (Hot Melt) 48/66y",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma pakowa, kauczukowa, przeznaczona do zaklejania kartonów, również w maszynach automatycznych, z przeznaczeniem do 'sektora opakowaniowego'. Najbardziej szczegółową i adekwatną kategorią jest 'Firma i Przemysł > Sklepy i magazyny > Pozostałe', ponieważ taśma jest materiałem eksploatacyjnym w magazynach i sklepach, a nie ma bardziej specyficznej podkategorii dla materiałów pakowych."
+    },
+    {
+        "ID_Produktu": "243161377",
+        "Nazwa_Produktu": "Uchwyt samochodowy na napoje",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Uchwyty",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika",
+        "Finalne_ID_AI": 4498,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt samochodowy na napoje, który pełni również funkcję organizera na drobne przedmioty (długopisy, bilon, klucze). Najlepiej pasującą i najbardziej szczegółową kategorią jest 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Organizery i siatki do bagażnika', ze względu na jego funkcjonalność organizacyjną, pomimo, że opis sugeruje również montaż we wnętrzu pojazdu, a nie tylko w bagażniku. Termin 'Organizery' doskonale oddaje charakter produktu."
+    },
+    {
+        "ID_Produktu": "243161384",
+        "Nazwa_Produktu": "Uszczelka okienna do klimatyzatora (balkonowa) Warmtec AirStop",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Klimatyzacja i wentylacja > Klimatyzacja",
+        "Finalne_ID_AI": 3216,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to uszczelka okienna przeznaczona specjalnie do klimatyzatorów przenośnych, mająca na celu zwiększenie efektywności chłodzenia poprzez izolację okna. Najlepiej pasującą i najbardziej szczegółową kategorią jest 'Dom i Ogród > Instalacje > Klimatyzacja i wentylacja > Klimatyzacja'."
     }
 ]
