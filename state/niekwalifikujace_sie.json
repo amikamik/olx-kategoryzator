@@ -5108,5 +5108,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Mimo że produkt jest kapeluszem, jego specyficzny design (barwy narodowe) i przeznaczenie (dla kibiców reprezentacji Polski) sprawiają, że najbardziej trafną kategorią na OLX jest 'Sport i Hobby > Sporty drużynowe > Strefa kibica > Gadżety'. Kategoria ta najlepiej grupuje przedmioty używane podczas dopingowania, w przeciwieństwie do ogólnej kategorii 'Moda', która służy do kategoryzacji odzieży codziennej."
+    },
+    {
+        "ID_Produktu": "242635958",
+        "Nazwa_Produktu": "Skrobak do Szyb Farb Metalu Uniwersalny + 3 Ostrza",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uniwersalny skrobak ręczny przeznaczony do różnych powierzchni (szyby, metal, płytki), co kwalifikuje go bezpośrednio jako narzędzie ręczne w kategorii Dom i Ogród."
     }
 ]
