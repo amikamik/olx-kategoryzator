@@ -1148,5 +1148,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to wolnostojąca suszarka do ubrań, która idealnie pasuje do kategorii 'Elektronika > Sprzęt AGD > AGD wolnostojące > Suszarki do ubrań'."
+    },
+    {
+        "ID_Produktu": "243161183",
+        "Nazwa_Produktu": "Szuflady na dokumenty A4 - 3 półki czarne",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Półki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na organizer na dokumenty, używany do utrzymania porządku w biurze lub domowym biurze. Kategoria 'Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna, bezpośrednio odpowiadając funkcji produktu, który jest akcesorium biurowym do przechowywania i segregacji dokumentów."
     }
 ]
