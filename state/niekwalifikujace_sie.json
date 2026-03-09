@@ -2588,5 +2588,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pas załadunkowy/zawiesie o ładowności 5 ton, przeznaczony do podnoszenia ciężkich przedmiotów i materiałów. Opis zawiera frazy takie jak 'pasy przemysłowe' i 'sprzęt do podnoszenia', co jednoznacznie wskazuje na zastosowanie profesjonalne/przemysłowe, a nie domowe. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Budownictwo' jest najbardziej adekwatna do tego typu sprzętu, a w jej ramach 'Pozostałe' jest najbardziej szczegółową kategorią-liściem, gdy nie ma konkretnej dla zawiesi."
+    },
+    {
+        "ID_Produktu": "243163746",
+        "Nazwa_Produktu": "Tuba Kartonowa 100x100x1500mm 3W 400g/m2",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Farby",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tuba kartonowa przeznaczona do pakowania i wysyłki długich przedmiotów, idealna do masowej wysyłki, opakowanie zbiorcze dla różnych produktów. Wskazuje to na zastosowanie w działalnościach handlowych i logistycznych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej szczegółowym i adekwatnym wyborem, ponieważ tuba jest elementem wyposażenia lub materiałem eksploatacyjnym w kontekście magazynowania i wysyłki, ale nie pasuje do żadnej innej, bardziej specyficznej podkategorii w obrębie 'Sklepy i magazyny'."
+    },
+    {
+        "ID_Produktu": "243163750",
+        "Nazwa_Produktu": "Tuba Kartonowa 100x100x1500mm 3W 400g/m2 - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Farby",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tuba kartonowa przeznaczona do pakowania i wysyłki, co kwalifikuje ją jako materiał biurowy/opakowaniowy dla firm. Kategoria 'Akcesoria i materiały biurowe' w drzewie 'Firma i Przemysł > Biuro' jest najbardziej szczegółowa i najlepiej odpowiada przeznaczeniu produktu."
+    },
+    {
+        "ID_Produktu": "243163758",
+        "Nazwa_Produktu": "Tuba Kartonowa 150x150x1500mm 3W 400g/m2",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Plasteliny i modeliny",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartonowa tuba przeznaczona do pakowania i wysyłki przedmiotów, często w masowych ilościach. Kategoria 'Firma i Przemysł > Sklepy i magazyny' najlepiej odzwierciedla zastosowanie tego typu opakowań w działalności handlowej i logistycznej, a 'Pozostałe' jest najbardziej szczegółową kategorią-liściem w tym kontekście."
+    },
+    {
+        "ID_Produktu": "243163768",
+        "Nazwa_Produktu": "Tuba Kartonowa 150x150x1500mm 3W 400g/m2 - 30 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Plasteliny i modeliny",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tuba kartonowa przeznaczona do masowej wysyłki i pakowania długich przedmiotów, co wskazuje na zastosowanie w logistyce i dla firm. Najbardziej odpowiednią kategorią-liściem, która odzwierciedla ten charakter, jest 'Firma i Przemysł > Sklepy i magazyny > Pozostałe'."
     }
 ]
