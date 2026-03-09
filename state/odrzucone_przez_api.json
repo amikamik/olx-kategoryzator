@@ -1573,5 +1573,83 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243161658",
+        "Nazwa_Produktu": "Wiaderko z wyciskaczem Vileda Torsion Power",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wiaderko z wyciskaczem do sprzątania, akcesorium do czyszczenia podłóg. Najbardziej szczegółową i trafiającą w przeznaczenie produktu kategorią jest 'Środki czyszczące' w ramach działu 'Dom i Ogród > Supermarket', pomimo, że jest to narzędzie, a nie chemia. W braku bardziej precyzyjnej kategorii typu 'Akcesoria do sprzątania', ta kategoria jest najbardziej odpowiednia, ponieważ wiaderko jest integralną częścią procesu czyszczenia i jest sprzedawane w kontekście produktów do utrzymania czystości.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wiaderko z wyciskaczem vileda torsion power",
+                "description": "Wiaderko z wyciskaczem Vileda Torsion Power Wiaderko Vileda Torsion Power Super Wiadro to wiadro Viledy dedykowane do mopów paskowych czy sznurkowych. Konstrukcja sita wyżyma mop od samej jego nasady , dzięki czemu podłoga po myciu schnie bardzo szybko . Super Wiadro przeznaczone jest do mopów paskowych (np: Supermocio Velour, Soft czy Style ) Specyfikacja: Pojemność: 10 L Specjalny uchwyt na drążek Trwałe , wysokiej jakości tworzywo Elastyczne unowocześnione sito , chwytające mopa od samej jego nasady Długość: 38 cm Szerokość: 30 cm Wysokość: 29 cm, 32 cm z sitem Posiadamy również inne akcesoria domowe wiaderko z wyciskaczem, Vileda Torsion Power, wiadro do mopów, mop paskowy, mop sznurkowy, szybkoschnąca podłoga, elastyczne sito, trwałe tworzywo, wysoka jakość, uchwyt na drążek, SuperMocio, Vileda SuperMocio, akcesoria domowe, czerwone wiadro z wyciskaczem, ergonomiczne wiadro, wiadro do czyszczenia podłóg, wiadro z sitem, domowe porządki, pojemność 10 L, kształt okrągły, plastikowe wiadro, lekka konstrukcja, producent FHP Vileda, akcesoria Vileda, domowe akcesoria czystości, wytrzymały materiał, praktyczne wiadro, porządki domowe, sklep online, e-commerce, sklep Allegro, sklep Amazon, sklep eBay, gospodarz domowy, efektywne czyszczenie, wiadro do sprzątania, Vileda Polska, produkt nowy, oryginalne opakowanie, kod producenta Wiaderko Z Wyciskaczem Vileda Do Mopa, EAN 5906142924899, Puławska 182, Warszawa, Polska, biuro.pl@fhp-ww.com\n\nProducent odpowiedzialny:\nFHP Vileda Sp. z o.o.\nPuławska 182, 02-670 Warszawa\nKontakt: biuro.pl[at]fhp-ww.com\n\n[DOFIRMY]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 58.97,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/f3fccc2042aa7463038749b5c5b72e9d.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/dc799397f02c52a81c08c5b0fc837cae.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/477adee06b7999e5623db4f4240d645d.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/6bbd6e1b0894af78505c05e366080525.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/b6a74a4cc0b015fa7de47e28db6d93ed.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/681dccc807999819737707565e79a825.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/af518a9c17133b706a8637a6fb8dba83.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/119d96/801ecc314bc0818a57429f281278"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
