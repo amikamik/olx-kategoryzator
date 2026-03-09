@@ -1308,5 +1308,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to uszczelka okienna przeznaczona specjalnie do klimatyzatorów przenośnych, mająca na celu zwiększenie efektywności chłodzenia poprzez izolację okna. Najlepiej pasującą i najbardziej szczegółową kategorią jest 'Dom i Ogród > Instalacje > Klimatyzacja i wentylacja > Klimatyzacja'."
+    },
+    {
+        "ID_Produktu": "243161475",
+        "Nazwa_Produktu": "Waga 40x50 300 Kg Wspornik - 17053",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Wagi",
+        "Finalne_ID_AI": 4679,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektroniczna waga magazynowa przeznaczona do użytku w magazynach, halach produkcyjnych i zapleczach sklepów, co idealnie pasuje do kategorii 'Firma i Przemysł > Sklepy i magazyny > Wagi'."
     }
 ]
