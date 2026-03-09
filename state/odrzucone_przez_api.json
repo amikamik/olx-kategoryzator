@@ -2203,5 +2203,64 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242635973",
+        "Nazwa_Produktu": "Szpachelka uniwersalna 38,1 mm stal węglowa nylon",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Szpachelka to klasyczne narzędzie ręczne przeznaczone do prac remontowych, budowlanych i wykończeniowych, co idealnie pasuje do kategorii 'Narzędzia ręczne' w sekcji narzędzi.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szpachelka uniwersalna 38,1 mm stal węglowa nylon",
+                "description": "Produkt fabrycznie nowy, nieużywany w oryginalnym opakowaniu z plombą producenta. Szpachelka AmazonBasics ze sztywną nylonową rączką: ta wyjątkowo wszechstronna stalowa szpachla AmazonBasics, idealna do skrzynki narzędziowej każdego profesjonalisty lub majsterkowicza, doskonale sprawdza się przy nakładaniu materiałów wypełniających, zeskrobywaniu resztek, dłutowaniu małych powierzchni i nie tylko. Sztywne ostrze: wykonane ze szlifowanej stożkowo, polerowanej na wysoki połysk stali węglowej, sztywne ostrze szpachli zapewnia solidną i niezawodną wytrzymałość. Nylonowy uchwyt: szpachelka AmazonBasics ma klasyczną nylonową rączkę, która zapewnia mocny chwyt oraz profesjonalny wygląd i dotyk. Wzmocniona siła: aby zapewnić dodatkową wytrzymałość i wsparcie, stalowa szpachelka AmazonBasics ma trzpień na całej długości, który jest bezpiecznie przymocowany do rękojeści za pomocą dwóch wytrzymałych nitów. . . Specyfikacja: Marka: Amazon Basics Materiał: 55% stal węglowa i 45% nylon Wymiary: szerokość 3,81 cm cm oraz wysokość 19 cm Model: ?X15S-AZ Kolor: Czarny, srebrny\n\n[DEAL-BLB2B]",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 24.31,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/f84a0fec1c1c8b81370e937091dcaf81.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/800aff523aca8f6018cf6c9387f57352.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/641c9e965ed2d3188dfb779675c41dcd.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/6fa8e2206a5a220bc48e867ca5e48cb7.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Szerokość zdjęcia musi mieć conajmniej 100 px"
+                }
+            }
+        }
     }
 ]
