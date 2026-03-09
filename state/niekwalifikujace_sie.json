@@ -5008,5 +5008,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt jest opisany jako filtr kranowy i regulator przepływu wody. Kategoria 'Filtry i zmiękczacze wody' (id: 3215) w sekcji hydrauliki jest najbardziej precyzyjnym dopasowaniem dla urządzenia, którego główną funkcją wymienioną w nazwie jest filtrowanie wody."
+    },
+    {
+        "ID_Produktu": "242635615",
+        "Nazwa_Produktu": "Dettol Chusteczki antybakteryjne duże a'80 1 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to antybakteryjne chusteczki do dezynfekcji różnych powierzchni domowych (blatów, zlewozmywaków, łazienki), co kwalifikuje go jako środek czyszczący w dziale Supermarket kategorii Dom i Ogród."
     }
 ]
