@@ -5138,5 +5138,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to winylowa taśma klejąca marki Amazon Commercial, przeznaczona do profesjonalnego oznaczania podłóg i kodowania kolorami. Najlepiej pasuje do kategorii materiałów biurowych i eksploatacyjnych w sekcji Firma i Przemysł, ponieważ jest to produkt o charakterze komercyjnym/przemysłowym, a nie szkolnym czy domowym."
+    },
+    {
+        "ID_Produktu": "242636000",
+        "Nazwa_Produktu": "Lampa Solarna LED Kula Kryształowa IP44 8x11cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Oświetlenie ogrodowe",
+        "Finalne_ID_AI": 1638,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dekoracyjna lampa solarna przeznaczona do użytku zewnętrznego (IP44), co idealnie wpisuje się w kategorię 'Oświetlenie ogrodowe' znajdującą się w sekcji 'Ogród'."
     }
 ]
