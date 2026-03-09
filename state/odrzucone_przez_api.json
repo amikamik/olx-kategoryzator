@@ -1651,5 +1651,89 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243161670",
+        "Nazwa_Produktu": "Wiatraczek USB",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Klimatyzacja i wentylacja",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD drobne > Klimatyzacja i wentylacja",
+        "Finalne_ID_AI": 2231,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to przenośny wiatraczek USB, służący do chłodzenia. Idealnie pasuje do kategorii 'Klimatyzacja i wentylacja' znajdującej się w 'AGD drobne' pod 'Sprzęt AGD' w głównej kategorii 'Elektronika', ponieważ jest to małe urządzenie elektroniczne o funkcji wentylacji.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wiatraczek usb",
+                "description": "WIATRACZEK USB Niezawodny podręczny mini wiatraczek USB przyda się w biurze, podróży lub w domu. Produkt idealny, aby w upalne dni podłączyć go do laptopa, notebooka lub telefonu i zaznać chwili ochłody. Wiatraczek łączy w sobie funkcjonalność z lekkością i małymi rozmiarami - przewód jest giętki, możesz ustawić go w dowolnej pozycji. Dzięki niewielkim rozmiarom jest bardzo łatwy w transporcie i wygodny w użytkowaniu na co dzień - śmigła są odczepiane , przez co zmieści się on w małej torebce czy kieszeni. Można podłączyć go wszędzie tam, gdzie wbudowane jest gniazdo USB : radia w samochodzie, PC, laptopa, baterii przenośnej. Jest bardzo łatwy w instalacji, zapewnia chłodny i miękki powiew powietrza, dodatkowo jest bardzo cichy podczas pracy. SPECYFIKACJA: Kolor: Czarny, Biały, Różowy, Niebieski, Zielony / Kolor wysyłany losowo Materiał: Silikon Wymiary: 8,5 / 14 cm Zasilanie: USB Certyfikat: CE W Zestawie: Fabrycznie Nowy Wiatraczek USB TOWAR JEST NOWY, NIEUŻYWANY ORAZ BEZPIECZNIE ZAPAKOWANY. ZALETY PRODUKTU: Zasilany za pomocą gniazda USB Doskonały przy pracy przy komputerze w gorące dni Zajmuje mało miejsca, bardzo łatwy w transporcie Lekki i wytrzymały Przewód jest giętki, dzięki czemu możemy ustawić go w dowolnej pozycji Posiada zdejmowane śmigło Jest bardzo cichy podczas pracy Posiadamy również inne rodzaje wentylatorów, klimatyzatorów oraz klimatorów wiatraczek usb, mini wiatraczek, podręczny wentylator, wentylator do laptopa, chłodzenie usb, mini wentylator na usb, giętki przewód, wentylator biurowy, cichy wentylator, mobilny wentylator, przenośny wiatraczek, wiatraczek do laptopa, giętki wiatrak, mini wiatrak, lekki wentylator, silikonowy wiatraczek, mały wentylator, wentylator podróżny, wiatraczek kieszonkowy, chłodzenie do biura, wiatraczek do notebooka, przenośny klimat, mini klimatyzator, wiatraczek na usb do laptopa, chłodzenie przenośne, wiatraczek silikonowy, przewiewny wiatrak, cichy wiatraczek, wentylator przenośny, zasilanie usb, kompaktowy wiatrak, łatwa instalacja wiatraczka, wiatraczek z certyfikatem CE, wentylator podręczny, miniaturka wentylatora, wiatrak przenośny, giętki kabel usb, ochłoda na gorące dni, wiatraczek do komputera, mały wiatraczek usb, chłodzenie mobilne, przenośne chłodzenie, mini wiatrak do notebooka, zakupy online, sklep internetowy, wiatraczek wielokolorowy.\n\nProducent odpowiedzialny:\nVERK GROUP\nWygody 16, 05-090 Podolszyn Nowy\nKontakt: kontakt[at]verk.sklep.pl\n\n[DOFIRMY]",
+                "category_id": 2231,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 20.67,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/dfec2ea62acb207321687607ef3e6267.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/b7c9d7c7e4896728abb1d9e9573eed67.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/eafca3fc65975e0efbcbda543efbb004.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/2d485e9ffeb449526616eac72e8a5d29.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/69a7d7a9111de2919682ab6cbf992511.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/6dc9142c189fdeff1a6acda64836ce87.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/9048bb3b788704d57eebe31baea6f015.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/c43828eb680bbfc1d82353ea9896c38b.jpg"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "code": "state",
+                        "value": "new"
+                    }
+                ],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
