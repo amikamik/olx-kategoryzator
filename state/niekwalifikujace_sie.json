@@ -2648,5 +2648,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pistolet do przedmuchiwania sprężonym powietrzem, służący do oczyszczania powierzchni. Opis zawiera frazy takie jak 'profesjonalne narzędzia' i 'zastosowanie w każdym ciągniku', co wskazuje na zastosowanie w środowisku zawodowym lub przemysłowym. Najbardziej szczegółową i pasującą kategorią jest 'Pozostałe' w gałęzi 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący', ponieważ jest to sprzęt do czyszczenia w profesjonalnym kontekście. Kategoria 'Elektronarzędzia' z podpowiedzi byłaby błędna, gdyż produkt jest pneumatyczny, nie elektroniczny."
+    },
+    {
+        "ID_Produktu": "243163910",
+        "Nazwa_Produktu": "Nabój Z Gazem Butan, 227g",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Ogrzewanie przenośne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Ogrzewanie przenośne",
+        "Finalne_ID_AI": 1685,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to nabój z gazem butan przeznaczony do kuchenek turystycznych, lamp gazowych i lamp lutowniczych. Są to urządzenia związane z ogrzewaniem przenośnym, co idealnie pasuje do kategorii 'Dom i Ogród > Ogrzewanie > Ogrzewanie przenośne'."
     }
 ]
