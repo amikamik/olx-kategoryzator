@@ -4958,5 +4958,195 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to zestaw dekoracyjnych tabliczek na palikach przeznaczonych do wbicia w ziemię na trawniku. Choć są to ozdoby urodzinowe, ich konstrukcja (odporność na warunki atmosferyczne) oraz miejsce przeznaczenia (ogród) sprawiają, że kategoria 'Dekoracje ogrodowe' jest najbardziej odpowiednia, zwłaszcza że alternatywna kategoria 'Ozdoby okolicznościowe' znajduje się w drzewie pod 'Wyposażeniem wnętrz'."
+    },
+    {
+        "ID_Produktu": "242635529",
+        "Nazwa_Produktu": "Flaga Dekoracja Wielkanocna Do Ogrodu Pisanki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest flagą ogrodową, co jednoznacznie wskazuje na jego przeznaczenie zewnętrzne. Chociaż posiada motyw wielkanocny, kategoria 'Dekoracje ogrodowe' (ID 1631) jest najbardziej trafnym miejscem dla ozdób przeznaczonych do ogrodu, podczas gdy alternatywna kategoria 'Ozdoby okolicznościowe' znajduje się w sekcji 'Wyposażenie wnętrz'."
+    },
+    {
+        "ID_Produktu": "242635530",
+        "Nazwa_Produktu": "Flaga Dekoracja Wielkanocna Do Ogrodu Koszyczek",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany flagą ogrodową i przeznaczony do dekoracji ogrodu, co najlepiej odpowiada kategorii 'Dekoracje ogrodowe' w sekcji 'Ogród'. Chociaż jest to ozdoba wielkanocna, kategoria w 'Wyposażeniu wnętrz' sugerowana przez OLX mniej pasuje ze względu na zewnętrzne przeznaczenie przedmiotu."
+    },
+    {
+        "ID_Produktu": "242635533",
+        "Nazwa_Produktu": "Lampka Nocna Projektor Laserowy Głośnik z Pilotem",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Projektory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Pozostałe",
+        "Finalne_ID_AI": 3872,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjna lampka nocna pełniąca rolę projektora nastrojowego (gwiazd i oceanu). Chociaż w tytule widnieje 'Lampka Nocna', specyfika urządzenia jako projektora laserowego z głośnikiem sprawia, że najlepiej pasuje ono do kategorii oświetlenia dekoracyjnego, która w drzewie OLX znajduje się pod ścieżką Dom i Ogród > Oświetlenie > Lampy > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242635534",
+        "Nazwa_Produktu": "Osłony Nakładki na Pasy Samochodowe 4szt",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalne_ID_AI": 4501,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nakładki ochronne na pasy bezpieczeństwa, które w drzewie kategorii OLX najlepiej pasują do sekcji Pokrowce w obrębie wyposażenia i akcesoriów samochodowych."
+    },
+    {
+        "ID_Produktu": "242635556",
+        "Nazwa_Produktu": "Obrotowy filtr regulatora przepływu wody",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Filtry i zmiękczacze wody",
+        "Finalne_ID_AI": 3215,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako filtr kranowy i regulator przepływu wody. Kategoria 'Filtry i zmiękczacze wody' (id: 3215) w sekcji hydrauliki jest najbardziej precyzyjnym dopasowaniem dla urządzenia, którego główną funkcją wymienioną w nazwie jest filtrowanie wody."
+    },
+    {
+        "ID_Produktu": "242635615",
+        "Nazwa_Produktu": "Dettol Chusteczki antybakteryjne duże a'80 1 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to antybakteryjne chusteczki do dezynfekcji różnych powierzchni domowych (blatów, zlewozmywaków, łazienki), co kwalifikuje go jako środek czyszczący w dziale Supermarket kategorii Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242635737",
+        "Nazwa_Produktu": "Clinex Glass 5L płyn do mycia szyb",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest płynem do mycia szyb i powierzchni szklanych, co jednoznacznie klasyfikuje go jako środek czyszczący w sekcji Supermarket w kategorii Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242635774",
+        "Nazwa_Produktu": "Papier pakowy 35cm, 35g +10PE rolka 10kg biały",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przemysłowy materiał eksploatacyjny (rolka 10kg) z atestem do żywności, przeznaczony do zaopatrzenia punktów handlowych i gastronomicznych. Najlepiej pasuje do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242635775",
+        "Nazwa_Produktu": "Przykrywka prostokątna PP KP821CE 1000ml 1500ml 50 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przykrywki do pojemników garmażeryjnych sprzedawane w ilościach hurtowych (50 szt.) i opisane jako idealne dla gastronomii oraz cateringu, co najlepiej klasyfikuje je w kategorii 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242635811",
+        "Nazwa_Produktu": "Miska do zgrzewu 500ml czarna D-5500RC 50 szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne opakowania jednorazowe przeznaczone do zgrzewu mechanicznego, dedykowane dla profesjonalnej branży gastronomicznej i cateringowej. Sprzedaż w opakowaniach zbiorczych (50 szt.) oraz uwzględnienie opłaty SUP jednoznacznie wskazuje na zaopatrzenie firmowe, co klasyfikuje produkt w kategorii Pojemniki gastronomiczne w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242635827",
+        "Nazwa_Produktu": "Cif Cream Lemon Mleczko do czyszczenia 750ml 1sz|",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest mleczkiem do czyszczenia powierzchni domowych (kuchnia, łazienka), co jednoznacznie klasyfikuje go do kategorii środków czyszczących w sekcji Supermarket w dziale Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242635887",
+        "Nazwa_Produktu": "Poduszka na Krzesło Wiązana 40x40 Bawełna Ananas",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pościel > Poduszki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Poduszki",
+        "Finalne_ID_AI": 2893,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to poduszka na krzesło (siedzisko), a opis wyraźnie wskazuje na jej przeznaczenie do krzeseł ogrodowych, na taras lub balkon. W podanym drzewie kategorii, ID 2893 (Ogród > Meble ogrodowe > Poduszki) jest najbardziej trafnym i specyficznym wyborem dla poduszek tego typu."
+    },
+    {
+        "ID_Produktu": "242635889",
+        "Nazwa_Produktu": "Poduszka na Krzesło Wiązana 40x40 Bawełna Lody",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pościel > Poduszki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Meble ogrodowe > Poduszki",
+        "Finalne_ID_AI": 2893,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest poduszką na krzesło (siedzisko), a opis wyraźnie wskazuje na jego przeznaczenie do mebli ogrodowych, na taras i balkon, co idealnie pasuje do kategorii Poduszki w sekcji Meble ogrodowe."
+    },
+    {
+        "ID_Produktu": "242635929",
+        "Nazwa_Produktu": "Kuweta malarska 0,7L niebieska uchwyt na pędzel",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Farby",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalne_ID_AI": 3252,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kuweta/pojemnik malarski o pojemności 0,7L, przeznaczony do prac wykończeniowych. Najbardziej precyzyjną kategorią dla tego typu osprzętu jest 'Akcesoria malarskie' w sekcji wykończenia wnętrz."
+    },
+    {
+        "ID_Produktu": "242635934",
+        "Nazwa_Produktu": "Kapelusz Kowbojski Kibica Polski ze Sznurkiem 58cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Czapki i kapelusze > Kapelusze",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty drużynowe > Strefa kibica > Gadżety",
+        "Finalne_ID_AI": 4992,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Mimo że produkt jest kapeluszem, jego specyficzny design (barwy narodowe) i przeznaczenie (dla kibiców reprezentacji Polski) sprawiają, że najbardziej trafną kategorią na OLX jest 'Sport i Hobby > Sporty drużynowe > Strefa kibica > Gadżety'. Kategoria ta najlepiej grupuje przedmioty używane podczas dopingowania, w przeciwieństwie do ogólnej kategorii 'Moda', która służy do kategoryzacji odzieży codziennej."
+    },
+    {
+        "ID_Produktu": "242635958",
+        "Nazwa_Produktu": "Skrobak do Szyb Farb Metalu Uniwersalny + 3 Ostrza",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uniwersalny skrobak ręczny przeznaczony do różnych powierzchni (szyby, metal, płytki), co kwalifikuje go bezpośrednio jako narzędzie ręczne w kategorii Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242635974",
+        "Nazwa_Produktu": "Szczotka druciana stal węglowa profilowany uchwyt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ręczna szczotka druciana przeznaczona do manualnego usuwania rdzy i zanieczyszczeń, co jednoznacznie klasyfikuje go jako narzędzie ręczne w kategorii Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242635979",
+        "Nazwa_Produktu": "Taśma Klejąca Winylowa 0,13x50mm 33m Biały 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro",
+        "Finalne_ID_AI": 4654,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to winylowa taśma klejąca marki Amazon Commercial, przeznaczona do profesjonalnego oznaczania podłóg i kodowania kolorami. Najlepiej pasuje do kategorii materiałów biurowych i eksploatacyjnych w sekcji Firma i Przemysł, ponieważ jest to produkt o charakterze komercyjnym/przemysłowym, a nie szkolnym czy domowym."
+    },
+    {
+        "ID_Produktu": "242636000",
+        "Nazwa_Produktu": "Lampa Solarna LED Kula Kryształowa IP44 8x11cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Oświetlenie ogrodowe",
+        "Finalne_ID_AI": 1638,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to dekoracyjna lampa solarna przeznaczona do użytku zewnętrznego (IP44), co idealnie wpisuje się w kategorię 'Oświetlenie ogrodowe' znajdującą się w sekcji 'Ogród'."
     }
 ]
