@@ -4958,5 +4958,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to zestaw dekoracyjnych tabliczek na palikach przeznaczonych do wbicia w ziemię na trawniku. Choć są to ozdoby urodzinowe, ich konstrukcja (odporność na warunki atmosferyczne) oraz miejsce przeznaczenia (ogród) sprawiają, że kategoria 'Dekoracje ogrodowe' jest najbardziej odpowiednia, zwłaszcza że alternatywna kategoria 'Ozdoby okolicznościowe' znajduje się w drzewie pod 'Wyposażeniem wnętrz'."
+    },
+    {
+        "ID_Produktu": "242635529",
+        "Nazwa_Produktu": "Flaga Dekoracja Wielkanocna Do Ogrodu Pisanki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest flagą ogrodową, co jednoznacznie wskazuje na jego przeznaczenie zewnętrzne. Chociaż posiada motyw wielkanocny, kategoria 'Dekoracje ogrodowe' (ID 1631) jest najbardziej trafnym miejscem dla ozdób przeznaczonych do ogrodu, podczas gdy alternatywna kategoria 'Ozdoby okolicznościowe' znajduje się w sekcji 'Wyposażenie wnętrz'."
+    },
+    {
+        "ID_Produktu": "242635530",
+        "Nazwa_Produktu": "Flaga Dekoracja Wielkanocna Do Ogrodu Koszyczek",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wprost nazwany flagą ogrodową i przeznaczony do dekoracji ogrodu, co najlepiej odpowiada kategorii 'Dekoracje ogrodowe' w sekcji 'Ogród'. Chociaż jest to ozdoba wielkanocna, kategoria w 'Wyposażeniu wnętrz' sugerowana przez OLX mniej pasuje ze względu na zewnętrzne przeznaczenie przedmiotu."
+    },
+    {
+        "ID_Produktu": "242635533",
+        "Nazwa_Produktu": "Lampka Nocna Projektor Laserowy Głośnik z Pilotem",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Projektory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Pozostałe",
+        "Finalne_ID_AI": 3872,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "92%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjna lampka nocna pełniąca rolę projektora nastrojowego (gwiazd i oceanu). Chociaż w tytule widnieje 'Lampka Nocna', specyfika urządzenia jako projektora laserowego z głośnikiem sprawia, że najlepiej pasuje ono do kategorii oświetlenia dekoracyjnego, która w drzewie OLX znajduje się pod ścieżką Dom i Ogród > Oświetlenie > Lampy > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242635534",
+        "Nazwa_Produktu": "Osłony Nakładki na Pasy Samochodowe 4szt",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalne_ID_AI": 4501,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nakładki ochronne na pasy bezpieczeństwa, które w drzewie kategorii OLX najlepiej pasują do sekcji Pokrowce w obrębie wyposażenia i akcesoriów samochodowych."
+    },
+    {
+        "ID_Produktu": "242635556",
+        "Nazwa_Produktu": "Obrotowy filtr regulatora przepływu wody",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Filtry i zmiękczacze wody",
+        "Finalne_ID_AI": 3215,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako filtr kranowy i regulator przepływu wody. Kategoria 'Filtry i zmiękczacze wody' (id: 3215) w sekcji hydrauliki jest najbardziej precyzyjnym dopasowaniem dla urządzenia, którego główną funkcją wymienioną w nazwie jest filtrowanie wody."
     }
 ]
