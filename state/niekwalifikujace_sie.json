@@ -1348,5 +1348,575 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to wieszak na ubrania z regulowaną wysokością i kółkami, przeznaczony do domu, biura lub sklepu. Kategoria 'Dom i Ogród > Meble > Wieszaki' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "243161804",
+        "Nazwa_Produktu": "Woltomierz 12V",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Przyrządy miernicze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalne_ID_AI": 4489,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to woltomierz samochodowy, służący do mierzenia napięcia akumulatora i alternatora w samochodzie, podłączany do zapalniczki samochodowej. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa' jest najbardziej precyzyjnym i szczegółowym dopasowaniem, ponieważ odnosi się bezpośrednio do elektronicznych urządzeń i akcesoriów przeznaczonych dla pojazdów."
+    },
+    {
+        "ID_Produktu": "243161837",
+        "Nazwa_Produktu": "WZ - Wydanie Na Zewnątrz 1/3 A4",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dokument magazynowy (WZ) wykonany z papieru samokopiującego, służący do ewidencji wydania towarów. Jest to klasyczny artykuł biurowy i materiał eksploatacyjny dla firm, idealnie pasujący do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "243161842",
+        "Nazwa_Produktu": "WZ - Wydanie Na Zewnątrz 1/3 A4 - PAPIRUS",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Obrazki i obrazy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to formularz biurowy (WZ - Wydanie Na Zewnątrz), wykonany z papieru samokopiującego. Jest to typowy materiał biurowy używany w działalności firmy, co idealnie pasuje do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "243161846",
+        "Nazwa_Produktu": "Zestaw Do Naprawy Opon",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Opony i Felgi > Pozostałe Opony i Felgi",
+        "Finalne_ID_AI": 1389,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw do naprawy opon, który jest akcesorium bezpośrednio związanym z oponami, ale nie jest samą oponą ani felgą. Kategoria 'Motoryzacja > Opony i Felgi > Pozostałe Opony i Felgi' jest najbardziej specyficznym miejscem dla tego typu produktu, obejmującym akcesoria związane z oponami, które nie są głównymi elementami (opony, felgi, koła). Wskazówka systemowa 'Dom i Ogród > Narzędzia > Zestawy narzędzi' jest zbyt ogólna, ponieważ produkt jest ściśle motoryzacyjny."
+    },
+    {
+        "ID_Produktu": "243161862",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x10cm BIAŁY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, które są często używane na naczepach i przyczepach, co silnie wiąże się z kategorią 'Motoryzacja'. Ponieważ nie ma bardziej szczegółowej kategorii dla zestawów naprawczych do plandek pod 'Wyposażenie i akcesoria samochodowe', najbardziej odpowiednią kategorią liściową jest 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "243161866",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x10cm CZARNY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalne_ID_AI": 4501,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, które są używane jako pokrowce na naczepach, przyczepach i łodziach, czyli w kontekście motoryzacji. Kategoria 'Pokrowce' w ramach 'Wyposażenia i akcesoriów samochodowych' jest najbardziej szczegółowa i trafna dla tego rodzaju akcesorium i jego naprawy."
+    },
+    {
+        "ID_Produktu": "243161869",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x10cm SZARY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy (łata, papier ścierny, nożyk), który idealnie pasuje do kategorii 'Zestawy narzędzi' w ramach 'Dom i Ogród > Narzędzia'. Jego zastosowanie obejmuje szeroki zakres napraw plandek, nie ograniczając się wyłącznie do motoryzacji, co czyni tę kategorię najbardziej odpowiednią."
+    },
+    {
+        "ID_Produktu": "243161872",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x32cm BIAŁY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Zestaw Naprawczy', który wprost kwalifikuje się jako 'Zestawy narzędzi'. Choć plandeki mogą mieć różne zastosowania (w tym motoryzacyjne), kategoria 'Narzędzia' z podkategorią 'Zestawy narzędzi' jest najbardziej precyzyjna dla charakteru samego produktu jako kompletu do naprawy."
+    },
+    {
+        "ID_Produktu": "243161876",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x32cm CZARNY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, w tym tych używanych na naczepach i przyczepach transportowych. Opis wyraźnie wskazuje na zastosowanie w kontekście transportu i unikania opóźnień, co silnie wiąże go z branżą „Firma i Przemysł”. Sam zestaw zawiera narzędzia (nożyk, papier ścierny) i materiały (łatę samoprzylepną) do napraw, co idealnie pasuje do podkategorii „Narzędzia warsztatowe” w ramach „Wyposażenie warsztatów”."
+    },
+    {
+        "ID_Produktu": "243161881",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x32cm CZERWONY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, które są często używane w transporcie ciężarowym (naczepy, przyczepy). Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe' jest najbardziej odpowiednia, a ponieważ zestaw naprawczy nie pasuje do żadnej bardziej szczegółowej podkategorii, 'Pozostałe' w tej gałęzi jest najlepszym wyborem. Chociaż zawiera narzędzia ręczne, sam produkt jest zestawem do naprawy, a nie tylko pojedynczym narzędziem, a jego zastosowanie jest mocno powiązane z motoryzacją, nie z ogólnymi narzędziami domowymi."
+    },
+    {
+        "ID_Produktu": "243161884",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x32cm NIEBIESKI",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, a opis wyraźnie wskazuje na jego zastosowanie głównie w transporcie (naczepy, przyczepy) oraz na łodziach. Plandeki są traktowane jako wyposażenie i akcesoria samochodowe (lub dla innych pojazdów). Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu, mimo że zawiera słowo 'Pozostałe', ponieważ nie ma bardziej specyficznej podkategorii dla zestawów naprawczych do plandek w tym drzewie. Jest to bardziej precyzyjne niż kategoryzowanie go jako 'Narzędzia ręczne', gdyż zestaw składa się głównie z łatki i dodatkowych materiałów, a nie jest samym narzędziem."
+    },
+    {
+        "ID_Produktu": "243161889",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x32cm PRZEŹROCZYSTY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, zawierający m.in. nożyk i papier ścierny, które są narzędziami. Opis podkreśla zastosowanie do naprawy plandek na naczepach i przyczepach, co jest typowym scenariuszem w branży transportowej lub warsztatach. Kategoria 'Narzędzia warsztatowe' w ramach 'Firma i Przemysł > Wyposażenie warsztatów' jest bardziej szczegółowa i trafna niż ogólne 'Narzędzia ręczne' z 'Dom i Ogród', ponieważ odnosi się bezpośrednio do środowiska, w którym ten zestaw byłby używany."
+    },
+    {
+        "ID_Produktu": "243161893",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x32cm SREBRNY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, które są wykorzystywane głównie w transporcie (naczepy, przyczepy), co wskazuje na kategorię Motoryzacja. Zestaw ten, zawierający narzędzia i łatę, najlepiej pasuje do \"Wyposażenie i akcesoria samochodowe\" jako element służący do konserwacji/naprawy pojazdów, a ponieważ nie ma bardziej specyficznej podkategorii, wybrano \"Pozostałe\"."
+    },
+    {
+        "ID_Produktu": "243161898",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x32cm SZARY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, które są często używane w transporcie, na naczepach i przyczepach samochodowych. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe' zawiera ogólne akcesoria samochodowe, a podkategoria 'Pozostałe' jest najbardziej szczegółowym miejscem dla tego typu zestawu, który służy do utrzymania wyposażenia pojazdów. W tej kategorii znajdują się również inne akcesoria przeznaczone dla pojazdów ciężarowych, jak np. tachografy, co wskazuje na jej szerszy zakres niż tylko samochody osobowe. Choć zestaw zawiera narzędzia, nie jest to jego główna funkcja, a jego zastosowanie jest mocno powiązane z motoryzacją komercyjną."
+    },
+    {
+        "ID_Produktu": "243162027",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x32cm ZIELONY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, z wyraźnym zastosowaniem do naczep i przyczep w transporcie, co silnie wskazuje na kategorię Firmy i Przemysłu. W zestawie znajdują się narzędzia do naprawy, co najlepiej pasuje do podkategorii 'Wyposażenie warsztatów' i 'Narzędzia warsztatowe'. Jest to najbardziej szczegółowa i trafna kategoria uwzględniająca charakter produktu i jego zastosowanie."
+    },
+    {
+        "ID_Produktu": "243162031",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 45x32cm BIAŁY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Pozostałe",
+        "Finalne_ID_AI": 5176,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, które są często używane na naczepach i przyczepach transportowych, co silnie wiąże się z branżą 'Firma i Przemysł'. Jako zestaw do naprawy, najlepiej pasuje do podkategorii 'Wyposażenie warsztatów', a ponieważ zawiera zarówno narzędzia (papier ścierny, chusteczki) jak i materiał (łata), 'Pozostałe' w ramach 'Wyposażenie warsztatów' jest najbardziej adekwatną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "243162035",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 45x32cm CZARNY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, które są wykorzystywane głównie w transporcie (naczepy, przyczepy, łodzie). Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe' jest najbardziej adekwatna, a podkategoria 'Pozostałe' w ramach akcesoriów samochodowych najlepiej pasuje do tego typu uniwersalnego zestawu naprawczego do osłon transportowych. Wskazówka systemowa jest zbyt ogólna."
+    },
+    {
+        "ID_Produktu": "243162039",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 45x32cm CZERWONY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, a opis wyraźnie wskazuje na jego zastosowanie do plandek na naczepach i ciężarówkach, co bezpośrednio odnosi się do kategorii Motoryzacja. Zestaw jest traktowany jako akcesorium lub wyposażenie do pojazdów, stąd wybór podkategorii 'Wyposażenie i akcesoria samochodowe'. Ponieważ nie ma bardziej szczegółowej kategorii dla zestawów naprawczych do plandek pod tym drzewem, 'Pozostałe' jest najbardziej odpowiednim liściem."
+    },
+    {
+        "ID_Produktu": "243162041",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 45x32cm NIEBIESKI",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe",
+        "Finalne_ID_AI": 1401,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do łatania plandek, które są kluczowym elementem naczep, przyczep i samochodów ciężarowych, służącym do zabezpieczania ładunku. Kategoria 'Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe' jest najbardziej szczegółowa i bezpośrednio odnosi się do głównego zastosowania opisanego w tytule i opisie produktu."
+    },
+    {
+        "ID_Produktu": "243162043",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 45x32cm PRZEŹROCZYSTY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, które są często używane w transporcie na naczepach i przyczepach. Kategoria 'Motoryzacja' jest odpowiednia dla produktów związanych z pojazdami, a 'Wyposażenie i akcesoria samochodowe' obejmuje szeroki zakres dodatków. Ponieważ nie ma bardziej szczegółowej podkategorii dla zestawów naprawczych do plandek w ramach akcesoriów samochodowych, 'Pozostałe' w tej kategorii jest najlepszym, najbardziej szczegółowym dopasowaniem. Wskazówka systemowa była nieodpowiednia, ponieważ produkt to zestaw naprawczy, a nie ogólne narzędzie ręczne."
+    },
+    {
+        "ID_Produktu": "243162047",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 45x32cm SREBRNY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, które są często używane na naczepach i przyczepach, co jest bezpośrednio związane z kategorią Motoryzacja. Kategoria 'Wyposażenie i akcesoria samochodowe' jest najlepszym nadrzędnym dopasowaniem, a ponieważ nie ma bardziej szczegółowej kategorii dla zestawów naprawczych do plandek, 'Pozostałe' jest najbardziej odpowiednim liściem."
+    },
+    {
+        "ID_Produktu": "243162052",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 45x32cm SZARY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy do plandek, w opisie wyraźnie zaznaczono zastosowanie w transporcie (naczepy, przyczepy, łodzie) oraz użyto frazy 'przemysłowy zestaw naprawczy'. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' najlepiej oddaje profesjonalny charakter produktu i jego przeznaczenie do napraw w środowisku warsztatowym lub transportowym, będąc bardziej szczegółową niż ogólne kategorie typu 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "243162053",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 45x32cm ZIELONY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Zestaw Naprawczy', który najlepiej pasuje do kategorii 'Zestawy narzędzi' pod 'Dom i Ogród > Narzędzia'. Mimo, że plandeki są używane w motoryzacji (naczepy, przyczepy), to sam zestaw naprawczy jest narzędziem ogólnego przeznaczenia, a jego zastosowanie nie ogranicza się tylko do branży motoryzacyjnej czy przemysłowej (np. łodzie, banery). Kategoria 'Zestawy narzędzi' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu jako kompletu do konkretnej naprawy."
+    },
+    {
+        "ID_Produktu": "243162080",
+        "Nazwa_Produktu": "Zszywacz do papieru do 100 kartek",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Dziurkacze i zszywacze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zszywacz do papieru, który w opisie jest wielokrotnie określony jako 'zszywacz biurowy' i 'zszywacz dla biura', a jego duża pojemność (do 100 kartek) sugeruje zastosowanie profesjonalne. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "243162084",
+        "Nazwa_Produktu": "Zwijarka Pasa Transportowego Metalowa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zwijarka do pasów transportowych, które służą do zabezpieczania ładunków w transporcie. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' jest najbardziej szczegółowa i bezpośrednio odnosi się do funkcji produktu związanej z zabezpieczaniem w kontekście motoryzacji i transportu."
+    },
+    {
+        "ID_Produktu": "243162090",
+        "Nazwa_Produktu": "Zwijarka Pasa Transportowego SpeedexX",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Pozostałe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zwijarka pasów transportowych, używana w kontekście przewozu towarów na naczepach. Najlepiej pasuje do ogólnej kategorii 'Motoryzacja', a w niej do 'Wyposażenie i akcesoria samochodowe', gdzie podkategoria 'Pozostałe' jest najbardziej adekwatna dla tego typu narzędzia do organizacji ładunku."
+    },
+    {
+        "ID_Produktu": "243162110",
+        "Nazwa_Produktu": "Szczotka zewnętrzna Vileda",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to szczotka zewnętrzna (miotła) przeznaczona do sprzątania wokół domu, tarasów, piwnic i schodów. Najbardziej precyzyjną i szczegółową kategorią z drzewa jest 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki', która idealnie pasuje do funkcji i charakteru produktu."
+    },
+    {
+        "ID_Produktu": "243162123",
+        "Nazwa_Produktu": "CMR List Przewozowy 100 kartek - 3 odcinki - 33 komplety - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne międzynarodowe listy przewozowe CMR, które są artykułami biurowymi przeznaczonymi do użytku w firmach i branży transportowej. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najdokładniejszym i najbardziej specyficznym dopasowaniem, odzwierciedlającym profesjonalny charakter produktu, w przeciwieństwie do ogólnych 'Artykułów papierniczych' pod 'Dla Dzieci'."
+    },
+    {
+        "ID_Produktu": "243162125",
+        "Nazwa_Produktu": "CMR List Przewozowy 100 kartek - 4 odcinki - 25 kompletów - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to międzynarodowy list przewozowy CMR, który jest profesjonalnym drukiem transportowym. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółową i adekwatną kategorią, ponieważ dokumenty takie jak listy przewozowe są typowymi materiałami biurowymi używanymi w działalności gospodarczej, zwłaszcza w logistyce i transporcie. Sugestia systemowa 'Dla Dzieci' jest całkowicie nieodpowiednia."
+    },
+    {
+        "ID_Produktu": "243162130",
+        "Nazwa_Produktu": "CMR List Przewozowy 100 kartek - 5 odcinków - 20 kompletów - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to międzynarodowy list przewozowy, który jest dokumentem handlowym i materiałem biurowym używanym w firmach transportowych. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu jako materiału biurowego dla biznesu. Wskazówka systemowa była myląca, ponieważ produkt nie jest przeznaczony dla dzieci ani do użytku szkolnego."
+    },
+    {
+        "ID_Produktu": "243162133",
+        "Nazwa_Produktu": "CMR List Przewozowy 80 kartek - 4 odcinki - 20 kompletów - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to Międzynarodowy List Przewozowy CMR, który jest dokumentem używanym w transporcie towarów przez firmy. Jest to typowy materiał biurowy, niezbędny do prowadzenia działalności gospodarczej w branży logistycznej. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' idealnie pasuje do charakteru tego produktu. Sugerowana przez system kategoria 'Dla Dzieci > Artykuły szkolne' jest nieprawidłowa, ponieważ produkt ma charakter profesjonalny i biznesowy, a nie edukacyjny dla dzieci."
+    },
+    {
+        "ID_Produktu": "243162136",
+        "Nazwa_Produktu": "CMR List Przewozowy 80 kartek - 5 odcinków - 16 kompletów - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny list przewozowy CMR, używany w logistyce i transporcie. Najlepiej pasuje do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', ponieważ jest to typowy materiał biurowy przeznaczony dla firm. Kategoria 'Dla Dzieci' sugerowana w podpowiedzi jest nieodpowiednia dla tego produktu."
+    },
+    {
+        "ID_Produktu": "243162144",
+        "Nazwa_Produktu": "Folia Stretch Ręczna 1,5 kg brutto / 50cm / 23µ - 6 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to folia stretch, która jest materiałem opakowaniowym używanym głównie do pakowania paczek i owijania towarów na paletach, co jest typowe dla działalności w sklepach i magazynach. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej adekwatną kategorią-liściem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "243162157",
+        "Nazwa_Produktu": "Folia Stretch Ręczna 3 kg brutto / 50cm / 23µ - 6 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to folia stretch używana do pakowania i zabezpieczania towarów w magazynach i transporcie, co idealnie pasuje do ogólnego przeznaczenia kategorii „Firma i Przemysł” oraz podkategorii „Sklepy i magazyny”. Ponieważ nie ma bardziej szczegółowej kategorii dla folii opakowaniowej, „Pozostałe” w tej podkategorii jest najbardziej odpowiednie. Wskazówka systemowa była nieprawidłowa, ponieważ folia stretch nie jest narzędziem ręcznym."
+    },
+    {
+        "ID_Produktu": "243162178",
+        "Nazwa_Produktu": "Karton Fasonowy 250x200x80mm 3W E 380g/m2 - 20 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony fasonowe do wysyłki, z przeznaczeniem do paczkomatów InPost, często używane w e-commerce i do magazynowania. Pasuje idealnie do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', ponieważ są to materiały eksploatacyjne dla firm. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i nie oddaje komercyjnego charakteru produktu."
+    },
+    {
+        "ID_Produktu": "243162183",
+        "Nazwa_Produktu": "Karton Fasonowy 250x200x80mm BIAŁY-BRĄZOWY 3W E 350g/m2 - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony fasonowe przeznaczone do masowej wysyłki i pakowania towarów, co wyraźnie wskazuje na zastosowanie komercyjne, związane ze sklepami internetowymi i magazynami. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej odpowiednia, ponieważ skupia się na rozwiązaniach dla biznesu, w przeciwieństwie do 'Dom i Ogród > Wyposażenie wnętrz > Pudełka', która sugerowałaby zastosowanie domowe/dekoracyjne."
+    },
+    {
+        "ID_Produktu": "243162197",
+        "Nazwa_Produktu": "Karton Fasonowy 350x250x80mm 380g/m2 - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to karton fasonowy przeznaczony do masowej wysyłki i pakowania produktów, z wyraźnym zaznaczeniem użytku biznesowego (Paczkomaty InPost, do firmy, sprzedaż hurtowa). Najlepiej pasującą kategorią, odzwierciedlającą jego przeznaczenie komercyjne, jest 'Firma i Przemysł'. W ramach tej kategorii, 'Sklepy i magazyny' są najbardziej odpowiednim podkatalogiem. Ponieważ nie ma podkategorii bezpośrednio dla 'opakowań' lub 'kartonów' w 'Sklepy i magazyny', wybór 'Pozostałe' w tej gałęzi jest najdokładniejszym dopasowaniem na najgłębszym poziomie. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i zazwyczaj odnosi się do pudełek dekoracyjnych lub do użytku domowego, co nie oddaje specyfiki tego produktu."
+    },
+    {
+        "ID_Produktu": "243162208",
+        "Nazwa_Produktu": "Karton Fasonowy 350x250x80mm 380g/m2 - 80 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony fasonowe do wysyłki masowej, dedykowane dla firm i e-commerce (np. Allegro, Amazon, InPost). Najlepiej pasuje do kategorii związanej z działalnością gospodarczą i logistyką magazynową, a w przypadku braku dedykowanej podkategorii dla opakowań, 'Pozostałe' w 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej odpowiednim wyborem. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i sugeruje pudełka do użytku domowego/dekoracyjnego, co nie odzwierciedla przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "243162212",
+        "Nazwa_Produktu": "Karton Klapowy 200x120x80mm 320g/m2 - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony klapowe przeznaczone do masowej wysyłki, w tym do paczkomatów InPost, oraz dla e-commerce. Wskazuje to na zastosowanie biznesowe, a nie jako element wyposażenia wnętrz. Najlepiej pasuje do kategorii związanej z firmą i przemysłem, a konkretnie do podkategorii 'Sklepy i magazyny'. Ponieważ nie ma bardziej szczegółowej kategorii dla opakowań w tym dziale, 'Pozostałe' jest najbardziej odpowiednią kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "243162262",
+        "Nazwa_Produktu": "Karton Klapowy 400x300x100mm 3W B 320g - 80 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony klapowe do masowej wysyłki i magazynowania, wyraźnie przeznaczone do użytku biznesowego. Najbardziej pasującą kategorią, odzwierciedlającą ten cel, jest 'Firma i Przemysł > Sklepy i magazyny'. Ponieważ brak jest bardziej szczegółowej podkategorii dla opakowań, 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "243162276",
+        "Nazwa_Produktu": "Karton Klapowy 450x350x80mm 380g/m2 - 60 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony klapowe sprzedawane w dużej ilości (60 sztuk), przeznaczone do masowej wysyłki, w tym do Paczkomatów InPost. Opis podkreśla ich zastosowanie w pakowaniu przemysłowym i ofertę hurtową. Wszystkie te cechy wskazują na zastosowanie biznesowe i logistyczne, najlepiej pasujące do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', a nie do ogólnej kategorii 'Pudełka' pod 'Dom i Ogród', która sugerowałaby zastosowanie domowe lub dekoracyjne."
+    },
+    {
+        "ID_Produktu": "243162283",
+        "Nazwa_Produktu": "Karton klapowy 450x350x80mm BIAŁY-BRĄZOWY 365g - 20 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony klapowe przeznaczone do masowej wysyłki i paczkomatów, co sugeruje zastosowanie biznesowe/logistyczne. Najlepiej pasuje do kategorii związanej z firmą i biurem, a 'Akcesoria i materiały biurowe' jest najbardziej szczegółową kategorią dla tego typu opakowań w kontekście biznesowym, w przeciwieństwie do 'Pudełka' w 'Dom i Ogród', które sugerują raczej dekoracyjne lub domowe przechowywanie."
+    },
+    {
+        "ID_Produktu": "243162325",
+        "Nazwa_Produktu": "Karton Klapowy 640x380x80mm 3W B 380g/m2 - 20 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony klapowe przeznaczone do wysyłki, w tym do paczkomatów InPost, co wskazuje na zastosowanie komercyjne i logistyczne. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej odpowiednia, ponieważ kartony te są materiałem biurowym/magazynowym dla firm, szczególnie tych zajmujących się e-commerce i masową wysyłką. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest mniej trafna ze względu na brak kontekstu dekoracyjnego lub domowego magazynowania."
+    },
+    {
+        "ID_Produktu": "243162332",
+        "Nazwa_Produktu": "Karton Klapowy 640x380x80mm 3W B 380g/m2 - 40 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sprzedaż hurtowa",
+        "Finalne_ID_AI": 5195,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony klapowe sprzedawane w dużej ilości (40 sztuk), przeznaczone do masowej wysyłki i e-commerce, co jest wyraźnie podkreślone w opisie (\"karton hurtowy\", \"sklep do firmy\"). Kategoria 'Firma i Przemysł > Sprzedaż hurtowa' najlepiej oddaje komercyjny charakter oferty i sposób sprzedaży produktu, będąc bardziej specyficzną niż ogólne 'Pudełka' w kontekście domowym."
+    },
+    {
+        "ID_Produktu": "243162345",
+        "Nazwa_Produktu": "Karton Klapowy 700x500x500mm 5W EB 490g/m2 - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony klapowe o dużych wymiarach, przeznaczone głównie do masowej wysyłki i magazynowania, co wskazuje na zastosowania w handlu elektronicznym, przemyśle i magazynach. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej adekwatna do tego typu produktu, uwzględniając jego funkcję i kontekst użytkowania. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i nie oddaje przemysłowego charakteru produktu."
+    },
+    {
+        "ID_Produktu": "243162364",
+        "Nazwa_Produktu": "Koperta DL biała SK samoklejąca 110x220 mm - okienko 90x45 mm - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to koperty biurowe przeznaczone do korespondencji i pracy biurowej. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna. Sugestia systemowa 'Dla Dzieci' jest nieprawidłowa, biorąc pod uwagę opis produktu."
+    },
+    {
+        "ID_Produktu": "243162367",
+        "Nazwa_Produktu": "Koperta DL biała SK samoklejąca 110x220 mm - okienko 90x45 mm - 250 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to koperty biurowe, przeznaczone do korespondencji i dokumentów w pracy biurowej oraz dla firm. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółową i trafną."
+    },
+    {
+        "ID_Produktu": "243162372",
+        "Nazwa_Produktu": "Koperta DL biała SK samoklejąca 110x220 mm - okienko 90x45 mm - 500 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koperta biurowa, która jest materiałem eksploatacyjnym do biura. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej precyzyjna i bezpośrednio pasuje do opisu produktu ('koperty biurowe', 'do codziennej pracy biurowej', 'do korespondencji'). Sugerowana wskazówka OLX dotycząca 'Dla Dzieci' jest mniej adekwatna, biorąc pod uwagę charakter i zastosowanie kopert podane w opisie."
+    },
+    {
+        "ID_Produktu": "243162378",
+        "Nazwa_Produktu": "Koperta DL biała SK samoklejąca 110x220 mm - okienko 90x45 mm - 50 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to koperta biurowa, a opis wielokrotnie podkreśla jej przeznaczenie do korespondencji i pracy biurowej. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej specyficznym i trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "243162381",
+        "Nazwa_Produktu": "Krajowy List Przewozowy 80 kartek - 4 odcinki - 20 kompletów - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to krajowy list przewozowy, który jest dokumentem handlowym i biurowym. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' najlepiej oddaje jego przeznaczenie jako materiału biurowego dla firm. Kategoria zasugerowana przez system ('Dla Dzieci > Artykuły szkolne > Artykuły papiernicze') jest nieodpowiednia ze względu na charakter produktu, który nie jest artykułem szkolnym ani produktem dla dzieci."
+    },
+    {
+        "ID_Produktu": "243162385",
+        "Nazwa_Produktu": "Książka czasu pracy kierowcy FRANCJA - LIVRET INDIVIDUEL DE CONTROLE - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Podręczniki szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to książka czasu pracy, która jest obowiązkowym dokumentem i ewidencją, czyli typowym materiałem biurowym/administracyjnym używanym w firmie. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu, pomimo że jest to 'książka'. Nie jest to książka w sensie literatury czy podręcznika szkolnego."
+    },
+    {
+        "ID_Produktu": "243162391",
+        "Nazwa_Produktu": "Książka czasu pracy kierowcy FRANCJA - LIVRET INDIVIDUEL DE CONTROLE - 30 szt.",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Podręczniki szkolne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to książka czasu pracy kierowcy, która jest obowiązkowym dokumentem związanym z eksploatacją pojazdu i pracą kierowcy. Najlepiej pasuje do kategorii związanej z akcesoriami samochodowymi. Chociaż istnieje kategoria 'Literatura motoryzacyjna', książka czasu pracy jest dokumentem funkcjonalnym, a nie literaturą do czytania. Dlatego najodpowiedniejsza jest kategoria 'Pozostałe' w ramach 'Wyposażenie i akcesoria samochodowe'."
+    },
+    {
+        "ID_Produktu": "243162395",
+        "Nazwa_Produktu": "Książka czasu pracy kierowcy KONTROLLBUCH PL - DE - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Książki naukowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to książka kontroli czasu pracy, będąca obowiązkowym dokumentem administracyjnym dla kierowców w transporcie. Najlepiej pasującą i najbardziej szczegółową kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', ponieważ to typowy materiał biurowy/administracyjny używany w działalności gospodarczej do prowadzenia ewidencji. Kategoria 'Książki naukowe' jest nieodpowiednia dla tego typu dokumentu."
+    },
+    {
+        "ID_Produktu": "243162400",
+        "Nazwa_Produktu": "Książka czasu pracy kierowcy KONTROLLBUCH PL - DE - 30 szt.",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Książki naukowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to \"Książka czasu pracy kierowcy KONTROLLBUCH\", która jest obowiązkowym dokumentem do ewidencji czasu pracy w transporcie. Pasuje to doskonale do kategorii \"Firma i Przemysł\" ze względu na charakter biznesowy i regulacyjny dokumentu, a konkretnie do podkategorii \"Biuro > Akcesoria i materiały biurowe\", ponieważ jest to rodzaj formularza/książki służącej do prowadzenia dokumentacji."
+    },
+    {
+        "ID_Produktu": "243162404",
+        "Nazwa_Produktu": "Książka czasu pracy kierowcy PL - DE - FR - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Książki naukowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe",
+        "Finalne_ID_AI": 4482,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to książka kontroli czasu pracy kierowcy, która jest obowiązkowym dokumentem i wyposażeniem dla pojazdów użytkowych. Kategoria 'Wyposażenie i akcesoria samochodowe' najlepiej oddaje jego przeznaczenie i kontekst użytkowania."
+    },
+    {
+        "ID_Produktu": "243162407",
+        "Nazwa_Produktu": "Książka czasu pracy kierowcy PL - DE - FR - 30 szt.",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Książki naukowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Literatura motoryzacyjna",
+        "Finalne_ID_AI": 4495,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obowiązkowa książka czasu pracy kierowcy, będąca formą dokumentacji i ewidencji związanej z przepisami transportowymi. Kategoria 'Literatura motoryzacyjna' pod 'Wyposażenie i akcesoria samochodowe' najlepiej oddaje zarówno charakter dokumentu (jako formy pisemnej 'literatury' w kontekście technicznym/regulacyjnym), jak i jego specyficzne zastosowanie w dziedzinie motoryzacji. Jest to bardziej szczegółowa i trafna kategoria niż ogólne książki naukowe czy akcesoria biurowe."
+    },
+    {
+        "ID_Produktu": "243162411",
+        "Nazwa_Produktu": "Kwit Paletowy A5 100 kartek - Samokopiujący - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kwit paletowy, będący artykułem papierniczym i dokumentem do zarządzania paletami w kontekście biznesowym. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu."
     }
 ]
