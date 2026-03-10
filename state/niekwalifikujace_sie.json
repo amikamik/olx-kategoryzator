@@ -2928,5 +2928,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to ścierka uniwersalna marki Vileda Professional, a w opisie jest szczegółowo wyjaśniony system kodowania kolorami ściereczek do profesjonalnego utrzymania higieny w różnych obszarach, w tym 'odcień niebieski- dedykowany jest do mycia powierzchni, mebli i powierzchni biurowych'. To silnie wskazuje na zastosowanie profesjonalne/biurowe, dlatego 'Akcesoria i materiały biurowe' w kategorii 'Firma i Przemysł > Biuro' jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "243164877",
+        "Nazwa_Produktu": "UltraSpin Mini wymienny mop",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wkład do mopa marki Vileda Professional, co sugeruje zastosowanie profesjonalne, biznesowe lub przemysłowe, a nie typowo domowe. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący' najlepiej oddaje charakter produktu. Ponieważ nie ma bardziej szczegółowej kategorii dla mopów w tym drzewie, 'Pozostałe' w ramach 'Sprzętu czyszczącego' jest najodpowiedniejszym wyborem."
+    },
+    {
+        "ID_Produktu": "243164884",
+        "Nazwa_Produktu": "Zestaw UltraSpeed Mini Starter Kit",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Kamery > Kamery sportowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Koszyki i wózki",
+        "Finalne_ID_AI": 4673,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw do profesjonalnego sprzątania, w tym 'wózek sprzątający do mopa', przeznaczony do użytku w biurach, kawiarniach i sklepach. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Koszyki i wózki' jest najbardziej szczegółowa i trafna dla tego typu produktu, który jest mobilnym systemem do sprzątania."
+    },
+    {
+        "ID_Produktu": "243164903",
+        "Nazwa_Produktu": "Zestaw UltraSpin Mini - bez drążka",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Twarz > Pielęgnacja > Zestawy kosmetyków",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny zestaw do sprzątania (mop i wiadro) marki Vileda Professional, dedykowany do efektywnego czyszczenia, w tym w małych pomieszczeniach, kawiarniach i restauracjach. Najbardziej pasuje do kategorii 'Firma i Przemysł', a następnie 'Maszyny i urządzenia' oraz 'Sprzęt czyszczący'. Ponieważ nie ma bardziej szczegółowej kategorii dla ręcznych systemów mopujących, 'Pozostałe' jest najbardziej odpowiednią opcją na najgłębszym poziomie."
+    },
+    {
+        "ID_Produktu": "243164918",
+        "Nazwa_Produktu": "Miotła Eco miękka 30 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to miotła, narzędzie do zamiatania. Kategoria 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki' jest najbardziej szczegółową i precyzyjną opcją dla tego typu produktu, niezależnie od tego, czy jest przeznaczona do użytku wewnętrznego czy zewnętrznego."
+    },
+    {
+        "ID_Produktu": "243164926",
+        "Nazwa_Produktu": "Miotła Eco twarda 30 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na miotłę przeznaczoną do zamiatania, w tym do użytku zewnętrznego i na szorstkich powierzchniach. Najbardziej szczegółową i pasującą kategorią jest 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki', która jest kategorią-liściem i idealnie oddaje charakter produktu."
     }
 ]

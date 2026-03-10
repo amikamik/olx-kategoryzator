@@ -2335,5 +2335,76 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243164881",
+        "Nazwa_Produktu": "Wkład antybakteryjny SuperMop Ag niebieski",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to antybakteryjny wkład do mopa, który jest bezpośrednio związany ze sprzątaniem i higieną. Kategoria 'Supermarket > Środki czyszczące' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie produktu, mimo że jest to wkład, a nie płyn. Opis zawiera frazy 'profesjonalne środki czystości' i 'akcesoria do sprzątania', co dodatkowo potwierdza wybór. Kategoria 'Osprzęt do narzędzi' (z podpowiedzi) jest zbyt ogólna i zazwyczaj dotyczy narzędzi w kontekście budowlanym/majsterkowania, a nie akcesoriów do sprzątania.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Wkład antybakteryjny supermop ag niebieski",
+                "description": "Wkład antybakteryjny SuperMop Ag niebieski Wkład Antybakteryjny SuperMop Lepsze rezultaty czyszczenia Nowy, nowoczesny kształt oraz skutecznie działające zygzakowate krawędzie. Nasze testy dowiodły, że w porównaniu do mopów poprzedniej generacji nowy SuperMop Ag zbiera do 30% więcej luźnych zanieczyszczeń i jest o 5% bardzie chłonny oraz bardziej równomiernie uwalnia wodę, pozostawiając mniej smug na powierzchni i zapewniając szybsze i bardziej równomierne schnięcie. Niezależne testy potwierdzają , że Professional Supermop Ag i Supermop micro Ag cechują się znaczącym działaniem antybakteryjnym, ograniczając namnażanie się bakterii (działanie bakteriostatyczne) o 99,99%. Specyfikacja: Testowane przez niezależne instytucje , by zapewnić ograniczanie namnażania się bakterii Owalny kształt, łatwe czyszczenie rogów Bardzo wysoka odporność na działanie detergentów i wybielaczy Niskie tarcie , lekki nietkany materiał Wysoka chłonność w przypadku zbierania rozlanych cieczy Uwalniają płyny łatwo w trakcie wyżymania , dzięki czemu podłogi są bardziej suche i szybciej schnąć Kodowane kolorystycznie czterema kolorami, by unikać przenoszenia zanieczyszczeń. Mocowanie monoclick Także zostało udoskonalone , dzięki czemu zwiększyło stabilność mocowania mopa do kija o ponad 20% , przez co mop jest bezpiecznie przymocowany w trakcie mopowania. Usuwaj i zabijaj bakterie! Vileda Professional to ekspert jeśli chodzi o właściwości antybakteryjne jonów srebra oraz to, w jaki sposób te korzyści przekładają się na nasze produkty. Odpowiedni Kolor Wkładu W zależności od przeznaczenia powinno wybrać się odpowiedni kolor wkładu. Każda powierzchnia wymaga bowiem innego wkładu i innego środka myjącego lub dezynfekcyjnego. Dzięki temu zapobiega się uszkodzeniu powierzchni i uzyskuje pożądane rezultaty , ogólnie przyjęte zasady są następujące: odcień niebieski- dedykowany jest do mycia powierzchni, mebli i powierzchni biurowych żółty kolor stosowany do sprzątania umywalki , łazienki, kranów oraz ceramiki barwa zielona sprawdzi się w kuchni i obszarach spożywczych kolor czerwony znajdzie zastosowanie w toaletach , sanitariatach oraz do czyszczenia pisuarów Co to jest system kodowania kolorami? Takie kolorowe oznaczenia ułatwiają utrzymanie higieny i zapobiegają krzyżowemu skażeniu . Krzyżowe skażenie występuje, gdy bakterie, wirusy i inne zanieczyszczenia są przenoszone z jednego obszaru na inny za pomocą narzędzi do sprzątania. Dlaczego warto korzystać z systemu kodowania kolorami? Wprowadzenie kodowania kolorami dla narzędzi do sprzątania pomaga również zapobiegać pomyłkom i błędom w czasie sprzątania , co może prowadzić do marnowania czasu i zwiększenia kosztów. Przestrzeganie kolorowych oznaczeń zapewnia , że narzędzia są używane w odpowiednim miejscu, co prowadzi do bardziej skutecznego i efektywnego sprzątania. JAKOŚĆ VILEDA PROFESSIONAL Proszę zwrócić uwagę, iż oferowany produkt jest produktem z linii VILEDA PROFESSIONAL (kolor niebieski), różni się on większą trwałością oraz wytrzymałością od linii Vileda Consumer (kolor czerwony). mop antybakteryjny, wkład SuperMop Ag, Vileda Professional, system kodowania kolorami, higiena sprzątania, wkład wymienny, sprzątanie powierzchni biurowych, odporność na detergenty, niskie tarcie, wysoka chłonność, ochrona przed bakteriami, mop ze srebra, bezpieczeństwo sprzątania, system monoclick, wkład do mopa, profesjonalne środki czystości, mop paskowy, zbieranie zanieczyszczeń, ograniczanie namnażania bakterii, lekki materiał, szybkie schnięcie, wydajne czyszczenie, mopowanie, akcesoria do sprzątania, Vileda mop, mop a bakterie, eliminacja smug, mycie powierzchni, wysokiej jakości materiały, podwyższona trwałość, wkład niebieski, FHP Vileda dodatek, jonowa technologia srebra, skuteczność sprzątania, mop antybakteryjny profesjonalny, wkład wymienny SuperMop, kodowanie kolorów, profesjonalny mop, niskie koszty.\n\nProducent odpowiedzialny:\nFHP Vileda Sp. z o.o.\nPuławska 182, 02-670 Warszawa\nKontakt: biuro.pl[at]fhp-ww.com\n\n[DOFIRMY]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 35.14,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/42c36da9ca29b9f9c562474ff7851448.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/433da77bc58ab61c41d7db3452dd887e.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/cd098bed092ae631c67ac19d77283033.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/62bf9d93a633e6cc209efbcfb8511994.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/c51d88bb09cb11a16b1a93dce4f5fd08.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/4bd68fd7a1df7bcb6df926d51c10e055.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/4da378cf60d75fe9d9100ac453da2139.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/47ee33b588bd4b676b5c774a07fb6781.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Wysokość zdjęcia musi mieć conajmniej 100 px"
+                }
+            }
+        }
     }
 ]
