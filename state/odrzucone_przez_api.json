@@ -2547,5 +2547,66 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243165189",
+        "Nazwa_Produktu": "TENZI Glass 1L",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Folie i szkła ochronne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skoncentrowany płyn do mycia szyb, luster i innych powierzchni szklanych, co idealnie pasuje do kategorii 'Środki czyszczące' w ramach 'Dom i Ogród > Supermarket'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Tenzi glass 1l",
+                "description": "TENZI Glass 1L Koncentrat do mycia szyb, szkła, luster Profesjonalny skoncentrowany płyn do mycia szyb, luster, okien, szkła. Bardzo wydajny roztwór roboczy 1-1,5%. Preparat doskonale czyści szyby witryn sklepowych, lustra, oraz inne elementy szklane i szkliwione. Nie pozostawia smug, gwarantuje doskonałą przejrzystość. Idealny do metody czyszczenia zmywak + zbierak lub spryskiwacz + zbierak. Specyfikacja: Profesjonalny, skoncentrowany płyn do mycia szyb, luster, okien, szkła. Bardzo wydajny roztwór roboczy 1-1,5% Nie pozostawia smug Gwarantuje doskonałą przejrzystość Pojemność - 1L Waga z opakowaniem - 1,02 kg Opakowanie - plastikowa butelka pH - 8 Symbol - S-01 Zastosowanie: Szyby samochodowe Szyby witryn sklepowych Szkło Ramy okienne Lustra SPOSÓB UŻYCIA: Sporządzić roztwór: 100-150 ml/ 10 l wody. Czyścić metodą przemysłową (zmywak + zbierak lub spryskiwacz + zbierak) Lepsze efekty uzyskujemy stosując wodę zdemineralizowaną. TENZI Glass, płyn do mycia szyb, koncentrat, profesjonalny środek czyszczący, mycie okien, czyszczenie szkła, bez smug, przejrzystość, lustra, szyby samochodowe, witryny sklepowe, ramy okienne, metoda czyszczenia przemysłowego, zmywak i zbierak, spryskiwacz i zbierak, wydajny roztwór, ekonomiczny, łatwe czyszczenie, specjalistyczny środek, doskonała wydajność, konserwacja szyb, powierzchnie szklane, profesjonalne zastosowanie, TENZI, nowoczesne czyszczenie, wysokiej jakości produkty czyszczące, roztwór roboczy, producent TENZI, polska marka, Skarbimierzyce, Dołuje, mycie luster, płyn do szkła, czyszczenie bez osadu, specyfika produktu, opcje pakowania, pH neutralne, oryginalne opakowanie, zastosowanie przemysłowe, wysokiej klasy detergent, czystość i blask, skuteczne usuwanie zabrudzeń.\n\nProducent odpowiedzialny:\nTenzi Sp. z o.o.\nSkarbimierzyce 20, 72-002 Dołuje\nKontakt: kontakt[at]tenzi.pl\n\n[DOFIRMY]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/d2c3abef2e4980bf369bf4500a2ec3d3.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11bf95/11c385194f5f9fe9313b87ccbfcc"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

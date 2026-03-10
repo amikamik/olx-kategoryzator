@@ -3058,5 +3058,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to aktywna piana do mycia samochodów, czyli środek chemiczny do pielęgnacji pojazdów. Najlepiej pasuje do kategorii 'Motoryzacja' > 'Wyposażenie i akcesoria samochodowe'. Ponieważ nie ma bardziej szczegółowej podkategorii dla chemii do czyszczenia samochodów, 'Pozostałe' w tej gałęzi jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "243165162",
+        "Nazwa_Produktu": "T-shirt Unisex STEDMAN Czarny ST2000_BLOXL",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > T-shirty i podkoszulki > T-shirty",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > T-shirty i podkoszulki > T-shirty",
+        "Finalne_ID_AI": 2632,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to T-shirt, a nazwa i opis jasno wskazują na odzież. Mimo, że produkt jest typu unisex, drzewo kategorii nie oferuje dedykowanej gałęzi 'Unisex'. Zgodnie ze wskazówką OLX, kategoria 'Moda > Ubrania męskie > T-shirty i podkoszulki > T-shirty' jest najlepszym i najbardziej szczegółowym dopasowaniem, a platforma często preferuje jedną z kategorii płciowych dla produktów unisex, jeśli brak jest bardziej ogólnej kategorii na głębokim poziomie."
+    },
+    {
+        "ID_Produktu": "243165167",
+        "Nazwa_Produktu": "T-shirt Unisex STEDMAN Czarny ST2000_BLOM",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > T-shirty i podkoszulki > T-shirty",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > T-shirty i podkoszulki > T-shirty",
+        "Finalne_ID_AI": 2632,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to T-shirt, który jest opisany jako unisex, czyli odpowiedni zarówno dla mężczyzn, jak i kobiet. Najbardziej szczegółowa kategoria to 'T-shirty' znajdująca się zarówno pod 'Ubrania damskie' jak i 'Ubrania męskie'. Zgodnie ze wskazówką od systemu OLX, preferowana jest ścieżka 'Moda > Ubrania męskie > T-shirty i podkoszulki > T-shirty'."
+    },
+    {
+        "ID_Produktu": "243165173",
+        "Nazwa_Produktu": "T-shirt Unisex STEDMAN Czarny ST2000_BLOL",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania męskie > T-shirty i podkoszulki > T-shirty",
+        "Finalna_Sciezka_AI": "Moda > Ubrania męskie > T-shirty i podkoszulki > T-shirty",
+        "Finalne_ID_AI": 2632,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to T-shirt, a ponieważ jest uniwersalny (unisex), a system OLX.pl zazwyczaj preferuje kategoryzację unisex w jednej z płci, a wskazówka od systemu wskazuje na 'Ubrania męskie', wybieram najbardziej szczegółową kategorię dla T-shirtów męskich."
+    },
+    {
+        "ID_Produktu": "243165194",
+        "Nazwa_Produktu": "Zestaw UltraSpin Mini + Kij Mini teleskopowy UltraSpeed / UltraSpin",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny zestaw sprzątający (wiadro + mop), przeznaczony do efektywnego czyszczenia, w tym w kawiarniach i restauracjach, co wskazuje na zastosowanie komercyjne/przemysłowe. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' jest najbardziej szczegółową i adekwatną dla tego typu sprzętu, który nie jest konkretną maszyną z innych podkategorii, ale jest częścią sprzętu czyszczącego do zastosowań profesjonalnych."
     }
 ]
