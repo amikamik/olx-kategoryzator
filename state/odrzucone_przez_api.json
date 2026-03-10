@@ -1798,5 +1798,253 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243164446",
+        "Nazwa_Produktu": "Czapka z latarką NEO",
+        "Poczatkowa_Sciezka_OLX": "Moda > Czapki i kapelusze > Czapki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Odzież robocza > Odzież > Czapki",
+        "Finalne_ID_AI": 4911,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako \"czapka robocza\" z wbudowaną latarką LED, przeznaczona do użytku podczas pracy, co idealnie pasuje do kategorii \"Czapki\" w dziale \"Odzież robocza\" pod \"Firma i Przemysł\".",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Czapka z latarką neo",
+                "description": "Czapka Zimowa Z Latarką Led USB Czapka z latarką NEO Zapewnia światło podczas pracy pozostawiając wolne ręce. Wyposażona w mocne światło LED Daje możliwość regulacji natężenia mocy światła na trzech różnych poziomach (100%, 75%, 50%) Latarka odporna jest na rozbryzgi wody Ładowanie przez USB umożliwia szybkie i łatwe naładowanie baterii Specyfikacja: Waga: 0.14 kg Marka: NEO TOOLS Tryby pracy: 100%, 75%, 50% Ładowanie przez port USB: Tak Rozmiar odzieży: Uniwersalny Rodzaj odzieży roboczej: Czapka Certyfikat CE: Tak Wykonanie zgodne z normą: EN ISO 13688:2013 Typ źródła światła: Dioda LED Skład materiału: 100% akryl Kolor: Czarny Stopień ochrony: IP43 Materiał wykonania produktu: Akryl Wodoodporna: Tak Stopień ochrony latarki IP43 - odporność na rozbryzgi wody pod dowolnym kątem do 60 od pionu z każdej strony Daje możliwość regulacji natężenia mocy światła na trzech różnych poziomach (100%, 75%, 50%) Ładowanie przez USB umożliwia szybkie i łatwe naładowanie baterii czapka zimowa z latarką, czapka z latarką LED, latarka LED USB, NEO Tools, czapka robocza, latarka odporna na wodę, IP43, regulacja natężenia światła, dioda LED, wbudowana latarka, ładowanie przez USB, czapka akrylowa, czarna czapka z latarką, EN ISO 13688:2013, wyposażenie robocze, akcesoria robocze, odzież ochronna, odzież zimowa, uniwersalny rozmiar, czapka z latarką USB, latarka na czapce, czapka na zimę, certyfikat CE, akcesoria z latarką, oświetlenie LED, ręce wolne podczas pracy, wodoodporna latarka, czapka z wbudowaną latarką, latarka do pracy, bezpieczne zakupy online, sklep z odzieżą roboczą, wygodna czapka z latarką, akryl 100%, ochrona przed wodą, czapka dla pracowników, światło LED na głowę, funkcjonalna czapka z latarką, czapka zimowa LED, NEO czapka z latarką, czapka odporna na wilgoć, latarka z regulacją mocy, oświetlenie robocze LED, czapka ledowa USB.\n\n[dofirmy-n]",
+                "category_id": 4911,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 58.97,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/bfe5e9c3cd62fb008803cf33f15aae7d.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/984fe2ca90d9bbca9833c9da0e3be0bd.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/2efdd96c292d04243c608ebbdf3d7e85.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/795b5cf6b857a3278e257421d3315d83.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/86364d3c619da02352daf9ecf75bc1a5.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/218c6afed86724a197e1260687ff811f.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/4b6e357a8e1b366fc9341a55a9e6aaee.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/6f56f2d5ed0b46cc0ca1f93ebed12b76.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Wysokość zdjęcia musi mieć conajmniej 100 px"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "243164452",
+        "Nazwa_Produktu": "Klej Cyjanoakrylowy HYSOFIX 701 - 20g",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Kleje",
+        "Finalne_ID_AI": 4702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to klej cyjanoakrylowy, który jest substancją chemiczną używaną do łączenia różnych materiałów, takich jak metal, drewno, szkło, ceramika. Kategoria 'Dom i Ogród > Budowa > Chemia budowlana > Kleje' jest najbardziej szczegółową i precyzyjną kategorią-liściem, która opisuje ten rodzaj produktu, pomimo że klej może mieć również zastosowanie przemysłowe. Pasuje do zakresu 'Chemii budowlanej'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Klej cyjanoakrylowy hysofix 701 - 20g",
+                "description": "Klej Cyjanoakrylowy HYSOFIX 701 - 20g HYSOFIX 701 To klej nowej generacji o potrójnej destylacji. Adhezyjny na bazie metylocjanoakrylu modyfikowanego przeznaczony do łączenia szerokiej grupy materiałów: metal , drewno, porcelana , szkło, ceramika , guma, PVC (klejenie plandek, bannerów) i inne tworzywa oraz kombinacje tych materiałów. Klej szczególnie odpowiedni do łączenia małych części. Klej wykazuje dobrą odporność na zmęczenie, bardzo wysoką wytrzymałość na ścinanie i rozciąganie. Jak poprawnie użyć kleju? Części klejone należy szybko łączyć, ponieważ czas przydatności kleju do użycia jest bardzo krótki. Wilgotność powietrza wystarcza na ogół do zainicjowania utwardzania w kilka sekund i uzyskania wytrzymałości ręcznej (pełna wytrzymałość mechaniczna i odporność chemiczna osiągana jest dopiero po 24h). Najlepsze wyniki uzyskuje się przy wilgotności względnej powietrza 40-60%. Dla przyspieszenia procesu polimeryzacji i utwardzenia należy stosować aktywatory. Duży wpływ na szybkość utwardzania ma również wielkość szczeliny (im większa szczelina tym klej zastyga wolniej) oraz rodzaj klejonych materiałów. Czas wiązania PCV 2-15 żywice fenolowe 10-20 polimery ABS 5-10 stal 10-20 aluminium 5-15 cynk 30-90 guma chloroprenowa lub nitrylowa 10 Typowe własności prod. nieutwardzonego Typ chemiczny: modyfikowany etylocyjanoakryl Kolor: bezbarwny Lepkość: 100-150 [mPa.s] przy 20C Ciężar właściwy: 1,05 [g/ml] przy 20C Temperatura zapłonu (ISO 2592): 80C Zawartość rozpuszczalników: brak Magazynowanie: do 12 miesięcy w 8-28C Własności produktu utwardzonego (po 24h) Szczelina złącza [m]: 10-100 Wytrzymałość na rozciąganie [N/mm2]: 22-25 Wytrzymałość na śćianie [N/mm2]: 13-22 Udarność [Nxmm/mm2]: 13-18 Zakres temp. pracy: - 50 +90C Temp. mięknięcia +160/170C Współcz. refrakcji [nd20]: podobny do szkła Opór właściwy [ x mm]: 10 Napięcie przebicia [kV/mm]: 12-13 Stałą dielektryczna [1MHz]: 5,2 Przygotowanie: Elementy łączone należy dokładnie oczyścić z resztek starego kleju i dobrze odtłuścić, najlepiej zmywaczem REINIGER. Klej HYSOFIX 701 należy nanosić oszczędnie na jedną z klejonych powierzchni i szybko docisnąć spajane części . W przypadku klejenia tworzyw nie sklejalnych (poliolefin) należy powierzchnię tworzywa aktywować produktem AKTYWATOR C. Sam klej można aktywować produktem AKTYWATOR C , który przyspiesza działanie kleju i utwardza jego nadmiar. Aktywatorem zwilżamy klej w złączu lub zwilżamy powierzchnie złącza przed klejeniem i po przeschnięciu dokonujemy sklejenia. Czynność aktywacji można wielokrotnie powtarzać nanosząc kolejne warstwy kleju. W ten sposób można uzyskać grubą spoinę (tak jak w przypadku żywic epoksydowych) o dużej twardości, wytrzymałości mechanicznej oraz bardzo krótkim czasie wiązania. Nie poleca się stosowania tego produktu do urządzeń z czystym tlenem, chlorem lub innymi silnie utleniającymi się substancjami. Klej cyjanoakrylowy, klej błyskawiczny, HYSOFIX 701, spoiny o dużej twardości, wytrzymałość mechaniczna, klej do metali, klej do drewna, klej do ceramiki, klej do szkła, klej do gumy, klej do PVC, klej przemysłowy, klej do małych części, odporność na ścinanie, odporność na rozciąganie, krótki czas wiązania, aktywator kleju, REINIGER, polimeryzacja, klejenie w kilka sekund, adhezyjny klej, etylocyjanoakryl, kolor bezbarwny, wysoka lepkość, temperatura zapłonu, brak rozpuszczalników, wysoka odporność chemiczna, odporność termiczna, klejenie plandek, klejenie bannerów, klejenie poliolefin, szybkie łączenie, pełna wytrzymałość po 24h, wilgotność względna, narzędzia montażowe, Lepro Innovation GmbH, Hohenbrunn, ręczna wytrzymałość.\n\nProducent odpowiedzialny:\nLepro Innovation GmbH\nErnstHeinkelRing 57, 85662 Hohenbrunn\nNiemcy\nKontakt: cs[at]lepro.de\n\n[DOFIRMY]",
+                "category_id": 4702,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 37.86,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/635e15224b61d434f708d32fe6bbebfc.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/112fa1/3de3f1bf4526b5558d9684d8111c"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "243164454",
+        "Nazwa_Produktu": "Klej Cyjanoakrylowy HYSOFIX 701 - 50g",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Kleje",
+        "Finalne_ID_AI": 4702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klej cyjanoakrylowy, który jest chemią budowlaną i ma szerokie zastosowanie w łączeniu różnorodnych materiałów. Kategoria 'Dom i Ogród > Budowa > Chemia budowlana > Kleje' jest najbardziej szczegółowa i precyzyjnie opisuje charakter produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Klej cyjanoakrylowy hysofix 701 - 50g",
+                "description": "Klej Cyjanoakrylowy HYSOFIX 701 - 50g HYSOFIX 701 To klej nowej generacji o potrójnej destylacji. Adhezyjny na bazie metylocjanoakrylu modyfikowanego przeznaczony do łączenia szerokiej grupy materiałów: metal , drewno, porcelana , szkło, ceramika , guma, korek , papier, kamień , PVC (klejenie plandek, bannerów) i inne tworzywa oraz kombinacje tych materiałów. Klej szczególnie odpowiedni do łączenia małych części. Klej wykazuje dobrą odporność na zmęczenie, bardzo wysoką wytrzymałość na ścinanie i rozciąganie Jak poprawnie użyć kleju? Części klejone należy szybko łączyć, ponieważ czas przydatności kleju do użycia jest bardzo krótki. Wilgotność powietrza wystarcza na ogół do zainicjowania utwardzania w kilka sekund i uzyskania wytrzymałości ręcznej (pełna wytrzymałość mechaniczna i odporność chemiczna osiągana jest dopiero po 24h). Najlepsze wyniki uzyskuje się przy wilgotności względnej powietrza 40-60%. Dla przyspieszenia procesu polimeryzacji i utwardzenia należy stosować aktywatory. Duży wpływ na szybkość utwardzania ma również wielkość szczeliny (im większa szczelina tym klej zastyga wolniej) oraz rodzaj klejonych materiałów. Czas wiązania PCV 2-15 żywice fenolowe 10-20 polimery ABS 5-10 stal 10-20 aluminium 5-15 cynk 30-90 guma chloroprenowa lub nitrylowa 10 Typowe własności prod. nieutwardzonego Typ chemiczny: modyfikowany etylocyjanoakryl Kolor: bezbarwny Lepkość: 100-150 [mPa.s] przy 20C Ciężar właściwy: 1,05 [g/ml] przy 20C Temperatura zapłonu (ISO 2592): 80C Zawartość rozpuszczalników: brak Magazynowanie: do 12 miesięcy w 8-28C Własności produktu utwardzonego (po 24h) Szczelina złącza [m]: 10-100 Wytrzymałość na rozciąganie [N/mm2]: 22-25 Wytrzymałość na śćianie [N/mm2]: 13-22 Udarność [Nxmm/mm2]: 13-18 Zakres temp. pracy: - 50 +90C Temp. mięknięcia +160/170C Współcz. refrakcji [nd20]: podobny do szkła Opór właściwy [ x mm]: 10 Napięcie przebicia [kV/mm]: 12-13 Stałą dielektryczna [1MHz]: 5,2 Przygotowanie: Elementy łączone należy dokładnie oczyścić z resztek starego kleju i dobrze odtłuścić, najlepiej zmywaczem REINIGER. Klej HYSOFIX 701 należy nanosić oszczędnie na jedną z klejonych powierzchni i szybko docisnąć spajane części . W przypadku klejenia tworzyw nie sklejalnych (poliolefin) należy powierzchnię tworzywa aktywować produktem AKTYWATOR C. Sam klej można aktywować produktem AKTYWATOR C , który przyspiesza działanie kleju i utwardza jego nadmiar. Aktywatorem zwilżamy klej w złączu lub zwilżamy powierzchnie złącza przed klejeniem i po przeschnięciu dokonujemy sklejenia. Czynność aktywacji można wielokrotnie powtarzać nanosząc kolejne warstwy kleju. W ten sposób można uzyskać grubą spoinę (tak jak w przypadku żywic epoksydowych) o dużej twardości, wytrzymałości mechanicznej oraz bardzo krótkim czasie wiązania. Nie poleca się stosowania tego produktu do urządzeń z czystym tlenem, chlorem lub innymi silnie utleniającymi się substancjami. Klej cyjanoakrylowy, HYSOFIX 701, klej szybkoschnący, klej przemysłowy, klej do metalu, klej do drewna, klej do ceramiki, klej do gumy, klej do szkła, klej do porcelany, klej do PVC, klej do kamienia, mocny klej, klej o wysokiej wytrzymałości, klej do małych części, klej uniwersalny, klej wielozadaniowy, klej bezbarwny, HYSOFIX klej, klej nowej generacji, klej o potrójnej destylacji, klej adhezyjny, klej metylocjanoakrylowy, praca przy wilgotności powietrza, aktywatory do kleju, czas wiązania kleju, wysoka odporność na zmęczenie, wytrzymałość na ścinanie i rozciąganie, klej o dużej twardości, szybkie łączenie, aktywator C, klej do tworzyw sztucznych, klejenie plandek, klejenie tamburetków, precyzyjne klejenie, magazynowanie kleju, właściwości kleju, klej odporny na temperatury, klej przemysłowy, klej do precyzyjnych zastosowań\n\nProducent odpowiedzialny:\nLepro Innovation GmbH\nErnstHeinkelRing 57, 85662 Hohenbrunn\nNiemcy\nKontakt: cs[at]lepro.de\n\n[DOFIRMY]",
+                "category_id": 4702,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 43.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/943393dc76a87b3e25b58d578d7e4c94.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/119639/2a06cded4e60982f909e9ef4f929"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/1160c5/4133ed604286935c35e853418fe6"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/111975/b16085cf49289bcf49195e47edb8"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11e7be/dc47cf224bbc915b9753e6c884d5"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/110774/6f91351743fbb0b20164a1225e72"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "243164457",
+        "Nazwa_Produktu": "Klej Cyjanoakrylowy HYSOFIX 706 - 20g",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Kleje",
+        "Finalne_ID_AI": 4702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klej cyjanoakrylowy, którego opis wyraźnie wskazuje na zastosowanie w łączeniu różnorodnych materiałów, w tym metalu, drewna, ceramiki, PVC, co doskonale pasuje do kategorii 'Chemia budowlana > Kleje'. Jest to kategoria liść i najbardziej szczegółowa dla tego typu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Klej cyjanoakrylowy hysofix 706 - 20g",
+                "description": "Klej Cyjanoakrylowy HYSOFIX 706 - 20g HYSOFIX 706 To klej nowej generacji o potrójnej destylacji. Adhezyjny na bazie metylocjanoakrylu modyfikowanego przeznaczony do łączenia szerokiej grupy materiałów: metal , drewno, porcelana , szkło, ceramika , guma, PVC (klejenie plandek, bannerów) i inne tworzywa oraz kombinacje tych materiałów. Klej szczególnie odpowiedni do łączenia małych części. Klej wykazuje dobrą odporność na zmęczenie, bardzo wysoką wytrzymałość na ścinanie i rozciąganie. Jak poprawnie użyć kleju? Części klejone należy szybko łączyć, ponieważ czas przydatności kleju do użycia jest bardzo krótki. Wilgotność powietrza wystarcza na ogół do zainicjowania utwardzania w kilka sekund i uzyskania wytrzymałości ręcznej (pełna wytrzymałość mechaniczna i odporność chemiczna osiągana jest dopiero po 24h). Najlepsze wyniki uzyskuje się przy wilgotności względnej powietrza 40-60%. Dla przyspieszenia procesu polimeryzacji i utwardzenia należy stosować aktywatory. Duży wpływ na szybkość utwardzania ma również wielkość szczeliny (im większa szczelina tym klej zastyga wolniej) oraz rodzaj klejonych materiałów. Czas wiązania Guma Chloroprenowa i nitrylowa: 5...15 Guma rozciągliwa: 2...5 EPDM: 5 Tworzywa sztuczne PVC: 2...10 Żywice fenelowe: 5...15 Polimery ABS: 2...6 Metale Stal, Aluminium, Cynk: 6...30 Własności fizyczne Barwa: przeźroczysty Lepkość: 20..40 [mPa s] Gęstość: 1,05 [g/cm3] (25) Max. szczelina wypełnienia: 0,05 [mm] Punkt zapłonu (ISO2592): 85 [C] Czas przechowywania: 12 miesięcy 10 [C] Szybkość klejenia z aktyw. 3 [sekund] Szybkość klejenia bez aktyw. 5..40 [sekund] Własności klejące Wytrzymałość na rozciąganie: 5..26[N/mm2] Wytrzymałość na ścinanie: 11..19[N/mm2] Udarność : 15...20[N mm/mm2] Max. temperatura pracy: -50[C] + 80[C] Temperatura mięknięcia: 160[C] ... 170[C] Oporność elektryczna: 10 [mm] Wytrzymałość dielektryczna: 25 [kV mm] Przygotowywanie: Elementy łączone należy dokładnie oczyścić z resztek starego kleju i dobrze odtłuścić , najlepiej zmywaczem REINIGER. Klej HYSOFIX 706 należy nanosić oszczędnie na jedną z klejonych powierzchni i szybko docisnąć spajane części . W przypadku klejenia tworzyw nie sklejalnych (poliolefin) należy powierzchnię tworzywa aktywować produktem AKTYWATOR C. Sam klej można aktywować produktem AKTYWATOR C, który przyśpiesza działanie kleju i utwardza jego nadmiar. Aktywatorem zwilżamy klej w złączu lub zwilżamy powierzchnie złącza przed klejeniem i po przeschnięciu dokonujemy sklejenia. Czynność aktywacji można wielokrotnie powtarzać nanosząc kolejne warstwy kleju. W ten sposób można uzyskać grubą spoinę (tak jak w przypadku żywic epoksydowych) o dużej twardości, wytrzymałości mechanicznej oraz bardzo krótkim czasie wiązania. Nie poleca się stosowania tego produktu do urządzeń z czystym tlenem, chlorem lub innymi silnie utleniającymi się substancjami. klej cyjanoakrylowy, HYSOFIX 706, klej szybkoschnący, klej bezbarwny, klej do metali, klej do drewna, klej do ceramiki, klej do szkła, klej do gumy, klej do PVC, klej przemysłowy, klej wysoka odporność, klej wysoka wytrzymałość, klej szybkie wiązanie, klej dla profesjonalistów, klej do małych części, klej do plandek, klej do bannerów, klej do różnych materiałów, klej potrójnie destylowany, klej adhezyjny, metylocjanoakryl, klej wilgotność, klej aktywatory, klej polimeryzacja, klej utwardzanie, REINIGER, AKTYWATOR C, klej temperatura pracy, klej elektryczna izolacja, klej opakowanie 20g, klej odtłuszczanie, klej Niemcy, Lepro Innovation GmbH, Hohenbrunn, Ernst-Heinkel-Ring\n\nProducent odpowiedzialny:\nLepro Innovation GmbH\nErnstHeinkelRing 57, 85662 Hohenbrunn\nNiemcy\nKontakt: cs[at]lepro.de\n\n[DOFIRMY]",
+                "category_id": 4702,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 36.05,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/ee566ad69182b11387c356fd7df0fbac.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11c88b/ea40e6764abda0b54a28ccaa0f11"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

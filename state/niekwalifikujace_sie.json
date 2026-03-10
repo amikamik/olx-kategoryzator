@@ -2778,5 +2778,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to zestaw wkrętaków, które są narzędziami ręcznymi. Najbardziej szczegółowa i pasująca kategoria to 'Zestawy narzędzi' w ramach 'Dom i Orod > Narzędzia', co jest zgodne z tytułem i opisem produktu."
+    },
+    {
+        "ID_Produktu": "243164400",
+        "Nazwa_Produktu": "Zestaw Naprawczy Do Łatania Plandek 220x10cm PRZEŹROCZYSTY",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to „Zestaw Naprawczy”, który w swojej nazwie i zawartości (papier ścierny, nożyk) wyraźnie wskazuje na charakter zestawu narzędziowego do wykonywania napraw. Kategoria „Zestawy narzędzi” jest najbardziej precyzyjna, ponieważ produkt jest kompletnym zestawem do konkretnego zadania, a nie pojedynczym narzędziem. Zastosowanie (naprawa plandek na naczepach, przyczepach, łodziach, banerach) jest szerokie i nie ogranicza się wyłącznie do motoryzacji, co czyni ogólną kategorię narzędzi lepszym wyborem. Podpowiedź systemowa również kieruje do gałęzi „Dom i Ogród > Narzędzia”."
+    },
+    {
+        "ID_Produktu": "243164416",
+        "Nazwa_Produktu": "Rolka Po Folii Stretch",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tuba papierowa po folii stretch, przeznaczona do zastosowań przemysłowych, hurtowych, logistycznych i magazynowych, związanych z pakowaniem towarów. Najlepiej pasuje do ogólnej kategorii 'Firma i Przemysł', a następnie do bardziej szczegółowej 'Sklepy i magazyny'. Ponieważ nie ma bardziej specyficznej podkategorii dla tego typu produktu (np. materiały opakowaniowe), wybrana została kategoria 'Pozostałe' na najgłębszym poziomie. Wskazówka systemowa ('Dom i Ogród > Narzędzia > Osprzęt do narzędzi') jest nieadekwatna."
+    },
+    {
+        "ID_Produktu": "243164421",
+        "Nazwa_Produktu": "Rolka Po Folii Stretch - 10 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to tuby papierowe po folii stretch, opisane jako 'akcesoria do pakowania', 'rolki kartonowe' i 'artykuły biurowe'/'osprzęt biurowy'. Najbardziej szczegółową i pasującą kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', która idealnie oddaje przeznaczenie i charakter produktu jako materiału biurowego/firmowego do pakowania."
     }
 ]
