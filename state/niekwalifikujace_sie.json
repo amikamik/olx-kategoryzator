@@ -5208,5 +5208,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest głowicą tnącą (akcesorium) do kosy spalinowej/trymera. W strukturze OLX akcesoria i części do maszyn tnących trawę (kosiarek i kos) znajdują się w kategorii Dom i Ogród > Ogród > Kosiarki > Akcesoria i części."
+    },
+    {
+        "ID_Produktu": "242636375",
+        "Nazwa_Produktu": "Torbka sanitarna woreczek do przechowywania damski",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mały woreczek (13x13 cm) wykonany z bawełny, przeznaczony do dyskretnego przechowywania artykułów higienicznych (wkładek/podpasek). W strukturze OLX małe organizery i saszetki na przybory osobiste najlepiej pasują do kategorii 'Kosmetyczki' w dziale Moda > Akcesoria."
+    },
+    {
+        "ID_Produktu": "242636377",
+        "Nazwa_Produktu": "Wieszak na Spodnie Organizer do Szafy 3szt Zestaw",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw specjalistycznych wieszaków na spodnie służących do organizacji szafy. W strukturze OLX kategoria 'Wieszaki' (ID: 1948) pod sekcją 'Meble' jest najbardziej specyficznym i standardowym miejscem dla tego rodzaju akcesoriów domowych."
     }
 ]
