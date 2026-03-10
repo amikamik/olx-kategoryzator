@@ -3038,5 +3038,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to profesjonalna ściereczka czyszcząca Vileda Professional, wykonana z recyklingu, przeznaczona do utrzymania wysokiej higieny w obszarach wysokiego ryzyka, w tym w biurach. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', ponieważ ściereczka służy do profesjonalnego utrzymania czystości w biurach i może być traktowana jako materiał biurowy."
+    },
+    {
+        "ID_Produktu": "243165072",
+        "Nazwa_Produktu": "Dustmop uchwyt metalowy do mopa 60 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to metalowy uchwyt do mopa marki Vileda Professional, co wskazuje na jego przeznaczenie do użytku komercyjnego lub w firmach. Kategoria 'Firma i Przemysł' jest odpowiednia ze względu na aspekt profesjonalny produktu. Następnie, 'Sprzęt czyszczący' bezpośrednio odnosi się do funkcji mopa i jego uchwytu. Ponieważ uchwyt nie pasuje do bardziej szczegółowych podkategorii (np. odkurzacze, szorowarki), najbardziej precyzyjną kategorią-liściem jest 'Pozostałe' w ramach 'Sprzęt czyszczący'."
+    },
+    {
+        "ID_Produktu": "243165096",
+        "Nazwa_Produktu": "TENZI NEUTRAL MAGIC FOAM PINK 1L",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Etui",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to aktywna piana do mycia samochodów, czyli środek chemiczny do pielęgnacji pojazdów. Najlepiej pasuje do kategorii 'Motoryzacja' > 'Wyposażenie i akcesoria samochodowe'. Ponieważ nie ma bardziej szczegółowej podkategorii dla chemii do czyszczenia samochodów, 'Pozostałe' w tej gałęzi jest najbardziej precyzyjnym wyborem."
     }
 ]

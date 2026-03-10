@@ -2406,5 +2406,146 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243165067",
+        "Nazwa_Produktu": "Kij do SuperMop",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty zimowe > Osprzęt",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kij do mopa, który jest narzędziem ręcznym przeznaczonym do sprzątania. Pasuje idealnie do kategorii 'Narzędzia ręczne' w gałęzi 'Dom i Ogród > Narzędzia', pomimo zastosowania profesjonalnego, ponieważ jest to nadal proste narzędzie obsługiwane ręcznie, a nie maszyna czy urządzenie przemysłowe. Kategoria 'Narzędzia ręczne' jest najbardziej szczegółowa i trafna dla tego typu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Kij do supermop",
+                "description": "Kij do SuperMop Wytrzymały 140 cm Ergonomiczny kij o długości 140 cm Vileda Professional opracowała ergonomiczne, łatwe w użyciu kije aluminiowe o doskonałym działaniu, by uprościć pracę personelu sprzątającego. Lekki kij oraz ergonomiczny kształt z zaokrągloną końcówką. Zapewnia wygodny i pewny chwyt. Typowo stosowany z uchwytem do mopa SuperMop Specyfikacja: Długi kij stalowy wygodny w użyciu i łatwy do czyszczenia Zaokrąglony, przyjemny w dotyku uchwyt Długość - 140 cm Wytrzymała, lekka konstrukcja stalowa Polecamy! Jeśli więc szukasz wysokiej jakości kija, który pomoże Ci utrzymać Twój dom lub biuro w czystości , to oferta na aukcji allegro jest doskonałym wyborem dla Ciebie! JAKOŚĆ VILEDA PROFESSIONAL Proszę zwrócić uwagę, iż oferowany produkt jest produktem z linii VILEDA PROFESSIONAL (kolor niebieski), różni się on większą trwałością oraz wytrzymałością od linii Vileda Consumer (kolor czerwony). Kij do SuperMop, kij aluminiowy, kij 140 cm, Vileda Professional, ergonomiczny kij, czyszczenie podłóg, narzędzia sprzątające, kij lekki, uchwyt do mopa, kij wytrzymały, czyszczenie domu, czyszczenie biura, Vileda, kij stalowy, profesjonalny kij, mop Vileda, sprzątanie, narzędzia do czyszczenia, akcesoria do sprzątania, kij do mopa, kij dla personelu sprzątającego, jakosć Vileda Professional, oferta allegro, produkt wysokiej jakości, wytrzymały kij, czyszczenie powierzchni, kij ergonomiczny, uchwyt zaokrąglony, czyszczenie powierzchni, kij ze stali, Vileda Consumer, oferta online, kij srebrny, nowy kij, stan nowy, marka Vileda, typ uniwersalny, kij do miotły, akcesoria do podłóg, mop, kij do mopa Vileda, miotły, konserwacja podłóg, sklep online, kij do sprzątania, gospodarstwo domowe, profesjonalne sprzątanie, kij do mopa supermop, miotła, mop do podłogi.\n\nProducent odpowiedzialny:\nFHP Vileda Sp. z o.o.\nPuławska 182, 02-670 Warszawa\nKontakt: biuro.pl[at]fhp-ww.com\n\n[DOFIRMY]",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 36.05,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/e803c1a0db2304aee20e487095faaa26.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/6dde64cd82e8c1ddc49ddc64aefb4f1b.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/d9891bf2374b046ff58afe378d08702c.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11b83c/a497ba16468eab4b354c90e7d819"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11f603/318b3f8b4f45b8c92704035daa75"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "243165075",
+        "Nazwa_Produktu": "Akrylowy wkład do zamiatania 60 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Pozostałe",
+        "Finalne_ID_AI": 4367,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to akrylowy wkład do zamiatania, będący akcesorium do mopa, używany do sprzątania podłóg. Kategoria 'Dom i Ogród' jest odpowiednia na najwyższym poziomie. Spośród dostępnych podkategorii, 'Supermarket' zawiera szeroki asortyment produktów gospodarstwa domowego, w tym artykuły do sprzątania. Wobec braku bardziej szczegółowej kategorii dla akcesoriów do mopów, 'Pozostałe' pod 'Supermarket' jest najbardziej adekwatnym wyborem, gdyż odzwierciedla ogólne przeznaczenie produktu jako artykułu do użytku domowego, kupowanego często w supermarketach.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Akrylowy wkład do zamiatania 60 cm",
+                "description": "Akrylowy wkład do zamiatania 60 cm Akrylowy wkład do mopa! Trwały mop do zamiatania wykonany z włókien akrylowych dla uzyskania efektu elektrostatycznego przyciągania kurzu bez konieczności stosowania kosztownej i potencjalnie niebezpiecznej obróbki mopa do zamiatania. Wykonany z włókien poliestrowych z obszyciem PES, wyposażony w kieszenie, do składanego uchwytu na mopa. Specyfikacja: Nasz wkład do zamiatania wykonany jest z trwałego i odpornego na zużycie akrylu , który gwarantuje długotrwałe użytkowanie. Akrylowe włosie doskonale zbiera kurz, włosy, sierść zwierząt oraz inne drobne zanieczyszczenia , zapewniając efektywną i dokładną pracę. Dzięk i prostemu systemowi mocowania , wymiana zużytego wkładu na nowy jest dziecinnie prosta i nie wymaga żadnych narzędzi. Nasz akrylowy wkład do zamiatania został zaprojektowany tak , aby minimalizować wysiłek podczas sprzątania, co czyni go idealnym dla każdego , niezależnie od wieku czy kondycji fizycznej. Wykonany z włókien akrylowych dla uzyskania efektu elektrostatycznego przyciągania kurzu Do stosowania na wszystkich typach posadzek Doskonały do zamiatania kurzu Zakup a sam się przekonasz! Zakup naszego akrylowego wkładu do zamiatania to inwestycja w czystość i porządek Twojego domu. Nie przegap tej okazji - dodaj produkt do koszyka i ciesz się niesamowitymi wynikami, jakie przyniesie to rozwiązanie! JAKOŚĆ VILEDA PROFESSIONAL Proszę zwrócić uwagę, iż oferowany produkt jest produktem z linii VILEDA PROFESSIONAL (kolor niebieski), różni się on większą trwałością oraz wytrzymałością od linii Vileda Consumer (kolor czerwony). wkład do mopa, akrylowy mop 60 cm, vilde professional, trwałe włókna akrylowe, elektrostatyczne przyciąganie kurzu, mop do zamiatania, wkład do sprzątania, mop z włókien poliestrowych, akrylowe włosie, zbieranie kurzu, praktyczny mop, sprzątanie bez narzędzi, łatwa wymiana wkładu, mop dla każdego, idealne do wszystkich podłóg, zamiatanie kurzu, czystość i porządek, wkład do mopa professional, mop o dużej wytrzymałości, mop niebieski, lekka konstrukcja, kurzochronne właściwości, wszechstronny mop, domowy mop, wkład do mopa niebieski, EAN 5906142960996, produkt prosto od Vileda, gwarancja efektywności, mop ze składanym uchwytem, lekki i wytrzymały mop, wkład do mopa durable, mop do sprzątania, mop z właściwościami elektrostatycznymi, mopa vilde, mop vilde professional, mopery profesjonalne.\n\nProducent odpowiedzialny:\nFHP Vileda Sp. z o.o.\nPuławska 182, 02-670 Warszawa\nKontakt: biuro.pl[at]fhp-ww.com\n\n[DOFIRMY]",
+                "category_id": 4367,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 88.52,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/0b57d2cb53ed6ee66b1f92302e309006.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/4cb4418ea7056634647ee75fd2c50024.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/3df4e4d3014986969cc46d821482f0c4.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/ba5c88da5e3d72e21accb833093e8f96.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/55a9faced0282f349279ca2249410aec.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11f9d8/fe50704f4cd7a696fa37fdf55120"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11d7cc/f5145d2f42d9a198963d9572cedc"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/110581/c609adfe47669db714ed36421456"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Wysokość zdjęcia musi mieć conajmniej 100 px"
+                }
+            }
+        }
     }
 ]
