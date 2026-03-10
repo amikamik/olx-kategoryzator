@@ -2262,5 +2262,118 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242636370",
+        "Nazwa_Produktu": "Taśma izolacyjna z PVC 15mm 7m Czarna",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Taśma izolacyjna PVC jest podstawowym materiałem eksploatacyjnym i akcesorium stosowanym w elektroinstalatorstwie. Najlepiej pasuje do kategorii 'System i osprzęt instalacyjny' wewnątrz sekcji 'Elektryka' w dziale 'Dom i Ogród'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taśma izolacyjna z pvc 15mm 7m czarna",
+                "description": "Taśma izolacyjna z PVC 15mm 7m Czarna Stosowane głównie w pracach elektroinstalacyjnych w budownictwie oraz motoryzacji, m.in.: -wykonywanie i konserwacja instalacji elektrycznych -Tworzenie wiązek kablowych -Oznaczanie przewodów Funkcje ochronne: -Przed uszkodzeniami mechanicznymi (ścieranie, zginanie, itp.) -Fizycznymi (promieniowanie UV, procesy starzenia) -Chemicznymi (woda oraz różnego rodzaju chemikalia) rolka 5.5x1.5\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 26.17,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/615b723bf0cde6917ef875826eb0c6a2.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/4e72556e74a1c1157981f136cd43f526.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "242636389",
+        "Nazwa_Produktu": "Gniazda Ostrzy Płaskie Zestaw 60 szt Uniwersalne",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw konektorów płaskich (osprzęt elektryczny) służący do wykonywania połączeń w instalacjach. Najbardziej precyzyjną kategorią dla tego typu elementów montażowych jest 'System i osprzęt instalacyjny' w dziale Elektryka.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Gniazda ostrzy płaskie zestaw 60 szt uniwersalne",
+                "description": "Wysokiej jakości konektor żeński, do uniwersalnych, rozłącznych połączeń kablowych, nadaje się zarówno do pojedynczych żył jak i do cienkich drutów miedzianych. 60 sztuk. Do wykonywania bezpiecznych połączeń elektrycznych w instalacjach elektrycznych, np. w domu, ogrodzie, garażu, samochodzie, ciężarówce, motocyklu, rowerze i wielu innych. Do podłączania silników, przełączników, przekaźników, listew zasilających, opraw bezpiecznikowych, jak również do głośników, wzmacniaczy, odbiorników w sektorze hi-fi. Do kabli energetycznych, kabli sieciowych i przewodów o przekrojach od 0,5 - 1,5 mm? Kolor identyfikacyjny: niebieski Szerokość wtyczki: 6,35 mm / DIN 46245 z mosiądzu powlekanego cyną. Łatwe zaciskanie za pomocą szczypiec zaciskowych lub możliwe dla doświadczonych rzemieślników za pomocą szczypiec tnących bocznych, szczypiec zaciskowych lub kombinerek. Materiał styku Mosiądz Materiał izolacyjny:PCV Marka: AUPROTEC\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 70.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/f89f01164405a471af42bd44281417a9.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/92cf9e1565b02d8de24d01b387d046b9.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/8fdd7cca5e13964d159af7d9b8a7b817.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
