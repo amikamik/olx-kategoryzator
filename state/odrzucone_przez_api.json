@@ -2272,5 +2272,68 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243164768",
+        "Nazwa_Produktu": "TENZI Office Clean AMORE CZERWONY 1L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to płyn do mycia i pielęgnacji mebli biurowych i wyposażenia mieszkań. Najbardziej szczegółową i trafną kategorią jest 'Środki czyszczące', znajdująca się w dziale 'Dom i Ogród > Supermarket', co doskonale odzwierciedla przeznaczenie produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Tenzi office clean amore czerwony 1l",
+                "description": "TENZI Office Clean AMORE CZERWONY 1L Bardzo wydajny płyn do mycia i pielęgnacji mebli biurowych. Gotowy do użycia, neutralny preparat ogólnego przeznaczenia. Nie pozostawia smug. Posiada przyjemny zapach. Odświeża. Szybko wysycha. Nie niszczy materiału. Utrzymuje wysoki połysk. Specyfikacja: pH - 7 Pojemność - 1L Symbol - B-13/001s Waga z opakowaniem - 1,08 kg Zastosowanie: Wszystkie delikatne materiały, powierzchnie i przedmioty; Doskonały do codziennej pielęgnacji mebli, urządzeń biurowych, wyposażenia mieszkań; Świetnie czyści ślady po palcach z powierzchni błyszczących, Nadaje wysoki połysk; Sposób użycia: Nie wymaga rozcieńczania; Popsikać wybraną powierzchnię; Powierzchnie wypolerować szmatką; Wydajność: 1-2ml/1m2 TENZI Office Clean AMORE CZERWONY 1L, czyszczenie mebli, preparat do pielęgnacji mebli, płyn antybakteryjny do biura, środek neutralny pH 7, preparat błyszczące powierzchnie, usuwanie smug, mycie bez szorowania, bezpieczny dla delikatnych materiałów, środek z atomizerem, szybkoschnący płyn, preparat Tenzi Sp. z o.o., czyszczenie śladów po palcach, uniwersalny płyn do mebli, preparat o neutralnym zapachu, pielęgnacja powierzchni biurowych, ekonomiczne opakowanie, trwały połysk, produkt z Polski, Skarbimierzyce, Dołuje, kontakt@tenzi.pl, czyszczenie sprzętów biurowych, 1L pojemność, kartonowe opakowanie zbiorcze, łatwość użycia bez konieczności rozcieńczania, waga 1.08 kg z opakowaniem, kod EAN 5906142974511, 5906142974528, 5906142974535, 5906142974542, niska waga pakunku, pakowanie w karton, czyszczenie wysokiej jakości, profesjonalny sprzęt czyszczący.\n\nProducent odpowiedzialny:\nTenzi Sp. z o.o.\nSkarbimierzyce 20, 72-002 Dołuje\nKontakt: kontakt[at]tenzi.pl\n\n[DOFIRMY]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 32.41,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/e9eefa5f406e616f897b4016b93be3b2.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/1120ab/d6fdf99048efab0eee4e83544881"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/118c71/b8a8026343d3b5786dba8ee04a96"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
