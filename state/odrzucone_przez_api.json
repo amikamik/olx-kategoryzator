@@ -2046,5 +2046,170 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243164460",
+        "Nazwa_Produktu": "Klej Cyjanoakrylowy HYSOFIX 706 - 50g",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Kleje",
+        "Finalne_ID_AI": 4702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to klej cyjanoakrylowy, który pasuje idealnie do kategorii 'Kleje' znajdującej się w ścieżce 'Dom i Ogród > Budowa > Chemia budowlana'. Opis produktu wyraźnie wskazuje na jego zastosowania, w tym do łączenia różnych materiałów budowlanych i przemysłowych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Klej cyjanoakrylowy hysofix 706 - 50g",
+                "description": "Klej Cyjanoakrylowy HYSOFIX 706 - 50g HYSOFIX 706 To klej nowej generacji o potrójnej destylacji. Adhezyjny na bazie metylocjanoakrylu modyfikowanego przeznaczony do łączenia szerokiej grupy materiałów: metal , drewno, porcelana , szkło, ceramika , guma, PVC (klejenie plandek, bannerów) i inne tworzywa oraz kombinacje tych materiałów. Klej szczególnie odpowiedni do łączenia małych części. Klej wykazuje dobrą odporność na zmęczenie, bardzo wysoką wytrzymałość na ścinanie i rozciąganie. Jak poprawnie użyć kleju? Części klejone należy szybko łączyć, ponieważ czas przydatności kleju do użycia jest bardzo krótki. Wilgotność powietrza wystarcza na ogół do zainicjowania utwardzania w kilka sekund i uzyskania wytrzymałości ręcznej (pełna wytrzymałość mechaniczna i odporność chemiczna osiągana jest dopiero po 24h). Najlepsze wyniki uzyskuje się przy wilgotności względnej powietrza 40-60%. Dla przyspieszenia procesu polimeryzacji i utwardzenia należy stosować aktywatory. Duży wpływ na szybkość utwardzania ma również wielkość szczeliny (im większa szczelina tym klej zastyga wolniej) oraz rodzaj klejonych materiałów. Czas wiązania Guma Chloroprenowa i nitrylowa: 5...15 Guma rozciągliwa: 2...5 EPDM: 5 Tworzywa sztuczne PVC: 2...10 Żywice fenelowe: 5...15 Polimery ABS: 2...6 Metale Stal, Aluminium, Cynk: 6...30 Własności fizyczne Barwa: przeźroczysty Lepkość: 20..40 [mPa s] Gęstość: 1,05 [g/cm3] (25) Max. szczelina wypełnienia: 0,05 [mm] Punkt zapłonu (ISO2592): 85 [C] Czas przechowywania: 12 miesięcy 10 [C] Szybkość klejenia z aktyw. 3 [sekund] Szybkość klejenia bez aktyw. 5..40 [sekund] Własności klejące Wytrzymałość na rozciąganie: 5..26[N/mm2] Wytrzymałość na ścinanie: 11..19[N/mm2] Udarność : 15...20[N mm/mm2] Max. temperatura pracy: -50[C] + 80[C] Temperatura mięknięcia: 160[C] ... 170[C] Oporność elektryczna: 10 [mm] Wytrzymałość dielektryczna: 25 [kV mm] klej cyjanoakrylowy, HYSOFIX 706, klej nowej generacji, klej o potrójnej destylacji, metylocjanoakryl, klej do metalu, klej do drewna, klej do porcelany, klej do szkła, klej do ceramiki, klej do gumy, klej do PVC, łączenie małych części, odporność na zmęczenie, wytrzymałość na ścinanie, wytrzymałość na rozciąganie, szybki czas przydatności, czas utwardzania, wilgotność względna, aktywatory, proces polimeryzacji, szczelina wypełnienia, klej szybkoschnący, klejenie plandek, klejenie bannerów, klej o wysokiej wytrzymałości, lepkość, gęstość, punkt zapłonu, czas przechowywania, temperatura pracy, wytrzymałość dielektryczna, odporność chemiczna, przeźroczysty kolor, producent Lepro Innovation GmbH, Hohenbrunn, EAN 5906142917457, kartonowe opakowanie, klej z aktywatorem, wysoka skuteczność klejenia, uniwersalny klej, 50gopakowanie kleju, klej przemysłowy, klej do tworzyw sztucznych\n\nProducent odpowiedzialny:\nLepro Innovation GmbH\nErnstHeinkelRing 57, 85662 Hohenbrunn\nNiemcy\nKontakt: cs[at]lepro.de\n\n[DOFIRMY]",
+                "category_id": 4702,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/26c963981c5c814588205458b9ffed24.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/118cdd/7bd6d3264b85aaba84e07f95030d"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "243164463",
+        "Nazwa_Produktu": "Klej Cyjanoakrylowy HYSOFIX 712 - 50g",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Kleje",
+        "Finalne_ID_AI": 4702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to klej cyjanoakrylowy, który w opisie jest określany jako 'klej nowej generacji' do łączenia szerokiej gamy materiałów, w tym metalu, drewna, porcelany, szkła, ceramiki, gumy, PVC (plandek, bannerów). Kategoria 'Dom i Ogród > Budowa > Chemia budowlana > Kleje' jest najbardziej szczegółowa i precyzyjnie odpowiada charakterowi produktu, który jest materiałem chemicznym używanym w budownictwie i do napraw.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Klej cyjanoakrylowy hysofix 712 - 50g",
+                "description": "Klej Cyjanoakrylowy HYSOFIX 712 - 50g HYSOFIX 712 To klej nowej generacji o potrójnej destylacji. Adhezyjny na bazie metylocjanoakrylu modyfikowanego przeznaczony do łączenia szerokiej grupy materiałów: metal , drewno, porcelana , szkło, ceramika , guma, PVC (klejenie plandek, bannerów) i inne tworzywa oraz kombinacje tych materiałów. Klej szczególnie odpowiedni do łączenia małych części. Klej wykazuje dobrą odporność na zmęczenie, bardzo wysoką wytrzymałość na ścinanie i rozciąganie. Jak poprawnie użyć kleju? Części klejone należy szybko łączyć, ponieważ czas przydatności kleju do użycia jest bardzo krótki. Wilgotność powietrza wystarcza na ogół do zainicjowania utwardzania w kilka sekund i uzyskania wytrzymałości ręcznej (pełna wytrzymałość mechaniczna i odporność chemiczna osiągana jest dopiero po 24h). Najlepsze wyniki uzyskuje się przy wilgotności względnej powietrza 40-60%. Dla przyspieszenia procesu polimeryzacji i utwardzenia należy stosować aktywatory. Duży wpływ na szybkość utwardzania ma również wielkość szczeliny (im większa szczelina tym klej zastyga wolniej) oraz rodzaj klejonych materiałów. Zalety: 6 razy większa wytrzymałość dynamiczna i 10 razy większa wytrzymałość na zdzieranie W porównaniu z konwencjonalnymi klejami cyjanoakrylowymi bardzo duża wytrzymałość na ścinani e (240 kg/cm2 w przypadku połączenia stal-stal) Obciążalność temperaturowa do +135C (przy tak dużym obciążeniu klej wykazuje Jeszcze wytrzymałość n a ścinanie 60 kg/cm w przypadku połączenia stal-stal) Bardzo dobra odporność na wodę co jest wyjątkowe dla klejów cyjanoakrylowych o lepkości ok. 3.000 cPs.: Dane techniczne: Typ chemiczny: modyfikowany etylocyjanoakryl Kolor: bezbarwny, przezroczysty Lepkość: 2500...3000 [cP] przy 20C Ciężar właściwy: 1,08 [g/ml] Max. szczelina wypełniania 0,15 [mm] Temperatura zapłonu (ISO 2592): 85C Odporność temperaturowa -50C do +135C Przewodność cieplna (ASTM C177) 0,1 Wytrzymałość na naprężenia ścinające (DIN 53283) 24 N/mm Wytrzymałość wstępna aluminium 30 50 sekund Wytrzymałość wstępna guma 20 40 sekund Pełna wytrzymałość 24h Szybkość klejenia z aktyw. 6 [sekund] Szybkość klejenia bez aktyw. 5...60 [sekund] Zawartość rozpuszczalników: brak Przygotowanie : Elementy łączone należy dokładnie oczyścić z resztek starego kleju i dobrze odtłuścić (tworzywa IPA), najlepiej zmywaczem REINIGER (nie stosować benzyn i rozpuszczalników) Klej HYSOFIX 712 należy nanosić oszczędnie na jedną z klejonych powierzchni i szybko docisnąć spajane części. Wytrzymałość jest osiągana w czasie od kilku do kilkunastu sekund. Pełne utwardzenie po 24 godzinach . Najlepsze warunki osiąga się klejąc w optymalnych warunkach tj. w temperaturze pokojowej (ok. +20C) oraz przy względnej wilgotności powietrza ok. 65%. W przypadku klejenia tworzyw nie sklejalnych (poliolefin) należy powierzchnię tworzywa aktywować produktem PRIMER PP/PE. Sam klej można aktywować produktem AKTYWATOR C , który przyspiesza działanie kleju i utwardza jego nadmiar. Aktywatorem zwilżamy klej w złączu lub zwilżamy powierzchnie złącza. klej cyjanoakrylowy, klej HYSOFIX 712, mocne łączenie, klej do ceramiki, klej do drewna, klej do metalu, klej do porcelany, klej do szkła, klej do gumy, klej do PVC, klej do plandek, szybkoschnący klej, odporność na rozciąganie, odporność na ścinanie, wytrzymałość dynamiczna, odporność na wodę, klej przezroczysty, klej bezbarwny, klej nowej generacji, modyfikowany etylocyjanoakryl, klej do małych części, klej przemysłowy, klej wysokotemperaturowy, klejenie aktywatorem, polimeryzacja, klej do tworzyw sztucznych, najlepsze kleje przemysłowe, kleje o wysokiej lepkości, wytrzymałość mechaniczna, odporność chemiczna, klejenie z aktywatorem, klej szybki, wytrzymałość klejenia, klej do różnych materiałów, klejenie stali, klej do zastosowań zaawansowanych, klejenie trudnych powierzchni, klej niemiecki, Lepro Innovation GmbH\n\nProducent odpowiedzialny:\nLepro Innovation GmbH\nErnstHeinkelRing 57, 85662 Hohenbrunn\nNiemcy\nKontakt: cs[at]lepro.de\n\n[DOFIRMY]",
+                "category_id": 4702,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 43.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/2842866e858f856ac7edfbc40a2f01ef.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11f80c/9ed2193344bc842bf057d2458e03"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "243164465",
+        "Nazwa_Produktu": "Klej Cyjanoakrylowy HYSOFIX 720 - 50g",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Kleje",
+        "Finalne_ID_AI": 4702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to klej cyjanoakrylowy, który jest substancją chemiczną używaną do łączenia materiałów, a jego zastosowanie jest szerokie, ale typowe dla budownictwa i remontów. Kategoria 'Dom i Ogród > Budowa > Chemia budowlana > Kleje' jest najbardziej szczegółowa i trafna.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Klej cyjanoakrylowy hysofix 720 - 50g",
+                "description": "Klej Cyjanoakrylowy HYSOFIX 720 - 50g HYSOFIX 720 To klej nowej generacji o potrójnej destylacji. Adhezyjny na bazie metylocjanoakrylu modyfikowanego przeznaczony do łączenia szerokiej grupy materiałów: metal , drewno, porcelana , szkło, ceramika , guma, korek , papier, kamień , PVC (klejenie plandek, bannerów) i inne tworzywa oraz kombinacje tych materiałów. Klej szczególnie odpowiedni do łączenia małych części. Klej wykazuje dobrą odporność na zmęczenie, bardzo wysoką wytrzymałość na ścinanie i rozciąganie Jak poprawnie użyć kleju? Części klejone należy szybko łączyć, ponieważ czas przydatności kleju do użycia jest bardzo krótki. Wilgotność powietrza wystarcza na ogół do zainicjowania utwardzania w kilka sekund i uzyskania wytrzymałości ręcznej (pełna wytrzymałość mechaniczna i odporność chemiczna osiągana jest dopiero po 24h). Najlepsze wyniki uzyskuje się przy wilgotności względnej powietrza 40-60%. Dla przyspieszenia procesu polimeryzacji i utwardzenia należy stosować aktywatory. Duży wpływ na szybkość utwardzania ma również wielkość szczeliny (im większa szczelina tym klej zastyga wolniej) oraz rodzaj klejonych materiałów. Siła wiązania GUMA Kauczuk naturalny 5-9 Neoprene 5-9 Uwaga : P rzy klejeniu gum silikonowych i fluorowych należy zastosować aktywator. TWORZYWA SZTUCZNE PVC 40-60 PC 80-120 PS 30-45 NBR 5-9 Polimery ABS SPR 5-10 METALE Stal 190-210 Stal Nierdzewna 160-180 Aluminium 170-190 Miedź 150-170 Stal PVC twarde 50-60 Stal nierdzewna Neopren 5-10 Pełna wytrzymałość osiągana jest po 24h w 20C Szybkość utwardzania ABS to ABS 4-5 Drewno do drewna 50-60 ABS do Stal nierdzewna 5-10 NBR do stal nierdzewna 3-5 NBR do NBR 3-5 Stal nierdzewna do Stal nierdzewna 3-5 ABS do NBR 3-5 Drewno do ABS 5-10 Własności fizyczne Barwa: przeźroczysty Lepkość: 2-5[mPa s] Gęstość: 1,053-1,060 [g/cm3] (25) Punkt zapłonu (ISO2592): 80[C] Czas przechowywania: 12 miesięcy 10[C] Przygotowanie: Elementy łączone należy dokładnie oczyścić z resztek starego kleju i dobrze odtłuścić , najlepiej zmywaczem REINIGER. Klej HYSOFIX 720 należy nanosić oszczędnie na jedną z klejonych powierzchni i szybko docisnąć spajane części . W przypadk u klejenia tworzyw nie sklejalnych (poliolefin ) należy powierzchnię tworzywa aktywować produktem AKTYWATOR C. Sam klej można aktywować produktem AKTYWATOR C, który przyspiesza działanie kleju i utwardza jego nadmiar . Aktywatorem zwilżamy klej w złączu lub zwilżamy powierzchnie złącza przed klejeniem i po przeschnięciu dokonujemy sklejenia. Czynność aktywacji można wielokrotnie powtarzać nanosząc kolejne warstwy kleju. W ten sposób można uzyskać grubą spoinę (tak jak w przypadku żywic epoksydowych) o dużej twardości, wytrzymałości mechanicznej oraz bardzo krótkim czasie wiązania. Nie poleca się stosowania tego produktu do urządzeń z czystym tlenem, chlorem lub innymi silnie utleniającymi się substancjami. klej cyjanoakrylowy, HYSOFIX 720, klej nowej generacji, potrójna destylacja, metylocjanoakryl, łączenie materiałów, klejenie metalu, klejenie drewna, klejenie porcelany, klejenie szkła, klejenie ceramiki, klejenie gumy, klejenie korka, klejenie papieru, klejenie kamienia, klejenie PVC, klejenie plandek, klejenie bannerów, klejenie małych części, odporność na zmęczenie, wytrzymałość na ścinanie, wytrzymałość na rozciąganie, czas przydatności, wilgotność powietrza, utwardzanie, wytrzymałość mechaniczna, aktywatory, proces polimeryzacji, wielkość szczeliny, rodzaj materiałów, siła wiązania, guma silikonowa, fluorowa, polimery ABS, metale, pełna wytrzymałość, barwa przeźroczysta, lepkość, punkt zapłonu, czas przechowywania, przygotowanie, oczyszczanie, odtłuszczanie, aktywator C, szybkie działanie, utwardzanie nadmiaru, gruba spoina, twardość, nie stosować z czystym tlenem, chlorem, Lepro Innovation GmbH, made in Germany\n\nProducent odpowiedzialny:\nLepro Innovation GmbH\nErnstHeinkelRing 57, 85662 Hohenbrunn\nNiemcy\nKontakt: cs[at]lepro.de\n\n[DOFIRMY]",
+                "category_id": 4702,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/a33494f549aa4a729d529ed91e2e9bca.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/114b4f/58a6402b4635a54c25e10b91ba3d"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

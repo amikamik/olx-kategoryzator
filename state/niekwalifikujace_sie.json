@@ -2808,5 +2808,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to tuby papierowe po folii stretch, opisane jako 'akcesoria do pakowania', 'rolki kartonowe' i 'artykuły biurowe'/'osprzęt biurowy'. Najbardziej szczegółową i pasującą kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', która idealnie oddaje przeznaczenie i charakter produktu jako materiału biurowego/firmowego do pakowania."
+    },
+    {
+        "ID_Produktu": "243164487",
+        "Nazwa_Produktu": "Odkurzacz Samochodowy TEKSON",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Odkurzacze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalne_ID_AI": 4489,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to odkurzacz samochodowy, który jest urządzeniem elektronicznym przeznaczonym do użytku w pojazdach. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa' jest najbardziej szczegółowa i precyzyjna, ponieważ opisuje zarówno przeznaczenie (samochodowe) jak i rodzaj urządzenia (elektronika)."
+    },
+    {
+        "ID_Produktu": "243164492",
+        "Nazwa_Produktu": "Przewód Do Pompowania Kół 18m Z Szybkozłączem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny przewód do pompowania kół, przeznaczony do użytku w warsztatach i serwisach samochodowych, wulkanizacjach, a także do maszyn rolniczych i budowlanych. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie tego produktu jako narzędzia specjalistycznego dla branży."
+    },
+    {
+        "ID_Produktu": "243164495",
+        "Nazwa_Produktu": "Leżanka Warsztatowa Składana Max. Obciążenie 135kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to składana leżanka warsztatowa, wyraźnie przeznaczona do użytku w serwisach motoryzacyjnych, naprawczych oraz prywatnych warsztatach i garażach. Kategoria 'Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe' jest najbardziej szczegółowa i precyzyjnie oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "243164497",
+        "Nazwa_Produktu": "Przewód Spiralny Pneumatyczny M22 6m Silikonowy Żółty",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Narzędzia warsztatowe",
+        "Finalne_ID_AI": 5169,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przewód spiralny pneumatyczny, którego opis jasno wskazuje na zastosowanie w \"serwisach, warsztatach i na wulkanizacjach samochodowych\". Najbardziej szczegółową i adekwatną kategorią jest 'Narzędzia warsztatowe' w sekcji 'Firma i Przemysł > Wyposażenie warsztatów', ponieważ przewód ten jest integralnym elementem lub akcesorium do narzędzi pneumatycznych używanych w środowisku warsztatowym."
+    },
+    {
+        "ID_Produktu": "243164521",
+        "Nazwa_Produktu": "Kuchenka Gazowa 2-Palnikowa Ravanson K-02T",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalne_ID_AI": 2211,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to przenośna kuchenka gazowa 2-palnikowa. Mimo że opis wskazuje na możliwość użytkowania turystycznego i w małej gastronomii, jej podstawowa funkcja jako wolnostojącej kuchenki najlepiej pasuje do kategorii 'Kuchenki wolnostojące' w ramach 'Sprzęt AGD'. Kategoria ta jest ogólniejsza i obejmuje szerszy zakres zastosowań dla tego typu urządzenia, a 'turystyczna' jest jednym z nich."
+    },
+    {
+        "ID_Produktu": "243164525",
+        "Nazwa_Produktu": "Kuchenka Gazowa 2-Palnikowa Ravanson K-02BR",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt AGD > AGD wolnostojące > Kuchenki wolnostojące",
+        "Finalne_ID_AI": 2211,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wolnostojąca kuchenka gazowa, która idealnie pasuje do kategorii 'Kuchenki wolnostojące' w drzewie 'Elektronika > Sprzęt AGD > AGD wolnostojące'. Opis produktu wyraźnie wskazuje na jej wolnostojący charakter oraz zastosowanie, w tym jako 'kuchenka wolnostojąca'. Dodatkowe zastosowania jako turystyczna czy dla małej gastronomii nie zmieniają jej podstawowej klasyfikacji jako wolnostojącego urządzenia AGD."
     }
 ]
