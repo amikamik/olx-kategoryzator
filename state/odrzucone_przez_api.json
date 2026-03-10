@@ -2211,5 +2211,66 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243164765",
+        "Nazwa_Produktu": "TENZI BRUDEX 1L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uniwersalny środek czyszcząco-odtłuszczający, co idealnie pasuje do kategorii 'Dom i Ogród > Supermarket > Środki czyszczące'. Opis produktu wyraźnie wskazuje na jego przeznaczenie do czyszczenia w warunkach domowych i przemysłowych, a także na jego funkcje jako środka czyszczącego i odtłuszczającego. Kategoria jest precyzyjna i znajduje się na najbardziej szczegółowym możliwym poziomie.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Tenzi brudex 1l",
+                "description": "TENZI BRUDEX 1L Uniwersalny środek do mycia i usuwania tłustego brudu. Uniwersalny środek czyszcząco-odtłuszczający do wszelkiego rodzaju tłustych zanieczyszczeń. Czyści, pierze, odplamia i odtłuszcza. Zalecany do utrzymania higieny w warunkach domowych oraz przemysłowych. Specyfikacja: Numer katalogowy - U-06/001 pH - 14 Pojemność - 1L Symbol - U-06/001 Waga z opakowaniem - 1,14 kg Zastosowanie: Wyposażenie kuchni, urządzenia gastronomiczne; Warsztaty, posadzki przemysłowe, części maszyn, silniki; Żaluzje pionowe, odzież ochronna, odzież robocza, skrajnie zanieczyszczone powierzchnie tekstylne; Metody użycia: 10-50ml/10l wody mycie, pranie bieżące; 100-500ml/10l wody mycie, pranie gruntowne; 1:1 do 1:3 odplamianie, odtłuszczanie. środek czyszczący, odtłuszczacz, TENZI BRUDEX, czyszczenie uniwersalne, antybakteryjne, bez smug, nie rysuje powierzchni, usuwanie tłustego brudu, higiena domowa, higiena przemysłowa, sprzęt gastronomiczny, warsztaty, maszyny, silniki, odzież ochronna, odzież robocza, powierzchnie tekstylne, numer katalogowy U-06/001, pH 14, plastikowa butelka, producent Tenzi, Skarbimierzyce, Dołuje, Polska, 5906142974009, płyn do czyszczenia, odplamianie, czyszczenie tłustych zanieczyszczeń, 1 litr, preparat czyszcząco-odtłuszczający, wielofunkcyjny płyn, czyszczenie kuchni, czyszczenie warsztatów, bezpieczne czyszczenie, środek antybakteryjny, środki czystości, chemia gospodarcza, utrzymanie czystości, mycie gruntowne, przemysłowe czyszczenie, opakowanie jednostkowe, bezpieczne dla powierzchni, wysokie pH, skoncentrowany środek czyszczący, technologicznie zaawansowany, preparat do usuwania brudu, czyszczenie intensywne.\n\nProducent odpowiedzialny:\nTenzi Sp. z o.o.\nSkarbimierzyce 20, 72-002 Dołuje\nKontakt: kontakt[at]tenzi.pl\n\n[DOFIRMY]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 34.23,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/da58a5f8c5fe78f7db61df6a8be5c5b4.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/1124b9/cdf56c4643cebf6ad0713ab42fe6"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "b95e8f54-a715-4a95-9d4c-5f16e29131a1"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "title",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 16 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 16 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

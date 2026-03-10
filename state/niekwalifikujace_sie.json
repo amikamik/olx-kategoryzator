@@ -2868,5 +2868,55 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to wolnostojąca kuchenka gazowa, która idealnie pasuje do kategorii 'Kuchenki wolnostojące' w drzewie 'Elektronika > Sprzęt AGD > AGD wolnostojące'. Opis produktu wyraźnie wskazuje na jej wolnostojący charakter oraz zastosowanie, w tym jako 'kuchenka wolnostojąca'. Dodatkowe zastosowania jako turystyczna czy dla małej gastronomii nie zmieniają jej podstawowej klasyfikacji jako wolnostojącego urządzenia AGD."
+    },
+    {
+        "ID_Produktu": "243164572",
+        "Nazwa_Produktu": "TENZI Car Shine 1L",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Włosy > Pielęgnacja > Odżywki",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to środek do nabłyszczania lakieru samochodowego, który najlepiej pasuje do kategorii 'Motoryzacja > Wyposażenie i akcesoria samochodowe'. Ponieważ brak jest bardziej szczegółowej podkategorii dedykowanej kosmetykom samochodowym lub środkom do pielęgnacji, 'Pozostałe' jest najbardziej odpowiednią kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "243164590",
+        "Nazwa_Produktu": "TENZI KRWAWA FELGA 0,6L",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Opony i Felgi > Felgi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Opony i Felgi > Felgi",
+        "Finalne_ID_AI": 1385,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny preparat do czyszczenia felg samochodowych. Kategoria 'Motoryzacja > Opony i Felgi > Felgi' jest najbardziej szczegółową i precyzyjną kategorią-liściem dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "243164597",
+        "Nazwa_Produktu": "TENZI CZYSTA SZYBA 0,6L",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to płyn do mycia szyb samochodowych, który najlepiej pasuje do kategorii 'Wyposażenie i akcesoria samochodowe'. Ponieważ brak jest bardziej szczegółowej podkategorii dla kosmetyków samochodowych, 'Pozostałe' w ramach tej gałęzi jest najbardziej adekwatnym wyborem."
+    },
+    {
+        "ID_Produktu": "243164606",
+        "Nazwa_Produktu": "TENZI Textil Wash GT 0,6L",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest specjalistycznym środkiem do czyszczenia tapicerki i dywaników samochodowych. Najbardziej szczegółową i adekwatną kategorią jest 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe', ponieważ jest to akcesorium do pielęgnacji samochodu, a nie ogólny środek czyszczący."
+    },
+    {
+        "ID_Produktu": "243164610",
+        "Nazwa_Produktu": "TENZI Super Green Specjal GT 0,6L",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Czasopisma",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to silny płyn do mycia karoserii i silników pojazdów mechanicznych. Najbardziej szczegółową kategorią odzwierciedlającą jego przeznaczenie jest 'Pozostałe' w 'Wyposażenie i akcesoria samochodowe', znajdującej się w głównej kategorii 'Motoryzacja'."
     }
 ]
