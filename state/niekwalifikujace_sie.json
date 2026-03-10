@@ -2978,5 +2978,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na miotłę przeznaczoną do zamiatania, w tym do użytku zewnętrznego i na szorstkich powierzchniach. Najbardziej szczegółową i pasującą kategorią jest 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki', która jest kategorią-liściem i idealnie oddaje charakter produktu."
+    },
+    {
+        "ID_Produktu": "243164942",
+        "Nazwa_Produktu": "Stojak do segregacji odpadów (3-stanowiskowy) żółty, zielony, niebieski - MDRC",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to stojak do segregacji odpadów, przeznaczony zarówno do użytku domowego, jak i biurowego. Ze względu na jego funkcjonalny, wielostanowiskowy charakter oraz przeznaczenie do segregacji odpadów, najlepiej pasuje do kategorii związanej z wyposażeniem biurowym. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu jako akcesorium do zarządzania środowiskiem pracy i organizacją odpadów."
+    },
+    {
+        "ID_Produktu": "243164973",
+        "Nazwa_Produktu": "PVAmicro niebieski - 1 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Przybory do pisania > Długopisy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie oznaczony jako 'Vileda PROFESSIONAL' i opisuje jego zastosowanie do czyszczenia powierzchni w tym 'meble biurowe', co wskazuje na profesjonalne/przemysłowe zastosowanie, a nie domowe. Najbliższą kategorią w drzewie jest 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący'. Ponieważ ścierka nie jest żadnym z wymienionych typów maszyn (myjnia, odkurzacz, szorowarka, zamiatarka), najbardziej odpowiednią kategorią-liściem jest 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "243164985",
+        "Nazwa_Produktu": "Kij teleskopowy \"niebieski\"",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny kij teleskopowy Vileda, przeznaczony do sprzątania, w tym z systemami kodowania kolorystycznego zapobiegającymi zanieczyszczeniom krzyżowym. Wskazuje to na zastosowanie komercyjne/przemysłowe, a nie domowe. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący' jest najbardziej odpowiednia. Ponieważ kij nie jest żadną z wymienionych konkretnych maszyn (myjnia, odkurzacz, szorowarka, zamiatarka), najbardziej szczegółową kategorią jest 'Pozostałe' w ramach 'Sprzęt czyszczący'."
+    },
+    {
+        "ID_Produktu": "243164997",
+        "Nazwa_Produktu": "Szczotka Superior ręczna 30 cm",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Włosy > Stylizacja > Szczotki i grzebienie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna szczotka do czyszczenia, zgodna z wymogami HACCP i przeznaczona do użytku przemysłowego/profesjonalnego (Vileda Professional, przemysł spożywczy). Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' idealnie oddaje charakter produktu, będąc najbardziej szczegółową i adekwatną opcją."
+    },
+    {
+        "ID_Produktu": "243165031",
+        "Nazwa_Produktu": "Supermop wiadro & wyciskarka",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Wyciskarki wolnoobrotowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne wiadro z wyciskarką do mycia podłóg, z podkreśleniem marki Vileda Professional. Mimo zastosowania domowego i biurowego, nacisk na 'profesjonalne' i 'wytrzymałość' wskazuje na kategorię związaną ze sprzętem do zastosowań komercyjnych. 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' jest najbardziej szczegółową i trafiającą w przeznaczenie produktu kategorią, klasyfikującą go jako sprzęt do sprzątania, który nie jest jedną z wymienionych maszyn."
+    },
+    {
+        "ID_Produktu": "243165034",
+        "Nazwa_Produktu": "r-MicronSolo, niebieski - 1 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Przybory do pisania > Długopisy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna ściereczka czyszcząca Vileda Professional, wykonana z recyklingu, przeznaczona do utrzymania wysokiej higieny w obszarach wysokiego ryzyka, w tym w biurach. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', ponieważ ściereczka służy do profesjonalnego utrzymania czystości w biurach i może być traktowana jako materiał biurowy."
     }
 ]

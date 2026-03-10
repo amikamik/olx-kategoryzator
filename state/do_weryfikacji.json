@@ -391,5 +391,15 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "243165002",
+        "Nazwa_Produktu": "Ścierka do podłóg Vlieser 50 x 70 cm - 1 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Dozowniki na płyn i zmywaki",
+        "Finalne_ID_AI": 2120,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "75%",
+        "Uzasadnienie_AI": "Produkt to ścierka do podłóg, czyli akcesorium do czyszczenia. Kategoria 'Dozowniki na płyn i zmywaki' (ID: 2120) znajduje się w gałęzi 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne'. Chociaż ścierka jest do podłóg, a 'zmywaki' zazwyczaj kojarzone są z kuchnią i myciem naczyń, to 'zmywaki' są również tkaninowymi akcesoriami do czyszczenia, co czyni tę kategorię najbardziej specyficzną dla tego typu produktu w drzewie, w porównaniu do ogólnych kategorii typu 'Pozostałe' lub 'Ręczniki', które są mniej precyzyjne dla ścierek czyszczących."
     }
 ]
