@@ -3418,5 +3418,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "80%",
         "Uzasadnienie_AI": "Produkt to zestaw akcesoriów erotycznych (kajdanki, pejcz, knebel itp.). Ponieważ w drzewie kategorii nie ma dedykowanej kategorii dla produktów erotycznych, najtrafniejszą, najbardziej ogólną i szczegółową zarazem kategorią, która może pomieścić 'akcesoria' bez precyzowania ich charakteru, jest 'Pozostałe' w ramach nadrzędnej kategorii 'Moda > Akcesoria'. Mimo że nie są to akcesoria modowe w tradycyjnym sensie, jest to najlepsze dostępne dopasowanie w obecnym drzewie."
+    },
+    {
+        "ID_Produktu": "243167263",
+        "Nazwa_Produktu": "MORAJ - Legginsy Z Klasycznym Stanem - Czarne - L/XL",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > Spodnie > Legginsy",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Spodnie > Legginsy",
+        "Finalne_ID_AI": 2577,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to artykuł odzieży damskiej, konkretnie legginsy. Kategoria 'Moda > Ubrania damskie > Spodnie > Legginsy' jest najbardziej szczegółowa i idealnie pasuje do produktu."
+    },
+    {
+        "ID_Produktu": "243167268",
+        "Nazwa_Produktu": "MORAJ - T-Shirt Bawełniany Damski - Biały - XL",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > T-shirty i podkoszulki > T-shirty",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > T-shirty i podkoszulki > T-shirty",
+        "Finalne_ID_AI": 2578,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'T-Shirt Bawełniany Damski', co idealnie pasuje do kategorii 'Moda > Ubrania damskie > T-shirty i podkoszulki > T-shirty'."
+    },
+    {
+        "ID_Produktu": "243167271",
+        "Nazwa_Produktu": "MORAJ - T-Shirt Bawełniany Damski - Czarny - XL",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > T-shirty i podkoszulki > T-shirty",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > T-shirty i podkoszulki > T-shirty",
+        "Finalne_ID_AI": 2578,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu jednoznacznie wskazują na damski T-shirt wykonany z bawełny, co idealnie pasuje do kategorii 'Moda > Ubrania damskie > T-shirty i podkoszulki > T-shirty'."
+    },
+    {
+        "ID_Produktu": "243167275",
+        "Nazwa_Produktu": "LAMANUEL - Body INTO YOU Czarne - XS/S",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > Body i gorsety",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Body i gorsety",
+        "Finalne_ID_AI": 2535,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje na 'Body', a opis potwierdza, że jest to 'body damskie' i 'bielizna damska'. Kategoria 'Moda > Ubrania damskie > Body i gorsety' jest najbardziej szczegółowa i precyzyjnie odpowiada produktowi."
     }
 ]
