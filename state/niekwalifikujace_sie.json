@@ -3498,5 +3498,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to koszulki na dokumenty, które są wielokrotnie określane w opisie jako 'akcesoria biurowe' służące do 'organizacji dokumentów w biurze'. Format B4 i marka Bantex również wskazują na zastosowania biurowe. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i najlepiej odpowiada przeznaczeniu produktu."
+    },
+    {
+        "ID_Produktu": "243167474",
+        "Nazwa_Produktu": "Koszulki Groszkowe BANTEX A5 - 50 mic. 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to koszulki na dokumenty, które są typowym akcesorium biurowym. Kategoria 'Akcesoria i materiały biurowe' jest najbardziej szczegółowa i bezpośrednio pasuje do przeznaczenia produktu, co jest jasno wskazane w opisie."
     }
 ]
