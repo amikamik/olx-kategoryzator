@@ -5888,5 +5888,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest baldachimem/osłoną przeciwsłoneczną (tzw. żaglem przeciwsłonecznym) o wymiarach 4,3x1,85m, przeznaczonym do użytku zewnętrznego (wodoodporność, UV). W drzewie kategorii OLX zadaszenia tkaninowe, żagle ogrodowe oraz konstrukcje zacieniające są klasyfikowane w kategorii 'Pawilony i namioty' w sekcji Architektura ogrodowa."
+    },
+    {
+        "ID_Produktu": "242637432",
+        "Nazwa_Produktu": "Obrotowy Perlator 720 Stopni Do Baterii Kranu",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Pozostałe",
+        "Finalne_ID_AI": 3223,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to perlator (napowietrzacz), będący częścią osprzętu hydraulicznego do baterii kranowych. Z uwagi na uniwersalność (kuchnia i łazienka) oraz brak specyficznej kategorii dla akcesoriów do baterii, najbardziej odpowiednią kategorią jest Dom i Ogród > Instalacje > Hydraulika > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242637441",
+        "Nazwa_Produktu": "Opaski zaciskowe do węzy obejma 12szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opaski zaciskowe (obejmy) to elementy montażowe stosowane w instalacjach hydraulicznych do łączenia węży z przyłączami, co kwalifikuje je do kategorii złączek i kształtek."
+    },
+    {
+        "ID_Produktu": "242637452",
+        "Nazwa_Produktu": "Opaska na Oczy do Spania 3D Czarna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opaska do spania jest klasyfikowana jako akcesorium osobiste/podróżne. W podanym drzewie kategorii OLX produkty tego typu są standardowo umieszczane w sekcji Moda > Akcesoria > Pozostałe, ze względu na brak dedykowanej kategorii dla pomocy w zasypianiu dla dorosłych."
+    },
+    {
+        "ID_Produktu": "242637455",
+        "Nazwa_Produktu": "Widelczyk Szaszłyk do grilla do kukurydzy 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne akcesorium przeznaczone do użytku podczas grillowania (widelczyki do kukurydzy). Tytuł i opis wielokrotnie podkreślają związek z grillem, piknikami i kempingiem, co czyni kategorię 'Grill' najbardziej trafnym i specyficznym wyborem."
     }
 ]
