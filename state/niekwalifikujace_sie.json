@@ -5928,5 +5928,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to specjalistyczne akcesorium przeznaczone do użytku podczas grillowania (widelczyki do kukurydzy). Tytuł i opis wielokrotnie podkreślają związek z grillem, piknikami i kempingiem, co czyni kategorię 'Grill' najbardziej trafnym i specyficznym wyborem."
+    },
+    {
+        "ID_Produktu": "242637463",
+        "Nazwa_Produktu": "Żarówki LED GU10 5W 2700 K ciepła biel 10 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw żarówek LED z trzonkiem GU10, co idealnie pasuje do najbardziej szczegółowej kategorii w drzewie: Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki."
+    },
+    {
+        "ID_Produktu": "242637469",
+        "Nazwa_Produktu": "Uchwyty do kierownicy motocykla 2 szt czarne",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części motocyklowe",
+        "Finalne_ID_AI": 1335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uchwyty i osłony kierownicy przeznaczone specjalnie do motocykli, co kwalifikuje go bezpośrednio do kategorii Części motocyklowe, która jest liściem w drzewie kategorii Motoryzacja."
+    },
+    {
+        "ID_Produktu": "242637480",
+        "Nazwa_Produktu": "Uchwyt meblowy klasyczny czarny matowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym uchwytem do mebli. W strukturze OLX kategoria 'Akcesoria meblowe' (ID: 1950) podrzędna dla 'Meble' jest najbardziej specyficznym i trafnym miejscem dla tego typu asortymentu wykończeniowego."
+    },
+    {
+        "ID_Produktu": "242637497",
+        "Nazwa_Produktu": "Wózek kuchenny Barowy Na Kółkach",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble kuchenne",
+        "Finalne_ID_AI": 1922,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest mobilnym wózkiem kuchennym przeznaczonym do przechowywania i serwowania, co najlepiej odpowiada kategorii Meble kuchenne w sekcji Dom i Ogród. Choć opis wspomina o zastosowaniu profesjonalnym, stylistyka i nacisk na funkcje dekoracyjne wskazują na wyposażenie domowe."
+    },
+    {
+        "ID_Produktu": "242637499",
+        "Nazwa_Produktu": "Umywalka ceramiczna wpuszczana Biała 76,5x46cm",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Umywalki",
+        "Finalne_ID_AI": 3234,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ceramiczna umywalka łazienkowa, która posiada bezpośrednie dopasowanie do kategorii liścia 'Umywalki' w sekcji wyposażenia łazienkowego."
     }
 ]
