@@ -5708,5 +5708,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Opaski zaciskowe (trytytki) to akcesoria montażowe i materiały eksploatacyjne, które nie są narzędziami w sensie ścisłym, dlatego kategoria 'Pozostałe Narzędzia' w sekcji 'Dom i Ogród' jest dla nich najbardziej odpowiednim miejscem jako kategoria zbiorcza dla drobnych artykułów technicznych."
+    },
+    {
+        "ID_Produktu": "242637347",
+        "Nazwa_Produktu": "Perlator obrotowy do kranu baterii kuchennej",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Kuchnia > Pozostałe",
+        "Finalne_ID_AI": 3236,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Perlator jest technicznym akcesorium do baterii kuchennej. Z uwagi na to, że nie stanowi kompletnej baterii (ID 3228) ani zlewozmywaka (ID 3230), najlepiej pasuje do kategorii 'Pozostałe' w sekcji wykończenia kuchni (ID 3225). Kategoria 'Przybory kuchenne' (ID 2113) sugerowana przez system dotyczy zazwyczaj narzędzi kuchennych typu sztućce czy garnki, podczas gdy perlator to element armatury."
+    },
+    {
+        "ID_Produktu": "242637354",
+        "Nazwa_Produktu": "Opaska magnetyczna na narzędzia dla majsterkowicza",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to magnetyczna opaska na nadgarstek ułatwiająca pracę przy majsterkowaniu. W drzewie kategorii OLX tego typu akcesoria warsztatowe i gadżety dla majsterkowiczów najlepiej klasyfikować w sekcji 'Dom i Ogród' pod 'Narzędzia' w kategorii 'Pozostałe Narzędzia', gdyż nie jest to narzędzie ręczne ani elektronarzędzie, lecz element wspomagający."
     }
 ]
