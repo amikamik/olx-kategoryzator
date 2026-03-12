@@ -5688,5 +5688,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to rzepy samoprzylepne o charakterze uniwersalnym, przeznaczone do montażu i prac wykończeniowych w domu, biurze i warsztacie. Kategoria 'Dom i Ogród > Narzędzia > Pozostałe Narzędzia' jest najczęstszym i najbardziej adekwatnym miejscem na tego typu akcesoria montażowe i drobne elementy warsztatowe na platformie OLX."
+    },
+    {
+        "ID_Produktu": "242637325",
+        "Nazwa_Produktu": "Kran bateria kuchenna czarna obrotowa",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Kuchnia > Baterie kuchenne",
+        "Finalne_ID_AI": 3228,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to fabrycznie nowa bateria kuchenna, która idealnie pasuje do dedykowanej kategorii liścia 'Baterie kuchenne' w ścieżce Dom i Ogród > Wykończenie wnętrz > Kuchnia."
+    },
+    {
+        "ID_Produktu": "242637326",
+        "Nazwa_Produktu": "Opasko zaciskowe zipy trytytki 500sztuk",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opaski zaciskowe (trytytki) to akcesoria montażowe i materiały eksploatacyjne, które nie są narzędziami w sensie ścisłym, dlatego kategoria 'Pozostałe Narzędzia' w sekcji 'Dom i Ogród' jest dla nich najbardziej odpowiednim miejscem jako kategoria zbiorcza dla drobnych artykułów technicznych."
     }
 ]

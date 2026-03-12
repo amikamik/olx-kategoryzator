@@ -2436,5 +2436,57 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242637320",
+        "Nazwa_Produktu": "Opaksi zaciskowe trytytki zipy 500sztuk",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opaski zaciskowe (trytytki) są klasyfikowane jako osprzęt elektroinstalacyjny, służący do porządkowania i mocowania kabli. Kategoria 'System i osprzęt instalacyjny' w sekcji 'Elektryka' jest najbardziej precyzyjnym miejscem dla tego typu produktów technicznych.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Opaksi zaciskowe trytytki zipy 500sztuk",
+                "description": "Produkt fabrycznie nowy, nieużywany w oryginalnym opakowaniu z plombą producenta. Jakość przemysłowa z wytrzymałego poliamidu nylonowego (odpornego na warunki atmosferyczne i promieniowanie UV) do stosowania w budowie maszyn, elektrotechnice, rzemiośle, przemyśle budowlanym, rolnictwie, ogrodnictwie, biurach oraz w majsterkowaniu. Dobra odporność na chemikalia, oleje i wahania temperatury, trudnopalny, bez zmiękczaczy, bez halogenów i silikonu Profesjonalny zestaw opasek kablowych w różnych rozmiarach, wysoka wytrzymałość na rozciąganie, mocne, stabilne i trwałe. Bezpieczne mocowanie, łatwa obsługa I bez zmiękczaczy, bez halogenu i silikonu W 4 różnych rozmiarach: 200 sztuk (100 x 2,5 mm) + 100 sztuk (150 x 2,5 mm) + 100 sztuk (200 x 2,5 mm) + 100 sztuk (300 x 3,6 mm) I Siła ciągnąca wynosi od 8,10 kg do 2,5 mm 2 kg na 3, 6 mm Materiał: poliamid 6.6r Odporna na alkalia, oleje, produkty olejne, smary, rozpuszczalniki chloru. Temperatura pracy od -40C do 85C. Temperatura robocza: od -40C do 120C Łatwy w obsłudze, szczelny i nietłukący. Niewielkie ryzyko obrażeń dzięki zaokrąglonym narożnikom. Odporna na działanie promieni UV. Nie zawiera halogenów. Informacje o wytrzymałości na rozciąganie: Opaska kablowa jest mocniejsza, tym większa. Oto maksymalna grubość naszych opasek kablowych dla każdej grubości: Siła ciągnąca: 100 x 2,5 do 200 x 2,5 mm 8,1 kg Siła ciągnąca: 140 x 3,6 do 360 x 3,6 mm 18,2 kg Siła ciągnąca: 160 x 4,8 do 610 x 4,8 mm 22,2 kg Siła ciągnąca: 250 x 7,6 do 750 x 7,6 mm 54,2 kg Zakres dostawy: 200 sztuk, 2,5 x 100 mm 100 sztuk, 2,5 x 150 mm 100 sztuk, 2,5 x 200 mm 100 sztuk 3,6 x 300 mm\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 56.08,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/18aa8532c0b64d6ed30ec1c862c8c1e3.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
