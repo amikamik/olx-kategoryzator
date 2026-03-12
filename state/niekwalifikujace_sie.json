@@ -3278,5 +3278,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to klej do okładzin hamulcowych, które są częściami samochodowymi. Brak specyfikacji co do typu pojazdu (np. dostawcze, ciężarowe), dlatego wybór najpopularniejszej kategorii dla części, czyli 'Osobowe', jest najbardziej odpowiedni."
+    },
+    {
+        "ID_Produktu": "243166254",
+        "Nazwa_Produktu": "Wiadro UltraSpeed 25 L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest wiadrem zaprojektowanym do profesjonalnego systemu sprzątania UltraSpeed, co jest wielokrotnie podkreślone w opisie (Vileda Professional, profesjonalne sprzątanie, system kodowania kolorami dla higieny). Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' jest najbardziej adekwatna do jego przeznaczenia i specyfikacji, lepiej niż ogólne kategorie domowe czy narzędziowe."
+    },
+    {
+        "ID_Produktu": "243166259",
+        "Nazwa_Produktu": "Wiadro UltraSpeed 15 L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne wiadro do sprzątania, zaprojektowane dla systemu UltraSpeed i UltraSpeed Pro, co wskazuje na zastosowania komercyjne lub profesjonalne. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący' jest najbardziej adekwatna, a ponieważ wiadro nie jest maszyną (jak inne podkategorie), 'Pozostałe' jest najlepszym wyborem na poziomie liścia."
+    },
+    {
+        "ID_Produktu": "243166285",
+        "Nazwa_Produktu": "Wiadro 6 L (z klipsami do kodowania kolorystycznego)",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wiadro Vileda Professional z systemem kodowania kolorystycznego do profesjonalnego sprzątania i utrzymania higieny w różnych strefach (biura, kuchnie, łazienki, toalety). Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie wiadra w kontekście profesjonalnym."
     }
 ]
