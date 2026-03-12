@@ -5378,5 +5378,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to biurowy dyspenser do taśmy, który jest klasycznym akcesorium biurowym. Kategoria 'Akcesoria i materiały biurowe' (4655) w sekcji 'Biuro' najlepiej oddaje przeznaczenie i charakter tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "242636765",
+        "Nazwa_Produktu": "Opaski ślimakowe 91-114mm stal nierdzewna 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opaski ślimakowe są elementami złącznymi służącymi do mocowania i uszczelniania przewodów elastycznych (węży) w instalacjach, co klasyfikuje je jako 'Rury, kształtki, złączki' w sekcji hydrauliki."
+    },
+    {
+        "ID_Produktu": "242636773",
+        "Nazwa_Produktu": "Lampa biurkowa nocna magnetyczna LED USB",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lampa LED zasilana przez USB, opisana przez producenta jako lampa biurkowa idealna do pracy i nauki, co precyzyjnie odpowiada kategorii liścia 'Lampki biurkowe'."
+    },
+    {
+        "ID_Produktu": "242636775",
+        "Nazwa_Produktu": "Lampa Ogrodowa LED Solarna Kula Wisząca 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Oświetlenie ogrodowe",
+        "Finalne_ID_AI": 1638,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest solarną lampą przeznaczoną do użytku w ogrodzie ('Lampa Ogrodowa'). W strukturze kategorii OLX dla takich produktów najbardziej dedykowaną i precyzyjną kategorią jest 'Oświetlenie ogrodowe' (ID: 1638) znajdujące się w gałęzi 'Ogród'."
+    },
+    {
+        "ID_Produktu": "242636781",
+        "Nazwa_Produktu": "Naklejki na Samochód Ślubne Dekoracja 3 plansze",
+        "Poczatkowa_Sciezka_OLX": "Moda > Do ślubu > Akcesoria ślubne > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Do ślubu > Akcesoria ślubne > Dekoracje na auto",
+        "Finalne_ID_AI": 3034,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to naklejki przeznaczone konkretnie do dekoracji samochodu w dniu ślubu, co idealnie pasuje do najbardziej specyficznej kategorii 'Dekoracje na auto' w dziale ślubnym."
+    },
+    {
+        "ID_Produktu": "242636820",
+        "Nazwa_Produktu": "Zestaw do Naprawy Ścian Płyt Gipsowych 13x13cm 3sz",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy (samoprzylepne łaty aluminiowe z siatką) do płyt gipsowo-kartonowych. Jest to materiał budowlany/eksploatacyjny stosowany przy remontach, dlatego najlepiej pasuje do kategorii 'Dom i Ogród > Budowa > Pozostałe', która obejmuje akcesoria budowlane niewpisujące się w inne, specyficzne kategorie."
     }
 ]
