@@ -5498,5 +5498,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to taśma antypoślizgowa pełniąca funkcję zabezpieczającą (BHP) na schodach i podłogach. Ze względu na uniwersalne zastosowanie wewnątrz i na zewnątrz budynków oraz charakter materiału budowlanego/wykończeniowego, kategoria 'Dom i Ogród > Budowa > Pozostałe' jest najbardziej adekwatnym wyborem dla tego typu akcesoriów."
+    },
+    {
+        "ID_Produktu": "242636923",
+        "Nazwa_Produktu": "Pułapka na myszy 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mechaniczna pułapka na gryzonie (myszy), przeznaczona do użytku zarówno w domu, jak i w ogrodzie. W dostarczonym drzewie kategorii brakuje dedykowanej sekcji dla deratyzacji lub zwalczania szkodników, dlatego najbardziej odpowiednią kategorią-liściem jest 'Pozostałe Ogród' w obrębie sekcji 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "242636925",
+        "Nazwa_Produktu": "Złącze Gwintowane Zbiornika S60X6",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Rolnictwo > Zbiorniki",
+        "Finalne_ID_AI": 4370,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne złącze (adapter) do zbiorników typu IBC (Mauser) o standardzie gwintu S60X6. W strukturze OLX akcesoria i części do zbiorników paletowych są najlepiej dopasowane do kategorii 'Zbiorniki' w sekcji 'Rolnictwo', gdzie trafia większość asortymentu związanego z pojemnikami IBC."
+    },
+    {
+        "ID_Produktu": "242636935",
+        "Nazwa_Produktu": "Lampki Łańcuch Świetlny 100LED 10m na baterie 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym dekoracyjnym łańcuchem świetlnym (girlandą), który zgodnie z drzewem kategorii OLX oraz jego specyfikacją (oświetlenie ozdobne LED) najlepiej pasuje do kategorii 'Girlandy świetlne' w dziale Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242636939",
+        "Nazwa_Produktu": "Torba Plażowa Z Zamkiem Na Ramię Jansben Xxl",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby plażowe",
+        "Finalne_ID_AI": 2759,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wprost zdefiniowany jako torba plażowa zarówno w tytule, jak i opisie. W drzewie kategorii OLX w sekcji Moda > Torby i torebki znajduje się dedykowana kategoria 'Torby plażowe' (ID: 2759), która jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "242636941",
+        "Nazwa_Produktu": "Zestaw kluczy nasadowych 5-13 mm 9szt adapter",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest 9-elementowym kompletem narzędzi (kluczy nasadowych), co bezpośrednio kwalifikuje go do kategorii 'Zestawy narzędzi'. Choć nasadki posiadają trzpień 1/4\" sugerujący użycie z wiertarką, na platformie OLX zestawy kluczy o określonych rozmiarach metrycznych są standardowo kategoryzowane jako zestawy narzędziowe."
     }
 ]
