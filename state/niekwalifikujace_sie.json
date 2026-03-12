@@ -5608,5 +5608,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zestaw ręcznych narzędzi przeznaczonych wyłącznie do prac w ogrodzie (widełki, łopatka, chwastownik). Zgodnie z drzewem kategorii, najbardziej trafnym wyborem jest ścieżka Dom i Ogród > Ogród > Narzędzia ogrodowe. Ponieważ zestaw nie pasuje do żadnego ze specyficznych liści w tej sekcji (takich jak grabie czy siewniki), wybieram kategorię 'Pozostałe' (ID 2886) w obrębie narzędzi ogrodowych."
+    },
+    {
+        "ID_Produktu": "242637080",
+        "Nazwa_Produktu": "Klipsy spinki do włosów pazur 3 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Akcesoria do włosów > Spinki i wsuwki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Spinki i wsuwki",
+        "Finalne_ID_AI": 2731,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to spinki do włosów typu 'szczęka' (pazur), co bezpośrednio odpowiada kategorii 'Spinki i wsuwki' znajdującej się w akcesoriach do włosów w dziale Moda."
     }
 ]
