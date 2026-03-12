@@ -3328,5 +3328,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to termowentylator, który jest typem przenośnego urządzenia grzewczego. Kategoria 'Ogrzewanie przenośne' jest najbardziej precyzyjna i znajduje się na odpowiednio głębokim poziomie w drzewie kategorii 'Dom i Ogród > Ogrzewanie'."
+    },
+    {
+        "ID_Produktu": "243166637",
+        "Nazwa_Produktu": "Prasa UltraSpeed (przeznaczona do wózków Voleo Pro)",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna prasa do wyciskania wody z mopów, przeznaczona do wózków Vileda Pro i używana do profesjonalnego utrzymania czystości. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący' jest najbardziej odpowiednia, a ponieważ prasa nie pasuje do bardziej szczegółowych podkategorii (myjnie, odkurzacze, szorowarki, zamiatarki), 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "243166690",
+        "Nazwa_Produktu": "Pas Transportowy Komplet 4M/35MM/2T - BELTCAR_2T4M",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy służący do zabezpieczania ładunków, często w pojazdach ciężarowych i na naczepach, co bezpośrednio wskazuje na kategorię Motoryzacja. Brak bardziej szczegółowej kategorii dla 'Pasy transportowe' pod kategorią 'Wyposażenie i akcesoria samochodowe' sprawia, że 'Pozostałe' jest najbardziej odpowiednim wyborem na najgłębszym poziomie."
+    },
+    {
+        "ID_Produktu": "243166696",
+        "Nazwa_Produktu": "Pas Transportowy Komplet 6M/35MM/2T - BELTCAR_2T6M",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia",
+        "Finalne_ID_AI": 4507,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Pas transportowy służy do zabezpieczania ładunków podczas transportu pojazdami. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Zabezpieczenia' jest najlepiej pasującą i najbardziej szczegółową kategorią, ponieważ opis produktu wyraźnie wskazuje na zabezpieczanie ładunku, a nie ogólne narzędzia czy akcesoria do innych narzędzi."
+    },
+    {
+        "ID_Produktu": "243166700",
+        "Nazwa_Produktu": "Pas Transportowy Komplet 8M/50MM/5T - BELTCAR_5T8M",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy o nośności 5 ton, przeznaczony do zabezpieczania ciężkich ładunków podczas transportu. Taka specyfikacja wskazuje na zastosowania profesjonalne i komercyjne, najlepiej pasujące do kategorii 'Firma i Przemysł'. W ramach tej kategorii, 'Sklepy i magazyny' (ID: 4668) jest najbardziej odpowiednim drzewem, ponieważ zabezpieczanie ładunków jest kluczowe w logistyce i operacjach magazynowych. Ponieważ w tej gałęzi nie ma bardziej szczegółowej kategorii dla pasów transportowych, 'Pozostałe' (ID: 4681) jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "243166705",
+        "Nazwa_Produktu": "Pas Transportowy Komplet 10M/50MM/5T - BELTCAR_5T10M",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pas transportowy o dużej nośności (5 ton), przeznaczony do zabezpieczania ciężkich ładunków podczas transportu. Jest to typowe wyposażenie dla firm zajmujących się logistyką, magazynowaniem lub transportem towarowym, co najlepiej pasuje do ogólnej kategorii 'Firma i Przemysł', a bardziej szczegółowo do 'Sklepy i magazyny > Pozostałe'. Chociaż może być używany w motoryzacji (np. w ciężarówkach), jego funkcja nie jest specyficzna dla 'wyposażenia samochodowego' rozumianego jako akcesoria do samochodów osobowych, a bardziej ogólnego zabezpieczania ładunków w kontekście komercyjnym. Sugestia systemowa 'Dom i Ogród > Narzędzia > Osprzęt do narzędzi' jest nieadekwatna, ponieważ pas transportowy nie jest osprzętem do narzędzi."
     }
 ]
