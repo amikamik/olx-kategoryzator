@@ -3528,5 +3528,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to profesjonalny wkład do mopa, przeznaczony do sprzątania na dużą skalę i w różnych strefach (biuro, kuchnia, łazienka, toaleta), co idealnie pasuje do kategorii 'Firma i Przemysł'. Najbardziej szczegółową kategorią-liściem dla takiego sprzętu czyszczącego jest 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "243167935",
+        "Nazwa_Produktu": "Ścierka DayStar Micro Zielona - 1 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna ściereczka z mikrofibry przeznaczona do użytku całodziennego, z naciskiem na wysokie standardy higieny i czystości, z wyraźnym wskazaniem na zastosowanie w kuchni i obszarach spożywczych oraz w gastronomii (ściereczki dla gastronomii). Najlepszą kategorią jest 'Firma i Przemysł' ze względu na profesjonalny charakter produktu, a w niej 'Gastronomia', gdzie ściereczka będzie zakwalifikowana do 'Pozostałe' ze względu na brak bardziej szczegółowej podkategorii dla tego typu akcesoriów czyszczących."
+    },
+    {
+        "ID_Produktu": "243167953",
+        "Nazwa_Produktu": "r-MicronSolo, zielony - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Klocki > Klocki plastikowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna ściereczka jednorazowego użytku Vileda, która jest przeznaczona do skutecznego sprzątania i usuwania bakterii/wirusów, w szczególności w obszarach podwyższonej higieny, takich jak gastronomia (zielony kolor ściereczki jest dedykowany do kuchni i obszarów spożywczych). Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie tego produktu."
     }
 ]
