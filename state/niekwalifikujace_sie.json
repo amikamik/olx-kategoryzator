@@ -3508,5 +3508,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to koszulki na dokumenty, które są typowym akcesorium biurowym. Kategoria 'Akcesoria i materiały biurowe' jest najbardziej szczegółowa i bezpośrednio pasuje do przeznaczenia produktu, co jest jasno wskazane w opisie."
+    },
+    {
+        "ID_Produktu": "243167764",
+        "Nazwa_Produktu": "Prasa UltraSpeed Pro (wyciskarka)",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Wyciskarki do cytrusów",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna wyciskarka do mopów, przeznaczona do wydajnego sprzątania. Najlepiej pasuje do kategorii 'Firma i Przemysł', a następnie 'Maszyny i urządzenia' oraz 'Sprzęt czyszczący'. Ponieważ nie jest to typowa myjnia, odkurzacz, szorowarka ani zamiatarka, najbardziej szczegółową i adekwatną kategorią-liściem jest 'Pozostałe' w obrębie 'Sprzęt czyszczący'."
+    },
+    {
+        "ID_Produktu": "243167770",
+        "Nazwa_Produktu": "Wkład UltraSpeed Pro r-Trio Max (mop z paskami do kodowania kolorystycznego)",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Fitness > Akcesoria treningowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny wkład do mopa, przeznaczony do sprzątania na dużą skalę i w różnych strefach (biuro, kuchnia, łazienka, toaleta), co idealnie pasuje do kategorii 'Firma i Przemysł'. Najbardziej szczegółową kategorią-liściem dla takiego sprzętu czyszczącego jest 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe'."
     }
 ]
