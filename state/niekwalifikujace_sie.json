@@ -3548,5 +3548,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalna ściereczka jednorazowego użytku Vileda, która jest przeznaczona do skutecznego sprzątania i usuwania bakterii/wirusów, w szczególności w obszarach podwyższonej higieny, takich jak gastronomia (zielony kolor ściereczki jest dedykowany do kuchni i obszarów spożywczych). Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej szczegółowa i najlepiej oddaje przeznaczenie tego produktu."
+    },
+    {
+        "ID_Produktu": "243168011",
+        "Nazwa_Produktu": "Vileda Pet Pro Szczotka do zamiatania sierści i włosów Always Clean",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Włosy > Stylizacja > Szczotki i grzebienie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szczotka do zamiatania sierści i włosów, która jest narzędziem do sprzątania. Najbardziej szczegółową kategorią-liściem, która pasuje do tego typu produktu, jest 'Miotły i szczotki', znajdująca się w drzewie 'Dom i Ogród > Ogród > Narzędzia ogrodowe'."
+    },
+    {
+        "ID_Produktu": "243168051",
+        "Nazwa_Produktu": "Sekator Ogrodowy GARDENA 8754-20",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalne_ID_AI": 2880,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa i opis produktu (\"Sekator Ogrodowy\", \"narzędzia ogrodnicze\", \"cięcie kwiatów, młodych pędów oraz świeżych gałęzi\") idealnie pasują do kategorii \"Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory\"."
+    },
+    {
+        "ID_Produktu": "243168059",
+        "Nazwa_Produktu": "Foliopaki Kurierskie Białe A3 310x420mm - 50 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliopaki kurierskie, które są przeznaczone do bezpiecznego transportu towarów, co jest kluczowe dla firm prowadzących działalność handlową i magazynową, w tym e-commerce. Kategoria 'Firma i Przemysł > Sklepy i magazyny' najlepiej oddaje przeznaczenie produktu. Ponieważ nie ma bardziej szczegółowej podkategorii dla materiałów opakowaniowych, 'Pozostałe' w tej gałęzi jest najbardziej adekwatne."
+    },
+    {
+        "ID_Produktu": "243168065",
+        "Nazwa_Produktu": "Foliopaki Kurierskie Białe A3 310x420mm - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliopaki kurierskie, które są materiałami eksploatacyjnymi używanymi w biurach i firmach do pakowania i wysyłki towarów. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna."
+    },
+    {
+        "ID_Produktu": "243168072",
+        "Nazwa_Produktu": "Foliopaki Kurierskie Białe A3 310x420mm - 1000 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliopaki kurierskie, które są opakowaniem przeznaczonym do wysyłki towarów, szczególnie w e-commerce i logistyce. Kategoria 'Firma i Przemysł > Sklepy i magazyny' najlepiej odzwierciedla zastosowanie produktu, a 'Pozostałe' jest najbardziej szczegółową kategorią-liściem dla tego typu materiałów opakowaniowych w ramach tej ścieżki."
+    },
+    {
+        "ID_Produktu": "243168078",
+        "Nazwa_Produktu": "Foliopaki Kurierskie Białe XL 500x600mm - 50 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliopaki kurierskie, które służą do bezpiecznego pakowania i wysyłki towarów. Najlepiej pasującą kategorią jest 'Firma i Przemysł', a w jej ramach 'Sklepy i magazyny'. Ponieważ nie ma bardziej szczegółowej kategorii dotyczącej opakowań wysyłkowych, 'Pozostałe' w tej gałęzi jest najbardziej adekwatnym wyborem, biorąc pod uwagę komercyjne zastosowanie produktu."
     }
 ]
