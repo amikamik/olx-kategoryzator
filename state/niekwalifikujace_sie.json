@@ -3228,5 +3228,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to worki do segregacji odpadów papierowych, które, jak wskazuje opis, idealnie sprawdzają się w biurach, miejscach publicznych, szpitalach i przemyśle, a także są zgodne z normami dla odpadów medycznych. Te zastosowania silnie sugerują kategorię biznesową. 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółową kategorią-liściem, która obejmuje tego typu materiały eksploatacyjne dla środowiska pracy."
+    },
+    {
+        "ID_Produktu": "243166083",
+        "Nazwa_Produktu": "Folia aluminiowa szerokość 29cm 12µm 1,0kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to folia aluminiowa przeznaczona do grillowania, pieczenia, zamrażania i przechowywania potraw, z wyraźnym wskazaniem na zastosowanie profesjonalne w restauracjach, barach, stołówkach i lokalach gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje jego funkcję jako materiału do pakowania i przechowywania żywności w kontekście biznesowym. Wskazówka systemowa 'Dom i Ogród > Narzędzia > Osprzęt do narzędzi' jest niezgodna z przeznaczeniem produktu."
+    },
+    {
+        "ID_Produktu": "243166100",
+        "Nazwa_Produktu": "AZ Trzonek drewniany 120cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Klocki > Klocki drewniane",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to drewniany trzonek do szczotki lub mopa. Najbardziej szczegółową i pasującą kategorią, pomimo kontekstu 'ogrodowego', jest 'Miotły i szczotki', ponieważ trzonek jest integralną częścią tych narzędzi do sprzątania, a sama nazwa kategorii jest bardzo trafna. Brak bardziej specyficznej kategorii dla narzędzi do sprzątania domu."
+    },
+    {
+        "ID_Produktu": "243166103",
+        "Nazwa_Produktu": "AZ Zmywak do grilla 1szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zmywak (szczotka/gąbka) przeznaczony do czyszczenia grilla, piekarnika i kominków. Kategoria 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki' jest najbardziej szczegółową kategorią liściową, która odpowiada funkcji produktu jako narzędzia do czyszczenia (szczotki/zmywaka), a grill często jest elementem ogrodu, co dobrze koresponduje z 'Narzędzia ogrodowe'. Dodatkowo, nazwa kategorii 'Miotły i szczotki' dobrze opisuje rodzaj produktu."
+    },
+    {
+        "ID_Produktu": "243166129",
+        "Nazwa_Produktu": "Klej Do Okładzin Hamulcowych HYSOFIX 770-2 - 120 ml",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalne_ID_AI": 1399,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to klej do okładzin hamulcowych, co jednoznacznie wskazuje na zastosowanie w motoryzacji. Najbardziej szczegółową kategorią dla części samochodowych jest 'Osobowe' w drzewie 'Motoryzacja > Części samochodowe'."
+    },
+    {
+        "ID_Produktu": "243166132",
+        "Nazwa_Produktu": "Klej Do Okładzin Hamulcowych HYSOFIX 770-2 - 50 ml",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalne_ID_AI": 1399,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to klej do okładzin hamulcowych, które są częściami samochodowymi. Brak specyfikacji co do typu pojazdu (np. dostawcze, ciężarowe), dlatego wybór najpopularniejszej kategorii dla części, czyli 'Osobowe', jest najbardziej odpowiedni."
     }
 ]
