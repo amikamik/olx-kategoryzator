@@ -3378,5 +3378,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pas transportowy o dużej nośności (5 ton), przeznaczony do zabezpieczania ciężkich ładunków podczas transportu. Jest to typowe wyposażenie dla firm zajmujących się logistyką, magazynowaniem lub transportem towarowym, co najlepiej pasuje do ogólnej kategorii 'Firma i Przemysł', a bardziej szczegółowo do 'Sklepy i magazyny > Pozostałe'. Chociaż może być używany w motoryzacji (np. w ciężarówkach), jego funkcja nie jest specyficzna dla 'wyposażenia samochodowego' rozumianego jako akcesoria do samochodów osobowych, a bardziej ogólnego zabezpieczania ładunków w kontekście komercyjnym. Sugestia systemowa 'Dom i Ogród > Narzędzia > Osprzęt do narzędzi' jest nieadekwatna, ponieważ pas transportowy nie jest osprzętem do narzędzi."
+    },
+    {
+        "ID_Produktu": "243166802",
+        "Nazwa_Produktu": "Czapka Zimowa Z Daszkiem REIS CZBAS",
+        "Poczatkowa_Sciezka_OLX": "Moda > Czapki i kapelusze > Czapki z daszkiem",
+        "Finalna_Sciezka_AI": "Moda > Czapki i kapelusze > Czapki z daszkiem",
+        "Finalne_ID_AI": 2742,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to czapka zimowa z daszkiem, która pasuje idealnie do kategorii 'Moda > Czapki i kapelusze > Czapki z daszkiem'. Mimo, że opisuje również zastosowania w różnych branżach jako odzież ochronna, jego podstawowa nazwa i wygląd sugerują klasyfikację jako element garderoby."
     }
 ]
