@@ -5228,5 +5228,75 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zestaw specjalistycznych wieszaków na spodnie służących do organizacji szafy. W strukturze OLX kategoria 'Wieszaki' (ID: 1948) pod sekcją 'Meble' jest najbardziej specyficznym i standardowym miejscem dla tego rodzaju akcesoriów domowych."
+    },
+    {
+        "ID_Produktu": "242636435",
+        "Nazwa_Produktu": "Lampa Wisząca LED 30W Nowoczesna 3000-6500K A++",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalne_ID_AI": 3867,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako lampa wisząca (pendant lamp) z regulacją wysokości i montażem sufitowym, co w drzewie kategorii OLX odpowiada liściowi 'Lampy wiszące' w sekcji 'Oświetlenie'."
+    },
+    {
+        "ID_Produktu": "242636481",
+        "Nazwa_Produktu": "Lampki sufitowe LED 10W 800lm Bluetooth 4 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to oprawy typu downlight do wbudowania w sufit (recessed), co w nomenklaturze oświetleniowej na polskim rynku i w drzewie kategorii OLX najlepiej opisuje kategoria 'Oczka'."
+    },
+    {
+        "ID_Produktu": "242636520",
+        "Nazwa_Produktu": "Trójkąt ostrzegawczy do samochodu odblaskowy",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty",
+        "Finalne_ID_AI": 4483,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to trójkąt ostrzegawczy, który jest wprost wymieniony w nazwie wybranej kategorii (Apteczki, gaśnice, kamizelki, trójkąty) wewnątrz sekcji wyposażenia i akcesoriów samochodowych."
+    },
+    {
+        "ID_Produktu": "242636579",
+        "Nazwa_Produktu": "Podkładka do Pieczątek z Tuszem Tuszownica czarny",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tuszownica do pieczątek to klasyczny artykuł biurowy. Kategoria 'Akcesoria i materiały biurowe' w sekcji 'Biuro' (pod 'Firma i Przemysł') jest najbardziej precyzyjnym i merytorycznym wyborem dla tego typu produktów, znacznie lepiej oddającym charakter przedmiotu niż ogólna kategoria artykułów papierniczych dla dzieci."
+    },
+    {
+        "ID_Produktu": "242636598",
+        "Nazwa_Produktu": "Broszka Świąteczna Przypinka 3 szt Stal Nierdzewna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Broszki",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Broszki",
+        "Finalne_ID_AI": 2835,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw trzech broszek wykonanych ze stali nierdzewnej, przeznaczonych jako ozdoba do ubrań dla kobiet. Kategoria 'Broszki' (ID: 2835) znajdująca się w sekcji 'Biżuteria' jest najbardziej szczegółowym i trafnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "242636600",
+        "Nazwa_Produktu": "Broszka Świąteczna Przypinka 3 szt Stal Nierdzewna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Broszki",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Broszki",
+        "Finalne_ID_AI": 2835,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw broszek/przypinek wykonanych ze stali nierdzewnej, co wprost odpowiada kategorii liściastej 'Broszki' w sekcji 'Biżuteria' wewnątrz działu 'Moda'."
+    },
+    {
+        "ID_Produktu": "242636661",
+        "Nazwa_Produktu": "Reflektor LED wpuszczany 6W 360lm 115mm srebrny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym reflektorem wpuszczanym w sufit (downlight), co w polskiej terminologii oświetleniowej i strukturze kategorii OLX odpowiada kategorii 'Oczka'."
     }
 ]
