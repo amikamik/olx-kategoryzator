@@ -3168,5 +3168,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to rolki termiczne, które są materiałami eksploatacyjnymi do drukarek fiskalnych, terminali płatniczych i bankomatów. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najbardziej precyzyjna, ponieważ obejmuje drukarki i akcesoria specyficzne dla środowiska handlowego i magazynowego, do którego należą wskazane w opisie urządzenia."
+    },
+    {
+        "ID_Produktu": "243165700",
+        "Nazwa_Produktu": "Sejf - Szafka Na Klucze - Szara",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Meble biurowe > Sejfy i kasy pancerne",
+        "Finalne_ID_AI": 4944,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest sejfem na klucze, który pasuje idealnie do kategorii 'Sejfy i kasy pancerne' pod 'Firma i Przemysł > Biuro > Meble biurowe'. Jest to najbardziej szczegółowa i trafna kategoria-liść dostępna w drzewie."
+    },
+    {
+        "ID_Produktu": "243165719",
+        "Nazwa_Produktu": "TENZI Shampo Neutro 1L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szampon do mycia samochodów, co jednoznacznie wskazuje na kategorię związaną z motoryzacją. Brak bardziej szczegółowej podkategorii chemii samochodowej w 'Wyposażenie i akcesoria samochodowe' sprawia, że 'Pozostałe' w tej gałęzi jest najlepiej dopasowanym, najbardziej szczegółowym liściem."
     }
 ]
