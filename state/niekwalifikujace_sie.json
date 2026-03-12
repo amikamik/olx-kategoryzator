@@ -3758,5 +3758,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to proszek na mrówki, przeznaczony do zwalczania szkodników zarówno w pomieszczeniach, jak i w ich bezpośrednim otoczeniu (tarasy, altany, ogrody). Najlepiej pasującą, szczegółową kategorią-liściem, biorąc pod uwagę zastosowanie zewnętrzne i ogrodowe, jest 'Dom i Ogród > Ogród > Pozostałe Ogród'. Chociaż obejmuje również zastosowanie wewnętrzne, kontekst walki ze szkodnikami w otoczeniu domu mocno wskazuje na dział ogrodowy. Brak bardziej specyficznej kategorii dla środków owadobójczych pod 'Dom i Ogród' sprawia, że 'Pozostałe Ogród' jest najbardziej adekwatnym wyborem, unikającym błędnej kategoryzacji (np. jako środek czyszczący)."
+    },
+    {
+        "ID_Produktu": "243168836",
+        "Nazwa_Produktu": "BROS - proszek na mrówki 500g",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki do prania",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to proszek na mrówki, przeznaczony do zwalczania szkodników w pomieszczeniach i ogrodach. Kategoria 'Dom i Ogród > Ogród > Pozostałe Ogród' jest najbardziej szczegółową kategorią-liściem, która obejmuje tego typu środki, biorąc pod uwagę ich zastosowanie w ogrodzie i wokół domu."
+    },
+    {
+        "ID_Produktu": "243168847",
+        "Nazwa_Produktu": "BROS - zawieszka na mole lawendowa - 1 szt.",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Wisiorki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zawieszka na mole, która jest środkiem chemicznym przeznaczonym do ochrony odzieży w szafach. Najlepiej pasuje do kategorii 'Dom i Ogród', a następnie do 'Supermarket' jako produkt chemii gospodarczej, podobny w funkcji do 'Środków czyszczących'."
     }
 ]
