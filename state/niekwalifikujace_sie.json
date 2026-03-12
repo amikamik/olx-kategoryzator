@@ -3608,5 +3608,85 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to foliopaki kurierskie, które służą do bezpiecznego pakowania i wysyłki towarów. Najlepiej pasującą kategorią jest 'Firma i Przemysł', a w jej ramach 'Sklepy i magazyny'. Ponieważ nie ma bardziej szczegółowej kategorii dotyczącej opakowań wysyłkowych, 'Pozostałe' w tej gałęzi jest najbardziej adekwatnym wyborem, biorąc pod uwagę komercyjne zastosowanie produktu."
+    },
+    {
+        "ID_Produktu": "243168277",
+        "Nazwa_Produktu": "Zestaw Do Układów Cieśnienia/Podciśnienia",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Testery diagnostyczne",
+        "Finalne_ID_AI": 5184,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny zestaw do diagnostyki i obsługi układów ciśnienia/podciśnienia w pojazdach, przeznaczony dla warsztatów mechanicznych. Najlepiej pasuje do kategorii 'Testery diagnostyczne' w dziale 'Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka'."
+    },
+    {
+        "ID_Produktu": "243168292",
+        "Nazwa_Produktu": "Foliopaki Kurierskie Białe B4 260x350mm - 50 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliopaki kurierskie, które służą do pakowania i wysyłki towarów, co jest typową czynnością w biurze lub firmie. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółowa i trafna dla tego rodzaju artykułów."
+    },
+    {
+        "ID_Produktu": "243168299",
+        "Nazwa_Produktu": "Foliopaki Kurierskie Białe B4 260x350mm - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliopaki kurierskie, przeznaczone do bezpiecznego pakowania i wysyłki towarów, co jest typową działalnością dla sklepów i magazynów. Brak bardziej szczegółowej kategorii dla materiałów opakowaniowych lub wysyłkowych w ramach 'Sklepy i magazyny', dlatego 'Pozostałe' w tej gałęzi jest najlepiej dopasowane. Wskazówka systemowa 'Dla Dzieci' była myląca i nieadekwatna do produktu."
+    },
+    {
+        "ID_Produktu": "243168308",
+        "Nazwa_Produktu": "Foliopaki Kurierskie Białe B4 260x350mm - 1000 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliopaki kurierskie służące do pakowania i wysyłki towarów. Jest to typowy artykuł eksploatacyjny dla firm, sklepów i magazynów. Kategoria 'Firma i Przemysł' jako nadrzędna jest trafna, a 'Sklepy i magazyny' jako podkategoria pasuje idealnie do przeznaczenia produktu. Ponieważ nie ma bardziej szczegółowej podkategorii dla opakowań wysyłkowych, 'Pozostałe' jest najbardziej odpowiednim wyborem na poziomie liścia."
+    },
+    {
+        "ID_Produktu": "243168318",
+        "Nazwa_Produktu": "Foliopaki Kurierskie Białe 200x300mm - 50 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to foliopaki kurierskie, które są materiałami eksploatacyjnymi używanymi w biurach do pakowania i wysyłki towarów. Kategoria 'Akcesoria i materiały biurowe' jest najbardziej szczegółową i adekwatną kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "243168326",
+        "Nazwa_Produktu": "Foliopaki Kurierskie Białe 200x300mm - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliopaki kurierskie, które są materiałami eksploatacyjnymi używanymi przez firmy do wysyłki towarów. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', ponieważ są to akcesoria biurowe związane z działalnością biznesową, w tym z logistyką wysyłek. Sugestia systemowa była błędna, ponieważ 'Foliopaki Kurierskie' nie są artykułami szkolnymi ani dziecięcymi."
+    },
+    {
+        "ID_Produktu": "243168334",
+        "Nazwa_Produktu": "Foliopaki Kurierskie Białe 200x300mm - 1000 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliopaki kurierskie, które służą do pakowania i wysyłki towarów. Jest to typowe wyposażenie dla operacji w sklepach i magazynach. Brak bardziej szczegółowej kategorii dla materiałów opakowaniowych sprawia, że 'Sklepy i magazyny > Pozostałe' jest najbardziej odpowiednim wyborem, najlepiej oddającym przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "243168368",
+        "Nazwa_Produktu": "Dmuchawa Do Rozpalania Grilla AFF 3731",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to dmuchawa do rozpalania grilla, ogniska lub kominka. Kategoria 'Dom i Ogród > Ogród > Grill' jest najbardziej szczegółową i trafnie opisuje przeznaczenie produktu jako akcesorium do grillowania."
     }
 ]
