@@ -5863,5 +5863,18 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "242637640",
+        "Nazwa_Produktu": "Różdżki Świecące LED Dla Dzieci DIY z Naklejkami",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalne_ID_AI": 3093,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw świecących różdżek LED z naklejkami przeznaczony dla dzieci (zabawka). Ponieważ nie pasuje do żadnej specyficznej podkategorii zabawek (takiej jak klocki, lalki czy gry), najlepiej pasuje do kategorii 'Pozostałe' w sekcji 'Zabawki'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]

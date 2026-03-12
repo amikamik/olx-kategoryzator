@@ -6008,5 +6008,85 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zimowy pokrowiec wykonany z agrowłókniny, przeznaczony do ochrony roślin w ogrodzie. W strukturze OLX agrowłókniny oraz materiały do ściółkowania i osłony roślin znajdują się w kategorii Dom i Ogród > Ogród > Podłoża ogrodowe > Włókniny. Sugerowana przez system podpowiedź 'Pokrowce' dotyczy wyposażenia wnętrz (mebli itp.), co nie pasuje do zastosowania ogrodniczego."
+    },
+    {
+        "ID_Produktu": "242637577",
+        "Nazwa_Produktu": "Obrotowe Kółka Przemysłowe z Hamulcem 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Tytuł 'Kółka Przemysłowe' oraz opis wskazujący na zastosowanie w wózkach transportowych i stołach warsztatowych, a także materiał wykonania (poliuretan, żelazo), najlepiej kwalifikują produkt jako części do maszyn i urządzeń w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242637581",
+        "Nazwa_Produktu": "Nasadka do Perlatora 360 Stopni M24/M22",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest nasadką/złączką do perlatora kranowego (M24/M22), służącą do redukcji i łączenia elementów armatury wodnej. Najdokładniej pasuje do kategorii 'Rury, kształtki, złączki' w dziale Hydraulika."
+    },
+    {
+        "ID_Produktu": "242637586",
+        "Nazwa_Produktu": "Przepust kablowy srebrny 60mm 12sztuk",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przepusty (przelotki) kablowe montowane bezpośrednio w meblach (biurkach) w celu organizacji przewodów, co czyni go klasycznym akcesorium meblowym."
+    },
+    {
+        "ID_Produktu": "242637589",
+        "Nazwa_Produktu": "Taśma uszczelniająca uszczelka 3,5 x 500 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjna taśma uszczelniająca do drzwi i okien, wykonana z silikonu. W strukturze OLX akcesoria montażowe i drobne materiały budowlane tego typu najlepiej pasują do kategorii Dom i Ogród > Budowa > Pozostałe, ponieważ produkt nie ogranicza się tylko do jednego rodzaju stolarki (pasuje zarówno do drzwi, okien, jak i szaf)."
+    },
+    {
+        "ID_Produktu": "242637608",
+        "Nazwa_Produktu": "Siatka do wiązania roślin pnących podpora 50m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to materiał pomocniczy do stabilizacji i wsparcia roślin (siatka/taśma do wiązania). Najlepiej pasuje do kategorii 'Pozostałe Ogród', ponieważ jest to akcesorium ogrodowe, które nie jest narzędziem mechanicznym, elementem nawadniania ani dużą architekturą ogrodową."
+    },
+    {
+        "ID_Produktu": "242637615",
+        "Nazwa_Produktu": "Siatka Zacieniająca Ogrodowa 50% Zielona 1.8x2m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to siatka zacieniająca, która zgodnie z opisem pełni funkcję ekranu prywatności (privacy screen) na ogrodzenia, balkony i tarasy. W drzewie kategorii OLX tego typu osłony wizualne i funkcjonalne elementy aranżacji ogrodu są najtrafniej klasyfikowane w kategorii 'Dekoracje ogrodowe', co potwierdza również wskazówka systemowa."
+    },
+    {
+        "ID_Produktu": "242637624",
+        "Nazwa_Produktu": "Rolka termiczna 57x15 Eco bez gilzy 10szt Primus",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Rolki termiczne to materiały eksploatacyjne (papierowe) wykorzystywane w urządzeniach rejestrujących. Kategoria 'Akcesoria i materiały biurowe' (4655) w sekcji 'Biuro' jest najbardziej odpowiednia dla tego typu artykułów biurowych i piśmienniczych w kontekście biznesowym."
+    },
+    {
+        "ID_Produktu": "242637627",
+        "Nazwa_Produktu": "Rolka termiczna 57x30 Eco bez gilzy 10szt Primus",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to materiały eksploatacyjne (rolki termiczne) przeznaczone do urządzeń fiskalnych i płatniczych, co najlepiej pasuje do kategorii 'Akcesoria i materiały biurowe' w sekcji 'Firma i Przemysł'."
     }
 ]
