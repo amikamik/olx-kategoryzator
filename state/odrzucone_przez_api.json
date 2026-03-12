@@ -2997,5 +2997,83 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243166830",
+        "Nazwa_Produktu": "Coccolino Core Happy Yellow 1700ml",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki do prania",
+        "Finalne_ID_AI": 4365,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to płyn do płukania tkanin, który idealnie pasuje do kategorii 'Środki do prania' znajdującej się w drzewie 'Dom i Ogród > Supermarket'. Jest to najbardziej szczegółowa i trafna kategoria dla tego typu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Coccolino core happy yellow 1700ml",
+                "description": "Coccolino Core Happy Yellow 1700ml Coccolino Core Happy Yellow Coccolino zyskają wyjątkową miękkość i długotrwały zapach. Kompozycja zapachowa zawarta w każdej kropli skoncentrowanego płynu Coccolino Happy Yellow zachwyca swoim świeżym zapachem żółtych letnich kwiatów, który uwalnia się stopniowo podczas ruchu tkaniny. Wystarczy niewielka ilość skoncentrowanej formuły płynu Coccolino, aby tkaniny i ubrania zyskały niesamowitą miękkość. Niesamowita Miękkość Płyn do płukania tkanin Coccolino nadaje tkaninom cudowną miękkość oraz zmniejsza ich elektryzowanie się. Dzięki temu prane ubrania zachowują swój kształt i są niezwykle przyjemne w dotyku. Przekonaj się, jak rozkosznie je nosić! Świeży Oraz Przyjemny Zapach Każda kropla płynu do płukania kryje przyjemny zapach. Coccolino wnika we włókna tkanin podczas prania, otulając je urzekającym aromatem, który jest uwalniany z każdym ruchem ubrań. Dzięki temu możesz cieszyć się niezwykłą świeżością wiele dni, za każdym razem, gdy założysz ulubione ubranie! Skoncentrowana Formuła Już 1/2 nakrętki płynu do płukania tkanin Coccolino wystarczy, aby nadać Twoim ubraniom miękkość i długotrwałą świeżość. Wszystko, dzięki wydajnej, skoncentrowanej formule, której możesz używać podczas każdego prania! Jak Używać? Za pomocą nakrętki możesz odmierzyć odpowiednią ilość płynu: 35 ml dla prania o wadze 4-5 kg 50 ml dla prania o wadze 6-7 kg Wlej Coccolino do szuflady pralki, zamknij ją, a następnie ustaw odpowiedni program prania zgodnie z zaleceniami na metkach pranych ubrań. Płynu do płukania tkanin nie należy stosować bezpośrednio na tkaninę. płyn do płukania, Coccolino Core Happy Yellow, 1700ml, świeży zapach, kwiatowy aromat, długotrwała świeżość, miękkość tkanin, antybakteryjny, hipoalergiczny, chemia profesjonalna, Unilever Polska, skoncentrowana formuła, uniwersalne pranie, oszczędne użycie, oryginalne opakowanie, nowe produkty, liczba prań 68, z Węgier, Al. Jerozolimskie 134, Warszawa, kontakt@unilever.pl, kod EAN: 5906142901241, składniki aktywne, tkaniny miękkie, redukcja elektryzowania, przyjemne w dotyku, zmysłowy aromat, letnie kwiaty, ubrania, szafa, garderoba, zalecenia prania, zakupy online, wysoka jakość, bezpieczeństwo użycia, odpowiedzialna marka, producent Unilever, pielęgnacja odzieży, domowy komfort, zalecenia dotyczące użycia, wydajność produktu, Coccolino Fresh & Soft, trwałość odświeżenia, produkty gospodarstwa domowego, przyjazny dla skóry, odnawialny zapach, skład specjalistyczny.\n\nProducent odpowiedzialny:\nUnilever Polska Sp. z o.o.\nAl. Jerozolimskie 134, 02-305 Warszawa\nKontakt: kontakt[at]unilever.pl\n\n[DOFIRMY]",
+                "category_id": 4365,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 36.05,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/b567e8ccb4ebaccd548b184090294d39.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/28ea7157cb58929fce81322e5b607757.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/fcd6269b8361e3c4764402d0cb7fabf9.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/adc6b46abe4695efc51d87d82703baad.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/d0fc33c262d54bd099a9ba76c1524321.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/815df2d61d523c752f9b9f47f813f3d9.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/25471e7461600884448dbf7f41b2ac39.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/5fe774be10c2fa57e67a285727525b7f.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

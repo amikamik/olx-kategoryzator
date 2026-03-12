@@ -3388,5 +3388,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to czapka zimowa z daszkiem, która pasuje idealnie do kategorii 'Moda > Czapki i kapelusze > Czapki z daszkiem'. Mimo, że opisuje również zastosowania w różnych branżach jako odzież ochronna, jego podstawowa nazwa i wygląd sugerują klasyfikację jako element garderoby."
+    },
+    {
+        "ID_Produktu": "243166849",
+        "Nazwa_Produktu": "Szczotka Superior Do Szorowania 30 cm",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Włosy > Stylizacja > Szczotki i grzebienie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalna szczotka do szorowania, przeznaczona do zastosowań przemysłowych i profesjonalnego sprzątania, o czym świadczą takie cechy jak 'Vileda Professional', 'odporność na substancje chemiczne', 'sterylizacja w autoklawie'. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu jako specjalistycznego narzędzia czyszczącego, które nie jest maszyną (jak szorowarka czy zamiatarka)."
     }
 ]
