@@ -1038,7 +1038,30 @@ def zapisz_bez_gpsr(feed_id, olx_id, product_name, sciezka_pliku):
         "olx_id": olx_id,
         "product_name": product_name,
         "published_at": datetime.now().isoformat(),
-        "gpsr_updated": False  # False = jeszcze nie zaktualizowano GPSR
+        wynik = response.json()
+
+        # --- OCHRONA PRZED AKTYWACJĄ ---
+        # OLX API nie ma trybu draft. Jeśli są wolne sloty, ogłoszenie dostaje
+        # status "new" → przechodzi moderację → staje się "active" (widoczne publicznie).
+        # Aby temu zapobiec, natychmiast dezaktywujemy ogłoszenie ze statusem "new".
+        zwrocony_status = wynik.get("data", {}).get("status")
+        if zwrocony_status == "new":
+            advert_id = wynik.get("data", {}).get("id") or wynik.get("id")
+            if advert_id:
+                try:
+                    deact_url = f"https://www.olx.pl/api/partner/adverts/{advert_id}/commands"
+                    deact_payload = {"command": "deactivate", "is_success": False}
+                    deact_resp = requests.post(deact_url, headers=headers, json=deact_payload, timeout=15)
+                    deact_resp.raise_for_status()
+                    print(f"    │  ├─ 🛡️ OCHRONA: Ogłoszenie {advert_id} dezaktywowane (status był 'new' → zapobieżono aktywacji)")
+                except Exception as deact_err:
+                    print(f"    │  ├─ ⚠️ UWAGA: Nie udało się dezaktywować ogłoszenia {advert_id}! Błąd: {deact_err}")
+                    print(f"    │  ├─ ⚠️ Ogłoszenie może stać się AKTYWNE po moderacji!")
+        elif zwrocony_status == "limited":
+            print(f"    │  ├─ ✅ Status 'limited' - ogłoszenie wymaga opłaty, nie stanie się aktywne")
+        # --- KONIEC OCHRONY ---
+
+        return True, wynikse = jeszcze nie zaktualizowano GPSR
     })
     
     with open(sciezka_pliku, 'w', encoding='utf-8') as f:
