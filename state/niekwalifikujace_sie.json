@@ -3728,5 +3728,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to gaśnica na osy i szerszenie, przeznaczona do zwalczania szkodników na posesji/w ogrodzie. Najlepiej pasuje do kategorii 'Dom i Ogród' > 'Ogród'. Ponieważ nie ma bardziej szczegółowej kategorii dotyczącej środków owadobójczych lub zwalczania szkodników w obrębie 'Ogród', kategoria 'Pozostałe Ogród' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "243168813",
+        "Nazwa_Produktu": "BROS - packa na muchy kodowana",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Broszki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczne narzędzie do zwalczania owadów (packa na muchy), które najlepiej pasuje do ogólnej kategorii 'Pozostałe Narzędzia' w obrębie 'Dom i Ogród', ponieważ nie jest to elektronarzędzie ani żaden z bardziej specyficznych typów narzędzi ręcznych wymienionych w drzewie."
+    },
+    {
+        "ID_Produktu": "243168820",
+        "Nazwa_Produktu": "BROS - worek na muchy",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Worki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pułapka na muchy przeznaczona do użytku na terenach otwartych, co najlepiej pasuje do ogólnej kategorii 'Ogród' w obrębie 'Dom i Ogród'. Brak bardziej szczegółowej kategorii dotyczącej zwalczania szkodników ogrodowych, dlatego 'Pozostałe Ogród' jest najbardziej odpowiednią kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "243168825",
+        "Nazwa_Produktu": "BROS - proszek na mrówki 100g",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki do prania",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to proszek na mrówki, przeznaczony do zwalczania szkodników zarówno w pomieszczeniach, jak i w ich bezpośrednim otoczeniu (tarasy, altany, ogrody). Najlepiej pasującą, szczegółową kategorią-liściem, biorąc pod uwagę zastosowanie zewnętrzne i ogrodowe, jest 'Dom i Ogród > Ogród > Pozostałe Ogród'. Chociaż obejmuje również zastosowanie wewnętrzne, kontekst walki ze szkodnikami w otoczeniu domu mocno wskazuje na dział ogrodowy. Brak bardziej specyficznej kategorii dla środków owadobójczych pod 'Dom i Ogród' sprawia, że 'Pozostałe Ogród' jest najbardziej adekwatnym wyborem, unikającym błędnej kategoryzacji (np. jako środek czyszczący)."
     }
 ]
