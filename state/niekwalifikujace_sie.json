@@ -5548,5 +5548,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt jest 9-elementowym kompletem narzędzi (kluczy nasadowych), co bezpośrednio kwalifikuje go do kategorii 'Zestawy narzędzi'. Choć nasadki posiadają trzpień 1/4\" sugerujący użycie z wiertarką, na platformie OLX zestawy kluczy o określonych rozmiarach metrycznych są standardowo kategoryzowane jako zestawy narzędziowe."
+    },
+    {
+        "ID_Produktu": "242636961",
+        "Nazwa_Produktu": "Torba papierowa z uchem 32x16x42cm 250szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hurtowa ilość (250 sztuk) jednorazowych toreb papierowych przeznaczonych do celów handlowych, reklamowych i cateringowych. Najlepiej pasuje do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe, która obejmuje artykuły eksploatacyjne dla punktów sprzedaży."
+    },
+    {
+        "ID_Produktu": "242636967",
+        "Nazwa_Produktu": "Próbnik Tester Napięcia Bezdotykowy 12-1000V",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Przyrządy miernicze",
+        "Finalna_Sciezka_AI": "Praca > IT / telekomunikacja > Tester",
+        "Finalne_ID_AI": 1717,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bezdotykowy próbnik napięcia (tester elektryczny), który jest klasycznym przyrządem mierniczym wykorzystywanym w pracach domowych oraz profesjonalnych instalacjach elektrycznych."
     }
 ]
