@@ -5568,5 +5568,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to bezdotykowy próbnik napięcia (tester elektryczny), który jest klasycznym przyrządem mierniczym wykorzystywanym w pracach domowych oraz profesjonalnych instalacjach elektrycznych."
+    },
+    {
+        "ID_Produktu": "242636986",
+        "Nazwa_Produktu": "Bateria kuchenna wymienna",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Kuchnia > Baterie kuchenne",
+        "Finalne_ID_AI": 3228,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest zamienną głowicą (wylewką) do baterii kuchennej. Najbardziej dopasowaną kategorią końcową dla armatury kuchennej i jej bezpośrednich podzespołów jest 'Baterie kuchenne'."
+    },
+    {
+        "ID_Produktu": "242637038",
+        "Nazwa_Produktu": "Pazury do mięsa rozdrabniacz do grilla 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne akcesorium do rozdrabniania mięsa (szarpana wieprzowina itp.), które jest bezpośrednio dedykowane do użytku podczas grillowania, co czyni kategorię Grill najbardziej trafną."
+    },
+    {
+        "ID_Produktu": "242637051",
+        "Nazwa_Produktu": "Płaszcz przeciwdeszczowy długi ponczo białe 3szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > Odzież wierzchnia > Płaszcze",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież wierzchnia > Kurtki przeciwdeszczowe",
+        "Finalne_ID_AI": 2561,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to odzież wierzchnia o specyficznym przeznaczeniu (ochrona przed deszczem). Najbardziej precyzyjną kategorią dla ponczo przeciwdeszczowego z materiału EVA jest kategoria 'Kurtki przeciwdeszczowe'. Ponieważ produkt jest unisex, a platforma nie posiada takiej kategorii, wybrano sekcję damską jako najczęstsze miejsce docelowe dla tego typu akcesoriów."
     }
 ]
