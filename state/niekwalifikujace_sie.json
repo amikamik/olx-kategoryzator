@@ -5848,5 +5848,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to portfel damski, a kategoria 'Portfele' (ID: 2765) pod ścieżką 'Moda > Akcesoria' jest najbardziej specyficznym liściem w drzewie kategorii pasującym do tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "242637406",
+        "Nazwa_Produktu": "Opaska Uszy Renifera Na Głowę Dla Dzieci  3 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Akcesoria do włosów > Opaski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Opaski",
+        "Finalne_ID_AI": 2728,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opaska do włosów o motywie świątecznym. W drzewie kategorii najbardziej precyzyjnym dopasowaniem (najgłębszy poziom) jest kategoria 'Opaski' (2728), znajdująca się w sekcji 'Akcesoria do włosów' w dziale 'Moda'. Chociaż tytuł wskazuje na przeznaczenie dla dzieci, opis zaznacza uniwersalny rozmiar (również dla dorosłych), a kategoria 'Opaski' najdokładniej opisuje typ przedmiotu."
+    },
+    {
+        "ID_Produktu": "242637417",
+        "Nazwa_Produktu": "Nogi Nóżki Z Kółkami Do Płytowego Promiennika IR",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Części do maszyn rolniczych",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Pozostałe Ogrzewanie",
+        "Finalne_ID_AI": 1689,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to akcesorium (nóżki/stojak) do promiennika podczerwieni, który jest rodzajem grzejnika. Najbardziej trafnym drzewem kategorii dla ogrzewania stacjonarnego i jego osprzętu w strukturze OLX jest 'Dom i Ogród > Ogrzewanie'. Wobec braku specyficznej kategorii dla akcesoriów do grzejników elektrycznych, 'Pozostałe Ogrzewanie' jest najbardziej adekwatnym wyborem."
+    },
+    {
+        "ID_Produktu": "242637418",
+        "Nazwa_Produktu": "Okleina meblowa folia samoprzylepna szara 40x600cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to okleina meblowa, co wprost odpowiada kategorii 'Akcesoria meblowe' znajdującej się w dziale 'Meble'. Jest to najbardziej specyficzna kategoria dla materiałów służących do renowacji i wykańczania powierzchni mebli."
+    },
+    {
+        "ID_Produktu": "242637422",
+        "Nazwa_Produktu": "Baldachim Osłona Przeciwsłoneczna 4,3x1.85m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa > Pawilony i namioty",
+        "Finalne_ID_AI": 3050,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest baldachimem/osłoną przeciwsłoneczną (tzw. żaglem przeciwsłonecznym) o wymiarach 4,3x1,85m, przeznaczonym do użytku zewnętrznego (wodoodporność, UV). W drzewie kategorii OLX zadaszenia tkaninowe, żagle ogrodowe oraz konstrukcje zacieniające są klasyfikowane w kategorii 'Pawilony i namioty' w sekcji Architektura ogrodowa."
     }
 ]
