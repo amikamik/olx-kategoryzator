@@ -3458,5 +3458,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje na 'Body', a opis potwierdza, że jest to 'body damskie' i 'bielizna damska'. Kategoria 'Moda > Ubrania damskie > Body i gorsety' jest najbardziej szczegółowa i precyzyjnie odpowiada produktowi."
+    },
+    {
+        "ID_Produktu": "243167330",
+        "Nazwa_Produktu": "Latarnia Konipex metal, tworzywo sztuczne 14 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to 'lampa stołowa' lub 'latarnia stołowa/na biurko' oświetlająca wnętrze, idealnie pasując do kategorii 'Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe'."
+    },
+    {
+        "ID_Produktu": "243167344",
+        "Nazwa_Produktu": "Vgate vLinker FS USB FORScan Ford FEPS MS CAN",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Kable",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Elektronika samochodowa",
+        "Finalne_ID_AI": 4489,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektroniczny interfejs diagnostyczny przeznaczony do samochodów, co idealnie pasuje do kategorii 'Elektronika samochodowa' znajdującej się w 'Wyposażenie i akcesoria samochodowe' w ramach 'Motoryzacji'. Opis produktu wyraźnie wskazuje na jego zastosowanie w diagnostyce i programowaniu pojazdów marki Ford, Mazda, Lincoln i Mercury, a także wspomina o kompatybilności z OBD2. Kategoria jest bardzo szczegółowa i w pełni odzwierciedla charakter produktu."
+    },
+    {
+        "ID_Produktu": "243167350",
+        "Nazwa_Produktu": "Interfejs Diagnostyczny Vgate vLinker MC+ BT4.0 Bimmercode FORScan MotoScan",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Testery diagnostyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie warsztatów > Diagnostyka > Testery diagnostyczne",
+        "Finalne_ID_AI": 5184,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zaawansowany interfejs diagnostyczny OBD-II do pojazdów, przeznaczony do diagnostyki i programowania. Kategoria 'Testery diagnostyczne' w 'Wyposażeniu warsztatów' jest najbardziej szczegółowa i precyzyjnie opisuje przeznaczenie urządzenia."
     }
 ]
