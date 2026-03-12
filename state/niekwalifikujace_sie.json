@@ -3098,5 +3098,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalny zestaw sprzątający (wiadro + mop), przeznaczony do efektywnego czyszczenia, w tym w kawiarniach i restauracjach, co wskazuje na zastosowanie komercyjne/przemysłowe. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' jest najbardziej szczegółową i adekwatną dla tego typu sprzętu, który nie jest konkretną maszyną z innych podkategorii, ale jest częścią sprzętu czyszczącego do zastosowań profesjonalnych."
+    },
+    {
+        "ID_Produktu": "243158469",
+        "Nazwa_Produktu": "Fotel biurowy z podnóżkiem skóra eko - biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Krzesła biurowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Krzesła biurowe",
+        "Finalne_ID_AI": 1918,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'fotel biurowy' z ergonomicznymi cechami, co idealnie pasuje do kategorii 'Dom i Ogród > Meble > Krzesła biurowe'. Jest to najbardziej szczegółowa i trafna kategoria."
+    },
+    {
+        "ID_Produktu": "243161540",
+        "Nazwa_Produktu": "Elektryczny grzejnik naścienny WARMTEC EWX-1000W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Grzejniki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Grzejniki",
+        "Finalne_ID_AI": 1682,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to elektryczny grzejnik konwektorowy, służący do ogrzewania pomieszczeń. Kategoria 'Dom i Ogród > Ogrzewanie > Grzejniki' jest najbardziej precyzyjna i szczegółowa."
+    },
+    {
+        "ID_Produktu": "243161546",
+        "Nazwa_Produktu": "Elektryczny grzejnik naścienny WARMTEC EWX-1500W",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogrzewanie > Grzejniki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Grzejniki",
+        "Finalne_ID_AI": 1682,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Nazwa produktu jasno wskazuje, że jest to 'Elektryczny grzejnik naścienny', a opis wielokrotnie odnosi się do niego jako 'grzejnik konwektorowy'. Kategoria 'Grzejniki' jest najbardziej szczegółową i precyzyjną kategorią typu liść dla tego produktu."
+    },
+    {
+        "ID_Produktu": "243162224",
+        "Nazwa_Produktu": "Karton Klapowy 350x250x190mm 380g/m2 - 120 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony klapowe, które są materiałem opakowaniowym używanym do masowej wysyłki i magazynowania. Jest to typowy artykuł dla firm, zwłaszcza tych prowadzących działalność handlową lub magazynową, co idealnie pasuje do kategorii 'Firma i Przemysł > Sklepy i magazyny > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "243162310",
+        "Nazwa_Produktu": "Karton Klapowy 640x380x190mm 3W B 390g/m2 - 60 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kartony klapowe przeznaczone do masowej wysyłki i magazynowania, często w kontekście biznesowym (Paczkomaty InPost, kartony firmowe, pakowanie masowe). Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej adekwatna do przeznaczenia tego typu opakowań, w przeciwieństwie do 'Dom i Ogród > Wyposażenie wnętrz > Pudełka', która sugerowałaby bardziej dekoracyjne lub domowe pudełka."
+    },
+    {
+        "ID_Produktu": "243162556",
+        "Nazwa_Produktu": "Papier do tachografu cyfrowego uniwersalny - 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Tachografy",
+        "Finalne_ID_AI": 4505,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "99%",
+        "Uzasadnienie_AI": "Produkt to papier termiczny przeznaczony specjalnie do tachografów cyfrowych. Kategoria 'Motoryzacja > Wyposażenie i akcesoria samochodowe > Tachografy' jest najbardziej szczegółowa i bezpośrednio odpowiada zastosowaniu produktu."
+    },
+    {
+        "ID_Produktu": "243163325",
+        "Nazwa_Produktu": "Rolka Termiczna PAPIRUS II 57mm x 80m - BPA FREE (RT5780) - 80 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne, które są materiałami eksploatacyjnymi do drukarek fiskalnych, terminali płatniczych i bankomatów. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najbardziej precyzyjna, ponieważ obejmuje drukarki i akcesoria specyficzne dla środowiska handlowego i magazynowego, do którego należą wskazane w opisie urządzenia."
     }
 ]
