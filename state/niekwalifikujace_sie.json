@@ -3708,5 +3708,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt 'Preparat W Karmniku Na Mrówki' jest środkiem owadobójczym przeznaczonym do zwalczania mrówek zarówno wewnątrz, jak i na zewnątrz budynków (wokół gniazd). Kategoria 'Dom i Ogród' jest najbardziej ogólną pasującą kategorią, a w jej ramach 'Ogród' jest odpowiednim segmentem, ponieważ mrówki są częstym problemem ogrodowym i domowym. Brak bardziej szczegółowej kategorii dla środków na szkodniki/owady w ramach ogrodu prowadzi do wyboru 'Pozostałe Ogród'."
+    },
+    {
+        "ID_Produktu": "243168425",
+        "Nazwa_Produktu": "BROS Proszek Na Mrówki 1 kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki do prania",
+        "Finalna_Sciezka_AI": "Rolnictwo > Środki ochrony roślin",
+        "Finalne_ID_AI": 4511,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to proszek do zwalczania mrówek, który jest środkiem owadobójczym. Mimo że może być stosowany również w pomieszczeniach, jego przeznaczenie do eliminacji gniazd mrówek na tarasach, podjazdach, ścieżkach i w altanach ogrodowych silnie wskazuje na kategorię związaną z ochroną przed szkodnikami w kontekście zewnętrznym. 'Rolnictwo > Środki ochrony roślin' jest najbardziej szczegółową kategorią-liściem, która obejmuje produkty do walki z owadami/szkodnikami, które mogą zaszkodzić roślinom lub środowisku ogrodowemu."
+    },
+    {
+        "ID_Produktu": "243168432",
+        "Nazwa_Produktu": "BROS Gaśnica Na Osy I Szerszenie 300 ml",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Figurki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to gaśnica na osy i szerszenie, przeznaczona do zwalczania szkodników na posesji/w ogrodzie. Najlepiej pasuje do kategorii 'Dom i Ogród' > 'Ogród'. Ponieważ nie ma bardziej szczegółowej kategorii dotyczącej środków owadobójczych lub zwalczania szkodników w obrębie 'Ogród', kategoria 'Pozostałe Ogród' jest najbardziej odpowiednia."
     }
 ]
