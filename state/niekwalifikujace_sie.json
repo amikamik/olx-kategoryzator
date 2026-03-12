@@ -5978,5 +5978,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to ceramiczna umywalka łazienkowa, która posiada bezpośrednie dopasowanie do kategorii liścia 'Umywalki' w sekcji wyposażenia łazienkowego."
+    },
+    {
+        "ID_Produktu": "242637550",
+        "Nazwa_Produktu": "Odojniki ochraniacze przeźroczyste samoprzylepne",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to samoprzylepne bufory i odbojniki silikonowe przeznaczone do ochrony mebli, szuflad i szafek przed obijaniem oraz hałasem, co jednoznacznie klasyfikuje go jako akcesoria meblowe w kategorii Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242637553",
+        "Nazwa_Produktu": "Przedłużka do kranu obrotowa perlator",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Pozostałe",
+        "Finalne_ID_AI": 3223,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obrotowa przedłużka kranu z funkcją perlatora. Jest to element instalacji hydraulicznej (armatury), który pasuje zarówno do kuchni, jak i łazienki. W podanym drzewie kategorii najbardziej precyzyjnym miejscem dla akcesoriów hydraulicznych niebędących kompletnymi bateriami jest Dom i Ogród > Instalacje > Hydraulika > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242637562",
+        "Nazwa_Produktu": "Zimowy kaptur pokrowiec na rośliny agrowłóknina",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Podłoża ogrodowe > Włókniny",
+        "Finalne_ID_AI": 4532,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zimowy pokrowiec wykonany z agrowłókniny, przeznaczony do ochrony roślin w ogrodzie. W strukturze OLX agrowłókniny oraz materiały do ściółkowania i osłony roślin znajdują się w kategorii Dom i Ogród > Ogród > Podłoża ogrodowe > Włókniny. Sugerowana przez system podpowiedź 'Pokrowce' dotyczy wyposażenia wnętrz (mebli itp.), co nie pasuje do zastosowania ogrodniczego."
     }
 ]
