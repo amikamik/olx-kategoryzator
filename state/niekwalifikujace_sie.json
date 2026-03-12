@@ -5638,5 +5638,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Taśma antypoślizgowa to produkt techniczny i zabezpieczający, stosowany najczęściej na schodach i podłogach. W drzewie kategorii OLX produkty tego typu (akcesoria budowlane i zabezpieczenia montażowe) najlepiej pasują do najbardziej szczegółowej kategorii 'Dom i Ogród > Budowa > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242637216",
+        "Nazwa_Produktu": "Bateria kuchenna wyciągana KENES srebrna",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Kuchnia > Baterie kuchenne",
+        "Finalne_ID_AI": 3228,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bateria kuchenna, a kategoria o ID 3228 (Baterie kuchenne) jest najbardziej szczegółową kategorią w drzewie 'Dom i Ogród > Wykończenie wnętrz > Kuchnia', która bezpośrednio odpowiada naturze przedmiotu."
+    },
+    {
+        "ID_Produktu": "242637233",
+        "Nazwa_Produktu": "Słuchawka głowica prysznicowa z filtrem",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Baterie łazienkowe",
+        "Finalne_ID_AI": 3229,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słuchawka prysznicowa jest elementem armatury łazienkowej, która na platformie OLX jest kategoryzowana w sekcji Baterie łazienkowe w obrębie kategorii Wykończenie wnętrz -> Łazienka."
+    },
+    {
+        "ID_Produktu": "242637234",
+        "Nazwa_Produktu": "Ochraniacze dywanów z ząbkami 8szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dywany i dywaniki > Dywany",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podkładki pod nogi mebli służące do ochrony podłoża (dywanu) przed wgnieceniami. W drzewie kategorii OLX tego typu elementy wyposażenia mebli najlepiej pasują do kategorii 'Akcesoria meblowe'."
+    },
+    {
+        "ID_Produktu": "242637278",
+        "Nazwa_Produktu": "Torebka dziewczęca na ramię Wedesday listonoszka",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Listonoszki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Listonoszki",
+        "Finalne_ID_AI": 2753,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wybrano kategorię 'Moda > Torby i torebki > Listonoszki' (ID: 2753), ponieważ produkt jest bezpośrednio określony w tytule i opisie jako torebka typu 'listonoszka'. Jest to najbardziej szczegółowy poziom kategoryzacji (liść) odpowiadający rodzajowi przedmiotu, mimo że jest on przeznaczony dla dzieci."
+    },
+    {
+        "ID_Produktu": "242637289",
+        "Nazwa_Produktu": "Rzep samoprzylepny 25 x 25 mm czarny 48 szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to rzepy samoprzylepne o charakterze uniwersalnym, przeznaczone do montażu i prac wykończeniowych w domu, biurze i warsztacie. Kategoria 'Dom i Ogród > Narzędzia > Pozostałe Narzędzia' jest najczęstszym i najbardziej adekwatnym miejscem na tego typu akcesoria montażowe i drobne elementy warsztatowe na platformie OLX."
     }
 ]
