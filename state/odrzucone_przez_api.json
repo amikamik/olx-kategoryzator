@@ -3075,5 +3075,239 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243166956",
+        "Nazwa_Produktu": "TENZI BOBEREX MAX Tutti Frutti 1L. Płyn Do Mycia Naczyń",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to płyn do mycia naczyń, który jest środkiem czyszczącym. Najbardziej pasującą i szczegółową kategorią jest 'Dom i Ogród > Supermarket > Środki czyszczące'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Tenzi boberex max tutti frutti 1l. płyn do mycia naczyń",
+                "description": "TENZI BOBEREX MAX Tutti Frutti 1L. Płyn Do Mycia Naczyń Płyn do ręcznego mycia naczyń. Skutecznie usuwa zanieczyszczenia pochodzenia spożywczego, tłuszcz, brud, odbarwienia po kawie, herbacie i produktach owocowo-warzywnych. Doskonale myje naczynia szklane, emaliowane, stalowe i aluminiowe. Nabłyszcza, nie tworzy smug i mazów. Nie powoduje podrażnień i nie wysusza skóry na dłoniach. Preparat przebadany dermatologicznie. Posiada atest PZH. Sposób użycia: Sporządzić roztwór roboczy: Standardowe mycie: 10-50 ml / 1 l wody Stare zaschnięte tłuszcze: 100 ml / 1 l wody Temperatura wody: 30 - 40C Po myciu spłukać produkty czystą bieżącą wodą pitną Można stosować koncentrat. Zastosowanie: Naczynia kuchenne. Oszczędność TENZI BOBEREX jest niezwykle łatwy w użyciu - wystarczy niewielka ilość płynu, by skutecznie umyć dużą ilość naczyń. Bezpieczeństwo i Jakość: Produkt spełnia najwyższe standardy bezpieczeństwa i jakości. Regularnie testowany, aby zapewnić najlepsze doświadczenie użytkownika. Posiada Atest PZH Świadectwo Jakości Zdrowotnej Badania Mikrobiologiczne Badania Dermatologiczne płyn do mycia naczyń, Tenzi Boberex Max, Tutti Frutti, preparat do mycia naczyń, skuteczne czyszczenie, ręczne mycie naczyń, trudno usuwalne tłuszcze, nabłyszczanie naczyń, naczynia szklane, naczynia emaliowane, naczynia stalowe, naczynia aluminiowe, delikatny dla skóry, antybakteryjny płyn, hipoalergiczny, neutralne pH, atest PZH, dermatologicznie przebadany, profesjonalna chemia, oszczędne użycie, wysoka jakość, bezpieczeństwo użytkowania, skuteczność, Polska marka, środek czystości, codzienna higiena kuchni, nie powoduje podrażnień, idealny do naczyń kuchennych, zdrowotne, czyste naczynia, testowany produkt, spełniający normy, roztwór roboczy, zapach owocowy, 1 litr płynu, standardy jakości, łatwy w użyciu, płyn kuchenny, certyfikowana jakość, polski produkt, koncentrat do mycia, świeży zapach, Skarbimierzyce, Tenzi sp. z o.o, kontakt@tenzi.pl\n\nProducent odpowiedzialny:\nTenzi Sp. z o.o.\nSkarbimierzyce 20, 72-002 Dołuje\nKontakt: kontakt[at]tenzi.pl\n\n[DOFIRMY]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 33.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/ed6a592e84bbd03f128bf7e9c8b510e9.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/19c0890fbc039228a7b68fc097b7e532.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/43979d1c3261454ed779d194f4b9abd9.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/a7219c78b1983ff21e01b362fd5cca08.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/6c1d083cb34439705ac62f174cd86cd6.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/6ff706f6e7a8b915bdc29447954561d3.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/bb948c59f7a502f0154c1bf5c65cd267.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/1146d4/5cf184d44f3295068cc345dc4c50"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "243166970",
+        "Nazwa_Produktu": "TENZI BOBEREX MAX Lemon 1L. Płyn Do Mycia Naczyń",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki do zmywania",
+        "Finalne_ID_AI": 4366,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to płyn do mycia naczyń, który doskonale pasuje do kategorii 'Środki do zmywania' znajdującej się w drzewie 'Dom i Ogród > Supermarket'. Jest to najbardziej szczegółowa i trafna kategoria dla tego produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Tenzi boberex max lemon 1l. płyn do mycia naczyń",
+                "description": "TENZI BOBEREX MAX Lemon 1L. Płyn Do Mycia Naczyń Płyn do ręcznego mycia naczyń. Skutecznie usuwa zanieczyszczenia pochodzenia spożywczego, tłuszcz, brud, odbarwienia po kawie, herbacie i produktach owocowo-warzywnych. Doskonale myje naczynia szklane, emaliowane, stalowe i aluminiowe. Nabłyszcza, nie tworzy smug i mazów. Nie powoduje podrażnień i nie wysusza skóry na dłoniach. Preparat przebadany dermatologicznie. Posiada atest PZH. Sposób użycia: Sporządzić roztwór roboczy: Standardowe mycie: 10-50 ml / 1 l wody Stare zaschnięte tłuszcze: 100 ml / 1 l wody Temperatura wody: 30 - 40C Po myciu spłukać produkty czystą bieżącą wodą pitną Można stosować koncentrat. Zastosowanie: Naczynia kuchenne. Oszczędność TENZI BOBEREX jest niezwykle łatwy w użyciu - wystarczy niewielka ilość płynu, by skutecznie umyć dużą ilość naczyń. Bezpieczeństwo i Jakość: Produkt spełnia najwyższe standardy bezpieczeństwa i jakości. Regularnie testowany, aby zapewnić najlepsze doświadczenie użytkownika. Posiada Atest PZH Świadectwo Jakości Zdrowotnej Badania Mikrobiologiczne Badania Dermatologiczne płyn do mycia naczyń, TENZI BOBEREX MAX, Lemon, 1L, skuteczne usuwanie zanieczyszczeń, tłuszcz, brud, odbarwienia po kawie, odbarwienia po herbacie, produkty owocowo-warzywne, mycie naczyń szklanych, mycie naczyń emaliowanych, mycie naczyń stalowych, mycie naczyń aluminiowych, nabłyszczanie, brak smug, brak mazów, delikatny dla dłoni, przebadany dermatologicznie, atest PZH, oszczędność, łatwe użycie, najwyższe standardy bezpieczeństwa, jakość, regularne testowanie, doświadczenie użytkownika, antybakteryjny, chemia profesjonalna, hipoalergiczny, neutralne pH, stan nowy, oryginalne opakowanie, kraj pochodzenia Polska, Tenzi Sp. z o.o., Skarbimierzyce, Dołuje, płyn do ręcznego mycia, sporządzić roztwór roboczy, mycie standardowe, zachowane tłuszcze, temperatura wody, spłukiwanie, kontakt@tenzi.pl\n\nProducent odpowiedzialny:\nTenzi Sp. z o.o.\nSkarbimierzyce 20, 72-002 Dołuje\nKontakt: kontakt[at]tenzi.pl\n\n[DOFIRMY]",
+                "category_id": 4366,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 33.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/e35e765424aa691d43047eeddeee6de0.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/b09e46fbe58247e67d2fb5c4c484c367.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/cf7f7c86e00a8dfe6e24fd2e2c5dde66.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/472dd80b988d8d74167d097a57e0894b.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/645968bd55a41ccf33f768124e83cd52.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/13d494ebc5e6c3c9ed037c4c12e2c77c.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/ea1c11218b1bc9044737074999ae68de.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/d3a8eb982fa21155d31f45b9a974e74f.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "243166984",
+        "Nazwa_Produktu": "TENZI Boberex 5L Płyn Do Mycia Naczyń",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to płyn do mycia naczyń, który idealnie pasuje do kategorii 'Środki czyszczące' w sekcji 'Supermarket' dla domu i ogrodu. Jest to najbardziej szczegółowa i precyzyjna kategoria dla tego typu produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Tenzi boberex 5l płyn do mycia naczyń",
+                "description": "TENZI Boberex 5L Płyn Do Mycia Naczyń Tenzi Boberex 5L Skoncentrowany płyn do ręcznego mycia naczyń na bazie anionowego środka powierzchniowo czynnego o zapachu gumy do żucia. Dzięki obniżeniu napięcia powierzchniowego wody oraz doskonałej zdolności zwilżania skutecznie usuwa zanieczyszczenia pochodzenia spożywczego, tłuszcz, brud, odbarwienia po kawie i herbacie, jak również zapobiega żółknięciu naczyń z tworzyw sztucznych. Doskonale myje naczynia szklane, emaliowane, stalowe i aluminiowe. Codzienne mycie ręczne naczyń. Posiada Atest PZH Sposób użycia: Stężenie 10-50 ml / 1 l wody; Stare zaschnięte tłuszcze 100 ml / 1 l wody; Temperatura wody 40 C; Koncentrat - temperatura wody od 20 C; Podawać przez dozownik; Spłukać czystą wodą. Można stosować koncentrat. Zastosowanie: Naczynia kuchenne. Oszczędność TENZI BOBEREX jest niezwykle łatwy w użyciu - wystarczy niewielka ilość płynu, by skutecznie umyć dużą ilość naczyń. Bezpieczeństwo i Jakość: Produkt spełnia najwyższe standardy bezpieczeństwa i jakości. Regularnie testowany, aby zapewnić najlepsze doświadczenie użytkownika. Posiada Atest PZH Świadectwo Jakości Zdrowotnej Badania Mikrobiologiczne Badania Dermatologiczne płyn do mycia naczyń, Tenzi Boberex, 5L, skoncentrowany, anionowy środek powierzchniowo czynny, zapach guma balonowa, usuwanie zanieczyszczeń, tłuszcz, odbarwienia po kawie, odbarwienia po herbacie, żółknięcie naczyń z tworzyw sztucznych, naczynia szklane, naczynia emaliowane, naczynia stalowe, naczynia aluminiowe, mycie ręczne naczyń, PZH, dozownik, czysta woda, oszczędność, bezpieczeństwo, jakość, atest, świadectwo jakości zdrowotnej, badania mikrobiologiczne, badania dermatologiczne, antybakteryjny, chemia profesjonalna, delikatny dla dłoni, hipoalergiczny, neutralne pH, Polska, 5906142903320, karton, Skarbimierzyce, Dołuje, Tenzi Sp. z o.o, kontakt@tenzi.pl, mycie naczyń, skuteczność, koncentrat.\n\nProducent odpowiedzialny:\nTenzi Sp. z o.o.\nSkarbimierzyce 20, 72-002 Dołuje\nKontakt: kontakt[at]tenzi.pl\n\n[DOFIRMY]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 81.43,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/e9fb7c67e33e2767dc43797fdd0b1ca8.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/59f494e9e19d75c6746644796b9fd74f.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/ca1d17336fab777b2fcf34cfa7393293.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/14c12ba0b1dffdc213a0befa6f2c3159.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/46601d8dd8ecd08a6e9669cfba466bfd.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/1afd62d69df69f7eb63cd1fee2ddf27a.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11ba81/546875c546679dcacbc0ea0ec3db"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/1127d5/df6d82254fb38cb780dca0db25d2"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

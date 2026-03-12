@@ -3398,5 +3398,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to profesjonalna szczotka do szorowania, przeznaczona do zastosowań przemysłowych i profesjonalnego sprzątania, o czym świadczą takie cechy jak 'Vileda Professional', 'odporność na substancje chemiczne', 'sterylizacja w autoklawie'. Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' jest najbardziej szczegółowa i najlepiej oddaje charakter produktu jako specjalistycznego narzędzia czyszczącego, które nie jest maszyną (jak szorowarka czy zamiatarka)."
+    },
+    {
+        "ID_Produktu": "243166991",
+        "Nazwa_Produktu": "Przewód Do Pompowania Kół 18m",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części samochodowe > Osobowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe",
+        "Finalne_ID_AI": 1401,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przewód do pompowania kół, wyraźnie opisany jako przeznaczony dla TIR-ów i ciężarówek. Kategoria 'Motoryzacja > Części samochodowe > Dostawcze i Ciężarowe' jest najbardziej szczegółowa i precyzyjna dla tego typu akcesorium dedykowanego do pojazdów ciężarowych."
+    },
+    {
+        "ID_Produktu": "243167000",
+        "Nazwa_Produktu": "Akcesoria erotyczne - zestaw - czarne - 8872",
+        "Poczatkowa_Sciezka_OLX": "Moda > Bielizna damska > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "80%",
+        "Uzasadnienie_AI": "Produkt to zestaw akcesoriów erotycznych (kajdanki, pejcz, knebel itp.). Ponieważ w drzewie kategorii nie ma dedykowanej kategorii dla produktów erotycznych, najtrafniejszą, najbardziej ogólną i szczegółową zarazem kategorią, która może pomieścić 'akcesoria' bez precyzowania ich charakteru, jest 'Pozostałe' w ramach nadrzędnej kategorii 'Moda > Akcesoria'. Mimo że nie są to akcesoria modowe w tradycyjnym sensie, jest to najlepsze dostępne dopasowanie w obecnym drzewie."
     }
 ]
