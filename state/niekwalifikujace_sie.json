@@ -3198,5 +3198,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalny zestaw do zamiatania i mopowania, a jego nazwa oraz szczegółowy opis (z uwzględnieniem marki Vileda Professional i systemu kodowania kolorami) wyraźnie wskazują na zastosowanie w środowisku, gdzie wymagane jest specjalistyczne podejście do czyszczenia, zarówno w biurze, jak i w domu. Kategoria 'Zamiatarki' w ramach 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący' jest najbardziej szczegółowa i trafnie oddaje charakter produktu jako sprzętu do zamiatania i utrzymania czystości."
+    },
+    {
+        "ID_Produktu": "243166034",
+        "Nazwa_Produktu": "AZ Zestaw Leniuch miotła i szufelka z trzonkami",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw miotły i szufelki, służący do sprzątania. Chociaż może być używany w domu, opis wyraźnie wskazuje również na zastosowanie w miejscach pracy, restauracjach i podczas prac budowlano-remontowych, co czyni go sprzętem profesjonalnym/przemysłowym. Najbardziej szczegółową i trafną kategorią jest 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe', ponieważ jest to sprzęt do czyszczenia, ale nie jest to mechaniczna zamiatarka ani jeden z bardziej specyficznych typów wymienionych w podkategoriach."
+    },
+    {
+        "ID_Produktu": "243166048",
+        "Nazwa_Produktu": "TENZI Alux GT 1L",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Sporty towarzyskie > Tenis i pokrewne > Tenis ziemny",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalne_ID_AI": 4509,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny środek do czyszczenia felg aluminiowych, co jednoznacznie wskazuje na kategorię związaną z motoryzacją. Brak bardziej szczegółowej podkategorii dla chemii samochodowej pod 'Wyposażenie i akcesoria samochodowe' sprawia, że 'Pozostałe' jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "243166058",
+        "Nazwa_Produktu": "AZ Worki do segregacji odpadów PAPIER 120L 10szt niebieskie",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to worki do segregacji odpadów papierowych, które, jak wskazuje opis, idealnie sprawdzają się w biurach, miejscach publicznych, szpitalach i przemyśle, a także są zgodne z normami dla odpadów medycznych. Te zastosowania silnie sugerują kategorię biznesową. 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej szczegółową kategorią-liściem, która obejmuje tego typu materiały eksploatacyjne dla środowiska pracy."
     }
 ]

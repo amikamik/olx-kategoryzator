@@ -2869,5 +2869,78 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "243166052",
+        "Nazwa_Produktu": "TENZI TopEfekt MOSS 1L",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Instrumenty > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące",
+        "Finalne_ID_AI": 4705,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny środek do czyszczenia dachów i elewacji, usuwający grzyby, glony, mchy i porosty. Jest to chemia budowlana, a kategoria 'Środki czyszczące' w ramach 'Chemii budowlanej' jest najbardziej precyzyjna.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Tenzi topefekt moss 1l",
+                "description": "TENZI TopEfekt MOSS 1L Profesjonalny środek do czyszczenia dachów, elewacji Usuwanie grzybów, zmywanie glonów , mchów i porostów . Skoncentrowany preparat przeznaczony do usuwania grzybów oraz zmywania mchów, glonów i porostów z różnego typu powierzchni nie mających kontaktu z żywnością lub środkami żywienia zwierząt (np. elewacje, dachy domów jednorodzinnych) Po wyczyszczeniu zabezpiecza powierzchnię przez dłuższy okres czasu , wytwarzając środowisko przeciwdziałające powstawaniu wszelkiego rodzaju mikroorganizmów; stosowany profilaktycznie zwiększa odporność biologiczną czyszczonych podłoży. Wykazuje działanie grzybobójcze , zgodnie z normami PN-EN 13697:2002 oraz PN-EN 1650:2002. Zastosowanie: Dachy, dachówka ceramiczna , dachówka betonowa, elewacje , spoiny, szczeliny, balkony , tarasy, schody . Powierzchnie pionowe i poziome , nagrobki, dachówki , papa, blachodachówka, dachówka bitumiczna Sposób użycia: Myta powierzchnia nie może być nagrzana aby preparat zbyt szybko nie odparował. Najlepiej nanosić rano lub wieczorem Wpryskać powierzchnię roztworem o stężeniu minimum 800 ml / 10 l wody; Temperatura wody używanej do sporządzenia roztworu około 20 C, czas działania min. 15 min . (można zostawić na kilka godzin np. na całą noc) Zmyć powierzchnię czystą wodą, najlepiej pod ciśnieniem; W przypadku doczyszczania zastosować procedurę przedstawioną powyżej, zostawiając preparat na 24 godziny , po czym zmyć wodą pod ciśnieniem. Jaka jest wydajność 1 litra koncentratu? 1 L koncentratu = 80-100 m2 powierzchni Rozcieńczenie 1:10 z wodą Czas aplikacji: W zależności od stopnia zabrudzenia i warunków pogodowych preparat nakładać i pozostawić na czas minimum 15 min Zaleceny czas od 12 godzin do 24 godzin . środek do czyszczenia dachów, czyszczenie elewacji, preparat na grzyby, usuwanie mchów, koncentrat czyszczący, ochrona powierzchni, środki czystości, dachówka ceramiczna, dachówka betonowa, czyszczenie nagrobków, preparat do czyszczenia papa, czyszczenie blachodachówki, preparat antygrzybiczny, czyszczenie tarasów, środki chemiczne, czyszczenie schodów, produkt do czyszczenia powierzchni, czyszczenie balkonów, skuteczne czyszczenie, chemia profesjonalna, produkt uniwersalny, odporność biologiczna, ochrona mikroorganizmów, preparat czyszczący, polska chemia, preparat ochronny, preparat do czyszczenia szczelin, łatwe czyszczenie, produkt ekologiczny, preparat na porosty, ochrona przed glonami\n\nProducent odpowiedzialny:\nTenzi Sp. z o.o.\nSkarbimierzyce 20, 72-002 Dołuje\nKontakt: kontakt[at]tenzi.pl\n\n[DOFIRMY]",
+                "category_id": 4705,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 45.14,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/9fb2fa5c13217ce5e0465f00b12334e0.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/87f8edf98ca5a2dfd4d537ae42e6491f.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/fa77fb95affb4c66412110e2e4210874.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/fffce45d65789368ce8c0a864a1b1e39.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015048/e90724974762be73a83b037d4e371d5a.jpg"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11e005/a1b793664dcb91afd5fd6d0e7dc5"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/11bc29/7dffed33438698c92c87de8e8203"
+                    },
+                    {
+                        "url": "https://a.allegroimg.com/original/114460/12758dc849bc8afb3e00369286c1"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
