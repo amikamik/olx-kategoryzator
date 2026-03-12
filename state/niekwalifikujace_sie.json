@@ -6088,5 +6088,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to materiały eksploatacyjne (rolki termiczne) przeznaczone do urządzeń fiskalnych i płatniczych, co najlepiej pasuje do kategorii 'Akcesoria i materiały biurowe' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242637661",
+        "Nazwa_Produktu": "Plecak na Laptopa 15,6 cala z Portem USB KROSER",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Plecaki",
+        "Finalne_ID_AI": 2755,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plecak (backpack), który idealnie pasuje do kategorii 'Plecaki' w dziale Moda. Chociaż posiada dedykowaną przegrodę na laptopa, opis podkreśla również miejsce na ubrania i buty, co czyni go produktem ogólnoużytkowym/codziennym, a nie wyłącznie akcesorium komputerowym. Wybrana kategoria jest zgodna z formą fizyczną przedmiotu oraz sugestią systemu."
+    },
+    {
+        "ID_Produktu": "242637662",
+        "Nazwa_Produktu": "Zestaw 16 Etykiet do Roślin z Nasadkami do Butelek",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw składający się z etykiet do roślin oraz nasadek do nawadniania. Ponieważ etykiety stanowią większość zestawu (10 z 16 elementów) i są wymienione jako pierwsze w tytule, a dla etykiet ogrodowych nie ma dedykowanej kategorii, kategoria 'Pozostałe Ogród' (1641) jest najwłaściwszym wyborem typu 'catch-all' dla tego typu akcesoriów ogrodowych."
+    },
+    {
+        "ID_Produktu": "242637667",
+        "Nazwa_Produktu": "Pasek na Ramię do Torebki Regulowany Odpinany",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Pozostałe",
+        "Finalne_ID_AI": 2762,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wybrana kategoria to 'Moda > Torby i torebki > Pozostałe'. Produkt jest akcesorium (wymiennym paskiem) przeznaczonym wyłącznie do torebek. Chociaż nazwa zawiera słowo 'pasek', kategoria 'Akcesoria > Paski' (2721) na OLX odnosi się do pasków do spodni/odzieży. Pasek do torebki jako element składowy lub dodatek do bagażu najtrafniej pasuje do kategorii 'Pozostałe' w obrębie torebek."
+    },
+    {
+        "ID_Produktu": "242637673",
+        "Nazwa_Produktu": "Skrobaczka do Szyb Samochodowa Regulowana",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Skrobaczki do szyb",
+        "Finalne_ID_AI": 4504,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skrobaczka do szyb samochodowych, która posiada swoją dedykowaną, najbardziej szczegółową kategorię w sekcji akcesoriów motoryzacyjnych (Motoryzacja > Wyposażenie i akcesoria samochodowe > Skrobaczki do szyb)."
+    },
+    {
+        "ID_Produktu": "242637675",
+        "Nazwa_Produktu": "Haczyki wieszaki samoprzylepne z napisami 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Wieszaki łazienkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Wybrano kategorię 'Wieszaki' (ID: 1948), ponieważ produkt to haczyki ścienne przeznaczone do organizacji przestrzeni i wieszania odzieży (płaszcze, czapki), toreb oraz kluczy. Jest to najbardziej adekwatna kategoria dla elementów montowanych do ściany służących do zawieszania przedmiotów, wykraczająca poza wąskie zastosowanie wyłącznie łazienkowe."
+    },
+    {
+        "ID_Produktu": "242637677",
+        "Nazwa_Produktu": "Nóż Składany z Ostrzami Trapezowymi w Etui",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Multitoole i scyzoryki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nóż uniwersalny/budowlany z wymiennymi ostrzami trapezowymi. Ze względu na jego konstrukcję (ostrza SK5) i przeznaczenie (cięcie rur, plastiku, lin), najlepiej pasuje do kategorii narzędzi ręcznych w sekcji Dom i Ogród, a nie do scyzoryków turystycznych."
+    },
+    {
+        "ID_Produktu": "242637678",
+        "Nazwa_Produktu": "Składany nóż uniwersalny z 5 zapasowymi ostrzami",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Multitoole i scyzoryki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to składany nóż uniwersalny (utility knife) z wymiennymi ostrzami trapezowymi. Ze względu na jego konstrukcję i przeznaczenie (cięcie rur, plastiku, materiałów budowlanych), najlepiej pasuje do kategorii narzędzi ręcznych w dziale Dom i Ogród."
     }
 ]
