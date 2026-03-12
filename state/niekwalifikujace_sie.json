@@ -6168,5 +6168,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zestaw tabliczek do numeracji stołów, przeznaczony głównie na przyjęcia weselne. W strukturze OLX przedmioty dekoracyjne i organizacyjne specyficzne dla ślubów najlepiej pasują do kategorii 'Moda > Do ślubu > Akcesoria ślubne > Pozostałe', ponieważ jest ona najbardziej precyzyjna dla asortymentu weselnego."
+    },
+    {
+        "ID_Produktu": "242637704",
+        "Nazwa_Produktu": "Uchwyt do pokrywy garnka lub kociołka żeliwnego",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest dedykowany do gotowania na świeżym powietrzu (outdoor) w kociołkach żeliwnych. Opis wspomaga wybór tej kategorii, wskazując na funkcję pogrzebacza do zarządzania żarem, co jednoznacznie wiąże narzędzie z grillowaniem i paleniskami ogrodowymi."
+    },
+    {
+        "ID_Produktu": "242637731",
+        "Nazwa_Produktu": "Podpórka Kratka Podtrzymująca Rośliny 4szt Kaktus",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Doniczki i osłonki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plastikowe podpórki (kratki) służące do wspierania wzrostu roślin pnących, zarówno ogrodowych (pomidory, ogórki), jak i ozdobnych. Ze względu na brak specyficznej kategorii dla akcesoriów do roślin w sekcji Ogród, kategoria 'Pozostałe Ogród' jest najbardziej odpowiednim wyborem dla tego typu funkcjonalnych dodatków ogrodniczych."
+    },
+    {
+        "ID_Produktu": "242637737",
+        "Nazwa_Produktu": "Wspornik Podpórka Podtrzymująca Rośliny 8szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podpórki do roślin pnących, które pełnią funkcję akcesoriów ogrodowych wspomagających uprawę. Najlepiej pasują do kategorii 'Dom i Ogród > Ogród > Pozostałe Ogród', ponieważ nie są narzędziami (do pracy ręcznej), elementami architektury ani meblami. Ze względu na wzmiankę o uprawie warzyw (pomidory, ogórki), kategoria 'Ogród' jest bardziej odpowiednia niż 'Wyposażenie wnętrz'."
+    },
+    {
+        "ID_Produktu": "242637743",
+        "Nazwa_Produktu": "Uszczelka Taśma Uszczelniająca Samoprzylepna 15m",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjna taśma uszczelniająca (uszczelka piankowa) przeznaczona głównie do izolacji okien i drzwi, ale także do zastosowań sanitarnych i ochronnych. Najlepiej pasuje do kategorii 'Pozostałe' w dziale 'Budowa', ponieważ jest to podstawowy artykuł budowlano-remontowy służący do izolacji i wykończenia."
     }
 ]
