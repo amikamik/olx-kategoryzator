@@ -3688,5 +3688,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to dmuchawa do rozpalania grilla, ogniska lub kominka. Kategoria 'Dom i Ogród > Ogród > Grill' jest najbardziej szczegółową i trafnie opisuje przeznaczenie produktu jako akcesorium do grillowania."
+    },
+    {
+        "ID_Produktu": "243168385",
+        "Nazwa_Produktu": "BROS MRÓWEX Preparat W Karmniku Na Mrówki - 1 szt.",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to preparat na mrówki, używany zarówno wewnątrz, jak i na zewnątrz budynków, ze szczególnym uwzględnieniem gniazd wokół posesji. Kategoria 'Dom i Ogród' jest najbardziej ogólnie pasująca. W jej obrębie 'Ogród' jest bardziej szczegółowy dla zwalczania szkodników tego typu niż 'Supermarket'. Ponieważ nie ma podkategorii bezpośrednio związanej ze środkami owadobójczymi, 'Pozostałe Ogród' jest najbardziej adekwatną kategorią końcową."
+    },
+    {
+        "ID_Produktu": "243168386",
+        "Nazwa_Produktu": "BROS MRÓWEX Preparat W Karmniku Na Mrówki - 4 szt.",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt 'Preparat W Karmniku Na Mrówki' jest środkiem owadobójczym przeznaczonym do zwalczania mrówek zarówno wewnątrz, jak i na zewnątrz budynków (wokół gniazd). Kategoria 'Dom i Ogród' jest najbardziej ogólną pasującą kategorią, a w jej ramach 'Ogród' jest odpowiednim segmentem, ponieważ mrówki są częstym problemem ogrodowym i domowym. Brak bardziej szczegółowej kategorii dla środków na szkodniki/owady w ramach ogrodu prowadzi do wyboru 'Pozostałe Ogród'."
     }
 ]
