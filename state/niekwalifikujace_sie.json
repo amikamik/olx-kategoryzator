@@ -5428,5 +5428,75 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to zestaw naprawczy (samoprzylepne łaty aluminiowe z siatką) do płyt gipsowo-kartonowych. Jest to materiał budowlany/eksploatacyjny stosowany przy remontach, dlatego najlepiej pasuje do kategorii 'Dom i Ogród > Budowa > Pozostałe', która obejmuje akcesoria budowlane niewpisujące się w inne, specyficzne kategorie."
+    },
+    {
+        "ID_Produktu": "242636847",
+        "Nazwa_Produktu": "Haczyk Metalowy uchwyt Wieszak  4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to metalowe wieszaki/haczyki przeznaczone do użytku domowego (zawieszanie skarpet świątecznych, dekoracji). W drzewie kategorii OLX kategoria 'Wieszaki' (ID 1948) w sekcji 'Meble' jest najbardziej precyzyjnym i najgłębszym dopasowaniem dla tego typu przedmiotów."
+    },
+    {
+        "ID_Produktu": "242636869",
+        "Nazwa_Produktu": "Kaptur Ochronny Z Suwakiem Zimowy 110X170Cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zimowy pokrowiec (kaptur) do ochrony roślin ogrodowych przed mrozem i wiatrem. Należy do kategorii akcesoriów ogrodowych, które najlepiej pasują do sekcji 'Pozostałe Ogród', ponieważ nie jest narzędziem, rośliną ani elementem małej architektury. Sugestia systemu OLX dotycząca kategorii 'Moda' jest błędna i wynika z mylnej interpretacji słowa 'kaptur', który w tym kontekście odnosi się do osłony roślinnej, a nie elementu odzieży."
+    },
+    {
+        "ID_Produktu": "242636873",
+        "Nazwa_Produktu": "Pokrowiec Na Zagłówek Czapka Mikołaja 2Szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalne_ID_AI": 4501,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec na zagłówek samochodowy, który idealnie pasuje do kategorii 'Pokrowce' w sekcji wyposażenia i akcesoriów samochodowych. Sugestia systemowa o artykułach papierniczych jest błędna."
+    },
+    {
+        "ID_Produktu": "242636878",
+        "Nazwa_Produktu": "Głowica prysznicowa Deszczownica 30 cm okrągła",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Baterie łazienkowe",
+        "Finalne_ID_AI": 3229,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to głowica prysznicowa (deszczownica), która zalicza się do armatury łazienkowej. Najbardziej precyzyjną kategorią dla tego typu osprzętu w strukturze OLX jest kategoria Baterie łazienkowe."
+    },
+    {
+        "ID_Produktu": "242636883",
+        "Nazwa_Produktu": "Kratka Wentylacyjna Okrągła Aluminiowa 80Mm",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Klimatyzacja i wentylacja > Wentylacja",
+        "Finalne_ID_AI": 3218,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kratka wentylacyjna, która bezpośrednio odpowiada kategorii 'Wentylacja' w ścieżce Dom i Ogród > Instalacje > Klimatyzacja i wentylacja."
+    },
+    {
+        "ID_Produktu": "242636885",
+        "Nazwa_Produktu": "Uchwyt na słuchawkę prysznicową Srebrny",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Pozostałe",
+        "Finalne_ID_AI": 3237,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Uchwyt na słuchawkę prysznicową jest elementem armatury/wykończenia łazienki. W drzewie kategorii OLX produkty związane z instalacjami prysznicowymi i ich częściami (uchwyty, węże, słuchawki), które nie stanowią kompletnych baterii czy kabin, są klasyfikowane w kategorii 'Pozostałe' w sekcji 'Wykończenie wnętrz > Łazienka'."
+    },
+    {
+        "ID_Produktu": "242636892",
+        "Nazwa_Produktu": "Taśma Antypoślizgowa Bezpieczeństwa 5Cmx10M Czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to taśma antypoślizgowa pełniąca funkcję zabezpieczającą (BHP) na schodach i podłogach. Ze względu na uniwersalne zastosowanie wewnątrz i na zewnątrz budynków oraz charakter materiału budowlanego/wykończeniowego, kategoria 'Dom i Ogród > Budowa > Pozostałe' jest najbardziej adekwatnym wyborem dla tego typu akcesoriów."
     }
 ]
