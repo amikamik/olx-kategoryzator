@@ -5298,5 +5298,915 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest klasycznym reflektorem wpuszczanym w sufit (downlight), co w polskiej terminologii oświetleniowej i strukturze kategorii OLX odpowiada kategorii 'Oczka'."
+    },
+    {
+        "ID_Produktu": "242634105",
+        "Nazwa_Produktu": "Zestaw Do Nawadniania Obsługiwane Przez Aplikację",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest inteligentnym systemem nawadniania ogrodu sterowanym przez aplikację. Kategoria 'Nawadnianie' (id: 1637) znajdująca się w sekcji 'Ogród' jest najbardziej precyzyjnym i trafnym dopasowaniem dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "242636710",
+        "Nazwa_Produktu": "Poduszka do Pieczątek z Tuszem 10x7cm Czerwona",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Poduszka do pieczątek jest klasycznym elementem wyposażenia biura. Opis produktu wyraźnie nawiązuje do profesjonalnego stemplowania dokumentów, co sprawia, że kategoria Akcesoria i materiały biurowe w sekcji Firma i Przemysł jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "242636711",
+        "Nazwa_Produktu": "Poduszka do Pieczątek z Tuszem 10x7cm Zielony",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro",
+        "Finalne_ID_AI": 4654,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to poduszka do pieczątek przeznaczona do użytku profesjonalnego (stemplowanie dokumentów), co jednoznacznie klasyfikuje go jako akcesorium i materiał biurowy w kategorii Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242636712",
+        "Nazwa_Produktu": "Poduszka do Pieczątek 12,5x8,8cm Niebieski",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro",
+        "Finalne_ID_AI": 4654,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Poduszka do pieczątek to klasyczny artykuł biurowy. Chociaż produkt może być używany w szkole, opis podkreśla profesjonalne zastosowanie do dokumentów, co klasyfikuje go jako akcesorium biurowe w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242636715",
+        "Nazwa_Produktu": "Spinacze Biurowe do Papieru 26mm 100szt Kolorowe",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Dziurkacze i zszywacze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to spinacze biurowe, które jednoznacznie klasyfikują się jako materiały biurowe. Wybrana kategoria 'Akcesoria i materiały biurowe' w sekcji 'Biuro' jest najbardziej precyzyjnym miejscem dla tego typu asortymentu w dostarczonym drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "242636716",
+        "Nazwa_Produktu": "Spinacze Biurowe Ocynkowane 0,85mm 10x100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Dziurkacze i zszywacze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to standardowe materiały biurowe w ilości hurtowej (10x100 sztuk), co kwalifikuje go bezpośrednio do kategorii Akcesoria i materiały biurowe w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242636725",
+        "Nazwa_Produktu": "Reklamówka z uchem 40x45cm Mikołaj LD 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to reklamówki foliowe LDPE sprzedawane w pakiecie 50 sztuk. Ze względu na przeznaczenie określone w opisie ('do pakowania zakupionych produktów') oraz charakter hurtowy, produkt kwalifikuje się jako zaopatrzenie sklepowe. Najbardziej odpowiednią kategorią dla materiałów opakowaniowych w handlu detalicznym jest Firma i Przemysł > Sklepy i magazyny > Pozostałe (4681)."
+    },
+    {
+        "ID_Produktu": "242636734",
+        "Nazwa_Produktu": "Dozownik Dyspenser Taśmy Klejącej Biurowej Premium",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to biurowy dyspenser do taśmy, który jest klasycznym akcesorium biurowym. Kategoria 'Akcesoria i materiały biurowe' (4655) w sekcji 'Biuro' najlepiej oddaje przeznaczenie i charakter tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "242636765",
+        "Nazwa_Produktu": "Opaski ślimakowe 91-114mm stal nierdzewna 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opaski ślimakowe są elementami złącznymi służącymi do mocowania i uszczelniania przewodów elastycznych (węży) w instalacjach, co klasyfikuje je jako 'Rury, kształtki, złączki' w sekcji hydrauliki."
+    },
+    {
+        "ID_Produktu": "242636773",
+        "Nazwa_Produktu": "Lampa biurkowa nocna magnetyczna LED USB",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lampa LED zasilana przez USB, opisana przez producenta jako lampa biurkowa idealna do pracy i nauki, co precyzyjnie odpowiada kategorii liścia 'Lampki biurkowe'."
+    },
+    {
+        "ID_Produktu": "242636775",
+        "Nazwa_Produktu": "Lampa Ogrodowa LED Solarna Kula Wisząca 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Oświetlenie ogrodowe",
+        "Finalne_ID_AI": 1638,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest solarną lampą przeznaczoną do użytku w ogrodzie ('Lampa Ogrodowa'). W strukturze kategorii OLX dla takich produktów najbardziej dedykowaną i precyzyjną kategorią jest 'Oświetlenie ogrodowe' (ID: 1638) znajdujące się w gałęzi 'Ogród'."
+    },
+    {
+        "ID_Produktu": "242636781",
+        "Nazwa_Produktu": "Naklejki na Samochód Ślubne Dekoracja 3 plansze",
+        "Poczatkowa_Sciezka_OLX": "Moda > Do ślubu > Akcesoria ślubne > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Do ślubu > Akcesoria ślubne > Dekoracje na auto",
+        "Finalne_ID_AI": 3034,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to naklejki przeznaczone konkretnie do dekoracji samochodu w dniu ślubu, co idealnie pasuje do najbardziej specyficznej kategorii 'Dekoracje na auto' w dziale ślubnym."
+    },
+    {
+        "ID_Produktu": "242636820",
+        "Nazwa_Produktu": "Zestaw do Naprawy Ścian Płyt Gipsowych 13x13cm 3sz",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy (samoprzylepne łaty aluminiowe z siatką) do płyt gipsowo-kartonowych. Jest to materiał budowlany/eksploatacyjny stosowany przy remontach, dlatego najlepiej pasuje do kategorii 'Dom i Ogród > Budowa > Pozostałe', która obejmuje akcesoria budowlane niewpisujące się w inne, specyficzne kategorie."
+    },
+    {
+        "ID_Produktu": "242636847",
+        "Nazwa_Produktu": "Haczyk Metalowy uchwyt Wieszak  4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to metalowe wieszaki/haczyki przeznaczone do użytku domowego (zawieszanie skarpet świątecznych, dekoracji). W drzewie kategorii OLX kategoria 'Wieszaki' (ID 1948) w sekcji 'Meble' jest najbardziej precyzyjnym i najgłębszym dopasowaniem dla tego typu przedmiotów."
+    },
+    {
+        "ID_Produktu": "242636869",
+        "Nazwa_Produktu": "Kaptur Ochronny Z Suwakiem Zimowy 110X170Cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zimowy pokrowiec (kaptur) do ochrony roślin ogrodowych przed mrozem i wiatrem. Należy do kategorii akcesoriów ogrodowych, które najlepiej pasują do sekcji 'Pozostałe Ogród', ponieważ nie jest narzędziem, rośliną ani elementem małej architektury. Sugestia systemu OLX dotycząca kategorii 'Moda' jest błędna i wynika z mylnej interpretacji słowa 'kaptur', który w tym kontekście odnosi się do osłony roślinnej, a nie elementu odzieży."
+    },
+    {
+        "ID_Produktu": "242636873",
+        "Nazwa_Produktu": "Pokrowiec Na Zagłówek Czapka Mikołaja 2Szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pokrowce",
+        "Finalne_ID_AI": 4501,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec na zagłówek samochodowy, który idealnie pasuje do kategorii 'Pokrowce' w sekcji wyposażenia i akcesoriów samochodowych. Sugestia systemowa o artykułach papierniczych jest błędna."
+    },
+    {
+        "ID_Produktu": "242636878",
+        "Nazwa_Produktu": "Głowica prysznicowa Deszczownica 30 cm okrągła",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Baterie łazienkowe",
+        "Finalne_ID_AI": 3229,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to głowica prysznicowa (deszczownica), która zalicza się do armatury łazienkowej. Najbardziej precyzyjną kategorią dla tego typu osprzętu w strukturze OLX jest kategoria Baterie łazienkowe."
+    },
+    {
+        "ID_Produktu": "242636883",
+        "Nazwa_Produktu": "Kratka Wentylacyjna Okrągła Aluminiowa 80Mm",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Klimatyzacja i wentylacja > Wentylacja",
+        "Finalne_ID_AI": 3218,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to kratka wentylacyjna, która bezpośrednio odpowiada kategorii 'Wentylacja' w ścieżce Dom i Ogród > Instalacje > Klimatyzacja i wentylacja."
+    },
+    {
+        "ID_Produktu": "242636885",
+        "Nazwa_Produktu": "Uchwyt na słuchawkę prysznicową Srebrny",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Pozostałe",
+        "Finalne_ID_AI": 3237,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Uchwyt na słuchawkę prysznicową jest elementem armatury/wykończenia łazienki. W drzewie kategorii OLX produkty związane z instalacjami prysznicowymi i ich częściami (uchwyty, węże, słuchawki), które nie stanowią kompletnych baterii czy kabin, są klasyfikowane w kategorii 'Pozostałe' w sekcji 'Wykończenie wnętrz > Łazienka'."
+    },
+    {
+        "ID_Produktu": "242636892",
+        "Nazwa_Produktu": "Taśma Antypoślizgowa Bezpieczeństwa 5Cmx10M Czarna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to taśma antypoślizgowa pełniąca funkcję zabezpieczającą (BHP) na schodach i podłogach. Ze względu na uniwersalne zastosowanie wewnątrz i na zewnątrz budynków oraz charakter materiału budowlanego/wykończeniowego, kategoria 'Dom i Ogród > Budowa > Pozostałe' jest najbardziej adekwatnym wyborem dla tego typu akcesoriów."
+    },
+    {
+        "ID_Produktu": "242636923",
+        "Nazwa_Produktu": "Pułapka na myszy 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mechaniczna pułapka na gryzonie (myszy), przeznaczona do użytku zarówno w domu, jak i w ogrodzie. W dostarczonym drzewie kategorii brakuje dedykowanej sekcji dla deratyzacji lub zwalczania szkodników, dlatego najbardziej odpowiednią kategorią-liściem jest 'Pozostałe Ogród' w obrębie sekcji 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "242636925",
+        "Nazwa_Produktu": "Złącze Gwintowane Zbiornika S60X6",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Rolnictwo > Zbiorniki",
+        "Finalne_ID_AI": 4370,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne złącze (adapter) do zbiorników typu IBC (Mauser) o standardzie gwintu S60X6. W strukturze OLX akcesoria i części do zbiorników paletowych są najlepiej dopasowane do kategorii 'Zbiorniki' w sekcji 'Rolnictwo', gdzie trafia większość asortymentu związanego z pojemnikami IBC."
+    },
+    {
+        "ID_Produktu": "242636935",
+        "Nazwa_Produktu": "Lampki Łańcuch Świetlny 100LED 10m na baterie 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym dekoracyjnym łańcuchem świetlnym (girlandą), który zgodnie z drzewem kategorii OLX oraz jego specyfikacją (oświetlenie ozdobne LED) najlepiej pasuje do kategorii 'Girlandy świetlne' w dziale Oświetlenie."
+    },
+    {
+        "ID_Produktu": "242636939",
+        "Nazwa_Produktu": "Torba Plażowa Z Zamkiem Na Ramię Jansben Xxl",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby plażowe",
+        "Finalne_ID_AI": 2759,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wprost zdefiniowany jako torba plażowa zarówno w tytule, jak i opisie. W drzewie kategorii OLX w sekcji Moda > Torby i torebki znajduje się dedykowana kategoria 'Torby plażowe' (ID: 2759), która jest najbardziej precyzyjnym wyborem."
+    },
+    {
+        "ID_Produktu": "242636941",
+        "Nazwa_Produktu": "Zestaw kluczy nasadowych 5-13 mm 9szt adapter",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Zestawy narzędzi",
+        "Finalne_ID_AI": 1702,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest 9-elementowym kompletem narzędzi (kluczy nasadowych), co bezpośrednio kwalifikuje go do kategorii 'Zestawy narzędzi'. Choć nasadki posiadają trzpień 1/4\" sugerujący użycie z wiertarką, na platformie OLX zestawy kluczy o określonych rozmiarach metrycznych są standardowo kategoryzowane jako zestawy narzędziowe."
+    },
+    {
+        "ID_Produktu": "242636961",
+        "Nazwa_Produktu": "Torba papierowa z uchem 32x16x42cm 250szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to hurtowa ilość (250 sztuk) jednorazowych toreb papierowych przeznaczonych do celów handlowych, reklamowych i cateringowych. Najlepiej pasuje do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe, która obejmuje artykuły eksploatacyjne dla punktów sprzedaży."
+    },
+    {
+        "ID_Produktu": "242636967",
+        "Nazwa_Produktu": "Próbnik Tester Napięcia Bezdotykowy 12-1000V",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Przyrządy miernicze",
+        "Finalna_Sciezka_AI": "Praca > IT / telekomunikacja > Tester",
+        "Finalne_ID_AI": 1717,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bezdotykowy próbnik napięcia (tester elektryczny), który jest klasycznym przyrządem mierniczym wykorzystywanym w pracach domowych oraz profesjonalnych instalacjach elektrycznych."
+    },
+    {
+        "ID_Produktu": "242636986",
+        "Nazwa_Produktu": "Bateria kuchenna wymienna",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Kuchnia > Baterie kuchenne",
+        "Finalne_ID_AI": 3228,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest zamienną głowicą (wylewką) do baterii kuchennej. Najbardziej dopasowaną kategorią końcową dla armatury kuchennej i jej bezpośrednich podzespołów jest 'Baterie kuchenne'."
+    },
+    {
+        "ID_Produktu": "242637038",
+        "Nazwa_Produktu": "Pazury do mięsa rozdrabniacz do grilla 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne akcesorium do rozdrabniania mięsa (szarpana wieprzowina itp.), które jest bezpośrednio dedykowane do użytku podczas grillowania, co czyni kategorię Grill najbardziej trafną."
+    },
+    {
+        "ID_Produktu": "242637051",
+        "Nazwa_Produktu": "Płaszcz przeciwdeszczowy długi ponczo białe 3szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > Odzież wierzchnia > Płaszcze",
+        "Finalna_Sciezka_AI": "Moda > Ubrania damskie > Odzież wierzchnia > Kurtki przeciwdeszczowe",
+        "Finalne_ID_AI": 2561,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to odzież wierzchnia o specyficznym przeznaczeniu (ochrona przed deszczem). Najbardziej precyzyjną kategorią dla ponczo przeciwdeszczowego z materiału EVA jest kategoria 'Kurtki przeciwdeszczowe'. Ponieważ produkt jest unisex, a platforma nie posiada takiej kategorii, wybrano sekcję damską jako najczęstsze miejsce docelowe dla tego typu akcesoriów."
+    },
+    {
+        "ID_Produktu": "242637066",
+        "Nazwa_Produktu": "Zestaw Narzędzi ogrodniczych 3 szt stal nierdzewna",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw ręcznych narzędzi przeznaczonych wyłącznie do prac w ogrodzie (widełki, łopatka, chwastownik). Zgodnie z drzewem kategorii, najbardziej trafnym wyborem jest ścieżka Dom i Ogród > Ogród > Narzędzia ogrodowe. Ponieważ zestaw nie pasuje do żadnego ze specyficznych liści w tej sekcji (takich jak grabie czy siewniki), wybieram kategorię 'Pozostałe' (ID 2886) w obrębie narzędzi ogrodowych."
+    },
+    {
+        "ID_Produktu": "242637080",
+        "Nazwa_Produktu": "Klipsy spinki do włosów pazur 3 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Akcesoria do włosów > Spinki i wsuwki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Spinki i wsuwki",
+        "Finalne_ID_AI": 2731,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to spinki do włosów typu 'szczęka' (pazur), co bezpośrednio odpowiada kategorii 'Spinki i wsuwki' znajdującej się w akcesoriach do włosów w dziale Moda."
+    },
+    {
+        "ID_Produktu": "242637114",
+        "Nazwa_Produktu": "Maska Opaska Na Oczy Do Spania Podróży 3D",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Maska/opaska na oczy do spania jest traktowana na OLX jako akcesorium osobiste. Zgodnie z drzewem kategorii i standardami platformy, produkt najlepiej pasuje do ścieżki Moda > Akcesoria > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242637138",
+        "Nazwa_Produktu": "Taśma antypoślizgowa samoprzylepna 5m x 5 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Taśma antypoślizgowa to produkt techniczny i zabezpieczający, stosowany najczęściej na schodach i podłogach. W drzewie kategorii OLX produkty tego typu (akcesoria budowlane i zabezpieczenia montażowe) najlepiej pasują do najbardziej szczegółowej kategorii 'Dom i Ogród > Budowa > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "242637216",
+        "Nazwa_Produktu": "Bateria kuchenna wyciągana KENES srebrna",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Kuchnia > Baterie kuchenne",
+        "Finalne_ID_AI": 3228,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to bateria kuchenna, a kategoria o ID 3228 (Baterie kuchenne) jest najbardziej szczegółową kategorią w drzewie 'Dom i Ogród > Wykończenie wnętrz > Kuchnia', która bezpośrednio odpowiada naturze przedmiotu."
+    },
+    {
+        "ID_Produktu": "242637233",
+        "Nazwa_Produktu": "Słuchawka głowica prysznicowa z filtrem",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Baterie łazienkowe",
+        "Finalne_ID_AI": 3229,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Słuchawka prysznicowa jest elementem armatury łazienkowej, która na platformie OLX jest kategoryzowana w sekcji Baterie łazienkowe w obrębie kategorii Wykończenie wnętrz -> Łazienka."
+    },
+    {
+        "ID_Produktu": "242637234",
+        "Nazwa_Produktu": "Ochraniacze dywanów z ząbkami 8szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dywany i dywaniki > Dywany",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podkładki pod nogi mebli służące do ochrony podłoża (dywanu) przed wgnieceniami. W drzewie kategorii OLX tego typu elementy wyposażenia mebli najlepiej pasują do kategorii 'Akcesoria meblowe'."
+    },
+    {
+        "ID_Produktu": "242637278",
+        "Nazwa_Produktu": "Torebka dziewczęca na ramię Wedesday listonoszka",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Listonoszki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Listonoszki",
+        "Finalne_ID_AI": 2753,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wybrano kategorię 'Moda > Torby i torebki > Listonoszki' (ID: 2753), ponieważ produkt jest bezpośrednio określony w tytule i opisie jako torebka typu 'listonoszka'. Jest to najbardziej szczegółowy poziom kategoryzacji (liść) odpowiadający rodzajowi przedmiotu, mimo że jest on przeznaczony dla dzieci."
+    },
+    {
+        "ID_Produktu": "242637289",
+        "Nazwa_Produktu": "Rzep samoprzylepny 25 x 25 mm czarny 48 szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to rzepy samoprzylepne o charakterze uniwersalnym, przeznaczone do montażu i prac wykończeniowych w domu, biurze i warsztacie. Kategoria 'Dom i Ogród > Narzędzia > Pozostałe Narzędzia' jest najczęstszym i najbardziej adekwatnym miejscem na tego typu akcesoria montażowe i drobne elementy warsztatowe na platformie OLX."
+    },
+    {
+        "ID_Produktu": "242637325",
+        "Nazwa_Produktu": "Kran bateria kuchenna czarna obrotowa",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Kuchnia > Baterie kuchenne",
+        "Finalne_ID_AI": 3228,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to fabrycznie nowa bateria kuchenna, która idealnie pasuje do dedykowanej kategorii liścia 'Baterie kuchenne' w ścieżce Dom i Ogród > Wykończenie wnętrz > Kuchnia."
+    },
+    {
+        "ID_Produktu": "242637326",
+        "Nazwa_Produktu": "Opasko zaciskowe zipy trytytki 500sztuk",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opaski zaciskowe (trytytki) to akcesoria montażowe i materiały eksploatacyjne, które nie są narzędziami w sensie ścisłym, dlatego kategoria 'Pozostałe Narzędzia' w sekcji 'Dom i Ogród' jest dla nich najbardziej odpowiednim miejscem jako kategoria zbiorcza dla drobnych artykułów technicznych."
+    },
+    {
+        "ID_Produktu": "242637347",
+        "Nazwa_Produktu": "Perlator obrotowy do kranu baterii kuchennej",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Kuchnia > Pozostałe",
+        "Finalne_ID_AI": 3236,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Perlator jest technicznym akcesorium do baterii kuchennej. Z uwagi na to, że nie stanowi kompletnej baterii (ID 3228) ani zlewozmywaka (ID 3230), najlepiej pasuje do kategorii 'Pozostałe' w sekcji wykończenia kuchni (ID 3225). Kategoria 'Przybory kuchenne' (ID 2113) sugerowana przez system dotyczy zazwyczaj narzędzi kuchennych typu sztućce czy garnki, podczas gdy perlator to element armatury."
+    },
+    {
+        "ID_Produktu": "242637354",
+        "Nazwa_Produktu": "Opaska magnetyczna na narzędzia dla majsterkowicza",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to magnetyczna opaska na nadgarstek ułatwiająca pracę przy majsterkowaniu. W drzewie kategorii OLX tego typu akcesoria warsztatowe i gadżety dla majsterkowiczów najlepiej klasyfikować w sekcji 'Dom i Ogród' pod 'Narzędzia' w kategorii 'Pozostałe Narzędzia', gdyż nie jest to narzędzie ręczne ani elektronarzędzie, lecz element wspomagający."
+    },
+    {
+        "ID_Produktu": "242637374",
+        "Nazwa_Produktu": "Koperta 334x234mm tektura falista biała 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro",
+        "Finalne_ID_AI": 4654,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koperty kartonowe formatu C4 wykonane z tektury falistej, przeznaczone do bezpiecznego transportu dokumentów i zdjęć. Najlepiej pasują do kategorii materiałów biurowych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242637375",
+        "Nazwa_Produktu": "Koperta 165x100mm wyściełana zielona 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Koperty wyściełane (ochronne) to standardowy materiał eksploatacyjny wykorzystywany w pracach biurowych oraz w e-commerce do wysyłki towarów, co najlepiej dopasowuje je do kategorii Akcesoria i materiały biurowe."
+    },
+    {
+        "ID_Produktu": "242637377",
+        "Nazwa_Produktu": "Koperta 165x100mm wyściełana pomarańcz 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Koperty wyściełane (ochronne) są standardowym materiałem eksploatacyjnym biurowym i wysyłkowym, co najlepiej odpowiada kategorii 'Akcesoria i materiały biurowe' w sekcji 'Biuro'."
+    },
+    {
+        "ID_Produktu": "242637379",
+        "Nazwa_Produktu": "Koperta 265x180mm tektura falista pomarańcz 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Koperty wysyłkowe z tektury falistej są standardowym artykułem biurowym i materiałem eksploatacyjnym wykorzystywanym w biurach oraz e-commerce, dlatego kategoria 'Akcesoria i materiały biurowe' w sekcji 'Firma i Przemysł' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "242637381",
+        "Nazwa_Produktu": "Koperta 470x350mm tektura falista czarna 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne koperty wysyłkowe z tektury falistej, przeznaczone do pakowania i wysyłki w handlu elektronicznym (e-commerce). Takie materiały opakowaniowe dla firm i magazynów najlepiej pasują do kategorii Firma i Przemysł > Sklepy i magazyny > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242637382",
+        "Nazwa_Produktu": "Koperta 470x350mm tektura falista pomarańcz 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Koperty z tektury falistej przeznaczone do wysyłki to typowy artykuł biurowy i materiał eksploatacyjny. Kategoria 'Akcesoria i materiały biurowe' w sekcji 'Firma i Przemysł' najlepiej oddaje charakter produktu używanego w logistyce i administracji firmowej."
+    },
+    {
+        "ID_Produktu": "242637386",
+        "Nazwa_Produktu": "Koperta 445X300mm wyściałana biała 10szt.",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Poradniki i albumy",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koperty bąbelkowe (wyściełane), które stanowią materiały eksploatacyjne do biura i wysyłki. Kategoria 'Akcesoria i materiały biurowe' w sekcji 'Biuro' pod 'Firma i Przemysł' jest najbardziej adekwatna dla materiałów opakowaniowych tego typu."
+    },
+    {
+        "ID_Produktu": "242637387",
+        "Nazwa_Produktu": "Koperta 215x150mm wyściełana pomarańcz 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koperty wyściełane, które są typowym artykułem wysyłkowym i eksploatacyjnym biura. Najbardziej precyzyjną kategorią dla materiałów opakowaniowych i korespondencyjnych jest 'Akcesoria i materiały biurowe' w dziale 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242637388",
+        "Nazwa_Produktu": "Koperta 165x100mm tektura falista pomarańcz 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koperty z tektury falistej, które są klasyfikowane jako materiały biurowe. Opis wskazuje na zastosowanie komercyjne (wysyłka towarów), dlatego kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej adekwatna."
+    },
+    {
+        "ID_Produktu": "242637389",
+        "Nazwa_Produktu": "Koperta 215x150mm tektura falista pomarańcz 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Koperty wysyłkowe z tektury falistej przeznaczone dla handlu elektronicznego (e-commerce) to typowe materiały biurowe i opakowaniowe. Najbardziej precyzyjną kategorią dla tego typu produktów w drzewie kategorii jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "242637392",
+        "Nazwa_Produktu": "Lejek do Nalewania Farby z Puszki  3,78 L",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Farby",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Malowanie > Akcesoria malarskie",
+        "Finalne_ID_AI": 3252,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lejek przeznaczony do puszek z farbą o pojemności 3,78 L, co klasyfikuje go jako akcesorium malarskie ułatwiające pracę przy wykończeniu wnętrz."
+    },
+    {
+        "ID_Produktu": "242637397",
+        "Nazwa_Produktu": "Portfel wygodny z motywem geograficznym Mapa",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to portfel damski, a kategoria 'Portfele' (ID: 2765) pod ścieżką 'Moda > Akcesoria' jest najbardziej specyficznym liściem w drzewie kategorii pasującym do tego przedmiotu."
+    },
+    {
+        "ID_Produktu": "242637406",
+        "Nazwa_Produktu": "Opaska Uszy Renifera Na Głowę Dla Dzieci  3 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Akcesoria do włosów > Opaski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Opaski",
+        "Finalne_ID_AI": 2728,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opaska do włosów o motywie świątecznym. W drzewie kategorii najbardziej precyzyjnym dopasowaniem (najgłębszy poziom) jest kategoria 'Opaski' (2728), znajdująca się w sekcji 'Akcesoria do włosów' w dziale 'Moda'. Chociaż tytuł wskazuje na przeznaczenie dla dzieci, opis zaznacza uniwersalny rozmiar (również dla dorosłych), a kategoria 'Opaski' najdokładniej opisuje typ przedmiotu."
+    },
+    {
+        "ID_Produktu": "242637417",
+        "Nazwa_Produktu": "Nogi Nóżki Z Kółkami Do Płytowego Promiennika IR",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Części do maszyn rolniczych",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogrzewanie > Pozostałe Ogrzewanie",
+        "Finalne_ID_AI": 1689,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to akcesorium (nóżki/stojak) do promiennika podczerwieni, który jest rodzajem grzejnika. Najbardziej trafnym drzewem kategorii dla ogrzewania stacjonarnego i jego osprzętu w strukturze OLX jest 'Dom i Ogród > Ogrzewanie'. Wobec braku specyficznej kategorii dla akcesoriów do grzejników elektrycznych, 'Pozostałe Ogrzewanie' jest najbardziej adekwatnym wyborem."
+    },
+    {
+        "ID_Produktu": "242637418",
+        "Nazwa_Produktu": "Okleina meblowa folia samoprzylepna szara 40x600cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to okleina meblowa, co wprost odpowiada kategorii 'Akcesoria meblowe' znajdującej się w dziale 'Meble'. Jest to najbardziej specyficzna kategoria dla materiałów służących do renowacji i wykańczania powierzchni mebli."
+    },
+    {
+        "ID_Produktu": "242637422",
+        "Nazwa_Produktu": "Baldachim Osłona Przeciwsłoneczna 4,3x1.85m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa > Pawilony i namioty",
+        "Finalne_ID_AI": 3050,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest baldachimem/osłoną przeciwsłoneczną (tzw. żaglem przeciwsłonecznym) o wymiarach 4,3x1,85m, przeznaczonym do użytku zewnętrznego (wodoodporność, UV). W drzewie kategorii OLX zadaszenia tkaninowe, żagle ogrodowe oraz konstrukcje zacieniające są klasyfikowane w kategorii 'Pawilony i namioty' w sekcji Architektura ogrodowa."
+    },
+    {
+        "ID_Produktu": "242637432",
+        "Nazwa_Produktu": "Obrotowy Perlator 720 Stopni Do Baterii Kranu",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Pozostałe",
+        "Finalne_ID_AI": 3223,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to perlator (napowietrzacz), będący częścią osprzętu hydraulicznego do baterii kranowych. Z uwagi na uniwersalność (kuchnia i łazienka) oraz brak specyficznej kategorii dla akcesoriów do baterii, najbardziej odpowiednią kategorią jest Dom i Ogród > Instalacje > Hydraulika > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242637441",
+        "Nazwa_Produktu": "Opaski zaciskowe do węzy obejma 12szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opaski zaciskowe (obejmy) to elementy montażowe stosowane w instalacjach hydraulicznych do łączenia węży z przyłączami, co kwalifikuje je do kategorii złączek i kształtek."
+    },
+    {
+        "ID_Produktu": "242637452",
+        "Nazwa_Produktu": "Opaska na Oczy do Spania 3D Czarna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Opaska do spania jest klasyfikowana jako akcesorium osobiste/podróżne. W podanym drzewie kategorii OLX produkty tego typu są standardowo umieszczane w sekcji Moda > Akcesoria > Pozostałe, ze względu na brak dedykowanej kategorii dla pomocy w zasypianiu dla dorosłych."
+    },
+    {
+        "ID_Produktu": "242637455",
+        "Nazwa_Produktu": "Widelczyk Szaszłyk do grilla do kukurydzy 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne akcesorium przeznaczone do użytku podczas grillowania (widelczyki do kukurydzy). Tytuł i opis wielokrotnie podkreślają związek z grillem, piknikami i kempingiem, co czyni kategorię 'Grill' najbardziej trafnym i specyficznym wyborem."
+    },
+    {
+        "ID_Produktu": "242637463",
+        "Nazwa_Produktu": "Żarówki LED GU10 5W 2700 K ciepła biel 10 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw żarówek LED z trzonkiem GU10, co idealnie pasuje do najbardziej szczegółowej kategorii w drzewie: Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki."
+    },
+    {
+        "ID_Produktu": "242637469",
+        "Nazwa_Produktu": "Uchwyty do kierownicy motocykla 2 szt czarne",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części motocyklowe",
+        "Finalne_ID_AI": 1335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to uchwyty i osłony kierownicy przeznaczone specjalnie do motocykli, co kwalifikuje go bezpośrednio do kategorii Części motocyklowe, która jest liściem w drzewie kategorii Motoryzacja."
+    },
+    {
+        "ID_Produktu": "242637480",
+        "Nazwa_Produktu": "Uchwyt meblowy klasyczny czarny matowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym uchwytem do mebli. W strukturze OLX kategoria 'Akcesoria meblowe' (ID: 1950) podrzędna dla 'Meble' jest najbardziej specyficznym i trafnym miejscem dla tego typu asortymentu wykończeniowego."
+    },
+    {
+        "ID_Produktu": "242637497",
+        "Nazwa_Produktu": "Wózek kuchenny Barowy Na Kółkach",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Meble kuchenne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble kuchenne",
+        "Finalne_ID_AI": 1922,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest mobilnym wózkiem kuchennym przeznaczonym do przechowywania i serwowania, co najlepiej odpowiada kategorii Meble kuchenne w sekcji Dom i Ogród. Choć opis wspomina o zastosowaniu profesjonalnym, stylistyka i nacisk na funkcje dekoracyjne wskazują na wyposażenie domowe."
+    },
+    {
+        "ID_Produktu": "242637499",
+        "Nazwa_Produktu": "Umywalka ceramiczna wpuszczana Biała 76,5x46cm",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Umywalki",
+        "Finalne_ID_AI": 3234,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to ceramiczna umywalka łazienkowa, która posiada bezpośrednie dopasowanie do kategorii liścia 'Umywalki' w sekcji wyposażenia łazienkowego."
+    },
+    {
+        "ID_Produktu": "242637550",
+        "Nazwa_Produktu": "Odojniki ochraniacze przeźroczyste samoprzylepne",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Akcesoria jeździeckie > Akcesoria > Ochraniacze i owijki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to samoprzylepne bufory i odbojniki silikonowe przeznaczone do ochrony mebli, szuflad i szafek przed obijaniem oraz hałasem, co jednoznacznie klasyfikuje go jako akcesoria meblowe w kategorii Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242637553",
+        "Nazwa_Produktu": "Przedłużka do kranu obrotowa perlator",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Pozostałe",
+        "Finalne_ID_AI": 3223,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obrotowa przedłużka kranu z funkcją perlatora. Jest to element instalacji hydraulicznej (armatury), który pasuje zarówno do kuchni, jak i łazienki. W podanym drzewie kategorii najbardziej precyzyjnym miejscem dla akcesoriów hydraulicznych niebędących kompletnymi bateriami jest Dom i Ogród > Instalacje > Hydraulika > Pozostałe."
+    },
+    {
+        "ID_Produktu": "242637562",
+        "Nazwa_Produktu": "Zimowy kaptur pokrowiec na rośliny agrowłóknina",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Podłoża ogrodowe > Włókniny",
+        "Finalne_ID_AI": 4532,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zimowy pokrowiec wykonany z agrowłókniny, przeznaczony do ochrony roślin w ogrodzie. W strukturze OLX agrowłókniny oraz materiały do ściółkowania i osłony roślin znajdują się w kategorii Dom i Ogród > Ogród > Podłoża ogrodowe > Włókniny. Sugerowana przez system podpowiedź 'Pokrowce' dotyczy wyposażenia wnętrz (mebli itp.), co nie pasuje do zastosowania ogrodniczego."
+    },
+    {
+        "ID_Produktu": "242637577",
+        "Nazwa_Produktu": "Obrotowe Kółka Przemysłowe z Hamulcem 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Tytuł 'Kółka Przemysłowe' oraz opis wskazujący na zastosowanie w wózkach transportowych i stołach warsztatowych, a także materiał wykonania (poliuretan, żelazo), najlepiej kwalifikują produkt jako części do maszyn i urządzeń w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242637581",
+        "Nazwa_Produktu": "Nasadka do Perlatora 360 Stopni M24/M22",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest nasadką/złączką do perlatora kranowego (M24/M22), służącą do redukcji i łączenia elementów armatury wodnej. Najdokładniej pasuje do kategorii 'Rury, kształtki, złączki' w dziale Hydraulika."
+    },
+    {
+        "ID_Produktu": "242637586",
+        "Nazwa_Produktu": "Przepust kablowy srebrny 60mm 12sztuk",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przepusty (przelotki) kablowe montowane bezpośrednio w meblach (biurkach) w celu organizacji przewodów, co czyni go klasycznym akcesorium meblowym."
+    },
+    {
+        "ID_Produktu": "242637589",
+        "Nazwa_Produktu": "Taśma uszczelniająca uszczelka 3,5 x 500 cm",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjna taśma uszczelniająca do drzwi i okien, wykonana z silikonu. W strukturze OLX akcesoria montażowe i drobne materiały budowlane tego typu najlepiej pasują do kategorii Dom i Ogród > Budowa > Pozostałe, ponieważ produkt nie ogranicza się tylko do jednego rodzaju stolarki (pasuje zarówno do drzwi, okien, jak i szaf)."
+    },
+    {
+        "ID_Produktu": "242637608",
+        "Nazwa_Produktu": "Siatka do wiązania roślin pnących podpora 50m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to materiał pomocniczy do stabilizacji i wsparcia roślin (siatka/taśma do wiązania). Najlepiej pasuje do kategorii 'Pozostałe Ogród', ponieważ jest to akcesorium ogrodowe, które nie jest narzędziem mechanicznym, elementem nawadniania ani dużą architekturą ogrodową."
+    },
+    {
+        "ID_Produktu": "242637615",
+        "Nazwa_Produktu": "Siatka Zacieniająca Ogrodowa 50% Zielona 1.8x2m",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to siatka zacieniająca, która zgodnie z opisem pełni funkcję ekranu prywatności (privacy screen) na ogrodzenia, balkony i tarasy. W drzewie kategorii OLX tego typu osłony wizualne i funkcjonalne elementy aranżacji ogrodu są najtrafniej klasyfikowane w kategorii 'Dekoracje ogrodowe', co potwierdza również wskazówka systemowa."
+    },
+    {
+        "ID_Produktu": "242637624",
+        "Nazwa_Produktu": "Rolka termiczna 57x15 Eco bez gilzy 10szt Primus",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Rolki termiczne to materiały eksploatacyjne (papierowe) wykorzystywane w urządzeniach rejestrujących. Kategoria 'Akcesoria i materiały biurowe' (4655) w sekcji 'Biuro' jest najbardziej odpowiednia dla tego typu artykułów biurowych i piśmienniczych w kontekście biznesowym."
+    },
+    {
+        "ID_Produktu": "242637627",
+        "Nazwa_Produktu": "Rolka termiczna 57x30 Eco bez gilzy 10szt Primus",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to materiały eksploatacyjne (rolki termiczne) przeznaczone do urządzeń fiskalnych i płatniczych, co najlepiej pasuje do kategorii 'Akcesoria i materiały biurowe' w sekcji 'Firma i Przemysł'."
+    },
+    {
+        "ID_Produktu": "242637661",
+        "Nazwa_Produktu": "Plecak na Laptopa 15,6 cala z Portem USB KROSER",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Plecaki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Plecaki",
+        "Finalne_ID_AI": 2755,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plecak (backpack), który idealnie pasuje do kategorii 'Plecaki' w dziale Moda. Chociaż posiada dedykowaną przegrodę na laptopa, opis podkreśla również miejsce na ubrania i buty, co czyni go produktem ogólnoużytkowym/codziennym, a nie wyłącznie akcesorium komputerowym. Wybrana kategoria jest zgodna z formą fizyczną przedmiotu oraz sugestią systemu."
+    },
+    {
+        "ID_Produktu": "242637662",
+        "Nazwa_Produktu": "Zestaw 16 Etykiet do Roślin z Nasadkami do Butelek",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to zestaw składający się z etykiet do roślin oraz nasadek do nawadniania. Ponieważ etykiety stanowią większość zestawu (10 z 16 elementów) i są wymienione jako pierwsze w tytule, a dla etykiet ogrodowych nie ma dedykowanej kategorii, kategoria 'Pozostałe Ogród' (1641) jest najwłaściwszym wyborem typu 'catch-all' dla tego typu akcesoriów ogrodowych."
+    },
+    {
+        "ID_Produktu": "242637667",
+        "Nazwa_Produktu": "Pasek na Ramię do Torebki Regulowany Odpinany",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Pozostałe",
+        "Finalne_ID_AI": 2762,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Wybrana kategoria to 'Moda > Torby i torebki > Pozostałe'. Produkt jest akcesorium (wymiennym paskiem) przeznaczonym wyłącznie do torebek. Chociaż nazwa zawiera słowo 'pasek', kategoria 'Akcesoria > Paski' (2721) na OLX odnosi się do pasków do spodni/odzieży. Pasek do torebki jako element składowy lub dodatek do bagażu najtrafniej pasuje do kategorii 'Pozostałe' w obrębie torebek."
+    },
+    {
+        "ID_Produktu": "242637673",
+        "Nazwa_Produktu": "Skrobaczka do Szyb Samochodowa Regulowana",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Skrobaczki do szyb",
+        "Finalne_ID_AI": 4504,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to skrobaczka do szyb samochodowych, która posiada swoją dedykowaną, najbardziej szczegółową kategorię w sekcji akcesoriów motoryzacyjnych (Motoryzacja > Wyposażenie i akcesoria samochodowe > Skrobaczki do szyb)."
+    },
+    {
+        "ID_Produktu": "242637675",
+        "Nazwa_Produktu": "Haczyki wieszaki samoprzylepne z napisami 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Wieszaki łazienkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Wybrano kategorię 'Wieszaki' (ID: 1948), ponieważ produkt to haczyki ścienne przeznaczone do organizacji przestrzeni i wieszania odzieży (płaszcze, czapki), toreb oraz kluczy. Jest to najbardziej adekwatna kategoria dla elementów montowanych do ściany służących do zawieszania przedmiotów, wykraczająca poza wąskie zastosowanie wyłącznie łazienkowe."
+    },
+    {
+        "ID_Produktu": "242637677",
+        "Nazwa_Produktu": "Nóż Składany z Ostrzami Trapezowymi w Etui",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Multitoole i scyzoryki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to nóż uniwersalny/budowlany z wymiennymi ostrzami trapezowymi. Ze względu na jego konstrukcję (ostrza SK5) i przeznaczenie (cięcie rur, plastiku, lin), najlepiej pasuje do kategorii narzędzi ręcznych w sekcji Dom i Ogród, a nie do scyzoryków turystycznych."
+    },
+    {
+        "ID_Produktu": "242637678",
+        "Nazwa_Produktu": "Składany nóż uniwersalny z 5 zapasowymi ostrzami",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Osprzęt turystyczny > Multitoole i scyzoryki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa",
+        "Finalne_ID_AI": 3047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to składany nóż uniwersalny (utility knife) z wymiennymi ostrzami trapezowymi. Ze względu na jego konstrukcję i przeznaczenie (cięcie rur, plastiku, materiałów budowlanych), najlepiej pasuje do kategorii narzędzi ręcznych w dziale Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "242637684",
+        "Nazwa_Produktu": "Tabliczka na Stół Weselny Numeracja Stołów 20szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Moda > Do ślubu > Akcesoria ślubne > Pozostałe",
+        "Finalne_ID_AI": 2858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw tabliczek do numeracji stołów, przeznaczony głównie na przyjęcia weselne. W strukturze OLX przedmioty dekoracyjne i organizacyjne specyficzne dla ślubów najlepiej pasują do kategorii 'Moda > Do ślubu > Akcesoria ślubne > Pozostałe', ponieważ jest ona najbardziej precyzyjna dla asortymentu weselnego."
+    },
+    {
+        "ID_Produktu": "242637704",
+        "Nazwa_Produktu": "Uchwyt do pokrywy garnka lub kociołka żeliwnego",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest dedykowany do gotowania na świeżym powietrzu (outdoor) w kociołkach żeliwnych. Opis wspomaga wybór tej kategorii, wskazując na funkcję pogrzebacza do zarządzania żarem, co jednoznacznie wiąże narzędzie z grillowaniem i paleniskami ogrodowymi."
+    },
+    {
+        "ID_Produktu": "242637731",
+        "Nazwa_Produktu": "Podpórka Kratka Podtrzymująca Rośliny 4szt Kaktus",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Doniczki i osłonki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plastikowe podpórki (kratki) służące do wspierania wzrostu roślin pnących, zarówno ogrodowych (pomidory, ogórki), jak i ozdobnych. Ze względu na brak specyficznej kategorii dla akcesoriów do roślin w sekcji Ogród, kategoria 'Pozostałe Ogród' jest najbardziej odpowiednim wyborem dla tego typu funkcjonalnych dodatków ogrodniczych."
+    },
+    {
+        "ID_Produktu": "242637737",
+        "Nazwa_Produktu": "Wspornik Podpórka Podtrzymująca Rośliny 8szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podpórki do roślin pnących, które pełnią funkcję akcesoriów ogrodowych wspomagających uprawę. Najlepiej pasują do kategorii 'Dom i Ogród > Ogród > Pozostałe Ogród', ponieważ nie są narzędziami (do pracy ręcznej), elementami architektury ani meblami. Ze względu na wzmiankę o uprawie warzyw (pomidory, ogórki), kategoria 'Ogród' jest bardziej odpowiednia niż 'Wyposażenie wnętrz'."
+    },
+    {
+        "ID_Produktu": "242637743",
+        "Nazwa_Produktu": "Uszczelka Taśma Uszczelniająca Samoprzylepna 15m",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjna taśma uszczelniająca (uszczelka piankowa) przeznaczona głównie do izolacji okien i drzwi, ale także do zastosowań sanitarnych i ochronnych. Najlepiej pasuje do kategorii 'Pozostałe' w dziale 'Budowa', ponieważ jest to podstawowy artykuł budowlano-remontowy służący do izolacji i wykończenia."
     }
 ]
