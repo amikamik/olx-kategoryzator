@@ -3188,5 +3188,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to szampon do mycia samochodów, co jednoznacznie wskazuje na kategorię związaną z motoryzacją. Brak bardziej szczegółowej podkategorii chemii samochodowej w 'Wyposażenie i akcesoria samochodowe' sprawia, że 'Pozostałe' w tej gałęzi jest najlepiej dopasowanym, najbardziej szczegółowym liściem."
+    },
+    {
+        "ID_Produktu": "243165949",
+        "Nazwa_Produktu": "Zestaw Akrylowy wkład do zamiatania 60 cm + Dustmop uchwyt metalowy do mopa 60 cm + Kij aluminiowy niebieski",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Zamiatarki",
+        "Finalne_ID_AI": 4856,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny zestaw do zamiatania i mopowania, a jego nazwa oraz szczegółowy opis (z uwzględnieniem marki Vileda Professional i systemu kodowania kolorami) wyraźnie wskazują na zastosowanie w środowisku, gdzie wymagane jest specjalistyczne podejście do czyszczenia, zarówno w biurze, jak i w domu. Kategoria 'Zamiatarki' w ramach 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący' jest najbardziej szczegółowa i trafnie oddaje charakter produktu jako sprzętu do zamiatania i utrzymania czystości."
     }
 ]
