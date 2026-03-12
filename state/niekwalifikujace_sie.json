@@ -5228,5 +5228,155 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zestaw specjalistycznych wieszaków na spodnie służących do organizacji szafy. W strukturze OLX kategoria 'Wieszaki' (ID: 1948) pod sekcją 'Meble' jest najbardziej specyficznym i standardowym miejscem dla tego rodzaju akcesoriów domowych."
+    },
+    {
+        "ID_Produktu": "242636435",
+        "Nazwa_Produktu": "Lampa Wisząca LED 30W Nowoczesna 3000-6500K A++",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalne_ID_AI": 3867,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako lampa wisząca (pendant lamp) z regulacją wysokości i montażem sufitowym, co w drzewie kategorii OLX odpowiada liściowi 'Lampy wiszące' w sekcji 'Oświetlenie'."
+    },
+    {
+        "ID_Produktu": "242636481",
+        "Nazwa_Produktu": "Lampki sufitowe LED 10W 800lm Bluetooth 4 sztuki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to oprawy typu downlight do wbudowania w sufit (recessed), co w nomenklaturze oświetleniowej na polskim rynku i w drzewie kategorii OLX najlepiej opisuje kategoria 'Oczka'."
+    },
+    {
+        "ID_Produktu": "242636520",
+        "Nazwa_Produktu": "Trójkąt ostrzegawczy do samochodu odblaskowy",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Pozostałe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Wyposażenie i akcesoria samochodowe > Apteczki, gaśnice, kamizelki, trójkąty",
+        "Finalne_ID_AI": 4483,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to trójkąt ostrzegawczy, który jest wprost wymieniony w nazwie wybranej kategorii (Apteczki, gaśnice, kamizelki, trójkąty) wewnątrz sekcji wyposażenia i akcesoriów samochodowych."
+    },
+    {
+        "ID_Produktu": "242636579",
+        "Nazwa_Produktu": "Podkładka do Pieczątek z Tuszem Tuszownica czarny",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tuszownica do pieczątek to klasyczny artykuł biurowy. Kategoria 'Akcesoria i materiały biurowe' w sekcji 'Biuro' (pod 'Firma i Przemysł') jest najbardziej precyzyjnym i merytorycznym wyborem dla tego typu produktów, znacznie lepiej oddającym charakter przedmiotu niż ogólna kategoria artykułów papierniczych dla dzieci."
+    },
+    {
+        "ID_Produktu": "242636598",
+        "Nazwa_Produktu": "Broszka Świąteczna Przypinka 3 szt Stal Nierdzewna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Broszki",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Broszki",
+        "Finalne_ID_AI": 2835,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw trzech broszek wykonanych ze stali nierdzewnej, przeznaczonych jako ozdoba do ubrań dla kobiet. Kategoria 'Broszki' (ID: 2835) znajdująca się w sekcji 'Biżuteria' jest najbardziej szczegółowym i trafnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "242636600",
+        "Nazwa_Produktu": "Broszka Świąteczna Przypinka 3 szt Stal Nierdzewna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Broszki",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Broszki",
+        "Finalne_ID_AI": 2835,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to zestaw broszek/przypinek wykonanych ze stali nierdzewnej, co wprost odpowiada kategorii liściastej 'Broszki' w sekcji 'Biżuteria' wewnątrz działu 'Moda'."
+    },
+    {
+        "ID_Produktu": "242636661",
+        "Nazwa_Produktu": "Reflektor LED wpuszczany 6W 360lm 115mm srebrny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest klasycznym reflektorem wpuszczanym w sufit (downlight), co w polskiej terminologii oświetleniowej i strukturze kategorii OLX odpowiada kategorii 'Oczka'."
+    },
+    {
+        "ID_Produktu": "242634105",
+        "Nazwa_Produktu": "Zestaw Do Nawadniania Obsługiwane Przez Aplikację",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest inteligentnym systemem nawadniania ogrodu sterowanym przez aplikację. Kategoria 'Nawadnianie' (id: 1637) znajdująca się w sekcji 'Ogród' jest najbardziej precyzyjnym i trafnym dopasowaniem dla tego typu asortymentu."
+    },
+    {
+        "ID_Produktu": "242636710",
+        "Nazwa_Produktu": "Poduszka do Pieczątek z Tuszem 10x7cm Czerwona",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Poduszka do pieczątek jest klasycznym elementem wyposażenia biura. Opis produktu wyraźnie nawiązuje do profesjonalnego stemplowania dokumentów, co sprawia, że kategoria Akcesoria i materiały biurowe w sekcji Firma i Przemysł jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "242636711",
+        "Nazwa_Produktu": "Poduszka do Pieczątek z Tuszem 10x7cm Zielony",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro",
+        "Finalne_ID_AI": 4654,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to poduszka do pieczątek przeznaczona do użytku profesjonalnego (stemplowanie dokumentów), co jednoznacznie klasyfikuje go jako akcesorium i materiał biurowy w kategorii Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242636712",
+        "Nazwa_Produktu": "Poduszka do Pieczątek 12,5x8,8cm Niebieski",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro",
+        "Finalne_ID_AI": 4654,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Poduszka do pieczątek to klasyczny artykuł biurowy. Chociaż produkt może być używany w szkole, opis podkreśla profesjonalne zastosowanie do dokumentów, co klasyfikuje go jako akcesorium biurowe w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242636715",
+        "Nazwa_Produktu": "Spinacze Biurowe do Papieru 26mm 100szt Kolorowe",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Dziurkacze i zszywacze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to spinacze biurowe, które jednoznacznie klasyfikują się jako materiały biurowe. Wybrana kategoria 'Akcesoria i materiały biurowe' w sekcji 'Biuro' jest najbardziej precyzyjnym miejscem dla tego typu asortymentu w dostarczonym drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "242636716",
+        "Nazwa_Produktu": "Spinacze Biurowe Ocynkowane 0,85mm 10x100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Dziurkacze i zszywacze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to standardowe materiały biurowe w ilości hurtowej (10x100 sztuk), co kwalifikuje go bezpośrednio do kategorii Akcesoria i materiały biurowe w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "242636725",
+        "Nazwa_Produktu": "Reklamówka z uchem 40x45cm Mikołaj LD 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to reklamówki foliowe LDPE sprzedawane w pakiecie 50 sztuk. Ze względu na przeznaczenie określone w opisie ('do pakowania zakupionych produktów') oraz charakter hurtowy, produkt kwalifikuje się jako zaopatrzenie sklepowe. Najbardziej odpowiednią kategorią dla materiałów opakowaniowych w handlu detalicznym jest Firma i Przemysł > Sklepy i magazyny > Pozostałe (4681)."
+    },
+    {
+        "ID_Produktu": "242636734",
+        "Nazwa_Produktu": "Dozownik Dyspenser Taśmy Klejącej Biurowej Premium",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to biurowy dyspenser do taśmy, który jest klasycznym akcesorium biurowym. Kategoria 'Akcesoria i materiały biurowe' (4655) w sekcji 'Biuro' najlepiej oddaje przeznaczenie i charakter tego przedmiotu."
     }
 ]

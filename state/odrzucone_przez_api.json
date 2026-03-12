@@ -2375,5 +2375,66 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "242636747",
+        "Nazwa_Produktu": "Opaski do kabli organizer zaciski rzep zestaw",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Opaski do kabli (zarówno typu rzep, jak i zaciskowe) są klasycznym elementem osprzętu instalacyjnego wykorzystywanego w elektryce i zarządzaniu przewodami, co najlepiej odpowiada kategorii System i osprzęt instalacyjny w dziale Instalacje.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Opaski do kabli organizer zaciski rzep zestaw",
+                "description": "100 sztuk w bezkonkurencyjnej cenie W domu, w biurze, w ogrodzie, w studio, na kempingu, na siłowni, w pomieszczeniu, na zewnątrz i nie tylko. Dzięki jednej paczce naszych opasek kablowych wielokrotnego użytku masz wszystko, czego potrzebujesz, aby zmienić lub owinąć prawie wszystko. Pożegnaj splątane kable - Najczęściej używane opaski kablowe to te 15 cm, ale dzięki dużemu oczkowi naszych opasek na rzepy możesz również poradzić sobie z większymi zadaniami. Mały, ale mocny - Nie daj się zwieść ich małym rozmiarom. Te opaski kablowe są wykonane w 100% z nylonu i mogą utrzymać do 21 kg. Rowery, samochody, wędki i wiele więcej. Zapoznaj się z opiniami naszych klientów i odkryj niezawodność naszych produktów! Odporność na warunki atmosferyczne - Wewnątrz lub na zewnątrz nasze opaski kablowe są niezawodne w każdym zastosowaniu. Wymiary: 29x19x5.5 cm\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 48.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/0df5956de8255bd482f5b0ecb057ace2.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/1decf1a8f121676d6a5c17d1f031b910.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/a1252dd62b0fe78bade6a4e41f6c8180.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/6015020/ad67eb4b6c2967a0f9cae5440fa30a44.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
