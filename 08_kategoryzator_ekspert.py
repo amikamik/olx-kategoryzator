@@ -29,6 +29,10 @@ import csv
 from tqdm import tqdm
 import openai
 import os
+try:
+    import oci
+except ImportError:
+    oci = None
 
 # --- Konfiguracja (teraz większość jest w config.py) ---
 
@@ -45,6 +49,41 @@ if config.OPENAI_API_KEY and config.OPENAI_API_KEY != "TWOJ_KLUCZ_API_OPENAI":
         OPENAI_CLIENT = openai.OpenAI(api_key=config.OPENAI_API_KEY)
     except Exception as e:
         print(f"BŁĄD: Nie udało się zainicjalizować klienta OpenAI: {e}")
+
+ORACLE_SIGNER = None
+ORACLE_INFERENCE_URL = None
+ORACLE_COMPARTMENT_ID = getattr(config, "ORACLE_COMPARTMENT_ID", None)
+
+if getattr(config, "ACTIVE_LLM_PROVIDER", "").upper() == "ORACLE":
+    if oci is None:
+        print("BŁĄD: Provider ORACLE wymaga pakietu 'oci'.")
+    else:
+        try:
+            tenancy = getattr(config, "ORACLE_TENANCY_OCID", "")
+            user = getattr(config, "ORACLE_USER_OCID", "")
+            fingerprint = getattr(config, "ORACLE_FINGERPRINT", "")
+            private_key = getattr(config, "ORACLE_PRIVATE_KEY", "")
+            passphrase = getattr(config, "ORACLE_PRIVATE_KEY_PASSPHRASE", "")
+            region = getattr(config, "ORACLE_REGION", "eu-frankfurt-1")
+
+            if all([tenancy, user, fingerprint, private_key]):
+                passphrase_bytes = passphrase.encode("utf-8") if passphrase else None
+                ORACLE_SIGNER = oci.signer.Signer(
+                    tenancy=tenancy,
+                    user=user,
+                    fingerprint=fingerprint,
+                    private_key_content=private_key,
+                    pass_phrase=passphrase_bytes,
+                )
+                ORACLE_INFERENCE_URL = getattr(
+                    config,
+                    "ORACLE_INFERENCE_URL",
+                    f"https://inference.generativeai.{region}.oci.oraclecloud.com/20231130/actions/chat"
+                )
+            else:
+                print("BŁĄD: Brak pełnej konfiguracji Oracle (tenancy/user/fingerprint/private_key).")
+        except Exception as e:
+            print(f"BŁĄD: Nie udało się zainicjalizować Oracle signer: {e}")
 
 
 # ==============================================================================
@@ -445,6 +484,105 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
                 except:
                     print(f"Response text: {e.response.text}")
             return None
+
+    elif provider == "ORACLE":
+        if not ORACLE_SIGNER:
+            print("Błąd ORACLE: signer nie został zainicjalizowany. Sprawdź konfigurację OCI.")
+            return None
+        if not ORACLE_COMPARTMENT_ID:
+            print("Błąd ORACLE: brak ORACLE_COMPARTMENT_ID w config.py")
+            return None
+
+        # Oracle GENERIC chat przyjmuje tekst; łączymy konwersację w jeden prompt.
+        combined_text = "\n\n".join([
+            f"{msg.get('role', 'user').upper()}: {msg.get('content', '')}"
+            for msg in messages
+        ])
+        if response_format_json:
+            combined_text = "Zwróć wyłącznie poprawny JSON.\n\n" + combined_text
+
+        payload = {
+            "compartmentId": ORACLE_COMPARTMENT_ID,
+            "servingMode": {
+                "modelId": model_name,
+                "servingType": "ON_DEMAND"
+            },
+            "chatRequest": {
+                "apiFormat": "GENERIC",
+                "messages": [
+                    {
+                        "role": "USER",
+                        "content": [
+                            {
+                                "type": "TEXT",
+                                "text": combined_text
+                            }
+                        ]
+                    }
+                ],
+                "temperature": float(getattr(config, "ORACLE_TEMPERATURE", 0.7)),
+                "maxTokens": int(getattr(config, "ORACLE_MAX_TOKENS", 4000))
+            }
+        }
+
+        def _extract_text(obj):
+            if isinstance(obj, str):
+                return obj
+            if isinstance(obj, list):
+                for item in obj:
+                    result = _extract_text(item)
+                    if result:
+                        return result
+                return None
+            if isinstance(obj, dict):
+                for key in ("text", "outputText", "content", "message", "chatResponse", "response", "data"):
+                    if key in obj:
+                        result = _extract_text(obj[key])
+                        if result:
+                            return result
+                for value in obj.values():
+                    result = _extract_text(value)
+                    if result:
+                        return result
+            return None
+
+        max_retries = 4
+        retry_delays = [5, 15, 30, 60]
+        for attempt in range(max_retries):
+            try:
+                response = requests.post(
+                    ORACLE_INFERENCE_URL,
+                    headers={'Content-Type': 'application/json'},
+                    json=payload,
+                    auth=ORACLE_SIGNER,
+                    timeout=180
+                )
+                response.raise_for_status()
+                data = response.json()
+                text_response = _extract_text(data)
+                if text_response:
+                    return text_response
+                print("Błąd ORACLE: nie znaleziono tekstu odpowiedzi w payloadzie.")
+                return None
+            except requests.exceptions.HTTPError as e:
+                status_code = e.response.status_code if e.response is not None else None
+                if status_code in [429, 500, 502, 503, 504] and attempt < max_retries - 1:
+                    wait_time = retry_delays[attempt]
+                    print(f"⚠️ ORACLE HTTP {status_code} - ponawiam za {wait_time}s (próba {attempt + 2}/{max_retries})...")
+                    time.sleep(wait_time)
+                    continue
+                print(f"Błąd wywołania Oracle API: {e}")
+                if e.response is not None:
+                    print(e.response.text)
+                return None
+            except requests.exceptions.RequestException as e:
+                if attempt < max_retries - 1:
+                    wait_time = retry_delays[attempt]
+                    print(f"⚠️ Błąd połączenia ORACLE - ponawiam za {wait_time}s (próba {attempt + 2}/{max_retries})...")
+                    time.sleep(wait_time)
+                    continue
+                print(f"Błąd wywołania Oracle API: {e}")
+                return None
     
     else:
         raise ValueError(f"Nieznany dostawca LLM: {provider}")
@@ -1107,7 +1245,7 @@ def main():
     
     print("#" * 80)
     print("##### START PROCESU KATEGORYZACJI PRODUKTÓW OLX - DEAL BL B2B #####")
-    print(f"Dostawca modelu: {config.ACTIVE_LLM_PROVIDER}, Model: {config.GEMINI_MODEL_NAME if config.ACTIVE_LLM_PROVIDER == 'GEMINI' else config.OPENAI_MODEL_NAME}")
+    print(f"Dostawca modelu: {config.ACTIVE_LLM_PROVIDER}, Model: {config.CATEGORIZATION_MODEL}")
     print("⚠️  UWAGA: Produkty Deal nie mają danych GPSR - będą śledzone w state/bez_gpsr.json")
     print("#" * 80)
 
@@ -1123,6 +1261,9 @@ def main():
         return
     if provider == "OPENAI" and config.OPENAI_API_KEY == "TWOJ_KLUCZ_API_OPENAI":
         print("KRYTYCZNY BŁĄD: Wprowadź swój klucz API OpenAI w pliku config.py.")
+        return
+    if provider == "ORACLE" and (not ORACLE_SIGNER or not ORACLE_COMPARTMENT_ID):
+        print("KRYTYCZNY BŁĄD: Niepełna konfiguracja ORACLE. Uzupełnij OCI credentials w config.py.")
         return
     if config.ACCESS_TOKEN == "TWOJ_TOKEN_DOSTEPOWY_OLX":
         print("OSTRZEŻENIE: Brak tokena OLX. Sugestie z OLX i publikacja nie będą działać.")

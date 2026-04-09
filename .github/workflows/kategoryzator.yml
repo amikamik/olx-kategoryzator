@@ -14,6 +14,15 @@ on:
           - gemini-2.5-flash-lite
           - gemini-3-pro-preview
           - gemini-3-flash-preview
+      oracle_model:
+        description: 'Model Oracle do kategoryzacji (tylko gałęzie *_oracle)'
+        required: true
+        default: 'google.gemini-2.5-flash'
+        type: choice
+        options:
+          - google.gemini-2.5-flash
+          - google.gemini-2.5-pro
+          - meta.llama-3.1-405b-instruct
       sample_size:
         description: 'Liczba produktów do przetworzenia (0 = wszystkie)'
         required: false
@@ -66,12 +75,48 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: � Pobierz wspólny state z deal-shared-state
+      - name: 🧭 Ustal tryb gałęzi (legacy vs _oracle)
+        id: branch_mode
+        run: |
+          if [[ "${{ github.ref_name }}" == *_oracle ]]; then
+            echo "is_oracle=true" >> $GITHUB_OUTPUT
+            echo "provider=ORACLE" >> $GITHUB_OUTPUT
+            echo "selected_model=${{ inputs.oracle_model }}" >> $GITHUB_OUTPUT
+            echo "source_branch=${GITHUB_REF_NAME%_oracle}" >> $GITHUB_OUTPUT
+          else
+            echo "is_oracle=false" >> $GITHUB_OUTPUT
+            echo "provider=GEMINI" >> $GITHUB_OUTPUT
+            echo "selected_model=${{ inputs.gemini_model }}" >> $GITHUB_OUTPUT
+            echo "source_branch=${GITHUB_REF_NAME}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 📥 Pobierz wspólny state z deal-shared-state (legacy)
+        if: ${{ steps.branch_mode.outputs.is_oracle != 'true' }}
         run: |
           echo "📥 Pobieram wspólny state z gałęzi deal-shared-state..."
           git fetch origin deal-shared-state
           git checkout origin/deal-shared-state -- state/ || echo "⚠️ Brak state na deal-shared-state, używam lokalnego"
           echo "📋 Wspólny state pobrany:"
+          for f in state/*.json; do
+            if [ -f "$f" ]; then
+              COUNT=$(python3 -c "import json; d=json.load(open('$f')); print(len(d))" 2>/dev/null || echo "?")
+              echo "  $(basename $f): $COUNT elementów"
+            fi
+          done
+
+      - name: 🧷 Bootstrap state z gałęzi źródłowej (oracle)
+        if: ${{ steps.branch_mode.outputs.is_oracle == 'true' }}
+        run: |
+          mkdir -p state
+          if [ -z "$(ls -A state 2>/dev/null)" ]; then
+            echo "📥 Brak lokalnego state - bootstrap z: ${{ steps.branch_mode.outputs.source_branch }}"
+            git fetch origin "${{ steps.branch_mode.outputs.source_branch }}"
+            git checkout "origin/${{ steps.branch_mode.outputs.source_branch }}" -- state/ || echo "⚠️ Brak state w gałęzi źródłowej"
+          else
+            echo "ℹ️ State już istnieje na gałęzi _oracle - pomijam bootstrap"
+          fi
+
+          echo "📋 State na starcie (_oracle):"
           for f in state/*.json; do
             if [ -f "$f" ]; then
               COUNT=$(python3 -c "import json; d=json.load(open('$f')); print(len(d))" 2>/dev/null || echo "?")
@@ -104,7 +149,8 @@ jobs:
           OLX_CLIENT_SECRET: "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
           OLX_REFRESH_TOKEN: "${{ secrets.OLX_REFRESH_TOKEN }}"
 
-      - name: ⚙️ Przygotuj konfigurację (GEMINI)
+      - name: ⚙️ Przygotuj konfigurację (GEMINI - legacy)
+        if: ${{ steps.branch_mode.outputs.is_oracle != 'true' }}
         run: |
           cat > config/config.py << EOF
           import os
@@ -132,7 +178,7 @@ jobs:
           # --- Konfiguracja OLX ---
           CLIENT_ID = "202557"
           CLIENT_SECRET = "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
-          ACCESS_TOKEN = "${{ env.REFRESHED_OLX_TOKEN }}"
+          ACCESS_TOKEN = "${REFRESHED_OLX_TOKEN}"
           REFRESH_TOKEN = "8bf78bbca8df822b188fdde14df9a468fb28be23"
 
           # Dane kontaktowe
@@ -172,11 +218,99 @@ jobs:
           OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: 🏷️ Uruchom kategoryzator (Gemini) - Deal BL B2B
+      - name: ⚙️ Przygotuj konfigurację (ORACLE)
+        if: ${{ steps.branch_mode.outputs.is_oracle == 'true' }}
+        run: |
+          cat > config/config.py << EOF
+          import os
+
+          # --- ORACLE JAKO GŁÓWNY PROVIDER ---
+          ACTIVE_LLM_PROVIDER = "ORACLE"
+
+          # --- Konfiguracja Oracle OCI GenAI ---
+          ORACLE_REGION = os.environ.get("OCI_REGION", "eu-frankfurt-1")
+          ORACLE_TENANCY_OCID = os.environ.get("OCI_TENANCY_OCID", "")
+          ORACLE_USER_OCID = os.environ.get("OCI_USER_OCID", "")
+          ORACLE_FINGERPRINT = os.environ.get("OCI_FINGERPRINT", "")
+          ORACLE_PRIVATE_KEY = os.environ.get("OCI_PRIVATE_KEY", "")
+          ORACLE_PRIVATE_KEY_PASSPHRASE = os.environ.get("OCI_PRIVATE_KEY_PASSPHRASE", "")
+          ORACLE_COMPARTMENT_ID = os.environ.get("OCI_COMPARTMENT_ID", ORACLE_TENANCY_OCID)
+          ORACLE_INFERENCE_URL = f"https://inference.generativeai.{ORACLE_REGION}.oci.oraclecloud.com/20231130/actions/chat"
+          ORACLE_MODEL_NAME = "${{ inputs.oracle_model }}"
+          ORACLE_TEMPERATURE = 0.7
+          ORACLE_MAX_TOKENS = 4000
+
+          # --- Konfiguracja Gemini (zachowana pomocniczo) ---
+          GEMINI_API_KEY = "${{ secrets.GEMINI_API_KEY }}"
+          GEMINI_MODEL_NAME = "${{ inputs.gemini_model }}"
+          GEMINI_TEMPERATURE = 1.0
+
+          # --- Konfiguracja OpenAI (do zadań pomocniczych) ---
+          OPENAI_API_KEY = "${{ secrets.OPENAI_API_KEY }}"
+          OPENAI_MODEL_NAME = "gpt-5-nano"
+          OPENAI_TEMPERATURE = 1.0
+
+          # --- Konfiguracja DeepSeek (backup) ---
+          DEEPSEEK_API_KEY = "${{ secrets.DEEPSEEK_API_KEY }}"
+
+          # Modele dla różnych zadań:
+          CATEGORIZATION_MODEL = "${{ inputs.oracle_model }}"
+          OTHER_TASKS_MODEL = "gpt-5-nano"
+
+          # --- Konfiguracja OLX ---
+          CLIENT_ID = "202557"
+          CLIENT_SECRET = "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
+          ACCESS_TOKEN = "${REFRESHED_OLX_TOKEN}"
+          REFRESH_TOKEN = "8bf78bbca8df822b188fdde14df9a468fb28be23"
+
+          # Dane kontaktowe
+          OLX_AD_CONTACT = {
+              "name": "Amadeusz",
+              "phone": "530790357"
+          }
+
+          OLX_AD_LOCATION = {
+              "city_id": 20327,
+              "district_id": None
+          }
+
+          # --- Konfiguracja cenowa ---
+          MARGIN_PERCENT = 0.30
+          COMMISSION_PERCENT = 0.12
+          MINIMUM_PROFIT_PLN = 11.0
+          CENA_MIN = float(${{ inputs.min_price }})
+          CENA_MAX = float(${{ inputs.max_price }})
+
+          # --- Parametry kategoryzacji ---
+          MINIMALNA_PEWNOSC = 80
+
+          # Cache dla drzewa kategorii (wypełniane dynamicznie)
+          CATEGORY_TREE_JSON_STR = ""
+
+          # GPSR - Deal nie ma danych GPSR
+          GPSR_ENABLED = False
+
+          # BaseLinker (do pobierania feedu Deal)
+          BASELINKER_TOKEN = "${{ secrets.BASELINKER_TOKEN }}"
+
+          # Dedykowane konto BL z pełnym feedem Deal (bez limitu 1000)
+          BASELINKER_TOKEN_FEED = "${{ secrets.BASELINKER_TOKEN_FEED }}"
+          EOF
+        env:
+          OCI_REGION: ${{ secrets.OCI_REGION }}
+          OCI_TENANCY_OCID: ${{ secrets.OCI_TENANCY_OCID }}
+          OCI_USER_OCID: ${{ secrets.OCI_USER_OCID }}
+          OCI_FINGERPRINT: ${{ secrets.OCI_FINGERPRINT }}
+          OCI_PRIVATE_KEY: ${{ secrets.OCI_PRIVATE_KEY }}
+          OCI_PRIVATE_KEY_PASSPHRASE: ${{ secrets.OCI_PRIVATE_KEY_PASSPHRASE }}
+          OCI_COMPARTMENT_ID: ${{ secrets.OCI_COMPARTMENT_ID }}
+
+      - name: 🏷️ Uruchom kategoryzator - Deal BL B2B
         run: |
           echo "=================================="
           echo "KATEGORYZACJA OLX - DEAL BL B2B"
-          echo "Model: ${{ inputs.gemini_model }}"
+          echo "Provider: ${{ steps.branch_mode.outputs.provider }}"
+          echo "Model: ${{ steps.branch_mode.outputs.selected_model }}"
           echo "Sample size: ${{ inputs.sample_size }}"
           echo "Zakres cenowy: ${{ inputs.min_price }} - ${{ inputs.max_price }} zł"
           echo "Refresh feed: ${{ inputs.refresh_feed }}"
@@ -199,6 +333,13 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           BASELINKER_TOKEN: ${{ secrets.BASELINKER_TOKEN }}
           BASELINKER_TOKEN_FEED: ${{ secrets.BASELINKER_TOKEN_FEED }}
+          OCI_REGION: ${{ secrets.OCI_REGION }}
+          OCI_TENANCY_OCID: ${{ secrets.OCI_TENANCY_OCID }}
+          OCI_USER_OCID: ${{ secrets.OCI_USER_OCID }}
+          OCI_FINGERPRINT: ${{ secrets.OCI_FINGERPRINT }}
+          OCI_PRIVATE_KEY: ${{ secrets.OCI_PRIVATE_KEY }}
+          OCI_PRIVATE_KEY_PASSPHRASE: ${{ secrets.OCI_PRIVATE_KEY_PASSPHRASE }}
+          OCI_COMPARTMENT_ID: ${{ secrets.OCI_COMPARTMENT_ID }}
           MAX_RUNTIME_MINUTES: "350"
 
       - name: 💽 Zapisz zaktualizowane pliki state i raport
@@ -210,7 +351,7 @@ jobs:
           git add output/raport_kategoryzacji.csv
 
           if ! git diff --staged --quiet; then
-            git commit -m "AUTO: Aktualizacja state i raport - Deal BL B2B - Gemini ${{ inputs.gemini_model }} - $(date '+%Y-%m-%d %H:%M:%S')"
+            git commit -m "AUTO: Aktualizacja state i raport - Deal BL B2B - ${{ steps.branch_mode.outputs.provider }} ${{ steps.branch_mode.outputs.selected_model }} - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
             echo "✅ Zaktualizowano pliki state i raport"
           else
@@ -218,7 +359,7 @@ jobs:
           fi
 
       - name: 📤 Wypchnij state na deal-shared-state
-        if: always()
+        if: ${{ always() && steps.branch_mode.outputs.is_oracle != 'true' }}
         run: |
           echo "📤 Aktualizuję wspólny state na deal-shared-state..."
           
@@ -330,7 +471,8 @@ jobs:
           echo ""
           echo "=================================="
           echo "✅ Workflow zakończony - Deal BL B2B"
-          echo "🤖 Model: ${{ inputs.gemini_model }}"
+          echo "🤖 Provider: ${{ steps.branch_mode.outputs.provider }}"
+          echo "🤖 Model: ${{ steps.branch_mode.outputs.selected_model }}"
           echo "📅 Czas zakończenia: $(date)"
           echo "=================================="
 
