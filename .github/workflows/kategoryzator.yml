@@ -1,4 +1,4 @@
-name: 🏷️ Kategoryzacja OLX - DoFirmy.pl (Gemini)
+﻿name: 🏷️ Kategoryzacja OLX - DoFirmy.pl (Gemini)
 
 on:
   workflow_dispatch:
@@ -14,13 +14,22 @@ on:
           - gemini-2.5-flash-lite
           - gemini-3-pro-preview
           - gemini-3-flash-preview
+      oracle_model:
+        description: 'Model Oracle do kategoryzacji (tylko gazie *_oracle)'
+        required: true
+        default: 'google.gemini-2.5-flash'
+        type: choice
+        options:
+          - google.gemini-2.5-flash
+          - google.gemini-2.5-pro
+          - meta.llama-3.1-405b-instruct
       sample_size:
         description: 'Liczba produktów do przetworzenia (0 = wszystkie)'
         required: false
         default: '5'
         type: string
       reset_state:
-        description: 'Wyczyść pliki state przed startem?'
+        description: 'Wyczy pliki state przed startem?'
         required: false
         default: false
         type: boolean
@@ -30,12 +39,12 @@ on:
         default: true
         type: boolean
       min_price:
-        description: 'Od jakiej ceny (zł) przetwarzać produkty z feedu?'
+        description: 'Od jakiej ceny (z) przetwarza produkty z feedu?'
         required: false
         default: '1'
         type: string
       max_price:
-        description: 'Do jakiej ceny (zł) przetwarzać produkty z feedu?'
+        description: 'Do jakiej ceny (z) przetwarza produkty z feedu?'
         required: false
         default: '150'
         type: string
@@ -61,10 +70,45 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
 
-      - name: 📦 Instalacja zależności
+      - name: 📦 Instalacja zalenoci
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+      - name: 🧭 Ustal tryb gazi (legacy vs _oracle)
+        id: branch_mode
+        run: |
+          if [[ "${{ github.ref_name }}" == *_oracle ]]; then
+            echo "is_oracle=true" >> $GITHUB_OUTPUT
+            echo "provider=ORACLE" >> $GITHUB_OUTPUT
+            echo "selected_model=${{ inputs.oracle_model }}" >> $GITHUB_OUTPUT
+            echo "source_branch=${GITHUB_REF_NAME%_oracle}" >> $GITHUB_OUTPUT
+          else
+            echo "is_oracle=false" >> $GITHUB_OUTPUT
+            echo "provider=GEMINI" >> $GITHUB_OUTPUT
+            echo "selected_model=${{ inputs.gemini_model }}" >> $GITHUB_OUTPUT
+            echo "source_branch=${GITHUB_REF_NAME}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 🧷 Bootstrap state z gazi ródowej (oracle)
+        if: ${{ steps.branch_mode.outputs.is_oracle == 'true' }}
+        run: |
+          mkdir -p state
+          if [ -z "$(ls -A state 2>/dev/null)" ]; then
+            echo "📥 Brak lokalnego state - bootstrap z: ${{ steps.branch_mode.outputs.source_branch }}"
+            git fetch origin "${{ steps.branch_mode.outputs.source_branch }}"
+            git checkout "origin/${{ steps.branch_mode.outputs.source_branch }}" -- state/ || echo "⚠️ Brak state w gazi ródowej"
+          else
+            echo "ℹ️ State ju istnieje na gazi _oracle - pomijam bootstrap"
+          fi
+
+          echo "📋 State na starcie (_oracle):"
+          for f in state/*.json; do
+            if [ -f "$f" ]; then
+              COUNT=$(python3 -c "import json; d=json.load(open('$f')); print(len(d))" 2>/dev/null || echo "?")
+              echo "  $(basename $f): $COUNT elementów"
+            fi
+          done
 
       - name: 🗑️ Reset plików state (opcjonalnie)
         if: ${{ inputs.reset_state == true }}
@@ -73,17 +117,17 @@ jobs:
           rm -f state/*.json
           echo "Pliki state wyczyszczone"
 
-      - name: 🔄 Odświeżenie tokena OLX
+      - name: 🔄 Odwieenie tokena OLX
         id: refresh_token
         run: |
-          echo "🔄 Odświeżanie tokena OLX..."
+          echo "🔄 Odwieanie tokena OLX..."
           NEW_TOKEN=$(python scripts/refresh_token.py)
           if [ $? -eq 0 ] && [ ! -z "$NEW_TOKEN" ]; then
-            echo "✅ Token odświeżony pomyślnie"
+            echo "✅ Token odwieony pomylnie"
             echo "::add-mask::$NEW_TOKEN"
             echo "REFRESHED_OLX_TOKEN=$NEW_TOKEN" >> $GITHUB_ENV
           else
-            echo "⚠️ Błąd odświeżania - używam tokena z secrets"
+            echo "⚠️ Bd odwieania - uywam tokena z secrets"
             echo "REFRESHED_OLX_TOKEN=${{ secrets.OLX_ACCESS_TOKEN }}" >> $GITHUB_ENV
           fi
         env:
@@ -91,12 +135,13 @@ jobs:
           OLX_CLIENT_SECRET: "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
           OLX_REFRESH_TOKEN: "${{ secrets.OLX_REFRESH_TOKEN }}"
 
-      - name: ⚙️ Przygotuj konfigurację (GEMINI)
+      - name: ⚙️ Przygotuj konfiguracj (GEMINI - legacy)
+        if: ${{ steps.branch_mode.outputs.is_oracle != 'true' }}
         run: |
           cat > config/config.py << EOF
           import os
 
-          # --- GEMINI JAKO GŁÓWNY PROVIDER ---
+          # --- GEMINI JAKO GÓWNY PROVIDER ---
           ACTIVE_LLM_PROVIDER = "GEMINI"
 
           # --- Konfiguracja Gemini ---
@@ -104,7 +149,7 @@ jobs:
           GEMINI_MODEL_NAME = "${{ inputs.gemini_model }}"
           GEMINI_TEMPERATURE = 1.0
 
-          # --- Konfiguracja OpenAI (do zadań pomocniczych) ---
+          # --- Konfiguracja OpenAI (do zada pomocniczych) ---
           OPENAI_API_KEY = "${{ secrets.OPENAI_API_KEY }}"
           OPENAI_MODEL_NAME = "gpt-5-nano"
           OPENAI_TEMPERATURE = 1.0
@@ -112,17 +157,16 @@ jobs:
           # --- Konfiguracja DeepSeek (backup) ---
           DEEPSEEK_API_KEY = "${{ secrets.DEEPSEEK_API_KEY }}"
 
-          # Modele dla różnych zadań:
-          CATEGORIZATION_MODEL = "${{ inputs.gemini_model }}"  # Model używany do kategoryzacji produktów
-          OTHER_TASKS_MODEL = "gpt-5-nano"  # Model używany do rozmiaru paczek, atrybutów, itp.
+          # Modele dla rónych zada:
+          CATEGORIZATION_MODEL = "${{ inputs.gemini_model }}"
+          OTHER_TASKS_MODEL = "gpt-5-nano"
 
           # --- Konfiguracja OLX ---
           CLIENT_ID = "202557"
           CLIENT_SECRET = "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
-          ACCESS_TOKEN = "${{ env.REFRESHED_OLX_TOKEN }}"
+          ACCESS_TOKEN = "${REFRESHED_OLX_TOKEN}"
           REFRESH_TOKEN = "8bf78bbca8df822b188fdde14df9a468fb28be23"
 
-          # Dane kontaktowe
           OLX_AD_CONTACT = {
               "name": "Amadeusz",
               "phone": "530790357"
@@ -133,40 +177,92 @@ jobs:
               "district_id": None
           }
 
-          # --- Konfiguracja cenowa ---
           MARGIN_PERCENT = 0.30
           COMMISSION_PERCENT = 0.12
           MINIMUM_PROFIT_PLN = 11.0
-          RABAT_HURTOWNI = 0.20  # DoFirmy.pl daje 20% rabatu od ceny katalogowej
+          RABAT_HURTOWNI = 0.20
           CENA_MIN = float(${{ inputs.min_price }})
           CENA_MAX = float(${{ inputs.max_price }})
 
-          # --- Parametry kategoryzacji ---
           MINIMALNA_PEWNOSC = 80
-
-          # Cache dla drzewa kategorii (wypełniane dynamicznie)
           CATEGORY_TREE_JSON_STR = ""
-
-          # GPSR - Deal nie ma danych GPSR
           GPSR_ENABLED = False
 
-          # BaseLinker (do pobierania feedu DoFirmy)
           BASELINKER_TOKEN = "${{ secrets.BASELINKER_TOKEN }}"
-
-          # Dedykowane konto BL z feedem DoFirmy.pl
           BASELINKER_TOKEN_DOFIRMY = "${{ secrets.BASELINKER_TOKEN_DOFIRMY }}"
           EOF
-        env:
-          OLX_ACCESS_TOKEN: ${{ secrets.OLX_ACCESS_TOKEN }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: 🏷️ Uruchom kategoryzator (Gemini) - DoFirmy.pl
+      - name: ⚙️ Przygotuj konfiguracj (ORACLE)
+        if: ${{ steps.branch_mode.outputs.is_oracle == 'true' }}
+        run: |
+          cat > config/config.py << EOF
+          import os
+
+          ACTIVE_LLM_PROVIDER = "ORACLE"
+
+          ORACLE_REGION = os.environ.get("OCI_REGION", "eu-frankfurt-1")
+          ORACLE_TENANCY_OCID = os.environ.get("OCI_TENANCY_OCID", "")
+          ORACLE_USER_OCID = os.environ.get("OCI_USER_OCID", "")
+          ORACLE_FINGERPRINT = os.environ.get("OCI_FINGERPRINT", "")
+          ORACLE_PRIVATE_KEY = os.environ.get("OCI_PRIVATE_KEY", "")
+          ORACLE_PRIVATE_KEY_PASSPHRASE = os.environ.get("OCI_PRIVATE_KEY_PASSPHRASE", "")
+          ORACLE_COMPARTMENT_ID = os.environ.get("OCI_COMPARTMENT_ID", ORACLE_TENANCY_OCID)
+          ORACLE_INFERENCE_URL = f"https://inference.generativeai.{ORACLE_REGION}.oci.oraclecloud.com/20231130/actions/chat"
+          ORACLE_MODEL_NAME = "${{ inputs.oracle_model }}"
+          ORACLE_TEMPERATURE = 0.7
+          ORACLE_MAX_TOKENS = 4000
+
+          GEMINI_API_KEY = "${{ secrets.GEMINI_API_KEY }}"
+          GEMINI_MODEL_NAME = "${{ inputs.gemini_model }}"
+          GEMINI_TEMPERATURE = 1.0
+
+          OPENAI_API_KEY = "${{ secrets.OPENAI_API_KEY }}"
+          OPENAI_MODEL_NAME = "gpt-5-nano"
+          OPENAI_TEMPERATURE = 1.0
+
+          DEEPSEEK_API_KEY = "${{ secrets.DEEPSEEK_API_KEY }}"
+
+          CATEGORIZATION_MODEL = "${{ inputs.oracle_model }}"
+          OTHER_TASKS_MODEL = "gpt-5-nano"
+
+          CLIENT_ID = "202557"
+          CLIENT_SECRET = "Ac1gaT97w4uTXf6vgtfaAOTZUKNucyPiEPshs2UoTGubjRpY"
+          ACCESS_TOKEN = "${REFRESHED_OLX_TOKEN}"
+          REFRESH_TOKEN = "8bf78bbca8df822b188fdde14df9a468fb28be23"
+
+          OLX_AD_CONTACT = {
+              "name": "Amadeusz",
+              "phone": "530790357"
+          }
+
+          OLX_AD_LOCATION = {
+              "city_id": 20327,
+              "district_id": None
+          }
+
+          MARGIN_PERCENT = 0.30
+          COMMISSION_PERCENT = 0.12
+          MINIMUM_PROFIT_PLN = 11.0
+          RABAT_HURTOWNI = 0.20
+          CENA_MIN = float(${{ inputs.min_price }})
+          CENA_MAX = float(${{ inputs.max_price }})
+
+          MINIMALNA_PEWNOSC = 80
+          CATEGORY_TREE_JSON_STR = ""
+          GPSR_ENABLED = False
+
+          BASELINKER_TOKEN = "${{ secrets.BASELINKER_TOKEN }}"
+          BASELINKER_TOKEN_DOFIRMY = "${{ secrets.BASELINKER_TOKEN_DOFIRMY }}"
+          EOF
+
+      - name: 🏷️ Uruchom kategoryzator - DoFirmy.pl
         run: |
           echo "=================================="
           echo "KATEGORYZACJA OLX - DOFIRMY.PL"
-          echo "Model: ${{ inputs.gemini_model }}"
+          echo "Provider: ${{ steps.branch_mode.outputs.provider }}"
+          echo "Model: ${{ steps.branch_mode.outputs.selected_model }}"
           echo "Sample size: ${{ inputs.sample_size }}"
-          echo "Zakres cenowy: ${{ inputs.min_price }} - ${{ inputs.max_price }} zł"
+          echo "Zakres cenowy: ${{ inputs.min_price }} - ${{ inputs.max_price }} z"
           echo "Refresh feed: ${{ inputs.refresh_feed }}"
           echo "=================================="
           echo ""
@@ -187,6 +283,13 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           BASELINKER_TOKEN: ${{ secrets.BASELINKER_TOKEN }}
           BASELINKER_TOKEN_DOFIRMY: ${{ secrets.BASELINKER_TOKEN_DOFIRMY }}
+          OCI_REGION: ${{ secrets.OCI_REGION }}
+          OCI_TENANCY_OCID: ${{ secrets.OCI_TENANCY_OCID }}
+          OCI_USER_OCID: ${{ secrets.OCI_USER_OCID }}
+          OCI_FINGERPRINT: ${{ secrets.OCI_FINGERPRINT }}
+          OCI_PRIVATE_KEY: ${{ secrets.OCI_PRIVATE_KEY }}
+          OCI_PRIVATE_KEY_PASSPHRASE: ${{ secrets.OCI_PRIVATE_KEY_PASSPHRASE }}
+          OCI_COMPARTMENT_ID: ${{ secrets.OCI_COMPARTMENT_ID }}
           MAX_RUNTIME_MINUTES: "350"
 
       - name: 💽 Zapisz zaktualizowane pliki state i raport
@@ -198,19 +301,19 @@ jobs:
           git add output/raport_kategoryzacji.csv
 
           if ! git diff --staged --quiet; then
-            git commit -m "AUTO: Aktualizacja state i raport - DoFirmy.pl - Gemini ${{ inputs.gemini_model }} - $(date '+%Y-%m-%d %H:%M:%S')"
+            git commit -m "AUTO: Aktualizacja state i raport - DoFirmy.pl - ${{ steps.branch_mode.outputs.provider }} ${{ steps.branch_mode.outputs.selected_model }} - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
             echo "✅ Zaktualizowano pliki state i raport"
           else
             echo "ℹ️  Brak zmian w plikach"
           fi
 
-      - name: 🔄 Auto-restart jeśli osiągnięto limit czasu
+      - name: 🔄 Auto-restart jeli osignito limit czasu
         if: always()
         run: |
           if [ -f "RESTART_NEEDED" ]; then
             REMAINING=$(cat RESTART_NEEDED)
-            echo "🔄 Wykryto potrzebę restartu - pozostało ~$REMAINING produktów"
+            echo "🔄 Wykryto potrzeb restartu - pozostao ~$REMAINING produktów"
             echo "🔄 Uruchamiam workflow ponownie za 30 sekund..."
             sleep 30
 
@@ -218,9 +321,9 @@ jobs:
               -H "Authorization: Bearer ${{ secrets.GH_PAT }}" \
               -H "Accept: application/vnd.github.v3+json" \
               https://api.github.com/repos/${{ github.repository }}/actions/workflows/kategoryzator.yml/dispatches \
-              -d "{\"ref\":\"${{ github.ref_name }}\",\"inputs\":{\"gemini_model\":\"${{ inputs.gemini_model }}\",\"sample_size\":\"${{ inputs.sample_size }}\",\"reset_state\":\"false\",\"min_price\":\"${{ inputs.min_price }}\",\"max_price\":\"${{ inputs.max_price }}\"}}"
+              -d "{\"ref\":\"${{ github.ref_name }}\",\"inputs\":{\"gemini_model\":\"${{ inputs.gemini_model }}\",\"oracle_model\":\"${{ inputs.oracle_model }}\",\"sample_size\":\"${{ inputs.sample_size }}\",\"reset_state\":\"false\",\"min_price\":\"${{ inputs.min_price }}\",\"max_price\":\"${{ inputs.max_price }}\"}}"
 
-            echo "✅ Workflow został ponownie uruchomiony"
+            echo "✅ Workflow zosta ponownie uruchomiony"
           else
             echo "✅ Wszystkie produkty przetworzone - brak potrzeby restartu"
           fi
@@ -246,9 +349,10 @@ jobs:
         run: |
           echo ""
           echo "=================================="
-          echo "✅ Workflow zakończony - DoFirmy.pl"
-          echo "🤖 Model: ${{ inputs.gemini_model }}"
-          echo "📅 Czas zakończenia: $(date)"
+          echo "✅ Workflow zakoczony - DoFirmy.pl"
+          echo "🤖 Provider: ${{ steps.branch_mode.outputs.provider }}"
+          echo "🤖 Model: ${{ steps.branch_mode.outputs.selected_model }}"
+          echo "📅 Czas zakoczenia: $(date)"
           echo "=================================="
 
           if [ -f "output/raport_kategoryzacji.csv" ]; then
@@ -260,11 +364,11 @@ jobs:
           if [ -f "state/opublikowane.json" ]; then
             echo ""
             echo "✅ Opublikowane produkty:"
-            cat state/opublikowane.json | jq '. | length' || echo "Nie można odczytać"
+            cat state/opublikowane.json | jq '. | length' || echo "Nie mona odczyta"
           fi
 
           if [ -f "state/bez_gpsr.json" ]; then
             echo ""
             echo "⚠️ Produkty BEZ GPSR:"
-            cat state/bez_gpsr.json | jq '. | length' || echo "Nie można odczytać"
+            cat state/bez_gpsr.json | jq '. | length' || echo "Nie mona odczyta"
           fi
