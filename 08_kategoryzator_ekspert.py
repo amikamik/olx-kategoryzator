@@ -335,6 +335,31 @@ def load_full_category_map(file_path):
         print(f"KRYTYCZNY BŁĄD: Nie można wczytać ani przetworzyć pliku kategorii: {e}")
         return None, None, None
 
+
+def build_compact_category_context(path_map, category_map, preferred_path=None, max_items=1400):
+    """
+    Buduje kompaktową listę kategorii-liści w formacie "ID | Ścieżka".
+    Dla Oracle ogranicza to rozmiar promptu względem pełnego drzewa JSON.
+    """
+    leaf_entries = []
+    for cat_id, path in path_map.items():
+        cat = category_map.get(cat_id, {})
+        if cat.get('is_leaf'):
+            leaf_entries.append((cat_id, path))
+
+    leaf_entries.sort(key=lambda x: x[1])
+
+    if preferred_path and preferred_path not in ("Brak sugestii OLX", "Brak"):
+        top_level = preferred_path.split(' > ')[0].strip()
+        preferred = [e for e in leaf_entries if e[1].startswith(top_level + ' > ') or e[1] == top_level]
+        non_preferred = [e for e in leaf_entries if e not in preferred]
+        ordered = preferred + non_preferred
+    else:
+        ordered = leaf_entries
+
+    limited = ordered[:max_items]
+    return "\n".join([f"{cat_id} | {path}" for cat_id, path in limited])
+
 def get_olx_suggestions(product_title, access_token):
     """Pobiera sugestie kategorii z API OLX."""
     if not access_token or access_token == "TWOJ_TOKEN_DOSTEPOWY_OLX":
@@ -677,12 +702,15 @@ def process_single_product(product, path_map, config_obj):
     # --- Krok 2: Kategoryzacja przez "Eksperta" AI ---
     use_gemini_cache = (config_obj.ACTIVE_LLM_PROVIDER == "GEMINI" and GEMINI_CACHE_NAME is not None)
     
+    desc_limit = 1500 if config_obj.ACTIVE_LLM_PROVIDER == "ORACLE" else 5000
+    clean_description = clean_html(product['description'])[:desc_limit]
+
     if use_gemini_cache:
         user_message = f"""Skategoryzuj ten produkt wybierając DOKŁADNIE JEDNĄ kategorię-liść z drzewa kategorii:
 
 Dane produktu:
 - Tytuł: "{product['name']}"
-- Opis: "{clean_html(product['description'])[:5000]}"
+- Opis: "{clean_description}"
 
 Wskazówka od systemu OLX (użyj TYLKO jako podpowiedzi, NIE jako źródła prawdy):
 "{olx_suggestion_path}"
@@ -704,6 +732,13 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
             response_format_json=True
         )
     else:
+        compact_category_context = build_compact_category_context(
+            path_map,
+            globals().get('GLOBAL_CATEGORY_MAP', {}),
+            preferred_path=olx_suggestion_path,
+            max_items=1400 if config_obj.ACTIVE_LLM_PROVIDER == "ORACLE" else 2500
+        )
+
         system_message = f"""Jesteś ekspertem od kategoryzacji produktów na platformie OLX. 
 Twoim zadaniem jest przypisanie produktu do DOKŁADNIE JEDNEJ kategorii z poniższego drzewa kategorii.
 
@@ -715,10 +750,8 @@ WYMAGANIA:
 - Jeżeli istnieje bardziej szczegółowa, pasująca kategoria w tej samej gałęzi, wybierz ją zamiast ogólnej lub typu „Pozostałe" / „Inne".
 - Jeśli żadna kategoria nie pasuje idealnie, wybierz tę, która będzie najmniej myląca dla kupującego.
 
-Drzewo kategorii OLX (jedyne źródło prawdy):
-```json
-{config_obj.CATEGORY_TREE_JSON_STR}
-```
+Lista kategorii OLX (kategorie-liście, format: ID | pełna ścieżka):
+{compact_category_context}
 
 Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
 {{
@@ -729,7 +762,7 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
         
         user_message = f"""Dane produktu:
 - Tytuł: "{product['name']}"
-- Opis: "{clean_html(product['description'])[:5000]}"
+    - Opis: "{clean_description}"
 
 Wskazówka od systemu OLX (użyj TYLKO jako podpowiedzi do zawężenia poszukiwań, NIE jako źródła prawdy):
 "{olx_suggestion_path}"
@@ -1305,6 +1338,7 @@ def main():
         return
 
     config.CATEGORY_TREE_JSON_STR = category_tree_json_str
+    globals()['GLOBAL_CATEGORY_MAP'] = category_map
 
     # --- GEMINI EXPLICIT CACHING: Tworzenie cache dla drzewa kategorii ---
     if provider == "GEMINI":

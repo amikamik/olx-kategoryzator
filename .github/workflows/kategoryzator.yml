@@ -78,7 +78,12 @@ jobs:
       - name: 🧭 Ustal tryb gałęzi (legacy vs _oracle)
         id: branch_mode
         run: |
-          if [[ "${{ github.ref_name }}" == *_oracle ]]; then
+          if [[ "${{ github.ref_name }}" == "deal_oracle" ]]; then
+            echo "is_oracle=true" >> $GITHUB_OUTPUT
+            echo "provider=ORACLE" >> $GITHUB_OUTPUT
+            echo "selected_model=${{ inputs.oracle_model }}" >> $GITHUB_OUTPUT
+            echo "source_branch=deal-blb2b-pelny-feed-zakres_oracle" >> $GITHUB_OUTPUT
+          elif [[ "${{ github.ref_name }}" == *_oracle ]]; then
             echo "is_oracle=true" >> $GITHUB_OUTPUT
             echo "provider=ORACLE" >> $GITHUB_OUTPUT
             echo "selected_model=${{ inputs.oracle_model }}" >> $GITHUB_OUTPUT
@@ -108,7 +113,11 @@ jobs:
         if: ${{ steps.branch_mode.outputs.is_oracle == 'true' }}
         run: |
           mkdir -p state
-          if [ -z "$(ls -A state 2>/dev/null)" ]; then
+          if [[ "${{ github.ref_name }}" == "deal_oracle" ]]; then
+            echo "📥 deal_oracle: wymuszony bootstrap state z: ${{ steps.branch_mode.outputs.source_branch }}"
+            git fetch origin "${{ steps.branch_mode.outputs.source_branch }}"
+            git checkout "origin/${{ steps.branch_mode.outputs.source_branch }}" -- state/ || echo "⚠️ Brak state w gałęzi źródłowej"
+          elif [ -z "$(ls -A state 2>/dev/null)" ]; then
             echo "📥 Brak lokalnego state - bootstrap z: ${{ steps.branch_mode.outputs.source_branch }}"
             git fetch origin "${{ steps.branch_mode.outputs.source_branch }}"
             git checkout "origin/${{ steps.branch_mode.outputs.source_branch }}" -- state/ || echo "⚠️ Brak state w gałęzi źródłowej"
