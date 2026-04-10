@@ -6428,5 +6428,215 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to pokrywka przeznaczona do 'pater cateringowych', co wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ pokrywka jest akcesorium do pojemników/pater używanych w gastronomii. Jest to bardziej precyzyjne niż ogólne 'Tace i stoliki' z kategorii 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "567400047",
+        "Nazwa_Produktu": "Girlanda Świetlna Łańcuch RGB 400LED 20m Twinkly",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu 'Girlanda Świetlna' oraz opis jasno wskazują na oświetlenie typu girlanda. Kategoria 'Dom i Ogród > Oświetlenie > Girlandy świetlne' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567402466",
+        "Nazwa_Produktu": "Koperta 350x250mm bąbelkowa czerwona 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koperta bąbelkowa, która jest klasyfikowana jako akcesorium i materiał biurowy, używany do wysyłki. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej adekwatna do przeznaczenia i charakteru produktu. Sugerowana kategoria 'Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze' jest nieodpowiednia, ponieważ koperta bąbelkowa nie jest typowym artykułem szkolnym, a jej główna funkcja to opakowanie do wysyłki, co pasuje do ogólnych materiałów biurowych, a nie szkolnych artykułów papierniczych."
+    },
+    {
+        "ID_Produktu": "567402566",
+        "Nazwa_Produktu": "Pudełko cukiernicze z oknem 25x15x8 Hersta 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pudełko cukiernicze' przeznaczone do pakowania tortów, babeczek i ciast na różne uroczystości. Jest to specjalistyczny pojemnik na żywność, co najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i zazwyczaj odnosi się do pudełek do przechowywania domowego, a nie opakowań spożywczych."
+    },
+    {
+        "ID_Produktu": "567403228",
+        "Nazwa_Produktu": "Rolka termiczna 57x25 Eco bez gilzy 10szt Primus",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne przeznaczone do kas fiskalnych i terminali płatniczych, które są typowymi urządzeniami używanymi w sklepach i magazynach. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najbardziej precyzyjna, ponieważ rolki stanowią akcesoria do tych urządzeń drukujących. Sugerowana kategoria 'Dla Dzieci' została zignorowana, gdyż jest całkowicie nietrafna."
+    },
+    {
+        "ID_Produktu": "567403238",
+        "Nazwa_Produktu": "Rolka termiczna 80x80 Eco bez gilzy 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne przeznaczone do kas fiskalnych i terminali płatniczych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najbardziej precyzyjna, ponieważ kasy fiskalne i terminale są urządzeniami drukującymi, a rolki stanowią ich akcesoria/materiały eksploatacyjne, używane w środowisku sklepowym/magazynowym. Sugerowana kategoria 'Dla Dzieci' jest całkowicie nieadekwatna."
+    },
+    {
+        "ID_Produktu": "567403738",
+        "Nazwa_Produktu": "Uchwyt Modułu Fotowoltaicznego Zacisk 6szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Fotowoltaika > Pozostałe",
+        "Finalne_ID_AI": 4032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt montażowy (zacisk) do modułów fotowoltaicznych. Jest to akcesorium do instalacji fotowoltaicznych, które nie pasuje do bardziej szczegółowych kategorii takich jak falowniki, magazyny energii, panele czy zestawy. Kategoria 'Pozostałe' w gałęzi 'Fotowoltaika' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "567403747",
+        "Nazwa_Produktu": "Torba na ramie bawełniana torba na zakupy beżowa",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Shopperki",
+        "Finalne_ID_AI": 2756,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'torba na zakupy' o dużej pojemności, wykonana z płótna i idealna do noszenia przedmiotów podczas zakupów, co precyzyjnie odpowiada definicji kategorii 'Shopperki'."
+    },
+    {
+        "ID_Produktu": "567403755",
+        "Nazwa_Produktu": "Mata do Szuflady Wodoodporna 30x150 cm Szara",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata przeznaczona do szuflad kuchennych. Szuflady są elementami mebli, a mata do nich stanowi akcesorium. Kategoria 'Akcesoria meblowe' jest najbardziej semantycznie dopasowana do funkcji i przeznaczenia produktu. Kategoria sugerowana w podpowiedzi ('Podkładki i maty' w 'Obrusy i serwetki') jest mniej precyzyjna, ponieważ sugeruje zastosowanie stołowe, a nie do szuflad."
+    },
+    {
+        "ID_Produktu": "567403759",
+        "Nazwa_Produktu": "Antypoślizgowa Mata Wkład do Szuflad 30x150cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to antypoślizgowa mata przeznaczona do wykładania szuflad, szaf, półek i blatów. Najlepiej pasującą kategorią jest 'Akcesoria meblowe', ponieważ mata pełni funkcję akcesorium do mebli i elementów wyposażenia wnętrz, chroniąc powierzchnie i zapobiegając przesuwaniu się przedmiotów. Kategoria 'Podkładki i maty' pod 'Obrusy i serwetki' jest zbyt wąska i sugeruje zastosowanie głównie jadalniane, co nie odpowiada wszechstronnemu zastosowaniu opisanego produktu."
+    },
+    {
+        "ID_Produktu": "567403778",
+        "Nazwa_Produktu": "Portfel damski z ekoskóry Portmonetka",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to damski portfel, a kategoria 'Moda > Akcesoria > Portfele' jest idealnie dopasowana semantycznie i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567403864",
+        "Nazwa_Produktu": "Wkład Pompy Filtrującej  Intex Typ S1 2 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wkład filtrujący przeznaczony do pomp basenowych/spa (Intex PureSpa), co bezpośrednio odnosi się do kategorii 'Baseny' w drzewie 'Dom i Ogród > Ogród'. Jest to najbardziej specyficzna dostępna kategoria dla tego typu akcesoriów basenowych."
+    },
+    {
+        "ID_Produktu": "567403907",
+        "Nazwa_Produktu": "Bransoletka regulowana z koralikami czarno-złoty",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Bransoletki",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Bransoletki",
+        "Finalne_ID_AI": 2834,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu jednoznacznie wskazuje na 'Bransoletka', co idealnie pasuje do kategorii 'Moda > Biżuteria > Bransoletki'."
+    },
+    {
+        "ID_Produktu": "567403937",
+        "Nazwa_Produktu": "Okulary przeciwsłoneczne klasyczne Pomarańczowe",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że przedmiotem sprzedaży są 'Okulary przeciwsłoneczne', co idealnie pasuje do kategorii-liścia o tej samej nazwie."
+    },
+    {
+        "ID_Produktu": "567403947",
+        "Nazwa_Produktu": "Okulary przeciwsłoneczne klasyczne Zielone",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'okulary przeciwsłoneczne', które idealnie pasują do kategorii 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne'."
+    },
+    {
+        "ID_Produktu": "567403952",
+        "Nazwa_Produktu": "Okulary przeciwsłoneczne klasyczne Niebieskie",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'Okulary przeciwsłoneczne'. Kategoria 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne' (ID: 2736) jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567403959",
+        "Nazwa_Produktu": "Okulary przeciwsłoneczne klasyczne Brąz panterka",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'okulary przeciwsłoneczne', co idealnie pasuje do kategorii 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne'."
+    },
+    {
+        "ID_Produktu": "567404083",
+        "Nazwa_Produktu": "Ręcznik fryzjerski 40x70cm 40g składany 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ręczniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria fryzjerskie > Pozostałe",
+        "Finalne_ID_AI": 5089,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'Ręcznik fryzjerski'. Chociaż opis rozszerza zastosowanie do innych branż przemysłowych, kategoria 'Firma i Przemysł > Wyposażenie salonów > Akcesoria fryzjerskie' jest najbardziej precyzyjnym dopasowaniem do głównej nazwy produktu. Ponieważ nie ma podkategorii 'Ręczniki' w 'Akcesoriach fryzjerskich', wybieram 'Pozostałe' w tej gałęzi. Jest to bardziej semantycznie dopasowane niż ogólna kategoria 'Dom i Ogród > Wyposażenie wnętrz > Ręczniki', która sugeruje ręczniki do użytku domowego, a nie profesjonalnego/przemysłowego."
+    },
+    {
+        "ID_Produktu": "567404090",
+        "Nazwa_Produktu": "Ręcznik do pedicure 40x50cm 40g składany 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ręczniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Pozostałe",
+        "Finalne_ID_AI": 5096,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'ręcznik do pedicure', co sugeruje zastosowanie profesjonalne, w salonach kosmetycznych. Opis dodatkowo podkreśla jego właściwości jako czyściwa do precyzyjnego czyszczenia w przemyśle (farmaceutycznym, spożywczym, medycznym, elektronicznym), co również pasuje do kategorii 'Firma i Przemysł'. Najbardziej szczegółową i semantycznie dopasowaną kategorią jest 'Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Pozostałe', ponieważ ręcznik do pedicure jest akcesorium kosmetycznym, a nie ma bardziej specyficznej podkategorii dla ręczników w tym drzewie. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Ręczniki' jest zbyt ogólna i nie oddaje profesjonalnego charakteru produktu."
+    },
+    {
+        "ID_Produktu": "567404108",
+        "Nazwa_Produktu": "Pasek Męski Nylonowy Zielony 3,5cm Dł.120cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Pasek Męski Nylonowy', a kategoria 'Moda > Akcesoria > Paski' jest bezpośrednim i najlepiej dopasowanym liściem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "567404139",
+        "Nazwa_Produktu": "Led Wpuszczany Spot 4W 83X83Mm Ip44 2700K 2Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to LED-owy reflektor sufitowy, wpuszczany (recesyjny), o małych wymiarach. Kategoria 'Oczka' (3868) idealnie pasuje do tego typu oświetlenia, które jest zazwyczaj wpuszczane w sufit i często określane jako 'oczka halogenowe' lub 'oczka LED'. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Spoty' czy 'Pozostałe Lampy', a także poprawniejsza niż 'Żarówki', ponieważ produkt jest kompletną oprawą oświetleniową, a nie tylko źródłem światła."
+    },
+    {
+        "ID_Produktu": "567404215",
+        "Nazwa_Produktu": "Taśma uszczelniająca do drzwi okien 5m 3szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma uszczelniająca do drzwi i okien, której głównym przeznaczeniem jest izolacja (termiczna, akustyczna) oraz ochrona. Najbardziej szczegółowa i trafna kategoria-liść to 'Dom i Ogród > Budowa > Izolacje > Pozostałe', ponieważ produkt jest materiałem izolacyjnym używanym w budownictwie/wykończeniu, ale nie pasuje do bardziej szczegółowych typów izolacji (styropian, wełna mineralna itp.)."
     }
 ]
