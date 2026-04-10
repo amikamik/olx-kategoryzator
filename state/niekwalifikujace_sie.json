@@ -6778,5 +6778,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to 'Organizer na Biurko Przybornik', przeznaczony do przechowywania przyborów do pisania i innych akcesoriów biurowych. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej precyzyjna i semantycznie dopasowana do przeznaczenia produktu, lepiej niż ogólne 'Pudełka' czy 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "567405255",
+        "Nazwa_Produktu": "Odbojnik do Drzwi Ścienny Samoprzylepny 8szt Biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Pozostałe",
+        "Finalne_ID_AI": 3158,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "88%",
+        "Uzasadnienie_AI": "Produkt to 'odbojnik do drzwi', który jest akcesorium bezpośrednio związanym z drzwiami i ich funkcjonalnością (ochrona ściany przed uderzeniem klamki). Kategoria 'Dom i Ogród > Budowa > Drzwi' jest najbardziej semantycznie dopasowaną gałęzią, a ponieważ nie ma bardziej szczegółowej kategorii dla odbojników, 'Pozostałe' w tej gałęzi jest najlepszym wyborem. Kategoria 'Dekoracje > Mocowania ścienne' (sugerowana we wskazówce) jest mniej odpowiednia, ponieważ odbojnik pełni funkcję ochronną, a nie dekoracyjną."
     }
 ]
