@@ -26,6 +26,7 @@ from config import MARGIN_PERCENT, COMMISSION_PERCENT, MINIMUM_PROFIT_PLN
 import re
 import time
 import csv
+import ast
 from tqdm import tqdm
 import openai
 import os
@@ -360,6 +361,47 @@ def build_compact_category_context(path_map, category_map, preferred_path=None, 
     limited = ordered[:max_items]
     return "\n".join([f"{cat_id} | {path}" for cat_id, path in limited])
 
+
+def extract_json_candidate(text):
+    """
+    Próbuje wydobyć poprawny obiekt JSON z odpowiedzi LLM.
+    Obsługuje markdown, szum przed/po JSON oraz pseudo-JSON (fallback ast).
+    """
+    if not isinstance(text, str):
+        return None
+
+    stripped = text.strip()
+    if not stripped:
+        return None
+
+    try:
+        return json.loads(stripped)
+    except json.JSONDecodeError:
+        pass
+
+    fenced = re.sub(r"^```(?:json)?\s*|\s*```$", "", stripped, flags=re.IGNORECASE | re.DOTALL).strip()
+    if fenced != stripped:
+        try:
+            return json.loads(fenced)
+        except json.JSONDecodeError:
+            pass
+
+    start = stripped.find('{')
+    end = stripped.rfind('}')
+    if start != -1 and end != -1 and end > start:
+        candidate = stripped[start:end + 1]
+        try:
+            return json.loads(candidate)
+        except json.JSONDecodeError:
+            try:
+                parsed = ast.literal_eval(candidate)
+                if isinstance(parsed, (dict, list)):
+                    return parsed
+            except (ValueError, SyntaxError):
+                return None
+
+    return None
+
 def get_olx_suggestions(product_title, access_token):
     """Pobiera sugestie kategorii z API OLX."""
     if not access_token or access_token == "TWOJ_TOKEN_DOSTEPOWY_OLX":
@@ -561,15 +603,20 @@ def call_llm_api(prompt=None, provider=None, model_name=None, api_key=None, resp
                         return result
                 return None
             if isinstance(obj, dict):
-                for key in ("text", "outputText", "content", "message", "chatResponse", "response", "data"):
+                for key in ("text", "outputText", "content", "message", "chatResponse", "response", "data", "choices"):
+                    if key in obj:
+                        result = _extract_text(obj[key])
+                        if result:
+                            if isinstance(result, str) and result.strip().upper() in {"GENERIC", "USER", "ASSISTANT", "TEXT"}:
+                                continue
+                            return result
+                # Nie schodzimy po wszystkich wartościach bezwarunkowo,
+                # żeby nie złapać metadanych typu apiFormat=GENERIC.
+                for key in ("chatResponse", "choices", "messages"):
                     if key in obj:
                         result = _extract_text(obj[key])
                         if result:
                             return result
-                for value in obj.values():
-                    result = _extract_text(value)
-                    if result:
-                        return result
             return None
 
         max_retries = 4
@@ -762,7 +809,7 @@ Zwróć odpowiedź WYŁĄCZNIE w formacie JSON:
         
         user_message = f"""Dane produktu:
 - Tytuł: "{product['name']}"
-    - Opis: "{clean_description}"
+- Opis: "{clean_description}"
 
 Wskazówka od systemu OLX (użyj TYLKO jako podpowiedzi do zawężenia poszukiwań, NIE jako źródła prawdy):
 "{olx_suggestion_path}"
@@ -786,7 +833,9 @@ Użyj tej ścieżki jedynie do zawężenia poszukiwań w podobnej gałęzi drzew
     llm_choice = {}
     if llm_response_str:
         try:
-            parsed = json.loads(llm_response_str)
+            parsed = extract_json_candidate(llm_response_str)
+            if parsed is None:
+                raise json.JSONDecodeError("No JSON object found", llm_response_str, 0)
             if isinstance(parsed, list) and len(parsed) > 0:
                 llm_choice = parsed[0]
                 print(f"   ⚠️ AI zwróciło listę - używam pierwszego elementu")
