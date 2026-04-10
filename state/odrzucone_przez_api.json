@@ -2488,5 +2488,65 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567375876",
+        "Nazwa_Produktu": "Vileda mop płaski zestaw Ultramax BOX 1 kpl",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalne_ID_AI": 2112,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do sprzątania (mop, wiadro), który należy do wyposażenia wnętrz. W drzewie kategorii brak jest bardziej szczegółowej podkategorii dla narzędzi do sprzątania domu. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pozostałe' jest najbardziej odpowiednia, ponieważ mop nie jest ani akcesorium łazienkowym, ani przyborem kuchennym, ani narzędziem budowlanym/ogrodowym w kontekście innych kategorii 'Narzędzia'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda mop płaski zestaw ultramax box 1 kpl",
+                "description": "System ULTRAMAX: najpopularniejszy mop płaski z bezdotykowym systemem odsączenia. Doskonale wyczyści każdy rodzaj czyszczonych powierzchni pozostawiając je czystymi i lśniącymi. Mop usuwa 99% bakterii przy użyciu samej wody. Udowodnione w badaniach przeprowadzonych przez niezależny, akredytowany instytut badań mikrobiologicznych i immunologicznych* *Test przeprowadzony przez BMA-Labor GbR na bakteriach Escherichia coli i Staphylococcus aureus występujących w domu. Czysta podłoga - suche dłonie Mop płaski UltraMax w zestawie ze standardowym wiaderkiem z wyciskaczem UltraMax, które umożliwia wyciskanie i wyżymanie mopa bez brudzenia i moczenia rąk. 2 rodzaje mikro - włókien Vileda Białe włókna zapewniają czystość bez smug i zarysowań nawet najdelikatniejszych powierzchni. Czerwone włókna doskonale radzą sobie z uporczywym brudem i drobinami bez konieczności stosowania detergentów. Dokładne sprzątanie UltraMax bez trudu posprząta w narożnikach i trudno dostępnych miejscach. Ruchoma główka mopa pozwala na łatwe manewrowanie mopem nawet pod meblami . Wygoda i higiena Nakładka mopa płaskiego mocowana za pomocą klipsów jest łatwa do zdjęcia. Może być wielokrotnie prana w pralce automatycznej w temperaturze maximum 60 stopni. Cena za 1 szt. (komplet: mop płaski z trzyczęściowym drążkiem oraz wiadro) Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2112,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 203.42,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/a35adedd1f9f5ca2f1cdedfd721ac53b.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/e7fe76e6c3cbc824dd5eb2eacb83d1f5.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
