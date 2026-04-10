@@ -7008,5 +7008,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to manualny stojak/opiekacz do tostów i chleba, przeznaczony do użytku z grillem, często w warunkach outdoorowych (kemping, piknik). Nie jest to urządzenie elektroniczne, dlatego kategoria z gałęzi 'Elektronika' jest nieadekwatna. Kategoria 'Dom i Ogród > Ogród > Grill' najlepiej oddaje jego funkcję jako akcesorium do grillowania lub prostego urządzenia do opiekania na grillu."
+    },
+    {
+        "ID_Produktu": "567406326",
+        "Nazwa_Produktu": "Wieszak na ubrania 5 haczyków metalowy 33cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'wieszak na ubrania' z haczykami, co idealnie pasuje do kategorii 'Dom i Ogród > Meble > Wieszaki'. Jest to kategoria-liść i semantycznie najlepiej dopasowana."
     }
 ]
