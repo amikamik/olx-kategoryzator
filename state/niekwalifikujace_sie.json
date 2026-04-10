@@ -6638,5 +6638,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to taśma uszczelniająca do drzwi i okien, której głównym przeznaczeniem jest izolacja (termiczna, akustyczna) oraz ochrona. Najbardziej szczegółowa i trafna kategoria-liść to 'Dom i Ogród > Budowa > Izolacje > Pozostałe', ponieważ produkt jest materiałem izolacyjnym używanym w budownictwie/wykończeniu, ale nie pasuje do bardziej szczegółowych typów izolacji (styropian, wełna mineralna itp.)."
+    },
+    {
+        "ID_Produktu": "567404446",
+        "Nazwa_Produktu": "Wieczko PET 115mm do miski 500, 750ml 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wieczko do misek sałatkowych sprzedawane w paczce 50 sztuk. Taka ilość oraz specyfika produktu (wieczka do salaterek) silnie sugeruje zastosowanie w gastronomii lub firmach cateringowych, co najlepiej odpowiada kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "567404489",
+        "Nazwa_Produktu": "Girlanda Solarna Lampki 50 LED Zewnętrzne",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Girlandy",
+        "Finalne_ID_AI": 3873,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Girlanda Solarna Lampki' i 'Łańcuchy świetlne', przeznaczone do użytku zewnętrznego (ogród, taras). Kategoria 'Girlandy' w 'Oświetlenie zewnętrzne' jest najbardziej precyzyjnym i trafnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "567404504",
+        "Nazwa_Produktu": "Adapter do kranu przedłużka z aeratorem perlatorem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest adapterem i przedłużką do kranu, wyposażonym w perlator. Kran jest elementem instalacji hydraulicznej. Adaptery i przedłużki najlepiej pasują do kategorii 'Rury, kształtki, złączki' w ramach 'Instalacje > Hydraulika', ponieważ pełnią funkcję złączek w systemie wodnym. Kategoria 'Filtry i zmiękczacze wody' nie jest idealna, gdyż główną funkcją nie jest zmiękczanie, a 'Pozostałe' jest zbyt ogólne. Sugerowana kategoria 'Osprzęt do narzędzi' jest nieprawidłowa, ponieważ produkt jest akcesorium do stałej instalacji (kranu), a nie do narzędzia."
     }
 ]
