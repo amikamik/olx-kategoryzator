@@ -6328,5 +6328,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to mop, który jest narzędziem służącym do sprzątania. Wśród dostępnych kategorii, najbliższą semantycznie jest 'Narzędzia'. Ponieważ nie ma bardziej szczegółowej kategorii dla narzędzi do sprzątania (jak np. 'Narzędzia do sprzątania' lub 'Sprzęt do utrzymania czystości'), 'Pozostałe Narzędzia' jest najlepiej dopasowaną kategorią-liściem. Sugerowana kategoria 'Środki czyszczące' jest błędna, ponieważ mop jest narzędziem, a nie środkiem chemicznym."
+    },
+    {
+        "ID_Produktu": "567382744",
+        "Nazwa_Produktu": "Papier pakowy biały 70x100cm gazetowy",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to papier pakowy przeznaczony do pakowania artykułów przemysłowych. Najbardziej odpowiednią kategorią jest 'Firma i Przemysł', a w jej ramach 'Sklepy i magazyny', ponieważ papier pakowy jest materiałem eksploatacyjnym często wykorzystywanym w tego typu działalnościach. Ponieważ nie ma bardziej szczegółowej kategorii dotyczącej materiałów do pakowania, kategoria 'Pozostałe' w gałęzi 'Sklepy i magazyny' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567382882",
+        "Nazwa_Produktu": "Gumki recepturki fi 50mm grubość 1,5mm w opakowaniu 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Dziurkacze i zszywacze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'gumki recepturki', które są klasycznym przykładem akcesoriów i materiałów biurowych, używanych do wiązania dokumentów, banknotów, ulotek itp. Opis produktu również wskazuje na szerokie zastosowanie, w tym biurowe (etykiety, ulotki, wizytówki, banknoty, wiązki kabli), co idealnie pasuje do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "567383317",
+        "Nazwa_Produktu": "Etykiety samoprzylepne 58x60 500etykiet na rolce",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to etykiety samoprzylepne, które są akcesoriami do drukarek termicznych i automatów etykietujących, używanych w sklepach, hurtowniach i przemyśle. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najlepiej dopasowana, ponieważ precyzyjnie odzwierciedla zastosowanie produktu w kontekście handlowym/przemysłowym jako akcesorium do urządzeń drukujących."
+    },
+    {
+        "ID_Produktu": "567385146",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 7,5x15/2 cm 6mic",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych i piekarniach. Najlepszą kategorią jest 'Firma i Przemysł' ze względu na przeznaczenie komercyjne. W ramach tej gałęzi, 'Gastronomia' jest najbardziej adekwatna, a ponieważ nie ma bardziej szczegółowej kategorii dla opakowań spożywczych, 'Pozostałe' jest najlepszym wyborem. Sugerowana kategoria 'Moda > Torby i torebki > Torby na ramię' została zignorowana, ponieważ jest semantycznie niezwiązana z produktem."
     }
 ]

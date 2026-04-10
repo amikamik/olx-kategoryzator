@@ -2774,5 +2774,176 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567382974",
+        "Nazwa_Produktu": "Zmiotka 2w1 z szufelką Vileda 1 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to 'zmiotka z szufelką', czyli narzędzie ręczne przeznaczone do sprzątania. Kategoria 'Dom i Ogród > Narzędzia > Narzędzia ręczne' jest najbardziej odpowiednia, ponieważ jest to manualne narzędzie do prac domowych, a nie ma bardziej szczegółowej kategorii dla narzędzi do sprzątania.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zmiotka 2w1 z szufelką vileda 1 szt.",
+                "description": "Zmiotka 2w1 z szufelką Vileda 1 szt. Szufelka i zmiotka 2w1 od Viledy - praktyczny zestaw domowy! Zmiotka z szufelką z wysokiej jakości materiału świetna do małych prac domowych: zmiotka posiada dwa rodzaje włosia zmiotka dzięki swojej budowie i wyprofilowanemu włosiu dociera do kątów szufelka zakończona praktyczną gumką, dzięki czemu precyzyjnie można zgarnąć na nią brud i kurz praktyczne i nowoczesne mocowanie zmiotki do szufelki Cena dotyczy 1 szt. Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 42.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/43cd1aaa59ea3557080d0b3b033ce27c.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567383020",
+        "Nazwa_Produktu": "Rękawice Vileda Universal rozm. M  1 para",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Odzież robocza > Rękawice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy",
+        "Finalne_ID_AI": 2131,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rękawice przeznaczone do użytku domowego, w szczególności do zmywania naczyń. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy' jest idealnie dopasowana, ponieważ zawiera 'rękawice' w kontekście akcesoriów kuchennych/domowych. Sugerowana kategoria 'Firma i Przemysł > Odzież robocza > Rękawice' jest nieodpowiednia ze względu na wyraźne wskazanie w opisie, że produkt przeznaczony jest WYŁĄCZNIE do użytku domowego, a nie roboczego/przemysłowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rękawice vileda universal rozm. m  1 para",
+                "description": "Rękawice Vileda Universal rozm. M 1 para. Rękawice Vileda Universal to wygodne rękawiczki do prac domowych, które dokładnie przylegają do dłoni. wyprofilowane do prac domowych EAN: 8410435841024 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Zachowaj to opakowanie w celach informacyjnych. Te rękawice są przeznaczone wyłącznie do użytku domowego, np. do ochrony przed wilgocią i wodą podczas zmywania naczyń. Nie używać z silnymi chemikaliami. Produkt nie powinien być wystawiany na bezpośrednie działanie promieni słonecznych. Produkt nie jest przeznaczony do kontaktu z żywnością.\n\n[DEAL-BLB2B]",
+                "category_id": 2131,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 19.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/af395616a7797d25d3c0b934573c1c96.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567384981",
+        "Nazwa_Produktu": "Vileda Mop Obrotowy Turbo 3W1 Mikrofibra",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalne_ID_AI": 2112,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to mop obrotowy, który jest narzędziem do sprzątania i wyposażeniem wnętrz. Kategoria 'Dom i Ogród > Wyposażenie wnętrz' jest najbardziej odpowiednia dla tego typu przedmiotów. Ponieważ brak jest bardziej szczegółowej podkategorii dla narzędzi do sprzątania w tej gałęzi, kategoria 'Pozostałe' jest najlepszym dopasowaniem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda mop obrotowy turbo 3w1 mikrofibra",
+                "description": "Mop obrotowy Vileda TURBO 3w1 Mikrofibra 40% skuteczniejsze czyszczenie podłóg bez wysiłku Zestaw Vileda Turbo został dopracowany w najmniejszym szczególe, aby codzienne zmywanie podłogi było jak najmniej uciążliwe. NOWOŚĆ łączy technologię najlepszego mopa płaskiego z najlepszym mopem sznurkowym co daje doskonałe efekty czyszczenia. Ergonomiczny kształt wiaderka sprawia, ze jego przenoszenie, napełnianie i opróżnianie jest maksymalnie wygodne. Mop usuwa 99% bakterii przy użyciu samej wody. Udowodnione w badaniach przeprowadzonych przez niezależny, akredytowany instytut badań mikrobiologicznych i immunologicznych* *Test przeprowadzony przez BMA-Labor GbR na bakteriach Escherichia coli i Staphylococcus aureus występujących w domu. Vileda TURBO 3w1 Mikrofibra - wyjątkowy wkład 3w1 Vileda TURBO 3w1 Mikrofibra - 40% efektywniejszy w walce z zanieczyszczeniami 40% efektywniejszy w walce z zanieczyszczeniami Dwuczęściowa konstrukcja łączy technologię najlepszego mopa płaskiego z najlepszym mopem sznurkowym co daje jeszcze doskonalsze efekty czyszczenia. Skutecznie czyści Dwukolorowe, trójwymiarowe włosie zapewnia czystość bez smug i zarysowań nawet najdelikatniejszych powierzchni i doskonale radzi sobie z uporczywym brudem i drobinami. Vileda TURBO 3w1 Mikrofibra - czyści skutecznie Vileda TURBO 3w1 Mikrofibra - system odwirowywania w wiadrze Czysta podłoga - suche dłonie Skuteczny obrotowy system odsączania mopa Odpowiednio wyprofilowane sito zapewnia łatwą aplikację wkładu i pozwala na uzyskania pożądanej wilgotności mopa. Mechanizm obrotowy jest trwały i wygodny w użytkowaniu. Ergonomia zestawu Vileda Turbo 3 w 1 Wiaderko Wygody uchwyt, zapewniający równowagę przy przenoszeniu wiaderka. Uchwyt na mop Pozwala na łatwiejsze przechowywanie zestawu sprzątającego (mop + wiaderko) Odpływ wody Umożliwia łatwe opróżnianie wiaderka bez ryzyka rozlania. Vileda TURBO 3w1 Mikrofibra - ergonomiczne wiadro Vileda TURBO 3w1 Mikrofibra - dociera do zakamarków Dociera do zakamarków Profil trójkątnej główki pozwala na łatwe dotarcie do kątów i narożników a ruchoma głowica ułatwia czyszczenie nawet w trudno dostępnych miejscach pod meblami. Wkład mopa obrotowego 3w1 może być stosowany zamiennie z wkładem do mopa obrotowego Turbo oraz Turbo 2w1 EAN: 4023103227446 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Maksymalna temperatura prania wkładu to 30C. Nie suszyć w suszarce bębnowej i nie prasować. Nie prać chemicznie i nie stosować wybielaczy. Należy unikać kontaktu z ostrymi przedmiotami.\n\n[DEAL-BLB2B]",
+                "category_id": 2112,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 288.59,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/ba98a15e1587bbad2cd2de3674482bbc.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
