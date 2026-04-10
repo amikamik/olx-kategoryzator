@@ -7018,5 +7018,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'wieszak na ubrania' z haczykami, co idealnie pasuje do kategorii 'Dom i Ogród > Meble > Wieszaki'. Jest to kategoria-liść i semantycznie najlepiej dopasowana."
+    },
+    {
+        "ID_Produktu": "567406491",
+        "Nazwa_Produktu": "Organizer Haczyki Uchwyt Na Krawaty Obrotowy 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obrotowy wieszak/organizer na krawaty, paski i szale, przeznaczony do organizacji przestrzeni w szafie lub garderobie. Jest to funkcjonalny element, który jest dodawany do mebli (szafy/garderoby) w celu poprawy ich użyteczności i organizacji. Kategoria 'Dom i Ogród > Meble > Akcesoria meblowe' najlepiej oddaje jego przeznaczenie jako akcesorium do wyposażenia mebli. Sugerowana kategoria 'Mocowania ścienne' jest mniej trafna, gdyż produkt nie jest głównie elementem dekoracyjnym, a jego funkcja montażowa jest wtórna do funkcji organizacyjnej w kontekście mebli."
+    },
+    {
+        "ID_Produktu": "567406553",
+        "Nazwa_Produktu": "Uchwyt organizer na wieszaki ubrania biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest uchwytem-organizerem przeznaczonym do optymalizacji przestrzeni w szafie lub garderobie, co czyni go akcesorium meblowym. Nie jest to samodzielny wieszak na ubrania, lecz element wspomagający organizację w meblach, dlatego kategoria 'Akcesoria meblowe' jest najbardziej precyzyjna."
+    },
+    {
+        "ID_Produktu": "567406557",
+        "Nazwa_Produktu": "Mata ochronna do szuflady wodoodporna szara 30x150",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata ochronna przeznaczona do szuflad i szafek, chroniąca ich wnętrze. Jest to funkcjonalny dodatek do mebli, idealnie pasujący do kategorii 'Akcesoria meblowe'. Kategoria sugerowana w podpowiedzi ('Podkładki i maty' w gałęzi 'Obrusy i serwetki') odnosi się raczej do akcesoriów stołowych, co nie oddaje przeznaczenia tej maty."
     }
 ]
