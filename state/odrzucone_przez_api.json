@@ -2605,5 +2605,60 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567378192",
+        "Nazwa_Produktu": "Pasta Ścierna Piaskowa Ola 0,25Kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące",
+        "Finalne_ID_AI": 4705,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pasta ścierna piaskowa' przeznaczona do usuwania trudnych zabrudzeń, takich jak oleje i smary. Jest to środek czyszczący o charakterze ściernym, prawdopodobnie do zastosowań warsztatowych, budowlanych lub przemysłowych. Kategoria 'Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące' jest najbardziej precyzyjna, ponieważ odzwierciedla zarówno rodzaj produktu (środek czyszczący), jak i jego przeznaczenie (usuwanie ciężkich zabrudzeń, często występujących w budownictwie lub przemyśle, co jest zgodne z gałęzią 'Budowa'). Jest to bardziej trafne niż ogólne 'Środki czyszczące' w 'Supermarkecie' czy 'Osprzęt do narzędzi', który nie pasuje do charakteru pasty.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pasta ścierna piaskowa ola 0,25kg",
+                "description": "Pasta ścierna piaskowa Ola 0,25kg. Pasta piaskowa Ola przeznaczona do usuwania trudnych zabrudzeń typu oleje, smary. Sposób użycia i dozowania: Nanieść niewielką ilość, dokładnie wetrzeć, a następnie obficie spłukać wodą. Cena dotyczy 1 szt. 0,25 litra.\n\n[DEAL-BLB2B]",
+                "category_id": 4705,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 21.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/c4216ebd980e813f67561a19ca2f9ef4.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/45001d3b8916462d9618a17f4b7f8b12.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

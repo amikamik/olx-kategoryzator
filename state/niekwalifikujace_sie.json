@@ -6238,5 +6238,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest pokrywką przeznaczoną do misek gastronomicznych, używanych w restauracjach, cateringu i do dań na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej adekwatna ze względu na wyraźne przeznaczenie produktu do użytku profesjonalnego w branży gastronomicznej. Brak jest bardziej szczegółowej kategorii dla samych pokrywek w tej gałęzi, dlatego 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567378497",
+        "Nazwa_Produktu": "Vileda Wkład do mopa obrotowego Turbo",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wkład do mopa, który jest narzędziem do czyszczenia. Kategoria 'Narzędzia' zawiera inne sprzęty do czyszczenia (np. 'Myjki ciśnieniowe'). Ponieważ brak jest bardziej szczegółowej kategorii dla narzędzi do sprzątania, 'Pozostałe Narzędzia' jest najbardziej odpowiednim wyborem. Kategoria 'Środki czyszczące' jest przeznaczona dla detergentów, a nie akcesoriów do narzędzi."
+    },
+    {
+        "ID_Produktu": "567378505",
+        "Nazwa_Produktu": "Vileda Wkład do mopa obrotowego Turbo 2w1",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Części do narzędzi",
+        "Finalne_ID_AI": 4714,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'wkład do mopa obrotowego', który jest wymienną częścią narzędzia (mopa) służącego do czyszczenia. Kategoria 'Części do narzędzi' (ID: 4714) jest najbardziej precyzyjna i semantycznie dopasowana, ponieważ wkład jest integralną, wymienną częścią narzędzia, a nie samym narzędziem ani środkiem czyszczącym. Sugerowana kategoria 'Środki czyszczące' jest nieodpowiednia dla tego typu produktu."
     }
 ]
