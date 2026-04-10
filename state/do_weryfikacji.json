@@ -5916,5 +5916,83 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567404574",
+        "Nazwa_Produktu": "Osłona przeciwsłoneczna do samochodu 5szt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Wystrój okien > Pozostałe",
+        "Finalne_ID_AI": 2075,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to osłona przeciwsłoneczna do samochodu, pełniąca funkcję zaciemnienia okien. Wobec braku kategorii motoryzacyjnych, kategoria 'Wystrój okien > Pozostałe' (pod 'Dom i Ogród > Wyposażenie wnętrz') jest najbardziej semantycznie zbliżona do funkcji osłony okiennej, mimo że dotyczy zazwyczaj wnętrz domowych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567404591",
+        "Nazwa_Produktu": "Kulki drewniane szydełkowane 10szt 20mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Antyki i Kolekcje > Rękodzieło > Biżuteria - półprodukty",
+        "Finalne_ID_AI": 4047,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kulki drewniane, które w opisie są wprost określane jako 'koraliki drewniane do samodzielnego wykonania' oraz 'nadają się również do wyrobu naszyjników, bransoletek'. To idealnie pasuje do kategorii 'Biżuteria - półprodukty' w ramach 'Rękodzieła', ponieważ są to materiały do tworzenia biżuterii metodą rękodzielniczą.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567404597",
+        "Nazwa_Produktu": "Układanka Nauka Alfabetu Drewniane Litery Fiszki",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalne_ID_AI": 3083,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest układanką do nauki alfabetu, opisaną jako zestaw zabawek Montessori i edukacyjnych kart. Kategoria 'Zabawki edukacyjne' (3083) idealnie oddaje przeznaczenie i charakter produktu, który ma wspierać rozwój i naukę dziecka.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567404626",
+        "Nazwa_Produktu": "Uchwyt Łazienkowy pomocniczy z Przyssawkami",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Pozostałe",
+        "Finalne_ID_AI": 2052,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium łazienkowym (uchwyt pomocniczy), które nie pasuje do żadnej z bardziej szczegółowych podkategorii w gałęzi 'Akcesoria łazienkowe'. Kategoria 'Pozostałe' w tej gałęzi jest najlepiej dopasowana.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567404635",
+        "Nazwa_Produktu": "Forma silikonowa okrągła do pieczenia tarty 23cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalne_ID_AI": 2116,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to silikonowa forma do pieczenia tart i ciast, a także foremki na muffinki. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia' idealnie odpowiada temu opisowi, będąc najbardziej szczegółową i trafną kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567404647",
+        "Nazwa_Produktu": "Miska pulpa 500ml śr.165 h 45mm biała 50szt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to miska wykonana z pulpy trzciny cukrowej, sprzedawana w opakowaniu 50 sztuk, co wskazuje na jej jednorazowy charakter. Najbardziej szczegółową i semantycznie dopasowaną kategorią jest 'Naczynia jednorazowe', znajdująca się w gałęzi 'Zastawa stołowa'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]

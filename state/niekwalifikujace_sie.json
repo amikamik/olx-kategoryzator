@@ -6678,5 +6678,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to uniwersalne klipsy i linki bungee przeznaczone do zabezpieczania banerów, plandek, namiotów, a także do zastosowań w biwakowaniu i na łodziach. Chociaż mogą być używane do banerów (co mogłoby sugerować Firmę i Przemysł), ich szerokie zastosowanie w outdoorze (namioty, biwakowanie, łódki) oraz charakter przedmiotu (niewielkie akcesoria do mocowania) najlepiej pasują do kategorii związanej z ogrodem i narzędziami outdoorowymi. Kategoria 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe' jest najbardziej adekwatna, ponieważ są to akcesoria o charakterze narzędziowym do zastosowań zewnętrznych."
+    },
+    {
+        "ID_Produktu": "567404579",
+        "Nazwa_Produktu": "Tapeta Samoprzylepna Fototapeta Okleina Niebo",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Tapety i panele ścienne > Tapety",
+        "Finalne_ID_AI": 3259,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to samoprzylepna tapeta/fototapeta/okleina przeznaczona do pokrywania ścian i mebli, co semantycznie najlepiej pasuje do kategorii \"Dom i Ogród > Wykończenie wnętrz > Tapety i panele ścienne > Tapety\"."
+    },
+    {
+        "ID_Produktu": "567404614",
+        "Nazwa_Produktu": "Uchwyt na miotły wieszak ścienny 2szt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki",
+        "Finalne_ID_AI": 4671,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'uchwyt na miotły wieszak ścienny', który jest rodzajem zawieszki (hangera). Kategoria 'Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki' jest najlepiej dopasowana, ponieważ bezpośrednio odzwierciedla funkcję przedmiotu jako elementu do wieszania i organizacji, zwłaszcza w miejscach takich jak garaże, piwnice czy magazyny, które wymieniono w opisie. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Pozostałe' lub kategorie związane z samymi narzędziami."
     }
 ]
