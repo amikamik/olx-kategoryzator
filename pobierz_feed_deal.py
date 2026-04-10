@@ -5,8 +5,8 @@ Używa DEDYKOWANEGO konta BaseLinker (bez limitu 1000 produktów),
 na którym znajduje się pełny katalog Deal (~5368 produktów).
 
 Workflow:
-1. Pobiera listę WSZYSTKICH produktów z katalogu nowego konta (inventory_id=25038)
-2. Filtruje produkty Deal (posiadające link blconnect_9164)
+1. Pobiera listę WSZYSTKICH produktów z katalogu nowego konta (inventory_id=98772)
+2. Filtruje produkty Deal (posiadające link blconnect_32226)
 3. Pobiera pełne dane produktów w batchach po 100
 4. Deduplikuje produkty po ID (każdy produkt pojawia się tylko raz)
 5. Generuje plik XML feedu w formacie zgodnym z parse_product_feed()
@@ -34,9 +34,9 @@ OUTPUT_FEED = os.path.join(SCRIPT_DIR, "input", "feed_deal_blb2b.xml")
 
 # BaseLinker API — DEDYKOWANE KONTO Z PEŁNYM FEEDEM DEAL
 BASELINKER_API_URL = "https://api.baselinker.com/connector.php"
-INVENTORY_ID = 25038          # Katalog "Domyślny" na nowym koncie BL
-DEAL_LINK_KEY = "blconnect_9164"  # Klucz linku Deal BL B2B na nowym koncie
-MAIN_WAREHOUSE = "bl_42824"  # Magazyn na nowym koncie
+INVENTORY_ID = 98772          # Katalog "Domyślny" na nowym koncie BL
+DEAL_LINK_KEY = "blconnect_32226"  # Klucz linku Deal BL B2B na nowym koncie
+MAIN_WAREHOUSE = "bl_135444"  # Magazyn na nowym koncie
 
 # Rate limiting
 API_DELAY = 0.35  # Sekund między wywołaniami API (limit BL ~180 req/min)

@@ -322,7 +322,8 @@ jobs:
 
           sed -i "s/SAMPLE_SIZE = .*/SAMPLE_SIZE = ${{ inputs.sample_size }}/" 08_kategoryzator_ekspert.py
 
-          if [ "${{ inputs.refresh_feed }}" == "true" ]; then
+          if [ "${{ inputs.refresh_feed }}" == "true" ] || [ ! -f "input/feed_deal_blb2b.xml" ]; then
+            echo "📥 Pobieranie feeda z BaseLinker (refresh_feed=true lub brak pliku XML)..."
             python -u 08_kategoryzator_ekspert.py --refresh-feed
           else
             python -u 08_kategoryzator_ekspert.py
