@@ -6698,5 +6698,65 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to 'uchwyt na miotły wieszak ścienny', który jest rodzajem zawieszki (hangera). Kategoria 'Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki' jest najlepiej dopasowana, ponieważ bezpośrednio odzwierciedla funkcję przedmiotu jako elementu do wieszania i organizacji, zwłaszcza w miejscach takich jak garaże, piwnice czy magazyny, które wymieniono w opisie. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Pozostałe' lub kategorie związane z samymi narzędziami."
+    },
+    {
+        "ID_Produktu": "567404696",
+        "Nazwa_Produktu": "Rolka termiczna 57x60 Eco bez gilzy 8szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne do kas fiskalnych i terminali płatniczych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najbardziej precyzyjna, ponieważ opis wskazuje na zastosowanie w środowisku handlowym (kasy fiskalne, terminale), a rolki są akcesoriami do tych urządzeń drukujących."
+    },
+    {
+        "ID_Produktu": "567404702",
+        "Nazwa_Produktu": "Rolka termiczna 57x80 Eco bez gilzy 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do kas fiskalnych i terminali płatniczych, które pełnią funkcję drukarek/urządzeń rejestrujących w środowisku handlowym lub usługowym. Kategoria `Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria` najlepiej oddaje specyfikę i przeznaczenie tego akcesorium."
+    },
+    {
+        "ID_Produktu": "567404735",
+        "Nazwa_Produktu": "Kłódka numeryczna 3-cyfrowa zamek szyfrowy 5szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Zamki",
+        "Finalne_ID_AI": 3157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kłódka numeryczna, która jest rodzajem zamka szyfrowego. Kategoria 'Dom i Ogród > Budowa > Drzwi > Zamki' jest najbardziej precyzyjnym i semantycznie dopasowanym miejscem dla tego typu przedmiotu, mimo że zastosowanie kłódki jest szersze niż tylko drzwi. Jest to kategoria-liść i odpowiada funkcji produktu jako zabezpieczenia."
+    },
+    {
+        "ID_Produktu": "567404761",
+        "Nazwa_Produktu": "Organizer do szafki przycinany składany 8szt róż",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Organizer do szafki przycinany składany', przeznaczony do organizacji przestrzeni w szufladach i szafkach. Jest to akcesorium, które poprawia funkcjonalność mebli. Kategoria 'Dom i Ogród > Meble > Akcesoria meblowe' jest najbardziej precyzyjnym dopasowaniem, ponieważ produkt służy jako wyposażenie uzupełniające dla mebli (szafek, szuflad), a nie jest samodzielnym meblem ani pudełkiem w tradycyjnym sensie (jest to zestaw przegródek)."
+    },
+    {
+        "ID_Produktu": "567404774",
+        "Nazwa_Produktu": "Skrzynka do sadzenia roślin rozsady mini szklarnia",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Rośliny > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Donice",
+        "Finalne_ID_AI": 1632,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to skrzynka do sadzenia roślin, pełniąca funkcję mini szklarni. Jest to rodzaj pojemnika do uprawy roślin, co najlepiej odpowiada kategorii 'Donice' w dziale 'Ogród'. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Pozostałe' w tej samej gałęzi."
+    },
+    {
+        "ID_Produktu": "567404848",
+        "Nazwa_Produktu": "Pompka spray trójdyszowa do butelki Velodes 1L Med",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Pompki rowerowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pompka spray trójdyszowa przeznaczona do butelek z płynami marki Velodes, która jest producentem środków dezynfekcyjnych i higienicznych (wzmocnione przez 'Medisept' w opisie). Jest to akcesorium do dozowania tych produktów, co najlepiej pasuje do kategorii 'Firma i Przemysł > Maszyny i urządzenia > Urządzenia medyczne > Akcesoria do urządzeń medycznych'."
     }
 ]
