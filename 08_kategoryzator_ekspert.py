@@ -72,6 +72,7 @@ if getattr(config, "ACTIVE_LLM_PROVIDER", "").upper() == "ORACLE":
                     tenancy=tenancy,
                     user=user,
                     fingerprint=fingerprint,
+                    private_key_file_location=None,
                     private_key_content=private_key,
                     pass_phrase=passphrase_bytes,
                 )
