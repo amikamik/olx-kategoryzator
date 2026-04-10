@@ -6218,35 +6218,5 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalne opakowania cateringowe sprzedawane w ilościach hurtowych (320 szt.), przystosowane do zgrzewarek gastronomicznych i podlegające opłacie SUP, co jednoznacznie wskazuje na kategorię pojemników gastronomicznych w sekcji Firma i Przemysł."
-    },
-    {
-        "ID_Produktu": "567375760",
-        "Nazwa_Produktu": "Cena na butelkę laminowana 1szt",
-        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony",
-        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki",
-        "Finalne_ID_AI": 4671,
-        "Czy_Zmieniono_Kategorie": "TAK",
-        "Ocena_Pewnosci_AI": "95%",
-        "Uzasadnienie_AI": "Produkt to laminowana etykieta cenowa z otworem do zawieszenia na szyjce butelki. Jest to akcesorium do ekspozycji towaru, przeznaczone do użytku w sklepach lub magazynach. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki' jest najbardziej semantycznie dopasowana, ponieważ produkt pełni funkcję 'zawieszki' do prezentacji ceny w kontekście handlowym. Sugerowana kategoria 'Butelki i bidony' jest błędna, ponieważ produkt nie jest butelką, a akcesorium do niej."
-    },
-    {
-        "ID_Produktu": "567375777",
-        "Nazwa_Produktu": "Dozownik do serwetek Ellis Napkins N4",
-        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Serwety i serwetki",
-        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
-        "Finalne_ID_AI": 5076,
-        "Czy_Zmieniono_Kategorie": "TAK",
-        "Ocena_Pewnosci_AI": "95%",
-        "Uzasadnienie_AI": "Produkt to dozownik do serwetek, który jest przeznaczony do użytku gastronomicznego (restauracje, kawiarnie, bary). W kategorii 'Firma i Przemysł > Gastronomia' najlepiej pasuje do 'Pojemniki gastronomiczne', ponieważ dozownik jest formą pojemnika/organizera używanego w gastronomii. Jest to bardziej szczegółowa kategoria niż ogólne 'Pozostałe' w tej gałęzi."
-    },
-    {
-        "ID_Produktu": "567375795",
-        "Nazwa_Produktu": "Folia STRETCH 50 cm bezbarwna 2,5kg",
-        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Pozostałe",
-        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
-        "Finalne_ID_AI": 4681,
-        "Czy_Zmieniono_Kategorie": "TAK",
-        "Ocena_Pewnosci_AI": "90%",
-        "Uzasadnienie_AI": "Folia stretch jest produktem przeznaczonym do pakowania i zabezpieczania towarów, w szczególności do transportu na paletach. Tego typu zastosowanie najlepiej pasuje do kontekstu 'Firma i Przemysł', a precyzyjniej do podkategorii 'Sklepy i magazyny'. Mimo że jest to kategoria 'Pozostałe', jest ona semantycznie znacznie bliższa przeznaczeniu produktu niż sugerowana 'Dom i Ogród > Supermarket > Pozostałe', która odnosi się do artykułów spożywczych i gospodarstwa domowego."
     }
 ]
