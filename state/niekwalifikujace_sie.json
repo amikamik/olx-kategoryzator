@@ -6988,5 +6988,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to ogranicznik przeciągów/uszczelka, której głównym przeznaczeniem jest izolacja termiczna i akustyczna, zapobieganie ucieczce ciepłego powietrza oraz redukcja hałasu i kurzu. Kategoria 'Dom i Ogród > Budowa > Izolacje > Pozostałe' jest najlepiej dopasowana, ponieważ bezpośrednio odnosi się do funkcji izolacyjnej produktu, a 'Pozostałe' wskazuje, że jest to specyficzny rodzaj izolacji, który nie pasuje do innych podkategorii izolacji (np. styropian, wełna mineralna)."
+    },
+    {
+        "ID_Produktu": "567406289",
+        "Nazwa_Produktu": "Przybornik organizer na biurko 2szt czarne",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przybornik/organizer na biurko, służący do przechowywania artykułów piśmienniczych i innych drobnych przedmiotów biurowych. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej precyzyjna i semantycznie dopasowana do funkcji produktu, który jest typowym akcesorium biurowym. Jest to lepszy wybór niż ogólna kategoria 'Pudełka'."
+    },
+    {
+        "ID_Produktu": "567406292",
+        "Nazwa_Produktu": "Stojak opiekacz do grilla do tostów chleba",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Opiekacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to manualny stojak/opiekacz do tostów i chleba, przeznaczony do użytku z grillem, często w warunkach outdoorowych (kemping, piknik). Nie jest to urządzenie elektroniczne, dlatego kategoria z gałęzi 'Elektronika' jest nieadekwatna. Kategoria 'Dom i Ogród > Ogród > Grill' najlepiej oddaje jego funkcję jako akcesorium do grillowania lub prostego urządzenia do opiekania na grillu."
     }
 ]
