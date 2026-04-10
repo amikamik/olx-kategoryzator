@@ -27,6 +27,7 @@ import re
 import time
 import csv
 import ast
+import unicodedata
 from tqdm import tqdm
 import openai
 import os
@@ -1152,6 +1153,60 @@ def wczytaj_przetworzone_id(sciezka_pliku_przetworzone):
 
     return przetworzone_id
 
+def normalizuj_klucz_produktu(wartosc):
+    """Buduje stabilny klucz tekstowy do porównywania tych samych produktów między branchami/feedami."""
+    if not wartosc:
+        return ""
+
+    tekst = str(wartosc).strip().lower()
+    tekst = unicodedata.normalize('NFKD', tekst)
+    tekst = ''.join(znak for znak in tekst if not unicodedata.combining(znak))
+    tekst = re.sub(r'\s+', ' ', tekst)
+    return tekst
+
+def wczytaj_przetworzone_klucze_produktow(*sciezki_plikow_state):
+    """Wczytuje klucze nazw produktów z plików state, aby pomijać już obsłużone pozycje między branchami."""
+    przetworzone_klucze = set()
+
+    for sciezka_pliku in sciezki_plikow_state:
+        try:
+            with open(sciezka_pliku, 'r', encoding='utf-8') as f:
+                dane = json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            continue
+
+        if not isinstance(dane, list):
+            continue
+
+        for wpis in dane:
+            kandydaci = []
+
+            if isinstance(wpis, dict):
+                kandydaci.extend([
+                    wpis.get('product_name'),
+                    wpis.get('Nazwa_Produktu'),
+                    wpis.get('name'),
+                    wpis.get('title'),
+                ])
+
+                api_error = wpis.get('api_error')
+                if isinstance(api_error, dict):
+                    wyslany_payload = api_error.get('wyslany_payload')
+                    if isinstance(wyslany_payload, dict):
+                        kandydaci.extend([
+                            wyslany_payload.get('title'),
+                            wyslany_payload.get('name'),
+                        ])
+            elif isinstance(wpis, str):
+                kandydaci.append(wpis)
+
+            for kandydat in kandydaci:
+                klucz = normalizuj_klucz_produktu(kandydat)
+                if klucz:
+                    przetworzone_klucze.add(klucz)
+
+    return przetworzone_klucze
+
 def dodaj_do_przetworzonych(product_id, sciezka_pliku_przetworzone):
     """Dodaje ID produktu do centralnego pliku przetworzonych."""
     # Normalizuj product_id do stringa (z XML)
@@ -1382,9 +1437,17 @@ def main():
             json.dump({}, f, ensure_ascii=False)
 
     przetworzone_id = wczytaj_przetworzone_id(PRZETWORZONE_PLIK)
+    przetworzone_klucze_produktow = wczytaj_przetworzone_klucze_produktow(
+        BEZ_GPSR_PLIK,
+        DO_WERYFIKACJI_PLIK,
+        ODRZUCONE_API_PLIK,
+        NIEKWALIFIKUJACE_SIE_PLIK,
+    )
 
     if przetworzone_id:
         print(f"Znaleziono {len(przetworzone_id)} już przetworzonych produktów. Zostaną pominięte.")
+    if przetworzone_klucze_produktow:
+        print(f"Znaleziono {len(przetworzone_klucze_produktow)} kluczy nazw produktów w state do porównań między branchami.")
 
     # --- Wczytywanie kategorii "Zapłać, jeśli sprzedasz" ---
     ZAPLATA_JESLI_SPRZEDASZ_PLIK = os.path.join(SCRIPT_DIR, "input", "zaplata_jesli_sprzedasz.json")
@@ -1459,9 +1522,29 @@ ZASADY:
 
     if odrzucone_przez_cene > 0:
         print(f"Odrzucono {odrzucone_przez_cene} produktów ze względu na niespełnienie zakresu cenowego ({CENA_MIN} - {CENA_MAX} PLN).")
-    
-    # Filtruj już przetworzene produkty (normalizuj ID do stringów)
-    nowe_produkty = [p for p in produkty_po_filtracji_cenowej if str(p['id']) not in przetworzone_id]
+
+    pominiete_po_id = 0
+    pominiete_po_nazwie = 0
+    nowe_produkty = []
+
+    for produkt in produkty_po_filtracji_cenowej:
+        produkt_id = str(produkt.get('id', ''))
+        if produkt_id in przetworzone_id:
+            pominiete_po_id += 1
+            continue
+
+        klucz_nazwy = normalizuj_klucz_produktu(produkt.get('name', ''))
+        if klucz_nazwy and klucz_nazwy in przetworzone_klucze_produktow:
+            pominiete_po_nazwie += 1
+            continue
+
+        nowe_produkty.append(produkt)
+
+    if pominiete_po_id or pominiete_po_nazwie:
+        print(
+            f"Pominięto {pominiete_po_id + pominiete_po_nazwie} produktów już obecnych w state "
+            f"({pominiete_po_id} po feed ID, {pominiete_po_nazwie} po nazwie produktu)."
+        )
 
     if SAMPLE_SIZE > 0:
         products_to_process = nowe_produkty[:SAMPLE_SIZE]
