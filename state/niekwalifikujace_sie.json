@@ -6978,5 +6978,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to 'torba na zakupy', która jest ekologiczną torbą wielokrotnego użytku przeznaczoną do pakowania zakupionych produktów. Kategoria 'Shopperki' (torby shopper) jest najbardziej trafnym i szczegółowym określeniem dla tego typu torby, idealnie pasującym do jej przeznaczenia."
+    },
+    {
+        "ID_Produktu": "567406252",
+        "Nazwa_Produktu": "Ogranicznik Przeciągów 90cm Podwójna  Uszczelka",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ogranicznik przeciągów/uszczelka, której głównym przeznaczeniem jest izolacja termiczna i akustyczna, zapobieganie ucieczce ciepłego powietrza oraz redukcja hałasu i kurzu. Kategoria 'Dom i Ogród > Budowa > Izolacje > Pozostałe' jest najlepiej dopasowana, ponieważ bezpośrednio odnosi się do funkcji izolacyjnej produktu, a 'Pozostałe' wskazuje, że jest to specyficzny rodzaj izolacji, który nie pasuje do innych podkategorii izolacji (np. styropian, wełna mineralna)."
     }
 ]
