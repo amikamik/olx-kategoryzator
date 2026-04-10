@@ -2660,5 +2660,119 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567381025",
+        "Nazwa_Produktu": "Vileda Mop obrotowy Vileda Ultramax Turbo",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mop obrotowy, który jest narzędziem służącym do sprzątania i jest obsługiwany ręcznie. Kategoria 'Dom i Ogród > Narzędzia > Narzędzia ręczne' najlepiej oddaje charakter tego produktu, będąc bardziej precyzyjną niż ogólne 'Pozostałe Narzędzia' lub kategorie dotyczące chemii budowlanej/środków czyszczących, które nie obejmują narzędzi.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda mop obrotowy vileda ultramax turbo",
+                "description": "Vileda Mop obrotowy Vileda Ultramax Turbo. Wkład do mopa obrotowego Ultramax TURBO mocowany jest za pomocą klipsów, jest łatwy do zdjęcia. Zapas do mopa może być wielokrotnie prany w pralce automatycznej w temperaturze maksymalnie 60 stopni. Wymiary: Wiadro: 49cm (długość łącznie z pedałem) x 29cm (szerokość) x 31,5cm (wysokość) Długość drążka teleskopowego wraz ze stopą oraz wkładem 130cm Długość drążka teleskopowego - 122 cm rozłożony , 55cm złożony Stopa: 34cm x 10cm Wymiary kartonu: 49cm x 29cm x 29cm Waga: 3,16 kg Kup dodatkowy zapasowy wkład do mopa. Poprzednia nazwa tego mopa to mop obrotowy Ultramat Turbo. EAN: 4023103206236 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Maksymalna temperatura prania wkładu to 60C. Nie suszyć w suszarce bębnowej i nie prasować. Nie prać chemicznie i nie stosować wybielaczy czy płynów zmiękczających. Należy unikać kontaktu z ostrymi przedmiotami.\n\n[DEAL-BLB2B]",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 305.12,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/0683563f95a9d80fa2fc6418d79efa70.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567381034",
+        "Nazwa_Produktu": "Vileda zestaw Ultramax XL BOX mop płaski z wiadrem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalne_ID_AI": 2112,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do sprzątania (mop i wiadro), który jest elementem wyposażenia wnętrz/gospodarstwa domowego. Brak bardziej szczegółowej kategorii dla narzędzi do sprzątania, dlatego wybieram ogólną kategorię 'Pozostałe' w ramach 'Wyposażenie wnętrz'. Sugerowana kategoria 'Środki czyszczące' jest nieodpowiednia, ponieważ dotyczy chemii, a nie sprzętu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda zestaw ultramax xl box mop płaski z wiadrem",
+                "description": "Zestaw Ultramax XL BOX - mop płaski + wiadro 20% szersza nakładka czyszcząca. Dużo szybsze sprzątanie. Mop płaski Ultramax w wersji XL wyposażony jest w nakładkę czyszczącą o szerokości 42 cm. Dzięki niej jeszcze szybciej pozmywasz każdą podłogę. Mop Vileda usuwa 99% bakterii przy użyciu samej wody. Udowodnione w badaniach przeprowadzonych przez niezależny, akredytowany instytut badań mikrobiologicznych i immunologicznych* *Test przeprowadzony przez BMA-Labor GbR na bakteriach Escherichia coli i Staphylococcus aureus występujących w domu. 2 rodzaje mikro - włókien Vileda Wkład do mopa Ultramax XL posiada dwa typy włókien. Białe włókna zapewniają czystość bez smug i zarysowań nawet najdelikatniejszych powierzchni. Czerwone włókna doskonale radzą sobie z uporczywym brudem i drobinami bez konieczności stosowania detergentów. Czysta podłoga - suche dłonie Mop płaski Ultramax XL pasuje do standardowego wiadra z wyciskaczem Ultramax, które umożliwia wyciskanie i wyżymanie mopa bez brudzenia i moczenia rąk. Sprytnie dociera do trudno dostępnych miejsc Mop do podłóg Vileda bez trudu posprząta w narożnikach i trudno dostępnych miejscach. Ruchoma główka mopa pozwala na łatwe manewrowanie mopem nawet pod meblami. Nie raz, nie dwa ale wielokrotnie Wkład mopa płaskiego Ultramax XL jest mocowany za pomocą klipsów, dlatego jest łatwy do zdjęcia i wymiany. Wkład do mopa można prać w pralce automatycznej w temperaturze nie większej niż 60 stopni. Można dokupić zapasowy wkład do mopa Ultramax XL. Elementy zestawu W skład zestawu Ultramax XL BOX wchodzi: Mop płaski z trzyczęściowym drążkiem Wkład o szerokości 42 cm Wiadro z wyciskaczem Zestaw zapakowany jest w karton. Waga: 1,8 kg. VILEDA 160932 EAN: 4023103212022 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Maksymalna temperatura prania wkładu to 60C. Nie suszyć w suszarce bębnowej i nie prasować. Nie prać chemicznie i nie stosować wybielaczy czy płynów zmiękczających. Należy unikać kontaktu z ostrymi przedmiotami.\n\n[DEAL-BLB2B]",
+                "category_id": 2112,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 234.47,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/869e7acaf841fd44f905d335e93de11f.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

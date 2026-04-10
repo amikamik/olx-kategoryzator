@@ -5876,5 +5876,25 @@
         "api_error": {
             "error": "Błąd pobierania atrybutów z OLX API."
         }
+    },
+    {
+        "ID_Produktu": "567379722",
+        "Nazwa_Produktu": "Woreczki strunowe 6x8cm 40mic 100szt Plast",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567379801",
+        "Nazwa_Produktu": "Rękawice lateksowe pudrowane L Abena 100szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Rękawiczki",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
