@@ -114,9 +114,10 @@ jobs:
         run: |
           mkdir -p state
           if [[ "${{ github.ref_name }}" == "deal_oracle" ]]; then
-            echo "📥 deal_oracle: wymuszony bootstrap state z: ${{ steps.branch_mode.outputs.source_branch }}"
-            git fetch origin "${{ steps.branch_mode.outputs.source_branch }}"
-            git checkout "origin/${{ steps.branch_mode.outputs.source_branch }}" -- state/ || echo "⚠️ Brak state w gałęzi źródłowej"
+            echo "📥 deal_oracle: rozdzielone konto BL (inv 98772 vs inv 25038) - state zaczyna się PUSTY"
+            echo "⚠️  Product IDs z nowego konta NIE pokrywają się z GIT state - zaczynamy od nowa"
+            # Nie bootstrapujemy state - deal_oracle ma NIEZALEŻNY product ID space
+            # Każdy run załaduje aktualny state z localnej gałęzi (jeśli istnieje)
           elif [ -z "$(ls -A state 2>/dev/null)" ]; then
             echo "📥 Brak lokalnego state - bootstrap z: ${{ steps.branch_mode.outputs.source_branch }}"
             git fetch origin "${{ steps.branch_mode.outputs.source_branch }}"

@@ -1359,6 +1359,8 @@ def main():
 
     # --- Wczytywanie stanu przetworzonych produktów ---
     STATE_DIR = os.path.join(SCRIPT_DIR, "state")
+    os.makedirs(STATE_DIR, exist_ok=True)  # Upewnij się że katalog state istnieje
+    
     PRZETWORZONE_PLIK = os.path.join(STATE_DIR, "przetworzone_produkty.json")
     OPUBLIKOWANE_PLIK = os.path.join(STATE_DIR, "opublikowane.json")
     DO_WERYFIKACJI_PLIK = os.path.join(STATE_DIR, "do_weryfikacji.json")
@@ -1366,6 +1368,18 @@ def main():
     NIEKWALIFIKUJACE_SIE_PLIK = os.path.join(STATE_DIR, "niekwalifikujace_sie.json")
     MAPPING_FEED_TO_OLX_PLIK = os.path.join(STATE_DIR, "mapping_feed_to_olx.json")
     BEZ_GPSR_PLIK = os.path.join(STATE_DIR, "bez_gpsr.json")  # ← DEAL: Śledzenie produktów bez GPSR
+
+    # --- Inicjalizuj state files jako puste JSONy jeśli nie istnieją ---
+    for state_file in [PRZETWORZONE_PLIK, OPUBLIKOWANE_PLIK, DO_WERYFIKACJI_PLIK, 
+                       ODRZUCONE_API_PLIK, NIEKWALIFIKUJACE_SIE_PLIK, BEZ_GPSR_PLIK]:
+        if not os.path.exists(state_file):
+            with open(state_file, 'w', encoding='utf-8') as f:
+                json.dump([], f, ensure_ascii=False)
+    
+    # MAPPING_FEED_TO_OLX_PLIK to dict, nie list
+    if not os.path.exists(MAPPING_FEED_TO_OLX_PLIK):
+        with open(MAPPING_FEED_TO_OLX_PLIK, 'w', encoding='utf-8') as f:
+            json.dump({}, f, ensure_ascii=False)
 
     przetworzone_id = wczytaj_przetworzone_id(PRZETWORZONE_PLIK)
 
