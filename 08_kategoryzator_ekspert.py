@@ -1145,7 +1145,8 @@ def wczytaj_przetworzone_id(sciezka_pliku_przetworzone):
         with open(sciezka_pliku_przetworzone, 'r', encoding='utf-8') as f:
             dane = json.load(f)
             if isinstance(dane, list):
-                przetworzone_id.update(dane)
+                # Normalizuj ID do stringów (XML zawiera stringi, state może mieć inty)
+                przetworzone_id.update(str(pid) for pid in dane)
     except (FileNotFoundError, json.JSONDecodeError):
         pass
 
@@ -1153,10 +1154,12 @@ def wczytaj_przetworzone_id(sciezka_pliku_przetworzone):
 
 def dodaj_do_przetworzonych(product_id, sciezka_pliku_przetworzone):
     """Dodaje ID produktu do centralnego pliku przetworzonych."""
+    # Normalizuj product_id do stringa (z XML)
+    product_id_str = str(product_id)
     przetworzone = list(wczytaj_przetworzone_id(sciezka_pliku_przetworzone))
     
-    if product_id not in przetworzone:
-        przetworzone.append(product_id)
+    if product_id_str not in przetworzone:
+        przetworzone.append(product_id_str)
         
         with open(sciezka_pliku_przetworzone, 'w', encoding='utf-8') as f:
             json.dump(przetworzone, f, indent=4, ensure_ascii=False)
@@ -1443,7 +1446,8 @@ ZASADY:
     if odrzucone_przez_cene > 0:
         print(f"Odrzucono {odrzucone_przez_cene} produktów ze względu na niespełnienie zakresu cenowego ({CENA_MIN} - {CENA_MAX} PLN).")
     
-    nowe_produkty = [p for p in produkty_po_filtracji_cenowej if p['id'] not in przetworzone_id]
+    # Filtruj już przetworzene produkty (normalizuj ID do stringów)
+    nowe_produkty = [p for p in produkty_po_filtracji_cenowej if str(p['id']) not in przetworzone_id]
 
     if SAMPLE_SIZE > 0:
         products_to_process = nowe_produkty[:SAMPLE_SIZE]
