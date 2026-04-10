@@ -114,10 +114,14 @@ jobs:
         run: |
           mkdir -p state
             if [[ "${{ github.ref_name }}" == "deal_oracle" ]]; then
-              echo "📥 deal_oracle: bootstrap state z: ${{ steps.branch_mode.outputs.source_branch }}"
-              echo "ℹ️  Feed ID mogą się różnić między kontami BL, ale dane state są potrzebne do pomijania już obsłużonych produktów"
+            if [ -z "$(ls -A state 2>/dev/null)" ]; then
+              echo "📥 deal_oracle: brak lokalnego state, bootstrap z: ${{ steps.branch_mode.outputs.source_branch }}"
+              echo "ℹ️  Jednorazowy bootstrap - kolejne runy używają state z deal_oracle"
               git fetch origin "${{ steps.branch_mode.outputs.source_branch }}"
               git checkout "origin/${{ steps.branch_mode.outputs.source_branch }}" -- state/ || echo "⚠️ Brak state w gałęzi źródłowej"
+            else
+              echo "ℹ️ deal_oracle: lokalny state istnieje - NIE nadpisuję go state ze źródła"
+            fi
             elif [ -z "$(ls -A state 2>/dev/null)" ]; then
             echo "📥 Brak lokalnego state - bootstrap z: ${{ steps.branch_mode.outputs.source_branch }}"
             git fetch origin "${{ steps.branch_mode.outputs.source_branch }}"
