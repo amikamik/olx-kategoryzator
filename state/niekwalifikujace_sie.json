@@ -6928,5 +6928,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Patyczki do szaszłyków są akcesorium bezpośrednio związanym z grillowaniem i przygotowywaniem szaszłyków, co idealnie pasuje do kategorii 'Grill'. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Przybory kuchenne' czy 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "567405958",
+        "Nazwa_Produktu": "Uchwyt na wieszaki do szafy Granatowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'uchwyt na wieszaki do szafy' oraz 'organizator wieszaków ściennych', służący do optymalizacji przestrzeni w szafie lub garderobie. Jest to akcesorium, które uzupełnia meble (szafę), a nie sam mebel czy wieszak. Kategoria 'Akcesoria meblowe' (1950) jest najlepiej dopasowana semantycznie, ponieważ produkt jest dodatkiem funkcjonalnym do mebla. Kategoria 'Wieszaki' (1948) odnosiłaby się raczej do samych wieszaków na ubrania lub stojaków/wieszaków ściennych, a nie uchwytów do ich przechowywania."
+    },
+    {
+        "ID_Produktu": "567406014",
+        "Nazwa_Produktu": "Kątownik Łącznik Wspornik Narożny 10szt 4x4cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kątownik/wspornik narożny, który jest opisany jako 'akcesoria meblowe' i stosowany w 'przemyśle meblarskim i stolarskim' do mocowania różnych elementów mebli. Kategoria 'Dom i Ogród > Meble > Akcesoria meblowe' jest najbardziej precyzyjna i bezpośrednio odpowiada opisowi produktu. Sugerowana kategoria 'Mocowania ścienne' jest zbyt wąska i znajduje się w gałęzi 'Dekoracje', co nie pasuje do funkcjonalnego charakteru przedmiotu."
+    },
+    {
+        "ID_Produktu": "567406069",
+        "Nazwa_Produktu": "Odbojnik do Drzwi Miś Samoprzylepny Złoty 2 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Pozostałe",
+        "Finalne_ID_AI": 3158,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'odbojnik do drzwi', czyli akcesorium przeznaczone do ochrony drzwi i ścian oraz utrzymywania drzwi w określonej pozycji. Kategoria 'Dom i Ogród > Budowa > Drzwi > Pozostałe' jest najbardziej semantycznie dopasowana, ponieważ odbojnik jest funkcjonalnym elementem związanym bezpośrednio z drzwiami, a dział 'Budowa' często obejmuje różnego rodzaju osprzęt i akcesoria montażowe. Sugerowana kategoria 'Mocowania ścienne' w dziale 'Dekoracje' jest mniej trafna, gdyż główną funkcją odbojnika nie jest dekoracja ani ogólne mocowanie, lecz specyficzna ochrona i funkcja związana z drzwiami."
+    },
+    {
+        "ID_Produktu": "567406095",
+        "Nazwa_Produktu": "Wieszak na Ubrania Haczyk na Drzwi 4szt czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Wieszak na Ubrania Haczyk na Drzwi', co idealnie pasuje do kategorii 'Dom i Ogród > Meble > Wieszaki'. Jest to kategoria-liść i precyzyjnie oddaje charakter produktu."
+    },
+    {
+        "ID_Produktu": "567406168",
+        "Nazwa_Produktu": "Torba na zakupy 14L 30x33x14 Kwiaty fioletowa 1szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Shopperki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Shopperki",
+        "Finalne_ID_AI": 2756,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'torba na zakupy', która jest ekologiczną torbą wielokrotnego użytku przeznaczoną do pakowania zakupionych produktów. Kategoria 'Shopperki' (torby shopper) jest najbardziej trafnym i szczegółowym określeniem dla tego typu torby, idealnie pasującym do jej przeznaczenia."
     }
 ]
