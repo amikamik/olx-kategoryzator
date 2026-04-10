@@ -6888,5 +6888,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to odbojnik do drzwi, który chroni ścianę przed uderzeniami. Najlepszą kategorią jest 'Dom i Ogród > Budowa > Drzwi > Pozostałe', ponieważ jest to akcesorium ściśle związane z drzwiami, a nie jest to klamka, zamek czy ościeżnica. Kategoria 'Pozostałe' w gałęzi 'Drzwi' jest odpowiednia dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "567405608",
+        "Nazwa_Produktu": "Organizer na biurko przybornik do przechowywania",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako 'organizer na biurko' oraz 'organizer biurowy' i 'uchwyt na długopisy', przeznaczony do przechowywania przyborów biurowych. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej precyzyjna i bezpośrednio odnosi się do funkcji oraz przeznaczenia produktu, lepiej niż ogólna kategoria 'Pudełka'."
+    },
+    {
+        "ID_Produktu": "567405645",
+        "Nazwa_Produktu": "Stolik Kawowy Ława 120x60 z Szufladami Modern Loft",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Stoliki kawowe i ławy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Stoliki kawowe i ławy",
+        "Finalne_ID_AI": 1938,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu jasno wskazuje na 'stolik kawowy' i 'ławę', które doskonale pasują do kategorii 'Dom i Ogród > Meble > Stoliki kawowe i ławy'. Jest to kategoria-liść i jest semantycznie najlepiej dopasowana."
     }
 ]

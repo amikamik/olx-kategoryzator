@@ -5994,5 +5994,15 @@
         "api_error": {
             "error": "Błąd pobierania atrybutów z OLX API."
         }
+    },
+    {
+        "ID_Produktu": "567405656",
+        "Nazwa_Produktu": "Organizer samochodowy do Auta Między Siedzenia",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Torby, plecaki, organizery",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
