@@ -6368,5 +6368,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych i piekarniach. Najlepszą kategorią jest 'Firma i Przemysł' ze względu na przeznaczenie komercyjne. W ramach tej gałęzi, 'Gastronomia' jest najbardziej adekwatna, a ponieważ nie ma bardziej szczegółowej kategorii dla opakowań spożywczych, 'Pozostałe' jest najlepszym wyborem. Sugerowana kategoria 'Moda > Torby i torebki > Torby na ramię' została zignorowana, ponieważ jest semantycznie niezwiązana z produktem."
+    },
+    {
+        "ID_Produktu": "567388533",
+        "Nazwa_Produktu": "Lampa Wisząca Led Paulmann Neordic Ivar 3X20W E27",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalne_ID_AI": 3867,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'lampę wiszącą'. Kategoria 'Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567388541",
+        "Nazwa_Produktu": "Lampa Led Wisząca 3X20W Paulmann Neordic Neta E27",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalne_ID_AI": 3867,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na lampę wiszącą (Lampa Led Wisząca, forma oprawy oświetleniowej: Wisząca). Kategoria 'Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem."
+    },
+    {
+        "ID_Produktu": "567388550",
+        "Nazwa_Produktu": "Lampa Wisząca Led Paulmann Norell 3X20W E27",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalne_ID_AI": 3867,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to 'lampa wisząca'. Kategoria 'Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące' jest dokładnym dopasowaniem i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567388558",
+        "Nazwa_Produktu": "Lampa Led Paulmann Neordic Vanja 3X20W E27",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Fotografia > Oświetlenie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalne_ID_AI": 3867,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to 'lampa wisząca LED'. Kategoria 'Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące' jest idealnie dopasowana i najbardziej szczegółowa."
     }
 ]

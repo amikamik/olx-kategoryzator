@@ -2945,5 +2945,62 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567390788",
+        "Nazwa_Produktu": "Vileda Wiadro Z Wyciskaczem Do Mopa Ultramax 1 Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalne_ID_AI": 2112,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wiadro z wyciskaczem do mopa, będące akcesorium do sprzątania w domu. Brak jest dedykowanej kategorii dla ogólnych narzędzi i akcesoriów do sprzątania podłóg. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pozostałe' jest najbardziej odpowiednia, ponieważ produkt jest elementem wyposażenia wnętrz, który nie mieści się w bardziej szczegółowych podkategoriach (np. kuchennych czy łazienkowych akcesoriów).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda wiadro z wyciskaczem do mopa ultramax 1 szt",
+                "description": "Vileda Wiadro z wyciskaczem do mopa Ultramax 1 szt. Wiadro Ultramax to specjalistyczne wiadro z zaprojektowaną wyciskarką, która umożliwia komfortowe wyżymanie mopa bez konieczności moczenia rąk. Wyprofilowany kształt sita wiadra, umożliwia łatwe i sprawne odsączanie mopa. Wyciskacz wyposażony został w ruchomą część sita, które zapewnia kontrolę odsączania mopa i siły nacisku. Unikalne wiadro z wyciskaczem Vileda przeznaczone jest do mopa płaskiego Ultramax oraz mopa Ultramax XL. Wymiary wiadra Ultramax: długość 38 cm szerokość 30 cm wysokość 29/38 cm z sitem pojemność : 10 litrów Cena za opakowanie 1 szt. EAN: 4023103201415 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2112,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 77.48,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/e80cc2086acc2c2eeb74d88f5517e0f0.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
