@@ -6758,5 +6758,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pompka spray trójdyszowa przeznaczona do butelek z płynami marki Velodes, która jest producentem środków dezynfekcyjnych i higienicznych (wzmocnione przez 'Medisept' w opisie). Jest to akcesorium do dozowania tych produktów, co najlepiej pasuje do kategorii 'Firma i Przemysł > Maszyny i urządzenia > Urządzenia medyczne > Akcesoria do urządzeń medycznych'."
+    },
+    {
+        "ID_Produktu": "567405120",
+        "Nazwa_Produktu": "Kratka wentylacyjna 26x19cm metalowo-aluminiowa",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Klimatyzacja i wentylacja > Wentylacja",
+        "Finalne_ID_AI": 3218,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kratka wentylacyjna, która jest elementem systemu wentylacyjnego. Kategoria 'Dom i Ogród > Instalacje > Klimatyzacja i wentylacja > Wentylacja' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem dla tego typu przedmiotu."
+    },
+    {
+        "ID_Produktu": "567405173",
+        "Nazwa_Produktu": "Organizer na Biurko Przybornik Metalowy Czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Organizer na Biurko Przybornik', przeznaczony do przechowywania przyborów do pisania i innych akcesoriów biurowych. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej precyzyjna i semantycznie dopasowana do przeznaczenia produktu, lepiej niż ogólne 'Pudełka' czy 'Pozostałe'."
     }
 ]
