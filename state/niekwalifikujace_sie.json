@@ -6858,5 +6858,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Tytuł produktu jednoznacznie wskazuje na 'Kosmetyczkę podróżną', co idealnie pasuje do kategorii 'Moda > Akcesoria > Kosmetyczki'. Opis dodatkowo potwierdza przeznaczenie produktu jako torby-organizera na akcesoria podróżne."
+    },
+    {
+        "ID_Produktu": "567405517",
+        "Nazwa_Produktu": "Kosz do Grillowania Warzyw Mięs Stal Nierdzewna 2s",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw koszy i narzędzi przeznaczonych do grillowania. Najbardziej odpowiednią kategorią-liściem jest 'Dom i Ogród > Ogród > Grill', która obejmuje akcesoria związane z grillowaniem."
+    },
+    {
+        "ID_Produktu": "567405543",
+        "Nazwa_Produktu": "Podpora kratka plasikowa dla roślin pnących 3szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to kratka/podpora dla roślin pnących, która jest elementem wyposażenia ogrodu, mającym na celu wspieranie wzrostu roślin. Nie jest to narzędzie, dekoracja w ścisłym tego słowa znaczeniu (choć może pełnić funkcje estetyczne), ani mebel. Najbardziej odpowiednią kategorią-liściem jest zatem ogólna kategoria 'Pozostałe Ogród' w gałęzi 'Dom i Ogród > Ogród', ponieważ nie istnieje bardziej szczegółowa kategoria dedykowana podporom dla roślin."
+    },
+    {
+        "ID_Produktu": "567405592",
+        "Nazwa_Produktu": "Odbojnik Do Drzwi Gumowy Samoprzylepny 5cm 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Pozostałe",
+        "Finalne_ID_AI": 3158,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to odbojnik do drzwi, który chroni ścianę przed uderzeniami. Najlepszą kategorią jest 'Dom i Ogród > Budowa > Drzwi > Pozostałe', ponieważ jest to akcesorium ściśle związane z drzwiami, a nie jest to klamka, zamek czy ościeżnica. Kategoria 'Pozostałe' w gałęzi 'Drzwi' jest odpowiednia dla tego typu produktu."
     }
 ]
