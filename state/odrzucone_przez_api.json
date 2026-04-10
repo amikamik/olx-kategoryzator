@@ -2548,5 +2548,62 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567377133",
+        "Nazwa_Produktu": "Rękawice Vileda Universal rozm. S  1 para",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Odzież robocza > Rękawice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy",
+        "Finalne_ID_AI": 2131,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rękawice przeznaczone do prac domowych, w tym do zmywania naczyń, co jest wyraźnie zaznaczone w opisie. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy' jest idealnie dopasowana, ponieważ zawiera 'rękawice' i znajduje się w gałęzi 'Dom i Ogród', co odpowiada przeznaczeniu produktu. Kategoria z podpowiedzi 'Firma i Przemysł > Odzież robocza > Rękawice' jest mniej trafna, ponieważ sugeruje zastosowanie profesjonalne/przemysłowe, a nie domowe.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rękawice vileda universal rozm. s  1 para",
+                "description": "Rękawice Vileda Universal rozm. S 1 para. Rękawice Vileda Universal to wygodne rękawiczki do prac domowych, które dokładnie przylegają do dłoni. . wyprofilowane do prac domowych EAN: 8410435841000 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Zachowaj to opakowanie w celach informacyjnych. Te rękawice są przeznaczone wyłącznie do użytku domowego, np. do ochrony przed wilgocią i wodą podczas zmywania naczyń. Nie używać z silnymi chemikaliami. Produkt nie powinien być wystawiany na bezpośrednie działanie promieni słonecznych. Produkt nie jest przeznaczony do kontaktu z żywnością.\n\n[DEAL-BLB2B]",
+                "category_id": 2131,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 19.19,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/6f03f074f8d5d6af634a3e9ca6065a0a.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

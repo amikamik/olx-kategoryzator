@@ -6218,5 +6218,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalne opakowania cateringowe sprzedawane w ilościach hurtowych (320 szt.), przystosowane do zgrzewarek gastronomicznych i podlegające opłacie SUP, co jednoznacznie wskazuje na kategorię pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "567376848",
+        "Nazwa_Produktu": "Opakowanie  na zapiekanki 310x80x40mm 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papierowe opakowanie przeznaczone do pakowania dań na wynos w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ opakowanie pełni funkcję tymczasowego pojemnika gastronomicznego, używanego w restauracjach i food truckach, co jest zgodne z opisem produktu."
+    },
+    {
+        "ID_Produktu": "567377128",
+        "Nazwa_Produktu": "Pokrywka do miski 1300ml fi.185mm 50 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Miski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest pokrywką przeznaczoną do misek gastronomicznych, używanych w restauracjach, cateringu i do dań na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej adekwatna ze względu na wyraźne przeznaczenie produktu do użytku profesjonalnego w branży gastronomicznej. Brak jest bardziej szczegółowej kategorii dla samych pokrywek w tej gałęzi, dlatego 'Pozostałe' jest najlepszym wyborem."
     }
 ]
