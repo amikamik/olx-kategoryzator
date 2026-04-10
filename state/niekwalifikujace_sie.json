@@ -6788,5 +6788,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "88%",
         "Uzasadnienie_AI": "Produkt to 'odbojnik do drzwi', który jest akcesorium bezpośrednio związanym z drzwiami i ich funkcjonalnością (ochrona ściany przed uderzeniem klamki). Kategoria 'Dom i Ogród > Budowa > Drzwi' jest najbardziej semantycznie dopasowaną gałęzią, a ponieważ nie ma bardziej szczegółowej kategorii dla odbojników, 'Pozostałe' w tej gałęzi jest najlepszym wyborem. Kategoria 'Dekoracje > Mocowania ścienne' (sugerowana we wskazówce) jest mniej odpowiednia, ponieważ odbojnik pełni funkcję ochronną, a nie dekoracyjną."
+    },
+    {
+        "ID_Produktu": "567405301",
+        "Nazwa_Produktu": "Pudełko cukiernicze 320x180x80mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pudełko cukiernicze', które jest opakowaniem przeznaczonym do pakowania i przechowywania ciastek, używanym w cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna, ponieważ odnosi się do pojemników używanych w branży gastronomicznej, co idealnie pasuje do opisu produktu i jego zastosowania. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i nie oddaje specjalistycznego charakteru produktu."
+    },
+    {
+        "ID_Produktu": "567405307",
+        "Nazwa_Produktu": "Pudełko cukiernicze 360x220x50mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pudełko cukiernicze' przeznaczone do pakowania ciastek i używane w cukierniach, co wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest znacznie bardziej precyzyjna i semantycznie dopasowana niż ogólna kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka', która jest zbyt szeroka i sugeruje zastosowanie domowe."
+    },
+    {
+        "ID_Produktu": "567405313",
+        "Nazwa_Produktu": "Pudełko cukiernicze 185x140x80mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne pudełko cukiernicze przeznaczone do pakowania ciastek, używane w cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje komercyjny i gastronomiczny charakter produktu, będąc bardziej precyzyjną niż ogólna kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka'."
+    },
+    {
+        "ID_Produktu": "567405320",
+        "Nazwa_Produktu": "Pudełko cukiernicze 250x180x80mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pudełko cukiernicze' przeznaczone do pakowania ciastek i użytku w 'cukierniach'. Jest to zatem specjalistyczne opakowanie wykorzystywane w branży gastronomicznej. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest znacznie bardziej precyzyjna i semantycznie dopasowana niż ogólne 'Dom i Ogród > Wyposażenie wnętrz > Pudełka', które sugeruje zastosowanie domowe."
+    },
+    {
+        "ID_Produktu": "567405325",
+        "Nazwa_Produktu": "Pudełko cukiernicze 350x140x40mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'pudełko cukiernicze' przeznaczone do pakowania ciastek, używane 'w cukierniach'. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna, odzwierciedlając zarówno przeznaczenie (pojemnik na żywność), jak i kontekst użytkowania (gastronomia/biznes), co jest lepsze niż ogólne 'Pudełka' czy 'Pojemniki i przechowywanie żywności' sugerujące użytek domowy."
+    },
+    {
+        "ID_Produktu": "567405331",
+        "Nazwa_Produktu": "Pudełko cukiernicze 350x160x70mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pudełka cukiernicze przeznaczone do pakowania ciastek i faworków, używane w cukierniach. Kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia' jest najbardziej precyzyjna i najlepiej oddaje komercyjne zastosowanie produktu, w przeciwieństwie do ogólnej kategorii 'Pudełka' w 'Dom i Ogród', która sugeruje zastosowanie domowe."
     }
 ]
