@@ -5885,7 +5885,7 @@
         "Finalne_ID_AI": "Brak",
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
-        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
     },
     {
         "ID_Produktu": "567375724",
@@ -5895,7 +5895,7 @@
         "Finalne_ID_AI": "Brak",
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
-        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
     },
     {
         "ID_Produktu": "567375733",
@@ -5905,7 +5905,7 @@
         "Finalne_ID_AI": "Brak",
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
-        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
     },
     {
         "ID_Produktu": "567375740",
@@ -5915,7 +5915,7 @@
         "Finalne_ID_AI": "Brak",
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
-        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
     },
     {
         "ID_Produktu": "567375747",
@@ -5925,46 +5925,6 @@
         "Finalne_ID_AI": "Brak",
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
-        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
-    },
-    {
-        "ID_Produktu": "567375760",
-        "Nazwa_Produktu": "Cena na butelkę laminowana 1szt",
-        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony",
-        "Finalna_Sciezka_AI": "Brak ID od AI",
-        "Finalne_ID_AI": "Brak",
-        "Czy_Zmieniono_Kategorie": "NIE",
-        "Ocena_Pewnosci_AI": "0%",
-        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
-    },
-    {
-        "ID_Produktu": "567375766",
-        "Nazwa_Produktu": "Woreczki do żywności 26x50 cm 20mic 100szt",
-        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
-        "Finalna_Sciezka_AI": "Brak ID od AI",
-        "Finalne_ID_AI": "Brak",
-        "Czy_Zmieniono_Kategorie": "NIE",
-        "Ocena_Pewnosci_AI": "0%",
-        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
-    },
-    {
-        "ID_Produktu": "567375777",
-        "Nazwa_Produktu": "Dozownik do serwetek Ellis Napkins N4",
-        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Serwety i serwetki",
-        "Finalna_Sciezka_AI": "Brak ID od AI",
-        "Finalne_ID_AI": "Brak",
-        "Czy_Zmieniono_Kategorie": "NIE",
-        "Ocena_Pewnosci_AI": "0%",
-        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
-    },
-    {
-        "ID_Produktu": "567375795",
-        "Nazwa_Produktu": "Folia STRETCH 50 cm bezbarwna 2,5kg",
-        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Pozostałe",
-        "Finalna_Sciezka_AI": "Brak ID od AI",
-        "Finalne_ID_AI": "Brak",
-        "Czy_Zmieniono_Kategorie": "NIE",
-        "Ocena_Pewnosci_AI": "0%",
-        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
     }
 ]
