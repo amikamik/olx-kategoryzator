@@ -6908,5 +6908,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł produktu jasno wskazuje na 'stolik kawowy' i 'ławę', które doskonale pasują do kategorii 'Dom i Ogród > Meble > Stoliki kawowe i ławy'. Jest to kategoria-liść i jest semantycznie najlepiej dopasowana."
+    },
+    {
+        "ID_Produktu": "567405819",
+        "Nazwa_Produktu": "Gumki do Włosów Kolorowe 30szt Spinki 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Ubranka dla dziewczynek > Akcesoria > Akcesoria do włosów",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Pozostałe",
+        "Finalne_ID_AI": 2733,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw składający się zarówno z gumek, jak i spinek do włosów. Chociaż istnieją osobne kategorie-liście dla 'Gumek' (ID 2725) i 'Spinek i wsuwek' (ID 2731) w gałęzi 'Moda > Akcesoria > Akcesoria do włosów', brak jest specyficznej kategorii dla zestawów zawierających oba te typy akcesoriów. Wybór kategorii 'Pozostałe' w tej samej gałęzi ('Moda > Akcesoria > Akcesoria do włosów > Pozostałe') jest najbardziej adekwatny, ponieważ poprawnie klasyfikuje produkt jako akcesoria do włosów bez faworyzowania jednej części zestawu, co byłoby mylące dla kupującego."
+    },
+    {
+        "ID_Produktu": "567405829",
+        "Nazwa_Produktu": "Patyczki do szaszłyków 25cm 250szt Papstar",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Patyczki do szaszłyków są akcesorium bezpośrednio związanym z grillowaniem i przygotowywaniem szaszłyków, co idealnie pasuje do kategorii 'Grill'. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Przybory kuchenne' czy 'Pozostałe'."
     }
 ]
