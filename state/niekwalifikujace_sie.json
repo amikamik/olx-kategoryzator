@@ -7318,5 +7318,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Kapelusz słomkowy', co idealnie pasuje do kategorii 'Moda > Czapki i kapelusze > Kapelusze'."
+    },
+    {
+        "ID_Produktu": "567408344",
+        "Nazwa_Produktu": "Sekator nożycowy ręczny nożyce do przycinania",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalne_ID_AI": 2880,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na sekator/nożyce do przycinania, co idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory'."
+    },
+    {
+        "ID_Produktu": "567408370",
+        "Nazwa_Produktu": "Torebka Etui na Telefon na Ramię Damska Skórzana",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby na ramię",
+        "Finalne_ID_AI": 2758,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Torebka Etui na Telefon na Ramię Damska Skórzana' i wielokrotnie w opisie jest mowa o tym, że jest to 'torba na ramię' lub 'torebka'. Kategoria 'Moda > Torby i torebki > Torby na ramię' (ID 2758) jest najbardziej adekwatna, ponieważ produkt jest torebką przeznaczoną do noszenia na ramieniu, pomimo że jej głównym przeznaczeniem jest przechowywanie telefonu."
     }
 ]
