@@ -6107,5 +6107,93 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567408992",
+        "Nazwa_Produktu": "Lodziarnia Sklep z Akcesoriami Zabawka dla Dzieci",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalne_ID_AI": 3083,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw do zabawy w lodziarnię, który w opisie jest wyraźnie określony jako 'zabawka edukacyjna' i podkreślono jego funkcje w nauce matematyki, logiki oraz koordynacji. Kategoria 'Zabawki edukacyjne' najlepiej oddaje główny cel i charakter produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567408996",
+        "Nazwa_Produktu": "Dinozaur Pluszak Miękka Przytulanka dla Dzieci",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Maskotki",
+        "Finalne_ID_AI": 3077,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pluszowa zabawka, określona w tytule jako 'Pluszak' i 'Przytulanka'. Kategoria 'Maskotki' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem dla tego typu przedmiotu w drzewie kategorii.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567409001",
+        "Nazwa_Produktu": "Krówka Pluszak Miękka Przytulanka Dla Dzieci",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Maskotki",
+        "Finalne_ID_AI": 3077,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pluszowa przytulanka w kształcie krówki, przeznaczona dla dzieci. Kategoria 'Dla Dzieci > Zabawki > Maskotki' jest najlepiej dopasowana, ponieważ maskotka to synonim pluszowej zabawki/przytulanki.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567409005",
+        "Nazwa_Produktu": "Lalka Laleczka Sunny Day Do Czesania z Akcesoriami",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Lalki i akcesoria > Lalki",
+        "Finalne_ID_AI": 3091,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lalka z akcesoriami do czesania, co idealnie pasuje do kategorii 'Dla Dzieci > Zabawki > Lalki i akcesoria > Lalki'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567409011",
+        "Nazwa_Produktu": "Interaktywna Pluszowa Świnka Przytulanka chodzi rusza się",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Maskotki",
+        "Finalne_ID_AI": 3077,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to interaktywna, pluszowa świnka, która idealnie pasuje do kategorii 'Maskotki' w dziale 'Zabawki' dla dzieci. Opis wyraźnie wskazuje na cechy typowe dla pluszowej przytulanki.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567409014",
+        "Nazwa_Produktu": "Łyżka Kuchenna Wielofunkcyjna Cedzakowa Tarka 2szt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjna łyżka kuchenna pełniąca funkcje cedzaka i tarki. Jest to ogólny przybór kuchenny, który najlepiej pasuje do kategorii 'Pozostałe' w gałęzi 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne', ponieważ brak jest bardziej szczegółowej kategorii dla łyżek lub tarek.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567409019",
+        "Nazwa_Produktu": "Sakwa Rowerowa na Kierownicę z Odblaskiem Szary",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
