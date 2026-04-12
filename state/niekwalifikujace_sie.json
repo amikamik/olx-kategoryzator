@@ -7278,5 +7278,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na urządzenie do nawadniania ogrodu ('Zraszacz Ogrodowy Pistolet Do Węża Ogrodowego', 'wysokociśnieniowy pistolet do węża ogrodowego', 'nawadniania', 'podlewania ogrodu'). Kategoria 'Dom i Ogród > Ogród > Nawadnianie' jest idealnie dopasowana semantycznie i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567408007",
+        "Nazwa_Produktu": "Pistolet Dysza zraszająca do węża ogrodowego",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest dyszą zraszającą do węża ogrodowego, której głównym zastosowaniem jest nawadnianie. Kategoria 'Dom i Ogród > Ogród > Nawadnianie' jest najbardziej szczegółowa i semantycznie dopasowana do funkcji produktu, zgodnie z opisem 'nawadniania trawnika, ogrodnictwa'. Jest to bardziej precyzyjna kategoria niż ogólny 'Osprzęt do narzędzi'."
     }
 ]
