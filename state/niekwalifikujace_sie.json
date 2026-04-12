@@ -7048,5 +7048,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to mata ochronna przeznaczona do szuflad i szafek, chroniąca ich wnętrze. Jest to funkcjonalny dodatek do mebli, idealnie pasujący do kategorii 'Akcesoria meblowe'. Kategoria sugerowana w podpowiedzi ('Podkładki i maty' w gałęzi 'Obrusy i serwetki') odnosi się raczej do akcesoriów stołowych, co nie oddaje przeznaczenia tej maty."
+    },
+    {
+        "ID_Produktu": "567406575",
+        "Nazwa_Produktu": "Organizer do szafy Pudełko tekstylne 29x29 Szare",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Pojemniki na zabawki",
+        "Finalne_ID_AI": 4726,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tekstylne pudełko-organizer przeznaczone do przechowywania przedmiotów dla dzieci, takich jak ubranka czy zabawki. Kategoria 'Dom i Ogród > Meble > Meble dla dzieci > Pojemniki na zabawki' jest najbardziej szczegółowa i semantycznie najlepiej dopasowana do opisu i przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "567406628",
+        "Nazwa_Produktu": "Lampka biurkowa LED USB z przybornikiem Ściemniana",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Lampka biurkowa', co idealnie pasuje do kategorii-liścia 'Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe'."
     }
 ]

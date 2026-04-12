@@ -6014,5 +6014,28 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567406581",
+        "Nazwa_Produktu": "Sznurek Jutowy Brązowy Konopny 50m Zestaw 5szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567406597",
+        "Nazwa_Produktu": "Etui Obudowa Case Pokrowiec na Tablet iPad",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Etui",
+        "Finalna_Sciezka_AI": "Elektronika > Komputery > Tablety > Akcesoria",
+        "Finalne_ID_AI": 2192,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to etui/pokrowiec przeznaczone dla tabletu (iPad). Kategoria 'Elektronika > Komputery > Tablety > Akcesoria' jest najlepiej dopasowana, ponieważ etui jest akcesorium do tabletu, a iPad to tablet.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
     }
 ]
