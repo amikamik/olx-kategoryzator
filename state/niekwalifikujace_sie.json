@@ -8048,5 +8048,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'portfel'. Kategoria 'Moda > Akcesoria > Portfele' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567411600",
+        "Nazwa_Produktu": "Łata Samoprzylepna Zestaw do naprawy Basenu 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw samoprzylepnych łatek do naprawy basenów i materacy. Baseny znajdują się w kategorii 'Dom i Ogród > Ogród > Baseny'. Ponieważ nie ma bardziej szczegółowej kategorii dla akcesoriów lub zestawów naprawczych do basenów, 'Dom i Ogród > Ogród > Pozostałe Ogród' jest najlepiej dopasowaną kategorią dla tego typu produktu, który jest przeznaczony do użytku w ogrodzie/na zewnątrz w kontekście basenu."
+    },
+    {
+        "ID_Produktu": "567411606",
+        "Nazwa_Produktu": "Rękawiczki damskie do ekranów czarne uniwersalne",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Rękawiczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Rękawiczki",
+        "Finalne_ID_AI": 2722,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rękawiczki damskie, a kategoria 'Moda > Akcesoria > Rękawiczki' jest bezpośrednim i najlepiej pasującym liściem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "567411621",
+        "Nazwa_Produktu": "Okulary przeciwsłoneczne UV polaryzacyjne czarne",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na okulary przeciwsłoneczne, a kategoria 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne' jest idealnym i najbardziej szczegółowym dopasowaniem."
     }
 ]
