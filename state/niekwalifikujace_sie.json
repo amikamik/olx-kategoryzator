@@ -8018,5 +8018,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest opisany jako 'szalik', 'chusta', 'pashmina/stuła' i 'duża, długa i szeroka chusta', która może służyć jako 'narzuta' na chłodne wieczory. Te określenia jednoznacznie wskazują na kategorię 'Szale' w akcesoriach, która najlepiej oddaje charakter produktu jako dużego, ciepłego okrycia/dodatku."
+    },
+    {
+        "ID_Produktu": "567411578",
+        "Nazwa_Produktu": "Torebka na ramie regulowany pasek saszeta poręczna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby na ramię",
+        "Finalne_ID_AI": 2758,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wielokrotnie wskazują na torebkę noszoną na ramieniu lub jako crossbody. Opis zawiera frazy takie jak 'Torebka na ramie', 'torba na ramię dla kobiet', 'torba crossbody', 'Mała torba na ramię'. Kategoria 'Moda > Torby i torebki > Torby na ramię' (ID 2758) jest idealnie dopasowana do charakterystyki produktu i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567411580",
+        "Nazwa_Produktu": "Torebka na ramie regulowany pasek poręczna saszeta",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Listonoszki",
+        "Finalne_ID_AI": 2753,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'torebka na ramie' i 'torba crossbody', którą można nosić na ramieniu, klatce piersiowej lub plecach. Podane wymiary wskazują na niewielki rozmiar. 'Listonoszki' to kategoria dla toreb noszonych na ramieniu lub przez ciało (crossbody), często o mniejszych rozmiarach, co jest bardziej szczegółowym i precyzyjnym dopasowaniem niż ogólna kategoria 'Torby na ramię'."
+    },
+    {
+        "ID_Produktu": "567411591",
+        "Nazwa_Produktu": "Portfel damski ze skóry PU portmonetka z klapką",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'portfel'. Kategoria 'Moda > Akcesoria > Portfele' jest idealnie dopasowana i jest kategorią-liściem."
     }
 ]

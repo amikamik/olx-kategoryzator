@@ -3405,5 +3405,63 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567411596",
+        "Nazwa_Produktu": "Zaciski Akumulatora Klipsy do Kabla Rozruchowego",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zaciski akumulatora do kabla rozruchowego, które są elementem osprzętu elektrycznego. Najlepiej pasującą kategorią jest 'Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny', ponieważ zaciski służą do podłączania w ramach różnych projektów elektrycznych i instalacji (np. do akumulatorów, paneli słonecznych, ogrodzeń elektrycznych). Sugerowana kategoria 'Narzędzia ręczne' jest zbyt ogólna i nie oddaje elektrycznego charakteru produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zaciski akumulatora klipsy do kabla rozruchowego",
+                "description": "Zaciski Akumulatora Klipsy do Kabla Rozruchowego Dobra przewodność Przewody zacisków krokodylkowych są wykonane z czystej miedzi, która ma dobrą przewodność dla optymalnej wydajności. Izolowany uchwyt jest gumowy, aby zapewnić pewny chwyt podczas użytkowania, a kolory pomagają zidentyfikować ładunki dodatnie i ujemne Doskonała konstrukcja Te wytrzymałe zaciski są łatwe do otwierania, sprężynowe szczęki trzymają mocno, sprężyny na zaciskach mają dobry, mocny zacisk, a solidne szczęki krokodylkowe nie rozłączają się podczas zaciskania. Skuteczne alternatywy Mogą skutecznie zastąpić ładowarki akumulatorów garażowych i podobne urządzenia, takie jak panele słoneczne, ogrodzenia elektryczne, pojazdy kempingowe, ciężarówki, łodzie, kosiarki do trawy itp. Szerokie zastosowanie Szeroko stosowany w różnych projektach elektrycznych, tester napięcia, odpowiedni do wszystkich akumulatorów samochodowych i innych ciężarówek, łatwy w użyciu, przenośny, lekki, bezpieczny i niezawodny. Stan: Nowy\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 73.36,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/226fc3a0fef4b13f86a9fb5d06889701.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/b0e16654696b325958a1b115b4f1354a.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/876c604492b51ad1823d60b4c76dea48.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
