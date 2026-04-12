@@ -7888,5 +7888,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują na przenośny głośnik Bluetooth, który jest idealny do użytku w podróży i na zewnątrz. Kategoria 'Elektronika > Sprzęt audio > Głośniki i kolumny > Głośniki przenośne' jest najbardziej precyzyjnym i najlepiej dopasowanym wyborem."
+    },
+    {
+        "ID_Produktu": "567411089",
+        "Nazwa_Produktu": "Doniczki do wysiewu nasion tekturowe 61szt + tacki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Doniczki i osłonki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Donice",
+        "Finalne_ID_AI": 1632,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'doniczki do wysiewu nasion' i 'tacki' przeznaczone do 'ogrodnictwa'. Kategoria 'Dom i Ogród > Ogród > Donice' jest najbardziej precyzyjnym i semantycznie dopasowanym miejscem dla tego typu artykułów ogrodniczych. Sugerowana kategoria 'Doniczki i osłonki' pod 'Wyposażenie wnętrz > Dekoracje' byłaby trafna, gdyby produkt był głównie dekoracyjny, natomiast te doniczki służą do funkcjonalnego wysiewu i hodowli sadzonek, co bardziej pasuje do ogólnej kategorii 'Donice' w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "567411091",
+        "Nazwa_Produktu": "Zbieraczka do owoców ogrodowych wysięgnik 160cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'zbieraczka do owoców ogrodowych', co jednoznacznie wskazuje na jego przeznaczenie do ogrodu. Najbardziej szczegółową gałęzią dla tego typu narzędzia jest 'Dom i Ogród > Ogród > Narzędzia ogrodowe'. Ponieważ nie ma bardziej precyzyjnej kategorii-liścia (np. 'Zbieraczki do owoców') w tej gałęzi, wybór 'Pozostałe' (ID 2886) jest najbardziej odpowiedni."
+    },
+    {
+        "ID_Produktu": "567411232",
+        "Nazwa_Produktu": "Łańcuch świetlny LED 4m w ozdonej taśmie 4 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Girlandy",
+        "Finalne_ID_AI": 3873,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'łańcuch świetlny LED', co jest synonimem 'girlandy świetlnej'. Opis wyraźnie wskazuje na możliwość użycia zarówno w pomieszczeniach, jak i na zewnątrz ('w ogrodzie lub na zewnątrz', 'IP44'). Kategoria 'Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Girlandy' jest najbardziej szczegółowa i trafna, obejmując zarówno rodzaj produktu, jak i jego przeznaczenie zewnętrzne. Jest to lepszy wybór niż ogólne 'Girlandy świetlne' (3847) ze względu na podkreślone zastosowanie zewnętrzne, a także bardziej precyzyjny niż 'Ozdoby okolicznościowe', gdyż produkt jest przede wszystkim źródłem światła."
+    },
+    {
+        "ID_Produktu": "567411257",
+        "Nazwa_Produktu": "Szczotka do włosów drewniana bez ciągnięcia",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Pozostałe",
+        "Finalne_ID_AI": 2733,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szczotka do włosów, która jest akcesorium do pielęgnacji włosów. Najbardziej odpowiednia kategoria to 'Moda > Akcesoria > Akcesoria do włosów', a ponieważ nie ma bardziej szczegółowej kategorii dla szczotek, wybieram kategorię-liść 'Pozostałe' w tej gałęzi. Sugerowana kategoria 'Dla Dzieci > Zabawki > Pozostałe' jest nieodpowiednia, gdyż szczotka do włosów nie jest zabawką."
     }
 ]
