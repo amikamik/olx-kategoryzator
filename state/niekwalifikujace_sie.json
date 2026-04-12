@@ -7608,5 +7608,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to torby papierowe sprzedawane w dużej ilości (250 sztuk), co sugeruje zastosowanie komercyjne lub biurowe, a nie indywidualne domowe. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' najlepiej oddaje przeznaczenie produktu jako zaopatrzenia dla firm. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy' jest mniej odpowiednia ze względu na ilość i kontekst 'wyposażenia wnętrz', które zazwyczaj odnosi się do użytku domowego, a nie hurtowego."
+    },
+    {
+        "ID_Produktu": "567409907",
+        "Nazwa_Produktu": "Pojemnik aluminiowy trójdzielny z pokrywką 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to aluminiowe pojemniki w dużej ilości (100 szt.), co wskazuje na zastosowanie komercyjne, a nie typowo domowe. Nazwa dostawcy 'Odra Pak' również sugeruje kontekst profesjonalny. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i trafnym wyborem dla tego rodzaju produktu i jego ilości, lepiej oddając jego przeznaczenie niż ogólna kategoria do użytku domowego, nawet jeśli początkowa sugestia wskazywała na inną gałąź."
+    },
+    {
+        "ID_Produktu": "567409917",
+        "Nazwa_Produktu": "Tacka pod ciasto 54x38cm złota 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tacki pod ciasto przeznaczone do eksponowania i pakowania produktów spożywczych, z wyraźnym wskazaniem na zastosowanie w gastronomii (restauracje, bary, food trucki). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i semantycznie dopasowana do opisu produktu."
     }
 ]
