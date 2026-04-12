@@ -7168,5 +7168,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to sznurek jutowy, opisany jako narzędzie do rękodzieł, prac artystycznych, ale także wyraźnie do 'majsterkowania ogrodowego' i 'wiązania roślin'. Chociaż ma zastosowania dekoracyjne i artystyczne, kategoria 'Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Pozostałe' jest przeznaczona raczej dla gotowych elementów dekoracyjnych, a nie materiałów. Kategoria 'Antyki i Kolekcje > Rękodzieło' nie posiada podkategorii dla surowców do rękodzieła. Biorąc pod uwagę wyraźne zastosowania ogrodnicze, kategoria 'Dom i Ogród > Ogród > Pozostałe Ogród' jest najlepiej dopasowaną kategorią-liściem dla tego wielofunkcyjnego materiału, który znajduje szerokie zastosowanie w pracach ogrodowych i ogólnym majsterkowaniu związanym z ogrodem."
+    },
+    {
+        "ID_Produktu": "567407368",
+        "Nazwa_Produktu": "Pojemnik Organizer Plastikowy na biurko 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plastikowy organizer na biurko, przeznaczony do przechowywania artykułów papierniczych i idealny do biura, co doskonale pasuje do kategorii 'Akcesoria i materiały biurowe' w dziale 'Firma i Przemysł > Biuro'. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Pudełka'."
+    },
+    {
+        "ID_Produktu": "567407371",
+        "Nazwa_Produktu": "Zalotka do Rzęs Podkręcająca Metalowa czarna",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Zalotka do rzęs jest akcesorium służącym do makijażu i stylizacji rzęs, co plasuje ją w szerokiej kategorii akcesoriów osobistych. Ponieważ w dostępnym drzewie kategorii nie ma bardziej szczegółowej podkategorii dedykowanej narzędziom do makijażu lub pielęgnacji rzęs, najbardziej odpowiednią kategorią-liściem jest 'Moda > Akcesoria > Pozostałe'. Kategoria 'Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria' została zignorowana, ponieważ jest semantycznie niezwiązana z produktem."
     }
 ]
