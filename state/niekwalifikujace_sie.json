@@ -7798,5 +7798,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to szczotka do zamiatania, a kategoria 'Miotły i szczotki' jest najbardziej szczegółowym i odpowiednim miejscem dla tego typu narzędzi w ramach drzewa kategorii 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "567410863",
+        "Nazwa_Produktu": "Saszetka nerka biodrowa sportowa wodoodporna czerń",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Nerki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Nerki",
+        "Finalne_ID_AI": 2754,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'nerkę biodrową sportową', a opis potwierdza jej przeznaczenie jako 'pas do biegania' i 'saszetka sportowa'. Kategoria 'Moda > Torby i torebki > Nerki' jest idealnie dopasowana."
+    },
+    {
+        "ID_Produktu": "567410870",
+        "Nazwa_Produktu": "Saszetka nerka biodrowa sportowa wodoodporna szary",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Nerki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Nerki",
+        "Finalne_ID_AI": 2754,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Saszetka nerka biodrowa sportowa wodoodporna' oraz 'pas do biegania'. Kategoria 'Moda > Torby i torebki > Nerki' (ID 2754) jest idealnym i najbardziej szczegółowym dopasowaniem do tego opisu."
     }
 ]
