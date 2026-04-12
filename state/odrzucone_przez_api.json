@@ -3112,5 +3112,61 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567409637",
+        "Nazwa_Produktu": "Lina Nylonowa Karabińczyk Mocowanie Hamak 1m",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Hamaki i leżaki",
+        "Finalne_ID_AI": 3989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lina z karabińczykiem przeznaczona głównie do mocowania hamaków i huśtawek. Kategoria 'Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Hamaki i leżaki' jest najbardziej szczegółowa i trafnie oddaje przeznaczenie produktu, ponieważ hamaki i huśtawki są ściśle związane z tą kategorią wyposażenia turystycznego i ogrodowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Lina nylonowa karabińczyk mocowanie hamak 1m",
+                "description": "Produkt fabrycznie nowy, nieużywany w oryginalnym opakowaniu. Lina Linka Nylonowa z Karabińczykiem Mocowanie Hamaka Huśtawki 1m 12mm Ten model jest wykonany z plecionej liny nylonowej o średnicy 12 mm, bardzo mocnej i ultralekkiej, opaski linowe są najpierw obrabiane przez doskonałe zszycie doczołowe, a następnie profesjonalną obróbkę obkurczającą Hak zabezpieczający wykonany jest z grubej stali nierdzewnej 304, jest już zamontowany i obraca się o 360, dopuszczalna waga: 450 kg. Wykonany z nylonu o dużej gęstości, ma zalety: dobrą odporność na ścieranie, wysoką wytrzymałość, długą żywotność, niewielką wagę, łatwy do przenoszenia, szybkoschnący, elastyczny i łatwy do wiązania. Doskonałe dopasowanie do środowiska zewnętrznego, jeden koniec jest przyszyty z haczykiem, co ułatwia przymocowanie do sprzętu oraz jest wygodniejsze i praktyczne. Nadaje się do huśtawek, hamaków zewnętrznych, jogi powietrznej, krzeseł wiszących, huśtawek ogrodowych, huśtawek oponowych, huśtawek tarczowych, huśtawek pasowych, huśtawek hamakowych, klasycznych huśtawek na drzewach, huśtawek dla dzieci i huśtawek na ganku, huśtawek dla dzieci, huśtawek wewnętrznych i gniazd dla dzieci, wiszących siedzenia itp.\n\n[DEAL-BLB2B]",
+                "category_id": 3989,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.87,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/7d2d604abc546b1363a38e6aee484120.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/79e8a0c186d239c14299e789cda0a068.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/3181887091660fd627c9e8b9bee29dd2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Szerokość zdjęcia musi mieć conajmniej 100 px"
+                }
+            }
+        }
     }
 ]
