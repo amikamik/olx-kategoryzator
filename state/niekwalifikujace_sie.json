@@ -7738,5 +7738,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to 'wieszak ścienny z haczykami', przeznaczony do wieszania ubrań i innych przedmiotów. Jest to element wyposażenia wnętrz, który najlepiej pasuje do kategorii 'Meble > Wieszaki'. Kategoria 'Mocowania ścienne' jest zbyt ogólna i znajduje się w gałęzi 'Dekoracje', podczas gdy wieszak pełni przede wszystkim funkcję użytkową, a nie tylko dekoracyjną."
+    },
+    {
+        "ID_Produktu": "567410630",
+        "Nazwa_Produktu": "Nakładka na mopa Duo 40cm frędzle bawełna Perfecto",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Części do narzędzi",
+        "Finalne_ID_AI": 4714,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'nakładka na mopa', która jest częścią narzędzia (mopa). Kategoria 'Dom i Ogród > Narzędzia > Części do narzędzi' jest najbardziej precyzyjnym dopasowaniem, ponieważ mopy są narzędziami, a nakładka jest ich częścią. Sugerowana kategoria z podpowiedzi OLX jest błędna semantycznie dla tego produktu."
     }
 ]
