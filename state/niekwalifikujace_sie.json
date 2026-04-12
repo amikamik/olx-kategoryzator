@@ -7468,5 +7468,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Kosmetyczkę Damską'. Kategoria 'Moda > Akcesoria > Kosmetyczki' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567409198",
+        "Nazwa_Produktu": "Haczyki Wieszaki Wielofunkcyjne Czarne 100Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw 100 małych, plastikowych haczyków, które służą do organizacji i zabezpieczania przedmiotów na półkach. Mimo słowa 'Wieszaki' w tytule, opis ('plastikowych haczyków', 'zabezpieczanie półek') wskazuje, że nie są to tradycyjne wieszaki na ubrania (meble), lecz raczej drobne akcesoria wspomagające organizację, które mogą być używane w kontekście mebli (np. półek). Kategoria 'Akcesoria meblowe' (1950) jest bardziej precyzyjna dla tego typu drobnych elementów niż ogólna kategoria 'Wieszaki' (1948), która zazwyczaj odnosi się do mebli lub większych elementów do wieszania odzieży."
+    },
+    {
+        "ID_Produktu": "567409205",
+        "Nazwa_Produktu": "Błotnik Tylny do Skutera NMAX 155 16-18",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części motocyklowe",
+        "Finalne_ID_AI": 1335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to błotnik, który jest częścią zamienną do skutera. Skutery należą do kategorii motocykli, a błotnik jest częścią motocyklową. Kategoria 'Części motocyklowe' jest najbardziej precyzyjna i jest kategorią-liściem."
     }
 ]
