@@ -7088,5 +7088,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to 'torba na zakupy' typu 'shopper', a kategoria 'Moda > Torby i torebki > Shopperki' idealnie odpowiada temu określeniu."
+    },
+    {
+        "ID_Produktu": "567406884",
+        "Nazwa_Produktu": "Organizer przybornik na biurko metalowy szufladka",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to metalowy organizer na biurko przeznaczony do przechowywania artykułów biurowych. Kategoria 'Akcesoria i materiały biurowe' jest najbardziej precyzyjna i bezpośrednio odpowiada funkcji oraz przeznaczeniu produktu."
+    },
+    {
+        "ID_Produktu": "567406905",
+        "Nazwa_Produktu": "Haki haczyki wieszaki na drzwi srebrne 12szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw haczyków/wieszaków przeznaczonych do zawieszania na drzwiach, szafach itp., z szerokim zastosowaniem w różnych pomieszczeniach (łazienka, kuchnia, biuro). Kategoria 'Dom i Ogród > Meble > Wieszaki' jest najbardziej ogólna i trafna dla tego typu akcesoriów, obejmując ich funkcję niezależnie od konkretnego pomieszczenia. Kategoria sugerowana ('Mocowania ścienne') jest mniej precyzyjna, ponieważ produkt jest przeznaczony na drzwi, a niekoniecznie na ścianę. Kategoria 'Wieszaki łazienkowe' jest zbyt wąska, biorąc pod uwagę opis produktu."
     }
 ]
