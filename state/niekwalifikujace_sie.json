@@ -7978,5 +7978,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to opakowanie (koperta) przeznaczone do serwowania kebabu, co jednoznacznie wskazuje na zastosowanie w gastronomii. Kategoria 'Pojemniki gastronomiczne' najlepiej oddaje naturę produktu, który służy jako jednorazowy pojemnik na żywność w placówkach gastronomicznych. Jest to bardziej szczegółowa kategoria niż ogólne 'Pozostałe' w tej samej gałęzi i lepiej pasuje do komercyjnego charakteru produktu niż kategorie z gałęzi 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "567411470",
+        "Nazwa_Produktu": "Podkładka na biurko PU dwustronna 40x60cm zieleń",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podkładka na biurko, która jest akcesorium biurowym, służącym do ochrony i estetyki miejsca pracy. Opis wyraźnie wskazuje na jej przeznaczenie 'do użytku w biurze lub w domu', co idealnie pasuje do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'. Kategoria ta jest najbardziej specyficzna i adekwatna dla tego typu przedmiotu."
+    },
+    {
+        "ID_Produktu": "567411490",
+        "Nazwa_Produktu": "Torba papierowa 305x170x340 brąz 100szt EnjoyBeEco",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torba papierowa sprzedawana w opakowaniu 100 sztuk. Tego typu artykuły są klasyfikowane jako materiały biurowe lub opakowaniowe, przeznaczone do użytku w firmach. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najlepiej dopasowana, ponieważ obejmuje ogólne materiały eksploatacyjne dla biznesu."
+    },
+    {
+        "ID_Produktu": "567411501",
+        "Nazwa_Produktu": "Torebka na ramię i z uchwytem 18x20cm perłowy róż",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby na ramię",
+        "Finalne_ID_AI": 2758,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'torebkę na ramię' oraz 'torebkę crossbody', co doskonale pasuje do kategorii 'Moda > Torby i torebki > Torby na ramię'."
+    },
+    {
+        "ID_Produktu": "567411507",
+        "Nazwa_Produktu": "Narzuta imitująca kaszmir ciepła z frędzlami",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > Kardigany",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Szale i chusty > Szale",
+        "Finalne_ID_AI": 2730,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'szalik', 'chusta', 'pashmina/stuła' i 'duża, długa i szeroka chusta', która może służyć jako 'narzuta' na chłodne wieczory. Te określenia jednoznacznie wskazują na kategorię 'Szale' w akcesoriach, która najlepiej oddaje charakter produktu jako dużego, ciepłego okrycia/dodatku."
     }
 ]
