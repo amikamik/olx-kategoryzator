@@ -6245,5 +6245,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "75%",
         "Uzasadnienie_AI": "Produkt to sznurek makramowy, który jest półproduktem do różnego rodzaju robótek ręcznych. Spośród dostępnych kategorii w gałęzi 'Antyki i Kolekcje > Rękodzieło', 'Biżuteria - półprodukty' jest jedyną, która odnosi się do materiałów/półproduktów, a nie gotowych wyrobów ('Produkty rękodzielnicze') ani innej techniki ('Szycie i filcowanie'). Choć makrama ma szersze zastosowanie niż tylko biżuteria, jest to najbardziej semantycznie dopasowana kategoria dla surowca do rękodzieła, biorąc pod uwagę brak bardziej ogólnej kategorii dla półproduktów rękodzielniczych."
+    },
+    {
+        "ID_Produktu": "567410117",
+        "Nazwa_Produktu": "Czyściwo włókninowe 32cm 100mb 256listków Perfecto",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]
