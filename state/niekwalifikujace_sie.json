@@ -7338,5 +7338,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest opisany jako 'Torebka Etui na Telefon na Ramię Damska Skórzana' i wielokrotnie w opisie jest mowa o tym, że jest to 'torba na ramię' lub 'torebka'. Kategoria 'Moda > Torby i torebki > Torby na ramię' (ID 2758) jest najbardziej adekwatna, ponieważ produkt jest torebką przeznaczoną do noszenia na ramieniu, pomimo że jej głównym przeznaczeniem jest przechowywanie telefonu."
+    },
+    {
+        "ID_Produktu": "567408420",
+        "Nazwa_Produktu": "Regał łazienkowy uniwersalny regał biały metalowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Regały",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Regały",
+        "Finalne_ID_AI": 720,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują, że jest to 'regał', który pasuje do kategorii 'Dom i Ogród > Meble > Regały'. Mimo że jest przeznaczony do łazienki, jego podstawową funkcją i konstrukcją jest regał, a kategoria 'Regały' jest najbardziej trafna i szczegółowa dla tego typu mebla w podanym drzewie kategorii. Kategoria 'Półki łazienkowe' (2061) jest zbyt ogólna i zazwyczaj odnosi się do mniejszych, często wiszących półek, a nie do trójpoziomowego, wolnostojącego regału."
+    },
+    {
+        "ID_Produktu": "567408431",
+        "Nazwa_Produktu": "Figurka Solarna w Kształcie Serca Ptaki Dekoracja",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest solarną figurką przeznaczoną do dekoracji ogrodu, co jest wielokrotnie podkreślone w tytule i opisie (\"Figurka Solarna\", \"Dekoracja Ogrodowa\", \"ozdoby ogrodowe\"). Funkcja oświetlenia jest dodatkowym atrybutem tej dekoracji. Kategoria 'Dekoracje ogrodowe' (1631) jest najbardziej precyzyjna i najlepiej oddaje charakter produktu."
     }
 ]
