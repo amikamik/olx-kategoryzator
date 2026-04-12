@@ -7508,5 +7508,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to taśma uszczelniająca przeznaczona do izolacji drzwi i okien, co bezpośrednio wskazuje na jej zastosowanie w budownictwie w ramach izolacji. Kategoria 'Dom i Ogród > Budowa > Izolacje > Pozostałe' jest najbardziej odpowiednia, ponieważ jest to kategoria-liść i obejmuje materiały izolacyjne, które nie są wyszczególnione w bardziej szczegółowych podkategoriach izolacji (jak styropian czy wełna mineralna)."
+    },
+    {
+        "ID_Produktu": "567409309",
+        "Nazwa_Produktu": "Rolka do kasy fiskalnej 57/20 termiczna 10szt Apak",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna do kas fiskalnych i terminali płatniczych. Kategoria 'Firma i Przemysł > Sklepy i magazyny' doskonale oddaje środowisko użytkowania kas fiskalnych, a podkategoria 'Drukarki i akcesoria' precyzyjnie klasyfikuje rolkę jako akcesorium do urządzenia drukującego (jakim jest kasa fiskalna/terminal)."
+    },
+    {
+        "ID_Produktu": "567409331",
+        "Nazwa_Produktu": "Uchwyt Wieszak Ścienny na Miotły Narzędzia 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to uniwersalny uchwyt ścienny przeznaczony do organizacji narzędzi, mioteł i mopów, z przeznaczeniem do użytku w garażu, pralni czy szopie ogrodowej. Chociaż może być używany również w kuchni czy łazience, jego główna funkcja to przechowywanie i porządkowanie narzędzi oraz sprzętów do sprzątania. Kategoria 'Dom i Ogród > Narzędzia > Pozostałe Narzędzia' jest najlepiej dopasowaną kategorią-liściem, ponieważ produkt jest ściśle związany z narzędziami i ich organizacją, a nie ma bardziej szczegółowej kategorii dla tego typu akcesoriów do przechowywania narzędzi."
     }
 ]
