@@ -7658,5 +7658,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to 'Organizer pojemnik na biurko toaletkę z szufladami', przeznaczony głównie do przechowywania przedmiotów biurowych (długopisów, linijek, markerów, zszywacza, nożyczek, notatek, wizytówek), ale także drobnych przedmiotów osobistych, biżuterii i kosmetyków. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej adekwatna ze względu na jego główną funkcję jako organizera biurkowego. Mimo możliwości użycia na toaletce, opis kładzie nacisk na zastosowanie biurowe i szkolne. Kategoria 'Pudełka' jest zbyt ogólna, a 'Szkatułki' zbyt wąska."
+    },
+    {
+        "ID_Produktu": "567410331",
+        "Nazwa_Produktu": "Mata do Szuflady Wodoodporna 30x15 cm Szara kropki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata antypoślizgowa i wodoodporna przeznaczona do szuflad kuchennych. Jest to akcesorium, które uzupełnia i chroni mebel (szufladę). Kategoria 'Dom i Ogród > Meble > Akcesoria meblowe' jest najbardziej precyzyjnym i semantycznie dopasowanym wyborem, ponieważ mata służy jako wyposażenie mebla. Kategoria 'Podkładki i maty' znajduje się pod 'Obrusy i serwetki', co sugeruje zastosowanie stołowe, a nie do szuflad meblowych."
+    },
+    {
+        "ID_Produktu": "567410372",
+        "Nazwa_Produktu": "Organizer podróżny do walizki na ubrania 10szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Walizki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Pozostałe",
+        "Finalne_ID_AI": 2762,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw organizerów podróżnych do walizki, które pełnią funkcję mniejszych torebek/worków do segregacji rzeczy w bagażu. Kategoria 'Moda > Torby i torebki > Pozostałe' jest najbardziej odpowiednia, ponieważ organizery są funkcjonalnie związane z torbami (walizkami) i nie pasują do żadnej z bardziej szczegółowych podkategorii toreb, ale są ich rodzajem akcesorium wewnętrznego. Jest to również zgodne z ogólną ścieżką sugerowaną przez wskazówkę (Moda > Torby i torebki)."
     }
 ]
