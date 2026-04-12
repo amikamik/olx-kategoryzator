@@ -7568,5 +7568,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to papier Kraftowy przeznaczony do drukarek, opisany jako odpowiedni do 'drukarek biurowych' i 'kopiarek'. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej precyzyjnym i adekwatnym miejscem dla tego typu artykułu. Choć wspomniano o zastosowaniach hobbystycznych (origami, DIY), podstawowe przeznaczenie wskazuje na materiały biurowe, a kategoria 'Dla Dzieci' byłaby zbyt zawężająca."
+    },
+    {
+        "ID_Produktu": "567409731",
+        "Nazwa_Produktu": "Kosmetyczka skóra PU podróżny ogranizer kufer",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to kosmetyczka podróżna, a kategoria 'Moda > Akcesoria > Kosmetyczki' jest idealnie dopasowana i jest kategorią-liściem."
     }
 ]
