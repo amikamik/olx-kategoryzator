@@ -7578,5 +7578,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to kosmetyczka podróżna, a kategoria 'Moda > Akcesoria > Kosmetyczki' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567409853",
+        "Nazwa_Produktu": "Kosmetyczka Organizer na Waciki z Pokrywką",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'Kosmetyczkę', a opis potwierdza jej przeznaczenie jako pojemnika na waciki i inne drobiazgi kosmetyczne, co idealnie pasuje do kategorii 'Moda > Akcesoria > Kosmetyczki'."
+    },
+    {
+        "ID_Produktu": "567409859",
+        "Nazwa_Produktu": "Foliopak kurierski 40x60cm biały 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliopak kurierski, czyli koperta wysyłkowa. Jest to materiał eksploatacyjny używany przede wszystkim w działalności handlowej, logistycznej i magazynowej. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej adekwatna do zastosowania produktu. Ponieważ nie ma bardziej szczegółowej kategorii dla materiałów do pakowania/wysyłki, 'Pozostałe' w tej gałęzi jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567409893",
+        "Nazwa_Produktu": "Torba papierowa 32x16x42cm brązowa nadruk 250szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torby papierowe sprzedawane w dużej ilości (250 sztuk), co sugeruje zastosowanie komercyjne lub biurowe, a nie indywidualne domowe. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' najlepiej oddaje przeznaczenie produktu jako zaopatrzenia dla firm. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy' jest mniej odpowiednia ze względu na ilość i kontekst 'wyposażenia wnętrz', które zazwyczaj odnosi się do użytku domowego, a nie hurtowego."
     }
 ]
