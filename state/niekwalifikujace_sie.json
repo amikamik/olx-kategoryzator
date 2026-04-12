@@ -7358,5 +7358,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt jest solarną figurką przeznaczoną do dekoracji ogrodu, co jest wielokrotnie podkreślone w tytule i opisie (\"Figurka Solarna\", \"Dekoracja Ogrodowa\", \"ozdoby ogrodowe\"). Funkcja oświetlenia jest dodatkowym atrybutem tej dekoracji. Kategoria 'Dekoracje ogrodowe' (1631) jest najbardziej precyzyjna i najlepiej oddaje charakter produktu."
+    },
+    {
+        "ID_Produktu": "567408495",
+        "Nazwa_Produktu": "Lampka nocna LED bezprzewodowa USB C vintage",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł (\"Lampka nocna\") i opis (\"Lampa stołowa\", \"Lampa biurkowa LED\") wskazują na lampę przeznaczoną do postawienia na powierzchni. Lampa jest bezprzewodowa, ładowana przez USB-C, co sugeruje jej mobilność i funkcjonalność. Kategoria \"Lampki biurkowe\" (3864) jest bardziej szczegółowa niż \"Lampy stołowe\" (3866) i lepiej oddaje charakter nowoczesnej, funkcjonalnej lampy LED z możliwością ładowania, która może służyć zarówno jako lampka nocna, jak i lampa do pracy czy oświetlenia ogólnego na stole. Opis wyraźnie używa terminu \"Lampa biurkowa LED\"."
+    },
+    {
+        "ID_Produktu": "567408538",
+        "Nazwa_Produktu": "Pokrywka do pojemników średnica 115 PP recyk 25szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywka (wieczko) przeznaczona do pojemników, a opis wyraźnie wskazuje na jej zastosowanie w gastronomii, barach i food truckach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, ponieważ bezpośrednio odnosi się do przeznaczenia produktu w kontekście profesjonalnym."
+    },
+    {
+        "ID_Produktu": "567408541",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 18x50/4 cm 6mic 800szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ woreczki służą jako pojemniki/opakowania w kontekście gastronomicznym i handlowym. Sugerowana kategoria 'Dla Dzieci' była całkowicie nieadekwatna."
     }
 ]
