@@ -7718,5 +7718,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do kas fiskalnych i terminali płatniczych. Kasy fiskalne i terminale płatnicze są typowym wyposażeniem sklepów, a rolka jest akcesorium do wbudowanych w nie drukarek. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "567410496",
+        "Nazwa_Produktu": "Uszczelka Taśma uszczelniająca samoprzylepna 4m 2s",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma uszczelniająca o właściwościach izolacyjnych (akustycznych, cieplnych, wodoodpornych) przeznaczona głównie do uszczelniania drzwi i okien. Kategoria 'Dom i Ogród > Budowa > Izolacje' najlepiej oddaje zastosowanie produktu, a 'Pozostałe' jest odpowiednią kategorią-liściem dla taśmy uszczelniającej, która nie jest styropianem ani wełną mineralną."
+    },
+    {
+        "ID_Produktu": "567410507",
+        "Nazwa_Produktu": "Wieszak ścienny haczyki czarny 32x23cm 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'wieszak ścienny z haczykami', przeznaczony do wieszania ubrań i innych przedmiotów. Jest to element wyposażenia wnętrz, który najlepiej pasuje do kategorii 'Meble > Wieszaki'. Kategoria 'Mocowania ścienne' jest zbyt ogólna i znajduje się w gałęzi 'Dekoracje', podczas gdy wieszak pełni przede wszystkim funkcję użytkową, a nie tylko dekoracyjną."
     }
 ]
