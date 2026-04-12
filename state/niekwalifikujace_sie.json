@@ -7388,5 +7388,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ woreczki służą jako pojemniki/opakowania w kontekście gastronomicznym i handlowym. Sugerowana kategoria 'Dla Dzieci' była całkowicie nieadekwatna."
+    },
+    {
+        "ID_Produktu": "567408572",
+        "Nazwa_Produktu": "Lampka Kryształowa LED Lampka nocna Dotykowa USB",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to nowoczesna lampa stołowa/nocna LED, która doskonale pasuje do kategorii 'Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe'. Opis produktu wyraźnie używa określenia 'lampa stołowa', co bezpośrednio wskazuje na tę kategorię. Jest to najbardziej szczegółowa i trafna kategoria dostępna w drzewie."
+    },
+    {
+        "ID_Produktu": "567408610",
+        "Nazwa_Produktu": "Kosz na Grill do Grillowania Warzyw i Mięsa 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz do grillowania, będący akcesorium bezpośrednio związanym z grillem. Kategoria 'Dom i Ogród > Ogród > Grill' (ID 1633) jest najbardziej odpowiednią kategorią-liściem, ponieważ nie istnieje bardziej szczegółowa kategoria dla akcesoriów do grillowania w podanym drzewie kategorii."
     }
 ]

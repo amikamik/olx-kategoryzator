@@ -3002,5 +3002,60 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567408567",
+        "Nazwa_Produktu": "Dzwonek bezprzewodowy do drzwi Tecknet Biały",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to bezprzewodowy dzwonek do drzwi, który jest elementem elektrycznej instalacji domowej. Kategoria 'Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny' jest najbardziej odpowiednia, ponieważ obejmuje różnorodne akcesoria i komponenty służące do budowy i uzupełniania systemów elektrycznych w domu. Jest to bardziej szczegółowa kategoria niż ogólne 'Pozostałe' w ramach Elektryki.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dzwonek bezprzewodowy do drzwi tecknet biały",
+                "description": "Produkt fabrycznie nowy, nieużywany w oryginalnym opakowaniu. Idealny dla każdego domu, dzięki dużemu zasięgowi radiowemu i odporności na warunki atmosferyczne. Różne Melodie i Regulowana Głośność: 38 różnych melodii w jakości CD. 4 poziomy regulacji głośności od 0 dB do 90 dB. Funkcja pamięci do wyboru dźwięku i dzwonka. Nadajnik o stopniu ochrony IP44. Wodoodporna struktura pierścienia. Temperatura pracy od -10C do 50C, co zapewnia niezawodność w trudnych warunkach pogodowych. Duży Zasięg Radiowy: Obsługuje zasięg ponad 150 m w standardowych warunkach. W otwartym terenie zasięg wynosi do 350 m. Silny sygnał zapewnia niezawodność, nawet gdy jesteś na innym piętrze. Silne Zakłócenia: Bezprzewodowy dzwonek nie jest zakłócany przez inne urządzenia i nie przeszkadza w działaniu innych urządzeń. Marka: TECKNET Model: HWD01880 Moc Znamionowa: 2W Wymiary: 10 x 7 x 7.5 cm\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 120.78,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/3bb82747cd7d863b85ddf0c15804c80c.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/a15a8b63209495f557fb6ee38e21e270.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
