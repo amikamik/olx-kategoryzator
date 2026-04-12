@@ -7108,5 +7108,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zestaw haczyków/wieszaków przeznaczonych do zawieszania na drzwiach, szafach itp., z szerokim zastosowaniem w różnych pomieszczeniach (łazienka, kuchnia, biuro). Kategoria 'Dom i Ogród > Meble > Wieszaki' jest najbardziej ogólna i trafna dla tego typu akcesoriów, obejmując ich funkcję niezależnie od konkretnego pomieszczenia. Kategoria sugerowana ('Mocowania ścienne') jest mniej precyzyjna, ponieważ produkt jest przeznaczony na drzwi, a niekoniecznie na ścianę. Kategoria 'Wieszaki łazienkowe' jest zbyt wąska, biorąc pod uwagę opis produktu."
+    },
+    {
+        "ID_Produktu": "567406946",
+        "Nazwa_Produktu": "Torba na zakupy 13L 34x25x15 zamek Maki 1szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Shopperki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Shopperki",
+        "Finalne_ID_AI": 2756,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'torba na zakupy' o pojemności 13 litrów, wykonana z polipropylenu, przeznaczona do pakowania produktów. Kategoria 'Shopperki' jest idealnie dopasowana do tego typu torby, która służy do noszenia zakupów."
+    },
+    {
+        "ID_Produktu": "567407276",
+        "Nazwa_Produktu": "Portfel damski z ekoskóry portmonetka na zasuwak",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na portfel. Kategoria 'Moda > Akcesoria > Portfele' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567407284",
+        "Nazwa_Produktu": "Organizer Przegródka do Szuflad Regulowany 8szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to regulowane przegródki do szuflad, które służą do organizacji i maksymalnego wykorzystania przestrzeni wewnątrz mebli. Kategoria 'Akcesoria meblowe' najlepiej oddaje funkcję tych przegródek jako dodatku do mebli, poprawiającego ich użyteczność, w przeciwieństwie do ogólnych 'Pudełek' czy 'Pojemników', gdyż są to wewnętrzne elementy organizujące szufladę."
+    },
+    {
+        "ID_Produktu": "567407303",
+        "Nazwa_Produktu": "Lina napinająca elastyczna do namiotu 30szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa > Pozostałe",
+        "Finalne_ID_AI": 3055,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to elastyczna lina napinająca z kulkami, przeznaczona do mocowania plandek, namiotów i markiz. Namioty i markizy należą do kategorii 'Dom i Ogród > Ogród > Architektura ogrodowa'. Ponieważ jest to akcesorium do tych elementów, najbardziej odpowiednią kategorią-liściem jest 'Dom i Ogród > Ogród > Architektura ogrodowa > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "567407310",
+        "Nazwa_Produktu": "Zestaw 6 Krążków Kokosowych do Ochrony Roślin",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Podłoża ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 4535,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to krążki kokosowe służące do ochrony roślin i korzeni, magazynowania ciepła oraz wilgoci. Funkcjonalnie wpisuje się to w kategorię materiałów do podłoża ogrodowego, pełniących rolę mulczu lub osłony. Ponieważ nie ma dokładnej podkategorii dla 'krążków kokosowych' czy 'włókien kokosowych' w ramach 'Podłoża ogrodowe', kategoria 'Pozostałe' w tej gałęzi jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "567407338",
+        "Nazwa_Produktu": "Sznurek Jutowy Rolka 100M 3mm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to sznurek jutowy, opisany jako narzędzie do rękodzieł, prac artystycznych, ale także wyraźnie do 'majsterkowania ogrodowego' i 'wiązania roślin'. Chociaż ma zastosowania dekoracyjne i artystyczne, kategoria 'Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Pozostałe' jest przeznaczona raczej dla gotowych elementów dekoracyjnych, a nie materiałów. Kategoria 'Antyki i Kolekcje > Rękodzieło' nie posiada podkategorii dla surowców do rękodzieła. Biorąc pod uwagę wyraźne zastosowania ogrodnicze, kategoria 'Dom i Ogród > Ogród > Pozostałe Ogród' jest najlepiej dopasowaną kategorią-liściem dla tego wielofunkcyjnego materiału, który znajduje szerokie zastosowanie w pracach ogrodowych i ogólnym majsterkowaniu związanym z ogrodem."
     }
 ]
