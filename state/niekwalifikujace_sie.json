@@ -7748,5 +7748,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to 'nakładka na mopa', która jest częścią narzędzia (mopa). Kategoria 'Dom i Ogród > Narzędzia > Części do narzędzi' jest najbardziej precyzyjnym dopasowaniem, ponieważ mopy są narzędziami, a nakładka jest ich częścią. Sugerowana kategoria z podpowiedzi OLX jest błędna semantycznie dla tego produktu."
+    },
+    {
+        "ID_Produktu": "567410674",
+        "Nazwa_Produktu": "Wieszak Uchwyt z Haczykami Kształt Serca 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt z haczykami służący do wieszania różnych przedmiotów (ubrań, pasków, ręczników), co idealnie pasuje do definicji 'Wieszaki' w kategorii 'Dom i Ogród > Meble'. Chociaż może być mocowany do ściany, jego podstawowa funkcja jako wieszaka jest bardziej precyzyjnym dopasowaniem niż ogólne 'Mocowania ścienne'."
+    },
+    {
+        "ID_Produktu": "567410714",
+        "Nazwa_Produktu": "Żarówka LED E14 5W Ciepła biel 3000K 2 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to żarówka LED, a kategoria 'Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem do tytułu i opisu produktu."
+    },
+    {
+        "ID_Produktu": "567410733",
+        "Nazwa_Produktu": "Menu box pojemnik niedzielony 230x205mm pulpa 50szt eko",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Menu box' przeznaczony do gastronomii, cateringu i dań na wynos, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Pojemniki i przechowywanie żywności' z sekcji Dom i Ogród, biorąc pod uwagę zastosowanie produktu."
+    },
+    {
+        "ID_Produktu": "567410759",
+        "Nazwa_Produktu": "Vileda Szczotka 3 Action Bez Drążka 1 Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to szczotka do zamiatania. Najbardziej precyzyjną kategorią, która bezpośrednio odnosi się do szczotek i mioteł, jest 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki'. Mimo że szczotka może być używana w domu, jest to narzędzie do zamiatania, a ta kategoria jest najbardziej dopasowana semantycznie i jest kategorią-liściem. Sugerowana przez system kategoria 'Środki czyszczące' jest błędna, ponieważ produkt jest narzędziem, a nie środkiem chemicznym."
+    },
+    {
+        "ID_Produktu": "567410773",
+        "Nazwa_Produktu": "Vileda Szczotka Uniwersalna 2W1 Bez Drążka1 Szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to szczotka do zamiatania, a kategoria 'Miotły i szczotki' jest najbardziej szczegółowym i odpowiednim miejscem dla tego typu narzędzi w ramach drzewa kategorii 'Dom i Ogród'."
     }
 ]

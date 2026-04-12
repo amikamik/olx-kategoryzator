@@ -3168,5 +3168,242 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567410765",
+        "Nazwa_Produktu": "Vileda Szczotka Duactiva Classic Bez Drążka",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szczotka do zamiatania, która jest narzędziem ręcznym używanym w domu i ogrodzie. Kategoria 'Dom i Ogród > Narzędzia > Narzędzia ręczne' jest najbardziej semantycznie dopasowana i specyficzna dla tego typu przedmiotu. Sugerowana kategoria 'Środki czyszczące' jest nieprawidłowa, ponieważ produkt jest narzędziem, a nie substancją czyszczącą.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda szczotka duactiva classic bez drążka",
+                "description": "Vileda Szczotka DuActiva Classic bez drążka Szczotka do zamiatania DuActiva Classic to wyjątkowe połączenie gąbki i włókien czyszczących. Szczotka z gąbką od Viledy doskonale zbiera brud, kurz, sierść i włosy Gąbka posiada właściwości elektrostatyczne i świetnie zamiata kurz i drobne paproszki DuActiva Classica zapobiega wzbijaniu się kurzu w powietrze i jego ponownemu opadaniu na podłogę Gumowe zakończenie szczotki DuActiva Classic chroni ściany przed zniszczeniami Szczotka nie posiada drążka; kij do szczotki można dokupić osobno. Cena za 1 szt. \" Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\"\n\n[DEAL-BLB2B]",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 45.0,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/52a38b844e3c2ca4743874a806b2a7d3.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/31f36221df9b054efaa1b30f303dab49.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/cd323bef8b4fd91226cdc2e85e64d1e0.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567410778",
+        "Nazwa_Produktu": "Końcówka do Mopa Vileda Supermocio 3Action XL",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalne_ID_AI": 2112,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to końcówka do mopa, która jest artykułem gospodarstwa domowego służącym do sprzątania. Najbardziej odpowiednią gałęzią jest 'Dom i Ogród > Wyposażenie wnętrz', a ponieważ brak jest bardziej szczegółowej kategorii dla akcesoriów do sprzątania, kategoria 'Pozostałe' w tej gałęzi jest najlepiej dopasowana. Sugestia systemowa 'Środki czyszczące' jest nieprawidłowa, gdyż produkt nie jest środkiem chemicznym, lecz narzędziem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Końcówka do mopa vileda supermocio 3action xl",
+                "description": "Mop Vileda Supermocio 3Action XL Jest innowacyjnym i najbardziej rozwiniętym technologicznie mopem występującym obecnie na rynku. Wkład myjący posiada trzy rodzaje powierzchni, które są gwarancją higienicznie czystej podłogi Mop oferuje trzy główne funkcje czyszczące: czerwoną, nierysującą ściereczkę do usuwania uporczywych zabrudzeń, niebieskie paski z mikrofibry do usuwania tłustych pozostałości, czerwone kropki 3D do usuwania dodatkowych włosów i cząstek XL zapewnia 25% większą styczność z podłogą, dzięki czemu sprzątanie jest bardziej wydajne W sprzedaży sama końcówka do mopa VILEDA Mop Vileda Supermocio 3Action XL Stan: Nowy Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2112,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.97,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/82738c8b931a4a98c11092b013e357da.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/c00b1acef664c227dee8dc1268f56f00.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567410783",
+        "Nazwa_Produktu": "Nakładka na mopa Ultramax Care płaski 1szt Vileda",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Pozostałe",
+        "Finalne_ID_AI": 2052,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to nakładka/wkład do mopa, będący akcesorium do sprzątania. W braku dedykowanej kategorii dla narzędzi do sprzątania, najbardziej semantycznie zbliżoną gałęzią jest 'Dom i Ogród > Wyposażenie wnętrz'. W tej gałęzi, 'Akcesoria łazienkowe' często obejmują ogólne artykuły do sprzątania, takie jak szczotki czy kosze. Wybrano kategorię 'Pozostałe' w ramach 'Akcesoria łazienkowe', jako najbardziej odpowiednią dla akcesorium do mopa, które nie jest ani chemią budowlaną, ani meblem, ani narzędziem w sensie budowlanym czy ogrodowym.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nakładka na mopa ultramax care płaski 1szt vileda",
+                "description": "Wkład do mopa Vileda Ultramax Care Wkład do mopa płaskiego Vileda Ultramax Care doskonale czyści najdelikatniejsze podłogi. Fioletowe włókna usuwają zanieczyszczenia i włosy. Białe włókna wykonane w 100% z mikrofibry z recyklingu wycierają podłogę do sucha i polerują ją. Unikalne połączenie włókien zapewnia odpowiednią wilgotność, co chroni delikatne powierzchnie przed zarysowaniami. Wkład można prać w pralce z podobnymi tkaninami w temperaturze do 60C, dzięki czemu może być używany wielokrotnie bez utraty skuteczności. W ten sposób można nie tylko zaoszczędzić pieniądze, ale również ograniczyć ilość odpadów. W celu zachowania maksymalnej mocy czyszczącej rekomendujemy wymianę wkładu co 6 miesięcy. Wycieranie do sucha i polerowanie podłogi 100% mikrofibra z recyklingu* Włókna o zaawanowanej technologii Łatwa wymiana wkładu Odpowiedni do delikatnych powierzchni Nadaje się do prania w pralce i wielokrotnego użycia do 6 miesięcy Pasuje do mopa Vileda Ultramax i Vileda Ultramax 1-2 Spray, nie pasuje do Vileda 1-2 Spray Max *Materiał z recyklingu to mikrofibra we wkładzie (białe włókna). Całkowita zawartość materiału z recyklingu 75% części wkładu wykonanej z tkaniny. Vileda 173490 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2052,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 64.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/b4dde67822d4b127bcc743d13b4f7fb2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567410793",
+        "Nazwa_Produktu": "Szczotka elektrostatyczna do sierści 1 szt Vileda",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczna szczotka przeznaczona do usuwania sierści zwierząt, co klasyfikuje ją jako narzędzie obsługiwane manualnie. Kategoria 'Narzędzia ręczne' jest najbardziej odpowiednia w drzewie kategorii, ponieważ szczotka jest narzędziem, a jej obsługa odbywa się ręcznie. Sugerowana kategoria 'Osprzęt do narzędzi' nie jest trafna, gdyż szczotka jest samodzielnym narzędziem, a nie akcesorium do innego narzędzia.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szczotka elektrostatyczna do sierści 1 szt vileda",
+                "description": "Szczotka elektrostatyczna do sierści i włosów Vileda Pet Pro Dzięki przyciąganiu elektrostatycznemu szczotka łatwo, szybko i delikatnie usuwa sierść zwierząt domowych z miękkich powierzchni. Jest trwała, łatwa w czyszczeniu i dociera do zakamarków oraz trudno dostępnych miejsc. Działanie elektrostatyczne skutecznie usuwa sierść zwierząt z miękkich powierzchni. Trwała i wytrzymała. Łatwy dociera do narożników i trudno dostępnych miejsc. Łatwa w czyszczeniu i wielokrotnego użytku. Dzięki właściwościom elektrostatycznym szczotka Vileda Pet Pro skutecznie przyciąga i zbiera sierść zwierząt z powierzchni tekstylnych. Specjalnie zaprojektowana główka szczotki i boczne włosie docierają do trudno dostępnych miejsc mebli, dzięki czemu żaden włos na nich nie pozostanie. Po użyciu szczotkę można opłukać pod bieżącą wodą. To zrównoważona opcja usuwania sierści zwierząt domowych. Trwałe i wytrzymałe włosie zmniejsza ilość odpadów. Szczotka Vileda Pet Pro z łatwością usuwa sierść zwierząt z każdej miękkiej powierzchni mebli, a nawet foteli samochodowych, dzięki właściwościom elektrostatycznym. Vileda 173019 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 36.55,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/28a1386274391ee6710c46c5398fea93.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
