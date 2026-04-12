@@ -7678,5 +7678,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to zestaw organizerów podróżnych do walizki, które pełnią funkcję mniejszych torebek/worków do segregacji rzeczy w bagażu. Kategoria 'Moda > Torby i torebki > Pozostałe' jest najbardziej odpowiednia, ponieważ organizery są funkcjonalnie związane z torbami (walizkami) i nie pasują do żadnej z bardziej szczegółowych podkategorii toreb, ale są ich rodzajem akcesorium wewnętrznego. Jest to również zgodne z ogólną ścieżką sugerowaną przez wskazówkę (Moda > Torby i torebki)."
+    },
+    {
+        "ID_Produktu": "567410401",
+        "Nazwa_Produktu": "Maskotka dla Psa Zabawka Piszczący Krokodyl",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Maskotki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Pozostałe",
+        "Finalne_ID_AI": 293,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zabawka dla psa. W udostępnionym drzewie kategorii brakuje dedykowanej kategorii dla zwierząt lub akcesoriów dla zwierząt domowych. Kategoria 'Dla Dzieci > Zabawki > Maskotki' jest semantycznie niepoprawna, ponieważ produkt jest przeznaczony dla psa, nie dla dziecka. Zgodnie z instrukcją, jeśli żadna kategoria nie pasuje idealnie, należy wybrać tę, która będzie najmniej myląca dla kupującego. 'Dom i Ogród > Pozostałe' jest najbardziej ogólną i najmniej mylącą kategorią, która nie przypisuje produktu do błędnego przeznaczenia (np. dla dzieci)."
+    },
+    {
+        "ID_Produktu": "567410431",
+        "Nazwa_Produktu": "Łyżka do butów metalowa z haczykiem  długośc 42cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to 'łyżka do butów', która jest akcesorium ułatwiającym zakładanie obuwia. Obuwie należy do kategorii 'Moda'. W gałęzi 'Moda > Akcesoria' nie ma bardziej szczegółowej kategorii dla tego typu akcesoriów, dlatego 'Pozostałe' w tej gałęzi jest najbardziej odpowiednim wyborem. Wskazówka systemowa 'Dom i Ogród > Narzędzia > Narzędzia ręczne' jest mniej trafna, ponieważ łyżka do butów nie jest narzędziem w typowym rozumieniu, a raczej osobistym akcesorium związanym z ubiorem."
+    },
+    {
+        "ID_Produktu": "567410439",
+        "Nazwa_Produktu": "Kosmetyczka Skóra PU Organizer Kuferek Kremowy",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to kosmetyczka ('Kosmetyczka Skóra PU Organizer Kuferek Kremowy', 'Kosmetyczka Damska Duża Organizer Na Kosmetyki'). Kategoria 'Moda > Akcesoria > Kosmetyczki' jest idealnym i bezpośrednim dopasowaniem."
+    },
+    {
+        "ID_Produktu": "567410469",
+        "Nazwa_Produktu": "Rolka do kasy fiskalnej 57x100 termiczna 3szt Eco",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do kas fiskalnych i terminali płatniczych. Kasy fiskalne i terminale płatnicze są typowym wyposażeniem sklepów, a rolka jest akcesorium do wbudowanych w nie drukarek. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' najlepiej oddaje przeznaczenie produktu."
     }
 ]
