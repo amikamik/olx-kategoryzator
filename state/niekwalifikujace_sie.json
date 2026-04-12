@@ -7068,5 +7068,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Lampka biurkowa', co idealnie pasuje do kategorii-liścia 'Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe'."
+    },
+    {
+        "ID_Produktu": "567406750",
+        "Nazwa_Produktu": "Wieszak Samochodowy na Zagłówek z Haczykiem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Wieszaki łazienkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Wieszak Samochodowy na Zagłówek z Haczykiem', co jasno wskazuje na jego główną funkcję. Kategoria 'Dom i Ogród > Meble > Wieszaki' jest najbardziej precyzyjnym dopasowaniem do typu produktu ('Wieszak'), mimo że jest przeznaczony do samochodu, a nie do domu. Funkcja uchwytu na telefon jest dodatkowa, co czyni kategorię związaną z telefonami mniej odpowiednią jako główną."
     }
 ]
