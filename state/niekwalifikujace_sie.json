@@ -7548,5 +7548,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pokrętło/uchwyt do kranu, które służy do sterowania przepływem wody w zaworze. Opis wyraźnie wskazuje, że pasuje do 'korpusów zaworów'. Kategoria 'Dom i Ogród > Instalacje > Hydraulika > Zawory' jest najbardziej precyzyjna, ponieważ pokrętło jest integralną częścią sterującą zaworem w systemie hydraulicznym, a sam kran jest rodzajem zaworu. Umieszczenie go w kategorii pełnej baterii (np. 'Baterie kuchenne' lub 'Baterie łazienkowe') byłoby mniej dokładne, gdyż produkt jest tylko częścią, a nie całym urządzeniem."
+    },
+    {
+        "ID_Produktu": "567409657",
+        "Nazwa_Produktu": "Taśma Samoprzylepna Uszczelka Do Drzwi Okna 5M",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piankowa taśma samoprzylepna, której główną funkcją jest uszczelnianie i izolacja (akustyczna, termiczna) drzwi i okien. Kategoria 'Dom i Ogród > Budowa > Izolacje' jest najbardziej semantycznie dopasowana do przeznaczenia produktu. Ponieważ nie ma bardziej szczegółowej kategorii dla taśm izolacyjnych, wybrano 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "567409668",
+        "Nazwa_Produktu": "Papier Kraftowy do drukarek A4 100 arkuszy 10 kol.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papier Kraftowy przeznaczony do drukarek, opisany jako odpowiedni do 'drukarek biurowych' i 'kopiarek'. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej precyzyjnym i adekwatnym miejscem dla tego typu artykułu. Choć wspomniano o zastosowaniach hobbystycznych (origami, DIY), podstawowe przeznaczenie wskazuje na materiały biurowe, a kategoria 'Dla Dzieci' byłaby zbyt zawężająca."
     }
 ]
