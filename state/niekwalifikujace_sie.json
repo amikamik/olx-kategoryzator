@@ -7628,5 +7628,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to tacki pod ciasto przeznaczone do eksponowania i pakowania produktów spożywczych, z wyraźnym wskazaniem na zastosowanie w gastronomii (restauracje, bary, food trucki). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i semantycznie dopasowana do opisu produktu."
+    },
+    {
+        "ID_Produktu": "567410150",
+        "Nazwa_Produktu": "Okulary Przeciwsłoneczne W Kształcie Serca 2szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'okulary przeciwsłoneczne', a kategoria 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne' jest idealnie dopasowana."
+    },
+    {
+        "ID_Produktu": "567410166",
+        "Nazwa_Produktu": "Maskotka Pluszak Przytulanka Różowa kaczka 23.5 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Maskotki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Pozostałe",
+        "Finalne_ID_AI": 293,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt, mimo słów 'Maskotka Pluszak Przytulanka' w tytule, jest w opisie jasno zdefiniowany jako zabawka dla psów ('dla psów', 'psi przyjaciel', 'szczeniaka', 'zabawka do gryzienia'). W dostarczonym drzewie kategorii nie ma żadnej gałęzi ani kategorii-liścia dedykowanej zwierzętom domowym lub akcesoriom dla nich. Zgodnie z instrukcją, jeśli żadna kategoria nie pasuje idealnie, należy wybrać tę, która będzie najmniej myląca dla kupującego. Umieszczenie zabawki dla psa w kategorii 'Dla Dzieci > Zabawki > Maskotki' byłoby bardzo mylące. Kategoria 'Dom i Ogród > Pozostałe' jest najbardziej ogólną i najmniej mylącą opcją spośród dostępnych, ponieważ zwierzęta domowe są częścią gospodarstwa domowego."
     }
 ]
