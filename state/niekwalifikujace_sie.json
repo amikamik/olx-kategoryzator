@@ -7818,5 +7818,35 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt jest opisany jako 'Saszetka nerka biodrowa sportowa wodoodporna' oraz 'pas do biegania'. Kategoria 'Moda > Torby i torebki > Nerki' (ID 2754) jest idealnym i najbardziej szczegółowym dopasowaniem do tego opisu."
+    },
+    {
+        "ID_Produktu": "567410923",
+        "Nazwa_Produktu": "Teleskopowy organizer na wieszaki zielony",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'organizer na wieszaki', który służy do przechowywania i organizacji wieszaków, a tym samym odzieży. Kategoria 'Wieszaki' w drzewie 'Dom i Ogród > Meble' jest najbardziej adekwatna do funkcji i przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "567410944",
+        "Nazwa_Produktu": "Ręcznik fryzjerski 26,5cm 70mb Air Laid 1szt ZPW",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ręczniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria fryzjerskie > Pozostałe",
+        "Finalne_ID_AI": 5089,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'ręcznik fryzjerski', co wskazuje na jego profesjonalne zastosowanie w salonach. Kategoria 'Firma i Przemysł > Wyposażenie salonów > Akcesoria fryzjerskie > Pozostałe' jest najbardziej semantycznie dopasowana, ponieważ ręcznik jest akcesorium fryzjerskim, a nie ma bardziej szczegółowej kategorii dla ręczników w tej gałęzi. Ogólna kategoria 'Ręczniki' w 'Dom i Ogród' byłaby myląca, sugerując ręcznik do użytku domowego."
+    },
+    {
+        "ID_Produktu": "567410973",
+        "Nazwa_Produktu": "Lampki LED łańcuch świetlny 30 diod duchy Hallowee",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'łańcuch świetlny' (girlandę świetlną). Produkt jest przeznaczony zarówno do użytku wewnętrznego, jak i zewnętrznego, co sprawia, że ogólna kategoria 'Girlandy świetlne' jest bardziej odpowiednia niż kategoria 'Oświetlenie zewnętrzne > Girlandy'."
     }
 ]
