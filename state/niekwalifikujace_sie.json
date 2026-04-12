@@ -7258,5 +7258,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to jednorazowe podkłady/serwety kosmetyczne i medyczne, przeznaczone do użytku w gabinetach kosmetycznych, dentystycznych, studiach tatuażu. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne', a ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu produktu (jednorazowe podkłady), 'Pozostałe' jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "567407940",
+        "Nazwa_Produktu": "Etui na Okulary Przeciwsłoneczne Niebieskie",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Akcesoria do okularów",
+        "Finalne_ID_AI": 2735,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to etui, czyli akcesorium przeznaczone do okularów przeciwsłonecznych i do czytania. Kategoria 'Moda > Akcesoria > Okulary > Akcesoria do okularów' jest najbardziej precyzyjnym i trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "567407970",
+        "Nazwa_Produktu": "Zraszacz Ogrodowy Pistolet Do Węża Ogrodowego",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na urządzenie do nawadniania ogrodu ('Zraszacz Ogrodowy Pistolet Do Węża Ogrodowego', 'wysokociśnieniowy pistolet do węża ogrodowego', 'nawadniania', 'podlewania ogrodu'). Kategoria 'Dom i Ogród > Ogród > Nawadnianie' jest idealnie dopasowana semantycznie i jest kategorią-liściem."
     }
 ]
