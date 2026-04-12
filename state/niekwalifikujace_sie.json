@@ -7228,5 +7228,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "85%",
         "Uzasadnienie_AI": "Produkt to fabrycznie nowy zestaw do szycia, zawierający akcesoria do naprawy i modyfikacji odzieży. Kategoria 'Antyki i Kolekcje' jest nieodpowiednia ze względu na stan produktu. Zestaw do szycia jest akcesorium związanym z odzieżą i modą, dlatego najlepiej pasuje do ogólnej kategorii 'Moda > Akcesoria'. Ponieważ brak jest bardziej szczegółowej kategorii dla akcesoriów krawieckich w tej gałęzi, wybrano kategorię 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "567407747",
+        "Nazwa_Produktu": "Lampka Nocna LED Neon Flaming Dekoracja USB",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Lampka Nocna LED Neon' oraz 'lampka biurkowa' i 'dekoracja'. Mimo funkcji dekoracyjnej, jego podstawową naturą jest bycie źródłem światła (lampką). Kategoria 'Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe' (ID: 3864) jest najbardziej precyzyjna, ponieważ obejmuje małe lampy przeznaczone do postawienia na biurku lub stoliku nocnym, co idealnie pasuje do charakteru i zastosowania produktu."
+    },
+    {
+        "ID_Produktu": "567407809",
+        "Nazwa_Produktu": "Kamienie Dekoracyjne Fluorescencyjne do Ogrodu",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akwarystyka > Akcesoria akwariowe > Dekoracje",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na przeznaczenie 'do Ogrodu'. Opis również wymienia ogród jako pierwsze miejsce zastosowania, obok akwarium czy pokoju dziecięcego. Kategoria 'Dom i Ogród > Ogród > Dekoracje ogrodowe' jest najbardziej semantycznie dopasowana do głównego przeznaczenia produktu, a także jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567407815",
+        "Nazwa_Produktu": "Podkład Serweta Kosmetyczna 33x45cm 125szt Biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Serwety i serwetki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Pozostałe",
+        "Finalne_ID_AI": 5096,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe podkłady/serwety kosmetyczne i medyczne, przeznaczone do użytku w gabinetach kosmetycznych, dentystycznych, studiach tatuażu. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne', a ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu produktu (jednorazowe podkłady), 'Pozostałe' jest najbardziej odpowiednim wyborem."
     }
 ]
