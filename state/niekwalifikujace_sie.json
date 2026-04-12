@@ -7848,5 +7848,45 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'łańcuch świetlny' (girlandę świetlną). Produkt jest przeznaczony zarówno do użytku wewnętrznego, jak i zewnętrznego, co sprawia, że ogólna kategoria 'Girlandy świetlne' jest bardziej odpowiednia niż kategoria 'Oświetlenie zewnętrzne > Girlandy'."
+    },
+    {
+        "ID_Produktu": "567411013",
+        "Nazwa_Produktu": "Kostium czarnego anioła skrzydła opaski spódnica",
+        "Poczatkowa_Sciezka_OLX": "Moda > Bielizna damska > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw kostiumowy (kostium czarnego anioła), który składa się głównie z akcesoriów takich jak skrzydła, opaska i tiulowa spódnica przeznaczona do przebrania. Ponieważ w drzewie kategorii nie ma dedykowanej gałęzi dla kostiumów dla dorosłych, a główne elementy zestawu to akcesoria, kategoria 'Moda > Akcesoria > Pozostałe' jest najbardziej odpowiednia i najmniej myląca. Ignoruję sugestię 'Bielizna damska', gdyż jest ona nieadekwatna do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "567411020",
+        "Nazwa_Produktu": "Gra imprezowa dla dorosłych drinking game 2szt.",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Gry planszowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'gra imprezowa dla dorosłych' typu 'drinking game' / 'Shot Roulette'. Kategoria 'Sport i Hobby > Sporty towarzyskie' obejmuje aktywności rekreacyjne i społeczne. 'Pozostałe sporty towarzyskie' jest najlepiej dopasowaną kategorią dla tego typu gry, która nie jest tradycyjną grą planszową, a jej głównym celem jest rozrywka towarzyska."
+    },
+    {
+        "ID_Produktu": "567411030",
+        "Nazwa_Produktu": "Słuchawka prysznicowa z filtrem kosmetycznym",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Pozostałe",
+        "Finalne_ID_AI": 3237,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to słuchawka prysznicowa, która jest elementem wyposażenia łazienki. Kategoria 'Dom i Ogród > Wykończenie wnętrz > Łazienka' jest najbardziej odpowiednia dla armatury i osprzętu łazienkowego. Ponieważ nie ma bardziej szczegółowej kategorii dla samych słuchawek prysznicowych, 'Pozostałe' w tej gałęzi jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567411046",
+        "Nazwa_Produktu": "Mini głośnik Bluetooth bezprzewodowy stereo 3W róż",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt audio > Głośniki i kolumny > Głośniki przenośne",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt audio > Głośniki i kolumny > Głośniki przenośne",
+        "Finalne_ID_AI": 1967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują na przenośny głośnik Bluetooth, który jest idealny do użytku w podróży i na zewnątrz. Kategoria 'Elektronika > Sprzęt audio > Głośniki i kolumny > Głośniki przenośne' jest najbardziej precyzyjnym i najlepiej dopasowanym wyborem."
     }
 ]
