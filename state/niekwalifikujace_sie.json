@@ -7188,5 +7188,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Zalotka do rzęs jest akcesorium służącym do makijażu i stylizacji rzęs, co plasuje ją w szerokiej kategorii akcesoriów osobistych. Ponieważ w dostępnym drzewie kategorii nie ma bardziej szczegółowej podkategorii dedykowanej narzędziom do makijażu lub pielęgnacji rzęs, najbardziej odpowiednią kategorią-liściem jest 'Moda > Akcesoria > Pozostałe'. Kategoria 'Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria' została zignorowana, ponieważ jest semantycznie niezwiązana z produktem."
+    },
+    {
+        "ID_Produktu": "567407495",
+        "Nazwa_Produktu": "Serwetka gastronomiczna 33x33 eko 500szt Clarina",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to serwetki gastronomiczne, które są ogólnymi materiałami eksploatacyjnymi/akcesoriami używanymi w gastronomii. Nie pasują do żadnej z bardziej szczegółowych kategorii sprzętu gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej odpowiednia dla tego typu produktów."
+    },
+    {
+        "ID_Produktu": "567407500",
+        "Nazwa_Produktu": "Tacki na grill aluminiowe 34x22 mocne 3szt Aec tacka DUŻE",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Tacki na grill', które są akcesoriami do grillowania. Kategoria 'Dom i Ogród > Ogród > Grill' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem do tytułu i opisu produktu."
+    },
+    {
+        "ID_Produktu": "567407519",
+        "Nazwa_Produktu": "Wizytownik Organizer Na Karty 2szt Żółty Zielony",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Wizytowniki",
+        "Finalne_ID_AI": 2763,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują, że jest to wizytownik na karty. Kategoria 'Moda > Akcesoria > Wizytowniki' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem do charakteru produktu. Mimo że może przechowywać również inne karty, jego główna funkcja i nazwa są zgodne z tą kategorią. Sugerowana kategoria 'Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy' została zignorowana, ponieważ jest semantycznie niezgodna z produktem."
+    },
+    {
+        "ID_Produktu": "567407528",
+        "Nazwa_Produktu": "Przybornik Akcesoria Krawieckie Zestaw Do Szycia",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Rękodzieło > Szycie i filcowanie",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to fabrycznie nowy zestaw do szycia, zawierający akcesoria do naprawy i modyfikacji odzieży. Kategoria 'Antyki i Kolekcje' jest nieodpowiednia ze względu na stan produktu. Zestaw do szycia jest akcesorium związanym z odzieżą i modą, dlatego najlepiej pasuje do ogólnej kategorii 'Moda > Akcesoria'. Ponieważ brak jest bardziej szczegółowej kategorii dla akcesoriów krawieckich w tej gałęzi, wybrano kategorię 'Pozostałe'."
     }
 ]
