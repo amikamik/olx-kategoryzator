@@ -7648,5 +7648,15 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "90%",
         "Uzasadnienie_AI": "Produkt, mimo słów 'Maskotka Pluszak Przytulanka' w tytule, jest w opisie jasno zdefiniowany jako zabawka dla psów ('dla psów', 'psi przyjaciel', 'szczeniaka', 'zabawka do gryzienia'). W dostarczonym drzewie kategorii nie ma żadnej gałęzi ani kategorii-liścia dedykowanej zwierzętom domowym lub akcesoriom dla nich. Zgodnie z instrukcją, jeśli żadna kategoria nie pasuje idealnie, należy wybrać tę, która będzie najmniej myląca dla kupującego. Umieszczenie zabawki dla psa w kategorii 'Dla Dzieci > Zabawki > Maskotki' byłoby bardzo mylące. Kategoria 'Dom i Ogród > Pozostałe' jest najbardziej ogólną i najmniej mylącą opcją spośród dostępnych, ponieważ zwierzęta domowe są częścią gospodarstwa domowego."
+    },
+    {
+        "ID_Produktu": "567410219",
+        "Nazwa_Produktu": "Organizer pojemnik na biurko toaletkę z szufladami",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Organizer pojemnik na biurko toaletkę z szufladami', przeznaczony głównie do przechowywania przedmiotów biurowych (długopisów, linijek, markerów, zszywacza, nożyczek, notatek, wizytówek), ale także drobnych przedmiotów osobistych, biżuterii i kosmetyków. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej adekwatna ze względu na jego główną funkcję jako organizera biurkowego. Mimo możliwości użycia na toaletce, opis kładzie nacisk na zastosowanie biurowe i szkolne. Kategoria 'Pudełka' jest zbyt ogólna, a 'Szkatułki' zbyt wąska."
     }
 ]
