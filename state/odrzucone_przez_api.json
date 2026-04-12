@@ -3057,5 +3057,60 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567409221",
+        "Nazwa_Produktu": "Trytytki Opaski Zaciskowe Kablowe Żółte 400Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opaski zaciskowe kablowe (trytytki), które są podstawowym elementem osprzętu używanego w instalacjach elektrycznych i innych pracach montażowych. Kategoria 'System i osprzęt instalacyjny' najlepiej oddaje przeznaczenie tego produktu, zwłaszcza z uwagi na wspomniane w opisie 'okablowanie'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Trytytki opaski zaciskowe kablowe żółte 400szt",
+                "description": "Produkt fabrycznie nowy, nieużywany w oryginalnym opakowaniu. Zestaw 400 sztuk trytytek opasek zaciskowych nylonowych to niezbędny element w każdym warsztacie, biurze czy domu. Wykonane z wysokiej jakości nylonu, są odporne na wysokie temperatury i promieniowanie UV, co gwarantuje trwałość nawet w ekstremalnych warunkach. Ich samoblokująca konstrukcja oraz wysoka wytrzymałość na rozciąganie sprawiają, że są idealne do okablowania, mocowania rur, korekcji wegetacji, ogrodzeń i wielu innych zastosowań. Wysoka wytrzymałość na rozciąganie: 22 kg Szeroki zakres zastosowań Marka: OSXCAUES Kolor: Żółty Liczba sztuk: 400 Długość x Szerokość: 200 x 2.5 mm Temperatura robocza: -40 85 ? / -40 185 ?\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 49.86,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/bc1c2f8b2ec720fae37a743a41e5da26.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/8f17a47a9f2bb6c47646cbfdbf66db0a.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

@@ -7488,5 +7488,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to błotnik, który jest częścią zamienną do skutera. Skutery należą do kategorii motocykli, a błotnik jest częścią motocyklową. Kategoria 'Części motocyklowe' jest najbardziej precyzyjna i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567409233",
+        "Nazwa_Produktu": "Uchwyt Meblowy Do Szafek Czarny Matowy 15 Sztuk",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'uchwyty meblowe', które idealnie pasują do kategorii 'Akcesoria meblowe' znajdującej się w ścieżce 'Dom i Ogród > Meble'. Jest to kategoria-liść i jest semantycznie najlepiej dopasowana do opisu produktu."
+    },
+    {
+        "ID_Produktu": "567409257",
+        "Nazwa_Produktu": "Uszczelka Taśma Uszczelniająca do okien 6x6mm 3x3m",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma uszczelniająca przeznaczona do izolacji drzwi i okien, co bezpośrednio wskazuje na jej zastosowanie w budownictwie w ramach izolacji. Kategoria 'Dom i Ogród > Budowa > Izolacje > Pozostałe' jest najbardziej odpowiednia, ponieważ jest to kategoria-liść i obejmuje materiały izolacyjne, które nie są wyszczególnione w bardziej szczegółowych podkategoriach izolacji (jak styropian czy wełna mineralna)."
     }
 ]
