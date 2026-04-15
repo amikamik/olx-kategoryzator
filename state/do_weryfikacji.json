@@ -5876,5 +5876,434 @@
         "api_error": {
             "error": "Błąd pobierania atrybutów z OLX API."
         }
+    },
+    {
+        "ID_Produktu": "567379722",
+        "Nazwa_Produktu": "Woreczki strunowe 6x8cm 40mic 100szt Plast",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567379801",
+        "Nazwa_Produktu": "Rękawice lateksowe pudrowane L Abena 100szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Rękawiczki",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567403858",
+        "Nazwa_Produktu": "Lampa Odstraszająca Komary USB",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Pozostałe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "567404102",
+        "Nazwa_Produktu": "Podkład flizelina 60 cm 100mb 15g 1 rolka",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567404574",
+        "Nazwa_Produktu": "Osłona przeciwsłoneczna do samochodu 5szt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Wystrój okien > Pozostałe",
+        "Finalne_ID_AI": 2075,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to osłona przeciwsłoneczna do samochodu, pełniąca funkcję zaciemnienia okien. Wobec braku kategorii motoryzacyjnych, kategoria 'Wystrój okien > Pozostałe' (pod 'Dom i Ogród > Wyposażenie wnętrz') jest najbardziej semantycznie zbliżona do funkcji osłony okiennej, mimo że dotyczy zazwyczaj wnętrz domowych.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567404591",
+        "Nazwa_Produktu": "Kulki drewniane szydełkowane 10szt 20mm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Antyki i Kolekcje > Rękodzieło > Biżuteria - półprodukty",
+        "Finalne_ID_AI": 4047,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kulki drewniane, które w opisie są wprost określane jako 'koraliki drewniane do samodzielnego wykonania' oraz 'nadają się również do wyrobu naszyjników, bransoletek'. To idealnie pasuje do kategorii 'Biżuteria - półprodukty' w ramach 'Rękodzieła', ponieważ są to materiały do tworzenia biżuterii metodą rękodzielniczą.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567404597",
+        "Nazwa_Produktu": "Układanka Nauka Alfabetu Drewniane Litery Fiszki",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalne_ID_AI": 3083,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest układanką do nauki alfabetu, opisaną jako zestaw zabawek Montessori i edukacyjnych kart. Kategoria 'Zabawki edukacyjne' (3083) idealnie oddaje przeznaczenie i charakter produktu, który ma wspierać rozwój i naukę dziecka.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567404626",
+        "Nazwa_Produktu": "Uchwyt Łazienkowy pomocniczy z Przyssawkami",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Pozostałe",
+        "Finalne_ID_AI": 2052,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest akcesorium łazienkowym (uchwyt pomocniczy), które nie pasuje do żadnej z bardziej szczegółowych podkategorii w gałęzi 'Akcesoria łazienkowe'. Kategoria 'Pozostałe' w tej gałęzi jest najlepiej dopasowana.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567404635",
+        "Nazwa_Produktu": "Forma silikonowa okrągła do pieczenia tarty 23cm",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia",
+        "Finalne_ID_AI": 2116,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to silikonowa forma do pieczenia tart i ciast, a także foremki na muffinki. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Blachy i formy do pieczenia' idealnie odpowiada temu opisowi, będąc najbardziej szczegółową i trafną kategorią-liściem.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567404647",
+        "Nazwa_Produktu": "Miska pulpa 500ml śr.165 h 45mm biała 50szt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe",
+        "Finalne_ID_AI": 2154,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to miska wykonana z pulpy trzciny cukrowej, sprzedawana w opakowaniu 50 sztuk, co wskazuje na jej jednorazowy charakter. Najbardziej szczegółową i semantycznie dopasowaną kategorią jest 'Naczynia jednorazowe', znajdująca się w gałęzi 'Zastawa stołowa'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567405656",
+        "Nazwa_Produktu": "Organizer samochodowy do Auta Między Siedzenia",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Torby, plecaki, organizery",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567405921",
+        "Nazwa_Produktu": "Ścierka do Mycia Polerowania Samochodu z Irchy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567406581",
+        "Nazwa_Produktu": "Sznurek Jutowy Brązowy Konopny 50m Zestaw 5szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567406597",
+        "Nazwa_Produktu": "Etui Obudowa Case Pokrowiec na Tablet iPad",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Etui",
+        "Finalna_Sciezka_AI": "Elektronika > Komputery > Tablety > Akcesoria",
+        "Finalne_ID_AI": 2192,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to etui/pokrowiec przeznaczone dla tabletu (iPad). Kategoria 'Elektronika > Komputery > Tablety > Akcesoria' jest najlepiej dopasowana, ponieważ etui jest akcesorium do tabletu, a iPad to tablet.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567407364",
+        "Nazwa_Produktu": "Serwetnik Stojak na Serwetki w Kształcie Psa",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Serwety i serwetki",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567407549",
+        "Nazwa_Produktu": "Szczotka Do Czyszczenia Butów Długie Włosie",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Włosy > Stylizacja > Szczotki i grzebienie",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567407562",
+        "Nazwa_Produktu": "Atomizer na perfumy flakonik butelka 5ml 3szt",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Perfumy > Dla kobiet > Pozostałe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "567407946",
+        "Nazwa_Produktu": "Wstążka Tasiemka Satynowa Biała 6mm x 91m 2 Rolki",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567408593",
+        "Nazwa_Produktu": "Klips do Kasków Narciarskich Klips do masek 12szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567408707",
+        "Nazwa_Produktu": "Organizer pojemnik wielofunkcyjny obrotowy 360°",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567408740",
+        "Nazwa_Produktu": "Gwizdek ultradźwiękowy do szkolenia psa metalowy",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567408992",
+        "Nazwa_Produktu": "Lodziarnia Sklep z Akcesoriami Zabawka dla Dzieci",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Zabawki edukacyjne",
+        "Finalne_ID_AI": 3083,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to zestaw do zabawy w lodziarnię, który w opisie jest wyraźnie określony jako 'zabawka edukacyjna' i podkreślono jego funkcje w nauce matematyki, logiki oraz koordynacji. Kategoria 'Zabawki edukacyjne' najlepiej oddaje główny cel i charakter produktu.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567408996",
+        "Nazwa_Produktu": "Dinozaur Pluszak Miękka Przytulanka dla Dzieci",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Maskotki",
+        "Finalne_ID_AI": 3077,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pluszowa zabawka, określona w tytule jako 'Pluszak' i 'Przytulanka'. Kategoria 'Maskotki' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem dla tego typu przedmiotu w drzewie kategorii.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567409001",
+        "Nazwa_Produktu": "Krówka Pluszak Miękka Przytulanka Dla Dzieci",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Maskotki",
+        "Finalne_ID_AI": 3077,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pluszowa przytulanka w kształcie krówki, przeznaczona dla dzieci. Kategoria 'Dla Dzieci > Zabawki > Maskotki' jest najlepiej dopasowana, ponieważ maskotka to synonim pluszowej zabawki/przytulanki.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567409005",
+        "Nazwa_Produktu": "Lalka Laleczka Sunny Day Do Czesania z Akcesoriami",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Lalki i akcesoria > Lalki",
+        "Finalne_ID_AI": 3091,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to lalka z akcesoriami do czesania, co idealnie pasuje do kategorii 'Dla Dzieci > Zabawki > Lalki i akcesoria > Lalki'.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567409011",
+        "Nazwa_Produktu": "Interaktywna Pluszowa Świnka Przytulanka chodzi rusza się",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dla Dzieci > Zabawki > Maskotki",
+        "Finalne_ID_AI": 3077,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to interaktywna, pluszowa świnka, która idealnie pasuje do kategorii 'Maskotki' w dziale 'Zabawki' dla dzieci. Opis wyraźnie wskazuje na cechy typowe dla pluszowej przytulanki.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567409014",
+        "Nazwa_Produktu": "Łyżka Kuchenna Wielofunkcyjna Cedzakowa Tarka 2szt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pozostałe",
+        "Finalne_ID_AI": 2127,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjna łyżka kuchenna pełniąca funkcje cedzaka i tarki. Jest to ogólny przybór kuchenny, który najlepiej pasuje do kategorii 'Pozostałe' w gałęzi 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne', ponieważ brak jest bardziej szczegółowej kategorii dla łyżek lub tarek.",
+        "api_error": {
+            "error": "Błąd pobierania atrybutów z OLX API."
+        }
+    },
+    {
+        "ID_Produktu": "567409019",
+        "Nazwa_Produktu": "Sakwa Rowerowa na Kierownicę z Odblaskiem Szary",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567409317",
+        "Nazwa_Produktu": "Słomki papierowe 15cm śr.8 czarne 100szt Papstar",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567409622",
+        "Nazwa_Produktu": "Pokrowiec na Kierownicę Antypoślizgowy Pluszowy",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567409705",
+        "Nazwa_Produktu": "Zabawka Gryzak Gumowy Dla Psa Kaktus",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567409815",
+        "Nazwa_Produktu": "Sznurek Linka do Wieszania Prania 5m 3szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "567409831",
+        "Nazwa_Produktu": "Naturalny Bawełniany Sznurek Makramowy 3mm 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Antyki i Kolekcje > Rękodzieło > Biżuteria - półprodukty",
+        "Finalne_ID_AI": 4047,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "75%",
+        "Uzasadnienie_AI": "Produkt to sznurek makramowy, który jest półproduktem do różnego rodzaju robótek ręcznych. Spośród dostępnych kategorii w gałęzi 'Antyki i Kolekcje > Rękodzieło', 'Biżuteria - półprodukty' jest jedyną, która odnosi się do materiałów/półproduktów, a nie gotowych wyrobów ('Produkty rękodzielnicze') ani innej techniki ('Szycie i filcowanie'). Choć makrama ma szersze zastosowanie niż tylko biżuteria, jest to najbardziej semantycznie dopasowana kategoria dla surowca do rękodzieła, biorąc pod uwagę brak bardziej ogólnej kategorii dla półproduktów rękodzielniczych."
+    },
+    {
+        "ID_Produktu": "567410117",
+        "Nazwa_Produktu": "Czyściwo włókninowe 32cm 100mb 256listków Perfecto",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567410351",
+        "Nazwa_Produktu": "Lampka LED solarna turystyczna z funkcją powerbank",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Telefony > Akcesoria > Powerbanki",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567410406",
+        "Nazwa_Produktu": "Taśma na Palce Sportowa Taśma do Tapingu Biały x2",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567411064",
+        "Nazwa_Produktu": "Organizer do samochodu 3-komorowy składany",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Akcesoria dla niemowląt > Torby, plecaki, organizery",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567411292",
+        "Nazwa_Produktu": "Osłona Przeciwsłoneczna do Samochodu 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
+    },
+    {
+        "ID_Produktu": "567411511",
+        "Nazwa_Produktu": "Zestaw śrubek 174 szt. śruby stożkowe nakrętki M2 M3 M4",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
     }
 ]

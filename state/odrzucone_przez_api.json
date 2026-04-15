@@ -2488,5 +2488,980 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567375876",
+        "Nazwa_Produktu": "Vileda mop płaski zestaw Ultramax BOX 1 kpl",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalne_ID_AI": 2112,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do sprzątania (mop, wiadro), który należy do wyposażenia wnętrz. W drzewie kategorii brak jest bardziej szczegółowej podkategorii dla narzędzi do sprzątania domu. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pozostałe' jest najbardziej odpowiednia, ponieważ mop nie jest ani akcesorium łazienkowym, ani przyborem kuchennym, ani narzędziem budowlanym/ogrodowym w kontekście innych kategorii 'Narzędzia'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda mop płaski zestaw ultramax box 1 kpl",
+                "description": "System ULTRAMAX: najpopularniejszy mop płaski z bezdotykowym systemem odsączenia. Doskonale wyczyści każdy rodzaj czyszczonych powierzchni pozostawiając je czystymi i lśniącymi. Mop usuwa 99% bakterii przy użyciu samej wody. Udowodnione w badaniach przeprowadzonych przez niezależny, akredytowany instytut badań mikrobiologicznych i immunologicznych* *Test przeprowadzony przez BMA-Labor GbR na bakteriach Escherichia coli i Staphylococcus aureus występujących w domu. Czysta podłoga - suche dłonie Mop płaski UltraMax w zestawie ze standardowym wiaderkiem z wyciskaczem UltraMax, które umożliwia wyciskanie i wyżymanie mopa bez brudzenia i moczenia rąk. 2 rodzaje mikro - włókien Vileda Białe włókna zapewniają czystość bez smug i zarysowań nawet najdelikatniejszych powierzchni. Czerwone włókna doskonale radzą sobie z uporczywym brudem i drobinami bez konieczności stosowania detergentów. Dokładne sprzątanie UltraMax bez trudu posprząta w narożnikach i trudno dostępnych miejscach. Ruchoma główka mopa pozwala na łatwe manewrowanie mopem nawet pod meblami . Wygoda i higiena Nakładka mopa płaskiego mocowana za pomocą klipsów jest łatwa do zdjęcia. Może być wielokrotnie prana w pralce automatycznej w temperaturze maximum 60 stopni. Cena za 1 szt. (komplet: mop płaski z trzyczęściowym drążkiem oraz wiadro) Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2112,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 203.42,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/a35adedd1f9f5ca2f1cdedfd721ac53b.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/e7fe76e6c3cbc824dd5eb2eacb83d1f5.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567377133",
+        "Nazwa_Produktu": "Rękawice Vileda Universal rozm. S  1 para",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Odzież robocza > Rękawice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy",
+        "Finalne_ID_AI": 2131,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rękawice przeznaczone do prac domowych, w tym do zmywania naczyń, co jest wyraźnie zaznaczone w opisie. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy' jest idealnie dopasowana, ponieważ zawiera 'rękawice' i znajduje się w gałęzi 'Dom i Ogród', co odpowiada przeznaczeniu produktu. Kategoria z podpowiedzi 'Firma i Przemysł > Odzież robocza > Rękawice' jest mniej trafna, ponieważ sugeruje zastosowanie profesjonalne/przemysłowe, a nie domowe.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rękawice vileda universal rozm. s  1 para",
+                "description": "Rękawice Vileda Universal rozm. S 1 para. Rękawice Vileda Universal to wygodne rękawiczki do prac domowych, które dokładnie przylegają do dłoni. . wyprofilowane do prac domowych EAN: 8410435841000 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Zachowaj to opakowanie w celach informacyjnych. Te rękawice są przeznaczone wyłącznie do użytku domowego, np. do ochrony przed wilgocią i wodą podczas zmywania naczyń. Nie używać z silnymi chemikaliami. Produkt nie powinien być wystawiany na bezpośrednie działanie promieni słonecznych. Produkt nie jest przeznaczony do kontaktu z żywnością.\n\n[DEAL-BLB2B]",
+                "category_id": 2131,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 19.19,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/6f03f074f8d5d6af634a3e9ca6065a0a.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567378192",
+        "Nazwa_Produktu": "Pasta Ścierna Piaskowa Ola 0,25Kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące",
+        "Finalne_ID_AI": 4705,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pasta ścierna piaskowa' przeznaczona do usuwania trudnych zabrudzeń, takich jak oleje i smary. Jest to środek czyszczący o charakterze ściernym, prawdopodobnie do zastosowań warsztatowych, budowlanych lub przemysłowych. Kategoria 'Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące' jest najbardziej precyzyjna, ponieważ odzwierciedla zarówno rodzaj produktu (środek czyszczący), jak i jego przeznaczenie (usuwanie ciężkich zabrudzeń, często występujących w budownictwie lub przemyśle, co jest zgodne z gałęzią 'Budowa'). Jest to bardziej trafne niż ogólne 'Środki czyszczące' w 'Supermarkecie' czy 'Osprzęt do narzędzi', który nie pasuje do charakteru pasty.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Pasta ścierna piaskowa ola 0,25kg",
+                "description": "Pasta ścierna piaskowa Ola 0,25kg. Pasta piaskowa Ola przeznaczona do usuwania trudnych zabrudzeń typu oleje, smary. Sposób użycia i dozowania: Nanieść niewielką ilość, dokładnie wetrzeć, a następnie obficie spłukać wodą. Cena dotyczy 1 szt. 0,25 litra.\n\n[DEAL-BLB2B]",
+                "category_id": 4705,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 21.8,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/c4216ebd980e813f67561a19ca2f9ef4.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/45001d3b8916462d9618a17f4b7f8b12.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567381025",
+        "Nazwa_Produktu": "Vileda Mop obrotowy Vileda Ultramax Turbo",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mop obrotowy, który jest narzędziem służącym do sprzątania i jest obsługiwany ręcznie. Kategoria 'Dom i Ogród > Narzędzia > Narzędzia ręczne' najlepiej oddaje charakter tego produktu, będąc bardziej precyzyjną niż ogólne 'Pozostałe Narzędzia' lub kategorie dotyczące chemii budowlanej/środków czyszczących, które nie obejmują narzędzi.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda mop obrotowy vileda ultramax turbo",
+                "description": "Vileda Mop obrotowy Vileda Ultramax Turbo. Wkład do mopa obrotowego Ultramax TURBO mocowany jest za pomocą klipsów, jest łatwy do zdjęcia. Zapas do mopa może być wielokrotnie prany w pralce automatycznej w temperaturze maksymalnie 60 stopni. Wymiary: Wiadro: 49cm (długość łącznie z pedałem) x 29cm (szerokość) x 31,5cm (wysokość) Długość drążka teleskopowego wraz ze stopą oraz wkładem 130cm Długość drążka teleskopowego - 122 cm rozłożony , 55cm złożony Stopa: 34cm x 10cm Wymiary kartonu: 49cm x 29cm x 29cm Waga: 3,16 kg Kup dodatkowy zapasowy wkład do mopa. Poprzednia nazwa tego mopa to mop obrotowy Ultramat Turbo. EAN: 4023103206236 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Maksymalna temperatura prania wkładu to 60C. Nie suszyć w suszarce bębnowej i nie prasować. Nie prać chemicznie i nie stosować wybielaczy czy płynów zmiękczających. Należy unikać kontaktu z ostrymi przedmiotami.\n\n[DEAL-BLB2B]",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 305.12,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/0683563f95a9d80fa2fc6418d79efa70.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567381034",
+        "Nazwa_Produktu": "Vileda zestaw Ultramax XL BOX mop płaski z wiadrem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalne_ID_AI": 2112,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw do sprzątania (mop i wiadro), który jest elementem wyposażenia wnętrz/gospodarstwa domowego. Brak bardziej szczegółowej kategorii dla narzędzi do sprzątania, dlatego wybieram ogólną kategorię 'Pozostałe' w ramach 'Wyposażenie wnętrz'. Sugerowana kategoria 'Środki czyszczące' jest nieodpowiednia, ponieważ dotyczy chemii, a nie sprzętu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda zestaw ultramax xl box mop płaski z wiadrem",
+                "description": "Zestaw Ultramax XL BOX - mop płaski + wiadro 20% szersza nakładka czyszcząca. Dużo szybsze sprzątanie. Mop płaski Ultramax w wersji XL wyposażony jest w nakładkę czyszczącą o szerokości 42 cm. Dzięki niej jeszcze szybciej pozmywasz każdą podłogę. Mop Vileda usuwa 99% bakterii przy użyciu samej wody. Udowodnione w badaniach przeprowadzonych przez niezależny, akredytowany instytut badań mikrobiologicznych i immunologicznych* *Test przeprowadzony przez BMA-Labor GbR na bakteriach Escherichia coli i Staphylococcus aureus występujących w domu. 2 rodzaje mikro - włókien Vileda Wkład do mopa Ultramax XL posiada dwa typy włókien. Białe włókna zapewniają czystość bez smug i zarysowań nawet najdelikatniejszych powierzchni. Czerwone włókna doskonale radzą sobie z uporczywym brudem i drobinami bez konieczności stosowania detergentów. Czysta podłoga - suche dłonie Mop płaski Ultramax XL pasuje do standardowego wiadra z wyciskaczem Ultramax, które umożliwia wyciskanie i wyżymanie mopa bez brudzenia i moczenia rąk. Sprytnie dociera do trudno dostępnych miejsc Mop do podłóg Vileda bez trudu posprząta w narożnikach i trudno dostępnych miejscach. Ruchoma główka mopa pozwala na łatwe manewrowanie mopem nawet pod meblami. Nie raz, nie dwa ale wielokrotnie Wkład mopa płaskiego Ultramax XL jest mocowany za pomocą klipsów, dlatego jest łatwy do zdjęcia i wymiany. Wkład do mopa można prać w pralce automatycznej w temperaturze nie większej niż 60 stopni. Można dokupić zapasowy wkład do mopa Ultramax XL. Elementy zestawu W skład zestawu Ultramax XL BOX wchodzi: Mop płaski z trzyczęściowym drążkiem Wkład o szerokości 42 cm Wiadro z wyciskaczem Zestaw zapakowany jest w karton. Waga: 1,8 kg. VILEDA 160932 EAN: 4023103212022 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Maksymalna temperatura prania wkładu to 60C. Nie suszyć w suszarce bębnowej i nie prasować. Nie prać chemicznie i nie stosować wybielaczy czy płynów zmiękczających. Należy unikać kontaktu z ostrymi przedmiotami.\n\n[DEAL-BLB2B]",
+                "category_id": 2112,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 234.47,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/869e7acaf841fd44f905d335e93de11f.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567382974",
+        "Nazwa_Produktu": "Zmiotka 2w1 z szufelką Vileda 1 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to 'zmiotka z szufelką', czyli narzędzie ręczne przeznaczone do sprzątania. Kategoria 'Dom i Ogród > Narzędzia > Narzędzia ręczne' jest najbardziej odpowiednia, ponieważ jest to manualne narzędzie do prac domowych, a nie ma bardziej szczegółowej kategorii dla narzędzi do sprzątania.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zmiotka 2w1 z szufelką vileda 1 szt.",
+                "description": "Zmiotka 2w1 z szufelką Vileda 1 szt. Szufelka i zmiotka 2w1 od Viledy - praktyczny zestaw domowy! Zmiotka z szufelką z wysokiej jakości materiału świetna do małych prac domowych: zmiotka posiada dwa rodzaje włosia zmiotka dzięki swojej budowie i wyprofilowanemu włosiu dociera do kątów szufelka zakończona praktyczną gumką, dzięki czemu precyzyjnie można zgarnąć na nią brud i kurz praktyczne i nowoczesne mocowanie zmiotki do szufelki Cena dotyczy 1 szt. Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 42.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/43cd1aaa59ea3557080d0b3b033ce27c.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567383020",
+        "Nazwa_Produktu": "Rękawice Vileda Universal rozm. M  1 para",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Odzież robocza > Rękawice",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy",
+        "Finalne_ID_AI": 2131,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rękawice przeznaczone do użytku domowego, w szczególności do zmywania naczyń. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Ścierki, rękawice i fartuchy' jest idealnie dopasowana, ponieważ zawiera 'rękawice' w kontekście akcesoriów kuchennych/domowych. Sugerowana kategoria 'Firma i Przemysł > Odzież robocza > Rękawice' jest nieodpowiednia ze względu na wyraźne wskazanie w opisie, że produkt przeznaczony jest WYŁĄCZNIE do użytku domowego, a nie roboczego/przemysłowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Rękawice vileda universal rozm. m  1 para",
+                "description": "Rękawice Vileda Universal rozm. M 1 para. Rękawice Vileda Universal to wygodne rękawiczki do prac domowych, które dokładnie przylegają do dłoni. wyprofilowane do prac domowych EAN: 8410435841024 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Zachowaj to opakowanie w celach informacyjnych. Te rękawice są przeznaczone wyłącznie do użytku domowego, np. do ochrony przed wilgocią i wodą podczas zmywania naczyń. Nie używać z silnymi chemikaliami. Produkt nie powinien być wystawiany na bezpośrednie działanie promieni słonecznych. Produkt nie jest przeznaczony do kontaktu z żywnością.\n\n[DEAL-BLB2B]",
+                "category_id": 2131,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 19.32,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/af395616a7797d25d3c0b934573c1c96.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567384981",
+        "Nazwa_Produktu": "Vileda Mop Obrotowy Turbo 3W1 Mikrofibra",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalne_ID_AI": 2112,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to mop obrotowy, który jest narzędziem do sprzątania i wyposażeniem wnętrz. Kategoria 'Dom i Ogród > Wyposażenie wnętrz' jest najbardziej odpowiednia dla tego typu przedmiotów. Ponieważ brak jest bardziej szczegółowej podkategorii dla narzędzi do sprzątania w tej gałęzi, kategoria 'Pozostałe' jest najlepszym dopasowaniem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda mop obrotowy turbo 3w1 mikrofibra",
+                "description": "Mop obrotowy Vileda TURBO 3w1 Mikrofibra 40% skuteczniejsze czyszczenie podłóg bez wysiłku Zestaw Vileda Turbo został dopracowany w najmniejszym szczególe, aby codzienne zmywanie podłogi było jak najmniej uciążliwe. NOWOŚĆ łączy technologię najlepszego mopa płaskiego z najlepszym mopem sznurkowym co daje doskonałe efekty czyszczenia. Ergonomiczny kształt wiaderka sprawia, ze jego przenoszenie, napełnianie i opróżnianie jest maksymalnie wygodne. Mop usuwa 99% bakterii przy użyciu samej wody. Udowodnione w badaniach przeprowadzonych przez niezależny, akredytowany instytut badań mikrobiologicznych i immunologicznych* *Test przeprowadzony przez BMA-Labor GbR na bakteriach Escherichia coli i Staphylococcus aureus występujących w domu. Vileda TURBO 3w1 Mikrofibra - wyjątkowy wkład 3w1 Vileda TURBO 3w1 Mikrofibra - 40% efektywniejszy w walce z zanieczyszczeniami 40% efektywniejszy w walce z zanieczyszczeniami Dwuczęściowa konstrukcja łączy technologię najlepszego mopa płaskiego z najlepszym mopem sznurkowym co daje jeszcze doskonalsze efekty czyszczenia. Skutecznie czyści Dwukolorowe, trójwymiarowe włosie zapewnia czystość bez smug i zarysowań nawet najdelikatniejszych powierzchni i doskonale radzi sobie z uporczywym brudem i drobinami. Vileda TURBO 3w1 Mikrofibra - czyści skutecznie Vileda TURBO 3w1 Mikrofibra - system odwirowywania w wiadrze Czysta podłoga - suche dłonie Skuteczny obrotowy system odsączania mopa Odpowiednio wyprofilowane sito zapewnia łatwą aplikację wkładu i pozwala na uzyskania pożądanej wilgotności mopa. Mechanizm obrotowy jest trwały i wygodny w użytkowaniu. Ergonomia zestawu Vileda Turbo 3 w 1 Wiaderko Wygody uchwyt, zapewniający równowagę przy przenoszeniu wiaderka. Uchwyt na mop Pozwala na łatwiejsze przechowywanie zestawu sprzątającego (mop + wiaderko) Odpływ wody Umożliwia łatwe opróżnianie wiaderka bez ryzyka rozlania. Vileda TURBO 3w1 Mikrofibra - ergonomiczne wiadro Vileda TURBO 3w1 Mikrofibra - dociera do zakamarków Dociera do zakamarków Profil trójkątnej główki pozwala na łatwe dotarcie do kątów i narożników a ruchoma głowica ułatwia czyszczenie nawet w trudno dostępnych miejscach pod meblami. Wkład mopa obrotowego 3w1 może być stosowany zamiennie z wkładem do mopa obrotowego Turbo oraz Turbo 2w1 EAN: 4023103227446 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com Maksymalna temperatura prania wkładu to 30C. Nie suszyć w suszarce bębnowej i nie prasować. Nie prać chemicznie i nie stosować wybielaczy. Należy unikać kontaktu z ostrymi przedmiotami.\n\n[DEAL-BLB2B]",
+                "category_id": 2112,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 288.59,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/ba98a15e1587bbad2cd2de3674482bbc.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567390788",
+        "Nazwa_Produktu": "Vileda Wiadro Z Wyciskaczem Do Mopa Ultramax 1 Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalne_ID_AI": 2112,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wiadro z wyciskaczem do mopa, będące akcesorium do sprzątania w domu. Brak jest dedykowanej kategorii dla ogólnych narzędzi i akcesoriów do sprzątania podłóg. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pozostałe' jest najbardziej odpowiednia, ponieważ produkt jest elementem wyposażenia wnętrz, który nie mieści się w bardziej szczegółowych podkategoriach (np. kuchennych czy łazienkowych akcesoriów).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda wiadro z wyciskaczem do mopa ultramax 1 szt",
+                "description": "Vileda Wiadro z wyciskaczem do mopa Ultramax 1 szt. Wiadro Ultramax to specjalistyczne wiadro z zaprojektowaną wyciskarką, która umożliwia komfortowe wyżymanie mopa bez konieczności moczenia rąk. Wyprofilowany kształt sita wiadra, umożliwia łatwe i sprawne odsączanie mopa. Wyciskacz wyposażony został w ruchomą część sita, które zapewnia kontrolę odsączania mopa i siły nacisku. Unikalne wiadro z wyciskaczem Vileda przeznaczone jest do mopa płaskiego Ultramax oraz mopa Ultramax XL. Wymiary wiadra Ultramax: długość 38 cm szerokość 30 cm wysokość 29/38 cm z sitem pojemność : 10 litrów Cena za opakowanie 1 szt. EAN: 4023103201415 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany www.vileda.com service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2112,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 77.48,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/e80cc2086acc2c2eeb74d88f5517e0f0.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "85076df7-ad79-4e99-a52d-c1c2d4b67b2e",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567408567",
+        "Nazwa_Produktu": "Dzwonek bezprzewodowy do drzwi Tecknet Biały",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to bezprzewodowy dzwonek do drzwi, który jest elementem elektrycznej instalacji domowej. Kategoria 'Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny' jest najbardziej odpowiednia, ponieważ obejmuje różnorodne akcesoria i komponenty służące do budowy i uzupełniania systemów elektrycznych w domu. Jest to bardziej szczegółowa kategoria niż ogólne 'Pozostałe' w ramach Elektryki.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Dzwonek bezprzewodowy do drzwi tecknet biały",
+                "description": "Produkt fabrycznie nowy, nieużywany w oryginalnym opakowaniu. Idealny dla każdego domu, dzięki dużemu zasięgowi radiowemu i odporności na warunki atmosferyczne. Różne Melodie i Regulowana Głośność: 38 różnych melodii w jakości CD. 4 poziomy regulacji głośności od 0 dB do 90 dB. Funkcja pamięci do wyboru dźwięku i dzwonka. Nadajnik o stopniu ochrony IP44. Wodoodporna struktura pierścienia. Temperatura pracy od -10C do 50C, co zapewnia niezawodność w trudnych warunkach pogodowych. Duży Zasięg Radiowy: Obsługuje zasięg ponad 150 m w standardowych warunkach. W otwartym terenie zasięg wynosi do 350 m. Silny sygnał zapewnia niezawodność, nawet gdy jesteś na innym piętrze. Silne Zakłócenia: Bezprzewodowy dzwonek nie jest zakłócany przez inne urządzenia i nie przeszkadza w działaniu innych urządzeń. Marka: TECKNET Model: HWD01880 Moc Znamionowa: 2W Wymiary: 10 x 7 x 7.5 cm\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 120.78,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/3bb82747cd7d863b85ddf0c15804c80c.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/a15a8b63209495f557fb6ee38e21e270.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567409221",
+        "Nazwa_Produktu": "Trytytki Opaski Zaciskowe Kablowe Żółte 400Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opaski zaciskowe kablowe (trytytki), które są podstawowym elementem osprzętu używanego w instalacjach elektrycznych i innych pracach montażowych. Kategoria 'System i osprzęt instalacyjny' najlepiej oddaje przeznaczenie tego produktu, zwłaszcza z uwagi na wspomniane w opisie 'okablowanie'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Trytytki opaski zaciskowe kablowe żółte 400szt",
+                "description": "Produkt fabrycznie nowy, nieużywany w oryginalnym opakowaniu. Zestaw 400 sztuk trytytek opasek zaciskowych nylonowych to niezbędny element w każdym warsztacie, biurze czy domu. Wykonane z wysokiej jakości nylonu, są odporne na wysokie temperatury i promieniowanie UV, co gwarantuje trwałość nawet w ekstremalnych warunkach. Ich samoblokująca konstrukcja oraz wysoka wytrzymałość na rozciąganie sprawiają, że są idealne do okablowania, mocowania rur, korekcji wegetacji, ogrodzeń i wielu innych zastosowań. Wysoka wytrzymałość na rozciąganie: 22 kg Szeroki zakres zastosowań Marka: OSXCAUES Kolor: Żółty Liczba sztuk: 400 Długość x Szerokość: 200 x 2.5 mm Temperatura robocza: -40 85 ? / -40 185 ?\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 49.86,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/bc1c2f8b2ec720fae37a743a41e5da26.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/8f17a47a9f2bb6c47646cbfdbf66db0a.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567409637",
+        "Nazwa_Produktu": "Lina Nylonowa Karabińczyk Mocowanie Hamak 1m",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Hamaki i leżaki",
+        "Finalne_ID_AI": 3989,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lina z karabińczykiem przeznaczona głównie do mocowania hamaków i huśtawek. Kategoria 'Sport i Hobby > Turystyka > Kuchnie i meble turystyczne > Hamaki i leżaki' jest najbardziej szczegółowa i trafnie oddaje przeznaczenie produktu, ponieważ hamaki i huśtawki są ściśle związane z tą kategorią wyposażenia turystycznego i ogrodowego.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Lina nylonowa karabińczyk mocowanie hamak 1m",
+                "description": "Produkt fabrycznie nowy, nieużywany w oryginalnym opakowaniu. Lina Linka Nylonowa z Karabińczykiem Mocowanie Hamaka Huśtawki 1m 12mm Ten model jest wykonany z plecionej liny nylonowej o średnicy 12 mm, bardzo mocnej i ultralekkiej, opaski linowe są najpierw obrabiane przez doskonałe zszycie doczołowe, a następnie profesjonalną obróbkę obkurczającą Hak zabezpieczający wykonany jest z grubej stali nierdzewnej 304, jest już zamontowany i obraca się o 360, dopuszczalna waga: 450 kg. Wykonany z nylonu o dużej gęstości, ma zalety: dobrą odporność na ścieranie, wysoką wytrzymałość, długą żywotność, niewielką wagę, łatwy do przenoszenia, szybkoschnący, elastyczny i łatwy do wiązania. Doskonałe dopasowanie do środowiska zewnętrznego, jeden koniec jest przyszyty z haczykiem, co ułatwia przymocowanie do sprzętu oraz jest wygodniejsze i praktyczne. Nadaje się do huśtawek, hamaków zewnętrznych, jogi powietrznej, krzeseł wiszących, huśtawek ogrodowych, huśtawek oponowych, huśtawek tarczowych, huśtawek pasowych, huśtawek hamakowych, klasycznych huśtawek na drzewach, huśtawek dla dzieci i huśtawek na ganku, huśtawek dla dzieci, huśtawek wewnętrznych i gniazd dla dzieci, wiszących siedzenia itp.\n\n[DEAL-BLB2B]",
+                "category_id": 3989,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 44.87,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/7d2d604abc546b1363a38e6aee484120.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/79e8a0c186d239c14299e789cda0a068.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/3181887091660fd627c9e8b9bee29dd2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "5b322e13-fe51-4e21-b710-2a456f319096"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Bad Request",
+                    "detail": "Image error: Szerokość zdjęcia musi mieć conajmniej 100 px"
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567410765",
+        "Nazwa_Produktu": "Vileda Szczotka Duactiva Classic Bez Drążka",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szczotka do zamiatania, która jest narzędziem ręcznym używanym w domu i ogrodzie. Kategoria 'Dom i Ogród > Narzędzia > Narzędzia ręczne' jest najbardziej semantycznie dopasowana i specyficzna dla tego typu przedmiotu. Sugerowana kategoria 'Środki czyszczące' jest nieprawidłowa, ponieważ produkt jest narzędziem, a nie substancją czyszczącą.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Vileda szczotka duactiva classic bez drążka",
+                "description": "Vileda Szczotka DuActiva Classic bez drążka Szczotka do zamiatania DuActiva Classic to wyjątkowe połączenie gąbki i włókien czyszczących. Szczotka z gąbką od Viledy doskonale zbiera brud, kurz, sierść i włosy Gąbka posiada właściwości elektrostatyczne i świetnie zamiata kurz i drobne paproszki DuActiva Classica zapobiega wzbijaniu się kurzu w powietrze i jego ponownemu opadaniu na podłogę Gumowe zakończenie szczotki DuActiva Classic chroni ściany przed zniszczeniami Szczotka nie posiada drążka; kij do szczotki można dokupić osobno. Cena za 1 szt. \" Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\"\n\n[DEAL-BLB2B]",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 45.0,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/52a38b844e3c2ca4743874a806b2a7d3.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/31f36221df9b054efaa1b30f303dab49.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/cd323bef8b4fd91226cdc2e85e64d1e0.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567410778",
+        "Nazwa_Produktu": "Końcówka do Mopa Vileda Supermocio 3Action XL",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Pozostałe",
+        "Finalne_ID_AI": 2112,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to końcówka do mopa, która jest artykułem gospodarstwa domowego służącym do sprzątania. Najbardziej odpowiednią gałęzią jest 'Dom i Ogród > Wyposażenie wnętrz', a ponieważ brak jest bardziej szczegółowej kategorii dla akcesoriów do sprzątania, kategoria 'Pozostałe' w tej gałęzi jest najlepiej dopasowana. Sugestia systemowa 'Środki czyszczące' jest nieprawidłowa, gdyż produkt nie jest środkiem chemicznym, lecz narzędziem.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Końcówka do mopa vileda supermocio 3action xl",
+                "description": "Mop Vileda Supermocio 3Action XL Jest innowacyjnym i najbardziej rozwiniętym technologicznie mopem występującym obecnie na rynku. Wkład myjący posiada trzy rodzaje powierzchni, które są gwarancją higienicznie czystej podłogi Mop oferuje trzy główne funkcje czyszczące: czerwoną, nierysującą ściereczkę do usuwania uporczywych zabrudzeń, niebieskie paski z mikrofibry do usuwania tłustych pozostałości, czerwone kropki 3D do usuwania dodatkowych włosów i cząstek XL zapewnia 25% większą styczność z podłogą, dzięki czemu sprzątanie jest bardziej wydajne W sprzedaży sama końcówka do mopa VILEDA Mop Vileda Supermocio 3Action XL Stan: Nowy Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2112,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 30.97,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/82738c8b931a4a98c11092b013e357da.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/c00b1acef664c227dee8dc1268f56f00.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567410783",
+        "Nazwa_Produktu": "Nakładka na mopa Ultramax Care płaski 1szt Vileda",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Pozostałe",
+        "Finalne_ID_AI": 2052,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to nakładka/wkład do mopa, będący akcesorium do sprzątania. W braku dedykowanej kategorii dla narzędzi do sprzątania, najbardziej semantycznie zbliżoną gałęzią jest 'Dom i Ogród > Wyposażenie wnętrz'. W tej gałęzi, 'Akcesoria łazienkowe' często obejmują ogólne artykuły do sprzątania, takie jak szczotki czy kosze. Wybrano kategorię 'Pozostałe' w ramach 'Akcesoria łazienkowe', jako najbardziej odpowiednią dla akcesorium do mopa, które nie jest ani chemią budowlaną, ani meblem, ani narzędziem w sensie budowlanym czy ogrodowym.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Nakładka na mopa ultramax care płaski 1szt vileda",
+                "description": "Wkład do mopa Vileda Ultramax Care Wkład do mopa płaskiego Vileda Ultramax Care doskonale czyści najdelikatniejsze podłogi. Fioletowe włókna usuwają zanieczyszczenia i włosy. Białe włókna wykonane w 100% z mikrofibry z recyklingu wycierają podłogę do sucha i polerują ją. Unikalne połączenie włókien zapewnia odpowiednią wilgotność, co chroni delikatne powierzchnie przed zarysowaniami. Wkład można prać w pralce z podobnymi tkaninami w temperaturze do 60C, dzięki czemu może być używany wielokrotnie bez utraty skuteczności. W ten sposób można nie tylko zaoszczędzić pieniądze, ale również ograniczyć ilość odpadów. W celu zachowania maksymalnej mocy czyszczącej rekomendujemy wymianę wkładu co 6 miesięcy. Wycieranie do sucha i polerowanie podłogi 100% mikrofibra z recyklingu* Włókna o zaawanowanej technologii Łatwa wymiana wkładu Odpowiedni do delikatnych powierzchni Nadaje się do prania w pralce i wielokrotnego użycia do 6 miesięcy Pasuje do mopa Vileda Ultramax i Vileda Ultramax 1-2 Spray, nie pasuje do Vileda 1-2 Spray Max *Materiał z recyklingu to mikrofibra we wkładzie (białe włókna). Całkowita zawartość materiału z recyklingu 75% części wkładu wykonanej z tkaniny. Vileda 173490 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 2052,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 64.28,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/b4dde67822d4b127bcc743d13b4f7fb2.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567410793",
+        "Nazwa_Produktu": "Szczotka elektrostatyczna do sierści 1 szt Vileda",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalne_ID_AI": 1694,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręczna szczotka przeznaczona do usuwania sierści zwierząt, co klasyfikuje ją jako narzędzie obsługiwane manualnie. Kategoria 'Narzędzia ręczne' jest najbardziej odpowiednia w drzewie kategorii, ponieważ szczotka jest narzędziem, a jej obsługa odbywa się ręcznie. Sugerowana kategoria 'Osprzęt do narzędzi' nie jest trafna, gdyż szczotka jest samodzielnym narzędziem, a nie akcesorium do innego narzędzia.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Szczotka elektrostatyczna do sierści 1 szt vileda",
+                "description": "Szczotka elektrostatyczna do sierści i włosów Vileda Pet Pro Dzięki przyciąganiu elektrostatycznemu szczotka łatwo, szybko i delikatnie usuwa sierść zwierząt domowych z miękkich powierzchni. Jest trwała, łatwa w czyszczeniu i dociera do zakamarków oraz trudno dostępnych miejsc. Działanie elektrostatyczne skutecznie usuwa sierść zwierząt z miękkich powierzchni. Trwała i wytrzymała. Łatwy dociera do narożników i trudno dostępnych miejsc. Łatwa w czyszczeniu i wielokrotnego użytku. Dzięki właściwościom elektrostatycznym szczotka Vileda Pet Pro skutecznie przyciąga i zbiera sierść zwierząt z powierzchni tekstylnych. Specjalnie zaprojektowana główka szczotki i boczne włosie docierają do trudno dostępnych miejsc mebli, dzięki czemu żaden włos na nich nie pozostanie. Po użyciu szczotkę można opłukać pod bieżącą wodą. To zrównoważona opcja usuwania sierści zwierząt domowych. Trwałe i wytrzymałe włosie zmniejsza ilość odpadów. Szczotka Vileda Pet Pro z łatwością usuwa sierść zwierząt z każdej miękkiej powierzchni mebli, a nawet foteli samochodowych, dzięki właściwościom elektrostatycznym. Vileda 173019 Informacje na temat bezpieczeństwa Producent: Freudenberg Home and Cleaning Solution GmbH Im Technologiepark 19, 69469 Weinheim, Germany service@vileda.com\n\n[DEAL-BLB2B]",
+                "category_id": 1694,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 36.55,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/28a1386274391ee6710c46c5398fea93.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "ef5414d2-1fa4-4344-bf09-d1528cfb58e1",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu.",
+                            "detail": "Wpisałeś frazę: @, która nie jest dozwolona w tym polu."
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "ID_Produktu": "567411596",
+        "Nazwa_Produktu": "Zaciski Akumulatora Klipsy do Kabla Rozruchowego",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zaciski akumulatora do kabla rozruchowego, które są elementem osprzętu elektrycznego. Najlepiej pasującą kategorią jest 'Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny', ponieważ zaciski służą do podłączania w ramach różnych projektów elektrycznych i instalacji (np. do akumulatorów, paneli słonecznych, ogrodzeń elektrycznych). Sugerowana kategoria 'Narzędzia ręczne' jest zbyt ogólna i nie oddaje elektrycznego charakteru produktu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Zaciski akumulatora klipsy do kabla rozruchowego",
+                "description": "Zaciski Akumulatora Klipsy do Kabla Rozruchowego Dobra przewodność Przewody zacisków krokodylkowych są wykonane z czystej miedzi, która ma dobrą przewodność dla optymalnej wydajności. Izolowany uchwyt jest gumowy, aby zapewnić pewny chwyt podczas użytkowania, a kolory pomagają zidentyfikować ładunki dodatnie i ujemne Doskonała konstrukcja Te wytrzymałe zaciski są łatwe do otwierania, sprężynowe szczęki trzymają mocno, sprężyny na zaciskach mają dobry, mocny zacisk, a solidne szczęki krokodylkowe nie rozłączają się podczas zaciskania. Skuteczne alternatywy Mogą skutecznie zastąpić ładowarki akumulatorów garażowych i podobne urządzenia, takie jak panele słoneczne, ogrodzenia elektryczne, pojazdy kempingowe, ciężarówki, łodzie, kosiarki do trawy itp. Szerokie zastosowanie Szeroko stosowany w różnych projektach elektrycznych, tester napięcia, odpowiedni do wszystkich akumulatorów samochodowych i innych ciężarówek, łatwy w użyciu, przenośny, lekki, bezpieczny i niezawodny. Stan: Nowy\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 73.36,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/226fc3a0fef4b13f86a9fb5d06889701.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/b0e16654696b325958a1b115b4f1354a.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/876c604492b51ad1823d60b4c76dea48.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

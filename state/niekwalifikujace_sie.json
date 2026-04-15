@@ -6218,5 +6218,1865 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to profesjonalne opakowania cateringowe sprzedawane w ilościach hurtowych (320 szt.), przystosowane do zgrzewarek gastronomicznych i podlegające opłacie SUP, co jednoznacznie wskazuje na kategorię pojemników gastronomicznych w sekcji Firma i Przemysł."
+    },
+    {
+        "ID_Produktu": "567376848",
+        "Nazwa_Produktu": "Opakowanie  na zapiekanki 310x80x40mm 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papierowe opakowanie przeznaczone do pakowania dań na wynos w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ opakowanie pełni funkcję tymczasowego pojemnika gastronomicznego, używanego w restauracjach i food truckach, co jest zgodne z opisem produktu."
+    },
+    {
+        "ID_Produktu": "567377128",
+        "Nazwa_Produktu": "Pokrywka do miski 1300ml fi.185mm 50 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Miski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest pokrywką przeznaczoną do misek gastronomicznych, używanych w restauracjach, cateringu i do dań na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej adekwatna ze względu na wyraźne przeznaczenie produktu do użytku profesjonalnego w branży gastronomicznej. Brak jest bardziej szczegółowej kategorii dla samych pokrywek w tej gałęzi, dlatego 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567378497",
+        "Nazwa_Produktu": "Vileda Wkład do mopa obrotowego Turbo",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to wkład do mopa, który jest narzędziem do czyszczenia. Kategoria 'Narzędzia' zawiera inne sprzęty do czyszczenia (np. 'Myjki ciśnieniowe'). Ponieważ brak jest bardziej szczegółowej kategorii dla narzędzi do sprzątania, 'Pozostałe Narzędzia' jest najbardziej odpowiednim wyborem. Kategoria 'Środki czyszczące' jest przeznaczona dla detergentów, a nie akcesoriów do narzędzi."
+    },
+    {
+        "ID_Produktu": "567378505",
+        "Nazwa_Produktu": "Vileda Wkład do mopa obrotowego Turbo 2w1",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Części do narzędzi",
+        "Finalne_ID_AI": 4714,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'wkład do mopa obrotowego', który jest wymienną częścią narzędzia (mopa) służącego do czyszczenia. Kategoria 'Części do narzędzi' (ID: 4714) jest najbardziej precyzyjna i semantycznie dopasowana, ponieważ wkład jest integralną, wymienną częścią narzędzia, a nie samym narzędziem ani środkiem czyszczącym. Sugerowana kategoria 'Środki czyszczące' jest nieodpowiednia dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "567378812",
+        "Nazwa_Produktu": "Taśma do zaklejarki 9/66 6szt Plast",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma klejąca przeznaczona do zaklejania opakowań, co klasyfikuje ją jako materiał eksploatacyjny biurowy lub do zastosowań w małych firmach. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej odpowiednia, ponieważ taśmy klejące, w tym te do pakowania, są często zaliczane do akcesoriów biurowych."
+    },
+    {
+        "ID_Produktu": "567378845",
+        "Nazwa_Produktu": "Folia STRETCH MINIRAP 0,6 kg",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Folia stretch jest materiałem opakowaniowym używanym głównie w logistyce i magazynowaniu do zabezpieczania towarów na paletach. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej odpowiednim drzewem dla tego typu produktu. Ponieważ brak jest bardziej szczegółowej kategorii dla materiałów opakowaniowych, 'Pozostałe' w tej gałęzi jest najlepszym wyborem. Sugerowana kategoria 'Dom i Ogród > Supermarket > Pozostałe' jest myląca, gdyż produkt nie jest typowym artykułem supermarketowym."
+    },
+    {
+        "ID_Produktu": "567378933",
+        "Nazwa_Produktu": "Rękawice lateksowe pudrowane S Abena 100szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Rękawiczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to rękawice lateksowe ochronne, jednorazowe, dopuszczone do styczności z żywnością, co mocno wskazuje na zastosowanie profesjonalne, w tym w gastronomii. Mimo wzmianki o zastosowaniu diagnostycznym, kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej adekwatna, ponieważ brak jest osobnej kategorii dla rękawic ochronnych ogólnego przeznaczenia czy medycznych. Kategoria 'Moda > Akcesoria > Rękawiczki' jest nieodpowiednia ze względu na charakter produktu (ochronny, jednorazowy, nie modowy)."
+    },
+    {
+        "ID_Produktu": "567378938",
+        "Nazwa_Produktu": "Rękawice lateksowe pudrowane XL Abena 100szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Rękawiczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe rękawice ochronne, diagnostyczne, dopuszczone do kontaktu z żywnością. Nie są to rękawiczki modowe. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej odpowiednia, ponieważ obejmuje profesjonalne wyposażenie i akcesoria związane z branżą spożywczą i higieną, do której przeznaczone są rękawice."
+    },
+    {
+        "ID_Produktu": "567379384",
+        "Nazwa_Produktu": "Menu box burger 115x115x75  100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to tekturowy pojemnik jednokomorowy przeznaczony do pakowania hamburgerów, kanapek i frytek na wynos, z wyraźnym wskazaniem na zastosowanie w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i semantycznie dopasowana do opisu produktu."
+    },
+    {
+        "ID_Produktu": "567380841",
+        "Nazwa_Produktu": "Koperta na hamburger duży 200szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papierowe opakowanie (koperta) przeznaczone do pakowania hamburgerów na wynos, z wyraźnym zastosowaniem w gastronomii (restauracje, bary, food trucki). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym dopasowaniem, ponieważ koperta pełni funkcję pojemnika na żywność w środowisku gastronomicznym."
+    },
+    {
+        "ID_Produktu": "567381030",
+        "Nazwa_Produktu": "Vileda Mop obrotowy Vileda Ultramax Turbo XL",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to mop, który jest narzędziem służącym do sprzątania. Wśród dostępnych kategorii, najbliższą semantycznie jest 'Narzędzia'. Ponieważ nie ma bardziej szczegółowej kategorii dla narzędzi do sprzątania (jak np. 'Narzędzia do sprzątania' lub 'Sprzęt do utrzymania czystości'), 'Pozostałe Narzędzia' jest najlepiej dopasowaną kategorią-liściem. Sugerowana kategoria 'Środki czyszczące' jest błędna, ponieważ mop jest narzędziem, a nie środkiem chemicznym."
+    },
+    {
+        "ID_Produktu": "567382744",
+        "Nazwa_Produktu": "Papier pakowy biały 70x100cm gazetowy",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to papier pakowy przeznaczony do pakowania artykułów przemysłowych. Najbardziej odpowiednią kategorią jest 'Firma i Przemysł', a w jej ramach 'Sklepy i magazyny', ponieważ papier pakowy jest materiałem eksploatacyjnym często wykorzystywanym w tego typu działalnościach. Ponieważ nie ma bardziej szczegółowej kategorii dotyczącej materiałów do pakowania, kategoria 'Pozostałe' w gałęzi 'Sklepy i magazyny' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567382882",
+        "Nazwa_Produktu": "Gumki recepturki fi 50mm grubość 1,5mm w opakowaniu 1kg",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Dziurkacze i zszywacze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'gumki recepturki', które są klasycznym przykładem akcesoriów i materiałów biurowych, używanych do wiązania dokumentów, banknotów, ulotek itp. Opis produktu również wskazuje na szerokie zastosowanie, w tym biurowe (etykiety, ulotki, wizytówki, banknoty, wiązki kabli), co idealnie pasuje do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'."
+    },
+    {
+        "ID_Produktu": "567383317",
+        "Nazwa_Produktu": "Etykiety samoprzylepne 58x60 500etykiet na rolce",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to etykiety samoprzylepne, które są akcesoriami do drukarek termicznych i automatów etykietujących, używanych w sklepach, hurtowniach i przemyśle. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najlepiej dopasowana, ponieważ precyzyjnie odzwierciedla zastosowanie produktu w kontekście handlowym/przemysłowym jako akcesorium do urządzeń drukujących."
+    },
+    {
+        "ID_Produktu": "567385146",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 7,5x15/2 cm 6mic",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych i piekarniach. Najlepszą kategorią jest 'Firma i Przemysł' ze względu na przeznaczenie komercyjne. W ramach tej gałęzi, 'Gastronomia' jest najbardziej adekwatna, a ponieważ nie ma bardziej szczegółowej kategorii dla opakowań spożywczych, 'Pozostałe' jest najlepszym wyborem. Sugerowana kategoria 'Moda > Torby i torebki > Torby na ramię' została zignorowana, ponieważ jest semantycznie niezwiązana z produktem."
+    },
+    {
+        "ID_Produktu": "567388533",
+        "Nazwa_Produktu": "Lampa Wisząca Led Paulmann Neordic Ivar 3X20W E27",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalne_ID_AI": 3867,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'lampę wiszącą'. Kategoria 'Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567388541",
+        "Nazwa_Produktu": "Lampa Led Wisząca 3X20W Paulmann Neordic Neta E27",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalne_ID_AI": 3867,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na lampę wiszącą (Lampa Led Wisząca, forma oprawy oświetleniowej: Wisząca). Kategoria 'Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem."
+    },
+    {
+        "ID_Produktu": "567388550",
+        "Nazwa_Produktu": "Lampa Wisząca Led Paulmann Norell 3X20W E27",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalne_ID_AI": 3867,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to 'lampa wisząca'. Kategoria 'Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące' jest dokładnym dopasowaniem i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567388558",
+        "Nazwa_Produktu": "Lampa Led Paulmann Neordic Vanja 3X20W E27",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Fotografia > Oświetlenie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące",
+        "Finalne_ID_AI": 3867,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to 'lampa wisząca LED'. Kategoria 'Dom i Ogród > Oświetlenie > Lampy > Lampy wiszące' jest idealnie dopasowana i najbardziej szczegółowa."
+    },
+    {
+        "ID_Produktu": "567393003",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 228x178x45 800/200 colt 80s SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'pojemnik obiadowy do zgrzewu' oraz 'opakowania cateringowe', przystosowany do 'zgrzewarek gastronomicznych'. Te określenia jednoznacznie wskazują na profesjonalne zastosowanie w branży gastronomicznej, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "567397109",
+        "Nazwa_Produktu": "Pokrywka do tacy 45444 46 cm rPET 10 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to pokrywka przeznaczona do 'pater cateringowych', co wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ pokrywka jest akcesorium do pojemników/pater używanych w gastronomii. Jest to bardziej precyzyjne niż ogólne 'Tace i stoliki' z kategorii 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "567400047",
+        "Nazwa_Produktu": "Girlanda Świetlna Łańcuch RGB 400LED 20m Twinkly",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu 'Girlanda Świetlna' oraz opis jasno wskazują na oświetlenie typu girlanda. Kategoria 'Dom i Ogród > Oświetlenie > Girlandy świetlne' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567402466",
+        "Nazwa_Produktu": "Koperta 350x250mm bąbelkowa czerwona 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to koperta bąbelkowa, która jest klasyfikowana jako akcesorium i materiał biurowy, używany do wysyłki. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej adekwatna do przeznaczenia i charakteru produktu. Sugerowana kategoria 'Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze' jest nieodpowiednia, ponieważ koperta bąbelkowa nie jest typowym artykułem szkolnym, a jej główna funkcja to opakowanie do wysyłki, co pasuje do ogólnych materiałów biurowych, a nie szkolnych artykułów papierniczych."
+    },
+    {
+        "ID_Produktu": "567402566",
+        "Nazwa_Produktu": "Pudełko cukiernicze z oknem 25x15x8 Hersta 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pudełko cukiernicze' przeznaczone do pakowania tortów, babeczek i ciast na różne uroczystości. Jest to specjalistyczny pojemnik na żywność, co najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i zazwyczaj odnosi się do pudełek do przechowywania domowego, a nie opakowań spożywczych."
+    },
+    {
+        "ID_Produktu": "567403228",
+        "Nazwa_Produktu": "Rolka termiczna 57x25 Eco bez gilzy 10szt Primus",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne przeznaczone do kas fiskalnych i terminali płatniczych, które są typowymi urządzeniami używanymi w sklepach i magazynach. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najbardziej precyzyjna, ponieważ rolki stanowią akcesoria do tych urządzeń drukujących. Sugerowana kategoria 'Dla Dzieci' została zignorowana, gdyż jest całkowicie nietrafna."
+    },
+    {
+        "ID_Produktu": "567403238",
+        "Nazwa_Produktu": "Rolka termiczna 80x80 Eco bez gilzy 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne przeznaczone do kas fiskalnych i terminali płatniczych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najbardziej precyzyjna, ponieważ kasy fiskalne i terminale są urządzeniami drukującymi, a rolki stanowią ich akcesoria/materiały eksploatacyjne, używane w środowisku sklepowym/magazynowym. Sugerowana kategoria 'Dla Dzieci' jest całkowicie nieadekwatna."
+    },
+    {
+        "ID_Produktu": "567403738",
+        "Nazwa_Produktu": "Uchwyt Modułu Fotowoltaicznego Zacisk 6szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Fotowoltaika > Pozostałe",
+        "Finalne_ID_AI": 4032,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt montażowy (zacisk) do modułów fotowoltaicznych. Jest to akcesorium do instalacji fotowoltaicznych, które nie pasuje do bardziej szczegółowych kategorii takich jak falowniki, magazyny energii, panele czy zestawy. Kategoria 'Pozostałe' w gałęzi 'Fotowoltaika' jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "567403747",
+        "Nazwa_Produktu": "Torba na ramie bawełniana torba na zakupy beżowa",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Shopperki",
+        "Finalne_ID_AI": 2756,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'torba na zakupy' o dużej pojemności, wykonana z płótna i idealna do noszenia przedmiotów podczas zakupów, co precyzyjnie odpowiada definicji kategorii 'Shopperki'."
+    },
+    {
+        "ID_Produktu": "567403755",
+        "Nazwa_Produktu": "Mata do Szuflady Wodoodporna 30x150 cm Szara",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata przeznaczona do szuflad kuchennych. Szuflady są elementami mebli, a mata do nich stanowi akcesorium. Kategoria 'Akcesoria meblowe' jest najbardziej semantycznie dopasowana do funkcji i przeznaczenia produktu. Kategoria sugerowana w podpowiedzi ('Podkładki i maty' w 'Obrusy i serwetki') jest mniej precyzyjna, ponieważ sugeruje zastosowanie stołowe, a nie do szuflad."
+    },
+    {
+        "ID_Produktu": "567403759",
+        "Nazwa_Produktu": "Antypoślizgowa Mata Wkład do Szuflad 30x150cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to antypoślizgowa mata przeznaczona do wykładania szuflad, szaf, półek i blatów. Najlepiej pasującą kategorią jest 'Akcesoria meblowe', ponieważ mata pełni funkcję akcesorium do mebli i elementów wyposażenia wnętrz, chroniąc powierzchnie i zapobiegając przesuwaniu się przedmiotów. Kategoria 'Podkładki i maty' pod 'Obrusy i serwetki' jest zbyt wąska i sugeruje zastosowanie głównie jadalniane, co nie odpowiada wszechstronnemu zastosowaniu opisanego produktu."
+    },
+    {
+        "ID_Produktu": "567403778",
+        "Nazwa_Produktu": "Portfel damski z ekoskóry Portmonetka",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to damski portfel, a kategoria 'Moda > Akcesoria > Portfele' jest idealnie dopasowana semantycznie i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567403864",
+        "Nazwa_Produktu": "Wkład Pompy Filtrującej  Intex Typ S1 2 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Pompy wodne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wkład filtrujący przeznaczony do pomp basenowych/spa (Intex PureSpa), co bezpośrednio odnosi się do kategorii 'Baseny' w drzewie 'Dom i Ogród > Ogród'. Jest to najbardziej specyficzna dostępna kategoria dla tego typu akcesoriów basenowych."
+    },
+    {
+        "ID_Produktu": "567403907",
+        "Nazwa_Produktu": "Bransoletka regulowana z koralikami czarno-złoty",
+        "Poczatkowa_Sciezka_OLX": "Moda > Biżuteria > Bransoletki",
+        "Finalna_Sciezka_AI": "Moda > Biżuteria > Bransoletki",
+        "Finalne_ID_AI": 2834,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu jednoznacznie wskazuje na 'Bransoletka', co idealnie pasuje do kategorii 'Moda > Biżuteria > Bransoletki'."
+    },
+    {
+        "ID_Produktu": "567403937",
+        "Nazwa_Produktu": "Okulary przeciwsłoneczne klasyczne Pomarańczowe",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że przedmiotem sprzedaży są 'Okulary przeciwsłoneczne', co idealnie pasuje do kategorii-liścia o tej samej nazwie."
+    },
+    {
+        "ID_Produktu": "567403947",
+        "Nazwa_Produktu": "Okulary przeciwsłoneczne klasyczne Zielone",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'okulary przeciwsłoneczne', które idealnie pasują do kategorii 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne'."
+    },
+    {
+        "ID_Produktu": "567403952",
+        "Nazwa_Produktu": "Okulary przeciwsłoneczne klasyczne Niebieskie",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'Okulary przeciwsłoneczne'. Kategoria 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne' (ID: 2736) jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567403959",
+        "Nazwa_Produktu": "Okulary przeciwsłoneczne klasyczne Brąz panterka",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'okulary przeciwsłoneczne', co idealnie pasuje do kategorii 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne'."
+    },
+    {
+        "ID_Produktu": "567404083",
+        "Nazwa_Produktu": "Ręcznik fryzjerski 40x70cm 40g składany 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ręczniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria fryzjerskie > Pozostałe",
+        "Finalne_ID_AI": 5089,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'Ręcznik fryzjerski'. Chociaż opis rozszerza zastosowanie do innych branż przemysłowych, kategoria 'Firma i Przemysł > Wyposażenie salonów > Akcesoria fryzjerskie' jest najbardziej precyzyjnym dopasowaniem do głównej nazwy produktu. Ponieważ nie ma podkategorii 'Ręczniki' w 'Akcesoriach fryzjerskich', wybieram 'Pozostałe' w tej gałęzi. Jest to bardziej semantycznie dopasowane niż ogólna kategoria 'Dom i Ogród > Wyposażenie wnętrz > Ręczniki', która sugeruje ręczniki do użytku domowego, a nie profesjonalnego/przemysłowego."
+    },
+    {
+        "ID_Produktu": "567404090",
+        "Nazwa_Produktu": "Ręcznik do pedicure 40x50cm 40g składany 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ręczniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Pozostałe",
+        "Finalne_ID_AI": 5096,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'ręcznik do pedicure', co sugeruje zastosowanie profesjonalne, w salonach kosmetycznych. Opis dodatkowo podkreśla jego właściwości jako czyściwa do precyzyjnego czyszczenia w przemyśle (farmaceutycznym, spożywczym, medycznym, elektronicznym), co również pasuje do kategorii 'Firma i Przemysł'. Najbardziej szczegółową i semantycznie dopasowaną kategorią jest 'Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Pozostałe', ponieważ ręcznik do pedicure jest akcesorium kosmetycznym, a nie ma bardziej specyficznej podkategorii dla ręczników w tym drzewie. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Ręczniki' jest zbyt ogólna i nie oddaje profesjonalnego charakteru produktu."
+    },
+    {
+        "ID_Produktu": "567404108",
+        "Nazwa_Produktu": "Pasek Męski Nylonowy Zielony 3,5cm Dł.120cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Pasek Męski Nylonowy', a kategoria 'Moda > Akcesoria > Paski' jest bezpośrednim i najlepiej dopasowanym liściem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "567404139",
+        "Nazwa_Produktu": "Led Wpuszczany Spot 4W 83X83Mm Ip44 2700K 2Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Oczka",
+        "Finalne_ID_AI": 3868,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to LED-owy reflektor sufitowy, wpuszczany (recesyjny), o małych wymiarach. Kategoria 'Oczka' (3868) idealnie pasuje do tego typu oświetlenia, które jest zazwyczaj wpuszczane w sufit i często określane jako 'oczka halogenowe' lub 'oczka LED'. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Spoty' czy 'Pozostałe Lampy', a także poprawniejsza niż 'Żarówki', ponieważ produkt jest kompletną oprawą oświetleniową, a nie tylko źródłem światła."
+    },
+    {
+        "ID_Produktu": "567404215",
+        "Nazwa_Produktu": "Taśma uszczelniająca do drzwi okien 5m 3szt",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma uszczelniająca do drzwi i okien, której głównym przeznaczeniem jest izolacja (termiczna, akustyczna) oraz ochrona. Najbardziej szczegółowa i trafna kategoria-liść to 'Dom i Ogród > Budowa > Izolacje > Pozostałe', ponieważ produkt jest materiałem izolacyjnym używanym w budownictwie/wykończeniu, ale nie pasuje do bardziej szczegółowych typów izolacji (styropian, wełna mineralna itp.)."
+    },
+    {
+        "ID_Produktu": "567404446",
+        "Nazwa_Produktu": "Wieczko PET 115mm do miski 500, 750ml 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wieczko do misek sałatkowych sprzedawane w paczce 50 sztuk. Taka ilość oraz specyfika produktu (wieczka do salaterek) silnie sugeruje zastosowanie w gastronomii lub firmach cateringowych, co najlepiej odpowiada kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "567404489",
+        "Nazwa_Produktu": "Girlanda Solarna Lampki 50 LED Zewnętrzne",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Girlandy",
+        "Finalne_ID_AI": 3873,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'Girlanda Solarna Lampki' i 'Łańcuchy świetlne', przeznaczone do użytku zewnętrznego (ogród, taras). Kategoria 'Girlandy' w 'Oświetlenie zewnętrzne' jest najbardziej precyzyjnym i trafnym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "567404504",
+        "Nazwa_Produktu": "Adapter do kranu przedłużka z aeratorem perlatorem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Rury, kształtki, złączki",
+        "Finalne_ID_AI": 3217,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest adapterem i przedłużką do kranu, wyposażonym w perlator. Kran jest elementem instalacji hydraulicznej. Adaptery i przedłużki najlepiej pasują do kategorii 'Rury, kształtki, złączki' w ramach 'Instalacje > Hydraulika', ponieważ pełnią funkcję złączek w systemie wodnym. Kategoria 'Filtry i zmiękczacze wody' nie jest idealna, gdyż główną funkcją nie jest zmiękczanie, a 'Pozostałe' jest zbyt ogólne. Sugerowana kategoria 'Osprzęt do narzędzi' jest nieprawidłowa, ponieważ produkt jest akcesorium do stałej instalacji (kranu), a nie do narzędzia."
+    },
+    {
+        "ID_Produktu": "567404557",
+        "Nazwa_Produktu": "Klipsy klamerki uniwerslane do wieszania 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Dziurkacze i zszywacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uniwersalne klipsy i linki bungee przeznaczone do zabezpieczania banerów, plandek, namiotów, a także do zastosowań w biwakowaniu i na łodziach. Chociaż mogą być używane do banerów (co mogłoby sugerować Firmę i Przemysł), ich szerokie zastosowanie w outdoorze (namioty, biwakowanie, łódki) oraz charakter przedmiotu (niewielkie akcesoria do mocowania) najlepiej pasują do kategorii związanej z ogrodem i narzędziami outdoorowymi. Kategoria 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe' jest najbardziej adekwatna, ponieważ są to akcesoria o charakterze narzędziowym do zastosowań zewnętrznych."
+    },
+    {
+        "ID_Produktu": "567404579",
+        "Nazwa_Produktu": "Tapeta Samoprzylepna Fototapeta Okleina Niebo",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Tapety i panele ścienne > Tapety",
+        "Finalne_ID_AI": 3259,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to samoprzylepna tapeta/fototapeta/okleina przeznaczona do pokrywania ścian i mebli, co semantycznie najlepiej pasuje do kategorii \"Dom i Ogród > Wykończenie wnętrz > Tapety i panele ścienne > Tapety\"."
+    },
+    {
+        "ID_Produktu": "567404614",
+        "Nazwa_Produktu": "Uchwyt na miotły wieszak ścienny 2szt",
+        "Poczatkowa_Sciezka_OLX": "Brak sugestii OLX",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki",
+        "Finalne_ID_AI": 4671,
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'uchwyt na miotły wieszak ścienny', który jest rodzajem zawieszki (hangera). Kategoria 'Firma i Przemysł > Sklepy i magazyny > Haki i zawieszki' jest najlepiej dopasowana, ponieważ bezpośrednio odzwierciedla funkcję przedmiotu jako elementu do wieszania i organizacji, zwłaszcza w miejscach takich jak garaże, piwnice czy magazyny, które wymieniono w opisie. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Pozostałe' lub kategorie związane z samymi narzędziami."
+    },
+    {
+        "ID_Produktu": "567404696",
+        "Nazwa_Produktu": "Rolka termiczna 57x60 Eco bez gilzy 8szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolki termiczne do kas fiskalnych i terminali płatniczych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najbardziej precyzyjna, ponieważ opis wskazuje na zastosowanie w środowisku handlowym (kasy fiskalne, terminale), a rolki są akcesoriami do tych urządzeń drukujących."
+    },
+    {
+        "ID_Produktu": "567404702",
+        "Nazwa_Produktu": "Rolka termiczna 57x80 Eco bez gilzy 6szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do kas fiskalnych i terminali płatniczych, które pełnią funkcję drukarek/urządzeń rejestrujących w środowisku handlowym lub usługowym. Kategoria `Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria` najlepiej oddaje specyfikę i przeznaczenie tego akcesorium."
+    },
+    {
+        "ID_Produktu": "567404735",
+        "Nazwa_Produktu": "Kłódka numeryczna 3-cyfrowa zamek szyfrowy 5szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Zamki",
+        "Finalne_ID_AI": 3157,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kłódka numeryczna, która jest rodzajem zamka szyfrowego. Kategoria 'Dom i Ogród > Budowa > Drzwi > Zamki' jest najbardziej precyzyjnym i semantycznie dopasowanym miejscem dla tego typu przedmiotu, mimo że zastosowanie kłódki jest szersze niż tylko drzwi. Jest to kategoria-liść i odpowiada funkcji produktu jako zabezpieczenia."
+    },
+    {
+        "ID_Produktu": "567404761",
+        "Nazwa_Produktu": "Organizer do szafki przycinany składany 8szt róż",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Organizer do szafki przycinany składany', przeznaczony do organizacji przestrzeni w szufladach i szafkach. Jest to akcesorium, które poprawia funkcjonalność mebli. Kategoria 'Dom i Ogród > Meble > Akcesoria meblowe' jest najbardziej precyzyjnym dopasowaniem, ponieważ produkt służy jako wyposażenie uzupełniające dla mebli (szafek, szuflad), a nie jest samodzielnym meblem ani pudełkiem w tradycyjnym sensie (jest to zestaw przegródek)."
+    },
+    {
+        "ID_Produktu": "567404774",
+        "Nazwa_Produktu": "Skrzynka do sadzenia roślin rozsady mini szklarnia",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Rośliny > Pozostałe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Donice",
+        "Finalne_ID_AI": 1632,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to skrzynka do sadzenia roślin, pełniąca funkcję mini szklarni. Jest to rodzaj pojemnika do uprawy roślin, co najlepiej odpowiada kategorii 'Donice' w dziale 'Ogród'. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Pozostałe' w tej samej gałęzi."
+    },
+    {
+        "ID_Produktu": "567404848",
+        "Nazwa_Produktu": "Pompka spray trójdyszowa do butelki Velodes 1L Med",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Rowery > Akcesoria rowerowe > Pompki rowerowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Przemysł",
+        "Finalne_ID_AI": 4666,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pompka spray trójdyszowa przeznaczona do butelek z płynami marki Velodes, która jest producentem środków dezynfekcyjnych i higienicznych (wzmocnione przez 'Medisept' w opisie). Jest to akcesorium do dozowania tych produktów, co najlepiej pasuje do kategorii 'Firma i Przemysł > Maszyny i urządzenia > Urządzenia medyczne > Akcesoria do urządzeń medycznych'."
+    },
+    {
+        "ID_Produktu": "567405120",
+        "Nazwa_Produktu": "Kratka wentylacyjna 26x19cm metalowo-aluminiowa",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Klimatyzacja i wentylacja > Wentylacja",
+        "Finalne_ID_AI": 3218,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kratka wentylacyjna, która jest elementem systemu wentylacyjnego. Kategoria 'Dom i Ogród > Instalacje > Klimatyzacja i wentylacja > Wentylacja' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem dla tego typu przedmiotu."
+    },
+    {
+        "ID_Produktu": "567405173",
+        "Nazwa_Produktu": "Organizer na Biurko Przybornik Metalowy Czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Organizer na Biurko Przybornik', przeznaczony do przechowywania przyborów do pisania i innych akcesoriów biurowych. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej precyzyjna i semantycznie dopasowana do przeznaczenia produktu, lepiej niż ogólne 'Pudełka' czy 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "567405255",
+        "Nazwa_Produktu": "Odbojnik do Drzwi Ścienny Samoprzylepny 8szt Biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Pozostałe",
+        "Finalne_ID_AI": 3158,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "88%",
+        "Uzasadnienie_AI": "Produkt to 'odbojnik do drzwi', który jest akcesorium bezpośrednio związanym z drzwiami i ich funkcjonalnością (ochrona ściany przed uderzeniem klamki). Kategoria 'Dom i Ogród > Budowa > Drzwi' jest najbardziej semantycznie dopasowaną gałęzią, a ponieważ nie ma bardziej szczegółowej kategorii dla odbojników, 'Pozostałe' w tej gałęzi jest najlepszym wyborem. Kategoria 'Dekoracje > Mocowania ścienne' (sugerowana we wskazówce) jest mniej odpowiednia, ponieważ odbojnik pełni funkcję ochronną, a nie dekoracyjną."
+    },
+    {
+        "ID_Produktu": "567405301",
+        "Nazwa_Produktu": "Pudełko cukiernicze 320x180x80mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pudełko cukiernicze', które jest opakowaniem przeznaczonym do pakowania i przechowywania ciastek, używanym w cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna, ponieważ odnosi się do pojemników używanych w branży gastronomicznej, co idealnie pasuje do opisu produktu i jego zastosowania. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i nie oddaje specjalistycznego charakteru produktu."
+    },
+    {
+        "ID_Produktu": "567405307",
+        "Nazwa_Produktu": "Pudełko cukiernicze 360x220x50mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pudełko cukiernicze' przeznaczone do pakowania ciastek i używane w cukierniach, co wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest znacznie bardziej precyzyjna i semantycznie dopasowana niż ogólna kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka', która jest zbyt szeroka i sugeruje zastosowanie domowe."
+    },
+    {
+        "ID_Produktu": "567405313",
+        "Nazwa_Produktu": "Pudełko cukiernicze 185x140x80mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne pudełko cukiernicze przeznaczone do pakowania ciastek, używane w cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje komercyjny i gastronomiczny charakter produktu, będąc bardziej precyzyjną niż ogólna kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka'."
+    },
+    {
+        "ID_Produktu": "567405320",
+        "Nazwa_Produktu": "Pudełko cukiernicze 250x180x80mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pudełko cukiernicze' przeznaczone do pakowania ciastek i użytku w 'cukierniach'. Jest to zatem specjalistyczne opakowanie wykorzystywane w branży gastronomicznej. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest znacznie bardziej precyzyjna i semantycznie dopasowana niż ogólne 'Dom i Ogród > Wyposażenie wnętrz > Pudełka', które sugeruje zastosowanie domowe."
+    },
+    {
+        "ID_Produktu": "567405325",
+        "Nazwa_Produktu": "Pudełko cukiernicze 350x140x40mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'pudełko cukiernicze' przeznaczone do pakowania ciastek, używane 'w cukierniach'. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna, odzwierciedlając zarówno przeznaczenie (pojemnik na żywność), jak i kontekst użytkowania (gastronomia/biznes), co jest lepsze niż ogólne 'Pudełka' czy 'Pojemniki i przechowywanie żywności' sugerujące użytek domowy."
+    },
+    {
+        "ID_Produktu": "567405331",
+        "Nazwa_Produktu": "Pudełko cukiernicze 350x160x70mm białe 25 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pudełka cukiernicze przeznaczone do pakowania ciastek i faworków, używane w cukierniach. Kategoria 'Pojemniki gastronomiczne' w sekcji 'Firma i Przemysł > Gastronomia' jest najbardziej precyzyjna i najlepiej oddaje komercyjne zastosowanie produktu, w przeciwieństwie do ogólnej kategorii 'Pudełka' w 'Dom i Ogród', która sugeruje zastosowanie domowe."
+    },
+    {
+        "ID_Produktu": "567405385",
+        "Nazwa_Produktu": "Torba Organizer Kosmetyczka podróżna Niebieska",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł produktu jednoznacznie wskazuje na 'Kosmetyczkę podróżną', co idealnie pasuje do kategorii 'Moda > Akcesoria > Kosmetyczki'. Opis dodatkowo potwierdza przeznaczenie produktu jako torby-organizera na akcesoria podróżne."
+    },
+    {
+        "ID_Produktu": "567405517",
+        "Nazwa_Produktu": "Kosz do Grillowania Warzyw Mięs Stal Nierdzewna 2s",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw koszy i narzędzi przeznaczonych do grillowania. Najbardziej odpowiednią kategorią-liściem jest 'Dom i Ogród > Ogród > Grill', która obejmuje akcesoria związane z grillowaniem."
+    },
+    {
+        "ID_Produktu": "567405543",
+        "Nazwa_Produktu": "Podpora kratka plasikowa dla roślin pnących 3szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to kratka/podpora dla roślin pnących, która jest elementem wyposażenia ogrodu, mającym na celu wspieranie wzrostu roślin. Nie jest to narzędzie, dekoracja w ścisłym tego słowa znaczeniu (choć może pełnić funkcje estetyczne), ani mebel. Najbardziej odpowiednią kategorią-liściem jest zatem ogólna kategoria 'Pozostałe Ogród' w gałęzi 'Dom i Ogród > Ogród', ponieważ nie istnieje bardziej szczegółowa kategoria dedykowana podporom dla roślin."
+    },
+    {
+        "ID_Produktu": "567405592",
+        "Nazwa_Produktu": "Odbojnik Do Drzwi Gumowy Samoprzylepny 5cm 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Pozostałe",
+        "Finalne_ID_AI": 3158,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to odbojnik do drzwi, który chroni ścianę przed uderzeniami. Najlepszą kategorią jest 'Dom i Ogród > Budowa > Drzwi > Pozostałe', ponieważ jest to akcesorium ściśle związane z drzwiami, a nie jest to klamka, zamek czy ościeżnica. Kategoria 'Pozostałe' w gałęzi 'Drzwi' jest odpowiednia dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "567405608",
+        "Nazwa_Produktu": "Organizer na biurko przybornik do przechowywania",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako 'organizer na biurko' oraz 'organizer biurowy' i 'uchwyt na długopisy', przeznaczony do przechowywania przyborów biurowych. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej precyzyjna i bezpośrednio odnosi się do funkcji oraz przeznaczenia produktu, lepiej niż ogólna kategoria 'Pudełka'."
+    },
+    {
+        "ID_Produktu": "567405645",
+        "Nazwa_Produktu": "Stolik Kawowy Ława 120x60 z Szufladami Modern Loft",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Stoliki kawowe i ławy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Stoliki kawowe i ławy",
+        "Finalne_ID_AI": 1938,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu jasno wskazuje na 'stolik kawowy' i 'ławę', które doskonale pasują do kategorii 'Dom i Ogród > Meble > Stoliki kawowe i ławy'. Jest to kategoria-liść i jest semantycznie najlepiej dopasowana."
+    },
+    {
+        "ID_Produktu": "567405819",
+        "Nazwa_Produktu": "Gumki do Włosów Kolorowe 30szt Spinki 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Ubranka dla dziewczynek > Akcesoria > Akcesoria do włosów",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Pozostałe",
+        "Finalne_ID_AI": 2733,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw składający się zarówno z gumek, jak i spinek do włosów. Chociaż istnieją osobne kategorie-liście dla 'Gumek' (ID 2725) i 'Spinek i wsuwek' (ID 2731) w gałęzi 'Moda > Akcesoria > Akcesoria do włosów', brak jest specyficznej kategorii dla zestawów zawierających oba te typy akcesoriów. Wybór kategorii 'Pozostałe' w tej samej gałęzi ('Moda > Akcesoria > Akcesoria do włosów > Pozostałe') jest najbardziej adekwatny, ponieważ poprawnie klasyfikuje produkt jako akcesoria do włosów bez faworyzowania jednej części zestawu, co byłoby mylące dla kupującego."
+    },
+    {
+        "ID_Produktu": "567405829",
+        "Nazwa_Produktu": "Patyczki do szaszłyków 25cm 250szt Papstar",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Patyczki do szaszłyków są akcesorium bezpośrednio związanym z grillowaniem i przygotowywaniem szaszłyków, co idealnie pasuje do kategorii 'Grill'. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Przybory kuchenne' czy 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "567405958",
+        "Nazwa_Produktu": "Uchwyt na wieszaki do szafy Granatowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'uchwyt na wieszaki do szafy' oraz 'organizator wieszaków ściennych', służący do optymalizacji przestrzeni w szafie lub garderobie. Jest to akcesorium, które uzupełnia meble (szafę), a nie sam mebel czy wieszak. Kategoria 'Akcesoria meblowe' (1950) jest najlepiej dopasowana semantycznie, ponieważ produkt jest dodatkiem funkcjonalnym do mebla. Kategoria 'Wieszaki' (1948) odnosiłaby się raczej do samych wieszaków na ubrania lub stojaków/wieszaków ściennych, a nie uchwytów do ich przechowywania."
+    },
+    {
+        "ID_Produktu": "567406014",
+        "Nazwa_Produktu": "Kątownik Łącznik Wspornik Narożny 10szt 4x4cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kątownik/wspornik narożny, który jest opisany jako 'akcesoria meblowe' i stosowany w 'przemyśle meblarskim i stolarskim' do mocowania różnych elementów mebli. Kategoria 'Dom i Ogród > Meble > Akcesoria meblowe' jest najbardziej precyzyjna i bezpośrednio odpowiada opisowi produktu. Sugerowana kategoria 'Mocowania ścienne' jest zbyt wąska i znajduje się w gałęzi 'Dekoracje', co nie pasuje do funkcjonalnego charakteru przedmiotu."
+    },
+    {
+        "ID_Produktu": "567406069",
+        "Nazwa_Produktu": "Odbojnik do Drzwi Miś Samoprzylepny Złoty 2 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Drzwi > Pozostałe",
+        "Finalne_ID_AI": 3158,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'odbojnik do drzwi', czyli akcesorium przeznaczone do ochrony drzwi i ścian oraz utrzymywania drzwi w określonej pozycji. Kategoria 'Dom i Ogród > Budowa > Drzwi > Pozostałe' jest najbardziej semantycznie dopasowana, ponieważ odbojnik jest funkcjonalnym elementem związanym bezpośrednio z drzwiami, a dział 'Budowa' często obejmuje różnego rodzaju osprzęt i akcesoria montażowe. Sugerowana kategoria 'Mocowania ścienne' w dziale 'Dekoracje' jest mniej trafna, gdyż główną funkcją odbojnika nie jest dekoracja ani ogólne mocowanie, lecz specyficzna ochrona i funkcja związana z drzwiami."
+    },
+    {
+        "ID_Produktu": "567406095",
+        "Nazwa_Produktu": "Wieszak na Ubrania Haczyk na Drzwi 4szt czarny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Wieszak na Ubrania Haczyk na Drzwi', co idealnie pasuje do kategorii 'Dom i Ogród > Meble > Wieszaki'. Jest to kategoria-liść i precyzyjnie oddaje charakter produktu."
+    },
+    {
+        "ID_Produktu": "567406168",
+        "Nazwa_Produktu": "Torba na zakupy 14L 30x33x14 Kwiaty fioletowa 1szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Shopperki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Shopperki",
+        "Finalne_ID_AI": 2756,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'torba na zakupy', która jest ekologiczną torbą wielokrotnego użytku przeznaczoną do pakowania zakupionych produktów. Kategoria 'Shopperki' (torby shopper) jest najbardziej trafnym i szczegółowym określeniem dla tego typu torby, idealnie pasującym do jej przeznaczenia."
+    },
+    {
+        "ID_Produktu": "567406252",
+        "Nazwa_Produktu": "Ogranicznik Przeciągów 90cm Podwójna  Uszczelka",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ogranicznik przeciągów/uszczelka, której głównym przeznaczeniem jest izolacja termiczna i akustyczna, zapobieganie ucieczce ciepłego powietrza oraz redukcja hałasu i kurzu. Kategoria 'Dom i Ogród > Budowa > Izolacje > Pozostałe' jest najlepiej dopasowana, ponieważ bezpośrednio odnosi się do funkcji izolacyjnej produktu, a 'Pozostałe' wskazuje, że jest to specyficzny rodzaj izolacji, który nie pasuje do innych podkategorii izolacji (np. styropian, wełna mineralna)."
+    },
+    {
+        "ID_Produktu": "567406289",
+        "Nazwa_Produktu": "Przybornik organizer na biurko 2szt czarne",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przybornik/organizer na biurko, służący do przechowywania artykułów piśmienniczych i innych drobnych przedmiotów biurowych. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej precyzyjna i semantycznie dopasowana do funkcji produktu, który jest typowym akcesorium biurowym. Jest to lepszy wybór niż ogólna kategoria 'Pudełka'."
+    },
+    {
+        "ID_Produktu": "567406292",
+        "Nazwa_Produktu": "Stojak opiekacz do grilla do tostów chleba",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt AGD > AGD drobne > Opiekacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to manualny stojak/opiekacz do tostów i chleba, przeznaczony do użytku z grillem, często w warunkach outdoorowych (kemping, piknik). Nie jest to urządzenie elektroniczne, dlatego kategoria z gałęzi 'Elektronika' jest nieadekwatna. Kategoria 'Dom i Ogród > Ogród > Grill' najlepiej oddaje jego funkcję jako akcesorium do grillowania lub prostego urządzenia do opiekania na grillu."
+    },
+    {
+        "ID_Produktu": "567406326",
+        "Nazwa_Produktu": "Wieszak na ubrania 5 haczyków metalowy 33cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'wieszak na ubrania' z haczykami, co idealnie pasuje do kategorii 'Dom i Ogród > Meble > Wieszaki'. Jest to kategoria-liść i semantycznie najlepiej dopasowana."
+    },
+    {
+        "ID_Produktu": "567406491",
+        "Nazwa_Produktu": "Organizer Haczyki Uchwyt Na Krawaty Obrotowy 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to obrotowy wieszak/organizer na krawaty, paski i szale, przeznaczony do organizacji przestrzeni w szafie lub garderobie. Jest to funkcjonalny element, który jest dodawany do mebli (szafy/garderoby) w celu poprawy ich użyteczności i organizacji. Kategoria 'Dom i Ogród > Meble > Akcesoria meblowe' najlepiej oddaje jego przeznaczenie jako akcesorium do wyposażenia mebli. Sugerowana kategoria 'Mocowania ścienne' jest mniej trafna, gdyż produkt nie jest głównie elementem dekoracyjnym, a jego funkcja montażowa jest wtórna do funkcji organizacyjnej w kontekście mebli."
+    },
+    {
+        "ID_Produktu": "567406553",
+        "Nazwa_Produktu": "Uchwyt organizer na wieszaki ubrania biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest uchwytem-organizerem przeznaczonym do optymalizacji przestrzeni w szafie lub garderobie, co czyni go akcesorium meblowym. Nie jest to samodzielny wieszak na ubrania, lecz element wspomagający organizację w meblach, dlatego kategoria 'Akcesoria meblowe' jest najbardziej precyzyjna."
+    },
+    {
+        "ID_Produktu": "567406557",
+        "Nazwa_Produktu": "Mata ochronna do szuflady wodoodporna szara 30x150",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata ochronna przeznaczona do szuflad i szafek, chroniąca ich wnętrze. Jest to funkcjonalny dodatek do mebli, idealnie pasujący do kategorii 'Akcesoria meblowe'. Kategoria sugerowana w podpowiedzi ('Podkładki i maty' w gałęzi 'Obrusy i serwetki') odnosi się raczej do akcesoriów stołowych, co nie oddaje przeznaczenia tej maty."
+    },
+    {
+        "ID_Produktu": "567406575",
+        "Nazwa_Produktu": "Organizer do szafy Pudełko tekstylne 29x29 Szare",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Meble dla dzieci > Pojemniki na zabawki",
+        "Finalne_ID_AI": 4726,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tekstylne pudełko-organizer przeznaczone do przechowywania przedmiotów dla dzieci, takich jak ubranka czy zabawki. Kategoria 'Dom i Ogród > Meble > Meble dla dzieci > Pojemniki na zabawki' jest najbardziej szczegółowa i semantycznie najlepiej dopasowana do opisu i przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "567406628",
+        "Nazwa_Produktu": "Lampka biurkowa LED USB z przybornikiem Ściemniana",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Lampka biurkowa', co idealnie pasuje do kategorii-liścia 'Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe'."
+    },
+    {
+        "ID_Produktu": "567406750",
+        "Nazwa_Produktu": "Wieszak Samochodowy na Zagłówek z Haczykiem",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Akcesoria łazienkowe > Wieszaki łazienkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Wieszak Samochodowy na Zagłówek z Haczykiem', co jasno wskazuje na jego główną funkcję. Kategoria 'Dom i Ogród > Meble > Wieszaki' jest najbardziej precyzyjnym dopasowaniem do typu produktu ('Wieszak'), mimo że jest przeznaczony do samochodu, a nie do domu. Funkcja uchwytu na telefon jest dodatkowa, co czyni kategorię związaną z telefonami mniej odpowiednią jako główną."
+    },
+    {
+        "ID_Produktu": "567406866",
+        "Nazwa_Produktu": "Torba na zakupy zamkek błyskawiczny shopper brąz",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Shopperki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Shopperki",
+        "Finalne_ID_AI": 2756,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to 'torba na zakupy' typu 'shopper', a kategoria 'Moda > Torby i torebki > Shopperki' idealnie odpowiada temu określeniu."
+    },
+    {
+        "ID_Produktu": "567406884",
+        "Nazwa_Produktu": "Organizer przybornik na biurko metalowy szufladka",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to metalowy organizer na biurko przeznaczony do przechowywania artykułów biurowych. Kategoria 'Akcesoria i materiały biurowe' jest najbardziej precyzyjna i bezpośrednio odpowiada funkcji oraz przeznaczeniu produktu."
+    },
+    {
+        "ID_Produktu": "567406905",
+        "Nazwa_Produktu": "Haki haczyki wieszaki na drzwi srebrne 12szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw haczyków/wieszaków przeznaczonych do zawieszania na drzwiach, szafach itp., z szerokim zastosowaniem w różnych pomieszczeniach (łazienka, kuchnia, biuro). Kategoria 'Dom i Ogród > Meble > Wieszaki' jest najbardziej ogólna i trafna dla tego typu akcesoriów, obejmując ich funkcję niezależnie od konkretnego pomieszczenia. Kategoria sugerowana ('Mocowania ścienne') jest mniej precyzyjna, ponieważ produkt jest przeznaczony na drzwi, a niekoniecznie na ścianę. Kategoria 'Wieszaki łazienkowe' jest zbyt wąska, biorąc pod uwagę opis produktu."
+    },
+    {
+        "ID_Produktu": "567406946",
+        "Nazwa_Produktu": "Torba na zakupy 13L 34x25x15 zamek Maki 1szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Shopperki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Shopperki",
+        "Finalne_ID_AI": 2756,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'torba na zakupy' o pojemności 13 litrów, wykonana z polipropylenu, przeznaczona do pakowania produktów. Kategoria 'Shopperki' jest idealnie dopasowana do tego typu torby, która służy do noszenia zakupów."
+    },
+    {
+        "ID_Produktu": "567407276",
+        "Nazwa_Produktu": "Portfel damski z ekoskóry portmonetka na zasuwak",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na portfel. Kategoria 'Moda > Akcesoria > Portfele' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567407284",
+        "Nazwa_Produktu": "Organizer Przegródka do Szuflad Regulowany 8szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to regulowane przegródki do szuflad, które służą do organizacji i maksymalnego wykorzystania przestrzeni wewnątrz mebli. Kategoria 'Akcesoria meblowe' najlepiej oddaje funkcję tych przegródek jako dodatku do mebli, poprawiającego ich użyteczność, w przeciwieństwie do ogólnych 'Pudełek' czy 'Pojemników', gdyż są to wewnętrzne elementy organizujące szufladę."
+    },
+    {
+        "ID_Produktu": "567407303",
+        "Nazwa_Produktu": "Lina napinająca elastyczna do namiotu 30szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Architektura ogrodowa > Pozostałe",
+        "Finalne_ID_AI": 3055,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to elastyczna lina napinająca z kulkami, przeznaczona do mocowania plandek, namiotów i markiz. Namioty i markizy należą do kategorii 'Dom i Ogród > Ogród > Architektura ogrodowa'. Ponieważ jest to akcesorium do tych elementów, najbardziej odpowiednią kategorią-liściem jest 'Dom i Ogród > Ogród > Architektura ogrodowa > Pozostałe'."
+    },
+    {
+        "ID_Produktu": "567407310",
+        "Nazwa_Produktu": "Zestaw 6 Krążków Kokosowych do Ochrony Roślin",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Podłoża ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 4535,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to krążki kokosowe służące do ochrony roślin i korzeni, magazynowania ciepła oraz wilgoci. Funkcjonalnie wpisuje się to w kategorię materiałów do podłoża ogrodowego, pełniących rolę mulczu lub osłony. Ponieważ nie ma dokładnej podkategorii dla 'krążków kokosowych' czy 'włókien kokosowych' w ramach 'Podłoża ogrodowe', kategoria 'Pozostałe' w tej gałęzi jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "567407338",
+        "Nazwa_Produktu": "Sznurek Jutowy Rolka 100M 3mm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to sznurek jutowy, opisany jako narzędzie do rękodzieł, prac artystycznych, ale także wyraźnie do 'majsterkowania ogrodowego' i 'wiązania roślin'. Chociaż ma zastosowania dekoracyjne i artystyczne, kategoria 'Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Pozostałe' jest przeznaczona raczej dla gotowych elementów dekoracyjnych, a nie materiałów. Kategoria 'Antyki i Kolekcje > Rękodzieło' nie posiada podkategorii dla surowców do rękodzieła. Biorąc pod uwagę wyraźne zastosowania ogrodnicze, kategoria 'Dom i Ogród > Ogród > Pozostałe Ogród' jest najlepiej dopasowaną kategorią-liściem dla tego wielofunkcyjnego materiału, który znajduje szerokie zastosowanie w pracach ogrodowych i ogólnym majsterkowaniu związanym z ogrodem."
+    },
+    {
+        "ID_Produktu": "567407368",
+        "Nazwa_Produktu": "Pojemnik Organizer Plastikowy na biurko 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plastikowy organizer na biurko, przeznaczony do przechowywania artykułów papierniczych i idealny do biura, co doskonale pasuje do kategorii 'Akcesoria i materiały biurowe' w dziale 'Firma i Przemysł > Biuro'. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Pudełka'."
+    },
+    {
+        "ID_Produktu": "567407371",
+        "Nazwa_Produktu": "Zalotka do Rzęs Podkręcająca Metalowa czarna",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Zalotka do rzęs jest akcesorium służącym do makijażu i stylizacji rzęs, co plasuje ją w szerokiej kategorii akcesoriów osobistych. Ponieważ w dostępnym drzewie kategorii nie ma bardziej szczegółowej podkategorii dedykowanej narzędziom do makijażu lub pielęgnacji rzęs, najbardziej odpowiednią kategorią-liściem jest 'Moda > Akcesoria > Pozostałe'. Kategoria 'Antyki i Kolekcje > Kolekcje > Trafika > Akcesoria' została zignorowana, ponieważ jest semantycznie niezwiązana z produktem."
+    },
+    {
+        "ID_Produktu": "567407495",
+        "Nazwa_Produktu": "Serwetka gastronomiczna 33x33 eko 500szt Clarina",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Gastronomia > Kuchnie gastronomiczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to serwetki gastronomiczne, które są ogólnymi materiałami eksploatacyjnymi/akcesoriami używanymi w gastronomii. Nie pasują do żadnej z bardziej szczegółowych kategorii sprzętu gastronomicznego. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej odpowiednia dla tego typu produktów."
+    },
+    {
+        "ID_Produktu": "567407500",
+        "Nazwa_Produktu": "Tacki na grill aluminiowe 34x22 mocne 3szt Aec tacka DUŻE",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Turystyka > Pozostała turystyka",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Tacki na grill', które są akcesoriami do grillowania. Kategoria 'Dom i Ogród > Ogród > Grill' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem do tytułu i opisu produktu."
+    },
+    {
+        "ID_Produktu": "567407519",
+        "Nazwa_Produktu": "Wizytownik Organizer Na Karty 2szt Żółty Zielony",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Wizytowniki",
+        "Finalne_ID_AI": 2763,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują, że jest to wizytownik na karty. Kategoria 'Moda > Akcesoria > Wizytowniki' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem do charakteru produktu. Mimo że może przechowywać również inne karty, jego główna funkcja i nazwa są zgodne z tą kategorią. Sugerowana kategoria 'Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Notesy' została zignorowana, ponieważ jest semantycznie niezgodna z produktem."
+    },
+    {
+        "ID_Produktu": "567407528",
+        "Nazwa_Produktu": "Przybornik Akcesoria Krawieckie Zestaw Do Szycia",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Rękodzieło > Szycie i filcowanie",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to fabrycznie nowy zestaw do szycia, zawierający akcesoria do naprawy i modyfikacji odzieży. Kategoria 'Antyki i Kolekcje' jest nieodpowiednia ze względu na stan produktu. Zestaw do szycia jest akcesorium związanym z odzieżą i modą, dlatego najlepiej pasuje do ogólnej kategorii 'Moda > Akcesoria'. Ponieważ brak jest bardziej szczegółowej kategorii dla akcesoriów krawieckich w tej gałęzi, wybrano kategorię 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "567407747",
+        "Nazwa_Produktu": "Lampka Nocna LED Neon Flaming Dekoracja USB",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Lampka Nocna LED Neon' oraz 'lampka biurkowa' i 'dekoracja'. Mimo funkcji dekoracyjnej, jego podstawową naturą jest bycie źródłem światła (lampką). Kategoria 'Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe' (ID: 3864) jest najbardziej precyzyjna, ponieważ obejmuje małe lampy przeznaczone do postawienia na biurku lub stoliku nocnym, co idealnie pasuje do charakteru i zastosowania produktu."
+    },
+    {
+        "ID_Produktu": "567407809",
+        "Nazwa_Produktu": "Kamienie Dekoracyjne Fluorescencyjne do Ogrodu",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akwarystyka > Akcesoria akwariowe > Dekoracje",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na przeznaczenie 'do Ogrodu'. Opis również wymienia ogród jako pierwsze miejsce zastosowania, obok akwarium czy pokoju dziecięcego. Kategoria 'Dom i Ogród > Ogród > Dekoracje ogrodowe' jest najbardziej semantycznie dopasowana do głównego przeznaczenia produktu, a także jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567407815",
+        "Nazwa_Produktu": "Podkład Serweta Kosmetyczna 33x45cm 125szt Biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Serwety i serwetki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Pozostałe",
+        "Finalne_ID_AI": 5096,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe podkłady/serwety kosmetyczne i medyczne, przeznaczone do użytku w gabinetach kosmetycznych, dentystycznych, studiach tatuażu. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne', a ponieważ nie ma bardziej szczegółowej podkategorii dla tego typu produktu (jednorazowe podkłady), 'Pozostałe' jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "567407940",
+        "Nazwa_Produktu": "Etui na Okulary Przeciwsłoneczne Niebieskie",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Akcesoria do okularów",
+        "Finalne_ID_AI": 2735,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to etui, czyli akcesorium przeznaczone do okularów przeciwsłonecznych i do czytania. Kategoria 'Moda > Akcesoria > Okulary > Akcesoria do okularów' jest najbardziej precyzyjnym i trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "567407970",
+        "Nazwa_Produktu": "Zraszacz Ogrodowy Pistolet Do Węża Ogrodowego",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na urządzenie do nawadniania ogrodu ('Zraszacz Ogrodowy Pistolet Do Węża Ogrodowego', 'wysokociśnieniowy pistolet do węża ogrodowego', 'nawadniania', 'podlewania ogrodu'). Kategoria 'Dom i Ogród > Ogród > Nawadnianie' jest idealnie dopasowana semantycznie i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567408007",
+        "Nazwa_Produktu": "Pistolet Dysza zraszająca do węża ogrodowego",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt jest dyszą zraszającą do węża ogrodowego, której głównym zastosowaniem jest nawadnianie. Kategoria 'Dom i Ogród > Ogród > Nawadnianie' jest najbardziej szczegółowa i semantycznie dopasowana do funkcji produktu, zgodnie z opisem 'nawadniania trawnika, ogrodnictwa'. Jest to bardziej precyzyjna kategoria niż ogólny 'Osprzęt do narzędzi'."
+    },
+    {
+        "ID_Produktu": "567408078",
+        "Nazwa_Produktu": "Podpora kratka metalowa dla roślin pnących 5szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to metalowa kratka/podpora dla roślin pnących. Chociaż ma funkcję użytkową, jej wygląd i przeznaczenie do ekspozycji roślin sprawiają, że najlepiej pasuje do kategorii 'Dekoracje ogrodowe'. Inne kategorie, takie jak 'Narzędzia ogrodowe' czy 'Architektura ogrodowa', są mniej adekwatne – narzędzia służą do pracy, a architektura ogrodowa to zazwyczaj większe, stałe konstrukcje. Opis wspominający o 'jedyne w swoim rodzaju wzornictwo' dodatkowo wskazuje na dekoracyjny charakter produktu. Sugerowana kategoria 'Narzędzia > Osprzęt do narzędzi' jest błędna, ponieważ podpora nie jest akcesorium do narzędzia."
+    },
+    {
+        "ID_Produktu": "567408094",
+        "Nazwa_Produktu": "Projektor Samochodowy Laser Sufitowy Gwiazdy USB",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt  video > Projektory",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt  video > Projektory",
+        "Finalne_ID_AI": 1984,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Projektor Samochodowy Laser Sufitowy Gwiazdy USB', co bezpośrednio wskazuje na jego główną funkcję – projekcję światła. Mimo, że jego zastosowanie jest dekoracyjne (gwiazdy, lampka nocna, dekoracja samochodu/pokoju), urządzenie to nadal klasyfikuje się jako projektor. Kategoria 'Elektronika > Sprzęt video > Projektory' jest najbardziej semantycznie dopasowana do nazwy i rodzaju urządzenia, będącego elektronicznym sprzętem do projekcji. Chociaż nie jest to typowy projektor wideo, jego podstawowa funkcja (projekcja) pasuje do tej kategorii, a inne kategorie oświetleniowe byłyby zbyt ogólne dla urządzenia z tak specyficzną nazwą."
+    },
+    {
+        "ID_Produktu": "567408116",
+        "Nazwa_Produktu": "Kapelusz Słomkowy z Dużym Rondem Przeciwsłoneczny",
+        "Poczatkowa_Sciezka_OLX": "Moda > Czapki i kapelusze > Kapelusze",
+        "Finalna_Sciezka_AI": "Moda > Czapki i kapelusze > Kapelusze",
+        "Finalne_ID_AI": 2744,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Kapelusz słomkowy', co idealnie pasuje do kategorii 'Moda > Czapki i kapelusze > Kapelusze'."
+    },
+    {
+        "ID_Produktu": "567408344",
+        "Nazwa_Produktu": "Sekator nożycowy ręczny nożyce do przycinania",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory",
+        "Finalne_ID_AI": 2880,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na sekator/nożyce do przycinania, co idealnie pasuje do kategorii 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Nożyce i sekatory'."
+    },
+    {
+        "ID_Produktu": "567408370",
+        "Nazwa_Produktu": "Torebka Etui na Telefon na Ramię Damska Skórzana",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby na ramię",
+        "Finalne_ID_AI": 2758,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Torebka Etui na Telefon na Ramię Damska Skórzana' i wielokrotnie w opisie jest mowa o tym, że jest to 'torba na ramię' lub 'torebka'. Kategoria 'Moda > Torby i torebki > Torby na ramię' (ID 2758) jest najbardziej adekwatna, ponieważ produkt jest torebką przeznaczoną do noszenia na ramieniu, pomimo że jej głównym przeznaczeniem jest przechowywanie telefonu."
+    },
+    {
+        "ID_Produktu": "567408420",
+        "Nazwa_Produktu": "Regał łazienkowy uniwersalny regał biały metalowy",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Regały",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Regały",
+        "Finalne_ID_AI": 720,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują, że jest to 'regał', który pasuje do kategorii 'Dom i Ogród > Meble > Regały'. Mimo że jest przeznaczony do łazienki, jego podstawową funkcją i konstrukcją jest regał, a kategoria 'Regały' jest najbardziej trafna i szczegółowa dla tego typu mebla w podanym drzewie kategorii. Kategoria 'Półki łazienkowe' (2061) jest zbyt ogólna i zazwyczaj odnosi się do mniejszych, często wiszących półek, a nie do trójpoziomowego, wolnostojącego regału."
+    },
+    {
+        "ID_Produktu": "567408431",
+        "Nazwa_Produktu": "Figurka Solarna w Kształcie Serca Ptaki Dekoracja",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Dekoracje ogrodowe",
+        "Finalne_ID_AI": 1631,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest solarną figurką przeznaczoną do dekoracji ogrodu, co jest wielokrotnie podkreślone w tytule i opisie (\"Figurka Solarna\", \"Dekoracja Ogrodowa\", \"ozdoby ogrodowe\"). Funkcja oświetlenia jest dodatkowym atrybutem tej dekoracji. Kategoria 'Dekoracje ogrodowe' (1631) jest najbardziej precyzyjna i najlepiej oddaje charakter produktu."
+    },
+    {
+        "ID_Produktu": "567408495",
+        "Nazwa_Produktu": "Lampka nocna LED bezprzewodowa USB C vintage",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampki biurkowe",
+        "Finalne_ID_AI": 3864,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł (\"Lampka nocna\") i opis (\"Lampa stołowa\", \"Lampa biurkowa LED\") wskazują na lampę przeznaczoną do postawienia na powierzchni. Lampa jest bezprzewodowa, ładowana przez USB-C, co sugeruje jej mobilność i funkcjonalność. Kategoria \"Lampki biurkowe\" (3864) jest bardziej szczegółowa niż \"Lampy stołowe\" (3866) i lepiej oddaje charakter nowoczesnej, funkcjonalnej lampy LED z możliwością ładowania, która może służyć zarówno jako lampka nocna, jak i lampa do pracy czy oświetlenia ogólnego na stole. Opis wyraźnie używa terminu \"Lampa biurkowa LED\"."
+    },
+    {
+        "ID_Produktu": "567408538",
+        "Nazwa_Produktu": "Pokrywka do pojemników średnica 115 PP recyk 25szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywka (wieczko) przeznaczona do pojemników, a opis wyraźnie wskazuje na jej zastosowanie w gastronomii, barach i food truckach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, ponieważ bezpośrednio odnosi się do przeznaczenia produktu w kontekście profesjonalnym."
+    },
+    {
+        "ID_Produktu": "567408541",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 18x50/4 cm 6mic 800szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ woreczki służą jako pojemniki/opakowania w kontekście gastronomicznym i handlowym. Sugerowana kategoria 'Dla Dzieci' była całkowicie nieadekwatna."
+    },
+    {
+        "ID_Produktu": "567408572",
+        "Nazwa_Produktu": "Lampka Kryształowa LED Lampka nocna Dotykowa USB",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Antyki > Stare oświetlenie > Lampki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe",
+        "Finalne_ID_AI": 3866,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to nowoczesna lampa stołowa/nocna LED, która doskonale pasuje do kategorii 'Dom i Ogród > Oświetlenie > Lampy > Lampy stołowe'. Opis produktu wyraźnie używa określenia 'lampa stołowa', co bezpośrednio wskazuje na tę kategorię. Jest to najbardziej szczegółowa i trafna kategoria dostępna w drzewie."
+    },
+    {
+        "ID_Produktu": "567408610",
+        "Nazwa_Produktu": "Kosz na Grill do Grillowania Warzyw i Mięsa 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to kosz do grillowania, będący akcesorium bezpośrednio związanym z grillem. Kategoria 'Dom i Ogród > Ogród > Grill' (ID 1633) jest najbardziej odpowiednią kategorią-liściem, ponieważ nie istnieje bardziej szczegółowa kategoria dla akcesoriów do grillowania w podanym drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "567408674",
+        "Nazwa_Produktu": "Lampa Pochodnia LED Solarna Halloween 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Słupki oświetleniowe",
+        "Finalne_ID_AI": 3876,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'lampa pochodnia LED solarna' przeznaczona do dekoracji ogrodu i ścieżek. Kategoria 'Słupki oświetleniowe' jest najbardziej szczegółowa i najlepiej pasuje do opisu lampy, która pełni funkcję oświetlenia ścieżek i tworzy nastrój, co jest typowe dla słupków ogrodowych lub lamp na palikach."
+    },
+    {
+        "ID_Produktu": "567408712",
+        "Nazwa_Produktu": "Pokrowiec Osłona Grilla Gazowego Wodoodporny",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec/osłona na grill gazowy. Grille znajdują się w kategorii 'Dom i Ogród > Ogród > Grill'. Ponieważ brak jest bardziej szczegółowej kategorii dla akcesoriów do grillów w gałęzi 'Ogród', a grill jest elementem wyposażenia ogrodu, najbardziej odpowiednią kategorią jest 'Dom i Ogród > Ogród > Pozostałe Ogród'. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pokrowce' jest zbyt ogólna i kontekstowo niepasująca do pokrowca na sprzęt ogrodowy."
+    },
+    {
+        "ID_Produktu": "567409078",
+        "Nazwa_Produktu": "Torebka Damska na Ramię Skóra PU Kopertówka Brąz",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby na ramię",
+        "Finalne_ID_AI": 2758,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu i opis wskazują na torebkę, która jest przede wszystkim torebką na ramię, choć może być również używana jako kopertówka. Kategoria 'Torby na ramię' jest najbardziej odpowiednia, ponieważ pasek na ramię jest regulowany, co sugeruje jej podstawowe przeznaczenie. Jest to kategoria-liść i jest semantycznie dobrze dopasowana."
+    },
+    {
+        "ID_Produktu": "567409084",
+        "Nazwa_Produktu": "Torba plażowa siatkowa piknikowa na ramię różowa",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby plażowe",
+        "Finalne_ID_AI": 2759,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na jego przeznaczenie jako 'torba plażowa', co idealnie odpowiada kategorii 'Moda > Torby i torebki > Torby plażowe'."
+    },
+    {
+        "ID_Produktu": "567409094",
+        "Nazwa_Produktu": "Kosmetyczka Damska Duża Organizer Biała",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na kosmetyczkę, która jest przeznaczona do przechowywania kosmetyków. Kategoria 'Moda > Akcesoria > Kosmetyczki' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567409099",
+        "Nazwa_Produktu": "Kosmetyczka Damska Duża Organizer Czarna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Kosmetyczkę Damską'. Kategoria 'Moda > Akcesoria > Kosmetyczki' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567409198",
+        "Nazwa_Produktu": "Haczyki Wieszaki Wielofunkcyjne Czarne 100Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw 100 małych, plastikowych haczyków, które służą do organizacji i zabezpieczania przedmiotów na półkach. Mimo słowa 'Wieszaki' w tytule, opis ('plastikowych haczyków', 'zabezpieczanie półek') wskazuje, że nie są to tradycyjne wieszaki na ubrania (meble), lecz raczej drobne akcesoria wspomagające organizację, które mogą być używane w kontekście mebli (np. półek). Kategoria 'Akcesoria meblowe' (1950) jest bardziej precyzyjna dla tego typu drobnych elementów niż ogólna kategoria 'Wieszaki' (1948), która zazwyczaj odnosi się do mebli lub większych elementów do wieszania odzieży."
+    },
+    {
+        "ID_Produktu": "567409205",
+        "Nazwa_Produktu": "Błotnik Tylny do Skutera NMAX 155 16-18",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Motoryzacja > Części motocyklowe",
+        "Finalne_ID_AI": 1335,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to błotnik, który jest częścią zamienną do skutera. Skutery należą do kategorii motocykli, a błotnik jest częścią motocyklową. Kategoria 'Części motocyklowe' jest najbardziej precyzyjna i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567409233",
+        "Nazwa_Produktu": "Uchwyt Meblowy Do Szafek Czarny Matowy 15 Sztuk",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'uchwyty meblowe', które idealnie pasują do kategorii 'Akcesoria meblowe' znajdującej się w ścieżce 'Dom i Ogród > Meble'. Jest to kategoria-liść i jest semantycznie najlepiej dopasowana do opisu produktu."
+    },
+    {
+        "ID_Produktu": "567409257",
+        "Nazwa_Produktu": "Uszczelka Taśma Uszczelniająca do okien 6x6mm 3x3m",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma uszczelniająca przeznaczona do izolacji drzwi i okien, co bezpośrednio wskazuje na jej zastosowanie w budownictwie w ramach izolacji. Kategoria 'Dom i Ogród > Budowa > Izolacje > Pozostałe' jest najbardziej odpowiednia, ponieważ jest to kategoria-liść i obejmuje materiały izolacyjne, które nie są wyszczególnione w bardziej szczegółowych podkategoriach izolacji (jak styropian czy wełna mineralna)."
+    },
+    {
+        "ID_Produktu": "567409309",
+        "Nazwa_Produktu": "Rolka do kasy fiskalnej 57/20 termiczna 10szt Apak",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna do kas fiskalnych i terminali płatniczych. Kategoria 'Firma i Przemysł > Sklepy i magazyny' doskonale oddaje środowisko użytkowania kas fiskalnych, a podkategoria 'Drukarki i akcesoria' precyzyjnie klasyfikuje rolkę jako akcesorium do urządzenia drukującego (jakim jest kasa fiskalna/terminal)."
+    },
+    {
+        "ID_Produktu": "567409331",
+        "Nazwa_Produktu": "Uchwyt Wieszak Ścienny na Miotły Narzędzia 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Pozostałe Narzędzia",
+        "Finalne_ID_AI": 1703,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "85%",
+        "Uzasadnienie_AI": "Produkt to uniwersalny uchwyt ścienny przeznaczony do organizacji narzędzi, mioteł i mopów, z przeznaczeniem do użytku w garażu, pralni czy szopie ogrodowej. Chociaż może być używany również w kuchni czy łazience, jego główna funkcja to przechowywanie i porządkowanie narzędzi oraz sprzętów do sprzątania. Kategoria 'Dom i Ogród > Narzędzia > Pozostałe Narzędzia' jest najlepiej dopasowaną kategorią-liściem, ponieważ produkt jest ściśle związany z narzędziami i ich organizacją, a nie ma bardziej szczegółowej kategorii dla tego typu akcesoriów do przechowywania narzędzi."
+    },
+    {
+        "ID_Produktu": "567409540",
+        "Nazwa_Produktu": "Pasek  Męski Nylonowy w Kolorze Zielony  135cm",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'Pasek Męski Nylonowy', co idealnie pasuje do kategorii-liścia 'Moda > Akcesoria > Paski'."
+    },
+    {
+        "ID_Produktu": "567409611",
+        "Nazwa_Produktu": "Pokrętło kurek do kranu chrom  28 mm 4szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Hydraulika > Zawory",
+        "Finalne_ID_AI": 3222,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrętło/uchwyt do kranu, które służy do sterowania przepływem wody w zaworze. Opis wyraźnie wskazuje, że pasuje do 'korpusów zaworów'. Kategoria 'Dom i Ogród > Instalacje > Hydraulika > Zawory' jest najbardziej precyzyjna, ponieważ pokrętło jest integralną częścią sterującą zaworem w systemie hydraulicznym, a sam kran jest rodzajem zaworu. Umieszczenie go w kategorii pełnej baterii (np. 'Baterie kuchenne' lub 'Baterie łazienkowe') byłoby mniej dokładne, gdyż produkt jest tylko częścią, a nie całym urządzeniem."
+    },
+    {
+        "ID_Produktu": "567409657",
+        "Nazwa_Produktu": "Taśma Samoprzylepna Uszczelka Do Drzwi Okna 5M",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to piankowa taśma samoprzylepna, której główną funkcją jest uszczelnianie i izolacja (akustyczna, termiczna) drzwi i okien. Kategoria 'Dom i Ogród > Budowa > Izolacje' jest najbardziej semantycznie dopasowana do przeznaczenia produktu. Ponieważ nie ma bardziej szczegółowej kategorii dla taśm izolacyjnych, wybrano 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "567409668",
+        "Nazwa_Produktu": "Papier Kraftowy do drukarek A4 100 arkuszy 10 kol.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papier Kraftowy przeznaczony do drukarek, opisany jako odpowiedni do 'drukarek biurowych' i 'kopiarek'. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej precyzyjnym i adekwatnym miejscem dla tego typu artykułu. Choć wspomniano o zastosowaniach hobbystycznych (origami, DIY), podstawowe przeznaczenie wskazuje na materiały biurowe, a kategoria 'Dla Dzieci' byłaby zbyt zawężająca."
+    },
+    {
+        "ID_Produktu": "567409731",
+        "Nazwa_Produktu": "Kosmetyczka skóra PU podróżny ogranizer kufer",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują, że jest to kosmetyczka podróżna, a kategoria 'Moda > Akcesoria > Kosmetyczki' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567409853",
+        "Nazwa_Produktu": "Kosmetyczka Organizer na Waciki z Pokrywką",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'Kosmetyczkę', a opis potwierdza jej przeznaczenie jako pojemnika na waciki i inne drobiazgi kosmetyczne, co idealnie pasuje do kategorii 'Moda > Akcesoria > Kosmetyczki'."
+    },
+    {
+        "ID_Produktu": "567409859",
+        "Nazwa_Produktu": "Foliopak kurierski 40x60cm biały 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliopak kurierski, czyli koperta wysyłkowa. Jest to materiał eksploatacyjny używany przede wszystkim w działalności handlowej, logistycznej i magazynowej. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej adekwatna do zastosowania produktu. Ponieważ nie ma bardziej szczegółowej kategorii dla materiałów do pakowania/wysyłki, 'Pozostałe' w tej gałęzi jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567409893",
+        "Nazwa_Produktu": "Torba papierowa 32x16x42cm brązowa nadruk 250szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torby papierowe sprzedawane w dużej ilości (250 sztuk), co sugeruje zastosowanie komercyjne lub biurowe, a nie indywidualne domowe. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' najlepiej oddaje przeznaczenie produktu jako zaopatrzenia dla firm. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Torby na zakupy' jest mniej odpowiednia ze względu na ilość i kontekst 'wyposażenia wnętrz', które zazwyczaj odnosi się do użytku domowego, a nie hurtowego."
+    },
+    {
+        "ID_Produktu": "567409907",
+        "Nazwa_Produktu": "Pojemnik aluminiowy trójdzielny z pokrywką 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to aluminiowe pojemniki w dużej ilości (100 szt.), co wskazuje na zastosowanie komercyjne, a nie typowo domowe. Nazwa dostawcy 'Odra Pak' również sugeruje kontekst profesjonalny. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i trafnym wyborem dla tego rodzaju produktu i jego ilości, lepiej oddając jego przeznaczenie niż ogólna kategoria do użytku domowego, nawet jeśli początkowa sugestia wskazywała na inną gałąź."
+    },
+    {
+        "ID_Produktu": "567409917",
+        "Nazwa_Produktu": "Tacka pod ciasto 54x38cm złota 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to tacki pod ciasto przeznaczone do eksponowania i pakowania produktów spożywczych, z wyraźnym wskazaniem na zastosowanie w gastronomii (restauracje, bary, food trucki). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i semantycznie dopasowana do opisu produktu."
+    },
+    {
+        "ID_Produktu": "567410150",
+        "Nazwa_Produktu": "Okulary Przeciwsłoneczne W Kształcie Serca 2szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'okulary przeciwsłoneczne', a kategoria 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne' jest idealnie dopasowana."
+    },
+    {
+        "ID_Produktu": "567410166",
+        "Nazwa_Produktu": "Maskotka Pluszak Przytulanka Różowa kaczka 23.5 cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Maskotki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Pozostałe",
+        "Finalne_ID_AI": 293,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt, mimo słów 'Maskotka Pluszak Przytulanka' w tytule, jest w opisie jasno zdefiniowany jako zabawka dla psów ('dla psów', 'psi przyjaciel', 'szczeniaka', 'zabawka do gryzienia'). W dostarczonym drzewie kategorii nie ma żadnej gałęzi ani kategorii-liścia dedykowanej zwierzętom domowym lub akcesoriom dla nich. Zgodnie z instrukcją, jeśli żadna kategoria nie pasuje idealnie, należy wybrać tę, która będzie najmniej myląca dla kupującego. Umieszczenie zabawki dla psa w kategorii 'Dla Dzieci > Zabawki > Maskotki' byłoby bardzo mylące. Kategoria 'Dom i Ogród > Pozostałe' jest najbardziej ogólną i najmniej mylącą opcją spośród dostępnych, ponieważ zwierzęta domowe są częścią gospodarstwa domowego."
+    },
+    {
+        "ID_Produktu": "567410219",
+        "Nazwa_Produktu": "Organizer pojemnik na biurko toaletkę z szufladami",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Organizer pojemnik na biurko toaletkę z szufladami', przeznaczony głównie do przechowywania przedmiotów biurowych (długopisów, linijek, markerów, zszywacza, nożyczek, notatek, wizytówek), ale także drobnych przedmiotów osobistych, biżuterii i kosmetyków. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej adekwatna ze względu na jego główną funkcję jako organizera biurkowego. Mimo możliwości użycia na toaletce, opis kładzie nacisk na zastosowanie biurowe i szkolne. Kategoria 'Pudełka' jest zbyt ogólna, a 'Szkatułki' zbyt wąska."
+    },
+    {
+        "ID_Produktu": "567410331",
+        "Nazwa_Produktu": "Mata do Szuflady Wodoodporna 30x15 cm Szara kropki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Akcesoria meblowe",
+        "Finalne_ID_AI": 1950,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to mata antypoślizgowa i wodoodporna przeznaczona do szuflad kuchennych. Jest to akcesorium, które uzupełnia i chroni mebel (szufladę). Kategoria 'Dom i Ogród > Meble > Akcesoria meblowe' jest najbardziej precyzyjnym i semantycznie dopasowanym wyborem, ponieważ mata służy jako wyposażenie mebla. Kategoria 'Podkładki i maty' znajduje się pod 'Obrusy i serwetki', co sugeruje zastosowanie stołowe, a nie do szuflad meblowych."
+    },
+    {
+        "ID_Produktu": "567410372",
+        "Nazwa_Produktu": "Organizer podróżny do walizki na ubrania 10szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Walizki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Pozostałe",
+        "Finalne_ID_AI": 2762,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw organizerów podróżnych do walizki, które pełnią funkcję mniejszych torebek/worków do segregacji rzeczy w bagażu. Kategoria 'Moda > Torby i torebki > Pozostałe' jest najbardziej odpowiednia, ponieważ organizery są funkcjonalnie związane z torbami (walizkami) i nie pasują do żadnej z bardziej szczegółowych podkategorii toreb, ale są ich rodzajem akcesorium wewnętrznego. Jest to również zgodne z ogólną ścieżką sugerowaną przez wskazówkę (Moda > Torby i torebki)."
+    },
+    {
+        "ID_Produktu": "567410401",
+        "Nazwa_Produktu": "Maskotka dla Psa Zabawka Piszczący Krokodyl",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Maskotki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Pozostałe",
+        "Finalne_ID_AI": 293,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zabawka dla psa. W udostępnionym drzewie kategorii brakuje dedykowanej kategorii dla zwierząt lub akcesoriów dla zwierząt domowych. Kategoria 'Dla Dzieci > Zabawki > Maskotki' jest semantycznie niepoprawna, ponieważ produkt jest przeznaczony dla psa, nie dla dziecka. Zgodnie z instrukcją, jeśli żadna kategoria nie pasuje idealnie, należy wybrać tę, która będzie najmniej myląca dla kupującego. 'Dom i Ogród > Pozostałe' jest najbardziej ogólną i najmniej mylącą kategorią, która nie przypisuje produktu do błędnego przeznaczenia (np. dla dzieci)."
+    },
+    {
+        "ID_Produktu": "567410431",
+        "Nazwa_Produktu": "Łyżka do butów metalowa z haczykiem  długośc 42cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to 'łyżka do butów', która jest akcesorium ułatwiającym zakładanie obuwia. Obuwie należy do kategorii 'Moda'. W gałęzi 'Moda > Akcesoria' nie ma bardziej szczegółowej kategorii dla tego typu akcesoriów, dlatego 'Pozostałe' w tej gałęzi jest najbardziej odpowiednim wyborem. Wskazówka systemowa 'Dom i Ogród > Narzędzia > Narzędzia ręczne' jest mniej trafna, ponieważ łyżka do butów nie jest narzędziem w typowym rozumieniu, a raczej osobistym akcesorium związanym z ubiorem."
+    },
+    {
+        "ID_Produktu": "567410439",
+        "Nazwa_Produktu": "Kosmetyczka Skóra PU Organizer Kuferek Kremowy",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Kosmetyczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Kosmetyczki",
+        "Finalne_ID_AI": 2764,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują, że jest to kosmetyczka ('Kosmetyczka Skóra PU Organizer Kuferek Kremowy', 'Kosmetyczka Damska Duża Organizer Na Kosmetyki'). Kategoria 'Moda > Akcesoria > Kosmetyczki' jest idealnym i bezpośrednim dopasowaniem."
+    },
+    {
+        "ID_Produktu": "567410469",
+        "Nazwa_Produktu": "Rolka do kasy fiskalnej 57x100 termiczna 3szt Eco",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do kas fiskalnych i terminali płatniczych. Kasy fiskalne i terminale płatnicze są typowym wyposażeniem sklepów, a rolka jest akcesorium do wbudowanych w nie drukarek. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "567410496",
+        "Nazwa_Produktu": "Uszczelka Taśma uszczelniająca samoprzylepna 4m 2s",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma uszczelniająca o właściwościach izolacyjnych (akustycznych, cieplnych, wodoodpornych) przeznaczona głównie do uszczelniania drzwi i okien. Kategoria 'Dom i Ogród > Budowa > Izolacje' najlepiej oddaje zastosowanie produktu, a 'Pozostałe' jest odpowiednią kategorią-liściem dla taśmy uszczelniającej, która nie jest styropianem ani wełną mineralną."
+    },
+    {
+        "ID_Produktu": "567410507",
+        "Nazwa_Produktu": "Wieszak ścienny haczyki czarny 32x23cm 2szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'wieszak ścienny z haczykami', przeznaczony do wieszania ubrań i innych przedmiotów. Jest to element wyposażenia wnętrz, który najlepiej pasuje do kategorii 'Meble > Wieszaki'. Kategoria 'Mocowania ścienne' jest zbyt ogólna i znajduje się w gałęzi 'Dekoracje', podczas gdy wieszak pełni przede wszystkim funkcję użytkową, a nie tylko dekoracyjną."
+    },
+    {
+        "ID_Produktu": "567410630",
+        "Nazwa_Produktu": "Nakładka na mopa Duo 40cm frędzle bawełna Perfecto",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Obrusy i serwetki > Podkładki i maty",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Narzędzia > Części do narzędzi",
+        "Finalne_ID_AI": 4714,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'nakładka na mopa', która jest częścią narzędzia (mopa). Kategoria 'Dom i Ogród > Narzędzia > Części do narzędzi' jest najbardziej precyzyjnym dopasowaniem, ponieważ mopy są narzędziami, a nakładka jest ich częścią. Sugerowana kategoria z podpowiedzi OLX jest błędna semantycznie dla tego produktu."
+    },
+    {
+        "ID_Produktu": "567410674",
+        "Nazwa_Produktu": "Wieszak Uchwyt z Haczykami Kształt Serca 10szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Mocowania ścienne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to uchwyt z haczykami służący do wieszania różnych przedmiotów (ubrań, pasków, ręczników), co idealnie pasuje do definicji 'Wieszaki' w kategorii 'Dom i Ogród > Meble'. Chociaż może być mocowany do ściany, jego podstawowa funkcja jako wieszaka jest bardziej precyzyjnym dopasowaniem niż ogólne 'Mocowania ścienne'."
+    },
+    {
+        "ID_Produktu": "567410714",
+        "Nazwa_Produktu": "Żarówka LED E14 5W Ciepła biel 3000K 2 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki",
+        "Finalne_ID_AI": 3859,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to żarówka LED, a kategoria 'Dom i Ogród > Oświetlenie > Żarówki i świetlówki > Żarówki' jest najbardziej precyzyjnym i bezpośrednim dopasowaniem do tytułu i opisu produktu."
+    },
+    {
+        "ID_Produktu": "567410733",
+        "Nazwa_Produktu": "Menu box pojemnik niedzielony 230x205mm pulpa 50szt eko",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'Menu box' przeznaczony do gastronomii, cateringu i dań na wynos, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Pojemniki i przechowywanie żywności' z sekcji Dom i Ogród, biorąc pod uwagę zastosowanie produktu."
+    },
+    {
+        "ID_Produktu": "567410759",
+        "Nazwa_Produktu": "Vileda Szczotka 3 Action Bez Drążka 1 Szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to szczotka do zamiatania. Najbardziej precyzyjną kategorią, która bezpośrednio odnosi się do szczotek i mioteł, jest 'Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki'. Mimo że szczotka może być używana w domu, jest to narzędzie do zamiatania, a ta kategoria jest najbardziej dopasowana semantycznie i jest kategorią-liściem. Sugerowana przez system kategoria 'Środki czyszczące' jest błędna, ponieważ produkt jest narzędziem, a nie środkiem chemicznym."
+    },
+    {
+        "ID_Produktu": "567410773",
+        "Nazwa_Produktu": "Vileda Szczotka Uniwersalna 2W1 Bez Drążka1 Szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Miotły i szczotki",
+        "Finalne_ID_AI": 2879,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to szczotka do zamiatania, a kategoria 'Miotły i szczotki' jest najbardziej szczegółowym i odpowiednim miejscem dla tego typu narzędzi w ramach drzewa kategorii 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "567410863",
+        "Nazwa_Produktu": "Saszetka nerka biodrowa sportowa wodoodporna czerń",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Nerki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Nerki",
+        "Finalne_ID_AI": 2754,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł produktu wyraźnie wskazuje na 'nerkę biodrową sportową', a opis potwierdza jej przeznaczenie jako 'pas do biegania' i 'saszetka sportowa'. Kategoria 'Moda > Torby i torebki > Nerki' jest idealnie dopasowana."
+    },
+    {
+        "ID_Produktu": "567410870",
+        "Nazwa_Produktu": "Saszetka nerka biodrowa sportowa wodoodporna szary",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Nerki",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Nerki",
+        "Finalne_ID_AI": 2754,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'Saszetka nerka biodrowa sportowa wodoodporna' oraz 'pas do biegania'. Kategoria 'Moda > Torby i torebki > Nerki' (ID 2754) jest idealnym i najbardziej szczegółowym dopasowaniem do tego opisu."
+    },
+    {
+        "ID_Produktu": "567410923",
+        "Nazwa_Produktu": "Teleskopowy organizer na wieszaki zielony",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'organizer na wieszaki', który służy do przechowywania i organizacji wieszaków, a tym samym odzieży. Kategoria 'Wieszaki' w drzewie 'Dom i Ogród > Meble' jest najbardziej adekwatna do funkcji i przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "567410944",
+        "Nazwa_Produktu": "Ręcznik fryzjerski 26,5cm 70mb Air Laid 1szt ZPW",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ręczniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria fryzjerskie > Pozostałe",
+        "Finalne_ID_AI": 5089,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'ręcznik fryzjerski', co wskazuje na jego profesjonalne zastosowanie w salonach. Kategoria 'Firma i Przemysł > Wyposażenie salonów > Akcesoria fryzjerskie > Pozostałe' jest najbardziej semantycznie dopasowana, ponieważ ręcznik jest akcesorium fryzjerskim, a nie ma bardziej szczegółowej kategorii dla ręczników w tej gałęzi. Ogólna kategoria 'Ręczniki' w 'Dom i Ogród' byłaby myląca, sugerując ręcznik do użytku domowego."
+    },
+    {
+        "ID_Produktu": "567410973",
+        "Nazwa_Produktu": "Lampki LED łańcuch świetlny 30 diod duchy Hallowee",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Girlandy świetlne",
+        "Finalne_ID_AI": 3847,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'łańcuch świetlny' (girlandę świetlną). Produkt jest przeznaczony zarówno do użytku wewnętrznego, jak i zewnętrznego, co sprawia, że ogólna kategoria 'Girlandy świetlne' jest bardziej odpowiednia niż kategoria 'Oświetlenie zewnętrzne > Girlandy'."
+    },
+    {
+        "ID_Produktu": "567411013",
+        "Nazwa_Produktu": "Kostium czarnego anioła skrzydła opaski spódnica",
+        "Poczatkowa_Sciezka_OLX": "Moda > Bielizna damska > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Pozostałe",
+        "Finalne_ID_AI": 2739,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw kostiumowy (kostium czarnego anioła), który składa się głównie z akcesoriów takich jak skrzydła, opaska i tiulowa spódnica przeznaczona do przebrania. Ponieważ w drzewie kategorii nie ma dedykowanej gałęzi dla kostiumów dla dorosłych, a główne elementy zestawu to akcesoria, kategoria 'Moda > Akcesoria > Pozostałe' jest najbardziej odpowiednia i najmniej myląca. Ignoruję sugestię 'Bielizna damska', gdyż jest ona nieadekwatna do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "567411020",
+        "Nazwa_Produktu": "Gra imprezowa dla dorosłych drinking game 2szt.",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Gry planszowe",
+        "Finalna_Sciezka_AI": "Sport i Hobby > Sporty towarzyskie > Pozostałe sporty towarzyskie",
+        "Finalne_ID_AI": 4969,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'gra imprezowa dla dorosłych' typu 'drinking game' / 'Shot Roulette'. Kategoria 'Sport i Hobby > Sporty towarzyskie' obejmuje aktywności rekreacyjne i społeczne. 'Pozostałe sporty towarzyskie' jest najlepiej dopasowaną kategorią dla tego typu gry, która nie jest tradycyjną grą planszową, a jej głównym celem jest rozrywka towarzyska."
+    },
+    {
+        "ID_Produktu": "567411030",
+        "Nazwa_Produktu": "Słuchawka prysznicowa z filtrem kosmetycznym",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Pozostałe",
+        "Finalne_ID_AI": 3237,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to słuchawka prysznicowa, która jest elementem wyposażenia łazienki. Kategoria 'Dom i Ogród > Wykończenie wnętrz > Łazienka' jest najbardziej odpowiednia dla armatury i osprzętu łazienkowego. Ponieważ nie ma bardziej szczegółowej kategorii dla samych słuchawek prysznicowych, 'Pozostałe' w tej gałęzi jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567411046",
+        "Nazwa_Produktu": "Mini głośnik Bluetooth bezprzewodowy stereo 3W róż",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Sprzęt audio > Głośniki i kolumny > Głośniki przenośne",
+        "Finalna_Sciezka_AI": "Elektronika > Sprzęt audio > Głośniki i kolumny > Głośniki przenośne",
+        "Finalne_ID_AI": 1967,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują na przenośny głośnik Bluetooth, który jest idealny do użytku w podróży i na zewnątrz. Kategoria 'Elektronika > Sprzęt audio > Głośniki i kolumny > Głośniki przenośne' jest najbardziej precyzyjnym i najlepiej dopasowanym wyborem."
+    },
+    {
+        "ID_Produktu": "567411089",
+        "Nazwa_Produktu": "Doniczki do wysiewu nasion tekturowe 61szt + tacki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Dekoracje > Doniczki i osłonki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Donice",
+        "Finalne_ID_AI": 1632,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'doniczki do wysiewu nasion' i 'tacki' przeznaczone do 'ogrodnictwa'. Kategoria 'Dom i Ogród > Ogród > Donice' jest najbardziej precyzyjnym i semantycznie dopasowanym miejscem dla tego typu artykułów ogrodniczych. Sugerowana kategoria 'Doniczki i osłonki' pod 'Wyposażenie wnętrz > Dekoracje' byłaby trafna, gdyby produkt był głównie dekoracyjny, natomiast te doniczki służą do funkcjonalnego wysiewu i hodowli sadzonek, co bardziej pasuje do ogólnej kategorii 'Donice' w sekcji 'Ogród'."
+    },
+    {
+        "ID_Produktu": "567411091",
+        "Nazwa_Produktu": "Zbieraczka do owoców ogrodowych wysięgnik 160cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Narzędzia ogrodowe > Pozostałe",
+        "Finalne_ID_AI": 2886,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'zbieraczka do owoców ogrodowych', co jednoznacznie wskazuje na jego przeznaczenie do ogrodu. Najbardziej szczegółową gałęzią dla tego typu narzędzia jest 'Dom i Ogród > Ogród > Narzędzia ogrodowe'. Ponieważ nie ma bardziej precyzyjnej kategorii-liścia (np. 'Zbieraczki do owoców') w tej gałęzi, wybór 'Pozostałe' (ID 2886) jest najbardziej odpowiedni."
+    },
+    {
+        "ID_Produktu": "567411232",
+        "Nazwa_Produktu": "Łańcuch świetlny LED 4m w ozdonej taśmie 4 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ozdoby okolicznościowe",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Girlandy",
+        "Finalne_ID_AI": 3873,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'łańcuch świetlny LED', co jest synonimem 'girlandy świetlnej'. Opis wyraźnie wskazuje na możliwość użycia zarówno w pomieszczeniach, jak i na zewnątrz ('w ogrodzie lub na zewnątrz', 'IP44'). Kategoria 'Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Girlandy' jest najbardziej szczegółowa i trafna, obejmując zarówno rodzaj produktu, jak i jego przeznaczenie zewnętrzne. Jest to lepszy wybór niż ogólne 'Girlandy świetlne' (3847) ze względu na podkreślone zastosowanie zewnętrzne, a także bardziej precyzyjny niż 'Ozdoby okolicznościowe', gdyż produkt jest przede wszystkim źródłem światła."
+    },
+    {
+        "ID_Produktu": "567411257",
+        "Nazwa_Produktu": "Szczotka do włosów drewniana bez ciągnięcia",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Akcesoria do włosów > Pozostałe",
+        "Finalne_ID_AI": 2733,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to szczotka do włosów, która jest akcesorium do pielęgnacji włosów. Najbardziej odpowiednia kategoria to 'Moda > Akcesoria > Akcesoria do włosów', a ponieważ nie ma bardziej szczegółowej kategorii dla szczotek, wybieram kategorię-liść 'Pozostałe' w tej gałęzi. Sugerowana kategoria 'Dla Dzieci > Zabawki > Pozostałe' jest nieodpowiednia, gdyż szczotka do włosów nie jest zabawką."
+    },
+    {
+        "ID_Produktu": "567411366",
+        "Nazwa_Produktu": "Lampy solarne ogrodowe LED kuleczki ciepła biel",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne > Lampy",
+        "Finalne_ID_AI": 3875,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to lampy przeznaczone do użytku zewnętrznego, konkretnie w ogrodzie ('ogrodowe', 'na zewnątrz'). Kategoria 'Lampy' w gałęzi 'Dom i Ogród > Oświetlenie > Oświetlenie zewnętrzne' jest najbardziej odpowiednia, obejmując szeroki zakres oświetlenia zewnętrznego, w tym dekoracyjne lampy solarne. Inne kategorie są zbyt szczegółowe lub nie pasują do charakteru produktu (np. 'Słupki oświetleniowe' sugerują bardziej funkcjonalne oświetlenie, a nie 'świetliki kuleczki')."
+    },
+    {
+        "ID_Produktu": "567411393",
+        "Nazwa_Produktu": "Pudełko na kurczaka 260x190x50mm kraft 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to tekturowe pudełko przeznaczone do pakowania dań na wynos, z wyraźnym przeznaczeniem do użytku w gastronomii (restauracje, bary, food trucki). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i trafnym wyborem, ponieważ pudełko na kurczaka jest rodzajem pojemnika używanego w gastronomii. Kategoria 'Pozostałe' w tej gałęzi byłaby mniej szczegółowa. Sugestia OLX została zignorowana, ponieważ semantycznie nie pasowała do produktu."
+    },
+    {
+        "ID_Produktu": "567411403",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu S9530 22717850C colt 40szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemnik do zgrzewu przeznaczony do dań na wynos dla firm cateringowych i restauracji, co jednoznacznie wskazuje na jego zastosowanie gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' (ID: 5076) jest znacznie bardziej szczegółowa i trafna niż ogólna kategoria dotycząca przechowywania żywności w domu, mimo sugestii z podpowiedzi OLX. Opis produktu wielokrotnie podkreśla jego przeznaczenie w branży gastronomicznej."
+    },
+    {
+        "ID_Produktu": "567411408",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu W1/621S 227x178x50 320szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik do zgrzewu przeznaczony głównie dla firm cateringowych i restauracji, co wyraźnie wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu, w przeciwieństwie do bardziej ogólnej kategorii 'Pojemniki i przechowywanie żywności' w 'Dom i Ogród', która sugeruje zastosowanie domowe."
+    },
+    {
+        "ID_Produktu": "567411413",
+        "Nazwa_Produktu": "Koperta na kebab brąz 4,2 kg",
+        "Poczatkowa_Sciezka_OLX": "Praca > Gastronomia > Pracownik restauracji fast-food",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opakowanie (koperta) przeznaczone do serwowania kebabu, co jednoznacznie wskazuje na zastosowanie w gastronomii. Kategoria 'Pojemniki gastronomiczne' najlepiej oddaje naturę produktu, który służy jako jednorazowy pojemnik na żywność w placówkach gastronomicznych. Jest to bardziej szczegółowa kategoria niż ogólne 'Pozostałe' w tej samej gałęzi i lepiej pasuje do komercyjnego charakteru produktu niż kategorie z gałęzi 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "567411470",
+        "Nazwa_Produktu": "Podkładka na biurko PU dwustronna 40x60cm zieleń",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to podkładka na biurko, która jest akcesorium biurowym, służącym do ochrony i estetyki miejsca pracy. Opis wyraźnie wskazuje na jej przeznaczenie 'do użytku w biurze lub w domu', co idealnie pasuje do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'. Kategoria ta jest najbardziej specyficzna i adekwatna dla tego typu przedmiotu."
+    },
+    {
+        "ID_Produktu": "567411490",
+        "Nazwa_Produktu": "Torba papierowa 305x170x340 brąz 100szt EnjoyBeEco",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torba papierowa sprzedawana w opakowaniu 100 sztuk. Tego typu artykuły są klasyfikowane jako materiały biurowe lub opakowaniowe, przeznaczone do użytku w firmach. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najlepiej dopasowana, ponieważ obejmuje ogólne materiały eksploatacyjne dla biznesu."
+    },
+    {
+        "ID_Produktu": "567411501",
+        "Nazwa_Produktu": "Torebka na ramię i z uchwytem 18x20cm perłowy róż",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby na ramię",
+        "Finalne_ID_AI": 2758,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wyraźnie wskazują na 'torebkę na ramię' oraz 'torebkę crossbody', co doskonale pasuje do kategorii 'Moda > Torby i torebki > Torby na ramię'."
+    },
+    {
+        "ID_Produktu": "567411507",
+        "Nazwa_Produktu": "Narzuta imitująca kaszmir ciepła z frędzlami",
+        "Poczatkowa_Sciezka_OLX": "Moda > Ubrania damskie > Kardigany",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Szale i chusty > Szale",
+        "Finalne_ID_AI": 2730,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'szalik', 'chusta', 'pashmina/stuła' i 'duża, długa i szeroka chusta', która może służyć jako 'narzuta' na chłodne wieczory. Te określenia jednoznacznie wskazują na kategorię 'Szale' w akcesoriach, która najlepiej oddaje charakter produktu jako dużego, ciepłego okrycia/dodatku."
+    },
+    {
+        "ID_Produktu": "567411578",
+        "Nazwa_Produktu": "Torebka na ramie regulowany pasek saszeta poręczna",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Torby na ramię",
+        "Finalne_ID_AI": 2758,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu wielokrotnie wskazują na torebkę noszoną na ramieniu lub jako crossbody. Opis zawiera frazy takie jak 'Torebka na ramie', 'torba na ramię dla kobiet', 'torba crossbody', 'Mała torba na ramię'. Kategoria 'Moda > Torby i torebki > Torby na ramię' (ID 2758) jest idealnie dopasowana do charakterystyki produktu i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567411580",
+        "Nazwa_Produktu": "Torebka na ramie regulowany pasek poręczna saszeta",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Torby na ramię",
+        "Finalna_Sciezka_AI": "Moda > Torby i torebki > Listonoszki",
+        "Finalne_ID_AI": 2753,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest opisany jako 'torebka na ramie' i 'torba crossbody', którą można nosić na ramieniu, klatce piersiowej lub plecach. Podane wymiary wskazują na niewielki rozmiar. 'Listonoszki' to kategoria dla toreb noszonych na ramieniu lub przez ciało (crossbody), często o mniejszych rozmiarach, co jest bardziej szczegółowym i precyzyjnym dopasowaniem niż ogólna kategoria 'Torby na ramię'."
+    },
+    {
+        "ID_Produktu": "567411591",
+        "Nazwa_Produktu": "Portfel damski ze skóry PU portmonetka z klapką",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'portfel'. Kategoria 'Moda > Akcesoria > Portfele' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567411600",
+        "Nazwa_Produktu": "Łata Samoprzylepna Zestaw do naprawy Basenu 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to zestaw samoprzylepnych łatek do naprawy basenów i materacy. Baseny znajdują się w kategorii 'Dom i Ogród > Ogród > Baseny'. Ponieważ nie ma bardziej szczegółowej kategorii dla akcesoriów lub zestawów naprawczych do basenów, 'Dom i Ogród > Ogród > Pozostałe Ogród' jest najlepiej dopasowaną kategorią dla tego typu produktu, który jest przeznaczony do użytku w ogrodzie/na zewnątrz w kontekście basenu."
+    },
+    {
+        "ID_Produktu": "567411606",
+        "Nazwa_Produktu": "Rękawiczki damskie do ekranów czarne uniwersalne",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Rękawiczki",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Rękawiczki",
+        "Finalne_ID_AI": 2722,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to rękawiczki damskie, a kategoria 'Moda > Akcesoria > Rękawiczki' jest bezpośrednim i najlepiej pasującym liściem w drzewie kategorii."
+    },
+    {
+        "ID_Produktu": "567411621",
+        "Nazwa_Produktu": "Okulary przeciwsłoneczne UV polaryzacyjne czarne",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne",
+        "Finalne_ID_AI": 2736,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na okulary przeciwsłoneczne, a kategoria 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne' jest idealnym i najbardziej szczegółowym dopasowaniem."
     }
 ]
