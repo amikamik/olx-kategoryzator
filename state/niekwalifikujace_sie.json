@@ -8118,5 +8118,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pokrowiec ochronny na rośliny przeznaczony do użytku zewnętrznego (balkon, ogród), co jednoznacznie wskazuje na kategorię 'Dom i Ogród > Ogród'. W ramach tej gałęzi nie ma bardziej szczegółowej kategorii dedykowanej ochronie roślin czy pokrowcom na rośliny. Zatem 'Pozostałe Ogród' jest najlepiej dopasowaną kategorią-liściem. Sugerowana kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pokrowce' jest nieodpowiednia, ponieważ 'Wyposażenie wnętrz' odnosi się do przedmiotów do użytku wewnętrznego, a produkt jest przeznaczony do użytku zewnętrznego."
+    },
+    {
+        "ID_Produktu": "567411884",
+        "Nazwa_Produktu": "Słuchawka prysznicowa 5 trybów G1/2 chromowana",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Wykończenie wnętrz > Łazienka > Pozostałe",
+        "Finalne_ID_AI": 3237,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to słuchawka prysznicowa, która jest elementem wyposażenia łazienki, ściśle związanym z instalacją wodno-kanalizacyjną. Pasuje do kategorii 'Dom i Ogród > Wykończenie wnętrz > Łazienka', a ponieważ nie ma bardziej szczegółowej podkategorii dla samych słuchawek prysznicowych (np. baterie łazienkowe to całe zestawy, a nie pojedyncza słuchawka), kategoria 'Pozostałe' w tej gałęzi jest najbardziej odpowiednia."
+    },
+    {
+        "ID_Produktu": "567411894",
+        "Nazwa_Produktu": "Taśma uszczelniająca do drzwi okien 35mmx5m szara",
+        "Poczatkowa_Sciezka_OLX": "Brak",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Izolacje > Pozostałe",
+        "Finalne_ID_AI": 3171,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma uszczelniająca do drzwi i okien, służąca do izolacji. Kategoria 'Dom i Ogród > Budowa > Izolacje > Pozostałe' jest najbardziej odpowiednia, ponieważ produkt pełni funkcję izolacyjną i jest materiałem budowlanym, a nie ma bardziej szczegółowej kategorii dla taśm uszczelniających."
+    },
+    {
+        "ID_Produktu": "567411914",
+        "Nazwa_Produktu": "Pasek eko skóra wzór krokodyla 3 kolory 3 szt.",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Paski",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Paski",
+        "Finalne_ID_AI": 2721,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na 'pasek'. Kategoria 'Moda > Akcesoria > Paski' (ID 2721) jest kategorią-liściem i idealnie pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "567411940",
+        "Nazwa_Produktu": "Łopatka widelec do grilla wielofunkcyjny 7w1 42cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to wielofunkcyjna łopatka/widelec przeznaczony specjalnie do grillowania. Kategoria 'Dom i Ogród > Ogród > Grill' jest najbardziej precyzyjna i semantycznie dopasowana do przeznaczenia przedmiotu, będąc jednocześnie kategorią-liściem. Jest to bardziej szczegółowa kategoria niż ogólne 'Narzędzia ręczne'."
     }
 ]
