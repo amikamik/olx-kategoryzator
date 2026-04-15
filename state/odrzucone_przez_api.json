@@ -3463,5 +3463,63 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567411879",
+        "Nazwa_Produktu": "Opaski zaciskowe trytytki 500szt białe 300mmx3.6mm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny",
+        "Finalne_ID_AI": 3209,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opaski zaciskowe (trytytki) służące do porządkowania kabli w różnych środowiskach (dom, biuro, warsztat, ogród, garaż). Kategoria 'Dom i Ogród > Instalacje > Elektryka > System i osprzęt instalacyjny' najlepiej oddaje funkcję i zastosowanie produktu, ponieważ opaski zaciskowe są podstawowym elementem osprzętu do organizacji i mocowania instalacji kablowych. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Pozostałe' lub 'Narzędzia ręczne' (sugerowane jako wskazówka, ale nieadekwatne).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Opaski zaciskowe trytytki 500szt białe 300mmx3.6mm",
+                "description": "Nadaje się do porządkowania wszelkiego rodzaju kabli w biurze, domu, warsztacie, ogrodzie i garażu itp. Wykonane z wytrzymałego nylonu o dużej wytrzymałości na rozciąganie i elastyczności; Rozmiar elementu: 300 x 3,5 mm Łatwy w użyciu z funkcją zwalniania, odpowiedni do użytku wewnątrz i na zewnątrz Samozabezpieczające zapięcie zaciskowez nylonu i tworzywa sztucznego. Mocne i trwałe zęby blokujące i głowica zapobiegają zaczepianiu się i nie ślizgają się po dokręceniu Opakowanie zbiorcze po 500 sztuk Marka: LIKERAINY Stan: Nowy\n\n[DEAL-BLB2B]",
+                "category_id": 3209,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 62.98,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/d6447bf7a767bd70db1872750ea8d2e2.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/6cabb563881016e526dbacbcd0b4a8e3.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/30ce481c0741e2ca47c2691fce66ed0e.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

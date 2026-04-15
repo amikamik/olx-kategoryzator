@@ -8088,5 +8088,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł produktu zawiera słowo 'SPOT', które idealnie pasuje do kategorii 'Dom i Ogród > Oświetlenie > Lampy > Spoty'. Opis potwierdza, że jest to reflektor sufitowy LED, przeznaczony do montażu na suficie lub ścianie, co jest zgodne z charakterystyką spotów."
+    },
+    {
+        "ID_Produktu": "567411860",
+        "Nazwa_Produktu": "Portfel Damski ze Sztucznej Skóry Jasnoróżowy",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na portfel, a kategoria 'Moda > Akcesoria > Portfele' jest idealnie dopasowana i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567411866",
+        "Nazwa_Produktu": "Zestaw Naprawczy Łatki do Basenu 6szt Klej PVC",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Baseny",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Baseny",
+        "Finalne_ID_AI": 1630,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to zestaw naprawczy przeznaczony do basenów, pontonów i zabawek wodnych. Najbardziej odpowiednią i szczegółową kategorią-liściem jest 'Dom i Ogród > Ogród > Baseny', ponieważ produkt jest akcesorium bezpośrednio związanym z basenami, a w dostępnym drzewie kategorii nie ma bardziej precyzyjnej podkategorii typu 'Akcesoria do basenów' lub 'Naprawa basenów'. Umieszczenie go w tej kategorii jest najbardziej intuicyjne dla kupującego poszukującego produktów do basenu."
+    },
+    {
+        "ID_Produktu": "567411871",
+        "Nazwa_Produktu": "Pokrowiec kaptur zimowa ochrona roślin 60x80 cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pokrowce",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Pozostałe Ogród",
+        "Finalne_ID_AI": 1641,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrowiec ochronny na rośliny przeznaczony do użytku zewnętrznego (balkon, ogród), co jednoznacznie wskazuje na kategorię 'Dom i Ogród > Ogród'. W ramach tej gałęzi nie ma bardziej szczegółowej kategorii dedykowanej ochronie roślin czy pokrowcom na rośliny. Zatem 'Pozostałe Ogród' jest najlepiej dopasowaną kategorią-liściem. Sugerowana kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pokrowce' jest nieodpowiednia, ponieważ 'Wyposażenie wnętrz' odnosi się do przedmiotów do użytku wewnętrznego, a produkt jest przeznaczony do użytku zewnętrznego."
     }
 ]
