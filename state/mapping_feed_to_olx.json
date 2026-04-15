@@ -17120,5 +17120,33 @@
         "category_id": 2100,
         "price": 177.11,
         "gpsr_status": "missing"
+    },
+    "567411624": {
+        "olx_id": 1067414827,
+        "published_at": "2026-04-15T23:36:05.668120",
+        "category_id": 2141,
+        "price": 94.0,
+        "gpsr_status": "missing"
+    },
+    "567411627": {
+        "olx_id": 1067414833,
+        "published_at": "2026-04-15T23:36:30.854281",
+        "category_id": 2141,
+        "price": 104.99,
+        "gpsr_status": "missing"
+    },
+    "567411628": {
+        "olx_id": 1067414834,
+        "published_at": "2026-04-15T23:37:03.012245",
+        "category_id": 2192,
+        "price": 95.96,
+        "gpsr_status": "missing"
+    },
+    "567411629": {
+        "olx_id": 1067414843,
+        "published_at": "2026-04-15T23:37:41.508312",
+        "category_id": 4747,
+        "price": 79.34,
+        "gpsr_status": "missing"
     }
 }

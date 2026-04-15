@@ -8078,5 +8078,15 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Tytuł i opis produktu jednoznacznie wskazują na okulary przeciwsłoneczne, a kategoria 'Moda > Akcesoria > Okulary > Okulary przeciwsłoneczne' jest idealnym i najbardziej szczegółowym dopasowaniem."
+    },
+    {
+        "ID_Produktu": "567411632",
+        "Nazwa_Produktu": "Reflektory sufitowe LED SPOT 15W biały 3000K",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Oświetlenie > Halogeny i naświetlacze",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Oświetlenie > Lampy > Spoty",
+        "Finalne_ID_AI": 3871,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu zawiera słowo 'SPOT', które idealnie pasuje do kategorii 'Dom i Ogród > Oświetlenie > Lampy > Spoty'. Opis potwierdza, że jest to reflektor sufitowy LED, przeznaczony do montażu na suficie lub ścianie, co jest zgodne z charakterystyką spotów."
     }
 ]
