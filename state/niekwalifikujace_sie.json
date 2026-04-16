@@ -8678,5 +8678,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to wieczko (przykrywka) do misek, przeznaczone do użytku w gastronomii, cateringu i do dań na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje profesjonalne zastosowanie produktu, ponieważ wieczko jest integralną częścią systemu pojemników używanych w tej branży."
+    },
+    {
+        "ID_Produktu": "567413785",
+        "Nazwa_Produktu": "Pojemnik cukierniczy 236x165x110 Guillin ALI65 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemnik cukierniczy przeznaczony do użytku komercyjnego (cukiernie, piekarnie, kawiarnie, catering), co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności' byłaby odpowiednia dla użytku domowego, ale opis produktu wskazuje na zastosowanie profesjonalne."
+    },
+    {
+        "ID_Produktu": "567413788",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 227x178x50 colt Guillin 320szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemniki do zgrzewu, które są wyraźnie przeznaczone dla gastronomii, cateringu i firm oferujących dania na wynos, co jest wielokrotnie podkreślone w opisie. Duża ilość (320 sztuk) oraz wzmianka o opłacie SUP (Single Use Plastics) dodatkowo wskazują na zastosowanie profesjonalne/komercyjne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna dla tego typu produktu, lepiej oddając jego przeznaczenie niż ogólna kategoria do użytku domowego, nawet jeśli sugerowana ścieżka prowadzi do 'Dom i Ogród'."
     }
 ]
