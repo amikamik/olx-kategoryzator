@@ -3521,5 +3521,60 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567412122",
+        "Nazwa_Produktu": "Mediclean 260 Fugue 0,5L 1szt",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Witaminy i suplementy zdrowia",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące",
+        "Finalne_ID_AI": 4705,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to silnie działający preparat do czyszczenia fug, przeznaczony również do użytku profesjonalnego. Najlepiej pasuje do kategorii 'Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące', ponieważ jest to specjalistyczny środek chemiczny używany w kontekście budowy i wykończenia wnętrz, a nie ogólny środek czyszczący z supermarketu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Mediclean 260 fugue 0,5l 1szt",
+                "description": "Mediclean 260 Fugue Produkt objęty obowiązkiem deklaracji zakupowej dla prekursorów materiałów wybuchowych zgodnie z rozporządzeniem 2019/1148. Silnie działający preparat do gruntownego czyszczenia fug podłogowych i ściennych Cechy produktu: Gotowy do użycia płyn do mycia fug podłogowych i ściennych Działa już po kilku sekundach od aplikacji Usuwa zanieczyszczenia nieorganiczne, nagromadzone osady mineralne Nie stosować na powierzchniach wrażliwych na kwasy Sposób użycia: Sposób użycia: Preparat nanieść na zwilżoną wodą powierzchnię fugi. W zależności od intensywności zabrudzenia odczekać od 15 sekund do 5 minut. Zebrać rozpuszczony brud, a następnie zneutralizować powierzchnię, spłukując ją czystą wodą. W przypadku lżejszych zabrudzeń można rozcieńczyć preparat w proporcji 1:1 z zimną wodą. Nie stosować na powierzchniach szczególnie wrażliwych na kwasy (ewentualnie wykonać próbę na małym fragmencie powierzchni). Skład: Kwas azotowy(V), alkohol C9-11 etoksylowany (6 EO), Kwas nitrylotrimetyloentrifosfonowy, 5% niejonowe środki powierzchniowo czynne, 5% fosfoniany Opakowanie: butelka 500 ml ze spryskiwaczem Zastosowanie: Specjalistyczny preparat przeznaczony do czyszczenia fug podłogowych i ściennych. Błyskawicznie rozpuszcza trudne do usunięcia zabrudzenia nieorganiczne bez konieczności szorowania. Działa w ciągu kilkunastu sekund od momentu aplikacji. Tylko do użytku profesjonalnego. pH 11 --- Cena dotyczy 1 szt. 0,5 litra\n\n[DEAL-BLB2B]",
+                "category_id": 4705,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 36.81,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/66da31ecba6a4924acbf948fbf9055da.jpg"
+                    },
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/ad3f0206bf355649e1c094a0e1d4a3cf.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
