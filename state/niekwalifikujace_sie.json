@@ -8638,5 +8638,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Pojemniki gastronomiczne' w gałęzi 'Firma i Przemysł > Gastronomia' najlepiej oddaje komercyjne przeznaczenie produktu związane z żywnością, traktując woreczki jako formę opakowania/pojemnika. Jest to najbardziej szczegółowa i semantycznie dopasowana kategoria."
+    },
+    {
+        "ID_Produktu": "567413756",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu Guillin D-9420RC 227x178x50 3-dz 320szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to pojemniki do zgrzewu przeznaczone dla gastronomii i cateringu. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', która jest specyficzna i odzwierciedla profesjonalne zastosowanie produktu, w przeciwieństwie do ogólnych pojemników do użytku domowego."
+    },
+    {
+        "ID_Produktu": "567413758",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu Guillin D-9430RC 227x178x50 3-dz 320szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik do zgrzewu przeznaczony do pakowania dań gotowych dla gastronomii, cateringu i lokali serwujących posiłki na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest idealnie dopasowana do profesjonalnego zastosowania produktu, w przeciwieństwie do sugerowanej kategorii 'Dom i Ogród', która jest przeznaczona dla użytkowników indywidualnych."
+    },
+    {
+        "ID_Produktu": "567413765",
+        "Nazwa_Produktu": "Miska do zgrzewu Paccor Easy Handle 460ml czarna 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Zdrowie i Uroda > Urządzenia medyczne > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to miska przeznaczona do serwowania gorących posiłków na wynos, dedykowana dla branży gastronomicznej i cateringu. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje przeznaczenie i kontekst użytkowania produktu, będąc bardziej szczegółową niż ogólne kategorie naczyń."
+    },
+    {
+        "ID_Produktu": "567413768",
+        "Nazwa_Produktu": "Wieczko przykrywka do miski 460ml Paccor Easy Handle 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Miski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wieczko (przykrywka) do misek, przeznaczone do użytku w gastronomii, cateringu i do dań na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje profesjonalne zastosowanie produktu, ponieważ wieczko jest integralną częścią systemu pojemników używanych w tej branży."
     }
 ]
