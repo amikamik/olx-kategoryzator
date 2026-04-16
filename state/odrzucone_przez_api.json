@@ -3784,5 +3784,57 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567414799",
+        "Nazwa_Produktu": "Lakma Flormatik Gres Acid do czyszczenia gresu 10L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące",
+        "Finalne_ID_AI": 4705,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny środek do czyszczenia gresu i płytek, który jest chemią budowlaną. Kategoria 'Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące' jest idealnie dopasowana semantycznie i bardziej szczegółowa niż ogólna kategoria 'Supermarket > Środki czyszczące'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Lakma flormatik gres acid do czyszczenia gresu 10l",
+                "description": "Lakma FLORMATIK GRES ACID Kwaśny środek do czyszczenia gresu 10 L ph 1 FLORMATIK GRES ACID jest środkiem o kwaśnym pH, na bazie kwasu fosforowego, który w zależności od zastosowanego stężenia doskonale nadaje się do gruntownego czyszczenia oraz do mycia mikroporowatych wodoodpornych powierzchni. W szczególności zalecany jest do czyszczenia gresu i płytek antyposlizgowych Preparat głęboko wnika w pory, rozpuszczając kamień wodny, rdze, resztki cementu oraz naloty wapienne. FLORMATIK GRES ACID przeznaczony jest do stosowania ręcznego, w automatach myjących i szorowarkach jednotarczowych. usuwa kamień wodny, rdze rozpuszcza resztki cementu głęboko wnika w pory na bazie kwasu fosforowego informacje o bezpieczeństwie: Lakma Strefa Sp. z o.o. Ul. Gajowa 7 43-254 Warszowice Rozporządzenie nr 1272/2008 (CLP): Klasyfikacja tego produktu została przeprowadzona zgodnie z Rozporządzeniem nr 1272/2008 (CLP). Eye Dam. 1: Poważne uszkodzenie oczu / działanie drażniące na oczy, kategoria zagrożenia 1, H318 Skin Irrit. 2: Działanie żrące / drażniące na skórę, kategoria zagrożenia 2, H315 Rozporządzenie nr 1272/2008 (CLP): Niebezpieczeństwo Zwroty wskazujące rodzaj zagrożenia: Eye Dam. 1: H318 - Powoduje poważne uszkodzenie oczu. Skin Irrit. 2: H315 - Działa drażniąco na skórę. Zwroty wskazujące środki ostrożności: P264: Dokładnie umyć ręce po użyciu. P280: Stosować rękawice ochronne/ ochronę oczu/ochronę twarzy. P302+P352: W PRZYPADKU KONTAKTU ZE SKÓRĄ: Umyć dużą ilością wody. P305+P351+P338: W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Nadal płukać. P310: Natychmiast skontaktować się z OŚRODKIEM ZATRUĆ/lekarzem. P332+P313: W przypadku wystąpienia podrażnienia skóry: Zasięgnąć porady/zgłosić się pod opiekę lekarza. Substancje, które mają wpływ na klasyfikację Kwas fosforowy(V); Alkohol, C9-11, etoksylowany (6 EO)\n\n[DEAL-BLB2B]",
+                "category_id": 4705,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 496.84,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/2df105a7a0658ea2511506c4a7a5cca0.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

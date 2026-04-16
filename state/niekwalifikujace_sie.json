@@ -8968,5 +8968,115 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to wykałaczki, które w opisie są wyraźnie przeznaczone dla lokali gastronomicznych, hoteli i cateringu. Pasuje do ogólnej kategorii 'Gastronomia', a ponieważ nie ma bardziej szczegółowej kategorii dla tak drobnych akcesoriów, 'Pozostałe' jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567414416",
+        "Nazwa_Produktu": "Taśma do zaklejarek czerwona 9mm 66m 6szt Plast",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Części do maszyn i urządzeń",
+        "Finalne_ID_AI": 4767,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma przeznaczona do zaklejarek, wykorzystywana do pakowania żywności i elementów przemysłowych. Jest to materiał eksploatacyjny, stanowiący de facto część lub akcesorium niezbędne do funkcjonowania maszyn (zaklejarek) w kontekście firmowym i przemysłowym. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' najlepiej oddaje zastosowanie i naturę produktu, będąc bardziej precyzyjną niż ogólne kategorie 'Pozostałe' w ramach innych gałęzi."
+    },
+    {
+        "ID_Produktu": "567414443",
+        "Nazwa_Produktu": "Kubek 400ml PET Guillin Delipack 7940POPC 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik deserowy (kubek) sprzedawany w opakowaniu po 50 sztuk, wykonany z PET (materiał jednorazowego użytku podlegający opłacie SUP). Opis sugeruje zastosowanie w cukiernictwie/gastronomii oraz możliwość zakupu do dalszej odsprzedaży, co wskazuje na kontekst firmowy/przemysłowy. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje charakter produktu oraz jego przeznaczenie biznesowe. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Naczynia jednorazowe' byłaby zbyt ogólna i mniej trafna w kontekście ilości i przeznaczenia komercyjnego."
+    },
+    {
+        "ID_Produktu": "567414446",
+        "Nazwa_Produktu": "Kubek 500ml PET śr.95 do Shake 50szt Papstar SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Kubki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kubki jednorazowe PET przeznaczone do użytku w gastronomii, food truckach i na eventach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu, w przeciwieństwie do ogólnej kategorii 'Kubki' w 'Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa', która sugeruje kubki wielokrotnego użytku do domowego zastosowania."
+    },
+    {
+        "ID_Produktu": "567414451",
+        "Nazwa_Produktu": "Pokrywka wypukła z otworem śr.95 50szt Papstar",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywki do kubków, przeznaczone do użytku w gastronomii, kawiarniach i food truckach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ pokrywki są integralną częścią pojemników używanych w kontekście gastronomicznym."
+    },
+    {
+        "ID_Produktu": "567414458",
+        "Nazwa_Produktu": "Papier uniwersalny foliowany 35x40cm brąz nadruk 10kg Kram",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'papier pakowy gastronomiczny', przeznaczony do pakowania żywności w branży gastronomicznej. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej odpowiednia, ponieważ dokładnie odzwierciedla przeznaczenie produktu dla sektora gastronomicznego, a nie ma bardziej szczegółowej kategorii dla papieru pakowego w tej gałęzi. Hint dotyczący artykułów szkolnych został zignorowany, gdyż jest semantycznie niezgodny z opisem produktu."
+    },
+    {
+        "ID_Produktu": "567414685",
+        "Nazwa_Produktu": "Pudełko na pizzę Enjoy Be Eco 24x3,5cm białe 100szt ścięte",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczne pudełko na pizzę, przeznaczone dla gastronomii (pizzerie, bary szybkiej obsługi, lokale na wynos). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i semantycznie dopasowana do przeznaczenia produktu. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i nie oddaje komercyjnego charakteru produktu."
+    },
+    {
+        "ID_Produktu": "567414708",
+        "Nazwa_Produktu": "Etykiety samoprzylepne 58x56 500etykiet na rolce Apak",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to etykiety samoprzylepne przeznaczone do wag sklepowych, drukarek termicznych i automatów etykietujących, używane w sklepach, hurtowniach i przemyśle. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najbardziej precyzyjnym dopasowaniem, ponieważ etykiety są akcesoriami do drukarek i są stosowane w kontekście sklepów i magazynów. Sugerowana kategoria z gałęzi 'Dla Dzieci' jest całkowicie nieadekwatna do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "567414731",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu 350ml czarny PP Guillin D-5350RC 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik do zgrzewu, przeznaczony dla gastronomii i firm cateringowych, co jest wyraźnie zaznaczone w opisie. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym dopasowaniem, lepiej niż ogólne 'Pojemniki i przechowywanie żywności' z sekcji 'Dom i Ogród', które sugerowałoby zastosowanie domowe."
+    },
+    {
+        "ID_Produktu": "567414756",
+        "Nazwa_Produktu": "Noodle Box kebab box papier450ml kraft eko 50szt Abc-Pak",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to papierowe opakowanie typu 'food box' przeznaczone do serwowania dań na wynos w gastronomii, cateringu i food truckach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i trafnym wyborem, idealnie oddającym przeznaczenie i charakter produktu."
+    },
+    {
+        "ID_Produktu": "567414762",
+        "Nazwa_Produktu": "Sosjerka papierowa 60ml kraft 50szt Guillin POTCART60",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to papierowa sosjerka/pojemnik przeznaczony do serwowania sosów i dipów, a w opisie wyraźnie zaznaczono, że jest 'Idealny dla gastronomii, cateringu i dań na wynos'. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i bezpośrednio odnosi się do przeznaczenia produktu w kontekście biznesowym."
+    },
+    {
+        "ID_Produktu": "567414775",
+        "Nazwa_Produktu": "Pojemnik styropianowy XPS obiadowy niedzielony 125szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to termiczny pojemnik obiadowy ze styropianu, sprzedawany w dużej ilości (125 szt.) i przeznaczony do serwowania posiłków na wynos, w cateringu oraz na imprezach masowych, co wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i adekwatna do opisu produktu."
     }
 ]
