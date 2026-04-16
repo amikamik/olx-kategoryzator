@@ -9288,5 +9288,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pudełka kartonowe przeznaczone do pakowania i transportu wyrobów cukierniczych w piekarniach, cukierniach i gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna, ponieważ odnosi się bezpośrednio do przeznaczenia produktu w branży gastronomicznej, w przeciwieństwie do ogólnej kategorii 'Pudełka' w 'Dom i Ogród', która sugerowałaby zastosowanie domowe."
+    },
+    {
+        "ID_Produktu": "567415541",
+        "Nazwa_Produktu": "Etykiety samoprzylepne 35x24 1000 etykiet 1 rolka Apak",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to etykiety samoprzylepne przeznaczone do znakowania produktów, opakowań i dokumentów w handlu, magazynie i biurze, co jednoznacznie klasyfikuje je jako 'Akcesoria i materiały biurowe' w kategorii 'Firma i Przemysł > Biuro'. Sugerowana kategoria 'Dla Dzieci' jest całkowicie nieodpowiednia dla tego typu produktu."
+    },
+    {
+        "ID_Produktu": "567415544",
+        "Nazwa_Produktu": "Taśma klejąca biurowa Grand 18 mm 20 m 8 rolek",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to 'taśma klejąca biurowa', a opis wyraźnie wskazuje na jej zastosowanie w biurze. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest idealnym i najbardziej precyzyjnym dopasowaniem. Sugerowana kategoria 'Nożyczki' jest nieadekwatna, a 'Artykuły papiernicze' w sekcji 'Dla Dzieci' byłaby zbyt ogólna i mniej trafna niż bezpośrednia kategoria biurowa."
     }
 ]
