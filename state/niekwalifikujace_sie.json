@@ -8878,5 +8878,95 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to tacka papierowa na frytki, której opis wyraźnie wskazuje na przeznaczenie do użytku w lokalach gastronomicznych (food trucki, bary szybkiej obsługi). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ precyzyjnie określa rodzaj produktu (pojemnik) i jego zastosowanie w branży gastronomicznej. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Naczynia jednorazowe' w dziale 'Dom i Ogród', które sugerowałyby użytek domowy."
+    },
+    {
+        "ID_Produktu": "567414343",
+        "Nazwa_Produktu": "Pojemnik garmażeryjny 250ml Guillin 7625POPC 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'pojemnik garmażeryjny' przeznaczony do pakowania posiłków na wynos, z wyraźnym wskazaniem na 'branżę gastronomiczną'. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i bezpośrednio odpowiada przeznaczeniu produktu."
+    },
+    {
+        "ID_Produktu": "567414350",
+        "Nazwa_Produktu": "Pudełko na pizzę białe 45cm  kwadratowe 50szt Enjoy Be Eco",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pudełko na pizzę, które jest rodzajem pojemnika używanego w gastronomii, co idealnie pasuje do kategorii 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł > Gastronomia'. Sugerowana kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i nieadekwatna do komercyjnego przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "567414352",
+        "Nazwa_Produktu": "Pudełko na pizzę białe 40cm ścięte 50szt Enjoy Be Eco",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pudełko na pizzę, które jest pojemnikiem przeznaczonym do użytku w gastronomii (pizzerie, catering, lokale na wynos), zgodnie z opisem. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i trafnym wyborem."
+    },
+    {
+        "ID_Produktu": "567414358",
+        "Nazwa_Produktu": "Lunch Box 160x100x60 ze skrzydełkami 100szt Enjoy Be Eco",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe pojemniki typu lunch box, sprzedawane w dużej ilości (100 szt.), a opis wyraźnie wskazuje na przeznaczenie dla gastronomii, cateringu i lokali na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje charakter produktu oraz jego przeznaczenie."
+    },
+    {
+        "ID_Produktu": "567414363",
+        "Nazwa_Produktu": "Menubox 230x155x45-76 pulpa trzcinowa 50szt Enjoy Be Eco",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe opakowanie (menubox) przeznaczone do serwowania posiłków na wynos, z wyraźnym wskazaniem na zastosowanie w restauracjach, cateringu i punktach gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "567414387",
+        "Nazwa_Produktu": "Pudełko opakowanie na hamburgera 152x152x121 kraft 100 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to opakowanie na hamburgery przeznaczone dla barów szybkiej obsługi, food trucków i restauracji. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i semantycznie dopasowana do profesjonalnego przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "567414389",
+        "Nazwa_Produktu": "Rolka termiczna 57x20 Eco bez gilzy 10szt Primus",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria",
+        "Finalne_ID_AI": 4682,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to rolka termiczna przeznaczona do kas fiskalnych i terminali płatniczych. Kasy fiskalne to rodzaj drukarek/urządzeń rejestrujących, a rolki są do nich akcesoriami. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Drukarki i akcesoria' jest najlepiej dopasowana, ponieważ precyzyjnie odzwierciedla przeznaczenie produktu w kontekście handlowym/biznesowym jako akcesorium do urządzeń drukujących. Sugerowana kategoria 'Dla Dzieci' jest całkowicie nieadekwatna."
+    },
+    {
+        "ID_Produktu": "567414399",
+        "Nazwa_Produktu": "Torba papierowa cateringowa 33x16x26cm 250szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torba papierowa przeznaczona do użytku w branży cateringowej, co wyraźnie wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, ponieważ torba pełni funkcję pojemnika na produkty cateringowe. Kategoria 'Pozostałe Artykuły papiernicze' w dziale 'Dla Dzieci' jest całkowicie nieadekwatna do charakteru produktu i została zignorowana."
+    },
+    {
+        "ID_Produktu": "567414409",
+        "Nazwa_Produktu": "Wykałaczki drewniane 6,5cm pojedynczo pak 1000szt Papstar",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Ryneczek > Owoce i warzywa",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wykałaczki, które w opisie są wyraźnie przeznaczone dla lokali gastronomicznych, hoteli i cateringu. Pasuje do ogólnej kategorii 'Gastronomia', a ponieważ nie ma bardziej szczegółowej kategorii dla tak drobnych akcesoriów, 'Pozostałe' jest najlepszym wyborem."
     }
 ]

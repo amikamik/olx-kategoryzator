@@ -3732,5 +3732,57 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567414383",
+        "Nazwa_Produktu": "Denaturat Flambi 95 procent 0,5L",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Literatura",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące",
+        "Finalne_ID_AI": 4705,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to denaturat, który jest opisany jako 'środek czyszczący i odtłuszczający powierzchnie robocze, narzędzia, szkło' oraz 'rozpuszczalnik – świetnie sprawdza się przy rozcieńczaniu farb, lakierów, politur'. Kategoria 'Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące' (4705) najlepiej pasuje do jego funkcji czyszczących i jest bardziej szczegółowa niż ogólne 'Pozostałe' w tej gałęzi. Zastosowanie jako rozpuszczalnik jest często związane z czyszczeniem lub przygotowaniem powierzchni w pracach budowlanych/renowacyjnych, co mieści się w szerszym zakresie chemii budowlanej.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Denaturat flambi 95 procent 0,5l",
+                "description": "Denaturat Flambi 95%, 0,5 L Denaturat Flambi to wysokoprocentowy denaturat zawierający aż 95?% alkoholu etylowego (spirytusu), wzbogacony środkami skażającymi i barwnikiem, które uniemożliwiają jego spożycie. Produkt sprzedawany jest w wygodnej, półlitrowej butelce o kompaktowych wymiarach. Zastosowanie: Doskonały jako rozpuszczalnik świetnie sprawdza się przy rozcieńczaniu farb, lakierów, politur oraz w pracach renowacyjnych. Jako środek czyszczący i odtłuszczający powierzchnie robocze, narzędzia, szkło. Może służyć jako paliwo do palników i kuchenek turystycznych dzięki wysokiej wartości opałowej. Ze względu na szybkie parowanie i lotność sprawdzi się w wielu pracach warsztatowych i technicznych Ostrzeżenia i uwagi: Produkt zawiera substancje niebezpieczne należy używać w dobrze wentylowanych pomieszczeniach i stosować odpowiednią ochronę: rękawice, okulary oraz unikać kontaktu ze skórą i oczami Przechowywać z dala od źródeł ognia i zabezpieczyć przed dziećmi. Nie nadaje się do spożycia intensywnie skażony (kolor, zapach) celem wyeliminowania zastosowań konsumpcyjnych Zalety: Wysokie, 95% stężenie alkoholu gwarantuje skuteczność. Wielofunkcyjność można go stosować w przemyśle, warsztatach, laboratoriach, gospodarstwach domowych. Poręczne opakowanie 0,5 L wygodne w transporcie i przechowywaniu. EAN: 5901694492070 Producent: Flambi Cosmetics Sp. z?o.o., ul. Wybudowanie?1, 88-300 Mogilno Zagrożenia: Denaturat to wysoce łatwopalna ciecz (H225), drażniąca dla oczu (H319). Środki ostrożności: Chronić przed dziećmi, trzymać z dala od ognia, stosować rękawice i okulary. W razie dostania do oczu spłukać wodą i skonsultować z lekarzem. Przechowywanie: W zamkniętym pojemniku, w chłodnym i wentylowanym miejscu. Utylizacja: Oddać zgodnie z przepisami na odpady niebezpieczne.\n\n[DEAL-BLB2B]",
+                "category_id": 4705,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 19.93,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/10da2b61b9fb885e0af6c42dc3f00fab.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
