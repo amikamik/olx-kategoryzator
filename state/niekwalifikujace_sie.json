@@ -8838,5 +8838,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to wieczko kopułkowe do kubków PET, przeznaczone do serwowania napojów i deserów na wynos w kawiarniach, barach, food truckach i punktach gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ produkt stanowi akcesorium do pojemników używanych w gastronomii, a opis wyraźnie wskazuje na zastosowanie komercyjne."
+    },
+    {
+        "ID_Produktu": "567414280",
+        "Nazwa_Produktu": "Pojemnik garmaźeryjny 350ml okrągły transparent 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'pojemnik garmażeryjny' przeznaczony 'dla lokali gastronomicznych, pakujących posiłki na wynos'. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i semantycznie najlepiej dopasowana do opisu i przeznaczenia produktu, w przeciwieństwie do ogólniejszych pojemników do przechowywania żywności w kontekście domowym."
+    },
+    {
+        "ID_Produktu": "567414298",
+        "Nazwa_Produktu": "Tacka na frytki 15x8,5x3,5cm kraft-biała 100szt ABC-Pak",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowa tacka na frytki, przeznaczona głównie dla lokali gastronomicznych, food trucków i barów szybkiej obsługi, co wskazuje na zastosowanie profesjonalne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i semantycznie dopasowana do tego typu akcesoriów używanych w gastronomii."
+    },
+    {
+        "ID_Produktu": "567414304",
+        "Nazwa_Produktu": "Tacka na frytki 20x14x6cm kraft-biała 100szt ABC-Pak",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowa tacka papierowa przeznaczona głównie do użytku w lokalach gastronomicznych, food truckach i barach szybkiej obsługi. Kategoria 'Firma i Przemysł > Gastronomia' jest najlepiej dopasowana do komercyjnego zastosowania produktu, a 'Pozostałe' jest odpowiednie, gdy brak bardziej szczegółowej podkategorii dla tego typu akcesoriów."
+    },
+    {
+        "ID_Produktu": "567414316",
+        "Nazwa_Produktu": "Tacka na frytki 27x6,5x4cm kraft-biała 100szt ABC-Pak",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to tacka papierowa na frytki, której opis wyraźnie wskazuje na przeznaczenie do użytku w lokalach gastronomicznych (food trucki, bary szybkiej obsługi). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ precyzyjnie określa rodzaj produktu (pojemnik) i jego zastosowanie w branży gastronomicznej. Jest to bardziej szczegółowa i trafna kategoria niż ogólne 'Naczynia jednorazowe' w dziale 'Dom i Ogród', które sugerowałyby użytek domowy."
     }
 ]
