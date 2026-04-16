@@ -8238,5 +8238,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to aluminiowa foremka z deklem, której opis wyraźnie wskazuje na zastosowanie w gastronomii i barach szybkiej obsługi do dań na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu jako opakowania dla profesjonalnych zastosowań kulinarnych, w przeciwieństwie do kategorii dla domowych przyborów kuchennych."
+    },
+    {
+        "ID_Produktu": "567412524",
+        "Nazwa_Produktu": "Pudełko z okienkiem 190x130x50 sushi 100szt Enjoy SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to papierowe pudełko z okienkiem przeznaczone do pakowania sushi, przekąsek i deserów, z wyraźnym wskazaniem, że jest to rozwiązanie dla lokali gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' (5076) jest najbardziej precyzyjna, ponieważ produkt jest pojemnikiem używanym w kontekście gastronomicznym. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' (2102) jest zbyt ogólna i nie oddaje komercyjnego przeznaczenia produktu."
+    },
+    {
+        "ID_Produktu": "567412529",
+        "Nazwa_Produktu": "Pudełko z okienkiem 190x130x50 na sushi 140szt Enjoy SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pudełka na sushi przeznaczone dla restauracji i cateringu. Najbardziej odpowiednią i szczegółową kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', która idealnie pasuje do zastosowania komercyjnego i charakteru produktu. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i sugeruje zastosowanie domowe, a nie gastronomiczne."
+    },
+    {
+        "ID_Produktu": "567412539",
+        "Nazwa_Produktu": "Podkład flizelina 60cm 50mb 15g biały 1 rolka ZPW",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Pozostałe",
+        "Finalne_ID_AI": 5096,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to jednorazowy podkład flizelinowy przeznaczony do gabinetów kosmetycznych, medycznych, SPA i salonów masażu. Kategoria 'Firma i Przemysł > Wyposażenie salonów > Akcesoria kosmetyczne > Pozostałe' jest najbardziej precyzyjna, ponieważ produkt jest akcesorium higienicznym używanym w profesjonalnych salonach i gabinetach."
+    },
+    {
+        "ID_Produktu": "567412600",
+        "Nazwa_Produktu": "Butelka Lakma Profimax LH 0,5L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to butelka przeznaczona do profesjonalnych środków czyszczących, dedykowana do użytku w firmach sprzątających, gastronomii, biurach i obiektach użyteczności publicznej. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najlepiej dopasowana, ponieważ butelka stanowi akcesorium dla materiałów (środków czyszczących) używanych w środowisku biurowym/przemysłowym. Sugerowana kategoria 'Butelki i bidony' w 'Praktyczne kuchenne' jest nieodpowiednia ze względu na profesjonalne przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "567412609",
+        "Nazwa_Produktu": "Przykrywka Airpac PP 500ml 25szt Papstar",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywki (przykrywki) przeznaczone do zamykania kubków na zupę i inne dania na wynos. Opis wyraźnie wskazuje na zastosowanie w restauracjach, cateringu oraz użytku domowym. Marka Papstar jest znana z produktów dla gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ pokrywki są akcesoriami do pojemników, a ich głównym przeznaczeniem jest obsługa żywności w kontekście gastronomicznym i na wynos. Kategoria ta jest bardziej szczegółowa i lepiej oddaje charakter produktu niż ogólne kategorie domowe, mimo wspomnianego użytku domowego."
+    },
+    {
+        "ID_Produktu": "567412613",
+        "Nazwa_Produktu": "Przykrywka COVCOOK450TP 20szt Guillin",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Literatura",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to przykrywka (wieczko) do pojemników, przeznaczona do zabezpieczania dań na wynos i do transportu dla klienta. Jest to typowy element wyposażenia gastronomicznego/cateringowego. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, ponieważ przykrywka jest bezpośrednio związana z pojemnikami gastronomicznymi."
     }
 ]
