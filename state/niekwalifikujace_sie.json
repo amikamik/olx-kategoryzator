@@ -8458,5 +8458,185 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to reklamówki używane do pakowania zakupionych produktów w sklepach. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej odpowiednia dla artykułów eksploatacyjnych dla handlu, a 'Pozostałe' w tej gałęzi jest najlepszym dopasowaniem, ponieważ nie ma bardziej szczegółowej kategorii dla toreb na zakupy."
+    },
+    {
+        "ID_Produktu": "567413209",
+        "Nazwa_Produktu": "Ręcznik papierowy ZZ 25x23 Velvet V-fold 5600044",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Ręczniki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to ręcznik papierowy przeznaczony do użytku w miejscach o dużym natężeniu ruchu, takich jak biura, restauracje, hotele i obiekty publiczne. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' najlepiej oddaje jego przeznaczenie jako materiału eksploatacyjnego i higienicznego w środowisku biznesowym/komercyjnym. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Ręczniki' jest zbyt ogólna i zazwyczaj odnosi się do ręczników tekstylnych, natomiast 'Dom i Ogród > Supermarket > Środki czyszczące' odnosi się raczej do chemii."
+    },
+    {
+        "ID_Produktu": "567413215",
+        "Nazwa_Produktu": "Serwetki gastronomiczne TAKE ONE MINI 20x10cm 8000",
+        "Poczatkowa_Sciezka_OLX": "Muzyka i Edukacja > Książki > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'serwetki gastronomiczne', co wskazuje na przeznaczenie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia' jest najlepiej dopasowana, a ponieważ nie ma bardziej szczegółowej kategorii dla serwetek, wybrano 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "567413232",
+        "Nazwa_Produktu": "Torebka papierowa 29x15/6,5 biała 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torebki papierowe przeznaczone do pakowania artykułów żywnościowych w placówkach takich jak piekarnie czy cukiernie. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana do tego typu akcesoriów używanych w branży spożywczej. Sugerowana kategoria 'Dla Dzieci > Artykuły szkolne' została zignorowana, gdyż jest całkowicie nietrafna."
+    },
+    {
+        "ID_Produktu": "567413234",
+        "Nazwa_Produktu": "Torebka papierowa 27x15/9  biała 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torebki papierowe przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ torebki służą jako opakowania/pojemniki w branży gastronomicznej i handlowej, co jest zgodne z opisem produktu i jego przeznaczeniem. Kategoria sugerowana przez system jest całkowicie nieadekwatna."
+    },
+    {
+        "ID_Produktu": "567413236",
+        "Nazwa_Produktu": "Torebka papierowa biała 39x20/9 500szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torebki papierowe przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje przeznaczenie i charakter produktu, ponieważ torebki służą jako opakowania (pojemniki) w branży gastronomicznej. Sugerowana kategoria 'Dla Dzieci > Artykuły szkolne' jest całkowicie nieadekwatna do opisu produktu."
+    },
+    {
+        "ID_Produktu": "567413241",
+        "Nazwa_Produktu": "Torebka papierowa 27x15/9 szara 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torebki papierowe przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' najlepiej oddaje ich przeznaczenie jako opakowań/pojemników do użytku w branży gastronomicznej. Jest to kategoria bardziej szczegółowa niż 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "567413243",
+        "Nazwa_Produktu": "Torebka papierowa chleb 28x15/7 okienko 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to torebki papierowe przeznaczone do pakowania artykułów żywnościowych w piekarniach i cukierniach. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł > Gastronomia' jest najbardziej semantycznie dopasowana, ponieważ torebki służą jako opakowania (pojemniki) do żywności w kontekście gastronomicznym."
+    },
+    {
+        "ID_Produktu": "567413246",
+        "Nazwa_Produktu": "Torebka papierowa szara 34x15/9 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torebki papierowe przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Są to materiały eksploatacyjne dla handlu detalicznego. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej adekwatna dla tego typu artykułów, ponieważ obejmuje ogólne wyposażenie i materiały dla placówek handlowych. Sugerowana kategoria 'Dla Dzieci > Artykuły szkolne' jest całkowicie nieadekwatna."
+    },
+    {
+        "ID_Produktu": "567413249",
+        "Nazwa_Produktu": "Torebka papierowa 37x18/8 szara 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torebki papierowe przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł > Gastronomia' jest najlepiej dopasowana, ponieważ torebki służą jako opakowania (pojemniki) w kontekście gastronomicznym."
+    },
+    {
+        "ID_Produktu": "567413251",
+        "Nazwa_Produktu": "Torebka papierowa 29x15/6,5 szara 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torebka papierowa przeznaczona do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Jest to typowy pojemnik używany w branży gastronomicznej/spożywczej, dlatego kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i semantycznie dopasowana. Sugerowana kategoria 'Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze' została zignorowana, ponieważ jest całkowicie niezgodna z przeznaczeniem produktu."
+    },
+    {
+        "ID_Produktu": "567413254",
+        "Nazwa_Produktu": "Torebka papierowa 34x13/7 szara 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to torebki papierowe przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Gastronomia', a w niej 'Pojemniki gastronomiczne', ponieważ torebki pełnią funkcję jednorazowych pojemników do żywności w kontekście gastronomicznym/handlowym. Jest to bardziej szczegółowa kategoria niż 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "567413258",
+        "Nazwa_Produktu": "Torebka papierowa 41x24/8 szara 500szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torebki papierowe przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ torebki służą jako opakowania (pojemniki) w branży gastronomicznej/spożywczej. Jest to bardziej szczegółowa kategoria niż ogólne 'Pozostałe' w tej gałęzi."
+    },
+    {
+        "ID_Produktu": "567413263",
+        "Nazwa_Produktu": "Torba papierowa biała 24x32/10cm z uchwytem skręca",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to torba papierowa przeznaczona do użytku komercyjnego (catering, zakupy, reklama firmy/sklepu). Najlepiej pasuje do ogólnej kategorii związanej z działalnością gospodarczą i handlem, a w drzewie kategorii, 'Firma i Przemysł > Sklepy i magazyny > Pozostałe' jest najbardziej adekwatnym miejscem, ponieważ torby takie są kluczowym elementem wyposażenia sklepów i punktów handlowych. Sugerowana kategoria 'Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze' została odrzucona ze względu na brak semantycznego związku z przeznaczeniem produktu."
+    },
+    {
+        "ID_Produktu": "567413268",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 14x38/4 cm 7mic",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych, głównie w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednia ze względu na przeznaczenie produktu w branży spożywczej/gastronomicznej. W ramach tej gałęzi, 'Pojemniki gastronomiczne' najlepiej opisuje funkcję woreczków jako opakowań/pojemników na żywność."
+    },
+    {
+        "ID_Produktu": "567413270",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 14x45/4 cm 7mic",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torebki/woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ torebki służą jako pojemniki w branży gastronomicznej/spożywczej. Jest to bardziej szczegółowa kategoria niż ogólne 'Pozostałe' w innych gałęziach."
+    },
+    {
+        "ID_Produktu": "567413273",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 16x45/4 cm 7mic",
+        "Poczatkowa_Sciezka_OLX": "Moda > Torby i torebki > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ woreczki pełnią funkcję opakowań/pojemników w kontekście gastronomicznym/handlowym."
+    },
+    {
+        "ID_Produktu": "567413275",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 18x45/4 cm 7mic",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ precyzyjnie odzwierciedla zarówno rodzaj produktu (pojemniki/opakowania), jak i jego przeznaczenie w sektorze gastronomicznym/handlowym. Kategoria z podpowiedzi ('Dla Dzieci > Artykuły szkolne > Artykuły papiernicze') jest całkowicie nieadekwatna."
+    },
+    {
+        "ID_Produktu": "567413277",
+        "Nazwa_Produktu": "Torebki woreczki HDPE 18x50/4 cm 7mic",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to woreczki HDPE przeznaczone do pakowania artykułów żywnościowych w sklepach spożywczych, piekarniach i cukierniach. Kategoria 'Pojemniki gastronomiczne' w gałęzi 'Firma i Przemysł > Gastronomia' najlepiej oddaje komercyjne przeznaczenie produktu związane z żywnością, traktując woreczki jako formę opakowania/pojemnika. Jest to najbardziej szczegółowa i semantycznie dopasowana kategoria."
     }
 ]

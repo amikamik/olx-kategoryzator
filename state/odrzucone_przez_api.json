@@ -3576,5 +3576,57 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567413229",
+        "Nazwa_Produktu": "Taśma Dwustronna 38mm 25m Gładka Samoprzylepna 1szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Nożyczki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Kleje",
+        "Finalne_ID_AI": 4702,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to taśma dwustronna o dużej sile klejenia i wysokiej wytrzymałości temperaturowej, przeznaczona do mocowania m.in. dywanów i listew, a także do zastosowań w przemyśle motoryzacyjnym i produkcyjnym. Jej właściwości i zastosowania, wskazujące na trwałe łączenie i wytrzymałość, najlepiej pasują do kategorii 'Kleje' w ramach 'Chemii budowlanej', pomimo że jest to taśma, a nie płynny klej. Kategoria dla dzieci lub artykułów biurowych byłaby zbyt ogólna lub nieadekwatna do podanych specyfikacji i zastosowań.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Taśma dwustronna 38mm 25m gładka samoprzylepna 1szt",
+                "description": "Taśma Dwustronna 38mm 25m Gładka Samoprzylepna 1 szt. Podstawowa taśma dwustronna na nośniku foliowym (polipropylen PP) z mocnym klejem kauczukowym (kauczuk syntetyczny) o szerokim zastosowaniu. Przydatna do mocowania dywanów, listew, papierów/tektury, do sklejania ze sobą różnych nośników, w tym tkanin, papieru i folii. Wysoka wytrzymałość temperaturowa -10 do +75C oraz grubość nośnika polipropylenowego w taśmie (bez linera) 75?m zapewniają pewność i wysoką jakość podczas pracy oraz dużą siłę klejenia. Dlatego jest to niezastąpiony produkt w domu, w firmie i w samochodzie. Stosowany w przemyśle motoryzacyjnym, przez drukarnie oraz firmy produkcyjne. Specyfikacja techniczna: Szerokość: 38 mm Nawój: 25 m Rodzaj kleju: hotmelt (kauczuk syntetyczny) Rodzaj nośnika: polipropylen Grubość: 75 ?m Siła klejenia: 14 N / 25 mm Odporność na temperatury: -10 do +75 Odporność na ścieranie: 168 Liner: papier silikonowany 70 ?m Test toczącej się kulki [ cm] : 10 Najważniejsze parametry produktu: brak możliwości ręcznego przerywania mocny klej duża grubość nośnika duża siła klejenia\n\n[DEAL-BLB2B]",
+                "category_id": 4702,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 28.03,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/f5f4407fe624157499191f493f07ca15.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
