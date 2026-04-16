@@ -8158,5 +8158,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to wielofunkcyjna łopatka/widelec przeznaczony specjalnie do grillowania. Kategoria 'Dom i Ogród > Ogród > Grill' jest najbardziej precyzyjna i semantycznie dopasowana do przeznaczenia przedmiotu, będąc jednocześnie kategorią-liściem. Jest to bardziej szczegółowa kategoria niż ogólne 'Narzędzia ręczne'."
+    },
+    {
+        "ID_Produktu": "567412027",
+        "Nazwa_Produktu": "Opakowanie na wynos lunch box duży kraft 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to opakowanie na wynos (lunch box) przeznaczone głównie dla gastronomii, restauracji, barów i food trucków. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu do użytku profesjonalnego w branży gastronomicznej, w przeciwieństwie do ogólnych pojemników do przechowywania żywności w domu."
+    },
+    {
+        "ID_Produktu": "567412041",
+        "Nazwa_Produktu": "Portfel damski skóra PU duży błękitny złote ozdoby",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to damski portfel, a kategoria 'Moda > Akcesoria > Portfele' jest bezpośrednim i najlepiej dopasowanym liściem w drzewie kategorii, zgodnym z tytułem i opisem produktu."
+    },
+    {
+        "ID_Produktu": "567412047",
+        "Nazwa_Produktu": "Portfel damski skóra PU średni żółty złote ozdoby",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt to damski portfel, co jest bezpośrednio zgodne z kategorią 'Moda > Akcesoria > Portfele'."
+    },
+    {
+        "ID_Produktu": "567412052",
+        "Nazwa_Produktu": "Portfel damski skóra PU średni beżowy złote ozdoby",
+        "Poczatkowa_Sciezka_OLX": "Moda > Akcesoria > Portfele",
+        "Finalna_Sciezka_AI": "Moda > Akcesoria > Portfele",
+        "Finalne_ID_AI": 2765,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują, że jest to portfel damski. Kategoria 'Moda > Akcesoria > Portfele' jest bezpośrednim i najlepiej dopasowanym liściem w drzewie kategorii do tego typu produktu."
+    },
+    {
+        "ID_Produktu": "567412064",
+        "Nazwa_Produktu": "Miska papierowa 750ml POTCART750PFFC 50szt Guillin",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to papierowa miska/pojemnik przeznaczony do przechowywania i transportu żywności w gastronomii, cateringu i dla dań na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest idealnym i najbardziej precyzyjnym dopasowaniem, uwzględniającym przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "567412068",
+        "Nazwa_Produktu": "Pojemnik garmażeryjny 350ml PP PRE125/350C 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik garmażeryjny na zupę sprzedawany w opakowaniu 50 sztuk, co wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu, w przeciwieństwie do ogólnych pojemników do przechowywania żywności w dziale Dom i Ogród."
     }
 ]
