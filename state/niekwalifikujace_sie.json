@@ -9308,5 +9308,185 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to 'taśma klejąca biurowa', a opis wyraźnie wskazuje na jej zastosowanie w biurze. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest idealnym i najbardziej precyzyjnym dopasowaniem. Sugerowana kategoria 'Nożyczki' jest nieadekwatna, a 'Artykuły papiernicze' w sekcji 'Dla Dzieci' byłaby zbyt ogólna i mniej trafna niż bezpośrednia kategoria biurowa."
+    },
+    {
+        "ID_Produktu": "567415555",
+        "Nazwa_Produktu": "Kubek papierowy Plastic Free 250ml biały 50szt ^",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to kubek papierowy przeznaczony do serwowania kawy, herbaty i napojów na wynos, co jednoznacznie wskazuje na jego zastosowanie w gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i semantycznie dopasowanym wyborem."
+    },
+    {
+        "ID_Produktu": "567415566",
+        "Nazwa_Produktu": "Pudełko na hamburger 132x132x101mm 100szt opakowanie gastronomiczne",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to opakowanie gastronomiczne (pudełko na hamburgery) przeznaczone dla restauracji i punktów gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ precyzyjnie określa przeznaczenie produktu w kontekście biznesowym. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i sugerowałaby pudełka do użytku domowego, co jest niezgodne z opisem produktu."
+    },
+    {
+        "ID_Produktu": "567415567",
+        "Nazwa_Produktu": "Miska papierowa na sałatkę 1300ml fi 185 Kraft Enjoy 50 szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Zwierzęta > Akcesoria dla zwierząt > Akcesoria dla psów > Miski",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to papierowa miska przeznaczona do pakowania i serwowania potraw na wynos w gastronomii (restauracje, catering, food trucki). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' idealnie odzwierciedla przeznaczenie i charakter produktu jako opakowania dla firm."
+    },
+    {
+        "ID_Produktu": "567415853",
+        "Nazwa_Produktu": "Pojemnik garmażeryjny 635 ml z wieczkiem H5 bezbarwny 100 szt.",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Tytuł produktu zawiera słowo 'garmażeryjny', a opis wskazuje na zastosowanie w 'branży spożywczej' oraz w 'sektorze chemii gospodarczej czy przemysłowym'. Sprzedaż w opakowaniach po 100 sztuk również sugeruje zastosowanie komercyjne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu, szczególnie w kontekście 'garmażeryjny'."
+    },
+    {
+        "ID_Produktu": "567415861",
+        "Nazwa_Produktu": "Pudełko na pizzę białe 36x36 cm h 3,5 cm 100 szt Enjoy Be Eco",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pudełka na pizzę przeznaczone do użytku w gastronomii (pizzerie, restauracje, catering). Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ pudełka na pizzę są rodzajem pojemników gastronomicznych używanych w branży."
+    },
+    {
+        "ID_Produktu": "567415868",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu Guillin MAP17811340DC czarny 500 ml 80 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemnik do zgrzewu przeznaczony do pakowania i podgrzewania potraw, z wyraźnym wskazaniem na zastosowanie w gastronomii, cateringu i punktach takeaway. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu w kontekście profesjonalnym, w przeciwieństwie do ogólnych pojemników do przechowywania żywności w domu."
+    },
+    {
+        "ID_Produktu": "567415898",
+        "Nazwa_Produktu": "Pojemnik na ciasto 236x165mm 2040RPET 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik na ciasto, sprzedawany w opakowaniu 50 sztuk, z opisem 'Pojemnik Prostokątny Cukierniczy'. Wzmianka o 'opłacie konsumenckiej od użytkownika końcowego' za opakowania jednorazowego użytku z tworzyw sztucznych (zgodnie z ustawą anty-plastikową) wskazuje na zastosowanie komercyjne, np. w cukierniach czy piekarniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' (ID: 5076) jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu."
+    },
+    {
+        "ID_Produktu": "567415904",
+        "Nazwa_Produktu": "Opakowanie na hot-dog francuski brązowe koperta 1000 szt",
+        "Poczatkowa_Sciezka_OLX": "Antyki i Kolekcje > Kolekcje > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to opakowanie na hot-dogi przeznaczone do użytku w gastronomii (food trucki, stacje paliw, bary szybkiej obsługi). Kategoria 'Pojemniki gastronomiczne' najlepiej oddaje przeznaczenie i kontekst produktu w ramach działu 'Firma i Przemysł > Gastronomia'."
+    },
+    {
+        "ID_Produktu": "567415910",
+        "Nazwa_Produktu": "Cenówki laminowane do wędlin duże 80x110 mm żółte 50 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to cenówki laminowane, które służą do oznaczania cen w sklepach, supermarketach, delikatesach i gastronomii. Stanowią one materiał eksploatacyjny i akcesorium niezbędne w prowadzeniu działalności handlowej. Kategoria 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe' jest najbardziej odpowiednia, ponieważ obejmuje ogólne materiały biurowe i akcesoria używane w firmach. Brak bardziej szczegółowej kategorii w gałęzi 'Sklepy i magazyny', która bezpośrednio pasowałaby do cenówek."
+    },
+    {
+        "ID_Produktu": "567415917",
+        "Nazwa_Produktu": "Cenówki laminowane do wędlin duże 80x110 mm zielone 50 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to cenówki laminowane, które służą do oznaczania cen w sklepach i punktach sprzedaży. Są to materiały eksploatacyjne i akcesoria biurowe/handlowe, które najlepiej pasują do kategorii 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe'. Żadna z podkategorii w 'Sklepy i magazyny' nie jest wystarczająco szczegółowa ani trafna dla samych cenówek."
+    },
+    {
+        "ID_Produktu": "567415925",
+        "Nazwa_Produktu": "Cenówki laminowane do wędlin duże 80x110 mm czerwone 50 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to laminowane cenówki przeznaczone do oznaczania cen w sklepach spożywczych, supermarketach, delikatesach, stoiskach handlowych oraz w gastronomii. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej odpowiednią nadrzędną kategorią dla tego typu artykułów. Ponieważ brak jest bardziej szczegółowej podkategorii dla 'cenówek' lub 'etykiet cenowych' w tym drzewie, 'Pozostałe' w ramach tej gałęzi jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567415930",
+        "Nazwa_Produktu": "Cenówki laminowane do wędlin duże 80x110 mm pomarańcz 50 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to cenówki laminowane, przeznaczone do oznaczania cen w sklepach spożywczych, supermarketach, delikatesach, stoiskach handlowych oraz gastronomii. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej odpowiednia, ponieważ obejmuje wyposażenie i akcesoria dla punktów sprzedaży. Ponieważ nie ma bardziej szczegółowej kategorii bezpośrednio dla cenówek, 'Pozostałe' w tej gałęzi jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567415938",
+        "Nazwa_Produktu": "Cenówki laminowane do wędlin małe 60x95 mm żółte 50 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to laminowane cenówki, przeznaczone do oznaczania cen w sklepach spożywczych, supermarketach, delikatesach, stoiskach handlowych oraz gastronomii. Najbardziej pasującą kategorią jest 'Firma i Przemysł > Sklepy i magazyny', a ponieważ nie ma bardziej szczegółowej kategorii dla cenówek, wybór 'Pozostałe' w tej gałęzi jest najbardziej adekwatny. Podpowiedź systemowa została zignorowana, ponieważ nie pasowała semantycznie."
+    },
+    {
+        "ID_Produktu": "567415946",
+        "Nazwa_Produktu": "Cenówki laminowane do wędlin małe 60x95 mm czerwone 50 szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to cenówki laminowane, przeznaczone do oznaczania cen w sklepach i punktach sprzedaży, a także w gastronomii. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej odpowiednia dla wyposażenia handlowego. Ponieważ nie ma bardziej szczegółowej kategorii dla samych cenówek, 'Pozostałe' w tej gałęzi jest najlepszym wyborem."
+    },
+    {
+        "ID_Produktu": "567415951",
+        "Nazwa_Produktu": "Szpilki do cenówek galwanizowane 8,5 cm 1,6 mm 50 szt",
+        "Poczatkowa_Sciezka_OLX": "Moda > Buty damskie > Szpilki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to szpilki do mocowania cenówek, przeznaczone do użytku w sklepach i gastronomii. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', ponieważ są to materiały eksploatacyjne dla biznesu."
+    },
+    {
+        "ID_Produktu": "567415956",
+        "Nazwa_Produktu": "Kubek plastikowy PET 300 ml 95 mm 50 szt Paccor",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Kubki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to plastikowe kubki jednorazowego użytku przeznaczone głównie do kawiarni, food trucków i sprzedaży na wynos, co klasyfikuje je jako profesjonalne pojemniki gastronomiczne. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Zastawa stołowa > Kubki' jest przeznaczona dla kubków wielokrotnego użytku do użytku domowego, a nie dla produktów jednorazowych w kontekście gastronomicznym."
+    },
+    {
+        "ID_Produktu": "567415962",
+        "Nazwa_Produktu": "Pudełko sushi papierowe 32x32x5 czarne lakierowane Hersta 50 szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to papierowe pudełko na sushi przeznaczone dla restauracji, cateringu i sprzedaży na wynos, co jednoznacznie wskazuje na zastosowanie gastronomiczne i komercyjne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu, w przeciwieństwie do ogólnej kategorii 'Pudełka' w dziale 'Dom i Ogród', która sugerowałaby zastosowanie domowe."
+    },
+    {
+        "ID_Produktu": "567415976",
+        "Nazwa_Produktu": "Pudełko sushi papierowe 25x25x5 czarne lakierowane Hersta 50 szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to papierowe pudełko na sushi przeznaczone do użytku w restauracjach, cateringu i sprzedaży na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i semantycznie dopasowanym wyborem, ponieważ produkt jest pojemnikiem używanym w branży gastronomicznej. Sugerowana kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i odnosi się raczej do pudełek domowego użytku, a nie profesjonalnych opakowań gastronomicznych."
     }
 ]
