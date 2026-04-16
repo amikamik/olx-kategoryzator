@@ -9228,5 +9228,65 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to lunch box wykonany z pulpy trzcinowej, przeznaczony do pakowania posiłków na wynos. Opis produktu wyraźnie wskazuje na jego zastosowanie w gastronomii, cateringu, barach i food truckach, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "567415469",
+        "Nazwa_Produktu": "Pojemnik cukierniczy Alipack K80NC 225x148x99 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalny pojemnik cukierniczy przeznaczony do użytku w cukierniach, piekarniach, gastronomii i cateringu, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
+    },
+    {
+        "ID_Produktu": "567415480",
+        "Nazwa_Produktu": "Torba papierowa z uchem 32x16x42cm 200szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Biuro > Akcesoria i materiały biurowe",
+        "Finalne_ID_AI": 4655,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to torby papierowe sprzedawane w dużej ilości, przeznaczone do użytku komercyjnego (catering, zakupy, spożywcze). Najlepiej pasującą kategorią jest 'Firma i Przemysł > Biuro > Akcesoria i materiały biurowe', ponieważ są to materiały eksploatacyjne dla firm. Sugerowana kategoria 'Dla Dzieci' jest całkowicie nieodpowiednia."
+    },
+    {
+        "ID_Produktu": "567415487",
+        "Nazwa_Produktu": "Pudełko cukiernicze karton białe 26x26x12cm 15szt pączki",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pudełko cukiernicze przeznaczone do pakowania wyrobów gastronomicznych dla cukierni, piekarni i cateringu. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', ponieważ jest to specjalistyczne opakowanie/pojemnik używany w branży gastronomicznej, co jest jasno określone w opisie produktu. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i sugeruje zastosowanie domowe, a nie komercyjne."
+    },
+    {
+        "ID_Produktu": "567415490",
+        "Nazwa_Produktu": "Worki na gruz 300L czarne 120x150cm 60 mik. LD 5szt Deal",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Worki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to worki przeznaczone do gromadzenia gruzu i odpadów budowlanych, co klasyfikuje go jako akcesorium budowlane. Kategoria 'Pozostałe' w gałęzi 'Dom i Ogród > Budowa' jest najbardziej odpowiednia, ponieważ nie ma bardziej szczegółowej kategorii dla tego typu artykułów."
+    },
+    {
+        "ID_Produktu": "567415494",
+        "Nazwa_Produktu": "Worki na gruz 160L czarne 90x110cm 82 mik. LD 10szt Deal",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Worki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to worki przeznaczone do gruzu i odpadów budowlanych, używane na budowie lub w warsztacie. Najlepiej pasującą kategorią jest 'Dom i Ogród > Budowa > Pozostałe', ponieważ worki te są materiałem pomocniczym w pracach budowlanych i remontowych, a żadna bardziej szczegółowa kategoria dla tego typu akcesoriów nie istnieje w dziale 'Budowa'. Sugerowana kategoria 'Rolnictwo > Worki' została zignorowana, gdyż jest semantycznie niezgodna z opisem produktu."
+    },
+    {
+        "ID_Produktu": "567415509",
+        "Nazwa_Produktu": "Pudełko na pączki duże 600x400x90 mm biało-szare 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pudełka kartonowe przeznaczone do pakowania i transportu wyrobów cukierniczych w piekarniach, cukierniach i gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna, ponieważ odnosi się bezpośrednio do przeznaczenia produktu w branży gastronomicznej, w przeciwieństwie do ogólnej kategorii 'Pudełka' w 'Dom i Ogród', która sugerowałaby zastosowanie domowe."
     }
 ]
