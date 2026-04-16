@@ -9108,5 +9108,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to laminowane etykiety cenowe przeznaczone do oznaczania produktów, w tym przypadku warzyw. Najlepiej pasującą kategorią jest 'Firma i Przemysł > Sklepy i magazyny', ponieważ etykiety cenowe są wykorzystywane w działalności handlowej. Ponieważ nie ma bardziej szczegółowej kategorii dla etykiet/cenówek w ramach 'Sklepy i magazyny', wybrano kategorię 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "567415031",
+        "Nazwa_Produktu": "Torba papierowa 320x160x340mm brąz ucho 200szt Enjoy be Eco",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to torby papierowe przeznaczone do pakowania zakupów i artykułów, z wyraźnym wskazaniem na zastosowanie w 'sklepach, piekarniach, punktach gastronomicznych, cateringowych, sklepach odzieżowych'. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej odpowiednia, ponieważ obejmuje szeroki zakres działalności handlowej. Podkategoria 'Pozostałe' w tej gałęzi jest właściwa dla tego typu materiałów eksploatacyjnych, które nie są głównym wyposażeniem, ale są niezbędne w codziennym funkcjonowaniu sklepów i magazynów."
+    },
+    {
+        "ID_Produktu": "567415041",
+        "Nazwa_Produktu": "Reklamówka z uchem duża Food 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to reklamówka przeznaczona do pakowania żywności i produktów gastronomicznych, używana w restauracjach, barach, cateringu i sklepach spożywczych. Kategoria 'Firma i Przemysł > Gastronomia' jest najlepiej dopasowana do przeznaczenia produktu w sektorze gastronomicznym. Ponieważ nie ma bardziej szczegółowej kategorii dla jednorazowych toreb/reklamówek w tej gałęzi, 'Pozostałe' jest najbardziej odpowiednim wyborem."
+    },
+    {
+        "ID_Produktu": "567415046",
+        "Nazwa_Produktu": "Folia do zgrzewu 62 mik PET/PP 185mm 250m",
+        "Poczatkowa_Sciezka_OLX": "Sport i Hobby > Wędkarstwo > Akcesoria wędkarskie > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to folia do zgrzewania pojemników, przeznaczona głównie dla gastronomii, cateringu i przemysłu opakowań, co jest wyraźnie zaznaczone w opisie. Najlepszym dopasowaniem jest kategoria nadrzędna 'Firma i Przemysł > Gastronomia', a ponieważ brak bardziej szczegółowej kategorii dla materiałów opakowaniowych w tej gałęzi, wybieram 'Pozostałe' w tej podkategorii."
+    },
+    {
+        "ID_Produktu": "567415231",
+        "Nazwa_Produktu": "Folia do zgrzewu 52 mik PET/PE Peel 185mm 250m",
+        "Poczatkowa_Sciezka_OLX": "Firma i Przemysł > Maszyny i urządzenia > Pozostałe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to folia do zgrzewu przeznaczona do użytku w branży gastronomicznej i cateringowej do pakowania żywności. Jest to materiał eksploatacyjny ściśle związany z działalnością gastronomiczną. Ponieważ nie ma bardziej szczegółowej kategorii dla materiałów opakowaniowych w ramach gałęzi 'Gastronomia', kategoria 'Pozostałe' w tej gałęzi jest najlepiej dopasowana."
     }
 ]
