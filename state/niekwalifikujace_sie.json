@@ -8388,5 +8388,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to papier pakowy foliowany, przeznaczony do pakowania artykułów żywnościowych w sklepach spożywczych i gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej semantycznie dopasowana, ponieważ produkt jest konsumowalnym materiałem używanym w branży gastronomicznej i spożywczej, a brak jest bardziej szczegółowej kategorii dla materiałów opakowaniowych w tym kontekście."
+    },
+    {
+        "ID_Produktu": "567412998",
+        "Nazwa_Produktu": "Pojemnik garmażeryjny KP822RCE 1500ml 50szt Guillin SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Pojemnik garmażeryjny' przeznaczony do 'gastronomii, cateringu oraz sprzedaży dań na wynos'. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i semantycznie dopasowanym wyborem, lepiej oddającym profesjonalny charakter produktu niż ogólne 'Pojemniki i przechowywanie żywności' w dziale 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "567413003",
+        "Nazwa_Produktu": "Pojemnik garmażeryjny 250ml COOK250N 80szt Guillin SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemnik garmażeryjny zaprojektowany specjalnie dla restauracji i firm cateringowych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i najlepiej odzwierciedla przeznaczenie produktu, w porównaniu do bardziej ogólnej kategorii 'Pojemniki i przechowywanie żywności' w Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "567413024",
+        "Nazwa_Produktu": "Papierowe pudełko z okienkiem 260x190x60mm 100szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to papierowe pudełko z okienkiem przeznaczone do pakowania sushi i innych dań na wynos, skierowane do przedsiębiorców (restauracji, barów sushi, cateringu). Najbardziej precyzyjną kategorią jest 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne', która idealnie oddaje przeznaczenie i charakter produktu. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i sugeruje zastosowanie domowe, podczas gdy opis jasno wskazuje na zastosowanie profesjonalne/gastronomiczne."
+    },
+    {
+        "ID_Produktu": "567413030",
+        "Nazwa_Produktu": "Pudełko na sushi 32x32x5cm czarne 50szt Enjoy be SUP",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Pudełko na sushi' przeznaczone do pakowania dań na wynos, skierowane do 'restauracji, barów sushi i firm cateringowych'. Najlepiej pasuje do kategorii 'Firma i Przemysł > Gastronomia', a w jej ramach najbardziej szczegółową i adekwatną kategorią są 'Pojemniki gastronomiczne', ponieważ pudełko na sushi jest właśnie takim pojemnikiem używanym w gastronomii. Sugestia systemowa została zignorowana ze względu na jej całkowitą nieadekwatność."
     }
 ]
