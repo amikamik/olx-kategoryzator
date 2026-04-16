@@ -3888,5 +3888,63 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567416570",
+        "Nazwa_Produktu": "Płyn Wc Hit              1250Ml",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalne_ID_AI": 4364,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Produkt 'Płyn Wc Hit' jest środkiem czyszczącym przeznaczonym do toalet. Kategoria 'Dom i Ogród > Supermarket > Środki czyszczące' jest najbardziej precyzyjnym i odpowiednim miejscem dla tego typu artykułu.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Płyn wc hit              1250ml",
+                "description": "Płyn Wc Hit 1250Ml\n\n[DEAL-BLB2B]",
+                "category_id": 4364,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 23.55,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/7972c04935441cdf76e05243b10e21d0.jpg"
+                    }
+                ],
+                "attributes": [],
+                "ad_delivery": {
+                    "delivery_package_ids": [
+                        "0509518f-6d74-45bd-aba7-ce658b784b8d",
+                        "ca67912d-9e3e-4294-abf8-e5dc93a40fe9"
+                    ]
+                }
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "description",
+                            "title": "Ta wartość jest zbyt krótka. Powinna mieć 40 lub więcej znaków.",
+                            "detail": "This value is too short. It should have 40 characters or more."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
