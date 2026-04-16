@@ -8298,5 +8298,55 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to przykrywka (wieczko) do pojemników, przeznaczona do zabezpieczania dań na wynos i do transportu dla klienta. Jest to typowy element wyposażenia gastronomicznego/cateringowego. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna, ponieważ przykrywka jest bezpośrednio związana z pojemnikami gastronomicznymi."
+    },
+    {
+        "ID_Produktu": "567412629",
+        "Nazwa_Produktu": "Wieszak ścienny na czyściwo Katrin",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wieszak/stojak na rolki przemysłowe, przeznaczony do obiektów przemysłowych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki' jest najlepiej dopasowana, ponieważ odzwierciedla zarówno typ produktu (stojak/wieszak) jak i jego przeznaczenie w kontekście komercyjnym/przemysłowym, w przeciwieństwie do ogólnej kategorii wieszaków domowych."
+    },
+    {
+        "ID_Produktu": "567412635",
+        "Nazwa_Produktu": "Stojak na czyściwo szerokość do 40 cm Katrin",
+        "Poczatkowa_Sciezka_OLX": "Elektronika > Komputery > Akcesoria komputerowe > Podkładki i stojaki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki",
+        "Finalne_ID_AI": 4678,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'Stojak na czyściwo', który jest mobilnym dozownikiem do rolek przemysłowych. Kategoria 'Firma i Przemysł > Sklepy i magazyny > Stojaki i wieszaki' jest najlepiej dopasowana, ponieważ produkt jest fizycznie stojakiem i jest przeznaczony do użytku w środowiskach przemysłowych/magazynowych, co idealnie pasuje do gałęzi 'Sklepy i magazyny'. Jest to bardziej precyzyjne niż ogólne kategorie 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "567412652",
+        "Nazwa_Produktu": "Przykrywka Guillin CVPLC350 FESTIPACK 5szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Zabawki > Figurki",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to przykrywka o wymiarach sugerujących zastosowanie w profesjonalnym opakowaniu lub pojemniku. Nazwa handlowa 'FESTIPACK' oraz producent Guillin, znany z opakowań dla branży spożywczej i gastronomicznej, wskazują na kategorię 'Pojemniki gastronomiczne' jako najbardziej precyzyjną."
+    },
+    {
+        "ID_Produktu": "567412672",
+        "Nazwa_Produktu": "Lakma pompka do kanistrów z nakrętką",
+        "Poczatkowa_Sciezka_OLX": "Motoryzacja > Części motocyklowe",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe",
+        "Finalne_ID_AI": 4858,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to pompka do kanistrów z płynami czyszczącymi i chemicznymi, przeznaczona zarówno do użytku domowego, jak i profesjonalnego (firmy sprzątające, zakłady przemysłowe). Kategoria 'Firma i Przemysł > Maszyny i urządzenia > Sprzęt czyszczący > Pozostałe' najlepiej oddaje jej przeznaczenie, jako akcesorium uzupełniające sprzęt do czyszczenia."
+    },
+    {
+        "ID_Produktu": "567412681",
+        "Nazwa_Produktu": "Lakma Profimax SPD100 1L mycie i dezynfekcja 1szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to skoncentrowany środek do mycia i dezynfekcji powierzchni, w tym tych mających kontakt z żywnością, zalecany do stosowania w obiektach objętych systemem HACCP (kuchnie, stołówki, magazyny żywnościowe, sklepy spożywcze, przemysł spożywczy). To zastosowanie jednoznacznie wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. W tej gałęzi nie ma bardziej szczegółowej podkategorii dla środków czyszczących/dezynfekujących, dlatego 'Pozostałe' jest najbardziej odpowiednim wyborem. Kategoria 'Dom i Ogród > Supermarket > Środki czyszczące' jest zbyt ogólna i sugeruje zastosowanie domowe, a nie profesjonalne/przemysłowe, co byłoby mylące."
     }
 ]
