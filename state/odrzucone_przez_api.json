@@ -3836,5 +3836,57 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567414803",
+        "Nazwa_Produktu": "Lakma Profimax LH1 5L do czyszczenia urządzeń sanitarnych",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Narzędzia ręczne",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące",
+        "Finalne_ID_AI": 4705,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczny środek chemiczny przeznaczony do czyszczenia urządzeń sanitarnych i usuwania kamienia wapiennego. Kategoria 'Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące' jest najbardziej precyzyjna, ponieważ produkt jest chemicznym preparatem do konserwacji i czyszczenia elementów budowlanych/instalacyjnych (urządzeń sanitarnych).",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Lakma profimax lh1 5l do czyszczenia urządzeń sanitarnych",
+                "description": "Lakma PROFIMAX LH1 Środek do bieżącego czyszczenia urządzeń sanitarnych 5 litrów ph 2 PROFIMAX LH 1 preparat do czyszczenia muszli klozetowych i pisuarów oraz innych powierzchni w obrębie toalet. Skutecznie zapobiega osadzaniu się kamienia wapiennego. Szczegółowy opis Połączenie kwasów, niejonowych i kationowych związków powierzchniowo czynnych oraz substancji zapachowych daje doskonały efekt myjący. LH 1 skutecznie usuwa kamień wodny, osady wapienne i mydlane. Opóźnia ponowne osiadanie zabrudzeń. Pozostawia na długo przyjemny zapach. koncentrat - 5 L skutecznie usuwa kamień wodny zapach spójny dla całej linii hotelowej Sposób użycia Koncentrat stężenie 10% - 5 L Nanieść środek na ścierkę i przetrzeć czyszczone powierzchnie. Muszla klozetowa: spryskać środkiem LH 1, rozprowadzić szczotką i pozostawić na 10 - 15 min., wyszorować i spłukać wodą. UWAGA! Nie stosować na powierzchniach wrażliwych na kwasy*. Nie mieszać ze środkami zawierającymi chlor. Informacje o bezpieczeństwie: Lakma Strefa Sp. z o.o. Ul. Gajowa 7 43-254 Warszowice Rozporządzenie nr 1272/2008 (CLP): Niebezpieczeństwo Zwroty wskazujące rodzaj zagrożenia: Aquatic Chronic 1: H410 - Działa bardzo toksycznie na organizmy wodne, powodując długotrwałe skutki. Skin Corr. 1B: H314 - Powoduje poważne oparzenia skóry oraz uszkodzenia oczu . Zwroty wskazujące środki ostrożności: P264: Dokładnie umyć ręce po użyciu. P273: Unikać uwolnienia do środowiska. P280: Stosować rękawice ochronne/odzież ochronną/ochronę oczu/obuwie ochronne. P305+P351+P338: W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Nadal płukać. P310: Natychmiast skontaktować się z OŚRODKIEM ZATRUĆ/lekarzem. P501: Zawartość/pojemnik usuwać do zbiorników zgodnie z prawem dotyczącym odpowiednio odpadów niebezpiecznych lub pojemników i odpadów w pojemnikach.\n\n[DEAL-BLB2B]",
+                "category_id": 4705,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 406.47,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/a7afbb6620a1cc8a7367a6b79fe81ac5.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]

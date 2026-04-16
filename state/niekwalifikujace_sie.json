@@ -9078,5 +9078,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to termiczny pojemnik obiadowy ze styropianu, sprzedawany w dużej ilości (125 szt.) i przeznaczony do serwowania posiłków na wynos, w cateringu oraz na imprezach masowych, co wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i adekwatna do opisu produktu."
+    },
+    {
+        "ID_Produktu": "567414858",
+        "Nazwa_Produktu": "Tacka na frytki 137x85x52mm kraft 125szt Enjoy Be Eco",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to papierowa tacka przeznaczona do serwowania fast foodu i przekąsek, z wyraźnym wskazaniem na zastosowanie w gastronomii, cateringu i street foodzie. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i semantycznie dopasowana do opisu produktu i jego przeznaczenia komercyjnego. Jest to lepszy wybór niż ogólne kategorie jednorazowych naczyń pod 'Dom i Ogród', ponieważ produkt jest dedykowany branży gastronomicznej."
+    },
+    {
+        "ID_Produktu": "567414864",
+        "Nazwa_Produktu": "Papier foliowany z nadrukiem 35x40cm biały 10kg Good Price",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to foliowany papier pakowy przeznaczony do kontaktu z żywnością, idealny do pakowania wędlin, serów i pieczywa. Jest to materiał opakowaniowy używany w branży gastronomicznej. Kategoria 'Pojemniki gastronomiczne' jest najbardziej trafnym wyborem, ponieważ ten papier pełni funkcję opakowania/pojemnika dla produktów spożywczych w kontekście gastronomicznym, a jednocześnie jest bardziej szczegółowa niż ogólna kategoria 'Pozostałe' w tej gałęzi. Sugerowana kategoria 'Dla Dzieci' jest całkowicie błędna dla tego produktu."
     }
 ]
