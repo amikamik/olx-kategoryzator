@@ -9148,5 +9148,85 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to folia do zgrzewu przeznaczona do użytku w branży gastronomicznej i cateringowej do pakowania żywności. Jest to materiał eksploatacyjny ściśle związany z działalnością gastronomiczną. Ponieważ nie ma bardziej szczegółowej kategorii dla materiałów opakowaniowych w ramach gałęzi 'Gastronomia', kategoria 'Pozostałe' w tej gałęzi jest najlepiej dopasowana."
+    },
+    {
+        "ID_Produktu": "567415256",
+        "Nazwa_Produktu": "Pojemnik cukierniczy ALI19 132x131x68 Guillin 50szt SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to 'pojemnik cukierniczy' przeznaczony do pakowania ciast, deserów i innych produktów dla cukierni, piekarni, gastronomii i cateringu. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' (ID 5076) jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu w kontekście profesjonalnym, w przeciwieństwie do ogólnych pojemników do przechowywania żywności w domu."
+    },
+    {
+        "ID_Produktu": "567415270",
+        "Nazwa_Produktu": "Pudełko papierowe na kurczaka 144x64x60 Enjoy be Eco 100szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to papierowe pudełko przeznaczone do pakowania dań typu fast food dla gastronomii, food trucków i cateringu. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ pudełko pełni funkcję pojemnika w kontekście gastronomicznym."
+    },
+    {
+        "ID_Produktu": "567415280",
+        "Nazwa_Produktu": "Torebki HDPE 18x4x35cm atestowane 10 mikrónów",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to atestowane torebki HDPE przeznaczone do pakowania żywności w sklepach, piekarniach, masarniach, warzywniakach oraz punktach gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i semantycznie dopasowana do przeznaczenia produktu w kontekście komercyjnym."
+    },
+    {
+        "ID_Produktu": "567415321",
+        "Nazwa_Produktu": "Worki na gruz 120L czarne 70x110cm 105 mik. LD 10szt Deal",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Worki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to worki przeznaczone do gruzu i odpadów budowlanych, używane na budowie. Najbardziej odpowiednią kategorią-liściem jest 'Pozostałe' w gałęzi 'Dom i Ogród > Budowa', ponieważ brakuje bardziej szczegółowej kategorii dla tego typu artykułów budowlanych. Kategoria 'Rolnictwo > Worki' jest semantycznie niepoprawna."
+    },
+    {
+        "ID_Produktu": "567415327",
+        "Nazwa_Produktu": "Worki na gruz 240L czarne 90x140cm 60 mik. LD 5szt Deal",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Worki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to worki przeznaczone do gromadzenia gruzu i odpadów budowlanych. Najlepszą kategorią jest 'Dom i Ogród > Budowa', a ponieważ nie ma bardziej szczegółowej podkategorii dla worków na gruz, 'Pozostałe' w tej gałęzi jest najbardziej odpowiednie."
+    },
+    {
+        "ID_Produktu": "567415333",
+        "Nazwa_Produktu": "Worki na gruz 300L czarne 120x150cm 60 mik. LD 5szt Deal",
+        "Poczatkowa_Sciezka_OLX": "Rolnictwo > Worki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Pozostałe",
+        "Finalne_ID_AI": 3143,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to worki przeznaczone do gruzu i odpadów budowlanych. Najlepiej pasującą kategorią jest 'Dom i Ogród > Budowa', a ponieważ nie ma bardziej szczegółowej kategorii dla worków budowlanych, wybieram 'Pozostałe' w tej gałęzi, jako akcesoria budowlane."
+    },
+    {
+        "ID_Produktu": "567415405",
+        "Nazwa_Produktu": "Papier pakowy foliowany Smacznego 35x50cm arkusze 10kg",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papier pakowy przeznaczony do kontaktu z żywnością, używany do pakowania produktów gastronomicznych na wynos (pieczywo, kanapki, wyroby garmażeryjne, ciasta). Opis wyraźnie wskazuje na zastosowanie w lokalach gastronomicznych, piekarniach, cukierniach, food truckach i cateringu. Kategoria 'Firma i Przemysł > Gastronomia' jest najbardziej odpowiednią gałęzią ze względu na przeznaczenie produktu dla biznesów w branży spożywczej. W ramach tej gałęzi, 'Pojemniki gastronomiczne' najlepiej opisuje funkcję produktu, mimo że jest to papier, ponieważ służy do pakowania i przechowywania żywności na wynos, pełniąc rolę pojemnika."
+    },
+    {
+        "ID_Produktu": "567415434",
+        "Nazwa_Produktu": "Menubox 230x156 niedzielony pulpa trzcinowa Clarina 50szt.",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to lunch box wykonany z pulpy trzcinowej, przeznaczony do pakowania posiłków na wynos. Opis produktu wyraźnie wskazuje na jego zastosowanie w gastronomii, cateringu, barach i food truckach, co idealnie pasuje do kategorii 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne'."
     }
 ]
