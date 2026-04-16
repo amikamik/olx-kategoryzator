@@ -9488,5 +9488,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to papierowe pudełko na sushi przeznaczone do użytku w restauracjach, cateringu i sprzedaży na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i semantycznie dopasowanym wyborem, ponieważ produkt jest pojemnikiem używanym w branży gastronomicznej. Sugerowana kategoria 'Dom i Ogród > Wyposażenie wnętrz > Pudełka' jest zbyt ogólna i odnosi się raczej do pudełek domowego użytku, a nie profesjonalnych opakowań gastronomicznych."
+    },
+    {
+        "ID_Produktu": "567416112",
+        "Nazwa_Produktu": "Pokrywka PP W2/001C Guillin 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pokrywka przeznaczona do pojemników gastronomicznych, używana w gastronomii, cateringu i sprzedaży dań na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i semantycznie dopasowanym miejscem dla tego typu akcesorium, ściśle związanego z pojemnikami gastronomicznymi. Systemowa wskazówka 'Dom i Ogród > Narzędzia > Osprzęt do narzędzi' została zignorowana, ponieważ jest całkowicie niezwiązana z produktem."
+    },
+    {
+        "ID_Produktu": "567416116",
+        "Nazwa_Produktu": "Ż*Pistolet Zraszający 10 Funkcji",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Elektronarzędzia > Pistolety",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to 'pistolet zraszający', który jest narzędziem służącym do nawadniania. Kategoria 'Nawadnianie' w gałęzi 'Dom i Ogród > Ogród' jest najbardziej precyzyjnym i semantycznie dopasowanym wyborem dla tego typu przedmiotu, lepiej niż ogólne 'Narzędzia ręczne' czy mylące 'Elektronarzędzia > Pistolety'."
+    },
+    {
+        "ID_Produktu": "567416136",
+        "Nazwa_Produktu": "Torba papierowa brązowa 260x140x300mm 70g 250szt Enyoj be E",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papierowa torba przeznaczona do użytku w sklepach, punktach gastronomicznych i firmach cateringowych, co wskazuje na zastosowanie komercyjne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ torba papierowa pełni funkcję pojemnika/opakowania w tym kontekście. Ignoruję podpowiedź systemową, gdyż jest całkowicie błędna semantycznie."
     }
 ]
