@@ -8218,5 +8218,25 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to pojemnik garmażeryjny na zupę sprzedawany w opakowaniu 50 sztuk, co wskazuje na zastosowanie profesjonalne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu, w przeciwieństwie do ogólnych pojemników do przechowywania żywności w dziale Dom i Ogród."
+    },
+    {
+        "ID_Produktu": "567412186",
+        "Nazwa_Produktu": "Wieczko z pulpy 90mm FSC Wood Fiber 50szt Enjoy",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wieczko z pulpy przeznaczone głównie dla branży gastronomicznej do kubków na napoje na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ wieczko jest elementem pojemnika używanego w gastronomii. Jest to bardziej precyzyjne niż ogólne kategorie jednorazowe czy pozostałe."
+    },
+    {
+        "ID_Produktu": "567412447",
+        "Nazwa_Produktu": "Foremka aluminiowa 159x109 310ml z deklem 100szt ^",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły plastyczne > Pozostałe Artykuły plastyczne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to aluminiowa foremka z deklem, której opis wyraźnie wskazuje na zastosowanie w gastronomii i barach szybkiej obsługi do dań na wynos. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu jako opakowania dla profesjonalnych zastosowań kulinarnych, w przeciwieństwie do kategorii dla domowych przyborów kuchennych."
     }
 ]
