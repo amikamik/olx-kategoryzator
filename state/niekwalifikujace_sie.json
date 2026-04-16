@@ -8698,5 +8698,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to pojemniki do zgrzewu, które są wyraźnie przeznaczone dla gastronomii, cateringu i firm oferujących dania na wynos, co jest wielokrotnie podkreślone w opisie. Duża ilość (320 sztuk) oraz wzmianka o opłacie SUP (Single Use Plastics) dodatkowo wskazują na zastosowanie profesjonalne/komercyjne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółowa i trafna dla tego typu produktu, lepiej oddając jego przeznaczenie niż ogólna kategoria do użytku domowego, nawet jeśli sugerowana ścieżka prowadzi do 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "567413811",
+        "Nazwa_Produktu": "Koperta na Hot-Dog 220x75 kraft foliowana 200szt Kiel-Pak",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to specjalistyczna koperta papierowa przeznaczona do serwowania hot-dogów i innych przekąsek na wynos, z powłoką zapobiegającą przesiąkaniu. Jest to typ pojemnika używanego w punktach gastronomicznych, food truckach i piekarniach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu w kontekście profesjonalnej gastronomii. Kategoria 'Pozostałe' w tej samej gałęzi byłaby zbyt ogólna. Podpowiedź systemowa została zignorowana, ponieważ wyraźnie nie pasowała do charakteru produktu."
+    },
+    {
+        "ID_Produktu": "567413824",
+        "Nazwa_Produktu": "Pojemnik cukierniczy ALI10 206x156x70mm 50szt Guillin SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemniki cukiernicze przeznaczone do przechowywania i transportu żywności, z wyraźnym wskazaniem na wykorzystanie w cukierniach, piekarniach, firmach cateringowych i restauracjach. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje profesjonalne przeznaczenie produktu, w przeciwieństwie do ogólnych pojemników do przechowywania żywności w domu."
+    },
+    {
+        "ID_Produktu": "567413827",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu MAPCOR22730DC 80szt Guillin SUP",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemniki do zgrzewu, dedykowane dla gastronomii, firm cateringowych i zakładów przetwórstwa spożywczego. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu, w przeciwieństwie do ogólnych pojemników do przechowywania żywności w kategorii 'Dom i Ogród'."
     }
 ]
