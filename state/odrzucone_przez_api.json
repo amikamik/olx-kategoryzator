@@ -3628,5 +3628,57 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567413637",
+        "Nazwa_Produktu": "Ecoshine Hard Floor 5L",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące",
+        "Finalne_ID_AI": 4705,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pianowy środek do mycia silnie zabrudzonych powierzchni wodoodpornych i zasadoodpornych, takich jak glazura, terakota, płytki gresowe. Ze względu na jego specjalistyczne zastosowanie do trudnych zabrudzeń i typów powierzchni (często spotykanych w budownictwie), kategoria 'Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące' jest bardziej precyzyjna niż ogólne 'Dom i Ogród > Supermarket > Środki czyszczące'.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Ecoshine hard floor 5l",
+                "description": "Ecoshine Hard Floor 5 litrów Pianowy środek do mycia powierzchni silnie zabrudzonych, zatłuszczonych, zaolejonych. Preparat do mycia silnie zabrudzonych powierzchni wodoodpornych i zasadoodpornych (np. laminat, glazura, terakota, lastrico, linoleum, płytki gresowe). Doskonale czyści zatłuszczone powierzchnie. Nie nadaje się do mycia powierzchni drewnianych lakierowanych oraz paneli. Sposób użycia i dozowania: W zależności od stopnia zabrudzenia od 25 - 100 ml/10 litrów wody. W przypadku silnego zabrudzenia można użyć preparat nierozcieńczony.\n\n[DEAL-BLB2B]",
+                "category_id": 4705,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 191.11,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/3affdc239a2da083c765fcffeed5b2aa.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
