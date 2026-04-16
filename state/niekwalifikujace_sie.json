@@ -8438,5 +8438,25 @@
         "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
         "Ocena_Pewnosci_AI": "100%",
         "Uzasadnienie_AI": "Produkt to 'matryca ramka do zgrzewarki', co jest częścią do maszyny. Kategoria 'Firma i Przemysł > Części do maszyn i urządzeń' idealnie odpowiada temu opisowi i jest kategorią-liściem."
+    },
+    {
+        "ID_Produktu": "567413164",
+        "Nazwa_Produktu": "Reklamówka 25x43 HDPE biała 12 mic MAG",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to reklamówki przeznaczone do pakowania produktów w sklepach, co wskazuje na zastosowanie komercyjne. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej odpowiednia dla tego typu artykułów. Ponieważ nie ma bardziej szczegółowej kategorii dla samych reklamówek w tej gałęzi, wybrano 'Pozostałe'."
+    },
+    {
+        "ID_Produktu": "567413172",
+        "Nazwa_Produktu": "Reklamówka 30x55 HDPE biała 40mic. 50szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to reklamówki używane do pakowania zakupionych produktów w sklepach. Kategoria 'Firma i Przemysł > Sklepy i magazyny' jest najbardziej odpowiednia dla artykułów eksploatacyjnych dla handlu, a 'Pozostałe' w tej gałęzi jest najlepszym dopasowaniem, ponieważ nie ma bardziej szczegółowej kategorii dla toreb na zakupy."
     }
 ]
