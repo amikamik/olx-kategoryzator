@@ -8348,5 +8348,45 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to skoncentrowany środek do mycia i dezynfekcji powierzchni, w tym tych mających kontakt z żywnością, zalecany do stosowania w obiektach objętych systemem HACCP (kuchnie, stołówki, magazyny żywnościowe, sklepy spożywcze, przemysł spożywczy). To zastosowanie jednoznacznie wskazuje na kategorię 'Firma i Przemysł > Gastronomia'. W tej gałęzi nie ma bardziej szczegółowej podkategorii dla środków czyszczących/dezynfekujących, dlatego 'Pozostałe' jest najbardziej odpowiednim wyborem. Kategoria 'Dom i Ogród > Supermarket > Środki czyszczące' jest zbyt ogólna i sugeruje zastosowanie domowe, a nie profesjonalne/przemysłowe, co byłoby mylące."
+    },
+    {
+        "ID_Produktu": "567412759",
+        "Nazwa_Produktu": "Food box 700ml 10,5x7x8,5cm kraft 50szt Papstar",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Pozostałe Artykuły szkolne",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pojemniki na lunch z kartonu, przeznaczone do serwowania dań na wynos, co jest typowe dla branży gastronomicznej i cateringowej, o czym wyraźnie mówi opis. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i bezpośrednio odpowiada zastosowaniu produktu."
+    },
+    {
+        "ID_Produktu": "567412768",
+        "Nazwa_Produktu": "Papier pakowy foliowany PE22+8 30x40 wędliny 1000",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papier pakowy foliowany, przeznaczony do pakowania artykułów żywnościowych (wędlin, serów, owoców) z atestem do styczności z żywnością, stosowany głównie w sklepach spożywczych i gastronomii. Najbardziej odpowiednią kategorią jest 'Firma i Przemysł > Gastronomia'. Ponieważ nie ma bardziej szczegółowej kategorii dla materiałów opakowaniowych w tej gałęzi, wybór 'Pozostałe' w ramach 'Gastronomia' jest najbardziej trafny."
+    },
+    {
+        "ID_Produktu": "567412772",
+        "Nazwa_Produktu": "Papier pakowy foliowany PE22+8 30x40 biały 1000szt",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papier pakowy foliowany, przeznaczony do pakowania artykułów żywnościowych, z zastosowaniem głównie w sklepach spożywczych i gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najlepiej dopasowana, ponieważ bezpośrednio odnosi się do branży gastronomicznej i spożywczej, gdzie produkt znajduje swoje główne zastosowanie. Mimo że jest to kategoria 'Pozostałe', znajduje się w najbardziej semantycznie trafnej gałęzi drzewa kategorii, co czyni ją lepszym wyborem niż ogólne kategorie 'Pozostałe' lub kategorie związane z artykułami biurowymi czy domowym użytkiem."
+    },
+    {
+        "ID_Produktu": "567412777",
+        "Nazwa_Produktu": "Papier pakowy foliowany PE31+9 30x40cm",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pozostałe",
+        "Finalne_ID_AI": 5071,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to papier pakowy foliowany, przeznaczony do pakowania artykułów żywnościowych w sklepach spożywczych i gastronomii. Kategoria 'Firma i Przemysł > Gastronomia > Pozostałe' jest najbardziej semantycznie dopasowana, ponieważ produkt jest konsumowalnym materiałem używanym w branży gastronomicznej i spożywczej, a brak jest bardziej szczegółowej kategorii dla materiałów opakowaniowych w tym kontekście."
     }
 ]
