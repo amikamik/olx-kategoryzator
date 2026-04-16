@@ -8728,5 +8728,115 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "98%",
         "Uzasadnienie_AI": "Produkt to pojemniki do zgrzewu, dedykowane dla gastronomii, firm cateringowych i zakładów przetwórstwa spożywczego. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu, w przeciwieństwie do ogólnych pojemników do przechowywania żywności w kategorii 'Dom i Ogród'."
+    },
+    {
+        "ID_Produktu": "567413853",
+        "Nazwa_Produktu": "Pojemnik garmazeryjny 227x178x90 PP 420szt KGL",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemnik garmażeryjny, przeznaczony do przechowywania i transportu produktów spożywczych oraz przemysłowych, z wyraźnym wskazaniem na zastosowanie w gastronomii, produkcji i logistyce. Sprzedaż w ilości 420 sztuk również sugeruje zastosowanie profesjonalne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej precyzyjnym i trafnym wyborem, lepiej oddającym charakter produktu niż kategoria przeznaczona dla gospodarstw domowych."
+    },
+    {
+        "ID_Produktu": "567414091",
+        "Nazwa_Produktu": "Dozownik Wody Do Roślin 16Szt Nawadnianie",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Nawadnianie",
+        "Finalne_ID_AI": 1637,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to dozownik wody do roślin, służący do automatycznego nawadniania. Kategoria 'Dom i Ogród > Ogród > Nawadnianie' jest idealnym i najbardziej precyzyjnym dopasowaniem, zgodnym zarówno z tytułem, opisem, jak i sugerowaną ścieżką."
+    },
+    {
+        "ID_Produktu": "567414122",
+        "Nazwa_Produktu": "Enjoy Butelka rPET 300ml kwadratowa z nakrętką 175szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Sklepy i magazyny > Pozostałe",
+        "Finalne_ID_AI": 4681,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to butelki rPET sprzedawane w dużej ilości (175 sztuk) i przeznaczone do pakowania różnorodnych płynów dla firm (soki, kosmetyki, chemia gospodarcza), co wskazuje na zastosowanie komercyjne/przemysłowe. Kategoria 'Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony' odnosi się do produktów konsumenckich, a nie opakowań hurtowych dla biznesu. Najlepszym dopasowaniem w dostępnym drzewie kategorii jest 'Firma i Przemysł > Sklepy i magazyny > Pozostałe', ponieważ butelki te są towarem do użytku w kontekście handlowym/magazynowym."
+    },
+    {
+        "ID_Produktu": "567414128",
+        "Nazwa_Produktu": "Enjoy Butelka rPET 250ml kwadratowa z nakrętką 182szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "90%",
+        "Uzasadnienie_AI": "Produkt to butelka (pojemnik) przeznaczona dla firm z różnych branż, w tym gastronomicznej i cateringowej. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najbardziej szczegółową i najlepiej dopasowaną kategorią liściową dla tego typu produktu w kontekście biznesowym, pomimo że butelka ma również zastosowanie w branży kosmetycznej i chemicznej, dla których brak jest bardziej precyzyjnych kategorii pojemników. Kategoria z podpowiedzi ('Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Butelki i bidony') została zignorowana, ponieważ produkt jest przeznaczony do zastosowań przemysłowych/biznesowych, a nie domowych."
+    },
+    {
+        "ID_Produktu": "567414147",
+        "Nazwa_Produktu": "Tacka na frytki 14,5x8x5,5cm kraft-biała 100szt Abc-Pak",
+        "Poczatkowa_Sciezka_OLX": "Dla Dzieci > Artykuły szkolne > Artykuły papiernicze > Pozostałe Artykuły papiernicze",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to jednorazowe tacki kartonowe przeznaczone do serwowania frytek i innych dań typu fast food w lokalach gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ tacka pełni funkcję pojemnika w kontekście gastronomicznym. Hint dotyczący artykułów papierniczych dla dzieci jest całkowicie nieadekwatny i został zignorowany."
+    },
+    {
+        "ID_Produktu": "567414153",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu Guillin MAPCOR3C22750DC 80szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to pojemniki/tacki przeznaczone do pakowania żywności, z wyraźnym wskazaniem na zastosowanie w gastronomii, cateringu i sklepach spożywczych. Kategoria 'Pojemniki gastronomiczne' w dziale 'Firma i Przemysł' jest najlepiej dopasowana semantycznie do profesjonalnego zastosowania produktu."
+    },
+    {
+        "ID_Produktu": "567414159",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu Guillin MAPCOR2C22750DC 80szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to profesjonalne tacki/pojemniki plastikowe przeznaczone do pakowania żywności w gastronomii i cateringu. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest idealnie dopasowana do zastosowania produktu w sektorze profesjonalnym."
+    },
+    {
+        "ID_Produktu": "567414167",
+        "Nazwa_Produktu": "Pojemnik do zgrzewu Guillin MAPCOR22750DC 80szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Pojemniki i przechowywanie żywności",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to tacka/pojemnik przeznaczony do pakowania żywności w systemie MAP, z wyraźnym wskazaniem na zastosowanie w branży gastronomicznej (\"produkty gastronomiczne\", \"dla firm\"). Kategoria \"Pojemniki gastronomiczne\" jest najbardziej precyzyjna i najlepiej oddaje przeznaczenie produktu w kontekście biznesowym, w przeciwieństwie do kategorii dla użytku domowego."
+    },
+    {
+        "ID_Produktu": "567414177",
+        "Nazwa_Produktu": "Pudełko na pizzę Enjoy Be Eco 32x3,5cm białe 100szt ścięte",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Pudełka",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Produkt to pudełka na pizzę, które są przeznaczone dla pizzerii, food trucków i firm cateringowych, co wskazuje na zastosowanie gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest idealnie dopasowana do tego typu produktu, precyzyjniej niż ogólna kategoria 'Pudełka' w 'Wyposażeniu wnętrz'."
+    },
+    {
+        "ID_Produktu": "567414183",
+        "Nazwa_Produktu": "Folia aluminiowa gruba gastronomiczna 290mm 1szt Clarina",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Wyposażenie wnętrz > Przybory kuchenne > Garnki i patelnie",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt jest wyraźnie opisany jako 'folia aluminiowa gastronomiczna' przeznaczona do 'zastosowań gastronomicznych, cateringu i kuchni profesjonalnej'. Pełni funkcję pakowania i przechowywania żywności, co najlepiej pasuje do kategorii 'Pojemniki gastronomiczne' w gałęzi 'Firma i Przemysł > Gastronomia', zamiast ogólnych przyborów kuchennych dla domu."
+    },
+    {
+        "ID_Produktu": "567414233",
+        "Nazwa_Produktu": "Przykrywka wypukła z otworem do kubka śr.78 50szt Paccor",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Narzędzia > Osprzęt do narzędzi",
+        "Finalna_Sciezka_AI": "Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne",
+        "Finalne_ID_AI": 5076,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to wieczko kopułkowe do kubków PET, przeznaczone do serwowania napojów i deserów na wynos w kawiarniach, barach, food truckach i punktach gastronomicznych. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ produkt stanowi akcesorium do pojemników używanych w gastronomii, a opis wyraźnie wskazuje na zastosowanie komercyjne."
     }
 ]

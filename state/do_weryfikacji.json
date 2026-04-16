@@ -6385,5 +6385,15 @@
         "Czy_Zmieniono_Kategorie": "NIE",
         "Ocena_Pewnosci_AI": "0%",
         "Uzasadnienie_AI": "Błąd parsowania odpowiedzi JSON od LLM."
+    },
+    {
+        "ID_Produktu": "567414239",
+        "Nazwa_Produktu": "Wkład do mopa Vileda CombiSpeed Pro rTrio 40cm 1szt",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Brak ID od AI",
+        "Finalne_ID_AI": "Brak",
+        "Czy_Zmieniono_Kategorie": "NIE",
+        "Ocena_Pewnosci_AI": "0%",
+        "Uzasadnienie_AI": "Brak odpowiedzi od AI."
     }
 ]

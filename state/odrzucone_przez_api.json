@@ -3680,5 +3680,57 @@
                 }
             }
         }
+    },
+    {
+        "ID_Produktu": "567414103",
+        "Nazwa_Produktu": "Lakma Profimax SP180 SMOG 5L mycie smolistych zabrudzeń",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Supermarket > Środki czyszczące",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące",
+        "Finalne_ID_AI": 4705,
+        "Czy_Zmieniono_Kategorie": "TAK",
+        "Ocena_Pewnosci_AI": "95%",
+        "Uzasadnienie_AI": "Produkt to skoncentrowany preparat do profesjonalnego czyszczenia smolistych i tłuszczowych zabrudzeń z komór wędzarniczych, piekarników i kominków. Ze względu na jego specjalistyczny i profesjonalny charakter (wskazany w opisie), kategoria 'Dom i Ogród > Budowa > Chemia budowlana > Środki czyszczące' jest bardziej odpowiednia niż ogólna kategoria 'Supermarket', która sugeruje produkty codziennego użytku.",
+        "api_error": {
+            "komunikat": "Żądanie odrzucone przez API OLX z kodem 400",
+            "wyslany_payload": {
+                "title": "Lakma profimax sp180 smog 5l mycie smolistych zabrudzeń",
+                "description": "Lakma PROFIMAX SP 180 SMOG Gruntowne mycie smolistych zabrudzeń - 5 litrów PROFIMAX SP 180 SMOG- do mycia komór wędzarniczych, piekarników i kominków Szczegółowy opis SP 180 SMOG to skoncentrowany preparat do czyszczenia komór wędzarniczych, rusztów, grilli, piekarników, kominków, piecyków. Skutecznie usuwa przypalone zanieczyszczenia tłuszczowe i smoliste (zwęglone węglowodany, białka, tłuszcze) pozostawiając powierzchnie czysta. - skuteczne usuwanie zabrudzeń tłuszczowych - zalecany w warunkach przemysłowych - posiada neutralny zapach. Sposób użycia ZASTOSOWANIE/DOZOWANIE: Bieżące mycie: stężenie 5-10% roztwór, czas działania ok 30 min. Nawarstwione tłuszcze: stężenie 30-40% roztwór, czas działania ok 30 min. Odtłuszczanie: stężenie 10-20% roztwór, czas działania 2-5 min. Metoda zanurzeniowa lub natryskowa (pianowa): stężenie 30 -40 % roztwór, czas działania ok. 30 min. Produkt do zastosowania profesjonalnego. Efektywne działanie osiąga się stosując wodę o temperaturze od 40 C do 60C. Po zakończeniu prac powierzchnie należy starannie spłukać czysta woda PRZECHOWYWANIE: Magazynować tylko w oryginalnych opakowaniach, szczelnie zamkniętych, w pozycji pionowej, w temperaturze od +5C do + 25C, 24 miesiące od daty produkcji.\n\n[DEAL-BLB2B]",
+                "category_id": 4705,
+                "advertiser_type": "private",
+                "contact": {
+                    "name": "Amadeusz",
+                    "phone": "530790357"
+                },
+                "location": {
+                    "city_id": 20327,
+                    "district_id": null
+                },
+                "price": {
+                    "value": 146.41,
+                    "currency": "PLN"
+                },
+                "images": [
+                    {
+                        "url": "https://upload.cdn.baselinker.com/products/5073254/3e973ff503fd5294f8258b330d17060a.jpg"
+                    }
+                ],
+                "attributes": []
+            },
+            "odpowiedz_serwera": {
+                "error": {
+                    "status": 400,
+                    "code": 400,
+                    "title": "Invalid request",
+                    "detail": "Data validation error occurred",
+                    "validation": [
+                        {
+                            "field": "category_id",
+                            "title": "The category is invalid or disabled to be posted in.",
+                            "detail": "The category is invalid or disabled to be posted in."
+                        }
+                    ]
+                }
+            }
+        }
     }
 ]
