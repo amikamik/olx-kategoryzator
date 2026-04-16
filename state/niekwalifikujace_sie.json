@@ -9518,5 +9518,35 @@
         "Czy_Zmieniono_Kategorie": "TAK",
         "Ocena_Pewnosci_AI": "95%",
         "Uzasadnienie_AI": "Produkt to papierowa torba przeznaczona do użytku w sklepach, punktach gastronomicznych i firmach cateringowych, co wskazuje na zastosowanie komercyjne/gastronomiczne. Kategoria 'Firma i Przemysł > Gastronomia > Pojemniki gastronomiczne' jest najlepiej dopasowana, ponieważ torba papierowa pełni funkcję pojemnika/opakowania w tym kontekście. Ignoruję podpowiedź systemową, gdyż jest całkowicie błędna semantycznie."
+    },
+    {
+        "ID_Produktu": "567416151",
+        "Nazwa_Produktu": "Ż*Kosz Do Grillowania 30*30Cm",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Ogród > Grill",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Ogród > Grill",
+        "Finalne_ID_AI": 1633,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł i opis produktu jasno wskazują na 'kosz do grillowania', co idealnie pasuje do kategorii 'Grill' w drzewie 'Dom i Ogród > Ogród'."
+    },
+    {
+        "ID_Produktu": "567416171",
+        "Nazwa_Produktu": "Ż*Wieszak Ścienny 6 Haczyków Biały",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "100%",
+        "Uzasadnienie_AI": "Tytuł produktu 'Ż*Wieszak Ścienny 6 Haczyków Biały' bezpośrednio wskazuje na kategorię 'Wieszaki' w dziale 'Dom i Ogród > Meble'. Kategoria 1948 jest kategorią-liściem i idealnie pasuje do opisu produktu."
+    },
+    {
+        "ID_Produktu": "567416204",
+        "Nazwa_Produktu": "Ż*Wieszak Na Drzwi 6 Haków 4,5Cm Cza",
+        "Poczatkowa_Sciezka_OLX": "Dom i Ogród > Meble > Wieszaki",
+        "Finalna_Sciezka_AI": "Dom i Ogród > Meble > Wieszaki",
+        "Finalne_ID_AI": 1948,
+        "Czy_Zmieniono_Kategorie": "Kategoria nie została zmieniona",
+        "Ocena_Pewnosci_AI": "98%",
+        "Uzasadnienie_AI": "Tytuł produktu jednoznacznie wskazuje na 'wieszak'. Kategoria 'Dom i Ogród > Meble > Wieszaki' jest najbardziej szczegółowa i najlepiej pasująca."
     }
 ]
