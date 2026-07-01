@@ -1,0 +1,58 @@
+name: Test OLX API Connection
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: deal_oracle
+          sparse-checkout: |
+            scripts/refresh_token.py
+          sparse-checkout-cone-mode: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Refresh OLX token
+        id: refresh
+        env:
+          OLX_CLIENT_ID: ${{ secrets.OLX_CLIENT_ID }}
+          OLX_CLIENT_SECRET: ${{ secrets.OLX_CLIENT_SECRET }}
+          OLX_REFRESH_TOKEN: ${{ secrets.OLX_REFRESH_TOKEN }}
+        run: |
+          NEW_TOKEN=$(python scripts/refresh_token.py)
+          echo "::add-mask::$NEW_TOKEN"
+          echo "access_token=$NEW_TOKEN" >> "$GITHUB_OUTPUT"
+          echo "REFRESH_OK=true" >> "$GITHUB_ENV"
+
+      - name: Verify OLX API
+        env:
+          ACCESS_TOKEN: ${{ steps.refresh.outputs.access_token }}
+        run: |
+          python << 'PY'
+          import os, requests, json
+          token = os.environ["ACCESS_TOKEN"]
+          headers = {"Authorization": f"Bearer {token}", "Version": "2.0"}
+          r = requests.get("https://www.olx.pl/api/partner/users/me", headers=headers, timeout=20)
+          print(f"users/me status: {r.status_code}")
+          r.raise_for_status()
+          user = r.json().get("data", r.json())
+          print(f"OLX_USER_ID={user.get('id')}")
+          print(f"OLX_USER_NAME={user.get('name')}")
+          print(f"OLX_USER_STATUS={user.get('status')}")
+          cr = requests.get("https://www.olx.pl/api/partner/categories", headers=headers, timeout=20)
+          print(f"categories status: {cr.status_code}")
+          cats = cr.json().get("data", [])
+          print(f"CATEGORIES_COUNT={len(cats)}")
+          PY
